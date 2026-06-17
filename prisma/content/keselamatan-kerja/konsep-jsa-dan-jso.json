@@ -1,0 +1,1523 @@
+{
+  "topic": "Konsep JSA dan JSO",
+  "order": 4,
+  "description": "Job Safety Analysis (JSA) dan Job Safety Observation (JSO) adalah dua metode identifikasi bahaya dan pengendalian risiko di tempat kerja. JSA berfokus menganalisis bahaya sebelum pekerjaan dimulai, sedangkan JSO mengamati perilaku dan kondisi kerja saat pekerjaan sedang berlangsung.",
+  "subtopics": [
+    "Definisi JSA",
+    "Tujuan dan Manfaat JSA",
+    "Langkah Pembuatan JSA",
+    "Pembuat JSA",
+    "Definisi dan Tujuan JSO",
+    "Perbedaan JSA dan JSO",
+    "Waktu Pelaksanaan",
+    "Hierarki Pengendalian Risiko"
+  ],
+  "questions": [
+    {
+      "text": "Apa kepanjangan dari JSA dalam konteks keselamatan kerja?",
+      "explanation": "JSA adalah singkatan dari Job Safety Analysis, yaitu metode untuk mengidentifikasi potensi bahaya pada setiap langkah kerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Job Standard Audit", "isCorrect": false },
+        { "text": "B. Job Safety Analysis", "isCorrect": true },
+        { "text": "C. Job Safety Assessment", "isCorrect": false },
+        { "text": "D. Joint Safety Action", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA adalah sebuah metode yang digunakan untuk?",
+      "explanation": "JSA adalah metode untuk mengidentifikasi potensi bahaya yang terdapat dalam setiap langkah kerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Menghitung biaya kecelakaan kerja", "isCorrect": false },
+        { "text": "B. Mengidentifikasi potensi bahaya dalam setiap langkah kerja", "isCorrect": true },
+        { "text": "C. Mengukur tingkat kebisingan di area kerja", "isCorrect": false },
+        { "text": "D. Menilai kinerja produktivitas pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA berfokus pada identifikasi bahaya pada saat?",
+      "explanation": "JSA berfokus pada identifikasi bahaya sebelum insiden terjadi, sehingga bersifat pencegahan.",
+      "difficulty": "EASY",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Setelah insiden terjadi", "isCorrect": false },
+        { "text": "B. Sebelum insiden terjadi", "isCorrect": true },
+        { "text": "C. Saat audit tahunan", "isCorrect": false },
+        { "text": "D. Hanya ketika ada inspeksi pemerintah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keterkaitan apa yang menjadi perhatian utama dalam JSA?",
+      "explanation": "JSA memperhatikan keterkaitan antara manusia, pekerjaan, alat kerja, dan lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Manusia, pekerjaan, alat kerja, dan lingkungan kerja", "isCorrect": true },
+        { "text": "B. Hanya manusia dan mesin", "isCorrect": false },
+        { "text": "C. Hanya pekerjaan dan biaya", "isCorrect": false },
+        { "text": "D. Manajemen dan keuangan perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam JSA, setiap pekerjaan dibahas secara detail kemudian dilakukan hal berikut, kecuali?",
+      "explanation": "Dalam JSA, setiap pekerjaan dibahas detail, dipetakan potensi bahayanya, dan dibuatkan langkah pengendaliannya, bukan menghitung keuntungan finansial.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Dibahas secara detail", "isCorrect": false },
+        { "text": "B. Dipetakan potensi bahayanya", "isCorrect": false },
+        { "text": "C. Dihitung keuntungan finansialnya", "isCorrect": true },
+        { "text": "D. Dibuatkan langkah-langkah pengendaliannya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA termasuk dalam pendekatan analisis risiko yang bersifat?",
+      "explanation": "JSA bersifat proaktif karena dilakukan sebelum pekerjaan untuk mencegah bahaya di tingkat perencanaan.",
+      "difficulty": "EASY",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Reaktif", "isCorrect": false },
+        { "text": "B. Proaktif", "isCorrect": true },
+        { "text": "C. Korektif setelah kejadian", "isCorrect": false },
+        { "text": "D. Insidental", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa output utama dari proses JSA?",
+      "explanation": "Output JSA adalah Dokumen JSA berupa prosedur langkah-demi-langkah, bahaya, dan pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Laporan observasi perilaku", "isCorrect": false },
+        { "text": "B. Dokumen JSA berisi langkah kerja, bahaya, dan pengendalian", "isCorrect": true },
+        { "text": "C. Data statistik kecelakaan tahunan", "isCorrect": false },
+        { "text": "D. Sertifikat kelulusan pelatihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA paling tepat digambarkan sebagai metode untuk membuat?",
+      "explanation": "JSA bertujuan membuat prosedur kerja yang aman dengan memecah tugas menjadi langkah sederhana dan mengidentifikasi bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Anggaran keselamatan perusahaan", "isCorrect": false },
+        { "text": "B. Prosedur kerja yang aman", "isCorrect": true },
+        { "text": "C. Jadwal produksi harian", "isCorrect": false },
+        { "text": "D. Struktur organisasi P2K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang BENAR tentang JSA?",
+      "explanation": "JSA membahas setiap pekerjaan secara detail dan memetakan potensi bahayanya sebelum pekerjaan dilakukan.",
+      "difficulty": "EASY",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. JSA dilakukan hanya setelah kecelakaan", "isCorrect": false },
+        { "text": "B. JSA memetakan potensi bahaya tiap langkah kerja sebelum bekerja", "isCorrect": true },
+        { "text": "C. JSA hanya mengamati perilaku pekerja", "isCorrect": false },
+        { "text": "D. JSA tidak menghasilkan dokumen apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan utama JSA adalah?",
+      "explanation": "Tujuan utama JSA adalah mengidentifikasi bahaya untuk mencegah terjadinya kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Meningkatkan harga jual produk", "isCorrect": false },
+        { "text": "B. Mencegah terjadinya kecelakaan kerja", "isCorrect": true },
+        { "text": "C. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "D. Menambah jam lembur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagaimana JSA dapat membantu membangun safety culture?",
+      "explanation": "JSA mendorong berbagai pihak, terutama pekerja, untuk berperan aktif dalam pembuatannya sehingga lebih aware terhadap bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Dengan menghukum pekerja yang lalai", "isCorrect": false },
+        { "text": "B. Dengan melibatkan pekerja sehingga lebih aware terhadap bahaya", "isCorrect": true },
+        { "text": "C. Dengan menambah jumlah APD", "isCorrect": false },
+        { "text": "D. Dengan mengurangi waktu istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat JSA terhadap anggaran perusahaan adalah?",
+      "explanation": "Dengan adanya JSA, kecelakaan kerja yang memakan biaya tinggi dapat dihindari sehingga terjadi efisiensi anggaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Menaikkan biaya operasional", "isCorrect": false },
+        { "text": "B. Efisiensi anggaran karena menghindari biaya kecelakaan", "isCorrect": true },
+        { "text": "C. Menambah biaya pelatihan tanpa hasil", "isCorrect": false },
+        { "text": "D. Tidak ada pengaruh terhadap anggaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA dapat dijadikan sebagai acuan dalam pembuatan?",
+      "explanation": "Salah satu manfaat JSA adalah menjadi acuan dalam pembuatan SOP (Standard Operating Procedure).",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. SOP (Standard Operating Procedure)", "isCorrect": true },
+        { "text": "B. Laporan keuangan", "isCorrect": false },
+        { "text": "C. Kontrak kerja karyawan", "isCorrect": false },
+        { "text": "D. Brosur pemasaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa JSA dapat meningkatkan produktivitas pekerja?",
+      "explanation": "Apabila kondisi kerja terjamin keselamatannya, pekerja akan bekerja lebih fokus dan produktif.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Karena pekerja diberi bonus", "isCorrect": false },
+        { "text": "B. Karena kondisi kerja yang aman membuat pekerja lebih fokus", "isCorrect": true },
+        { "text": "C. Karena jam kerja diperpanjang", "isCorrect": false },
+        { "text": "D. Karena mesin bekerja lebih cepat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA membantu memastikan kepatuhan terhadap?",
+      "explanation": "JSA memastikan kepatuhan hukum terhadap prosedur keselamatan dan regulasi yang berlaku.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Tren pasar global", "isCorrect": false },
+        { "text": "B. Prosedur keselamatan dan regulasi yang berlaku", "isCorrect": true },
+        { "text": "C. Target penjualan bulanan", "isCorrect": false },
+        { "text": "D. Selera konsumen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat JSA terkait kesadaran pekerja adalah meningkatkan?",
+      "explanation": "JSA bermanfaat meningkatkan safety awareness (kesadaran keselamatan) pekerja.",
+      "difficulty": "EASY",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Safety awareness pekerja", "isCorrect": true },
+        { "text": "B. Jumlah cuti pekerja", "isCorrect": false },
+        { "text": "C. Gaji pekerja secara otomatis", "isCorrect": false },
+        { "text": "D. Kecepatan mesin produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah manfaat JSA, KECUALI?",
+      "explanation": "JSA tidak bertujuan menghapus kebutuhan APD; justru pengendalian termasuk pemakaian APD. Manfaat lain adalah mencegah kecelakaan, efisiensi biaya, dan acuan SOP.",
+      "difficulty": "HARD",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Mencegah kecelakaan kerja", "isCorrect": false },
+        { "text": "B. Menghilangkan kebutuhan APD sepenuhnya", "isCorrect": true },
+        { "text": "C. Efisiensi anggaran perusahaan", "isCorrect": false },
+        { "text": "D. Menjadi acuan pembuatan SOP", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan paling mendasar dari penerapan JSA adalah identifikasi?",
+      "explanation": "Tujuan dasar JSA adalah mengidentifikasi bahaya di tempat kerja sebelum pekerjaan dilakukan.",
+      "difficulty": "EASY",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Identifikasi bahaya di tempat kerja", "isCorrect": true },
+        { "text": "B. Identifikasi karyawan terbaik", "isCorrect": false },
+        { "text": "C. Identifikasi pesaing bisnis", "isCorrect": false },
+        { "text": "D. Identifikasi pelanggan potensial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Proses pembuatan JSA yang baik akan selalu melibatkan?",
+      "explanation": "Proses pembuatan JSA yang baik selalu melibatkan para pekerja agar mereka lebih aware terhadap bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Para pekerja", "isCorrect": true },
+        { "text": "B. Hanya direktur utama", "isCorrect": false },
+        { "text": "C. Konsultan eksternal saja", "isCorrect": false },
+        { "text": "D. Pelanggan perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah pertama dalam pembuatan JSA adalah?",
+      "explanation": "Langkah pertama JSA adalah memilih dan memprioritaskan pekerjaan yang akan dianalisis.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Merancang tindakan pengendalian", "isCorrect": false },
+        { "text": "B. Memilih dan memprioritaskan pekerjaan yang akan dianalisis", "isCorrect": true },
+        { "text": "C. Membuat laporan akhir", "isCorrect": false },
+        { "text": "D. Mengukur produktivitas pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan langkah pembuatan JSA yang benar adalah?",
+      "explanation": "Urutan JSA: pilih pekerjaan, analisis tahapan kerja, identifikasi bahaya, rancang pengendalian.",
+      "difficulty": "HARD",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Identifikasi bahaya, pilih pekerjaan, pengendalian, analisis tahapan", "isCorrect": false },
+        { "text": "B. Pilih pekerjaan, analisis tahapan kerja, identifikasi bahaya, rancang pengendalian", "isCorrect": true },
+        { "text": "C. Pengendalian, identifikasi bahaya, pilih pekerjaan, analisis tahapan", "isCorrect": false },
+        { "text": "D. Analisis tahapan, pengendalian, pilih pekerjaan, identifikasi bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kriteria pekerjaan yang diprioritaskan untuk dianalisis dengan JSA adalah?",
+      "explanation": "Pekerjaan yang diprioritaskan adalah yang memiliki tingkat risiko tinggi, sering menimbulkan insiden, atau merupakan pekerjaan baru.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Pekerjaan dengan risiko tinggi, sering insiden, atau pekerjaan baru", "isCorrect": true },
+        { "text": "B. Pekerjaan yang paling murah biayanya", "isCorrect": false },
+        { "text": "C. Pekerjaan yang paling cepat selesai", "isCorrect": false },
+        { "text": "D. Pekerjaan yang disukai pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada langkah kedua JSA, langkah kerja harus dideskripsikan?",
+      "explanation": "Langkah kerja dideskripsikan sedetail mungkin sampai tahapan sederhana, misalnya menyiapkan bahan material atau mengambil alat.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Secara umum saja tanpa detail", "isCorrect": false },
+        { "text": "B. Sedetail mungkin sampai tahapan sederhana", "isCorrect": true },
+        { "text": "C. Hanya tahap akhir pekerjaan", "isCorrect": false },
+        { "text": "D. Tanpa memperhatikan urutan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh tahapan kerja sederhana dalam JSA adalah?",
+      "explanation": "Contoh tahapan sederhana misalnya menyiapkan bahan material, mengambil alat pada kotak penyimpanan, atau membersihkan area kerja.",
+      "difficulty": "EASY",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Mengambil alat pada kotak penyimpanan", "isCorrect": true },
+        { "text": "B. Menghitung laba perusahaan", "isCorrect": false },
+        { "text": "C. Merekrut karyawan baru", "isCorrect": false },
+        { "text": "D. Menyusun laporan tahunan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada langkah identifikasi potensi bahaya dalam JSA, yang harus dilakukan adalah?",
+      "explanation": "Pada langkah ini, catat semua potensi bahaya yang mungkin timbul pada setiap pekerjaan dengan teliti.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Mencatat semua potensi bahaya pada setiap pekerjaan secara teliti", "isCorrect": true },
+        { "text": "B. Mengabaikan bahaya kecil", "isCorrect": false },
+        { "text": "C. Hanya mencatat bahaya yang sudah pernah terjadi", "isCorrect": false },
+        { "text": "D. Mencatat keuntungan dari pekerjaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah terakhir dalam pembuatan JSA adalah merancang tindakan pengendalian yang mengacu pada?",
+      "explanation": "Merancang tindakan pengendalian mengacu pada Hierarki Pengendalian Risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Hierarki Pengendalian Risiko", "isCorrect": true },
+        { "text": "B. Struktur organisasi perusahaan", "isCorrect": false },
+        { "text": "C. Anggaran pemasaran", "isCorrect": false },
+        { "text": "D. Jadwal libur nasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Form JSA terdiri dari komponen-komponen berikut, KECUALI?",
+      "explanation": "Form JSA terdiri dari urutan pekerjaan, potensi bahaya, risiko yang mungkin terjadi, dan tindakan pengendalian, bukan data gaji.",
+      "difficulty": "HARD",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Urutan pekerjaan", "isCorrect": false },
+        { "text": "B. Potensi bahaya", "isCorrect": false },
+        { "text": "C. Data gaji pekerja", "isCorrect": true },
+        { "text": "D. Tindakan pengendalian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah formulir JSA disusun, langkah selanjutnya sebelum pekerjaan dimulai adalah?",
+      "explanation": "Formulir JSA yang telah disusun harus disosialisasikan kepada semua pekerja sebelum pekerjaan dimulai.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Disosialisasikan kepada semua pekerja", "isCorrect": true },
+        { "text": "B. Disimpan di arsip tanpa dibahas", "isCorrect": false },
+        { "text": "C. Dikirim ke pelanggan", "isCorrect": false },
+        { "text": "D. Dihancurkan setelah pekerjaan selesai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa JSA perlu dievaluasi secara berkala?",
+      "explanation": "JSA dievaluasi secara berkala agar tetap relevan dengan kondisi kerja yang berubah dan tetap efektif mengendalikan bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Agar tetap relevan dan efektif terhadap kondisi kerja terkini", "isCorrect": true },
+        { "text": "B. Agar dokumen terlihat banyak", "isCorrect": false },
+        { "text": "C. Agar pekerja sibuk", "isCorrect": false },
+        { "text": "D. Karena diwajibkan setiap jam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Form JSA, komponen yang mencatat akibat dari bahaya disebut?",
+      "explanation": "Form JSA mencatat risiko yang mungkin terjadi, yaitu akibat atau dampak dari potensi bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Urutan pekerjaan", "isCorrect": false },
+        { "text": "B. Risiko yang mungkin terjadi", "isCorrect": true },
+        { "text": "C. Nama pengawas", "isCorrect": false },
+        { "text": "D. Biaya proyek", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah langkah utama dalam pembuatan JSA?",
+      "explanation": "Terdapat 4 langkah utama: pilih pekerjaan, analisis tahapan kerja, identifikasi bahaya, dan rancang pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. 2 langkah", "isCorrect": false },
+        { "text": "B. 4 langkah", "isCorrect": true },
+        { "text": "C. 6 langkah", "isCorrect": false },
+        { "text": "D. 8 langkah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa yang sebaiknya dilibatkan dalam proses pembuatan JSA?",
+      "explanation": "Proses pembuatan JSA yang baik melibatkan para pekerja agar lebih aware terhadap bahaya yang ada.",
+      "difficulty": "EASY",
+      "tag": "Pembuat JSA",
+      "options": [
+        { "text": "A. Para pekerja yang melakukan pekerjaan tersebut", "isCorrect": true },
+        { "text": "B. Hanya pihak keuangan", "isCorrect": false },
+        { "text": "C. Hanya pelanggan", "isCorrect": false },
+        { "text": "D. Hanya pihak pemasaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pekerja perlu dilibatkan dalam pembuatan JSA?",
+      "explanation": "Karena pekerja yang melakukan pekerjaan paling memahami detail bahaya, dan keterlibatan membuat mereka lebih aware setiap kali bekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pembuat JSA",
+      "options": [
+        { "text": "A. Karena pekerja paling memahami detail bahaya pekerjaannya", "isCorrect": true },
+        { "text": "B. Karena pekerja punya waktu luang", "isCorrect": false },
+        { "text": "C. Karena pekerja menentukan gaji", "isCorrect": false },
+        { "text": "D. Karena pekerja yang menjual produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keterlibatan pekerja dalam pembuatan JSA berkontribusi pada pembangunan?",
+      "explanation": "Keterlibatan pekerja mendorong terbentuknya safety culture (budaya keselamatan) di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pembuat JSA",
+      "options": [
+        { "text": "A. Safety culture (budaya keselamatan)", "isCorrect": true },
+        { "text": "B. Budaya konsumtif", "isCorrect": false },
+        { "text": "C. Struktur birokrasi", "isCorrect": false },
+        { "text": "D. Persaingan antar pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa kepanjangan dari JSO?",
+      "explanation": "JSO adalah singkatan dari Job Safety Observation, yaitu pengamatan terstruktur terhadap pekerja saat bekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Job Safety Operation", "isCorrect": false },
+        { "text": "B. Job Safety Observation", "isCorrect": true },
+        { "text": "C. Joint Safety Officer", "isCorrect": false },
+        { "text": "D. Job Standard Observation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSO adalah proses terstruktur di mana petugas terlatih melakukan?",
+      "explanation": "JSO adalah proses terstruktur di mana petugas terlatih mengamati pekerja saat sedang melakukan pekerjaan.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Mengamati pekerja saat sedang melakukan pekerjaan", "isCorrect": true },
+        { "text": "B. Menghitung gaji pekerja", "isCorrect": false },
+        { "text": "C. Menyusun anggaran tahunan", "isCorrect": false },
+        { "text": "D. Merancang produk baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam JSO, petugas mengidentifikasi perilaku dan kondisi yang?",
+      "explanation": "JSO mengidentifikasi perilaku dan kondisi yang aman maupun tidak aman saat pekerjaan berlangsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Aman maupun tidak aman", "isCorrect": true },
+        { "text": "B. Hanya yang menguntungkan perusahaan", "isCorrect": false },
+        { "text": "C. Hanya yang berkaitan dengan biaya", "isCorrect": false },
+        { "text": "D. Hanya perilaku manajer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan penerapan JSO adalah untuk reinforce perilaku aman dan?",
+      "explanation": "Tujuan JSO adalah memperkuat (reinforce) perilaku aman serta melakukan koreksi langsung terhadap perilaku tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Koreksi langsung terhadap perilaku tidak aman", "isCorrect": true },
+        { "text": "B. Pemberian sanksi finansial", "isCorrect": false },
+        { "text": "C. Pemecatan pekerja", "isCorrect": false },
+        { "text": "D. Pengurangan jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Data dari JSO dapat dipakai untuk?",
+      "explanation": "Data dari JSO bisa dipakai untuk mengidentifikasi pola atau tren masalah keselamatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Mengidentifikasi pola atau tren masalah keselamatan", "isCorrect": true },
+        { "text": "B. Menentukan harga produk", "isCorrect": false },
+        { "text": "C. Mengatur jadwal libur", "isCorrect": false },
+        { "text": "D. Menghitung pajak perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Objek utama yang diamati dalam JSO adalah?",
+      "explanation": "Objek JSO adalah perilaku pekerja dan kondisi lingkungan saat pekerjaan sedang berlangsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Perilaku pekerja dan kondisi lingkungan kerja", "isCorrect": true },
+        { "text": "B. Laporan keuangan perusahaan", "isCorrect": false },
+        { "text": "C. Strategi pemasaran", "isCorrect": false },
+        { "text": "D. Desain logo perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa yang melakukan pengamatan dalam JSO?",
+      "explanation": "JSO dilakukan oleh petugas yang terlatih untuk mengamati pekerja saat bekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Petugas yang terlatih", "isCorrect": true },
+        { "text": "B. Pelanggan", "isCorrect": false },
+        { "text": "C. Pekerja yang sedang diamati sendiri", "isCorrect": false },
+        { "text": "D. Pihak luar tanpa pelatihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas inti dalam pelaksanaan JSO meliputi?",
+      "explanation": "JSO meliputi pengamatan langsung, pencatatan, dan pemberian feedback kepada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Pengamatan langsung, pencatatan, dan pemberian feedback", "isCorrect": true },
+        { "text": "B. Perhitungan laba dan rugi", "isCorrect": false },
+        { "text": "C. Perekrutan dan pelatihan karyawan", "isCorrect": false },
+        { "text": "D. Penyusunan kontrak kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu output dari JSO adalah?",
+      "explanation": "Output JSO berupa laporan observasi, data perilaku/kondisi, dan feedback langsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Laporan observasi dan feedback langsung", "isCorrect": true },
+        { "text": "B. Dokumen SOP final", "isCorrect": false },
+        { "text": "C. Anggaran proyek tahunan", "isCorrect": false },
+        { "text": "D. Surat izin usaha", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSO mendokumentasikan hasil pengamatan dengan tujuan utama untuk?",
+      "explanation": "JSO mendokumentasikan perilaku dan kondisi untuk mencegah terjadinya kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Mencegah terjadinya kecelakaan", "isCorrect": true },
+        { "text": "B. Menambah beban administrasi", "isCorrect": false },
+        { "text": "C. Menilai loyalitas pekerja", "isCorrect": false },
+        { "text": "D. Menentukan promosi jabatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama fokus antara JSA dan JSO adalah?",
+      "explanation": "JSA fokus mengidentifikasi dan mengendalikan bahaya sebelum pekerjaan, sedangkan JSO fokus mengamati perilaku dan kondisi saat pekerjaan berlangsung.",
+      "difficulty": "HARD",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. JSA fokus pada bahaya sebelum kerja, JSO fokus pada perilaku saat kerja", "isCorrect": true },
+        { "text": "B. JSA dan JSO sama persis", "isCorrect": false },
+        { "text": "C. JSA fokus pada perilaku, JSO fokus pada dokumen", "isCorrect": false },
+        { "text": "D. JSA fokus pada biaya, JSO fokus pada produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kapan JSA dilaksanakan?",
+      "explanation": "JSA dilakukan sebelum pekerjaan dimulai sebagai upaya pencegahan bahaya di tingkat perencanaan.",
+      "difficulty": "EASY",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Sebelum pekerjaan dimulai", "isCorrect": true },
+        { "text": "B. Saat pekerjaan sedang berjalan", "isCorrect": false },
+        { "text": "C. Setelah pekerjaan selesai", "isCorrect": false },
+        { "text": "D. Hanya ketika ada kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kapan JSO dilaksanakan?",
+      "explanation": "JSO dilakukan saat pekerjaan sedang berjalan untuk mengamati perilaku dan kondisi kerja secara langsung.",
+      "difficulty": "EASY",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Saat pekerjaan sedang berjalan", "isCorrect": true },
+        { "text": "B. Sebelum perencanaan proyek", "isCorrect": false },
+        { "text": "C. Setahun setelah pekerjaan", "isCorrect": false },
+        { "text": "D. Hanya saat audit pemerintah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sifat JSA dalam manajemen risiko adalah?",
+      "explanation": "JSA bersifat proaktif karena mencegah bahaya di tingkat perencanaan sebelum pekerjaan dilakukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Proaktif", "isCorrect": true },
+        { "text": "B. Hanya reaktif", "isCorrect": false },
+        { "text": "C. Insidental", "isCorrect": false },
+        { "text": "D. Pasif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sifat JSO dalam manajemen risiko adalah?",
+      "explanation": "JSO bersifat proaktif sekaligus reaktif: mencegah terulangnya perilaku tidak aman dan mengoreksi kondisi saat itu juga.",
+      "difficulty": "HARD",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Proaktif dan reaktif", "isCorrect": true },
+        { "text": "B. Hanya proaktif", "isCorrect": false },
+        { "text": "C. Hanya reaktif", "isCorrect": false },
+        { "text": "D. Tidak memiliki sifat khusus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Output JSA berbeda dengan JSO. Output JSA adalah?",
+      "explanation": "Output JSA adalah dokumen JSA berupa prosedur langkah-demi-langkah, bahaya, dan pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Dokumen JSA (prosedur, bahaya, pengendalian)", "isCorrect": true },
+        { "text": "B. Laporan observasi perilaku", "isCorrect": false },
+        { "text": "C. Data tren penjualan", "isCorrect": false },
+        { "text": "D. Sertifikat pelatihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Output JSO adalah?",
+      "explanation": "Output JSO adalah laporan observasi, data perilaku/kondisi, dan feedback langsung kepada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Laporan observasi, data perilaku/kondisi, dan feedback langsung", "isCorrect": true },
+        { "text": "B. Dokumen prosedur langkah kerja", "isCorrect": false },
+        { "text": "C. Anggaran proyek", "isCorrect": false },
+        { "text": "D. Struktur organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang membedakan objek JSA dan JSO dengan tepat?",
+      "explanation": "JSA memecah tugas jadi langkah dan menganalisis bahaya pekerjaan; JSO mengobservasi perilaku pekerja dan kondisi lingkungan.",
+      "difficulty": "HARD",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. JSA menganalisis langkah & bahaya pekerjaan; JSO mengamati perilaku & kondisi", "isCorrect": true },
+        { "text": "B. JSA dan JSO sama-sama hanya membuat dokumen", "isCorrect": false },
+        { "text": "C. JSA mengamati perilaku; JSO menganalisis langkah kerja", "isCorrect": false },
+        { "text": "D. Keduanya tidak berhubungan dengan keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika sebuah pekerjaan baru akan dimulai dan belum pernah dianalisis bahayanya, metode yang paling tepat digunakan adalah?",
+      "explanation": "Karena dilakukan sebelum pekerjaan dimulai untuk menganalisis bahaya, JSA adalah metode yang tepat.",
+      "difficulty": "HARD",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. JSA", "isCorrect": true },
+        { "text": "B. JSO", "isCorrect": false },
+        { "text": "C. Audit keuangan", "isCorrect": false },
+        { "text": "D. Survei kepuasan pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang supervisor ingin memantau apakah pekerja menggunakan APD dengan benar saat sedang bekerja. Metode yang tepat adalah?",
+      "explanation": "Pemantauan perilaku pekerja saat bekerja merupakan ranah JSO (Job Safety Observation).",
+      "difficulty": "HARD",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. JSO", "isCorrect": true },
+        { "text": "B. JSA", "isCorrect": false },
+        { "text": "C. Laporan keuangan", "isCorrect": false },
+        { "text": "D. Studi pasar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kesamaan antara JSA dan JSO adalah keduanya bertujuan untuk?",
+      "explanation": "Baik JSA maupun JSO sama-sama bertujuan mencegah terjadinya kecelakaan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Mencegah terjadinya kecelakaan kerja", "isCorrect": true },
+        { "text": "B. Meningkatkan penjualan", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah karyawan", "isCorrect": false },
+        { "text": "D. Memperbanyak dokumen administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA memecah tugas menjadi langkah-langkah sederhana, sementara JSO lebih menekankan pada?",
+      "explanation": "JSO menekankan pada pengamatan langsung perilaku dan kondisi pekerja saat bekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Pengamatan langsung perilaku saat bekerja", "isCorrect": true },
+        { "text": "B. Penyusunan anggaran", "isCorrect": false },
+        { "text": "C. Perancangan produk", "isCorrect": false },
+        { "text": "D. Pembuatan laporan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa JSO dapat bersifat reaktif?",
+      "explanation": "JSO bersifat reaktif karena dapat langsung mengoreksi perilaku tidak aman yang terjadi pada saat itu juga.",
+      "difficulty": "HARD",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Karena mengoreksi perilaku tidak aman saat itu juga", "isCorrect": true },
+        { "text": "B. Karena dilakukan sebelum kerja", "isCorrect": false },
+        { "text": "C. Karena hanya membuat dokumen", "isCorrect": false },
+        { "text": "D. Karena tidak melibatkan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA dilakukan pada tahap perencanaan, sedangkan JSO dilakukan pada tahap?",
+      "explanation": "JSO dilakukan pada tahap pelaksanaan, yaitu saat pekerjaan sedang berjalan.",
+      "difficulty": "MEDIUM",
+      "tag": "Waktu Pelaksanaan",
+      "options": [
+        { "text": "A. Pelaksanaan/saat pekerjaan berjalan", "isCorrect": true },
+        { "text": "B. Sebelum perencanaan", "isCorrect": false },
+        { "text": "C. Setelah perusahaan tutup", "isCorrect": false },
+        { "text": "D. Saat liburan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan proaktif dalam keselamatan kerja berarti tindakan diambil?",
+      "explanation": "Pendekatan proaktif berarti tindakan pencegahan diambil sebelum bahaya berubah menjadi kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Waktu Pelaksanaan",
+      "options": [
+        { "text": "A. Sebelum bahaya menjadi kecelakaan", "isCorrect": true },
+        { "text": "B. Hanya setelah kecelakaan terjadi", "isCorrect": false },
+        { "text": "C. Setahun setelah operasi", "isCorrect": false },
+        { "text": "D. Tidak diambil sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan reaktif dalam keselamatan kerja umumnya berarti tindakan diambil?",
+      "explanation": "Pendekatan reaktif berarti tindakan diambil sebagai respons setelah kejadian atau perilaku tidak aman muncul.",
+      "difficulty": "MEDIUM",
+      "tag": "Waktu Pelaksanaan",
+      "options": [
+        { "text": "A. Sebagai respons setelah kejadian atau perilaku tidak aman muncul", "isCorrect": true },
+        { "text": "B. Sebelum proyek direncanakan", "isCorrect": false },
+        { "text": "C. Tanpa adanya pemicu", "isCorrect": false },
+        { "text": "D. Saat tidak ada pekerjaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Karena dilakukan saat pekerjaan berjalan, JSO mampu menangkap?",
+      "explanation": "JSO dapat menangkap perilaku tidak aman dan kondisi berisiko yang nyata terjadi pada saat pelaksanaan pekerjaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Waktu Pelaksanaan",
+      "options": [
+        { "text": "A. Perilaku tidak aman yang nyata saat pekerjaan berlangsung", "isCorrect": true },
+        { "text": "B. Rencana keuangan tahunan", "isCorrect": false },
+        { "text": "C. Desain produk masa depan", "isCorrect": false },
+        { "text": "D. Tren pasar global", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA bersifat proaktif murni, sedangkan JSO bersifat?",
+      "explanation": "JSO bersifat proaktif sekaligus reaktif karena mencegah perulangan perilaku tidak aman dan mengoreksinya saat itu juga.",
+      "difficulty": "HARD",
+      "tag": "Waktu Pelaksanaan",
+      "options": [
+        { "text": "A. Proaktif dan reaktif sekaligus", "isCorrect": true },
+        { "text": "B. Hanya proaktif", "isCorrect": false },
+        { "text": "C. Tidak proaktif maupun reaktif", "isCorrect": false },
+        { "text": "D. Hanya bersifat administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Waktu pelaksanaan menjadi pembeda penting karena JSA mendahului pekerjaan dan JSO?",
+      "explanation": "JSA mendahului pekerjaan (perencanaan), sedangkan JSO bersamaan dengan pelaksanaan pekerjaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Waktu Pelaksanaan",
+      "options": [
+        { "text": "A. Bersamaan dengan pelaksanaan pekerjaan", "isCorrect": true },
+        { "text": "B. Mendahului perencanaan", "isCorrect": false },
+        { "text": "C. Setelah perusahaan dibubarkan", "isCorrect": false },
+        { "text": "D. Tidak pernah dilaksanakan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian bahaya dalam JSA mengacu pada?",
+      "explanation": "Pengendalian bahaya dalam JSA mengacu pada Hierarki Pengendalian Risiko.",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Hierarki Pengendalian Risiko", "isCorrect": true },
+        { "text": "B. Struktur gaji", "isCorrect": false },
+        { "text": "C. Jadwal produksi", "isCorrect": false },
+        { "text": "D. Strategi pemasaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tingkatan paling atas (paling efektif) dalam hierarki pengendalian risiko adalah?",
+      "explanation": "Eliminasi adalah tingkatan tertinggi karena menghilangkan sumber bahaya secara total.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": true },
+        { "text": "B. Alat Pelindung Diri", "isCorrect": false },
+        { "text": "C. Pengendalian administratif", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan hierarki pengendalian risiko dari yang paling efektif ke paling lemah adalah?",
+      "explanation": "Urutannya: Eliminasi, Substitusi, Engineering Control, Administrasi, dan Alat Pelindung Diri.",
+      "difficulty": "HARD",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Eliminasi, Substitusi, Engineering, Administrasi, APD", "isCorrect": true },
+        { "text": "B. APD, Administrasi, Engineering, Substitusi, Eliminasi", "isCorrect": false },
+        { "text": "C. Substitusi, Eliminasi, APD, Administrasi, Engineering", "isCorrect": false },
+        { "text": "D. Administrasi, APD, Eliminasi, Substitusi, Engineering", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengganti bahan kimia berbahaya dengan bahan yang kurang berbahaya termasuk pengendalian?",
+      "explanation": "Mengganti bahan berbahaya dengan yang lebih aman termasuk substitusi dalam hierarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Substitusi", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Alat Pelindung Diri", "isCorrect": false },
+        { "text": "D. Administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemasangan pelindung mesin (machine guarding) dan ventilasi termasuk pengendalian?",
+      "explanation": "Pelindung mesin dan ventilasi termasuk pengendalian rekayasa teknik (engineering control).",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Engineering control (rekayasa teknik)", "isCorrect": true },
+        { "text": "B. Alat Pelindung Diri", "isCorrect": false },
+        { "text": "C. Eliminasi", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan rotasi kerja, rambu peringatan, dan pelatihan termasuk pengendalian?",
+      "explanation": "Rotasi kerja, rambu, dan pelatihan termasuk pengendalian administratif.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Administratif", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Engineering control", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan helm, sarung tangan, dan kacamata pelindung termasuk pengendalian?",
+      "explanation": "Helm, sarung tangan, dan kacamata adalah Alat Pelindung Diri (APD), tingkatan terakhir dalam hierarki.",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Alat Pelindung Diri (APD)", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Engineering control", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat Pelindung Diri (APD) berada di posisi mana dalam hierarki pengendalian risiko?",
+      "explanation": "APD berada di posisi paling bawah (paling lemah) dan menjadi pilihan terakhir dalam hierarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Paling bawah / pilihan terakhir", "isCorrect": true },
+        { "text": "B. Paling atas / paling efektif", "isCorrect": false },
+        { "text": "C. Posisi kedua", "isCorrect": false },
+        { "text": "D. Tidak termasuk hierarki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menghilangkan sepenuhnya proses yang menggunakan tangga berisiko tinggi dengan menggantinya pekerjaan di permukaan tanah merupakan contoh?",
+      "explanation": "Menghilangkan total sumber bahaya (pekerjaan di ketinggian) merupakan eliminasi.",
+      "difficulty": "HARD",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": true },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam JSA, setelah bahaya teridentifikasi, hierarki pengendalian digunakan untuk?",
+      "explanation": "Hierarki pengendalian digunakan untuk merancang tindakan pengendalian bahaya yang paling efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Merancang tindakan pengendalian bahaya", "isCorrect": true },
+        { "text": "B. Menentukan gaji pekerja", "isCorrect": false },
+        { "text": "C. Menyusun jadwal produksi", "isCorrect": false },
+        { "text": "D. Menentukan target penjualan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah tingkatan dalam hierarki pengendalian risiko yang umum digunakan?",
+      "explanation": "Terdapat 5 tingkatan: Eliminasi, Substitusi, Engineering Control, Administratif, dan APD.",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. 5 tingkatan", "isCorrect": true },
+        { "text": "B. 3 tingkatan", "isCorrect": false },
+        { "text": "C. 7 tingkatan", "isCorrect": false },
+        { "text": "D. 2 tingkatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa eliminasi lebih disukai dibandingkan APD dalam pengendalian risiko?",
+      "explanation": "Eliminasi menghilangkan sumber bahaya secara total, sedangkan APD hanya melindungi pekerja tanpa menghilangkan bahaya.",
+      "difficulty": "HARD",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Karena eliminasi menghilangkan sumber bahaya secara total", "isCorrect": true },
+        { "text": "B. Karena APD lebih mahal", "isCorrect": false },
+        { "text": "C. Karena eliminasi lebih cepat dikerjakan", "isCorrect": false },
+        { "text": "D. Karena APD dilarang digunakan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tindakan pengendalian dalam Form JSA dirancang berdasarkan?",
+      "explanation": "Tindakan pengendalian dalam Form JSA dirancang berdasarkan hierarki pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Hierarki pengendalian risiko", "isCorrect": true },
+        { "text": "B. Keinginan pribadi pengawas", "isCorrect": false },
+        { "text": "C. Anggaran pemasaran", "isCorrect": false },
+        { "text": "D. Urutan abjad", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan urutan dari yang paling lemah dalam hierarki pengendalian?",
+      "explanation": "APD adalah pengendalian paling lemah karena tidak menghilangkan bahaya, hanya melindungi pekerja secara langsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Alat Pelindung Diri (APD)", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Engineering control", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh penerapan JSA dan JSO yang diberikan dalam materi adalah pada pekerjaan?",
+      "explanation": "Contoh pengisian JSA/JSO dalam materi adalah pada pekerjaan pergantian lampu penerangan di ruang produksi.",
+      "difficulty": "EASY",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Pergantian lampu penerangan di ruang produksi", "isCorrect": true },
+        { "text": "B. Pengelasan pipa di lepas pantai", "isCorrect": false },
+        { "text": "C. Pengeboran sumur minyak", "isCorrect": false },
+        { "text": "D. Penambangan bawah tanah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam JSA, mengapa penting memecah pekerjaan menjadi langkah-langkah sederhana?",
+      "explanation": "Memecah pekerjaan jadi langkah sederhana memudahkan identifikasi bahaya pada setiap tahap secara teliti.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Agar bahaya tiap tahap dapat diidentifikasi dengan teliti", "isCorrect": true },
+        { "text": "B. Agar pekerjaan terlihat lebih panjang", "isCorrect": false },
+        { "text": "C. Agar pekerja lebih lambat bekerja", "isCorrect": false },
+        { "text": "D. Agar biaya bertambah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSO dapat membantu manajemen mengenali masalah keselamatan dengan cara mengidentifikasi?",
+      "explanation": "JSO membantu mengidentifikasi pola atau tren masalah keselamatan dari data observasi yang terkumpul.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Pola atau tren masalah keselamatan", "isCorrect": true },
+        { "text": "B. Tren harga saham", "isCorrect": false },
+        { "text": "C. Pola belanja pelanggan", "isCorrect": false },
+        { "text": "D. Tren cuaca tahunan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Feedback langsung dalam JSO bertujuan untuk?",
+      "explanation": "Feedback langsung bertujuan memperkuat perilaku aman dan mengoreksi perilaku tidak aman saat itu juga.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Memperkuat perilaku aman dan mengoreksi yang tidak aman", "isCorrect": true },
+        { "text": "B. Menambah jam kerja pekerja", "isCorrect": false },
+        { "text": "C. Memberi hukuman finansial", "isCorrect": false },
+        { "text": "D. Mengurangi gaji pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA membantu memastikan pengendalian bahaya mengacu pada?",
+      "explanation": "JSA memastikan pengendalian bahaya mengacu pada regulasi yang berlaku untuk menjaga kepatuhan hukum.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Regulasi yang berlaku", "isCorrect": true },
+        { "text": "B. Selera pasar", "isCorrect": false },
+        { "text": "C. Tren media sosial", "isCorrect": false },
+        { "text": "D. Pilihan acak pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Form JSA, komponen pertama yang dicatat adalah?",
+      "explanation": "Form JSA mencatat urutan pekerjaan terlebih dahulu, kemudian potensi bahaya, risiko, dan pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Urutan pekerjaan", "isCorrect": true },
+        { "text": "B. Tindakan pengendalian", "isCorrect": false },
+        { "text": "C. Tanda tangan direktur", "isCorrect": false },
+        { "text": "D. Biaya proyek", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang menggambarkan bahwa JSA bersifat preventif?",
+      "explanation": "JSA bersifat preventif karena mengidentifikasi dan mengendalikan bahaya sebelum pekerjaan dilakukan sehingga mencegah kecelakaan.",
+      "difficulty": "HARD",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Bahaya diidentifikasi dan dikendalikan sebelum pekerjaan dilakukan", "isCorrect": true },
+        { "text": "B. Bahaya baru ditangani setelah ada korban", "isCorrect": false },
+        { "text": "C. Tidak ada pengendalian yang dirancang", "isCorrect": false },
+        { "text": "D. Hanya menghitung kerugian setelah kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika hasil JSO menunjukkan banyak pekerja sering melewati prosedur kerja aman, tindakan yang tepat adalah?",
+      "explanation": "Pemberian feedback dan koreksi langsung serta evaluasi pengendalian menjadi tindak lanjut atas temuan JSO.",
+      "difficulty": "HARD",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Memberi feedback, koreksi, dan mengevaluasi pengendalian", "isCorrect": true },
+        { "text": "B. Mengabaikan temuan tersebut", "isCorrect": false },
+        { "text": "C. Menambah target produksi", "isCorrect": false },
+        { "text": "D. Memberhentikan program keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA dan JSO sebaiknya digunakan secara?",
+      "explanation": "JSA dan JSO saling melengkapi: JSA merencanakan keselamatan sebelum kerja, JSO memverifikasi pelaksanaannya saat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Saling melengkapi untuk keselamatan yang menyeluruh", "isCorrect": true },
+        { "text": "B. Saling menggantikan tanpa kaitan", "isCorrect": false },
+        { "text": "C. Hanya salah satu saja secara permanen", "isCorrect": false },
+        { "text": "D. Tidak perlu digunakan bersama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat JSA terkait pencegahan adalah?",
+      "explanation": "JSA berfungsi mencegah terjadinya kecelakaan dengan mengenali dan mengendalikan bahaya lebih dini.",
+      "difficulty": "EASY",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Mencegah terjadinya kecelakaan", "isCorrect": true },
+        { "text": "B. Mempercepat kerusakan mesin", "isCorrect": false },
+        { "text": "C. Menambah potensi bahaya", "isCorrect": false },
+        { "text": "D. Mengurangi kesadaran pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dokumentasi JSA dalam bentuk Form JSA penting karena?",
+      "explanation": "Form JSA mendokumentasikan urutan pekerjaan, bahaya, risiko, dan pengendalian sebagai panduan kerja aman yang dapat disosialisasikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Menjadi panduan kerja aman yang dapat disosialisasikan", "isCorrect": true },
+        { "text": "B. Hanya untuk menambah arsip", "isCorrect": false },
+        { "text": "C. Untuk keperluan pemasaran", "isCorrect": false },
+        { "text": "D. Untuk menghitung laba", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aspek 'pengamatan langsung' adalah ciri khas dari metode?",
+      "explanation": "Pengamatan langsung perilaku pekerja merupakan ciri khas JSO (Job Safety Observation).",
+      "difficulty": "EASY",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. JSO", "isCorrect": true },
+        { "text": "B. JSA", "isCorrect": false },
+        { "text": "C. Audit keuangan", "isCorrect": false },
+        { "text": "D. Survei pasar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aspek 'memecah tugas menjadi langkah sederhana' adalah ciri khas metode?",
+      "explanation": "Memecah tugas menjadi langkah-langkah sederhana untuk dianalisis bahayanya adalah ciri khas JSA.",
+      "difficulty": "EASY",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. JSA", "isCorrect": true },
+        { "text": "B. JSO", "isCorrect": false },
+        { "text": "C. Survei pelanggan", "isCorrect": false },
+        { "text": "D. Audit pajak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa JSA disebut sebagai metode identifikasi bahaya yang sistematis?",
+      "explanation": "JSA sistematis karena memecah pekerjaan menjadi langkah berurutan dan menganalisis bahaya tiap langkah secara terstruktur.",
+      "difficulty": "HARD",
+      "tag": "Definisi JSA",
+      "options": [
+        { "text": "A. Karena menganalisis bahaya tiap langkah kerja secara berurutan", "isCorrect": true },
+        { "text": "B. Karena dilakukan secara acak", "isCorrect": false },
+        { "text": "C. Karena tidak memerlukan urutan", "isCorrect": false },
+        { "text": "D. Karena hanya mengandalkan intuisi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kriteria pekerjaan yang sebaiknya diutamakan untuk JSA adalah pekerjaan yang?",
+      "explanation": "Pekerjaan yang sering menimbulkan insiden merupakan salah satu kriteria prioritas dalam pemilihan untuk JSA.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Sering menimbulkan insiden", "isCorrect": true },
+        { "text": "B. Paling jarang dilakukan dan tidak berisiko", "isCorrect": false },
+        { "text": "C. Paling menguntungkan secara finansial", "isCorrect": false },
+        { "text": "D. Paling disukai manajemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSO menghasilkan data perilaku dan kondisi yang dapat digunakan untuk perbaikan?",
+      "explanation": "Data perilaku dan kondisi dari JSO digunakan untuk perbaikan sistem keselamatan secara berkelanjutan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Sistem keselamatan secara berkelanjutan", "isCorrect": true },
+        { "text": "B. Sistem akuntansi", "isCorrect": false },
+        { "text": "C. Strategi penjualan", "isCorrect": false },
+        { "text": "D. Desain kemasan produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang BENAR tentang waktu pelaksanaan JSA dan JSO adalah?",
+      "explanation": "JSA dilakukan sebelum pekerjaan dimulai dan JSO dilakukan saat pekerjaan sedang berlangsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Waktu Pelaksanaan",
+      "options": [
+        { "text": "A. JSA sebelum pekerjaan, JSO saat pekerjaan berlangsung", "isCorrect": true },
+        { "text": "B. JSA saat pekerjaan, JSO sebelum pekerjaan", "isCorrect": false },
+        { "text": "C. Keduanya setelah pekerjaan selesai", "isCorrect": false },
+        { "text": "D. Keduanya sebelum pekerjaan dimulai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan JSA dan JSO secara konsisten pada akhirnya akan mendukung terbentuknya?",
+      "explanation": "Penerapan JSA dan JSO yang konsisten mendukung terbentuknya budaya keselamatan (safety culture) di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Budaya keselamatan (safety culture)", "isCorrect": true },
+        { "text": "B. Budaya lembur berlebihan", "isCorrect": false },
+        { "text": "C. Budaya persaingan internal", "isCorrect": false },
+        { "text": "D. Budaya konsumtif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam hierarki pengendalian, mengganti mesin bising dengan mesin yang lebih senyap merupakan contoh?",
+      "explanation": "Mengganti mesin bising dengan mesin senyap adalah substitusi karena menggantikan sumber dengan yang lebih aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Substitusi", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan pengendalian administratif?",
+      "explanation": "Membatasi durasi paparan melalui pengaturan jadwal/rotasi kerja merupakan pengendalian administratif.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Membatasi durasi paparan lewat rotasi kerja", "isCorrect": true },
+        { "text": "B. Memasang penutup pelindung pada mesin", "isCorrect": false },
+        { "text": "C. Menghapus total proses berbahaya", "isCorrect": false },
+        { "text": "D. Memberikan respirator kepada pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA berfokus pada pekerjaan dan bahayanya, sedangkan JSO berfokus pada?",
+      "explanation": "JSO berfokus pada perilaku pekerja dan kondisi lingkungan saat pekerjaan berlangsung.",
+      "difficulty": "EASY",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Perilaku pekerja dan kondisi lingkungan", "isCorrect": true },
+        { "text": "B. Laporan laba rugi", "isCorrect": false },
+        { "text": "C. Rencana ekspansi pasar", "isCorrect": false },
+        { "text": "D. Desain produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Petugas JSO harus 'terlatih' karena?",
+      "explanation": "Petugas JSO harus terlatih agar mampu mengenali perilaku dan kondisi aman maupun tidak aman secara akurat serta memberi feedback yang tepat.",
+      "difficulty": "HARD",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Agar mampu mengenali perilaku/kondisi tidak aman dengan akurat", "isCorrect": true },
+        { "text": "B. Agar dapat menghitung keuangan", "isCorrect": false },
+        { "text": "C. Agar bisa merancang produk", "isCorrect": false },
+        { "text": "D. Agar dapat menggantikan direktur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari kedua metode JSA dan JSO adalah menciptakan tempat kerja yang?",
+      "explanation": "Tujuan akhir JSA dan JSO adalah menciptakan tempat kerja yang aman dan mencegah kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Aman dan bebas kecelakaan", "isCorrect": true },
+        { "text": "B. Paling ramai", "isCorrect": false },
+        { "text": "C. Paling cepat produksinya tanpa aturan", "isCorrect": false },
+        { "text": "D. Paling murah tanpa keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang tepat mengenai keterlibatan pekerja dalam JSA adalah?",
+      "explanation": "Keterlibatan pekerja membuat mereka lebih aware terhadap bahaya dan memperkuat budaya keselamatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pembuat JSA",
+      "options": [
+        { "text": "A. Membuat pekerja lebih aware dan memperkuat budaya keselamatan", "isCorrect": true },
+        { "text": "B. Memperlambat seluruh proses tanpa manfaat", "isCorrect": false },
+        { "text": "C. Hanya menambah beban dokumen", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh pada keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa JSA disebut sebagai acuan dalam menyusun SOP?",
+      "explanation": "JSA memuat langkah kerja aman dan pengendalian bahaya sehingga dapat dijadikan dasar penyusunan SOP yang aman.",
+      "difficulty": "HARD",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Karena memuat langkah kerja aman dan pengendalian bahaya", "isCorrect": true },
+        { "text": "B. Karena memuat data keuangan", "isCorrect": false },
+        { "text": "C. Karena berisi target penjualan", "isCorrect": false },
+        { "text": "D. Karena berisi daftar pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan pergantian lampu di ruang produksi, salah satu bahaya yang dapat diidentifikasi melalui JSA adalah?",
+      "explanation": "Risiko jatuh dari ketinggian saat menaiki tangga merupakan bahaya yang dapat diidentifikasi pada pekerjaan pergantian lampu.",
+      "difficulty": "MEDIUM",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Jatuh dari ketinggian saat menaiki tangga", "isCorrect": true },
+        { "text": "B. Kenaikan harga saham", "isCorrect": false },
+        { "text": "C. Penurunan jumlah pelanggan", "isCorrect": false },
+        { "text": "D. Keterlambatan pengiriman barang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan yang TIDAK cukup untuk mengelola risiko sehingga JSA dan JSO diperlukan adalah pendekatan yang bersifat?",
+      "explanation": "Pendekatan reaktif saja tidak cukup; JSA dan JSO menambahkan unsur proaktif dalam mengelola risiko.",
+      "difficulty": "HARD",
+      "tag": "Waktu Pelaksanaan",
+      "options": [
+        { "text": "A. Reaktif saja", "isCorrect": true },
+        { "text": "B. Proaktif dan terencana", "isCorrect": false },
+        { "text": "C. Preventif", "isCorrect": false },
+        { "text": "D. Sistematis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan yang benar antara metode dan waktunya?",
+      "explanation": "JSA dilakukan sebelum pekerjaan (perencanaan) dan JSO dilakukan saat pekerjaan berlangsung (pelaksanaan).",
+      "difficulty": "MEDIUM",
+      "tag": "Waktu Pelaksanaan",
+      "options": [
+        { "text": "A. JSA - sebelum pekerjaan; JSO - saat pekerjaan", "isCorrect": true },
+        { "text": "B. JSA - saat pekerjaan; JSO - sebelum pekerjaan", "isCorrect": false },
+        { "text": "C. JSA - setelah pekerjaan; JSO - sebelum pekerjaan", "isCorrect": false },
+        { "text": "D. JSA - saat audit; JSO - saat libur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketika kondisi kerja berubah menjadi tidak aman saat pekerjaan berlangsung, JSO memungkinkan pengawas untuk?",
+      "explanation": "JSO memungkinkan koreksi langsung terhadap kondisi atau perilaku tidak aman pada saat pekerjaan berlangsung.",
+      "difficulty": "HARD",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Melakukan koreksi langsung saat itu juga", "isCorrect": true },
+        { "text": "B. Menunggu hingga audit tahunan", "isCorrect": false },
+        { "text": "C. Mengabaikan kondisi tersebut", "isCorrect": false },
+        { "text": "D. Menghentikan program keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan langkah dalam pembuatan JSA?",
+      "explanation": "Mengamati perilaku pekerja saat bekerja adalah aktivitas JSO, bukan langkah JSA. Langkah JSA mencakup pemilihan pekerjaan, analisis tahapan, identifikasi bahaya, dan pengendalian.",
+      "difficulty": "HARD",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Mengamati perilaku pekerja saat bekerja", "isCorrect": true },
+        { "text": "B. Memilih dan memprioritaskan pekerjaan", "isCorrect": false },
+        { "text": "C. Mengidentifikasi potensi bahaya", "isCorrect": false },
+        { "text": "D. Merancang tindakan pengendalian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa peran utama hierarki pengendalian risiko dalam penerapan JSA?",
+      "explanation": "Hierarki pengendalian risiko menjadi acuan untuk menentukan tindakan pengendalian bahaya yang paling efektif dalam JSA.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Acuan menentukan tindakan pengendalian bahaya yang paling efektif", "isCorrect": true },
+        { "text": "B. Acuan menentukan gaji pekerja", "isCorrect": false },
+        { "text": "C. Acuan menyusun jadwal libur", "isCorrect": false },
+        { "text": "D. Acuan menentukan harga jual produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang BENAR mengenai sifat proaktif dan reaktif?",
+      "explanation": "JSA murni proaktif (sebelum kerja), sedangkan JSO proaktif sekaligus reaktif (saat kerja, koreksi langsung).",
+      "difficulty": "HARD",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. JSA proaktif; JSO proaktif sekaligus reaktif", "isCorrect": true },
+        { "text": "B. JSA reaktif; JSO proaktif", "isCorrect": false },
+        { "text": "C. Keduanya hanya reaktif", "isCorrect": false },
+        { "text": "D. Keduanya tidak berhubungan dengan pencegahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kriteria pemilihan pekerjaan untuk JSA adalah pekerjaan baru. Alasannya adalah?",
+      "explanation": "Pekerjaan baru belum memiliki riwayat dan analisis bahaya sehingga perlu diprioritaskan untuk dianalisis dengan JSA.",
+      "difficulty": "HARD",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Karena belum memiliki riwayat dan analisis bahaya sebelumnya", "isCorrect": true },
+        { "text": "B. Karena pasti aman", "isCorrect": false },
+        { "text": "C. Karena paling murah", "isCorrect": false },
+        { "text": "D. Karena tidak melibatkan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSO terutama bermanfaat untuk memverifikasi apakah pengendalian dari JSA?",
+      "explanation": "JSO memverifikasi apakah pengendalian yang dirancang dalam JSA benar-benar diterapkan dengan baik oleh pekerja di lapangan.",
+      "difficulty": "HARD",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. Benar-benar diterapkan oleh pekerja di lapangan", "isCorrect": true },
+        { "text": "B. Sudah dihapus dari dokumen", "isCorrect": false },
+        { "text": "C. Menambah keuntungan finansial", "isCorrect": false },
+        { "text": "D. Tidak perlu diterapkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyusunan JSA yang melibatkan pekerja membuat pekerja menjadi lebih?",
+      "explanation": "Pekerja menjadi lebih aware (sadar) akan bahaya yang ada setiap kali mereka bekerja.",
+      "difficulty": "EASY",
+      "tag": "Pembuat JSA",
+      "options": [
+        { "text": "A. Aware (sadar) akan bahaya saat bekerja", "isCorrect": true },
+        { "text": "B. Malas bekerja", "isCorrect": false },
+        { "text": "C. Tidak peduli keselamatan", "isCorrect": false },
+        { "text": "D. Ingin pindah kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan manfaat ganda dari JSA yang baik?",
+      "explanation": "JSA yang baik meningkatkan keselamatan sekaligus produktivitas karena pekerja bekerja lebih fokus di kondisi yang aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. Meningkatkan keselamatan dan produktivitas sekaligus", "isCorrect": true },
+        { "text": "B. Hanya meningkatkan biaya", "isCorrect": false },
+        { "text": "C. Hanya menambah dokumen", "isCorrect": false },
+        { "text": "D. Mengurangi keselamatan demi produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam konteks identifikasi bahaya, JSA paling tepat dikategorikan sebagai pengendalian?",
+      "explanation": "JSA merupakan bentuk pengendalian administratif karena berupa prosedur dan analisis sebelum pekerjaan dilakukan.",
+      "difficulty": "HARD",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Administratif", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Engineering control", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan ciri pembeda output antara JSA dan JSO yang paling tepat?",
+      "explanation": "JSA menghasilkan dokumen prosedur kerja aman, sedangkan JSO menghasilkan laporan observasi dan feedback.",
+      "difficulty": "MEDIUM",
+      "tag": "Perbedaan JSA dan JSO",
+      "options": [
+        { "text": "A. JSA: dokumen prosedur; JSO: laporan observasi & feedback", "isCorrect": true },
+        { "text": "B. JSA: laporan observasi; JSO: dokumen prosedur", "isCorrect": false },
+        { "text": "C. Keduanya menghasilkan dokumen keuangan", "isCorrect": false },
+        { "text": "D. Keduanya tidak menghasilkan output", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan JSO untuk 'reinforce perilaku aman' artinya?",
+      "explanation": "Reinforce perilaku aman berarti memperkuat dan mendorong agar perilaku aman terus dilakukan oleh pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Memperkuat agar perilaku aman terus dilakukan", "isCorrect": true },
+        { "text": "B. Menghapus semua prosedur keselamatan", "isCorrect": false },
+        { "text": "C. Membiarkan perilaku tidak aman", "isCorrect": false },
+        { "text": "D. Mengurangi kesadaran keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan jenis pengendalian dalam hierarki pengendalian risiko?",
+      "explanation": "Dokumentasi bukan termasuk tingkatan hierarki pengendalian. Tingkatannya: eliminasi, substitusi, engineering, administratif, dan APD.",
+      "difficulty": "HARD",
+      "tag": "Hierarki Pengendalian Risiko",
+      "options": [
+        { "text": "A. Dokumentasi", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Engineering control", "isCorrect": false },
+        { "text": "D. Alat Pelindung Diri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA dapat membantu membedakan dan memprioritaskan pengendalian karena?",
+      "explanation": "JSA memetakan bahaya tiap langkah kerja sehingga membantu menentukan prioritas pengendalian berdasarkan tingkat risiko.",
+      "difficulty": "HARD",
+      "tag": "Langkah Pembuatan JSA",
+      "options": [
+        { "text": "A. Memetakan bahaya tiap langkah sehingga prioritas dapat ditentukan", "isCorrect": true },
+        { "text": "B. Mengabaikan tingkat risiko", "isCorrect": false },
+        { "text": "C. Menyamakan semua bahaya tanpa analisis", "isCorrect": false },
+        { "text": "D. Menentukan harga produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketika data JSO menunjukkan tren perilaku tidak aman yang berulang, manajemen sebaiknya?",
+      "explanation": "Tren perilaku tidak aman menjadi dasar untuk memperbaiki prosedur, pelatihan, atau pengendalian dalam sistem keselamatan.",
+      "difficulty": "HARD",
+      "tag": "Definisi dan Tujuan JSO",
+      "options": [
+        { "text": "A. Memperbaiki prosedur, pelatihan, atau pengendalian", "isCorrect": true },
+        { "text": "B. Mengabaikan data tersebut", "isCorrect": false },
+        { "text": "C. Menambah jam lembur", "isCorrect": false },
+        { "text": "D. Menghentikan observasi keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang hubungan JSA dengan SOP?",
+      "explanation": "JSA dapat menjadi acuan dalam pembuatan SOP karena memuat langkah kerja aman dan pengendalian bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan dan Manfaat JSA",
+      "options": [
+        { "text": "A. JSA dapat menjadi acuan dalam pembuatan SOP", "isCorrect": true },
+        { "text": "B. JSA menggantikan kebutuhan SOP sepenuhnya", "isCorrect": false },
+        { "text": "C. JSA tidak ada kaitannya dengan SOP", "isCorrect": false },
+        { "text": "D. SOP harus dibuat sebelum JSA", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa kepanjangan JSA?", "back": "Job Safety Analysis — metode mengidentifikasi potensi bahaya pada setiap langkah kerja sebelum pekerjaan dilakukan.", "tag": "Definisi JSA" },
+    { "front": "Apa kepanjangan JSO?", "back": "Job Safety Observation — proses terstruktur di mana petugas terlatih mengamati pekerja saat bekerja untuk mengidentifikasi perilaku/kondisi aman & tidak aman.", "tag": "Definisi dan Tujuan JSO" },
+    { "front": "Kapan JSA dilakukan?", "back": "Sebelum pekerjaan dimulai (tahap perencanaan), bersifat proaktif untuk mencegah bahaya.", "tag": "Waktu Pelaksanaan" },
+    { "front": "Kapan JSO dilakukan?", "back": "Saat pekerjaan sedang berjalan (tahap pelaksanaan), bersifat proaktif sekaligus reaktif.", "tag": "Waktu Pelaksanaan" },
+    { "front": "Fokus utama JSA", "back": "Mengidentifikasi & mengendalikan bahaya pekerjaan untuk membuat prosedur kerja aman dengan memecah tugas jadi langkah sederhana.", "tag": "Definisi JSA" },
+    { "front": "Fokus utama JSO", "back": "Mengamati perilaku pekerja dan kondisi lingkungan saat bekerja, lalu memberi feedback langsung.", "tag": "Definisi dan Tujuan JSO" },
+    { "front": "4 langkah pembuatan JSA", "back": "1) Pilih & prioritaskan pekerjaan, 2) Analisis tahapan kerja, 3) Identifikasi potensi bahaya, 4) Rancang tindakan pengendalian.", "tag": "Langkah Pembuatan JSA" },
+    { "front": "Kriteria pekerjaan diprioritaskan untuk JSA", "back": "Pekerjaan berisiko tinggi, sering menimbulkan insiden, atau merupakan pekerjaan baru.", "tag": "Langkah Pembuatan JSA" },
+    { "front": "Isi Form JSA", "back": "Urutan pekerjaan, potensi bahaya, risiko yang mungkin terjadi, dan tindakan pengendalian.", "tag": "Langkah Pembuatan JSA" },
+    { "front": "Siapa yang membuat JSA?", "back": "Proses pembuatan JSA yang baik melibatkan para pekerja agar mereka lebih aware terhadap bahaya.", "tag": "Pembuat JSA" },
+    { "front": "Manfaat JSA membangun safety culture", "back": "Karena melibatkan pekerja secara aktif sehingga mereka lebih sadar bahaya setiap kali bekerja.", "tag": "Tujuan dan Manfaat JSA" },
+    { "front": "JSA sebagai acuan pembuatan?", "back": "JSA menjadi acuan dalam pembuatan SOP (Standard Operating Procedure).", "tag": "Tujuan dan Manfaat JSA" },
+    { "front": "Tujuan JSO", "back": "Mengidentifikasi perilaku & kondisi tidak aman untuk reinforce perilaku aman dan koreksi langsung, serta mengenali tren masalah keselamatan.", "tag": "Definisi dan Tujuan JSO" },
+    { "front": "Sifat JSA vs JSO", "back": "JSA: proaktif. JSO: proaktif & reaktif (mencegah perulangan perilaku tidak aman + koreksi saat itu).", "tag": "Perbedaan JSA dan JSO" },
+    { "front": "Output JSA", "back": "Dokumen JSA berisi prosedur langkah-demi-langkah, bahaya, dan pengendalian.", "tag": "Perbedaan JSA dan JSO" },
+    { "front": "Output JSO", "back": "Laporan observasi, data perilaku/kondisi, dan feedback langsung kepada pekerja.", "tag": "Perbedaan JSA dan JSO" },
+    { "front": "Hierarki pengendalian risiko (urut)", "back": "Eliminasi → Substitusi → Engineering Control → Administratif → APD (paling efektif ke paling lemah).", "tag": "Hierarki Pengendalian Risiko" },
+    { "front": "Pengendalian paling efektif", "back": "Eliminasi — menghilangkan sumber bahaya secara total.", "tag": "Hierarki Pengendalian Risiko" },
+    { "front": "Pengendalian paling lemah", "back": "Alat Pelindung Diri (APD) — pilihan terakhir karena tidak menghilangkan bahaya, hanya melindungi pekerja.", "tag": "Hierarki Pengendalian Risiko" },
+    { "front": "Pengendalian bahaya dalam JSA mengacu pada?", "back": "Hierarki Pengendalian Risiko, yang dipakai saat merancang tindakan pengendalian.", "tag": "Hierarki Pengendalian Risiko" },
+    { "front": "Manfaat JSA terhadap anggaran", "back": "Efisiensi anggaran karena menghindari biaya tinggi akibat kecelakaan kerja.", "tag": "Tujuan dan Manfaat JSA" },
+    { "front": "Mengapa pekerja terlibat dalam JSA?", "back": "Karena pekerja paling memahami detail bahaya pekerjaannya dan keterlibatan meningkatkan kesadaran keselamatan.", "tag": "Pembuat JSA" }
+  ],
+  "mindmap": [
+    { "id": "jsa-jso", "label": "Konsep JSA & JSO", "color": "#6366f1", "parent": null, "content": "Dua metode identifikasi bahaya dan pengendalian risiko di tempat kerja: JSA sebelum kerja, JSO saat kerja." },
+    { "id": "definisi-jsa", "label": "Definisi JSA", "color": "#8b5cf6", "parent": "jsa-jso", "content": "Job Safety Analysis: metode mengidentifikasi potensi bahaya pada setiap langkah kerja sebelum insiden terjadi." },
+    { "id": "jsa-keterkaitan", "label": "Keterkaitan", "color": "#8b5cf6", "parent": "definisi-jsa", "content": "Memperhatikan keterkaitan antara manusia, pekerjaan, alat kerja, dan lingkungan kerja." },
+    { "id": "jsa-proaktif", "label": "Proaktif", "color": "#8b5cf6", "parent": "definisi-jsa", "content": "Bersifat proaktif: bahaya diidentifikasi dan dikendalikan sebelum pekerjaan dimulai." },
+    { "id": "jsa-output", "label": "Output Dokumen", "color": "#8b5cf6", "parent": "definisi-jsa", "content": "Menghasilkan Dokumen JSA berisi prosedur langkah-demi-langkah, bahaya, dan pengendalian." },
+    { "id": "manfaat-jsa", "label": "Tujuan & Manfaat JSA", "color": "#0ea5e9", "parent": "jsa-jso", "content": "JSA memberi banyak manfaat mulai dari mengidentifikasi bahaya hingga kepatuhan hukum." },
+    { "id": "manfaat-identifikasi", "label": "Identifikasi & Cegah", "color": "#0ea5e9", "parent": "manfaat-jsa", "content": "Mengidentifikasi bahaya dan mencegah terjadinya kecelakaan kerja." },
+    { "id": "manfaat-culture", "label": "Safety Culture", "color": "#0ea5e9", "parent": "manfaat-jsa", "content": "Membangun safety culture & meningkatkan safety awareness dengan melibatkan pekerja." },
+    { "id": "manfaat-efisiensi", "label": "Efisiensi & Produktivitas", "color": "#0ea5e9", "parent": "manfaat-jsa", "content": "Efisiensi anggaran (hindari biaya kecelakaan) dan meningkatkan produktivitas pekerja." },
+    { "id": "manfaat-sop", "label": "Acuan SOP & Hukum", "color": "#0ea5e9", "parent": "manfaat-jsa", "content": "Menjadi acuan pembuatan SOP serta memastikan kepatuhan terhadap regulasi yang berlaku." },
+    { "id": "langkah-jsa", "label": "Langkah Pembuatan JSA", "color": "#10b981", "parent": "jsa-jso", "content": "Empat langkah utama dari memilih pekerjaan hingga merancang pengendalian." },
+    { "id": "langkah-pilih", "label": "1. Pilih Pekerjaan", "color": "#10b981", "parent": "langkah-jsa", "content": "Pilih & prioritaskan pekerjaan berisiko tinggi, sering insiden, atau pekerjaan baru." },
+    { "id": "langkah-analisis", "label": "2. Analisis Tahapan", "color": "#10b981", "parent": "langkah-jsa", "content": "Deskripsikan langkah kerja sedetail mungkin sampai tahapan sederhana." },
+    { "id": "langkah-identifikasi", "label": "3. Identifikasi Bahaya", "color": "#10b981", "parent": "langkah-jsa", "content": "Catat semua potensi bahaya pada setiap pekerjaan dengan teliti." },
+    { "id": "langkah-kendali", "label": "4. Rancang Pengendalian", "color": "#10b981", "parent": "langkah-jsa", "content": "Merancang tindakan pengendalian mengacu pada Hierarki Pengendalian Risiko." },
+    { "id": "form-jsa", "label": "Form JSA", "color": "#10b981", "parent": "langkah-jsa", "content": "Berisi urutan pekerjaan, potensi bahaya, risiko, dan tindakan pengendalian; disosialisasikan ke pekerja." },
+    { "id": "pembuat-jsa", "label": "Pembuat JSA", "color": "#f59e0b", "parent": "jsa-jso", "content": "Proses pembuatan JSA yang baik melibatkan para pekerja." },
+    { "id": "pembuat-alasan", "label": "Alasan Libatkan Pekerja", "color": "#f59e0b", "parent": "pembuat-jsa", "content": "Pekerja paling memahami detail bahaya pekerjaannya sehingga analisis lebih akurat." },
+    { "id": "pembuat-aware", "label": "Meningkatkan Awareness", "color": "#f59e0b", "parent": "pembuat-jsa", "content": "Keterlibatan membuat pekerja lebih aware terhadap bahaya setiap kali bekerja." },
+    { "id": "jso", "label": "Definisi & Tujuan JSO", "color": "#ef4444", "parent": "jsa-jso", "content": "Job Safety Observation: pengamatan terstruktur oleh petugas terlatih terhadap pekerja saat bekerja." },
+    { "id": "jso-objek", "label": "Objek Observasi", "color": "#ef4444", "parent": "jso", "content": "Mengamati perilaku pekerja dan kondisi lingkungan yang aman maupun tidak aman." },
+    { "id": "jso-tujuan", "label": "Tujuan JSO", "color": "#ef4444", "parent": "jso", "content": "Reinforce perilaku aman, koreksi langsung perilaku tidak aman, dan kenali tren masalah keselamatan." },
+    { "id": "jso-aktivitas", "label": "Aktivitas Inti", "color": "#ef4444", "parent": "jso", "content": "Pengamatan langsung, pencatatan, dan pemberian feedback langsung kepada pekerja." },
+    { "id": "jso-output", "label": "Output JSO", "color": "#ef4444", "parent": "jso", "content": "Laporan observasi, data perilaku/kondisi, dan feedback langsung." },
+    { "id": "beda", "label": "Perbedaan JSA & JSO", "color": "#ec4899", "parent": "jsa-jso", "content": "JSA dan JSO berbeda pada fokus, waktu, sifat, dan output namun saling melengkapi." },
+    { "id": "beda-fokus", "label": "Beda Fokus", "color": "#ec4899", "parent": "beda", "content": "JSA fokus bahaya pekerjaan; JSO fokus perilaku pekerja & kondisi lingkungan." },
+    { "id": "beda-waktu", "label": "Beda Waktu", "color": "#ec4899", "parent": "beda", "content": "JSA sebelum pekerjaan; JSO saat pekerjaan berlangsung." },
+    { "id": "beda-sifat", "label": "Beda Sifat", "color": "#ec4899", "parent": "beda", "content": "JSA proaktif; JSO proaktif sekaligus reaktif." },
+    { "id": "beda-output", "label": "Beda Output", "color": "#ec4899", "parent": "beda", "content": "JSA: dokumen prosedur; JSO: laporan observasi & feedback." },
+    { "id": "beda-melengkapi", "label": "Saling Melengkapi", "color": "#ec4899", "parent": "beda", "content": "JSA merencanakan keselamatan, JSO memverifikasi penerapannya di lapangan." },
+    { "id": "waktu", "label": "Waktu Pelaksanaan", "color": "#14b8a6", "parent": "jsa-jso", "content": "Pembeda penting antara pendekatan proaktif (sebelum) dan reaktif (saat/setelah)." },
+    { "id": "waktu-proaktif", "label": "Proaktif", "color": "#14b8a6", "parent": "waktu", "content": "Tindakan diambil sebelum bahaya menjadi kecelakaan — ciri utama JSA." },
+    { "id": "waktu-reaktif", "label": "Reaktif", "color": "#14b8a6", "parent": "waktu", "content": "Tindakan diambil sebagai respons saat perilaku/kondisi tidak aman muncul — bagian dari JSO." },
+    { "id": "waktu-perlu", "label": "Kebutuhan Keduanya", "color": "#14b8a6", "parent": "waktu", "content": "Pendekatan reaktif saja tidak cukup; perlu kombinasi proaktif JSA dan observasi JSO." },
+    { "id": "hierarki", "label": "Hierarki Pengendalian", "color": "#8b5cf6", "parent": "jsa-jso", "content": "Acuan menentukan tindakan pengendalian risiko dalam JSA, dari paling efektif ke paling lemah." },
+    { "id": "h-eliminasi", "label": "Eliminasi", "color": "#8b5cf6", "parent": "hierarki", "content": "Menghilangkan sumber bahaya secara total — paling efektif." },
+    { "id": "h-substitusi", "label": "Substitusi", "color": "#8b5cf6", "parent": "hierarki", "content": "Mengganti bahan/proses berbahaya dengan yang lebih aman." },
+    { "id": "h-engineering", "label": "Engineering Control", "color": "#8b5cf6", "parent": "hierarki", "content": "Rekayasa teknik seperti pelindung mesin, ventilasi, dan isolasi sumber bahaya." },
+    { "id": "h-administratif", "label": "Administratif", "color": "#8b5cf6", "parent": "hierarki", "content": "Pengaturan kerja seperti rotasi, rambu peringatan, prosedur, dan pelatihan." },
+    { "id": "h-apd", "label": "APD", "color": "#8b5cf6", "parent": "hierarki", "content": "Alat Pelindung Diri (helm, sarung tangan, kacamata) — pilihan terakhir, paling lemah." }
+  ]
+}

@@ -1,0 +1,1298 @@
+{
+  "topic": "Sistem Kardiovaskuler dan Aktivitas Kerja",
+  "order": 3,
+  "description": "Sistem kardiovaskuler terdiri dari jantung, pembuluh darah, dan darah yang bekerja sama mengalirkan oksigen serta nutrisi ke seluruh tubuh. Saat bekerja, sistem ini merespons dengan meningkatkan denyut jantung, stroke volume, dan curah jantung untuk memenuhi kebutuhan oksigen otot. Beban kerja kardiovaskular dapat diukur melalui parameter %CVL (Cardiovascular Load) sebagai dasar penetapan waktu kerja dan istirahat.",
+  "subtopics": [
+    "Definisi & Fungsi Kardiovaskuler",
+    "Faktor yang Mempengaruhi",
+    "Pengaruh Aktivitas Kerja",
+    "Risiko & Pencegahan Penyakit",
+    "Respons Kardiovaskular Saat Kerja",
+    "Pengukuran %CVL & Beban Kerja"
+  ],
+  "questions": [
+    {
+      "text": "Sistem kardiovaskuler terdiri dari komponen utama berikut, yaitu?",
+      "explanation": "Sistem kardiovaskuler terdiri dari jantung, pembuluh darah (arteri, vena, kapiler), dan darah yang bekerja sama mengalirkan oksigen dan nutrisi.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Jantung, pembuluh darah, dan darah", "isCorrect": true },
+        { "text": "B. Paru, trakea, dan bronkus", "isCorrect": false },
+        { "text": "C. Otak, sumsum tulang belakang, dan saraf", "isCorrect": false },
+        { "text": "D. Otot, tulang, dan jaringan ikat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi utama sistem kardiovaskuler dalam aktivitas kerja adalah?",
+      "explanation": "Sistem kardiovaskuler berfungsi mengalirkan oksigen dan nutrisi ke seluruh tubuh termasuk otot yang sedang bekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Mencerna makanan menjadi energi", "isCorrect": false },
+        { "text": "B. Mengalirkan oksigen dan nutrisi ke seluruh tubuh", "isCorrect": true },
+        { "text": "C. Menghasilkan sel darah putih di limpa", "isCorrect": false },
+        { "text": "D. Mengatur kadar hormon insulin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembuluh darah yang membawa darah dari jantung ke seluruh tubuh disebut?",
+      "explanation": "Arteri adalah pembuluh darah yang membawa darah keluar dari jantung menuju jaringan tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Vena", "isCorrect": false },
+        { "text": "B. Kapiler", "isCorrect": false },
+        { "text": "C. Arteri", "isCorrect": true },
+        { "text": "D. Limfe", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembuluh darah yang membawa darah kembali ke jantung disebut?",
+      "explanation": "Vena adalah pembuluh darah yang membawa darah dari jaringan kembali menuju jantung.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Arteri", "isCorrect": false },
+        { "text": "B. Vena", "isCorrect": true },
+        { "text": "C. Aorta", "isCorrect": false },
+        { "text": "D. Kapiler", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertukaran oksigen, nutrisi, dan zat sisa antara darah dengan jaringan terjadi di?",
+      "explanation": "Kapiler adalah pembuluh darah terkecil tempat terjadinya pertukaran oksigen, nutrisi, dan produk sisa antara darah dan jaringan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Arteri besar", "isCorrect": false },
+        { "text": "B. Vena besar", "isCorrect": false },
+        { "text": "C. Kapiler", "isCorrect": true },
+        { "text": "D. Aorta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain mengalirkan oksigen, sistem kardiovaskuler juga berfungsi mengangkut keluar dari tubuh berupa?",
+      "explanation": "Sistem kardiovaskuler mengangkut karbon dioksida dan produk limbah lainnya keluar dari jaringan tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Karbon dioksida dan produk limbah", "isCorrect": true },
+        { "text": "B. Oksigen murni", "isCorrect": false },
+        { "text": "C. Asam lambung", "isCorrect": false },
+        { "text": "D. Empedu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain mengalirkan darah, fungsi sistem kardiovaskuler dalam menjaga homeostasis tubuh antara lain?",
+      "explanation": "Sistem kardiovaskuler turut mengatur suhu tubuh dan tekanan darah melalui distribusi aliran darah.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Mengatur suhu tubuh dan tekanan darah", "isCorrect": true },
+        { "text": "B. Memproduksi enzim pencernaan", "isCorrect": false },
+        { "text": "C. Menyaring udara pernapasan", "isCorrect": false },
+        { "text": "D. Menghasilkan vitamin D", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian jantung yang berfungsi memompa darah kaya oksigen ke seluruh tubuh adalah?",
+      "explanation": "Ventrikel kiri memompa darah kaya oksigen melalui aorta ke seluruh tubuh, sehingga memiliki dinding paling tebal.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Atrium kanan", "isCorrect": false },
+        { "text": "B. Ventrikel kiri", "isCorrect": true },
+        { "text": "C. Atrium kiri", "isCorrect": false },
+        { "text": "D. Ventrikel kanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor berikut yang dapat MENINGKATKAN kesehatan sistem kardiovaskuler adalah?",
+      "explanation": "Aktivitas fisik yang teratur dapat meningkatkan kesehatan dan efisiensi sistem kardiovaskuler.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Stres kerja berkepanjangan", "isCorrect": false },
+        { "text": "B. Aktivitas fisik yang teratur", "isCorrect": true },
+        { "text": "C. Postur kerja yang buruk", "isCorrect": false },
+        { "text": "D. Kurang tidur kronis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja yang berlebihan dapat mempengaruhi sistem kardiovaskuler dengan cara?",
+      "explanation": "Stres kerja dapat meningkatkan tekanan darah dan denyut jantung melalui aktivasi sistem saraf simpatis.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Menurunkan tekanan darah dan denyut jantung", "isCorrect": false },
+        { "text": "B. Meningkatkan tekanan darah dan denyut jantung", "isCorrect": true },
+        { "text": "C. Menghentikan aliran darah", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Postur kerja yang tidak nyaman atau statis dapat memengaruhi sistem kardiovaskuler karena?",
+      "explanation": "Postur kerja yang tidak nyaman meningkatkan beban statis sehingga dapat menaikkan tekanan darah dan denyut jantung.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Menurunkan kebutuhan oksigen otot", "isCorrect": false },
+        { "text": "B. Meningkatkan tekanan darah dan denyut jantung", "isCorrect": true },
+        { "text": "C. Mempercepat pemulihan jantung", "isCorrect": false },
+        { "text": "D. Menghilangkan beban kerja fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja yang berat memengaruhi sistem kardiovaskuler dengan?",
+      "explanation": "Beban kerja yang berat meningkatkan tekanan darah dan denyut jantung untuk memenuhi kebutuhan oksigen otot.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Menurunkan denyut jantung", "isCorrect": false },
+        { "text": "B. Meningkatkan denyut jantung dan tekanan darah", "isCorrect": true },
+        { "text": "C. Menurunkan kebutuhan oksigen", "isCorrect": false },
+        { "text": "D. Menghentikan curah jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor individu berikut yang memengaruhi respons denyut jantung saat bekerja adalah?",
+      "explanation": "Usia, jenis kelamin, tingkat kebugaran (VO2max), dan suhu lingkungan memengaruhi respons HR terhadap beban kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Warna pakaian kerja", "isCorrect": false },
+        { "text": "B. Usia, jenis kelamin, dan kebugaran", "isCorrect": true },
+        { "text": "C. Jenis sepatu yang dipakai", "isCorrect": false },
+        { "text": "D. Merek mesin yang dioperasikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu lingkungan kerja yang panas memengaruhi sistem kardiovaskuler karena?",
+      "explanation": "Lingkungan panas meningkatkan denyut jantung karena jantung harus memompa lebih banyak darah ke kulit untuk pendinginan, menambah beban kardiovaskular.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Menurunkan beban kerja jantung", "isCorrect": false },
+        { "text": "B. Meningkatkan denyut jantung untuk pendinginan tubuh", "isCorrect": true },
+        { "text": "C. Menghentikan kerja pembuluh darah", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh pada jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan tingkat kebugaran (VO2max) yang lebih tinggi cenderung memiliki?",
+      "explanation": "Pekerja bugar dengan VO2max tinggi memiliki respons HR lebih efisien dan mencapai %CVL tertentu pada beban kerja lebih tinggi.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Denyut jantung istirahat lebih tinggi", "isCorrect": false },
+        { "text": "B. Toleransi beban kerja kardiovaskular lebih baik", "isCorrect": true },
+        { "text": "C. Risiko fatigue lebih cepat", "isCorrect": false },
+        { "text": "D. Curah jantung yang lebih rendah saat kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kurangnya aktivitas fisik (gaya hidup sedentari) terhadap sistem kardiovaskuler dapat?",
+      "explanation": "Kurangnya aktivitas fisik merupakan faktor risiko yang dapat meningkatkan kejadian penyakit kardiovaskuler.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Meningkatkan risiko penyakit kardiovaskuler", "isCorrect": true },
+        { "text": "B. Menurunkan tekanan darah secara permanen", "isCorrect": false },
+        { "text": "C. Memperkuat otot jantung", "isCorrect": false },
+        { "text": "D. Menurunkan kadar kolesterol", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas kerja yang berat dapat mempengaruhi sistem kardiovaskuler, kecuali?",
+      "explanation": "Aktivitas kerja berat meningkatkan tekanan darah, denyut jantung, dan kebutuhan oksigen, bukan menurunkan kebutuhan oksigen.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Meningkatkan tekanan darah", "isCorrect": false },
+        { "text": "B. Meningkatkan denyut jantung", "isCorrect": false },
+        { "text": "C. Menurunkan kebutuhan oksigen tubuh", "isCorrect": true },
+        { "text": "D. Meningkatkan kebutuhan oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat seseorang melakukan kerja fisik berat, denyut jantung akan?",
+      "explanation": "Denyut jantung meningkat saat kerja fisik untuk memenuhi peningkatan kebutuhan oksigen otot.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Menurun drastis", "isCorrect": false },
+        { "text": "B. Meningkat", "isCorrect": true },
+        { "text": "C. Tetap konstan", "isCorrect": false },
+        { "text": "D. Berhenti sementara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peningkatan kebutuhan oksigen otot saat bekerja menuntut sistem kardiovaskuler untuk?",
+      "explanation": "Untuk memenuhi kebutuhan oksigen otot, jantung meningkatkan curah jantung dengan menaikkan denyut jantung dan stroke volume.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Mengurangi aliran darah ke otot", "isCorrect": false },
+        { "text": "B. Meningkatkan curah jantung ke otot aktif", "isCorrect": true },
+        { "text": "C. Memperlambat sirkulasi darah", "isCorrect": false },
+        { "text": "D. Menghentikan pemompaan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan darah saat melakukan aktivitas kerja berat umumnya akan?",
+      "explanation": "Aktivitas kerja berat meningkatkan tekanan darah, terutama tekanan sistolik, akibat peningkatan curah jantung.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Meningkat", "isCorrect": true },
+        { "text": "B. Menurun", "isCorrect": false },
+        { "text": "C. Tetap stabil tanpa perubahan", "isCorrect": false },
+        { "text": "D. Menjadi nol", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat kerja fisik, redistribusi aliran darah terjadi sehingga aliran darah lebih banyak menuju?",
+      "explanation": "Saat kerja, aliran darah didistribusikan lebih banyak ke otot rangka yang aktif dan kulit (untuk pendinginan), sementara ke organ pencernaan berkurang.",
+      "difficulty": "HARD",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Saluran pencernaan", "isCorrect": false },
+        { "text": "B. Otot rangka yang aktif", "isCorrect": true },
+        { "text": "C. Ginjal saja", "isCorrect": false },
+        { "text": "D. Jaringan lemak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan darah yang diukur saat jantung berkontraksi (memompa) disebut tekanan?",
+      "explanation": "Tekanan sistolik adalah tekanan darah saat jantung berkontraksi memompa darah ke pembuluh darah.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Diastolik", "isCorrect": false },
+        { "text": "B. Sistolik", "isCorrect": true },
+        { "text": "C. Vena sentral", "isCorrect": false },
+        { "text": "D. Osmotik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan darah yang diukur saat jantung berelaksasi (mengisi) disebut tekanan?",
+      "explanation": "Tekanan diastolik adalah tekanan darah saat jantung berelaksasi dan terisi darah di antara denyut.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Sistolik", "isCorrect": false },
+        { "text": "B. Diastolik", "isCorrect": true },
+        { "text": "C. Nadi", "isCorrect": false },
+        { "text": "D. Arteri pulmonal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas kerja yang berat dan terus-menerus tanpa pemulihan yang cukup dapat?",
+      "explanation": "Beban kerja berat yang berkepanjangan tanpa pemulihan dapat meningkatkan risiko penyakit kardiovaskuler.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Meningkatkan risiko penyakit kardiovaskuler", "isCorrect": true },
+        { "text": "B. Menyembuhkan hipertensi", "isCorrect": false },
+        { "text": "C. Menurunkan denyut jantung istirahat secara berbahaya", "isCorrect": false },
+        { "text": "D. Tidak memiliki dampak kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor risiko penyakit kardiovaskuler yang berasal dari lingkungan kerja adalah?",
+      "explanation": "Beban kerja berat, postur kerja tidak nyaman, dan stres kerja merupakan faktor risiko penyakit kardiovaskuler terkait kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Stres kerja dan beban kerja berat", "isCorrect": true },
+        { "text": "B. Pencahayaan yang cukup", "isCorrect": false },
+        { "text": "C. Waktu istirahat yang teratur", "isCorrect": false },
+        { "text": "D. Aktivitas fisik teratur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara mencegah penyakit kardiovaskuler terkait kerja adalah?",
+      "explanation": "Melakukan aktivitas fisik teratur meningkatkan kesehatan sistem kardiovaskuler dan menjadi langkah pencegahan utama.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Menambah jam kerja lembur", "isCorrect": false },
+        { "text": "B. Melakukan aktivitas fisik secara teratur", "isCorrect": true },
+        { "text": "C. Menghindari semua istirahat", "isCorrect": false },
+        { "text": "D. Meningkatkan beban kerja statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengatur postur kerja yang nyaman dapat mencegah penyakit kardiovaskuler karena?",
+      "explanation": "Postur kerja yang nyaman mencegah peningkatan tekanan darah dan denyut jantung akibat beban statis berlebih.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Mencegah peningkatan tekanan darah dan denyut jantung", "isCorrect": true },
+        { "text": "B. Menghilangkan kebutuhan oksigen", "isCorrect": false },
+        { "text": "C. Menambah beban kerja jantung", "isCorrect": false },
+        { "text": "D. Menghentikan sirkulasi darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengelola stres kerja untuk mencegah penyakit kardiovaskuler dapat dilakukan dengan?",
+      "explanation": "Teknik relaksasi dan manajemen waktu yang efektif membantu mengelola stres kerja sehingga menurunkan beban kardiovaskular.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Teknik relaksasi dan manajemen waktu", "isCorrect": true },
+        { "text": "B. Menambah jam kerja tanpa istirahat", "isCorrect": false },
+        { "text": "C. Mengabaikan gejala kelelahan", "isCorrect": false },
+        { "text": "D. Meningkatkan konsumsi kafein berlebihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan secara teratur penting dalam pencegahan penyakit kardiovaskuler karena?",
+      "explanation": "Pemeriksaan kesehatan berkala memungkinkan deteksi dini gangguan kardiovaskuler sehingga dapat ditangani lebih awal.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Memungkinkan deteksi dini gangguan kardiovaskuler", "isCorrect": true },
+        { "text": "B. Menggantikan kebutuhan istirahat", "isCorrect": false },
+        { "text": "C. Meningkatkan beban kerja", "isCorrect": false },
+        { "text": "D. Menaikkan tekanan darah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengambil istirahat yang cukup di sela kerja bertujuan untuk?",
+      "explanation": "Istirahat yang cukup mencegah kelelahan dan stres kerja yang dapat membebani sistem kardiovaskuler.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Mencegah kelelahan dan stres kerja", "isCorrect": true },
+        { "text": "B. Memperberat beban jantung", "isCorrect": false },
+        { "text": "C. Menaikkan denyut jantung", "isCorrect": false },
+        { "text": "D. Mengurangi produktivitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN merupakan langkah pencegahan penyakit kardiovaskuler terkait kerja adalah?",
+      "explanation": "Memperbanyak beban kerja statis justru meningkatkan risiko, bukan mencegah penyakit kardiovaskuler.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Mengatur postur kerja yang nyaman", "isCorrect": false },
+        { "text": "B. Memperbanyak beban kerja statis berkepanjangan", "isCorrect": true },
+        { "text": "C. Melakukan aktivitas fisik teratur", "isCorrect": false },
+        { "text": "D. Mengelola stres kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hipertensi (tekanan darah tinggi) yang dapat diperberat oleh stres kerja merupakan contoh?",
+      "explanation": "Hipertensi merupakan salah satu penyakit kardiovaskuler yang dapat dipicu atau diperberat oleh stres kerja dan beban kerja berat.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Penyakit kardiovaskuler", "isCorrect": true },
+        { "text": "B. Penyakit pernapasan", "isCorrect": false },
+        { "text": "C. Gangguan muskuloskeletal", "isCorrect": false },
+        { "text": "D. Gangguan pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Respons kardiovaskular terhadap kerja fisik ditandai dengan peningkatan tiga parameter, yaitu?",
+      "explanation": "Respons kardiovaskular saat kerja ditandai peningkatan heart rate (HR), stroke volume, dan cardiac output untuk memenuhi kebutuhan O2 otot.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Heart rate, stroke volume, dan cardiac output", "isCorrect": true },
+        { "text": "B. Tidal volume, frekuensi napas, dan VE", "isCorrect": false },
+        { "text": "C. pH darah, suhu, dan glukosa", "isCorrect": false },
+        { "text": "D. Tekanan osmotik, viskositas, dan hematokrit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator fisiologis utama beban kerja karena korelasinya yang linier dengan VO2 pada intensitas 50-85% HRmax adalah?",
+      "explanation": "Heart rate (HR) menjadi indikator fisiologis utama beban kerja karena berkorelasi linier dengan VO2 pada intensitas 50-85% HRmax.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Tekanan diastolik", "isCorrect": false },
+        { "text": "B. Heart rate (denyut jantung)", "isCorrect": true },
+        { "text": "C. Tidal volume", "isCorrect": false },
+        { "text": "D. Suhu tubuh inti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stroke volume adalah?",
+      "explanation": "Stroke volume adalah volume darah yang dipompa keluar ventrikel jantung dalam satu kali denyut/kontraksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Jumlah denyut jantung per menit", "isCorrect": false },
+        { "text": "B. Volume darah yang dipompa per satu denyut", "isCorrect": true },
+        { "text": "C. Tekanan darah saat istirahat", "isCorrect": false },
+        { "text": "D. Volume udara yang dihirup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Curah jantung (cardiac output) merupakan hasil perkalian antara?",
+      "explanation": "Cardiac output = heart rate x stroke volume, yaitu volume darah yang dipompa jantung per menit.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Heart rate x stroke volume", "isCorrect": true },
+        { "text": "B. Tekanan sistolik x diastolik", "isCorrect": false },
+        { "text": "C. Tidal volume x frekuensi napas", "isCorrect": false },
+        { "text": "D. VO2max x umur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HRmax (denyut jantung maksimal) dapat diestimasi dengan formula?",
+      "explanation": "HRmax diestimasi dengan formula sederhana 220 dikurangi umur dalam tahun.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. 220 - umur", "isCorrect": true },
+        { "text": "B. 200 + umur", "isCorrect": false },
+        { "text": "C. umur x 2", "isCorrect": false },
+        { "text": "D. 180 - berat badan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja berusia 40 tahun, berapa estimasi HRmax-nya?",
+      "explanation": "HRmax = 220 - 40 = 180 denyut per menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. 160 bpm", "isCorrect": false },
+        { "text": "B. 180 bpm", "isCorrect": true },
+        { "text": "C. 200 bpm", "isCorrect": false },
+        { "text": "D. 140 bpm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Heart rate reserve (HRR) dihitung dengan rumus?",
+      "explanation": "Heart rate reserve (HRR) = HRmax - HR istirahat, menggambarkan cadangan kapasitas denyut jantung.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. HRmax + HR istirahat", "isCorrect": false },
+        { "text": "B. HRmax - HR istirahat", "isCorrect": true },
+        { "text": "C. HR kerja x HR istirahat", "isCorrect": false },
+        { "text": "D. HRmax / 2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada awal kerja fisik, peningkatan curah jantung lebih banyak dicapai melalui peningkatan?",
+      "explanation": "Peningkatan curah jantung saat kerja terutama dicapai melalui peningkatan heart rate (dan stroke volume hingga batas tertentu).",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Penurunan tekanan darah", "isCorrect": false },
+        { "text": "B. Peningkatan heart rate dan stroke volume", "isCorrect": true },
+        { "text": "C. Penurunan frekuensi napas", "isCorrect": false },
+        { "text": "D. Penurunan suhu tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kapasitas kerja fisik aerobik seseorang ditentukan oleh parameter?",
+      "explanation": "VO2max menjadi penentu kapasitas kerja fisik aerobik; semakin tinggi VO2max semakin besar kapasitas kerja.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. VO2max", "isCorrect": true },
+        { "text": "B. Tinggi badan", "isCorrect": false },
+        { "text": "C. Tekanan diastolik istirahat", "isCorrect": false },
+        { "text": "D. Jumlah sel darah putih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa denyut jantung sering dipakai sebagai indikator beban kerja di lapangan dibanding pengukuran VO2 langsung?",
+      "explanation": "HR mudah diukur (misalnya dengan heart rate monitor) dan berkorelasi linier dengan VO2, sehingga praktis sebagai indikator beban kerja di lapangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Karena lebih mudah diukur dan berkorelasi linier dengan VO2", "isCorrect": true },
+        { "text": "B. Karena tidak dipengaruhi usia", "isCorrect": false },
+        { "text": "C. Karena tidak dipengaruhi suhu lingkungan", "isCorrect": false },
+        { "text": "D. Karena selalu sama untuk semua orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja kardiovaskular (Cardiovascular Load) diukur dengan parameter?",
+      "explanation": "Beban kerja kardiovaskular diukur melalui %CVL (Cardiovascular Load) yang membandingkan kenaikan HR kerja terhadap HRR.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. %CVL (Cardiovascular Load)", "isCorrect": true },
+        { "text": "B. Tidal volume", "isCorrect": false },
+        { "text": "C. NAB kebisingan", "isCorrect": false },
+        { "text": "D. Indeks massa tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rumus %CVL (Cardiovascular Load) yang benar adalah?",
+      "explanation": "%CVL = (HR kerja - HR istirahat) / (HRmax - HR istirahat) x 100%.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. (HR kerja - HR istirahat) / (HRmax - HR istirahat) x 100%", "isCorrect": true },
+        { "text": "B. (HRmax - HR kerja) / HR istirahat x 100%", "isCorrect": false },
+        { "text": "C. HR kerja / HRmax x 100%", "isCorrect": false },
+        { "text": "D. (HR istirahat - HR kerja) / HRmax x 100%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada perhitungan %CVL, komponen (HRmax - HR istirahat) disebut juga?",
+      "explanation": "Komponen (HRmax - HR istirahat) merupakan heart rate reserve (HRR) atau cadangan denyut jantung.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Cardiac output", "isCorrect": false },
+        { "text": "B. Heart rate reserve (HRR)", "isCorrect": true },
+        { "text": "C. Stroke volume", "isCorrect": false },
+        { "text": "D. Tidal volume", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ACGIH 2024, nilai %CVL yang tergolong AMAN untuk kerja 8 jam adalah?",
+      "explanation": "Menurut ACGIH 2024, %CVL <30% tergolong aman untuk kerja 8 jam tanpa kelelahan kardiovaskular berarti.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. <30%", "isCorrect": true },
+        { "text": "B. 30-40%", "isCorrect": false },
+        { "text": "C. >40%", "isCorrect": false },
+        { "text": "D. >60%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ACGIH 2024, %CVL pada rentang 30-40% memerlukan tindakan?",
+      "explanation": "Menurut ACGIH 2024, %CVL 30-40% memerlukan penambahan waktu istirahat sekitar 50% dari waktu kerja.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Tidak perlu istirahat tambahan", "isCorrect": false },
+        { "text": "B. Perlu istirahat sekitar 50%", "isCorrect": true },
+        { "text": "C. Boleh lembur tanpa batas", "isCorrect": false },
+        { "text": "D. Beban kerja boleh ditambah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ACGIH 2024, %CVL >40% berarti pekerja?",
+      "explanation": "Menurut ACGIH 2024, %CVL >40% berisiko fatigue akut sehingga waktu kerja sebaiknya dibatasi kurang dari 1 jam.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Aman bekerja 8 jam penuh", "isCorrect": false },
+        { "text": "B. Berisiko fatigue akut, waktu kerja harus <1 jam", "isCorrect": true },
+        { "text": "C. Hanya perlu minum air", "isCorrect": false },
+        { "text": "D. Boleh menambah beban kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja memiliki HR istirahat 70 bpm, HR kerja 130 bpm, dan HRmax 180 bpm. Berapa %CVL-nya?",
+      "explanation": "%CVL = (130-70)/(180-70) x 100% = 60/110 x 100% = 54,5%, tergolong >40% sehingga berisiko fatigue akut.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. 30%", "isCorrect": false },
+        { "text": "B. 54,5%", "isCorrect": true },
+        { "text": "C. 72%", "isCorrect": false },
+        { "text": "D. 45%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja A berusia 30 tahun, HR istirahat 75 bpm dan HR kerja 113 bpm. Berapa %CVL-nya (HRmax = 220-30)?",
+      "explanation": "HRmax = 220-30 = 190. %CVL = (113-75)/(190-75) x 100% = 38/115 x 100% = 33%, tergolong 30-40% sehingga perlu istirahat.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. 33%", "isCorrect": true },
+        { "text": "B. 50%", "isCorrect": false },
+        { "text": "C. 20%", "isCorrect": false },
+        { "text": "D. 60%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan VO2max rendah dibanding pekerja bugar, pada beban kerja yang sama akan mencapai %CVL?",
+      "explanation": "Pekerja dengan VO2max rendah mencapai %CVL 40% pada beban lebih ringan (3,5 kkal/menit), sedangkan pekerja bugar pada 5,5 kkal/menit; jadi pekerja kurang bugar mencapai %CVL tinggi lebih cepat.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Lebih tinggi (lebih cepat fatigue)", "isCorrect": true },
+        { "text": "B. Lebih rendah (lebih tahan)", "isCorrect": false },
+        { "text": "C. Sama persis", "isCorrect": false },
+        { "text": "D. Selalu nol", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aplikasi K3 dari pengukuran HR/%CVL secara real-time saat bekerja di lingkungan panas adalah?",
+      "explanation": "Monitoring HR real-time digunakan untuk heat stress management, yaitu memantau beban panas pekerja agar tidak melebihi batas aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Manajemen stres panas (heat stress management)", "isCorrect": true },
+        { "text": "B. Pengukuran kebisingan", "isCorrect": false },
+        { "text": "C. Pengukuran pencahayaan", "isCorrect": false },
+        { "text": "D. Penilaian postur statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil pengukuran %CVL dapat digunakan untuk menetapkan?",
+      "explanation": "%CVL digunakan untuk menetapkan siklus kerja-istirahat (work-rest cycle) agar beban kardiovaskular pekerja tetap aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Siklus kerja-istirahat (work-rest cycle)", "isCorrect": true },
+        { "text": "B. Nilai ambang batas kebisingan", "isCorrect": false },
+        { "text": "C. Standar pencahayaan ruang", "isCorrect": false },
+        { "text": "D. Kapasitas paru-paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu metode lapangan untuk seleksi fit to work berbasis respons kardiovaskular adalah?",
+      "explanation": "YMCA Step Test merupakan salah satu metode untuk seleksi fit to work dengan menilai respons denyut jantung terhadap beban naik-turun tangga.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. YMCA Step Test", "isCorrect": true },
+        { "text": "B. Audiometri", "isCorrect": false },
+        { "text": "C. Spirometri statis", "isCorrect": false },
+        { "text": "D. Lux metering", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan %CVL kronis di atas 33% selama 4 jam berkorelasi dengan?",
+      "explanation": "Pekerja dengan %CVL kronis >33% selama 4 jam berkorelasi dengan peningkatan kejadian penyakit akibat kerja (PAK) kardiovaskular.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Peningkatan kejadian PAK kardiovaskular", "isCorrect": true },
+        { "text": "B. Penurunan risiko hipertensi", "isCorrect": false },
+        { "text": "C. Peningkatan kapasitas paru", "isCorrect": false },
+        { "text": "D. Tidak ada dampak kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama penetapan work-rest cycle berdasarkan %CVL adalah?",
+      "explanation": "Penetapan work-rest cycle bertujuan menjaga beban kardiovaskular tetap dalam batas aman agar pekerja tidak mengalami fatigue akut.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Menjaga beban kardiovaskular tetap aman", "isCorrect": true },
+        { "text": "B. Meningkatkan beban kerja maksimal", "isCorrect": false },
+        { "text": "C. Menghapus waktu istirahat", "isCorrect": false },
+        { "text": "D. Meningkatkan suhu lingkungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Denyut jantung istirahat normal orang dewasa umumnya berada pada rentang?",
+      "explanation": "Denyut jantung istirahat normal orang dewasa berkisar 60-100 denyut per menit.",
+      "difficulty": "EASY",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. 60-100 bpm", "isCorrect": true },
+        { "text": "B. 20-40 bpm", "isCorrect": false },
+        { "text": "C. 120-160 bpm", "isCorrect": false },
+        { "text": "D. 180-220 bpm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan darah normal orang dewasa menurut acuan umum adalah sekitar?",
+      "explanation": "Tekanan darah normal orang dewasa sekitar 120/80 mmHg (sistolik/diastolik).",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. 120/80 mmHg", "isCorrect": true },
+        { "text": "B. 90/60 mmHg", "isCorrect": false },
+        { "text": "C. 200/120 mmHg", "isCorrect": false },
+        { "text": "D. 60/40 mmHg", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah berhenti bekerja, denyut jantung yang kembali ke nilai istirahat dengan cepat menunjukkan?",
+      "explanation": "Pemulihan denyut jantung yang cepat setelah kerja menandakan kebugaran kardiovaskular yang baik.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Kebugaran kardiovaskular yang baik", "isCorrect": true },
+        { "text": "B. Penyakit jantung berat", "isCorrect": false },
+        { "text": "C. Beban kerja yang berlebihan", "isCorrect": false },
+        { "text": "D. Dehidrasi parah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Latihan/aktivitas fisik teratur dalam jangka panjang dapat menurunkan denyut jantung istirahat karena?",
+      "explanation": "Latihan teratur meningkatkan efisiensi jantung (stroke volume lebih besar) sehingga denyut jantung istirahat menurun.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Jantung menjadi lebih efisien dengan stroke volume lebih besar", "isCorrect": true },
+        { "text": "B. Jantung berhenti memompa", "isCorrect": false },
+        { "text": "C. Volume darah berkurang drastis", "isCorrect": false },
+        { "text": "D. Pembuluh darah menyempit permanen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Darah dalam sistem kardiovaskuler berperan dalam aktivitas kerja terutama untuk?",
+      "explanation": "Darah mengangkut oksigen dan nutrisi ke otot yang bekerja serta membawa karbon dioksida dan zat sisa metabolisme keluar.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Mengangkut oksigen, nutrisi, dan zat sisa", "isCorrect": true },
+        { "text": "B. Menghasilkan suara denyut", "isCorrect": false },
+        { "text": "C. Menyaring cahaya", "isCorrect": false },
+        { "text": "D. Mencerna lemak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peningkatan curah jantung saat kerja bertujuan untuk?",
+      "explanation": "Curah jantung meningkat saat kerja untuk meningkatkan suplai oksigen dan nutrisi ke otot yang aktif.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Meningkatkan suplai oksigen ke otot aktif", "isCorrect": true },
+        { "text": "B. Mengurangi aliran darah ke otot", "isCorrect": false },
+        { "text": "C. Menurunkan tekanan darah", "isCorrect": false },
+        { "text": "D. Menghentikan metabolisme", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada kerja statis (isometrik) yang berkepanjangan, respons denyut jantung cenderung?",
+      "explanation": "Kerja statis menghambat aliran darah otot dan dapat meningkatkan denyut jantung serta tekanan darah lebih cepat dibanding kerja dinamis ringan.",
+      "difficulty": "HARD",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Meningkat disertai kenaikan tekanan darah", "isCorrect": true },
+        { "text": "B. Menurun tajam", "isCorrect": false },
+        { "text": "C. Selalu tetap stabil", "isCorrect": false },
+        { "text": "D. Tidak berubah sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja memiliki HR istirahat 65 bpm, HR kerja 88 bpm, HRmax 185 bpm. %CVL-nya tergolong?",
+      "explanation": "%CVL = (88-65)/(185-65) x 100% = 23/120 x 100% = 19%, tergolong <30% sehingga aman untuk kerja 8 jam.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Aman (<30%)", "isCorrect": true },
+        { "text": "B. Perlu istirahat (30-40%)", "isCorrect": false },
+        { "text": "C. Berisiko fatigue akut (>40%)", "isCorrect": false },
+        { "text": "D. Tidak dapat dihitung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Parameter yang dibutuhkan untuk menghitung %CVL adalah?",
+      "explanation": "Perhitungan %CVL membutuhkan HR kerja, HR istirahat, dan HRmax (yang dapat diestimasi dari 220-umur).",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. HR kerja, HR istirahat, dan HRmax", "isCorrect": true },
+        { "text": "B. Tidal volume dan VE", "isCorrect": false },
+        { "text": "C. Tekanan udara dan kelembaban", "isCorrect": false },
+        { "text": "D. Tinggi dan berat badan saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja meningkatkan denyut jantung dan tekanan darah terutama melalui aktivasi?",
+      "explanation": "Stres kerja mengaktivasi sistem saraf simpatis dan pelepasan hormon (adrenalin) yang meningkatkan denyut jantung dan tekanan darah.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Sistem saraf simpatis", "isCorrect": true },
+        { "text": "B. Sistem saraf parasimpatis", "isCorrect": false },
+        { "text": "C. Sistem pencernaan", "isCorrect": false },
+        { "text": "D. Sistem limfatik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memahami hubungan sistem kardiovaskuler dengan aktivitas kerja penting untuk?",
+      "explanation": "Pemahaman ini penting untuk meningkatkan kenyamanan kerja, mencegah penyakit kardiovaskuler, dan menjaga keselamatan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Mencegah penyakit kardiovaskuler dan meningkatkan kenyamanan kerja", "isCorrect": true },
+        { "text": "B. Meningkatkan kebisingan tempat kerja", "isCorrect": false },
+        { "text": "C. Menambah beban kerja statis", "isCorrect": false },
+        { "text": "D. Menghapus pemeriksaan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan antara %CVL dan VO2max menunjukkan bahwa pekerja bugar dapat?",
+      "explanation": "Pekerja dengan VO2max tinggi (bugar) baru mencapai %CVL 40% pada beban 5,5 kkal/menit, lebih tinggi dibanding pekerja kurang bugar (3,5 kkal/menit).",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Menangani beban kerja lebih berat pada %CVL yang sama", "isCorrect": true },
+        { "text": "B. Mencapai %CVL 40% lebih cepat", "isCorrect": false },
+        { "text": "C. Memiliki HRmax lebih rendah", "isCorrect": false },
+        { "text": "D. Tidak dapat bekerja lama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator klasifikasi beban kerja kardiovaskular yang paling praktis diterapkan di lapangan adalah?",
+      "explanation": "%CVL berbasis pengukuran denyut jantung paling praktis di lapangan karena hanya membutuhkan data HR yang mudah diperoleh.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. %CVL berbasis denyut jantung", "isCorrect": true },
+        { "text": "B. Pengukuran cardiac output invasif", "isCorrect": false },
+        { "text": "C. Biopsi otot jantung", "isCorrect": false },
+        { "text": "D. CT scan jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang TERMASUK aplikasi K3 berbasis monitoring respons kardiovaskular adalah?",
+      "explanation": "Aplikasi K3 meliputi monitoring HR real-time untuk heat stress, penetapan work-rest cycle, dan seleksi fit to work.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Penetapan siklus kerja-istirahat dan seleksi fit to work", "isCorrect": true },
+        { "text": "B. Pengukuran pencahayaan ruangan", "isCorrect": false },
+        { "text": "C. Kalibrasi sound level meter", "isCorrect": false },
+        { "text": "D. Pengujian kekuatan tarik baja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit akibat kerja (PAK) kardiovaskular dapat dicegah dengan mengendalikan?",
+      "explanation": "Pengendalian beban kerja (agar %CVL tetap aman), stres kerja, dan postur kerja membantu mencegah PAK kardiovaskular.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Beban kerja, stres kerja, dan postur kerja", "isCorrect": true },
+        { "text": "B. Warna dinding ruangan", "isCorrect": false },
+        { "text": "C. Jenis musik di tempat kerja", "isCorrect": false },
+        { "text": "D. Merek seragam pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem kardiovaskuler turut mengatur suhu tubuh saat kerja di lingkungan panas dengan cara?",
+      "explanation": "Saat panas, pembuluh darah kulit melebar (vasodilatasi) sehingga aliran darah ke kulit meningkat untuk membuang panas, menambah beban jantung.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Vasodilatasi pembuluh kulit untuk membuang panas", "isCorrect": true },
+        { "text": "B. Menghentikan aliran darah ke kulit", "isCorrect": false },
+        { "text": "C. Menurunkan curah jantung", "isCorrect": false },
+        { "text": "D. Mengeraskan pembuluh darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama mempelajari respons kardiovaskular saat kerja dalam K3 adalah?",
+      "explanation": "Tujuannya adalah menilai beban kerja fisik dan menetapkan batas aman kerja agar tidak terjadi gangguan kesehatan kardiovaskular.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Menilai beban kerja dan menetapkan batas aman kerja", "isCorrect": true },
+        { "text": "B. Menambah jam lembur pekerja", "isCorrect": false },
+        { "text": "C. Mengurangi waktu istirahat", "isCorrect": false },
+        { "text": "D. Meningkatkan kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada intensitas kerja yang sangat berat mendekati HRmax, peningkatan curah jantung lebih dibatasi oleh?",
+      "explanation": "Pada intensitas tinggi, stroke volume cenderung mencapai plateau sehingga peningkatan curah jantung lebih bergantung pada peningkatan heart rate yang mendekati batas HRmax.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Heart rate yang mendekati batas maksimal", "isCorrect": true },
+        { "text": "B. Penurunan tekanan darah", "isCorrect": false },
+        { "text": "C. Peningkatan tidal volume", "isCorrect": false },
+        { "text": "D. Penurunan frekuensi napas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Acuan standar internasional yang sering dirujuk untuk penetapan beban kerja fisik adalah?",
+      "explanation": "ISO 8996:2021 merupakan acuan untuk penetapan/penentuan tingkat metabolisme dan beban kerja fisik, termasuk berbasis respons HR.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. ISO 8996:2021", "isCorrect": true },
+        { "text": "B. ISO 9001:2015", "isCorrect": false },
+        { "text": "C. SNI kebisingan", "isCorrect": false },
+        { "text": "D. ISO 14001", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengelolaan stres kerja yang efektif berkontribusi terhadap kesehatan kardiovaskuler karena?",
+      "explanation": "Mengelola stres menurunkan aktivasi simpatis berlebih sehingga denyut jantung dan tekanan darah tidak terus meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Menurunkan beban denyut jantung dan tekanan darah", "isCorrect": true },
+        { "text": "B. Meningkatkan denyut jantung permanen", "isCorrect": false },
+        { "text": "C. Menambah beban kerja statis", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh pada jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Heart rate monitor (pemantau denyut jantung) di tempat kerja digunakan untuk?",
+      "explanation": "Heart rate monitor digunakan untuk memantau beban kerja kardiovaskular pekerja secara langsung sebagai dasar pengaturan kerja-istirahat.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Memantau beban kerja kardiovaskular pekerja", "isCorrect": true },
+        { "text": "B. Mengukur tingkat kebisingan", "isCorrect": false },
+        { "text": "C. Mengukur intensitas cahaya", "isCorrect": false },
+        { "text": "D. Mengukur kelembaban udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika %CVL seorang pekerja terus berada di kategori >40% sepanjang shift, tindakan K3 yang tepat adalah?",
+      "explanation": "%CVL >40% berisiko fatigue akut, sehingga waktu kerja harus dibatasi (<1 jam) atau beban kerja dikurangi dan istirahat ditambah.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Membatasi waktu kerja dan menambah istirahat", "isCorrect": true },
+        { "text": "B. Menambah jam kerja tanpa istirahat", "isCorrect": false },
+        { "text": "C. Mengabaikan hasil pengukuran", "isCorrect": false },
+        { "text": "D. Meningkatkan beban kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen darah yang berperan langsung mengikat dan mengangkut oksigen adalah?",
+      "explanation": "Hemoglobin pada sel darah merah berperan mengikat dan mengangkut oksigen dari paru ke seluruh jaringan tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Hemoglobin pada sel darah merah", "isCorrect": true },
+        { "text": "B. Sel darah putih", "isCorrect": false },
+        { "text": "C. Trombosit", "isCorrect": false },
+        { "text": "D. Plasma protein albumin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa beban kerja fisik berat berkepanjangan dapat meningkatkan risiko gangguan kardiovaskuler?",
+      "explanation": "Beban kerja berat berkepanjangan membuat jantung bekerja keras terus-menerus (HR dan tekanan darah tinggi), yang bila kronis meningkatkan risiko penyakit kardiovaskuler.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Jantung bekerja keras terus-menerus tanpa pemulihan cukup", "isCorrect": true },
+        { "text": "B. Jantung berhenti bekerja", "isCorrect": false },
+        { "text": "C. Tekanan darah menjadi nol", "isCorrect": false },
+        { "text": "D. Oksigen tidak lagi dibutuhkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hubungan HR dan VO2 saat kerja adalah?",
+      "explanation": "HR dan VO2 berkorelasi linier pada rentang intensitas 50-85% HRmax, sehingga HR dapat dipakai memperkirakan beban kerja aerobik.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. HR meningkat linier seiring VO2 pada 50-85% HRmax", "isCorrect": true },
+        { "text": "B. HR menurun saat VO2 meningkat", "isCorrect": false },
+        { "text": "C. HR tidak berhubungan dengan VO2", "isCorrect": false },
+        { "text": "D. HR selalu konstan apapun bebannya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Klasifikasi beban kerja kardiovaskular menurut %CVL terbagi menjadi kategori?",
+      "explanation": "Menurut ACGIH 2024, %CVL terbagi menjadi <30% (aman), 30-40% (perlu istirahat 50%), dan >40% (berisiko, kerja <1 jam).",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. <30% aman, 30-40% perlu istirahat, >40% berisiko", "isCorrect": true },
+        { "text": "B. <10% aman, 10-20% sedang, >20% berisiko", "isCorrect": false },
+        { "text": "C. <50% aman, 50-70% sedang, >70% berisiko", "isCorrect": false },
+        { "text": "D. <80% aman, 80-90% sedang, >90% berisiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain %CVL, beban kerja fisik juga dapat dinilai dari konsumsi energi dalam satuan?",
+      "explanation": "Beban kerja fisik dapat dinyatakan dalam kilokalori per menit (kkal/menit); misalnya %CVL 40% dicapai pada 3,5-5,5 kkal/menit tergantung kebugaran.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Kilokalori per menit (kkal/menit)", "isCorrect": true },
+        { "text": "B. Desibel (dB)", "isCorrect": false },
+        { "text": "C. Lux", "isCorrect": false },
+        { "text": "D. Pascal (Pa)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja lanjut usia umumnya memiliki HRmax yang lebih rendah karena?",
+      "explanation": "HRmax menurun seiring bertambahnya usia (formula 220-umur), sehingga pekerja lebih tua memiliki cadangan denyut jantung lebih kecil.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. HRmax menurun seiring bertambahnya usia", "isCorrect": true },
+        { "text": "B. HRmax meningkat seiring usia", "isCorrect": false },
+        { "text": "C. Usia tidak memengaruhi HRmax", "isCorrect": false },
+        { "text": "D. HRmax hanya ditentukan berat badan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat istirahat setelah kerja berat, sistem yang memperlambat kembali denyut jantung adalah?",
+      "explanation": "Saat pemulihan, sistem saraf parasimpatis (vagal) lebih dominan dan memperlambat denyut jantung kembali ke nilai istirahat.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Sistem saraf parasimpatis", "isCorrect": true },
+        { "text": "B. Sistem saraf simpatis", "isCorrect": false },
+        { "text": "C. Sistem pencernaan", "isCorrect": false },
+        { "text": "D. Sistem rangka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran %CVL paling tepat dilakukan dengan mencatat HR pada kondisi?",
+      "explanation": "Untuk menghitung %CVL diperlukan HR saat istirahat dan HR saat melakukan pekerjaan (kerja), lalu dibandingkan dengan HRmax.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Saat istirahat dan saat bekerja", "isCorrect": true },
+        { "text": "B. Hanya saat tidur", "isCorrect": false },
+        { "text": "C. Hanya satu kali acak", "isCorrect": false },
+        { "text": "D. Saat sedang makan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang dapat menurunkan VO2max dan kapasitas kerja kardiovaskular pekerja adalah?",
+      "explanation": "Gaya hidup kurang gerak (sedentari), usia bertambah, dan kondisi penyakit dapat menurunkan VO2max dan kapasitas kerja kardiovaskular.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Gaya hidup kurang gerak dan kondisi penyakit", "isCorrect": true },
+        { "text": "B. Latihan aerobik rutin", "isCorrect": false },
+        { "text": "C. Pola makan seimbang", "isCorrect": false },
+        { "text": "D. Tidur yang cukup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam konteks seleksi pekerja (fit to work), pengukuran respons kardiovaskular berguna untuk?",
+      "explanation": "Seleksi fit to work menilai apakah kapasitas kardiovaskular pekerja sesuai dengan tuntutan beban kerja yang akan dijalani.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Menilai kesesuaian kapasitas pekerja dengan beban kerja", "isCorrect": true },
+        { "text": "B. Mengukur tingkat kebisingan mesin", "isCorrect": false },
+        { "text": "C. Menentukan warna seragam", "isCorrect": false },
+        { "text": "D. Mengatur pencahayaan ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang BENAR mengenai sistem kardiovaskuler dan aktivitas kerja adalah?",
+      "explanation": "Sistem kardiovaskuler memainkan peran penting dalam aktivitas kerja dan aktivitas kerja dapat memengaruhinya, sehingga perlu dikelola.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Kardiovaskuler",
+      "options": [
+        { "text": "A. Sistem kardiovaskuler berperan penting dan dipengaruhi aktivitas kerja", "isCorrect": true },
+        { "text": "B. Aktivitas kerja tidak memengaruhi jantung", "isCorrect": false },
+        { "text": "C. Sistem kardiovaskuler tidak relevan dalam K3", "isCorrect": false },
+        { "text": "D. Denyut jantung tidak pernah berubah saat kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Vasodilatasi pembuluh darah otot saat kerja bertujuan untuk?",
+      "explanation": "Vasodilatasi pada otot aktif meningkatkan aliran darah sehingga suplai oksigen dan nutrisi ke otot yang bekerja bertambah.",
+      "difficulty": "HARD",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Meningkatkan aliran darah ke otot aktif", "isCorrect": true },
+        { "text": "B. Menurunkan suplai oksigen otot", "isCorrect": false },
+        { "text": "C. Menghentikan kerja otot", "isCorrect": false },
+        { "text": "D. Menurunkan curah jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan berkala (medical check-up) bagi pekerja berisiko kardiovaskular sebaiknya mencakup?",
+      "explanation": "Pemeriksaan berkala sebaiknya mencakup pengukuran tekanan darah, denyut jantung, dan evaluasi faktor risiko kardiovaskular lainnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Pengukuran tekanan darah dan denyut jantung", "isCorrect": true },
+        { "text": "B. Hanya pengukuran tinggi badan", "isCorrect": false },
+        { "text": "C. Hanya tes penglihatan warna", "isCorrect": false },
+        { "text": "D. Hanya tes pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pekerja dengan kebugaran rendah lebih cepat lelah pada beban kerja yang sama?",
+      "explanation": "Pekerja kurang bugar memiliki VO2max rendah sehingga mencapai %CVL tinggi (mendekati batas) lebih cepat pada beban yang sama, sehingga lebih cepat fatigue.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Mencapai %CVL tinggi lebih cepat karena VO2max rendah", "isCorrect": true },
+        { "text": "B. Memiliki HRmax yang lebih tinggi", "isCorrect": false },
+        { "text": "C. Curah jantungnya tidak meningkat", "isCorrect": false },
+        { "text": "D. Tidak membutuhkan oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat penetapan work-rest cycle berbasis %CVL bagi perusahaan adalah?",
+      "explanation": "Pengaturan kerja-istirahat berbasis %CVL menjaga produktivitas sekaligus mencegah penyakit akibat kerja kardiovaskular pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Menjaga produktivitas sekaligus mencegah PAK", "isCorrect": true },
+        { "text": "B. Meningkatkan angka kecelakaan", "isCorrect": false },
+        { "text": "C. Memperburuk kesehatan pekerja", "isCorrect": false },
+        { "text": "D. Menghapus istirahat sepenuhnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi beban kerja berat dengan lingkungan panas terhadap sistem kardiovaskuler akan?",
+      "explanation": "Beban kerja berat ditambah lingkungan panas memperberat kerja jantung karena darah harus dialirkan ke otot dan kulit sekaligus, menaikkan %CVL.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Memperberat beban jantung dan menaikkan %CVL", "isCorrect": true },
+        { "text": "B. Menurunkan beban jantung", "isCorrect": false },
+        { "text": "C. Tidak berpengaruh", "isCorrect": false },
+        { "text": "D. Menurunkan denyut jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan dari memantau curah jantung dan denyut jantung saat kerja adalah untuk memastikan?",
+      "explanation": "Pemantauan ini memastikan beban kerja fisik berada dalam batas kemampuan kardiovaskular pekerja agar tidak terjadi kelelahan berlebih atau gangguan kesehatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Beban kerja sesuai kapasitas kardiovaskular pekerja", "isCorrect": true },
+        { "text": "B. Pekerja bekerja melebihi batas aman", "isCorrect": false },
+        { "text": "C. Denyut jantung selalu maksimal", "isCorrect": false },
+        { "text": "D. Tidak ada istirahat diperlukan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang stroke volume saat latihan teratur jangka panjang adalah?",
+      "explanation": "Latihan teratur meningkatkan stroke volume sehingga jantung memompa lebih banyak darah per denyut dan denyut istirahat menurun.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Stroke volume meningkat sehingga jantung lebih efisien", "isCorrect": true },
+        { "text": "B. Stroke volume menurun drastis", "isCorrect": false },
+        { "text": "C. Stroke volume menjadi nol", "isCorrect": false },
+        { "text": "D. Stroke volume tidak berubah seumur hidup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengelola beban kerja agar %CVL tetap di bawah 30% bertujuan agar pekerja?",
+      "explanation": "Menjaga %CVL <30% memungkinkan pekerja bekerja 8 jam dengan aman tanpa kelelahan kardiovaskular berarti.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Dapat bekerja 8 jam dengan aman", "isCorrect": true },
+        { "text": "B. Harus berhenti dalam 1 jam", "isCorrect": false },
+        { "text": "C. Mengalami fatigue akut", "isCorrect": false },
+        { "text": "D. Memerlukan istirahat 50%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor jenis kelamin terhadap respons kardiovaskular kerja umumnya menunjukkan bahwa?",
+      "explanation": "Secara rata-rata, VO2max pria lebih tinggi dibanding wanita, sehingga respons HR dan kapasitas kerja aerobik dapat berbeda antar jenis kelamin.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. VO2max rata-rata pria lebih tinggi daripada wanita", "isCorrect": true },
+        { "text": "B. VO2max selalu identik antara pria dan wanita", "isCorrect": false },
+        { "text": "C. Jenis kelamin tidak relevan sama sekali", "isCorrect": false },
+        { "text": "D. Wanita selalu memiliki HRmax lebih rendah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah awal dalam mengelola beban kerja kardiovaskular pekerja adalah?",
+      "explanation": "Langkah awal adalah mengukur/mengidentifikasi beban kerja kardiovaskular (misalnya melalui HR dan %CVL) sebelum menentukan intervensi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran %CVL & Beban Kerja",
+      "options": [
+        { "text": "A. Mengukur HR dan menghitung %CVL pekerja", "isCorrect": true },
+        { "text": "B. Langsung menambah jam kerja", "isCorrect": false },
+        { "text": "C. Mengabaikan kondisi pekerja", "isCorrect": false },
+        { "text": "D. Menghapus pemeriksaan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu dampak positif aktivitas fisik teratur terhadap tekanan darah adalah?",
+      "explanation": "Aktivitas fisik teratur cenderung menurunkan tekanan darah istirahat dan menurunkan risiko hipertensi.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Membantu menurunkan tekanan darah istirahat", "isCorrect": true },
+        { "text": "B. Meningkatkan tekanan darah permanen", "isCorrect": false },
+        { "text": "C. Menghentikan kerja jantung", "isCorrect": false },
+        { "text": "D. Tidak ada manfaat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kesimpulan utama mengenai pencegahan penyakit kardiovaskuler terkait kerja adalah dilakukan dengan?",
+      "explanation": "Pencegahan dilakukan dengan mengatur postur kerja, mengambil istirahat, melakukan aktivitas fisik, dan mengelola stres kerja.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Mengatur postur, istirahat, aktivitas fisik, dan kelola stres", "isCorrect": true },
+        { "text": "B. Menambah beban kerja statis", "isCorrect": false },
+        { "text": "C. Menghapus waktu istirahat", "isCorrect": false },
+        { "text": "D. Mengabaikan kesehatan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika dua pekerja melakukan kerja sama beratnya namun salah satunya memiliki HR kerja jauh lebih tinggi, kemungkinan pekerja tersebut?",
+      "explanation": "HR kerja yang lebih tinggi pada beban sama menandakan kebugaran kardiovaskular lebih rendah (VO2max rendah), sehingga %CVL-nya lebih tinggi.",
+      "difficulty": "HARD",
+      "tag": "Respons Kardiovaskular Saat Kerja",
+      "options": [
+        { "text": "A. Memiliki kebugaran kardiovaskular lebih rendah", "isCorrect": true },
+        { "text": "B. Memiliki VO2max lebih tinggi", "isCorrect": false },
+        { "text": "C. Lebih bugar dari rekannya", "isCorrect": false },
+        { "text": "D. Tidak terpengaruh beban kerja", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Komponen sistem kardiovaskuler", "back": "Jantung, pembuluh darah (arteri, vena, kapiler), dan darah.", "tag": "Definisi & Fungsi Kardiovaskuler" },
+    { "front": "Fungsi utama sistem kardiovaskuler", "back": "Mengalirkan oksigen dan nutrisi ke seluruh tubuh, mengangkut CO2 dan limbah keluar, mengatur suhu tubuh dan tekanan darah.", "tag": "Definisi & Fungsi Kardiovaskuler" },
+    { "front": "Arteri vs Vena", "back": "Arteri membawa darah keluar dari jantung; vena membawa darah kembali ke jantung.", "tag": "Definisi & Fungsi Kardiovaskuler" },
+    { "front": "Fungsi kapiler", "back": "Tempat pertukaran oksigen, nutrisi, dan zat sisa antara darah dengan jaringan.", "tag": "Definisi & Fungsi Kardiovaskuler" },
+    { "front": "Faktor yang memengaruhi sistem kardiovaskuler", "back": "Aktivitas fisik, stres kerja, postur kerja, beban kerja, usia, jenis kelamin, kebugaran, dan suhu lingkungan.", "tag": "Faktor yang Mempengaruhi" },
+    { "front": "Pengaruh kerja berat pada kardiovaskuler", "back": "Meningkatkan tekanan darah, denyut jantung, kebutuhan oksigen, dan risiko penyakit kardiovaskuler.", "tag": "Pengaruh Aktivitas Kerja" },
+    { "front": "Tekanan sistolik vs diastolik", "back": "Sistolik = tekanan saat jantung berkontraksi; diastolik = tekanan saat jantung berelaksasi. Normal ~120/80 mmHg.", "tag": "Pengaruh Aktivitas Kerja" },
+    { "front": "Respons kardiovaskular saat kerja", "back": "Peningkatan heart rate (HR), stroke volume, dan cardiac output untuk memenuhi kebutuhan O2 otot.", "tag": "Respons Kardiovaskular Saat Kerja" },
+    { "front": "Stroke volume", "back": "Volume darah yang dipompa keluar ventrikel dalam satu kali denyut.", "tag": "Respons Kardiovaskular Saat Kerja" },
+    { "front": "Cardiac output (curah jantung)", "back": "Cardiac output = Heart Rate x Stroke Volume; volume darah dipompa per menit.", "tag": "Respons Kardiovaskular Saat Kerja" },
+    { "front": "Formula HRmax", "back": "HRmax = 220 - umur (tahun).", "tag": "Respons Kardiovaskular Saat Kerja" },
+    { "front": "Heart Rate Reserve (HRR)", "back": "HRR = HRmax - HR istirahat; cadangan denyut jantung.", "tag": "Respons Kardiovaskular Saat Kerja" },
+    { "front": "HR sebagai indikator beban kerja", "back": "HR berkorelasi linier dengan VO2 pada intensitas 50-85% HRmax, mudah diukur di lapangan.", "tag": "Respons Kardiovaskular Saat Kerja" },
+    { "front": "VO2max", "back": "Penentu kapasitas kerja fisik aerobik; semakin tinggi, semakin besar kapasitas kerja.", "tag": "Respons Kardiovaskular Saat Kerja" },
+    { "front": "Rumus %CVL", "back": "%CVL = (HR kerja - HR istirahat) / (HRmax - HR istirahat) x 100%.", "tag": "Pengukuran %CVL & Beban Kerja" },
+    { "front": "Kategori %CVL (ACGIH 2024)", "back": "<30% aman 8 jam; 30-40% perlu istirahat 50%; >40% berisiko fatigue akut, kerja <1 jam.", "tag": "Pengukuran %CVL & Beban Kerja" },
+    { "front": "Aplikasi K3 monitoring HR", "back": "Heat stress management, penetapan work-rest cycle, dan seleksi fit to work (YMCA Step Test).", "tag": "Pengukuran %CVL & Beban Kerja" },
+    { "front": "VO2max rendah dan %CVL", "back": "Pekerja VO2max rendah mencapai %CVL 40% pada beban lebih ringan (3,5 kkal/menit) dibanding pekerja bugar (5,5 kkal/menit).", "tag": "Pengukuran %CVL & Beban Kerja" },
+    { "front": "PAK kardiovaskular", "back": "%CVL kronis >33% selama 4 jam berkorelasi dengan peningkatan kejadian penyakit akibat kerja kardiovaskular.", "tag": "Pengukuran %CVL & Beban Kerja" },
+    { "front": "Pencegahan penyakit kardiovaskuler kerja", "back": "Atur postur kerja, istirahat cukup, aktivitas fisik teratur, kelola stres, dan periksa kesehatan berkala.", "tag": "Risiko & Pencegahan Penyakit" },
+    { "front": "Denyut jantung istirahat normal", "back": "Sekitar 60-100 denyut per menit pada orang dewasa.", "tag": "Respons Kardiovaskular Saat Kerja" }
+  ],
+  "mindmap": [
+    { "id": "kardiovaskuler", "label": "Sistem Kardiovaskuler & Aktivitas Kerja", "color": "#6366f1", "parent": null, "content": "Sistem jantung, pembuluh darah, dan darah yang merespons aktivitas kerja dan menjadi dasar penilaian beban kerja fisik." },
+
+    { "id": "definisi", "label": "Definisi & Fungsi", "color": "#8b5cf6", "parent": "kardiovaskuler", "content": "Sistem yang mengalirkan oksigen dan nutrisi ke seluruh tubuh serta mengatur suhu dan tekanan darah." },
+    { "id": "komponen", "label": "Komponen", "color": "#8b5cf6", "parent": "definisi", "content": "Jantung, pembuluh darah (arteri, vena, kapiler), dan darah." },
+    { "id": "arteri-vena", "label": "Arteri & Vena", "color": "#8b5cf6", "parent": "komponen", "content": "Arteri membawa darah keluar dari jantung; vena membawa darah kembali ke jantung." },
+    { "id": "kapiler", "label": "Kapiler", "color": "#8b5cf6", "parent": "komponen", "content": "Tempat pertukaran oksigen, nutrisi, dan zat sisa antara darah dan jaringan." },
+    { "id": "fungsi", "label": "Fungsi Utama", "color": "#8b5cf6", "parent": "definisi", "content": "Mengalirkan O2 dan nutrisi, mengangkut CO2 dan limbah, mengatur suhu dan tekanan darah." },
+
+    { "id": "faktor", "label": "Faktor yang Mempengaruhi", "color": "#0ea5e9", "parent": "kardiovaskuler", "content": "Hal-hal yang mengubah respons kardiovaskular pekerja saat bekerja." },
+    { "id": "aktivitas-fisik", "label": "Aktivitas Fisik", "color": "#0ea5e9", "parent": "faktor", "content": "Aktivitas fisik teratur meningkatkan kesehatan dan efisiensi jantung." },
+    { "id": "stres-postur", "label": "Stres & Postur", "color": "#0ea5e9", "parent": "faktor", "content": "Stres kerja dan postur tidak nyaman menaikkan tekanan darah dan denyut jantung." },
+    { "id": "individu-lingkungan", "label": "Individu & Lingkungan", "color": "#0ea5e9", "parent": "faktor", "content": "Usia, jenis kelamin, kebugaran (VO2max), dan suhu lingkungan memengaruhi respons HR." },
+
+    { "id": "pengaruh", "label": "Pengaruh Aktivitas Kerja", "color": "#10b981", "parent": "kardiovaskuler", "content": "Kerja fisik berat mengubah parameter kardiovaskular tubuh." },
+    { "id": "tekanan-darah", "label": "Tekanan Darah", "color": "#10b981", "parent": "pengaruh", "content": "Naik saat kerja berat; sistolik (kontraksi) dan diastolik (relaksasi), normal ~120/80 mmHg." },
+    { "id": "denyut-oksigen", "label": "Denyut & Oksigen", "color": "#10b981", "parent": "pengaruh", "content": "Denyut jantung dan kebutuhan oksigen meningkat untuk memenuhi tuntutan otot aktif." },
+    { "id": "redistribusi", "label": "Redistribusi Darah", "color": "#10b981", "parent": "pengaruh", "content": "Aliran darah dialihkan lebih banyak ke otot aktif dan kulit melalui vasodilatasi." },
+
+    { "id": "risiko", "label": "Risiko & Pencegahan", "color": "#f59e0b", "parent": "kardiovaskuler", "content": "Pengelolaan risiko penyakit kardiovaskuler akibat kerja." },
+    { "id": "faktor-risiko", "label": "Faktor Risiko", "color": "#f59e0b", "parent": "risiko", "content": "Beban kerja berat, postur buruk, stres kerja, dan kurang aktivitas fisik." },
+    { "id": "pencegahan", "label": "Cara Pencegahan", "color": "#f59e0b", "parent": "risiko", "content": "Atur postur, istirahat cukup, aktivitas fisik teratur, kelola stres, dan periksa kesehatan." },
+    { "id": "pak-kardio", "label": "PAK Kardiovaskular", "color": "#f59e0b", "parent": "risiko", "content": "Penyakit akibat kerja seperti hipertensi yang dipicu beban dan stres kerja berkepanjangan." },
+
+    { "id": "respons", "label": "Respons Saat Kerja", "color": "#ef4444", "parent": "kardiovaskuler", "content": "Perubahan fisiologis jantung untuk memenuhi kebutuhan oksigen otot." },
+    { "id": "hr-sv-co", "label": "HR, SV, CO", "color": "#ef4444", "parent": "respons", "content": "Heart rate, stroke volume, dan cardiac output (CO = HR x SV) meningkat saat kerja." },
+    { "id": "hrmax-hrr", "label": "HRmax & HRR", "color": "#ef4444", "parent": "respons", "content": "HRmax = 220 - umur; Heart Rate Reserve = HRmax - HR istirahat." },
+    { "id": "hr-vo2", "label": "HR & VO2", "color": "#ef4444", "parent": "respons", "content": "HR berkorelasi linier dengan VO2 pada 50-85% HRmax, jadi indikator beban kerja." },
+    { "id": "vo2max", "label": "VO2max", "color": "#ef4444", "parent": "respons", "content": "Penentu kapasitas kerja fisik aerobik; pekerja bugar punya kapasitas lebih besar." },
+
+    { "id": "cvl", "label": "Pengukuran %CVL", "color": "#ec4899", "parent": "kardiovaskuler", "content": "Pengukuran beban kerja kardiovaskular berbasis denyut jantung." },
+    { "id": "rumus-cvl", "label": "Rumus %CVL", "color": "#ec4899", "parent": "cvl", "content": "%CVL = (HR kerja - HR istirahat) / (HRmax - HR istirahat) x 100%." },
+    { "id": "kategori-cvl", "label": "Kategori ACGIH 2024", "color": "#ec4899", "parent": "cvl", "content": "<30% aman 8 jam; 30-40% perlu istirahat 50%; >40% kerja <1 jam." },
+    { "id": "aplikasi-k3", "label": "Aplikasi K3", "color": "#ec4899", "parent": "cvl", "content": "Heat stress management, work-rest cycle, dan seleksi fit to work (YMCA Step Test)." },
+    { "id": "kebugaran-beban", "label": "Kebugaran & Beban", "color": "#ec4899", "parent": "cvl", "content": "VO2max rendah mencapai %CVL 40% pada 3,5 kkal/menit; pekerja bugar pada 5,5 kkal/menit." }
+  ]
+}

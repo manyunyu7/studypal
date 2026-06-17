@@ -1,0 +1,10 @@
+{
+  "subject": "Komunikasi",
+  "description": "Mata kuliah yang membahas dasar-dasar proses komunikasi, komunikasi verbal dan non verbal, serta hambatan komunikasi. Materi diperdalam dengan penerapan komunikasi di dunia K3 seperti komunikasi risiko, safety talk, komunikasi organisasi, dan kepemimpinan. Bertujuan membekali mahasiswa agar mampu berkomunikasi efektif di lingkungan kerja.",
+  "icon": "💬",
+  "order": 8,
+  "semester": {
+    "name": "Semester 2",
+    "year": "2025/2026"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Kesehatan Kerja",
+  "description": "Anatomi & fisiologi tubuh dan penyakit akibat kerja (PAK): memahami sistem organ pekerja dan gangguan kesehatan yang timbul dari pajanan di tempat kerja, dimulai dari sistem pernapasan.",
+  "icon": "🫁",
+  "order": 3,
+  "semester": {
+    "name": "Semester 2",
+    "year": "2025/2026"
+  }
+}

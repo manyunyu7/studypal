@@ -1,0 +1,1322 @@
+{
+  "topic": "Job Safety Analysis (JSA) dan Job Safety Observation (JSO)",
+  "order": 2,
+  "description": "Job Safety Analysis (JSA) adalah metode identifikasi bahaya dengan menguraikan pekerjaan menjadi langkah-langkah, mengidentifikasi bahaya tiap langkah, lalu menentukan pengendalian. Job Safety Observation (JSO) adalah pengamatan langsung saat pekerjaan berlangsung untuk memastikan kesesuaian dengan JSA. Keduanya merupakan alat dasar K3 untuk mengendalikan risiko pada pekerjaan berisiko tinggi.",
+  "subtopics": [
+    "Pengertian & Tujuan JSA",
+    "Pemilihan Pekerjaan Kritis",
+    "Tahapan Penyusunan JSA",
+    "Identifikasi Bahaya per Langkah",
+    "Pengendalian Risiko",
+    "Job Safety Observation (JSO)",
+    "Peran & Tanggung Jawab",
+    "Penerapan & Praktik"
+  ],
+  "questions": [
+    {
+      "text": "Apa kepanjangan dari JSA dalam konteks keselamatan kerja?",
+      "explanation": "JSA adalah Job Safety Analysis, yaitu analisis keselamatan pekerjaan dengan menguraikan langkah kerja dan bahayanya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Job Standard Assessment", "isCorrect": false },
+        { "text": "B. Job Safety Analysis", "isCorrect": true },
+        { "text": "C. Joint Safety Audit", "isCorrect": false },
+        { "text": "D. Job Site Approval", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama dari penyusunan JSA adalah?",
+      "explanation": "Tujuan utama JSA adalah mengidentifikasi bahaya pada setiap langkah pekerjaan dan menentukan pengendalian sebelum pekerjaan dilakukan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Menghitung biaya produksi", "isCorrect": false },
+        { "text": "B. Mengidentifikasi bahaya tiap langkah kerja dan menentukan pengendaliannya", "isCorrect": true },
+        { "text": "C. Menentukan gaji pekerja", "isCorrect": false },
+        { "text": "D. Mengatur jadwal cuti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA merupakan metode identifikasi bahaya yang bersifat?",
+      "explanation": "JSA bersifat proaktif karena dilakukan sebelum pekerjaan dimulai untuk mencegah kecelakaan, bukan sesudah terjadi insiden.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Reaktif (setelah kecelakaan)", "isCorrect": false },
+        { "text": "B. Proaktif (sebelum pekerjaan dimulai)", "isCorrect": true },
+        { "text": "C. Pasif", "isCorrect": false },
+        { "text": "D. Insidental", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA sering juga disebut dengan istilah lain, yaitu?",
+      "explanation": "JSA juga dikenal sebagai JHA (Job Hazard Analysis) atau JSEA (Job Safety and Environmental Analysis).",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. JHA (Job Hazard Analysis)", "isCorrect": true },
+        { "text": "B. HAZOP", "isCorrect": false },
+        { "text": "C. HIRADC", "isCorrect": false },
+        { "text": "D. FMEA", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat JSA bagi pekerja baru adalah?",
+      "explanation": "JSA dapat dijadikan bahan pelatihan dan orientasi bagi pekerja baru agar memahami bahaya dan cara kerja aman.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Menjadi alat pelatihan dan orientasi kerja aman", "isCorrect": true },
+        { "text": "B. Menghapus kebutuhan APD", "isCorrect": false },
+        { "text": "C. Mempercepat penggajian", "isCorrect": false },
+        { "text": "D. Menggantikan inspeksi mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat JSA bagi perusahaan adalah?",
+      "explanation": "JSA membantu menurunkan angka kecelakaan kerja, meningkatkan produktivitas, dan menjadi dasar prosedur kerja aman (SOP).",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Meningkatkan jumlah lembur", "isCorrect": false },
+        { "text": "B. Menurunkan angka kecelakaan dan menjadi dasar SOP kerja aman", "isCorrect": true },
+        { "text": "C. Menambah jumlah mesin", "isCorrect": false },
+        { "text": "D. Mengurangi jumlah pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA dapat menjadi dasar untuk menyusun dokumen?",
+      "explanation": "Hasil JSA sering dijadikan dasar penyusunan SOP (Standard Operating Procedure) atau Instruksi Kerja Aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Laporan keuangan", "isCorrect": false },
+        { "text": "B. SOP / Instruksi Kerja Aman", "isCorrect": true },
+        { "text": "C. Surat perjanjian kerja", "isCorrect": false },
+        { "text": "D. Daftar gaji", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang JSA adalah?",
+      "explanation": "JSA fokus pada hubungan antara pekerja, tugas/langkah kerja, alat, dan lingkungan kerja untuk menemukan bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. JSA hanya menilai kondisi mesin", "isCorrect": false },
+        { "text": "B. JSA mengkaji hubungan pekerja, tugas, alat, dan lingkungan kerja", "isCorrect": true },
+        { "text": "C. JSA hanya dilakukan setelah kecelakaan", "isCorrect": false },
+        { "text": "D. JSA tidak melibatkan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kriteria utama pekerjaan yang diprioritaskan untuk dibuatkan JSA adalah pekerjaan yang?",
+      "explanation": "Pekerjaan dengan potensi bahaya/risiko tinggi diprioritaskan untuk dibuatkan JSA terlebih dahulu.",
+      "difficulty": "EASY",
+      "tag": "Pemilihan Pekerjaan Kritis",
+      "options": [
+        { "text": "A. Berisiko tinggi dan berpotensi menimbulkan cedera serius", "isCorrect": true },
+        { "text": "B. Paling jarang dilakukan dan aman", "isCorrect": false },
+        { "text": "C. Paling murah biayanya", "isCorrect": false },
+        { "text": "D. Hanya pekerjaan administrasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan dengan riwayat kecelakaan atau insiden yang sering terjadi sebaiknya?",
+      "explanation": "Pekerjaan dengan frekuensi/sejarah kecelakaan tinggi menjadi prioritas untuk dianalisis dengan JSA.",
+      "difficulty": "EASY",
+      "tag": "Pemilihan Pekerjaan Kritis",
+      "options": [
+        { "text": "A. Diabaikan saja", "isCorrect": false },
+        { "text": "B. Diprioritaskan untuk dibuatkan JSA", "isCorrect": true },
+        { "text": "C. Dihentikan tanpa analisis", "isCorrect": false },
+        { "text": "D. Diserahkan ke pihak luar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan baru yang belum pernah dilakukan sebelumnya termasuk kriteria pekerjaan yang?",
+      "explanation": "Pekerjaan baru belum memiliki pengalaman bahaya sehingga perlu dibuatkan JSA untuk mengantisipasi risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Pekerjaan Kritis",
+      "options": [
+        { "text": "A. Tidak perlu JSA", "isCorrect": false },
+        { "text": "B. Perlu dibuatkan JSA karena bahaya belum diketahui", "isCorrect": true },
+        { "text": "C. Cukup diawasi tanpa analisis", "isCorrect": false },
+        { "text": "D. Diserahkan ke pekerja senior tanpa dokumen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut yang BUKAN kriteria pemilihan pekerjaan untuk JSA?",
+      "explanation": "Pekerjaan rutin yang sederhana dan tanpa risiko bukan prioritas; yang diprioritaskan adalah pekerjaan berisiko tinggi, sering celaka, baru, atau berubah.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Pekerjaan Kritis",
+      "options": [
+        { "text": "A. Pekerjaan berpotensi cedera berat", "isCorrect": false },
+        { "text": "B. Pekerjaan dengan riwayat kecelakaan tinggi", "isCorrect": false },
+        { "text": "C. Pekerjaan rutin sederhana tanpa bahaya berarti", "isCorrect": true },
+        { "text": "D. Pekerjaan baru atau yang prosedurnya berubah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan yang prosedur atau peralatannya mengalami perubahan sebaiknya?",
+      "explanation": "Perubahan prosedur, alat, atau lingkungan dapat memunculkan bahaya baru sehingga JSA perlu ditinjau ulang atau dibuat baru.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Pekerjaan Kritis",
+      "options": [
+        { "text": "A. JSA-nya ditinjau ulang atau dibuat baru", "isCorrect": true },
+        { "text": "B. Diabaikan karena sudah ada JSA lama", "isCorrect": false },
+        { "text": "C. Dilanjutkan tanpa perubahan apa pun", "isCorrect": false },
+        { "text": "D. Dihentikan permanen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu contoh pekerjaan berisiko tinggi yang umum dibuatkan JSA adalah?",
+      "explanation": "Pekerjaan di ketinggian, ruang terbatas, panas (hot work), galian, dan listrik tegangan tinggi tergolong berisiko tinggi dan wajib JSA.",
+      "difficulty": "EASY",
+      "tag": "Pemilihan Pekerjaan Kritis",
+      "options": [
+        { "text": "A. Mengetik laporan di kantor", "isCorrect": false },
+        { "text": "B. Pengelasan di dalam tanki timbun BBM", "isCorrect": true },
+        { "text": "C. Menyusun arsip dokumen", "isCorrect": false },
+        { "text": "D. Membaca buku panduan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik penyusunan JSA, Kelompok 1 mengerjakan jenis pekerjaan?",
+      "explanation": "Kelompok 1 mengerjakan JSA untuk pekerjaan konstruksi penggalian dan instalasi saluran pipa gas LNG bawah tanah.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Penggalian dan instalasi pipa gas LNG bawah tanah", "isCorrect": true },
+        { "text": "B. Pembersihan kaca gedung bertingkat", "isCorrect": false },
+        { "text": "C. Instalasi kabel listrik tegangan tinggi", "isCorrect": false },
+        { "text": "D. Pengelasan di tanki timbun BBM", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan pembersihan kaca gedung bertingkat pada praktik JSA dikerjakan oleh?",
+      "explanation": "Kelompok 2 mengerjakan JSA untuk pekerjaan pembersihan kaca gedung bertingkat (pekerjaan di ketinggian).",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Kelompok 1", "isCorrect": false },
+        { "text": "B. Kelompok 2", "isCorrect": true },
+        { "text": "C. Kelompok 3", "isCorrect": false },
+        { "text": "D. Kelompok 4", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan instalasi kabel listrik tegangan tinggi PLN pada praktik JSA dikerjakan oleh?",
+      "explanation": "Kelompok 3 mengerjakan JSA untuk pekerjaan instalasi kabel listrik tegangan tinggi PLN.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Kelompok 2", "isCorrect": false },
+        { "text": "B. Kelompok 3", "isCorrect": true },
+        { "text": "C. Kelompok 4", "isCorrect": false },
+        { "text": "D. Kelompok 1", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan pengelasan di dalam tanki timbun BBM PT Pertamina pada praktik JSA dikerjakan oleh?",
+      "explanation": "Kelompok 4 mengerjakan JSA untuk pekerjaan pengelasan di dalam tanki timbun BBM (kombinasi ruang terbatas dan hot work).",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Kelompok 1", "isCorrect": false },
+        { "text": "B. Kelompok 2", "isCorrect": false },
+        { "text": "C. Kelompok 3", "isCorrect": false },
+        { "text": "D. Kelompok 4", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Langkah PERTAMA dalam penyusunan JSA adalah?",
+      "explanation": "Langkah pertama JSA adalah memilih/menentukan pekerjaan yang akan dianalisis (terutama yang berisiko tinggi).",
+      "difficulty": "EASY",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Menentukan pengendalian", "isCorrect": false },
+        { "text": "B. Memilih pekerjaan yang akan dianalisis", "isCorrect": true },
+        { "text": "C. Membuat audiogram", "isCorrect": false },
+        { "text": "D. Menutup ijin kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan tahapan penyusunan JSA yang benar adalah?",
+      "explanation": "Tahapan JSA: pilih pekerjaan, uraikan menjadi langkah-langkah, identifikasi bahaya tiap langkah, lalu tentukan pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Pilih pekerjaan → uraikan langkah → identifikasi bahaya → tentukan pengendalian", "isCorrect": true },
+        { "text": "B. Tentukan pengendalian → pilih pekerjaan → uraikan langkah → identifikasi bahaya", "isCorrect": false },
+        { "text": "C. Identifikasi bahaya → tentukan pengendalian → pilih pekerjaan → uraikan langkah", "isCorrect": false },
+        { "text": "D. Uraikan langkah → tentukan pengendalian → pilih pekerjaan → identifikasi bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah KEDUA dalam JSA setelah memilih pekerjaan adalah?",
+      "explanation": "Setelah pekerjaan dipilih, pekerjaan diuraikan menjadi urutan langkah-langkah dasar (basic job steps).",
+      "difficulty": "EASY",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Menguraikan pekerjaan menjadi langkah-langkah dasar", "isCorrect": true },
+        { "text": "B. Menutup pekerjaan", "isCorrect": false },
+        { "text": "C. Menentukan gaji", "isCorrect": false },
+        { "text": "D. Membuat laporan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam menguraikan langkah pekerjaan pada JSA, sebaiknya langkah ditulis secara?",
+      "explanation": "Langkah pekerjaan diuraikan secara berurutan (kronologis) dan tidak terlalu rinci maupun terlalu umum.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Berurutan/kronologis sesuai jalannya pekerjaan", "isCorrect": true },
+        { "text": "B. Acak tanpa urutan", "isCorrect": false },
+        { "text": "C. Hanya langkah terakhir saja", "isCorrect": false },
+        { "text": "D. Dalam bahasa asing wajib", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa idealnya jumlah langkah dasar suatu pekerjaan dalam JSA agar mudah dianalisis?",
+      "explanation": "Idealnya pekerjaan dipecah menjadi sekitar 10 langkah dasar; bila terlalu banyak, pekerjaan sebaiknya dipisah menjadi beberapa JSA.",
+      "difficulty": "HARD",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Lebih dari 50 langkah", "isCorrect": false },
+        { "text": "B. Sekitar 10 langkah dasar", "isCorrect": true },
+        { "text": "C. Hanya 1 langkah", "isCorrect": false },
+        { "text": "D. Tidak boleh lebih dari 2 langkah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kolom utama yang umumnya terdapat dalam formulir JSA adalah?",
+      "explanation": "Formulir JSA umumnya berisi kolom: langkah pekerjaan, potensi bahaya, dan tindakan pengendalian/rekomendasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Langkah pekerjaan, potensi bahaya, pengendalian", "isCorrect": true },
+        { "text": "B. Nama, alamat, nomor telepon", "isCorrect": false },
+        { "text": "C. Harga, jumlah, total", "isCorrect": false },
+        { "text": "D. Tanggal lahir, golongan darah, hobi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Informasi yang sebaiknya dicantumkan pada bagian kepala (header) formulir JSA adalah?",
+      "explanation": "Header JSA mencantumkan nama pekerjaan, lokasi, tanggal, nama penyusun/peninjau, dan APD yang diperlukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Resep masakan", "isCorrect": false },
+        { "text": "B. Nama pekerjaan, lokasi, tanggal, penyusun, dan APD", "isCorrect": true },
+        { "text": "C. Daftar harga saham", "isCorrect": false },
+        { "text": "D. Jadwal libur nasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agar JSA akurat, dalam penyusunannya sebaiknya melibatkan?",
+      "explanation": "JSA sebaiknya disusun melibatkan pekerja yang melakukan pekerjaan tersebut, pengawas, dan personel K3 (HSE).",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Hanya manajer keuangan", "isCorrect": false },
+        { "text": "B. Pekerja pelaksana, pengawas, dan personel HSE", "isCorrect": true },
+        { "text": "C. Hanya tamu dari luar", "isCorrect": false },
+        { "text": "D. Tidak melibatkan siapa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode penyusunan JSA dengan cara mengamati langsung pekerja melakukan pekerjaannya disebut metode?",
+      "explanation": "Metode observasi (pengamatan langsung) dilakukan dengan mengamati pekerja berpengalaman saat melakukan pekerjaan untuk menguraikan langkah dan bahayanya.",
+      "difficulty": "HARD",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Metode observasi/pengamatan langsung", "isCorrect": true },
+        { "text": "B. Metode lelang", "isCorrect": false },
+        { "text": "C. Metode kalibrasi", "isCorrect": false },
+        { "text": "D. Metode audiometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain observasi, metode lain untuk menyusun JSA adalah?",
+      "explanation": "Selain observasi, JSA dapat disusun melalui diskusi/brainstorming dengan tim dan meninjau pengalaman/data kecelakaan sebelumnya.",
+      "difficulty": "HARD",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Diskusi tim dan meninjau data kecelakaan sebelumnya", "isCorrect": true },
+        { "text": "B. Menebak tanpa data", "isCorrect": false },
+        { "text": "C. Membaca koran", "isCorrect": false },
+        { "text": "D. Mengukur suhu ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah JSA selesai disusun, dokumen tersebut sebaiknya?",
+      "explanation": "JSA perlu ditinjau (review) dan disetujui oleh pihak berwenang, serta dikomunikasikan/disosialisasikan kepada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Disimpan tanpa disosialisasikan", "isCorrect": false },
+        { "text": "B. Ditinjau, disetujui, dan disosialisasikan ke pekerja", "isCorrect": true },
+        { "text": "C. Langsung dimusnahkan", "isCorrect": false },
+        { "text": "D. Dirahasiakan dari pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA sebaiknya ditinjau ulang (review) secara?",
+      "explanation": "JSA sebaiknya ditinjau secara berkala dan setiap kali terjadi perubahan pekerjaan, alat, atau setelah insiden.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Sekali seumur hidup", "isCorrect": false },
+        { "text": "B. Berkala dan setiap ada perubahan atau insiden", "isCorrect": true },
+        { "text": "C. Tidak pernah", "isCorrect": false },
+        { "text": "D. Hanya saat audit eksternal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam JSA, yang dimaksud dengan 'bahaya' (hazard) adalah?",
+      "explanation": "Bahaya adalah sumber/situasi yang berpotensi menimbulkan cedera, sakit, kerusakan, atau kerugian.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Keuntungan perusahaan", "isCorrect": false },
+        { "text": "B. Sumber atau situasi yang berpotensi menimbulkan cedera/kerugian", "isCorrect": true },
+        { "text": "C. Nama jabatan pekerja", "isCorrect": false },
+        { "text": "D. Jam istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada JSA, identifikasi bahaya dilakukan untuk?",
+      "explanation": "Bahaya diidentifikasi pada setiap langkah pekerjaan, sehingga tiap langkah dianalisis bahaya yang mungkin timbul.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Hanya langkah pertama", "isCorrect": false },
+        { "text": "B. Setiap langkah pekerjaan", "isCorrect": true },
+        { "text": "C. Hanya saat istirahat", "isCorrect": false },
+        { "text": "D. Hanya langkah terakhir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Terjatuh dari ketinggian saat membersihkan kaca gedung bertingkat termasuk jenis bahaya?",
+      "explanation": "Risiko jatuh dari ketinggian termasuk bahaya fisik/mekanik (gravitasi) pada pekerjaan di ketinggian.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Bahaya kimia", "isCorrect": false },
+        { "text": "B. Bahaya fisik/mekanik (jatuh dari ketinggian)", "isCorrect": true },
+        { "text": "C. Bahaya biologi", "isCorrect": false },
+        { "text": "D. Bahaya ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tersengat listrik pada pekerjaan instalasi kabel tegangan tinggi termasuk bahaya?",
+      "explanation": "Sengatan listrik (electrical shock) termasuk bahaya listrik yang dapat menyebabkan cedera serius atau kematian.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Bahaya listrik", "isCorrect": true },
+        { "text": "B. Bahaya psikologis", "isCorrect": false },
+        { "text": "C. Bahaya biologi", "isCorrect": false },
+        { "text": "D. Bahaya pencahayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kekurangan oksigen dan terpapar uap BBM saat masuk tanki timbun termasuk bahaya?",
+      "explanation": "Kekurangan oksigen dan paparan uap mudah terbakar/beracun di dalam tanki tertutup termasuk bahaya ruang terbatas (confined space).",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Bahaya ruang terbatas (confined space)", "isCorrect": true },
+        { "text": "B. Bahaya pencahayaan", "isCorrect": false },
+        { "text": "C. Bahaya ergonomi", "isCorrect": false },
+        { "text": "D. Bahaya getaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Longsornya dinding galian pada pekerjaan penggalian pipa bawah tanah merupakan bahaya?",
+      "explanation": "Runtuh/longsornya dinding galian (cave-in) adalah bahaya utama pada pekerjaan penggalian (excavation) bawah tanah.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Longsor/runtuhnya dinding galian", "isCorrect": true },
+        { "text": "B. Silau cahaya", "isCorrect": false },
+        { "text": "C. Kebisingan saja", "isCorrect": false },
+        { "text": "D. Tidak ada bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Percikan api dan asap saat pengelasan termasuk sumber bahaya?",
+      "explanation": "Percikan api, panas, dan asap las (fume) merupakan bahaya pekerjaan panas (hot work) yang berpotensi kebakaran dan gangguan pernapasan.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Pekerjaan panas/hot work (kebakaran dan asap las)", "isCorrect": true },
+        { "text": "B. Pekerjaan dingin", "isCorrect": false },
+        { "text": "C. Bahaya pencahayaan kurang", "isCorrect": false },
+        { "text": "D. Bahaya kelembapan rendah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat mengidentifikasi bahaya, pertanyaan kunci yang diajukan tiap langkah adalah?",
+      "explanation": "Pada tiap langkah ditanyakan: apa yang bisa salah/terjadi, bagaimana cedera bisa timbul, dan apa konsekuensinya.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Berapa harga jualnya", "isCorrect": false },
+        { "text": "B. Apa yang bisa salah dan bagaimana cedera dapat timbul", "isCorrect": true },
+        { "text": "C. Siapa atasannya", "isCorrect": false },
+        { "text": "D. Kapan jam pulang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Postur kerja membungkuk dan mengangkat beban berat berulang termasuk bahaya?",
+      "explanation": "Postur janggal dan pengangkatan beban berulang termasuk bahaya ergonomi yang dapat menimbulkan gangguan otot rangka.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Bahaya kimia", "isCorrect": false },
+        { "text": "B. Bahaya ergonomi", "isCorrect": true },
+        { "text": "C. Bahaya listrik", "isCorrect": false },
+        { "text": "D. Bahaya radiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya pada JSA sebaiknya mempertimbangkan bahaya terhadap?",
+      "explanation": "JSA mempertimbangkan bahaya bukan hanya bagi pekerja itu sendiri, tetapi juga pekerja lain di sekitar dan lingkungan.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Pekerja pelaksana, pekerja lain di sekitar, dan lingkungan", "isCorrect": true },
+        { "text": "B. Hanya mesin", "isCorrect": false },
+        { "text": "C. Hanya manajer", "isCorrect": false },
+        { "text": "D. Hanya pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya tertimpa material atau benda jatuh dari atas dikategorikan sebagai bahaya?",
+      "explanation": "Tertimpa benda jatuh termasuk bahaya mekanik/fisik yang umum pada area konstruksi dan ketinggian.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Bahaya mekanik/fisik", "isCorrect": true },
+        { "text": "B. Bahaya psikososial", "isCorrect": false },
+        { "text": "C. Bahaya kimia", "isCorrect": false },
+        { "text": "D. Bahaya biologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah bahaya tiap langkah diidentifikasi, tahap berikutnya dalam JSA adalah?",
+      "explanation": "Setelah bahaya diidentifikasi, ditentukan tindakan pengendalian (control measures) untuk menghilangkan atau mengurangi risiko.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Menentukan tindakan pengendalian risiko", "isCorrect": true },
+        { "text": "B. Menutup formulir", "isCorrect": false },
+        { "text": "C. Membuat laporan keuangan", "isCorrect": false },
+        { "text": "D. Mengakhiri pekerjaan tanpa tindakan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan hierarki pengendalian risiko dari yang paling efektif adalah?",
+      "explanation": "Hierarki pengendalian: Eliminasi, Substitusi, Pengendalian rekayasa (engineering), Pengendalian administratif, dan terakhir APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. APD → administratif → rekayasa → substitusi → eliminasi", "isCorrect": false },
+        { "text": "B. Eliminasi → substitusi → rekayasa → administratif → APD", "isCorrect": true },
+        { "text": "C. Rekayasa → APD → eliminasi → substitusi → administratif", "isCorrect": false },
+        { "text": "D. Substitusi → APD → eliminasi → rekayasa → administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian risiko yang paling efektif menurut hierarki adalah?",
+      "explanation": "Eliminasi (menghilangkan sumber bahaya sepenuhnya) merupakan pengendalian paling efektif di puncak hierarki.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Pemakaian APD", "isCorrect": false },
+        { "text": "B. Eliminasi bahaya", "isCorrect": true },
+        { "text": "C. Rambu peringatan", "isCorrect": false },
+        { "text": "D. Rotasi kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memasang pengaman/penyangga (shoring) pada dinding galian agar tidak longsor termasuk pengendalian?",
+      "explanation": "Memasang penyangga/shoring adalah pengendalian rekayasa (engineering control) yang mengubah kondisi fisik tempat kerja agar lebih aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Administratif", "isCorrect": false },
+        { "text": "B. Rekayasa teknik (engineering)", "isCorrect": true },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan full body harness saat bekerja di ketinggian termasuk pengendalian?",
+      "explanation": "Full body harness adalah Alat Pelindung Diri (APD), berada pada tingkat paling bawah hierarki pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. APD (Alat Pelindung Diri)", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengganti bahan kimia berbahaya dengan bahan yang lebih aman termasuk pengendalian?",
+      "explanation": "Mengganti sumber bahaya dengan yang lebih rendah risikonya adalah substitusi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Substitusi", "isCorrect": true },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Membuat prosedur kerja aman, memberi pelatihan, dan memasang rambu termasuk pengendalian?",
+      "explanation": "Prosedur, pelatihan, rotasi, izin kerja, dan rambu termasuk pengendalian administratif yang mengatur cara kerja manusia.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": true },
+        { "text": "D. Rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APD ditempatkan pada posisi paling bawah hierarki pengendalian karena?",
+      "explanation": "APD hanya melindungi individu pemakainya tanpa menghilangkan sumber bahaya, sehingga dianggap paling tidak andal.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Tidak menghilangkan sumber bahaya, hanya melindungi individu", "isCorrect": true },
+        { "text": "B. Paling mahal dibanding lainnya", "isCorrect": false },
+        { "text": "C. Tidak pernah digunakan", "isCorrect": false },
+        { "text": "D. Menghilangkan semua bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengelasan di ruang terbatas, kombinasi pengendalian yang tepat meliputi?",
+      "explanation": "Pengendalian meliputi pengujian kadar gas/oksigen (gas test), ventilasi/blower, ijin kerja panas dan ruang terbatas, serta APD pernapasan.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Gas test, ventilasi, ijin kerja, dan APD pernapasan", "isCorrect": true },
+        { "text": "B. Cukup membuka pintu sebentar", "isCorrect": false },
+        { "text": "C. Tidak perlu pengendalian", "isCorrect": false },
+        { "text": "D. Hanya memakai sarung tangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah pengendalian ditetapkan, langkah penting berikutnya adalah memastikan pengendalian tersebut?",
+      "explanation": "Pengendalian harus benar-benar diterapkan/dilaksanakan dan dipantau efektivitasnya, bukan sekadar ditulis di formulir.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Hanya ditulis di kertas", "isCorrect": false },
+        { "text": "B. Diterapkan dan dipantau efektivitasnya di lapangan", "isCorrect": true },
+        { "text": "C. Dirahasiakan", "isCorrect": false },
+        { "text": "D. Diabaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian rekayasa pada pekerjaan kebisingan tinggi misalnya dengan?",
+      "explanation": "Memasang peredam (enclosure/silencer) pada mesin adalah pengendalian rekayasa untuk mengurangi bahaya di sumbernya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Memasang peredam/enclosure pada sumber bising", "isCorrect": true },
+        { "text": "B. Membagikan brosur", "isCorrect": false },
+        { "text": "C. Menambah jam kerja", "isCorrect": false },
+        { "text": "D. Mengabaikan bising", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa kepanjangan dari JSO?",
+      "explanation": "JSO adalah Job Safety Observation, yaitu pengamatan keselamatan saat pekerjaan berlangsung.",
+      "difficulty": "EASY",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Job Site Operation", "isCorrect": false },
+        { "text": "B. Job Safety Observation", "isCorrect": true },
+        { "text": "C. Joint Safety Officer", "isCorrect": false },
+        { "text": "D. Job Standard Order", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama JSO (Job Safety Observation) adalah?",
+      "explanation": "JSO bertujuan mengamati pelaksanaan pekerjaan secara langsung untuk memastikan pekerja bekerja sesuai JSA dan prosedur aman.",
+      "difficulty": "EASY",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Menghitung upah lembur", "isCorrect": false },
+        { "text": "B. Memastikan pekerjaan dilaksanakan sesuai JSA dan prosedur aman", "isCorrect": true },
+        { "text": "C. Mengganti seluruh peralatan", "isCorrect": false },
+        { "text": "D. Menyusun anggaran tahunan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara JSA dan JSO adalah?",
+      "explanation": "JSA disusun sebelum pekerjaan (analisis di atas kertas), sedangkan JSO dilakukan saat pekerjaan berlangsung (pengamatan langsung di lapangan).",
+      "difficulty": "MEDIUM",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. JSA dilakukan sebelum kerja, JSO saat pekerjaan berlangsung", "isCorrect": true },
+        { "text": "B. JSA dan JSO sama persis", "isCorrect": false },
+        { "text": "C. JSO dilakukan sebelum JSA", "isCorrect": false },
+        { "text": "D. Keduanya tidak terkait pekerjaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam praktik, pengawas mencatat hasil pengamatannya saat pekerjaan berlangsung pada formulir?",
+      "explanation": "Pengawas memastikan pekerjaan sesuai JSA dan mencatat hasil observasinya pada form JSO (Job Safety Observation).",
+      "difficulty": "EASY",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Form JSO", "isCorrect": true },
+        { "text": "B. Form pajak", "isCorrect": false },
+        { "text": "C. Form cuti", "isCorrect": false },
+        { "text": "D. Form gaji", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebelum melaksanakan pekerjaan, JSA wajib disosialisasikan kepada pekerja melalui?",
+      "explanation": "JSA wajib disosialisasikan melalui safety briefing kepada pekerja sebelum pekerjaan dimulai.",
+      "difficulty": "EASY",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Safety briefing", "isCorrect": true },
+        { "text": "B. Pesta perpisahan", "isCorrect": false },
+        { "text": "C. Rapat anggaran", "isCorrect": false },
+        { "text": "D. Pengumuman libur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat melakukan JSO, jika pengamat menemukan tindakan tidak aman, langkah yang tepat adalah?",
+      "explanation": "Pengamat menegur/mengoreksi tindakan tidak aman, mendiskusikan dengan pekerja, dan mencatatnya untuk perbaikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Mengoreksi, mendiskusikan dengan pekerja, dan mencatatnya", "isCorrect": true },
+        { "text": "B. Membiarkan saja", "isCorrect": false },
+        { "text": "C. Langsung memecat tanpa diskusi", "isCorrect": false },
+        { "text": "D. Pura-pura tidak melihat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSO menekankan pengamatan terhadap dua hal utama, yaitu?",
+      "explanation": "JSO mengamati tindakan tidak aman (unsafe act) dan kondisi tidak aman (unsafe condition) selama pekerjaan berlangsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Tindakan tidak aman dan kondisi tidak aman", "isCorrect": true },
+        { "text": "B. Harga dan kualitas", "isCorrect": false },
+        { "text": "C. Gaji dan tunjangan", "isCorrect": false },
+        { "text": "D. Warna dan ukuran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat JSO bagi sistem K3 perusahaan adalah?",
+      "explanation": "JSO memberi umpan balik untuk memperbaiki JSA/prosedur, mengoreksi perilaku tidak aman, dan mencegah kecelakaan secara berkelanjutan.",
+      "difficulty": "MEDIUM",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Memberi umpan balik perbaikan JSA dan mencegah kecelakaan", "isCorrect": true },
+        { "text": "B. Menaikkan harga jual produk", "isCorrect": false },
+        { "text": "C. Menambah jumlah cuti", "isCorrect": false },
+        { "text": "D. Tidak ada manfaatnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSO sebaiknya dilakukan dengan sikap?",
+      "explanation": "JSO dilakukan secara objektif dan membangun (coaching), bukan mencari kesalahan untuk menghukum, agar pekerja terbuka memperbaiki perilaku.",
+      "difficulty": "MEDIUM",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Objektif dan membangun (coaching), bukan menghakimi", "isCorrect": true },
+        { "text": "B. Memarahi tanpa solusi", "isCorrect": false },
+        { "text": "C. Menyembunyikan temuan", "isCorrect": false },
+        { "text": "D. Mengabaikan keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil pengamatan JSO yang baik sebaiknya?",
+      "explanation": "Hasil JSO didokumentasikan, dianalisis, dan ditindaklanjuti untuk perbaikan JSA, prosedur, atau pelatihan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Didokumentasikan dan ditindaklanjuti untuk perbaikan", "isCorrect": true },
+        { "text": "B. Dilupakan", "isCorrect": false },
+        { "text": "C. Dibuang", "isCorrect": false },
+        { "text": "D. Disimpan rahasia tanpa tindak lanjut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada simulasi pekerjaan berisiko tinggi, peran yang melaksanakan pekerjaan di lapangan adalah?",
+      "explanation": "Peran 'pekerja' melaksanakan pekerjaan sesuai JSA, sementara peran lain mengawasi dan memimpin.",
+      "difficulty": "EASY",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. Pekerja", "isCorrect": true },
+        { "text": "B. Tamu", "isCorrect": false },
+        { "text": "C. Penonton", "isCorrect": false },
+        { "text": "D. Sopir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam simulasi pekerjaan, peran yang memastikan pekerjaan dilaksanakan sesuai JSA dan mencatat di form JSO adalah?",
+      "explanation": "Pengawas (supervisor) bertugas memastikan pekerjaan sesuai JSA dan mencatat hasil observasinya pada form JSO.",
+      "difficulty": "EASY",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. Manajer keuangan", "isCorrect": false },
+        { "text": "B. Pengawas (supervisor)", "isCorrect": true },
+        { "text": "C. Pelanggan", "isCorrect": false },
+        { "text": "D. Tukang parkir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peran HSE (Health, Safety, Environment) dalam simulasi pekerjaan adalah?",
+      "explanation": "HSE memastikan aspek keselamatan, kelengkapan APD, dan kepatuhan prosedur K3 selama pelaksanaan pekerjaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. Memastikan aspek K3, kelengkapan APD, dan kepatuhan prosedur", "isCorrect": true },
+        { "text": "B. Mengatur menu makan siang", "isCorrect": false },
+        { "text": "C. Menentukan harga material", "isCorrect": false },
+        { "text": "D. Membersihkan kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peran manajer dalam simulasi pekerjaan berisiko tinggi umumnya adalah?",
+      "explanation": "Manajer memberi arahan, mengambil keputusan, menyediakan sumber daya, dan bertanggung jawab atas pelaksanaan pekerjaan secara keseluruhan.",
+      "difficulty": "MEDIUM",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. Memberi arahan, menyediakan sumber daya, dan mengambil keputusan", "isCorrect": true },
+        { "text": "B. Melaksanakan pengelasan sendiri", "isCorrect": false },
+        { "text": "C. Tidak terlibat sama sekali", "isCorrect": false },
+        { "text": "D. Hanya mencatat absen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tim simulasi pada pelaksanaan pekerjaan berisiko tinggi wajib menggunakan?",
+      "explanation": "Tim simulasi wajib menggunakan APD lengkap yang telah tersedia di laboratorium sesuai jenis pekerjaannya.",
+      "difficulty": "EASY",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. APD lengkap sesuai pekerjaan", "isCorrect": true },
+        { "text": "B. Pakaian bebas tanpa pelindung", "isCorrect": false },
+        { "text": "C. Hanya seragam biasa", "isCorrect": false },
+        { "text": "D. Tidak perlu pelindung apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada simulasi, tim diperbolehkan menggunakan alat bantu berupa?",
+      "explanation": "Tim simulasi boleh menggunakan alat bantu/alat peraga yang ada di lab atau alat peraga buatan sendiri.",
+      "difficulty": "EASY",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. Alat peraga di lab atau buatan sendiri", "isCorrect": true },
+        { "text": "B. Alat berat sungguhan yang berbahaya", "isCorrect": false },
+        { "text": "C. Bahan peledak nyata", "isCorrect": false },
+        { "text": "D. Tidak boleh menggunakan alat apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanggung jawab pekerja pelaksana dalam penerapan JSA adalah?",
+      "explanation": "Pekerja wajib memahami dan mematuhi JSA, menggunakan APD, serta melaporkan bahaya yang ditemukan saat bekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. Mematuhi JSA, memakai APD, dan melaporkan bahaya", "isCorrect": true },
+        { "text": "B. Mengabaikan JSA", "isCorrect": false },
+        { "text": "C. Bekerja tanpa APD", "isCorrect": false },
+        { "text": "D. Tidak melaporkan bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko dalam penerapan JSA bertujuan agar?",
+      "explanation": "Komunikasi risiko (melalui safety briefing) memastikan semua pekerja memahami bahaya dan pengendalian sebelum bekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. Semua pekerja memahami bahaya dan pengendaliannya", "isCorrect": true },
+        { "text": "B. Pekerja tidak tahu bahayanya", "isCorrect": false },
+        { "text": "C. Informasi disembunyikan", "isCorrect": false },
+        { "text": "D. Pekerjaan ditunda selamanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik penyusunan JSA, laporan praktikum ditulis dengan ketentuan?",
+      "explanation": "Laporan praktikum JSA ditulis tangan maksimal 2 halaman dengan format judul, tujuan, hasil formulir JSA, kesimpulan dan saran.",
+      "difficulty": "EASY",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Ditulis tangan maksimal 2 halaman", "isCorrect": true },
+        { "text": "B. Diketik minimal 50 halaman", "isCorrect": false },
+        { "text": "C. Berupa video saja", "isCorrect": false },
+        { "text": "D. Tidak perlu laporan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Format laporan praktikum JSA harus memuat bagian?",
+      "explanation": "Format laporan: judul, tujuan praktikum, hasil formulir JSA, kesimpulan dan saran.",
+      "difficulty": "EASY",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Judul, tujuan, hasil formulir JSA, kesimpulan dan saran", "isCorrect": true },
+        { "text": "B. Hanya tanda tangan", "isCorrect": false },
+        { "text": "C. Daftar harga material", "isCorrect": false },
+        { "text": "D. Resep masakan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik minggu depan setelah penyusunan JSA, mahasiswa melakukan?",
+      "explanation": "Minggu berikutnya mahasiswa melakukan roleplay/simulasi pekerjaan berisiko tinggi sesuai jenis pekerjaan kelompoknya.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Roleplay/simulasi pekerjaan berisiko tinggi", "isCorrect": true },
+        { "text": "B. Libur tanpa kegiatan", "isCorrect": false },
+        { "text": "C. Ujian tertulis HAZOP", "isCorrect": false },
+        { "text": "D. Membuat laporan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan pelaksanaan simulasi pekerjaan dimulai dari?",
+      "explanation": "Simulasi dilaksanakan urut dari kelompok 4, 3, 2, dan 1.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Kelompok 1, 2, 3, 4", "isCorrect": false },
+        { "text": "B. Kelompok 4, 3, 2, 1", "isCorrect": true },
+        { "text": "C. Acak", "isCorrect": false },
+        { "text": "D. Hanya kelompok 1", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam simulasi, sebelum pekerjaan dilaksanakan kelompok wajib melakukan pembagian?",
+      "explanation": "Masing-masing kelompok membagi tugas/peran sebagai pekerja, pengawas, HSE, dan manajer dalam melaksanakan pekerjaan.",
+      "difficulty": "EASY",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Tugas/peran (pekerja, pengawas, HSE, manajer)", "isCorrect": true },
+        { "text": "B. Pembagian gaji", "isCorrect": false },
+        { "text": "C. Pembagian makanan", "isCorrect": false },
+        { "text": "D. Pembagian libur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA yang baik akan menghasilkan keluaran berupa?",
+      "explanation": "JSA menghasilkan daftar langkah kerja, bahaya tiap langkah, dan pengendalian yang menjadi panduan kerja aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Daftar langkah, bahaya, dan pengendalian sebagai panduan kerja aman", "isCorrect": true },
+        { "text": "B. Laporan laba rugi", "isCorrect": false },
+        { "text": "C. Jadwal cuti tahunan", "isCorrect": false },
+        { "text": "D. Daftar inventaris kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pekerja yang melakukan pekerjaan dilibatkan dalam penyusunan JSA?",
+      "explanation": "Pekerja paling memahami detail pekerjaan dan bahaya nyata di lapangan, sehingga JSA menjadi lebih akurat dan diterima.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Karena mereka paling memahami detail dan bahaya nyata pekerjaan", "isCorrect": true },
+        { "text": "B. Karena mereka tidak sibuk", "isCorrect": false },
+        { "text": "C. Agar pekerjaan berhenti", "isCorrect": false },
+        { "text": "D. Untuk mengisi waktu luang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA termasuk dalam kategori metode penilaian risiko yang bersifat?",
+      "explanation": "JSA umumnya bersifat kualitatif karena menguraikan bahaya dan pengendalian secara deskriptif per langkah, meski dapat ditambah penilaian risiko.",
+      "difficulty": "HARD",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Kualitatif (deskriptif per langkah)", "isCorrect": true },
+        { "text": "B. Hanya finansial", "isCorrect": false },
+        { "text": "C. Hanya statistik tingkat lanjut", "isCorrect": false },
+        { "text": "D. Tidak terkait risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan penggalian pipa LNG, salah satu pengendalian administratif yang tepat adalah?",
+      "explanation": "Membuat ijin kerja galian, prosedur masuk galian, dan pelatihan/briefing termasuk pengendalian administratif untuk pekerjaan penggalian.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Ijin kerja galian dan briefing prosedur masuk galian", "isCorrect": true },
+        { "text": "B. Membiarkan galian terbuka tanpa rambu", "isCorrect": false },
+        { "text": "C. Melarang penggunaan APD", "isCorrect": false },
+        { "text": "D. Menghapus pengawasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA berbeda dengan HIRADC dalam hal cakupannya, yaitu JSA lebih fokus pada?",
+      "explanation": "JSA fokus pada satu pekerjaan spesifik yang diuraikan per langkah, sedangkan HIRADC umumnya mencakup penilaian risiko lebih luas dengan skoring likelihood-severity.",
+      "difficulty": "HARD",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Satu pekerjaan spesifik yang diuraikan per langkah", "isCorrect": true },
+        { "text": "B. Seluruh proses kimia pabrik sekaligus", "isCorrect": false },
+        { "text": "C. Laporan keuangan perusahaan", "isCorrect": false },
+        { "text": "D. Pemasaran produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apabila saat JSO ditemukan pekerja tidak memakai APD yang diwajibkan JSA, tindakan paling tepat adalah?",
+      "explanation": "Pekerjaan dihentikan sementara (stop work), pekerja diingatkan untuk memakai APD, lalu pekerjaan dilanjutkan setelah aman.",
+      "difficulty": "HARD",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Hentikan sementara, ingatkan pakai APD, lalu lanjutkan setelah aman", "isCorrect": true },
+        { "text": "B. Biarkan bekerja tanpa APD", "isCorrect": false },
+        { "text": "C. Catat tanpa menghentikan bahaya", "isCorrect": false },
+        { "text": "D. Tinggalkan lokasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang TEPAT mengenai hubungan JSA dan JSO adalah?",
+      "explanation": "JSA menjadi acuan/standar, sedangkan JSO memverifikasi pelaksanaannya di lapangan; keduanya saling melengkapi.",
+      "difficulty": "MEDIUM",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. JSA menjadi acuan, JSO memverifikasi pelaksanaannya", "isCorrect": true },
+        { "text": "B. JSO menggantikan JSA sepenuhnya", "isCorrect": false },
+        { "text": "C. Keduanya tidak berhubungan", "isCorrect": false },
+        { "text": "D. JSA dibuat setelah JSO selesai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan pembersihan kaca gedung bertingkat, pengendalian rekayasa yang tepat adalah?",
+      "explanation": "Menggunakan gondola/platform berpengaman dan titik anchor yang kuat termasuk pengendalian rekayasa pada pekerjaan ketinggian.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Gondola/platform berpengaman dengan anchor point kuat", "isCorrect": true },
+        { "text": "B. Memanjat tanpa alat pengaman", "isCorrect": false },
+        { "text": "C. Bekerja saat angin kencang", "isCorrect": false },
+        { "text": "D. Menghapus semua pengaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam JSA pekerjaan listrik tegangan tinggi, prinsip pengendalian utama sebelum bekerja adalah?",
+      "explanation": "Prinsip LOTO (Lock Out Tag Out) untuk mengisolasi sumber energi/mematikan tegangan termasuk pengendalian penting sebelum bekerja pada instalasi listrik.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. LOTO (Lock Out Tag Out) untuk mengisolasi sumber energi", "isCorrect": true },
+        { "text": "B. Bekerja saat tegangan menyala penuh", "isCorrect": false },
+        { "text": "C. Menyentuh kabel dengan tangan basah", "isCorrect": false },
+        { "text": "D. Mengabaikan isolasi energi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian praktik penyusunan JSA dan simulasi didasarkan pada?",
+      "explanation": "Penilaian didasarkan pada laporan praktikum, presentasi, serta pertanyaan dan jawaban selama praktik.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Laporan, presentasi, serta pertanyaan dan jawaban", "isCorrect": true },
+        { "text": "B. Tinggi badan mahasiswa", "isCorrect": false },
+        { "text": "C. Jumlah teman", "isCorrect": false },
+        { "text": "D. Warna seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan dalam tanki BBM, urutan pengendalian yang benar sebelum pengelasan dimulai adalah?",
+      "explanation": "Tanki dikosongkan/dibersihkan dan dibebaskan dari gas (gas freeing), dilakukan gas test, ventilasi, lalu ijin kerja diterbitkan sebelum pengelasan.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian Risiko",
+      "options": [
+        { "text": "A. Gas freeing → gas test → ventilasi → ijin kerja → las", "isCorrect": true },
+        { "text": "B. Langsung mengelas tanpa uji gas", "isCorrect": false },
+        { "text": "C. Mengelas dahulu baru uji gas", "isCorrect": false },
+        { "text": "D. Mengisi tanki dengan BBM lalu mengelas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kelemahan JSA bila tidak dilakukan dengan benar adalah?",
+      "explanation": "JSA yang dibuat asal-asalan atau tidak melibatkan pekerja dapat melewatkan bahaya penting dan menjadi formalitas belaka.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Dapat melewatkan bahaya penting bila tidak melibatkan pekerja", "isCorrect": true },
+        { "text": "B. Selalu sempurna tanpa kelemahan", "isCorrect": false },
+        { "text": "C. Membuat pekerjaan tidak berbahaya secara otomatis", "isCorrect": false },
+        { "text": "D. Menghilangkan kebutuhan pengawasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dokumen JSA sebaiknya tersedia dan mudah diakses oleh?",
+      "explanation": "JSA harus mudah diakses oleh pekerja dan pengawas di lokasi kerja agar dapat digunakan sebagai panduan saat bekerja.",
+      "difficulty": "EASY",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Pekerja dan pengawas di lokasi kerja", "isCorrect": true },
+        { "text": "B. Hanya disimpan di gudang arsip", "isCorrect": false },
+        { "text": "C. Hanya pihak luar perusahaan", "isCorrect": false },
+        { "text": "D. Tidak boleh diakses siapa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahapan terakhir dalam siklus JSA agar tetap relevan adalah?",
+      "explanation": "Tahap terakhir adalah peninjauan dan pembaruan (review/update) JSA secara berkala agar tetap relevan dengan kondisi pekerjaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Peninjauan dan pembaruan JSA secara berkala", "isCorrect": true },
+        { "text": "B. Membakar dokumen lama", "isCorrect": false },
+        { "text": "C. Menyimpan tanpa pernah ditinjau", "isCorrect": false },
+        { "text": "D. Menghapus seluruh data", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada JSO, indikator bahwa JSA telah efektif diterapkan adalah?",
+      "explanation": "JSA efektif bila pekerja melaksanakan langkah kerja sesuai prosedur, memakai pengendalian/APD yang ditetapkan, dan tidak ditemukan tindakan tidak aman.",
+      "difficulty": "HARD",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Pekerja bekerja sesuai prosedur dan pengendalian yang ditetapkan", "isCorrect": true },
+        { "text": "B. Banyak tindakan tidak aman terjadi", "isCorrect": false },
+        { "text": "C. Pekerja mengabaikan APD", "isCorrect": false },
+        { "text": "D. Tidak ada pengawasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang dimaksud 'langkah dasar pekerjaan' (basic job step) dalam JSA adalah?",
+      "explanation": "Langkah dasar adalah bagian pekerjaan yang menggambarkan apa yang dilakukan secara berurutan, bukan rincian gerakan terlalu kecil maupun gambaran terlalu umum.",
+      "difficulty": "HARD",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Bagian pekerjaan yang menggambarkan apa yang dilakukan secara berurutan", "isCorrect": true },
+        { "text": "B. Daftar gaji pekerja", "isCorrect": false },
+        { "text": "C. Setiap gerakan jari secara rinci", "isCorrect": false },
+        { "text": "D. Nama merek peralatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah jenis bahaya yang perlu dipertimbangkan dalam JSA, KECUALI?",
+      "explanation": "Bahaya yang dipertimbangkan meliputi fisik, kimia, biologi, ergonomi, listrik, dan psikososial; 'keuntungan finansial' bukan jenis bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Bahaya fisik", "isCorrect": false },
+        { "text": "B. Bahaya kimia", "isCorrect": false },
+        { "text": "C. Keuntungan finansial", "isCorrect": true },
+        { "text": "D. Bahaya ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelelahan, stres kerja, dan tekanan target termasuk bahaya jenis?",
+      "explanation": "Kelelahan, stres, dan tekanan kerja termasuk bahaya psikososial yang dapat memengaruhi konsentrasi dan keselamatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Bahaya psikososial", "isCorrect": true },
+        { "text": "B. Bahaya listrik", "isCorrect": false },
+        { "text": "C. Bahaya mekanik", "isCorrect": false },
+        { "text": "D. Bahaya kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan bakteri, virus, atau jamur saat bekerja di saluran/limbah termasuk bahaya?",
+      "explanation": "Paparan mikroorganisme (bakteri, virus, jamur) termasuk bahaya biologi yang relevan pada pekerjaan di saluran, limbah, atau area kotor.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Bahaya biologi", "isCorrect": true },
+        { "text": "B. Bahaya fisik", "isCorrect": false },
+        { "text": "C. Bahaya listrik", "isCorrect": false },
+        { "text": "D. Bahaya gravitasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir penerapan JSA dan JSO secara konsisten adalah?",
+      "explanation": "Tujuan akhirnya adalah menciptakan tempat kerja yang aman dan mencegah kecelakaan serta penyakit akibat kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Mencegah kecelakaan dan menciptakan tempat kerja yang aman", "isCorrect": true },
+        { "text": "B. Meningkatkan jumlah insiden", "isCorrect": false },
+        { "text": "C. Memperlambat produksi", "isCorrect": false },
+        { "text": "D. Menambah dokumen tanpa manfaat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat menguraikan langkah pekerjaan dalam JSA, setiap langkah sebaiknya diawali dengan?",
+      "explanation": "Setiap langkah dimulai dengan kata kerja aktif (misal: memasang, mengangkat, mengelas) yang menggambarkan tindakan yang dilakukan.",
+      "difficulty": "HARD",
+      "tag": "Tahapan Penyusunan JSA",
+      "options": [
+        { "text": "A. Kata kerja aktif yang menggambarkan tindakan", "isCorrect": true },
+        { "text": "B. Nama orang", "isCorrect": false },
+        { "text": "C. Angka acak", "isCorrect": false },
+        { "text": "D. Tanda baca saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik JSA, laporan praktikum dikumpulkan?",
+      "explanation": "Laporan praktikum JSA dikumpulkan di meja Dosen untuk diperiksa.",
+      "difficulty": "EASY",
+      "tag": "Penerapan & Praktik",
+      "options": [
+        { "text": "A. Di meja Dosen untuk diperiksa", "isCorrect": true },
+        { "text": "B. Dibuang ke tempat sampah", "isCorrect": false },
+        { "text": "C. Disimpan sendiri di rumah", "isCorrect": false },
+        { "text": "D. Tidak dikumpulkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat melibatkan pengawas dalam JSO adalah?",
+      "explanation": "Pengawas dapat langsung mengoreksi penyimpangan, memberi coaching, dan memastikan kepatuhan terhadap JSA secara real-time.",
+      "difficulty": "MEDIUM",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. Dapat langsung mengoreksi penyimpangan dan memastikan kepatuhan", "isCorrect": true },
+        { "text": "B. Menambah biaya tanpa manfaat", "isCorrect": false },
+        { "text": "C. Memperlambat semua pekerjaan", "isCorrect": false },
+        { "text": "D. Tidak ada manfaatnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan di ruang terbatas (confined space), peran khusus yang ditempatkan di luar untuk memantau dan komunikasi disebut?",
+      "explanation": "Attendant (penjaga lubang/standby man) ditempatkan di luar ruang terbatas untuk memantau pekerja dan komunikasi darurat.",
+      "difficulty": "HARD",
+      "tag": "Peran & Tanggung Jawab",
+      "options": [
+        { "text": "A. Attendant (penjaga/standby man)", "isCorrect": true },
+        { "text": "B. Kasir", "isCorrect": false },
+        { "text": "C. Resepsionis", "isCorrect": false },
+        { "text": "D. Sopir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "JSA paling tepat disusun pada waktu?",
+      "explanation": "JSA disusun sebelum pekerjaan dimulai (terutama untuk pekerjaan baru/berisiko) dan ditinjau ulang saat ada perubahan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan JSA",
+      "options": [
+        { "text": "A. Sebelum pekerjaan dimulai", "isCorrect": true },
+        { "text": "B. Setelah terjadi kecelakaan saja", "isCorrect": false },
+        { "text": "C. Saat pekerjaan sudah selesai", "isCorrect": false },
+        { "text": "D. Tidak pernah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip JSO agar data observasi valid adalah pengamatan dilakukan?",
+      "explanation": "Pengamatan JSO dilakukan langsung di lapangan saat pekerjaan nyata berlangsung, bukan berdasarkan asumsi atau laporan saja.",
+      "difficulty": "MEDIUM",
+      "tag": "Job Safety Observation (JSO)",
+      "options": [
+        { "text": "A. Langsung di lapangan saat pekerjaan nyata berlangsung", "isCorrect": true },
+        { "text": "B. Hanya berdasarkan rumor", "isCorrect": false },
+        { "text": "C. Dari ruangan tertutup tanpa melihat lokasi", "isCorrect": false },
+        { "text": "D. Setahun sekali tanpa pekerjaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk pekerjaan berisiko tinggi yang umumnya membutuhkan JSA dan ijin kerja khusus, KECUALI?",
+      "explanation": "Pekerjaan panas, ketinggian, ruang terbatas, dan penggalian berisiko tinggi; mengetik dokumen di kantor adalah pekerjaan rutin berisiko rendah.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Pekerjaan Kritis",
+      "options": [
+        { "text": "A. Pekerjaan panas (hot work)", "isCorrect": false },
+        { "text": "B. Pekerjaan di ketinggian", "isCorrect": false },
+        { "text": "C. Mengetik dokumen di kantor", "isCorrect": true },
+        { "text": "D. Pekerjaan di ruang terbatas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil identifikasi bahaya yang baik dalam JSA sebaiknya bersifat?",
+      "explanation": "Identifikasi bahaya sebaiknya spesifik dan jelas (apa bahayanya dan akibatnya), bukan umum, agar pengendalian dapat ditentukan dengan tepat.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya per Langkah",
+      "options": [
+        { "text": "A. Spesifik dan jelas (apa bahaya dan akibatnya)", "isCorrect": true },
+        { "text": "B. Sangat umum dan kabur", "isCorrect": false },
+        { "text": "C. Tidak perlu ditulis", "isCorrect": false },
+        { "text": "D. Hanya berupa angka", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Kepanjangan JSA", "back": "Job Safety Analysis — analisis keselamatan pekerjaan dengan menguraikan langkah kerja, mengidentifikasi bahaya tiap langkah, dan menentukan pengendalian.", "tag": "Pengertian & Tujuan JSA" },
+    { "front": "Tujuan utama JSA", "back": "Mengidentifikasi bahaya pada setiap langkah pekerjaan dan menentukan tindakan pengendalian sebelum pekerjaan dilakukan.", "tag": "Pengertian & Tujuan JSA" },
+    { "front": "Nama lain JSA", "back": "JHA (Job Hazard Analysis) atau JSEA (Job Safety and Environmental Analysis).", "tag": "Pengertian & Tujuan JSA" },
+    { "front": "JSA proaktif atau reaktif?", "back": "Proaktif — dilakukan sebelum pekerjaan dimulai untuk mencegah kecelakaan.", "tag": "Pengertian & Tujuan JSA" },
+    { "front": "Kriteria pekerjaan prioritas JSA", "back": "Pekerjaan berisiko tinggi, sering terjadi kecelakaan, pekerjaan baru, atau yang prosedur/alatnya berubah.", "tag": "Pemilihan Pekerjaan Kritis" },
+    { "front": "4 tahap penyusunan JSA", "back": "1) Pilih pekerjaan, 2) Uraikan menjadi langkah dasar, 3) Identifikasi bahaya tiap langkah, 4) Tentukan pengendalian.", "tag": "Tahapan Penyusunan JSA" },
+    { "front": "Kolom utama formulir JSA", "back": "Langkah pekerjaan, potensi bahaya, dan tindakan pengendalian/rekomendasi.", "tag": "Tahapan Penyusunan JSA" },
+    { "front": "Siapa yang dilibatkan menyusun JSA?", "back": "Pekerja pelaksana, pengawas, dan personel HSE agar JSA akurat.", "tag": "Tahapan Penyusunan JSA" },
+    { "front": "Awalan tiap langkah JSA", "back": "Diawali kata kerja aktif (memasang, mengangkat, mengelas) dan ditulis berurutan sesuai jalannya pekerjaan.", "tag": "Tahapan Penyusunan JSA" },
+    { "front": "Definisi bahaya (hazard)", "back": "Sumber atau situasi yang berpotensi menimbulkan cedera, sakit, kerusakan, atau kerugian.", "tag": "Identifikasi Bahaya per Langkah" },
+    { "front": "Jenis-jenis bahaya", "back": "Fisik/mekanik, kimia, biologi, ergonomi, listrik, dan psikososial.", "tag": "Identifikasi Bahaya per Langkah" },
+    { "front": "Bahaya ruang terbatas (confined space)", "back": "Kekurangan oksigen serta paparan gas/uap mudah terbakar atau beracun, mis. di dalam tanki BBM.", "tag": "Identifikasi Bahaya per Langkah" },
+    { "front": "Hierarki pengendalian risiko", "back": "Eliminasi → Substitusi → Rekayasa teknik (engineering) → Administratif → APD.", "tag": "Pengendalian Risiko" },
+    { "front": "Pengendalian paling & paling kurang efektif", "back": "Paling efektif: Eliminasi (hilangkan bahaya). Paling kurang efektif: APD (hanya lindungi individu).", "tag": "Pengendalian Risiko" },
+    { "front": "Contoh pengendalian rekayasa", "back": "Memasang shoring pada galian, enclosure/peredam mesin, gondola berpengaman, ventilasi/blower.", "tag": "Pengendalian Risiko" },
+    { "front": "LOTO", "back": "Lock Out Tag Out — mengisolasi/mematikan sumber energi (listrik) sebelum bekerja agar tidak menyala tak terduga.", "tag": "Pengendalian Risiko" },
+    { "front": "Kepanjangan JSO", "back": "Job Safety Observation — pengamatan langsung saat pekerjaan berlangsung untuk memastikan kesesuaian dengan JSA.", "tag": "Job Safety Observation (JSO)" },
+    { "front": "Perbedaan JSA vs JSO", "back": "JSA disusun sebelum pekerjaan (di kertas); JSO dilakukan saat pekerjaan berlangsung (pengamatan lapangan).", "tag": "Job Safety Observation (JSO)" },
+    { "front": "Safety briefing", "back": "Sosialisasi JSA kepada pekerja sebelum pekerjaan dimulai agar memahami bahaya dan pengendaliannya.", "tag": "Job Safety Observation (JSO)" },
+    { "front": "Yang diamati dalam JSO", "back": "Tindakan tidak aman (unsafe act) dan kondisi tidak aman (unsafe condition).", "tag": "Job Safety Observation (JSO)" },
+    { "front": "Peran dalam simulasi pekerjaan", "back": "Pekerja (melaksanakan), Pengawas (memastikan sesuai JSA & isi form JSO), HSE (aspek K3 & APD), Manajer (arahan & keputusan).", "tag": "Peran & Tanggung Jawab" },
+    { "front": "Kewajiban APD tim simulasi", "back": "Wajib menggunakan APD lengkap sesuai jenis pekerjaan yang tersedia di lab.", "tag": "Peran & Tanggung Jawab" },
+    { "front": "Pekerjaan praktik per kelompok", "back": "K1: galian pipa LNG; K2: pembersihan kaca gedung; K3: instalasi listrik tegangan tinggi; K4: pengelasan tanki BBM.", "tag": "Penerapan & Praktik" },
+    { "front": "Format laporan praktikum JSA", "back": "Ditulis tangan maks 2 halaman: judul, tujuan, hasil formulir JSA, kesimpulan dan saran; dikumpulkan di meja dosen.", "tag": "Penerapan & Praktik" }
+  ],
+  "mindmap": [
+    { "id": "jsa-jso", "label": "JSA & JSO", "color": "#6366f1", "parent": null, "content": "Job Safety Analysis dan Job Safety Observation adalah alat dasar K3 untuk mengidentifikasi bahaya dan memastikan pekerjaan dilaksanakan secara aman." },
+
+    { "id": "pengertian", "label": "Pengertian & Tujuan", "color": "#8b5cf6", "parent": "jsa-jso", "content": "JSA menguraikan pekerjaan jadi langkah, mengidentifikasi bahaya, dan menentukan pengendalian secara proaktif." },
+    { "id": "definisi-jsa", "label": "Definisi JSA", "color": "#8b5cf6", "parent": "pengertian", "content": "Metode menguraikan pekerjaan menjadi langkah-langkah, mengidentifikasi bahaya tiap langkah, dan menetapkan pengendalian." },
+    { "id": "nama-lain", "label": "Nama Lain", "color": "#8b5cf6", "parent": "pengertian", "content": "JSA juga disebut JHA (Job Hazard Analysis) atau JSEA." },
+    { "id": "tujuan-jsa", "label": "Tujuan", "color": "#8b5cf6", "parent": "pengertian", "content": "Mencegah kecelakaan dengan mengendalikan bahaya sebelum pekerjaan dimulai; menjadi dasar SOP dan pelatihan." },
+
+    { "id": "pemilihan", "label": "Pemilihan Pekerjaan", "color": "#0ea5e9", "parent": "jsa-jso", "content": "Pekerjaan diprioritaskan berdasarkan tingkat risiko dan riwayat insiden." },
+    { "id": "risiko-tinggi", "label": "Berisiko Tinggi", "color": "#0ea5e9", "parent": "pemilihan", "content": "Pekerjaan berpotensi cedera serius seperti ketinggian, ruang terbatas, hot work, galian, dan listrik." },
+    { "id": "riwayat-celaka", "label": "Riwayat Kecelakaan", "color": "#0ea5e9", "parent": "pemilihan", "content": "Pekerjaan dengan frekuensi atau sejarah kecelakaan tinggi diprioritaskan untuk dianalisis." },
+    { "id": "pekerjaan-baru", "label": "Baru / Berubah", "color": "#0ea5e9", "parent": "pemilihan", "content": "Pekerjaan baru atau yang prosedur/alatnya berubah perlu JSA baru karena bahayanya belum diketahui." },
+
+    { "id": "tahapan", "label": "Tahapan JSA", "color": "#10b981", "parent": "jsa-jso", "content": "Empat langkah: pilih pekerjaan, uraikan langkah, identifikasi bahaya, tentukan pengendalian." },
+    { "id": "pilih-kerja", "label": "1. Pilih Pekerjaan", "color": "#10b981", "parent": "tahapan", "content": "Tentukan pekerjaan yang akan dianalisis, utamakan yang berisiko tinggi." },
+    { "id": "uraikan-langkah", "label": "2. Uraikan Langkah", "color": "#10b981", "parent": "tahapan", "content": "Pecah pekerjaan menjadi sekitar 10 langkah dasar berurutan, diawali kata kerja aktif." },
+    { "id": "formulir-jsa", "label": "Formulir JSA", "color": "#10b981", "parent": "tahapan", "content": "Kolom utama: langkah pekerjaan, potensi bahaya, dan pengendalian; header memuat nama pekerjaan, lokasi, tanggal, APD." },
+    { "id": "review-jsa", "label": "Tinjau & Sosialisasi", "color": "#10b981", "parent": "tahapan", "content": "JSA ditinjau, disetujui, dan disosialisasikan ke pekerja; diperbarui berkala atau saat ada perubahan." },
+
+    { "id": "identifikasi", "label": "Identifikasi Bahaya", "color": "#f59e0b", "parent": "jsa-jso", "content": "Tiap langkah dianalisis: apa yang bisa salah dan bagaimana cedera dapat timbul." },
+    { "id": "jenis-bahaya", "label": "Jenis Bahaya", "color": "#f59e0b", "parent": "identifikasi", "content": "Fisik/mekanik, kimia, biologi, ergonomi, listrik, dan psikososial." },
+    { "id": "bahaya-ketinggian", "label": "Jatuh dari Ketinggian", "color": "#f59e0b", "parent": "identifikasi", "content": "Bahaya fisik pada pekerjaan ketinggian seperti pembersihan kaca gedung bertingkat." },
+    { "id": "bahaya-confined", "label": "Ruang Terbatas", "color": "#f59e0b", "parent": "identifikasi", "content": "Kekurangan oksigen dan uap mudah terbakar/beracun di dalam tanki BBM." },
+    { "id": "bahaya-listrik", "label": "Listrik & Galian", "color": "#f59e0b", "parent": "identifikasi", "content": "Sengatan listrik tegangan tinggi dan longsornya dinding galian pipa bawah tanah." },
+
+    { "id": "pengendalian", "label": "Pengendalian Risiko", "color": "#ef4444", "parent": "jsa-jso", "content": "Bahaya dikendalikan mengikuti hierarki dari paling efektif ke paling kurang efektif." },
+    { "id": "hierarki", "label": "Hierarki", "color": "#ef4444", "parent": "pengendalian", "content": "Eliminasi → Substitusi → Rekayasa teknik → Administratif → APD." },
+    { "id": "eliminasi-sub", "label": "Eliminasi & Substitusi", "color": "#ef4444", "parent": "pengendalian", "content": "Menghilangkan sumber bahaya atau menggantinya dengan yang lebih aman — paling efektif." },
+    { "id": "rekayasa", "label": "Rekayasa Teknik", "color": "#ef4444", "parent": "pengendalian", "content": "Mengubah kondisi fisik: shoring galian, gondola berpengaman, ventilasi, peredam, LOTO." },
+    { "id": "admin-apd", "label": "Administratif & APD", "color": "#ef4444", "parent": "pengendalian", "content": "Prosedur, ijin kerja, pelatihan, rambu (administratif); APD melindungi individu sebagai lapis terakhir." },
+
+    { "id": "jso", "label": "Job Safety Observation", "color": "#ec4899", "parent": "jsa-jso", "content": "Pengamatan langsung di lapangan untuk memastikan pekerjaan sesuai JSA dan prosedur aman." },
+    { "id": "tujuan-jso", "label": "Tujuan JSO", "color": "#ec4899", "parent": "jso", "content": "Memverifikasi pelaksanaan JSA, mengoreksi tindakan/kondisi tidak aman, dan mencegah kecelakaan." },
+    { "id": "form-jso", "label": "Form JSO", "color": "#ec4899", "parent": "jso", "content": "Pengawas mencatat hasil pengamatan tindakan dan kondisi tidak aman pada form JSO." },
+    { "id": "safety-briefing", "label": "Safety Briefing", "color": "#ec4899", "parent": "jso", "content": "JSA disosialisasikan ke pekerja melalui safety briefing sebelum pekerjaan dimulai." },
+    { "id": "tindak-lanjut", "label": "Tindak Lanjut", "color": "#ec4899", "parent": "jso", "content": "Temuan JSO didokumentasikan dan ditindaklanjuti untuk memperbaiki JSA, prosedur, atau pelatihan." },
+
+    { "id": "peran", "label": "Peran & Praktik", "color": "#14b8a6", "parent": "jsa-jso", "content": "Pembagian peran dalam simulasi pekerjaan berisiko tinggi dan ketentuan praktik." },
+    { "id": "peran-tim", "label": "Pembagian Peran", "color": "#14b8a6", "parent": "peran", "content": "Pekerja melaksanakan, pengawas mengawasi & isi JSO, HSE jaga aspek K3/APD, manajer beri arahan." },
+    { "id": "apd-simulasi", "label": "APD & Alat Peraga", "color": "#14b8a6", "parent": "peran", "content": "Tim simulasi wajib pakai APD lengkap dan boleh memakai alat peraga lab atau buatan sendiri." },
+    { "id": "kelompok-praktik", "label": "Pekerjaan Kelompok", "color": "#14b8a6", "parent": "peran", "content": "K1 galian pipa LNG, K2 kaca gedung, K3 listrik tegangan tinggi, K4 las tanki BBM." },
+    { "id": "laporan-praktik", "label": "Laporan Praktikum", "color": "#14b8a6", "parent": "peran", "content": "Ditulis tangan maks 2 halaman: judul, tujuan, hasil formulir JSA, kesimpulan & saran; dikumpulkan ke dosen." }
+  ]
+}

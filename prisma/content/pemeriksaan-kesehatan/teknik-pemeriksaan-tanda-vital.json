@@ -1,0 +1,1474 @@
+{
+  "topic": "Teknik Pemeriksaan Tanda Vital",
+  "order": 3,
+  "description": "Teknik pemeriksaan tanda vital mencakup prosedur baku pengukuran tekanan darah, frekuensi nadi, suhu tubuh, frekuensi pernapasan, status gizi, dan saturasi oksigen pada pekerja. Pengukuran dilakukan dengan alat terkalibrasi dan persiapan yang tepat agar hasil valid dan reliabel sebagai indikator kesehatan kerja.",
+  "subtopics": [
+    "Persiapan Pemeriksaan",
+    "Pengukuran Tekanan Darah",
+    "Beban Kerja & Frekuensi Nadi",
+    "Pengukuran Suhu Tubuh",
+    "Frekuensi Pernapasan",
+    "Status Gizi Sederhana",
+    "Saturasi Oksigen"
+  ],
+  "questions": [
+    {
+      "text": "Alat yang digunakan untuk mengukur tekanan darah adalah?",
+      "explanation": "Tekanan darah diukur menggunakan sphygmomanometer (tensimeter), baik tipe manual maupun digital.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Termometer", "isCorrect": false },
+        { "text": "B. Sphygmomanometer", "isCorrect": true },
+        { "text": "C. Pulse oximeter", "isCorrect": false },
+        { "text": "D. Respirometer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bunyi yang didengar melalui stetoskop saat mengukur tekanan darah manual disebut bunyi?",
+      "explanation": "Bunyi yang terdengar saat tekanan manset diturunkan pada pengukuran manual disebut bunyi Korotkoff.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Korotkoff", "isCorrect": true },
+        { "text": "B. Bronkovesikuler", "isCorrect": false },
+        { "text": "C. Wheezing", "isCorrect": false },
+        { "text": "D. Ronkhi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengukuran tekanan darah manual, tekanan sistolik ditentukan saat?",
+      "explanation": "Tekanan sistolik ditentukan pada saat bunyi Korotkoff pertama kali terdengar ketika tekanan manset diturunkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Bunyi Korotkoff terakhir terdengar", "isCorrect": false },
+        { "text": "B. Bunyi Korotkoff pertama terdengar", "isCorrect": true },
+        { "text": "C. Manset mulai dipompa", "isCorrect": false },
+        { "text": "D. Manset dilepas dari lengan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengukuran tekanan darah manual, tekanan diastolik ditentukan saat?",
+      "explanation": "Tekanan diastolik ditentukan pada saat bunyi Korotkoff terakhir terdengar (bunyi menghilang).",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Bunyi Korotkoff pertama terdengar", "isCorrect": false },
+        { "text": "B. Manset mulai dipompa", "isCorrect": false },
+        { "text": "C. Bunyi Korotkoff terakhir terdengar (menghilang)", "isCorrect": true },
+        { "text": "D. Tekanan manset mencapai puncak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rentang tekanan darah normal pada manusia dewasa adalah?",
+      "explanation": "Tekanan darah normal dewasa berkisar 90/60 mmHg hingga 120/80 mmHg.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. 60/40 sampai 80/50 mmHg", "isCorrect": false },
+        { "text": "B. 90/60 sampai 120/80 mmHg", "isCorrect": true },
+        { "text": "C. 140/90 sampai 160/100 mmHg", "isCorrect": false },
+        { "text": "D. 180/110 sampai 200/120 mmHg", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manset tensimeter sebaiknya dipasang pada jarak berapa di atas lipat siku?",
+      "explanation": "Manset dipasang sekitar 2-3 cm di atas lipat siku (fossa cubiti) agar pengukuran akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Tepat di lipat siku", "isCorrect": false },
+        { "text": "B. 2-3 cm di atas lipat siku", "isCorrect": true },
+        { "text": "C. 10 cm di atas lipat siku", "isCorrect": false },
+        { "text": "D. Di pergelangan tangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengukuran tekanan darah, posisi lengan pekerja sebaiknya?",
+      "explanation": "Lengan diposisikan sejajar dengan jantung agar pembacaan tekanan darah tidak bias.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Sejajar dengan jantung", "isCorrect": true },
+        { "text": "B. Diangkat tinggi di atas kepala", "isCorrect": false },
+        { "text": "C. Menggantung ke bawah", "isCorrect": false },
+        { "text": "D. Diletakkan di belakang punggung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat mengukur tekanan darah secara manual, manset dipompa hingga berapa di atas tekanan sistolik perkiraan?",
+      "explanation": "Manset dipompa hingga 20-30 mmHg di atas tekanan sistolik perkiraan agar arteri tertutup sempurna.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. 5-10 mmHg", "isCorrect": false },
+        { "text": "B. 20-30 mmHg", "isCorrect": true },
+        { "text": "C. 50-60 mmHg", "isCorrect": false },
+        { "text": "D. 100 mmHg", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kecepatan penurunan tekanan manset yang dianjurkan saat pengukuran manual adalah?",
+      "explanation": "Tekanan manset diturunkan perlahan dengan kecepatan sekitar 2-3 mmHg per detik agar bunyi Korotkoff terbaca akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. 2-3 mmHg per detik", "isCorrect": true },
+        { "text": "B. 10 mmHg per detik", "isCorrect": false },
+        { "text": "C. 20 mmHg per detik", "isCorrect": false },
+        { "text": "D. Secepat mungkin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelemahan utama pengukuran tekanan darah dengan tensimeter digital adalah?",
+      "explanation": "Akurasi tensimeter digital berkurang pada pasien dengan aritmia (denyut tidak teratur).",
+      "difficulty": "HARD",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Tidak memerlukan kalibrasi", "isCorrect": false },
+        { "text": "B. Akurasi berkurang pada pasien aritmia", "isCorrect": true },
+        { "text": "C. Hanya dapat digunakan pada anak", "isCorrect": false },
+        { "text": "D. Tidak bisa mengukur diastolik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan darah di bawah nilai normal disebut?",
+      "explanation": "Tekanan darah di bawah normal (di bawah 90/60 mmHg) disebut hipotensi.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Hipertensi", "isCorrect": false },
+        { "text": "B. Hipotensi", "isCorrect": true },
+        { "text": "C. Hipoksemia", "isCorrect": false },
+        { "text": "D. Hipotermia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan darah di atas nilai normal disebut?",
+      "explanation": "Tekanan darah di atas normal (di atas 120/80 mmHg) disebut hipertensi.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Hipotensi", "isCorrect": false },
+        { "text": "B. Bradikardia", "isCorrect": false },
+        { "text": "C. Hipertensi", "isCorrect": true },
+        { "text": "D. Hipertermia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengukuran tekanan darah, posisi kaki pekerja sebaiknya?",
+      "explanation": "Kaki tidak boleh bersilang (tidak menyilang) karena menyilangkan kaki dapat meninggikan hasil tekanan darah.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Disilangkan", "isCorrect": false },
+        { "text": "B. Tidak disilangkan (kaki menapak lantai)", "isCorrect": true },
+        { "text": "C. Diangkat ke atas kursi", "isCorrect": false },
+        { "text": "D. Dilipat ke belakang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Posisi tubuh yang dianjurkan saat pengukuran tekanan darah pada pemeriksaan kesehatan kerja adalah?",
+      "explanation": "Pengukuran tekanan darah dilakukan pada posisi duduk dengan lengan sejajar jantung dan kaki tidak bersilang.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Berdiri tegak", "isCorrect": false },
+        { "text": "B. Berbaring telentang", "isCorrect": false },
+        { "text": "C. Duduk", "isCorrect": true },
+        { "text": "D. Tengkurap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama pengukuran tekanan darah adalah mengetahui apakah pasien menderita?",
+      "explanation": "Pengukuran tekanan darah bertujuan mengetahui apakah pasien menderita hipertensi atau hipotensi.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Hipertensi atau hipotensi", "isCorrect": true },
+        { "text": "B. Demam atau hipotermia", "isCorrect": false },
+        { "text": "C. Obesitas atau kurus", "isCorrect": false },
+        { "text": "D. Takipnea atau bradipnea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa lama pekerja sebaiknya duduk/beristirahat sebelum pengukuran tekanan darah?",
+      "explanation": "Pekerja disarankan duduk atau beristirahat minimal 5 menit sebelum pengukuran untuk mendapatkan hasil yang akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Persiapan Pemeriksaan",
+      "options": [
+        { "text": "A. Minimal 5 menit", "isCorrect": true },
+        { "text": "B. Minimal 30 menit", "isCorrect": false },
+        { "text": "C. Tidak perlu istirahat", "isCorrect": false },
+        { "text": "D. Minimal 1 jam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi naiknya tekanan darah akibat kecemasan saat diperiksa petugas kesehatan disebut?",
+      "explanation": "White coat hypertension adalah peningkatan tekanan darah akibat kecemasan ketika diperiksa oleh tenaga kesehatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Persiapan Pemeriksaan",
+      "options": [
+        { "text": "A. Masked hypertension", "isCorrect": false },
+        { "text": "B. White coat hypertension", "isCorrect": true },
+        { "text": "C. Hipertensi maligna", "isCorrect": false },
+        { "text": "D. Hipertensi sekunder", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pekerja perlu diberi penjelasan tentang tujuan dan prosedur sebelum pemeriksaan?",
+      "explanation": "Penjelasan diberikan untuk mengurangi kecemasan yang dapat memengaruhi hasil pemeriksaan, misalnya white coat hypertension.",
+      "difficulty": "EASY",
+      "tag": "Persiapan Pemeriksaan",
+      "options": [
+        { "text": "A. Agar pekerja membayar lebih cepat", "isCorrect": false },
+        { "text": "B. Untuk mengurangi kecemasan yang memengaruhi hasil", "isCorrect": true },
+        { "text": "C. Agar alat tidak rusak", "isCorrect": false },
+        { "text": "D. Untuk mempercepat kalibrasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebelum digunakan, alat ukur tanda vital harus melalui proses apa agar hasil valid dan reliabel?",
+      "explanation": "Alat ukur harus dikalibrasi sebelum digunakan agar hasil pengukuran valid dan reliabel.",
+      "difficulty": "EASY",
+      "tag": "Persiapan Pemeriksaan",
+      "options": [
+        { "text": "A. Disterilkan dengan api", "isCorrect": false },
+        { "text": "B. Dikalibrasi", "isCorrect": true },
+        { "text": "C. Dicat ulang", "isCorrect": false },
+        { "text": "D. Dibekukan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Persiapan lingkungan yang baik untuk pemeriksaan tanda vital meliputi?",
+      "explanation": "Persiapan lingkungan meliputi ketenangan, pencahayaan memadai, suhu ruangan stabil, dan privasi agar pekerja nyaman.",
+      "difficulty": "EASY",
+      "tag": "Persiapan Pemeriksaan",
+      "options": [
+        { "text": "A. Ruang bising dan ramai", "isCorrect": false },
+        { "text": "B. Pencahayaan redup tanpa privasi", "isCorrect": false },
+        { "text": "C. Ketenangan, pencahayaan memadai, suhu stabil, dan privasi", "isCorrect": true },
+        { "text": "D. Suhu ruangan sangat panas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kesalahan pencatatan pada pemeriksaan tanda vital sering terjadi jika pemeriksaan dilakukan?",
+      "explanation": "Kesalahan pencatatan terjadi bila pemeriksaan dilakukan di area bising atau pekerja dalam keadaan tertekan.",
+      "difficulty": "MEDIUM",
+      "tag": "Persiapan Pemeriksaan",
+      "options": [
+        { "text": "A. Di ruang tenang dan privat", "isCorrect": false },
+        { "text": "B. Di area bising atau saat pekerja tertekan", "isCorrect": true },
+        { "text": "C. Dengan alat terkalibrasi", "isCorrect": false },
+        { "text": "D. Setelah istirahat cukup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat yang digunakan untuk mengukur status gizi (tinggi badan) pada persiapan pemeriksaan adalah?",
+      "explanation": "Status gizi diukur menggunakan timbangan (berat badan), stadiometer (tinggi badan), dan pita pengukur (lingkar).",
+      "difficulty": "EASY",
+      "tag": "Persiapan Pemeriksaan",
+      "options": [
+        { "text": "A. Stadiometer", "isCorrect": true },
+        { "text": "B. Sphygmomanometer", "isCorrect": false },
+        { "text": "C. Stetoskop", "isCorrect": false },
+        { "text": "D. Pulse oximeter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lokasi palpasi nadi yang paling sering digunakan dalam pemeriksaan adalah arteri?",
+      "explanation": "Arteri radialis (di pergelangan tangan) adalah lokasi palpasi nadi yang paling sering digunakan.",
+      "difficulty": "EASY",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Femoralis", "isCorrect": false },
+        { "text": "B. Radialis", "isCorrect": true },
+        { "text": "C. Dorsalis pedis", "isCorrect": false },
+        { "text": "D. Karotis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi denyut nadi normal pada orang dewasa adalah?",
+      "explanation": "Frekuensi denyut nadi normal pada dewasa adalah 60-100 kali per menit.",
+      "difficulty": "EASY",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. 20-40 kali/menit", "isCorrect": false },
+        { "text": "B. 60-100 kali/menit", "isCorrect": true },
+        { "text": "C. 100-140 kali/menit", "isCorrect": false },
+        { "text": "D. 140-180 kali/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Arteri yang terletak di leher dan dapat digunakan untuk palpasi nadi adalah arteri?",
+      "explanation": "Arteri karotis terletak di leher (cekungan leher) dan dapat dijadikan lokasi palpasi nadi alternatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Brakialis", "isCorrect": false },
+        { "text": "B. Radialis", "isCorrect": false },
+        { "text": "C. Karotis", "isCorrect": true },
+        { "text": "D. Femoralis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Arteri yang terletak di pangkal paha dan dapat digunakan untuk palpasi nadi adalah arteri?",
+      "explanation": "Arteri femoralis terletak di pangkal paha (lipatan paha) dan dapat dijadikan lokasi palpasi nadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Femoralis", "isCorrect": true },
+        { "text": "B. Karotis", "isCorrect": false },
+        { "text": "C. Radialis", "isCorrect": false },
+        { "text": "D. Dorsalis pedis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Arteri dorsalis pedis sebagai lokasi palpasi nadi terletak di?",
+      "explanation": "Arteri dorsalis pedis terletak di punggung kaki dan dapat digunakan untuk memeriksa denyut nadi pada ekstremitas bawah.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Pergelangan tangan", "isCorrect": false },
+        { "text": "B. Leher", "isCorrect": false },
+        { "text": "C. Kaki (punggung kaki)", "isCorrect": true },
+        { "text": "D. Lengan atas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jari yang digunakan untuk meraba denyut nadi pada palpasi adalah?",
+      "explanation": "Denyut nadi diraba dengan menekan ujung jari telunjuk dan jari tengah pada lokasi arteri.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Ibu jari saja", "isCorrect": false },
+        { "text": "B. Jari telunjuk dan jari tengah", "isCorrect": true },
+        { "text": "C. Jari kelingking", "isCorrect": false },
+        { "text": "D. Seluruh telapak tangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tiga parameter yang dinilai pada pemeriksaan frekuensi nadi adalah?",
+      "explanation": "Parameter nadi yang dinilai adalah frekuensi (jumlah per menit), irama (teratur/tidak), dan kekuatan (lemah/normal/kuat).",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Frekuensi, irama, dan kekuatan", "isCorrect": true },
+        { "text": "B. Suhu, warna, dan bau", "isCorrect": false },
+        { "text": "C. Tekanan, volume, dan pH", "isCorrect": false },
+        { "text": "D. Frekuensi, suhu, dan saturasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi denyut nadi menggambarkan berapa kali pembuluh darah arteri mengembang dan berkontraksi dalam?",
+      "explanation": "Frekuensi denyut nadi adalah berapa kali arteri mengembang dan berkontraksi dalam satu menit sebagai respons detak jantung.",
+      "difficulty": "EASY",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Satu detik", "isCorrect": false },
+        { "text": "B. Satu menit", "isCorrect": true },
+        { "text": "C. Satu jam", "isCorrect": false },
+        { "text": "D. Satu shift kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Zat berikut yang dapat meningkatkan frekuensi denyut nadi adalah?",
+      "explanation": "Konsumsi kafein dapat meningkatkan frekuensi denyut nadi, selain aktivitas fisik, stres, dan suhu lingkungan.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Kafein", "isCorrect": true },
+        { "text": "B. Air putih", "isCorrect": false },
+        { "text": "C. Vitamin C", "isCorrect": false },
+        { "text": "D. Serat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan pengukuran beban kerja pada pekerja adalah?",
+      "explanation": "Pengukuran beban kerja bertujuan menetapkan waktu bagi pekerja qualified untuk menyelesaikan pekerjaan tertentu pada tingkat prestasi yang ditetapkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Menetapkan waktu penyelesaian pekerjaan pada tingkat prestasi tertentu", "isCorrect": true },
+        { "text": "B. Menentukan warna seragam pekerja", "isCorrect": false },
+        { "text": "C. Mengukur suhu ruangan", "isCorrect": false },
+        { "text": "D. Menghitung jumlah cuti pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berat badan standar yang digunakan untuk pekerja laki-laki dalam pengukuran beban kerja adalah?",
+      "explanation": "Berat badan standar yang dipakai adalah 70 kg untuk laki-laki dan 55 kg untuk perempuan.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. 55 kg", "isCorrect": false },
+        { "text": "B. 60 kg", "isCorrect": false },
+        { "text": "C. 70 kg", "isCorrect": true },
+        { "text": "D. 80 kg", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berat badan standar yang digunakan untuk pekerja perempuan dalam pengukuran beban kerja adalah?",
+      "explanation": "Berat badan standar perempuan adalah 55 kg, sedangkan laki-laki 70 kg.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. 55 kg", "isCorrect": true },
+        { "text": "B. 65 kg", "isCorrect": false },
+        { "text": "C. 70 kg", "isCorrect": false },
+        { "text": "D. 50 kg", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam pengukuran beban kerja, pengamatan dan pencatatan aktivitas (gerakan dan posisi badan) dilakukan minimal selama?",
+      "explanation": "Pengamatan aktivitas pekerja dilakukan minimal 4 jam dalam satu shift kerja.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. 1 jam", "isCorrect": false },
+        { "text": "B. 2 jam", "isCorrect": false },
+        { "text": "C. 4 jam dalam satu shift", "isCorrect": true },
+        { "text": "D. 8 jam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode pengukuran beban kerja yang menggunakan pengukuran waktu teliti melalui pengamatan langsung disebut?",
+      "explanation": "Metode Teknis Analisis adalah metode ilmiah dengan pengukuran waktu teliti melalui pengamatan langsung.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Metode Praktis Empiris", "isCorrect": false },
+        { "text": "B. Metode Teknis Analisis", "isCorrect": true },
+        { "text": "C. Metode Korotkoff", "isCorrect": false },
+        { "text": "D. Metode antropometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode pengukuran beban kerja yang didasarkan pada pengalaman perorangan/pemegang jabatan disebut?",
+      "explanation": "Metode Praktis Empiris didasarkan pada pengalaman perorangan atau pemegang jabatan.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Metode Teknis Analisis", "isCorrect": false },
+        { "text": "B. Metode Praktis Empiris", "isCorrect": true },
+        { "text": "C. Metode auskultasi", "isCorrect": false },
+        { "text": "D. Metode laboratorium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat bantu waktu yang digunakan untuk menghitung waktu aktivitas dalam pengukuran beban kerja adalah?",
+      "explanation": "Stopwatch digunakan untuk menghitung waktu aktivitas pekerja saat pengukuran beban kerja.",
+      "difficulty": "EASY",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Termometer", "isCorrect": false },
+        { "text": "B. Stopwatch", "isCorrect": true },
+        { "text": "C. Barometer", "isCorrect": false },
+        { "text": "D. Pita ukur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Denyut nadi yang teratur menandakan bahwa?",
+      "explanation": "Denyut nadi yang normal dan teratur menandakan jantung bekerja dengan baik.",
+      "difficulty": "EASY",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Jantung bekerja dengan baik", "isCorrect": true },
+        { "text": "B. Pekerja mengalami demam", "isCorrect": false },
+        { "text": "C. Saturasi oksigen rendah", "isCorrect": false },
+        { "text": "D. Status gizi buruk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat yang digunakan untuk mengukur suhu tubuh adalah?",
+      "explanation": "Suhu tubuh diukur menggunakan termometer (digital, inframerah, timpani, atau air raksa).",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Sphygmomanometer", "isCorrect": false },
+        { "text": "B. Termometer", "isCorrect": true },
+        { "text": "C. Respirometer", "isCorrect": false },
+        { "text": "D. Stadiometer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rentang suhu tubuh normal manusia adalah?",
+      "explanation": "Suhu tubuh normal manusia berkisar sekitar 36,5-37,5 derajat Celsius.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. 34,0-35,0 derajat C", "isCorrect": false },
+        { "text": "B. 36,5-37,5 derajat C", "isCorrect": true },
+        { "text": "C. 38,0-39,0 derajat C", "isCorrect": false },
+        { "text": "D. 40,0-41,0 derajat C", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu tubuh di bawah 35 derajat Celsius disebut?",
+      "explanation": "Suhu tubuh di bawah 35 derajat Celsius disebut hipotermia, di mana organ tidak berfungsi normal.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Hipertermia", "isCorrect": false },
+        { "text": "B. Febris", "isCorrect": false },
+        { "text": "C. Hipotermia", "isCorrect": true },
+        { "text": "D. Sub febris", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu tubuh di atas 37,5 derajat Celsius disebut?",
+      "explanation": "Suhu tubuh di atas 37,5 derajat Celsius disebut hipertermia atau demam.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Hipotermia", "isCorrect": false },
+        { "text": "B. Hipertermia/demam", "isCorrect": true },
+        { "text": "C. Normotermia", "isCorrect": false },
+        { "text": "D. Bradikardia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lokasi pengukuran suhu tubuh yang paling akurat tetapi tidak praktis di lingkungan kerja adalah?",
+      "explanation": "Pengukuran suhu rektal (anus) paling akurat tetapi tidak praktis untuk diterapkan di lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Aksila", "isCorrect": false },
+        { "text": "B. Oral", "isCorrect": false },
+        { "text": "C. Dahi", "isCorrect": false },
+        { "text": "D. Rektal", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Termometer yang mengukur suhu tanpa menyentuh kulit (non-contact) adalah termometer?",
+      "explanation": "Termometer inframerah (non-contact) mengukur suhu tubuh tanpa kontak langsung dengan kulit.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Air raksa", "isCorrect": false },
+        { "text": "B. Inframerah", "isCorrect": true },
+        { "text": "C. Oral", "isCorrect": false },
+        { "text": "D. Rektal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu yang diukur di aksila (ketiak) umumnya lebih rendah dibanding suhu oral sebesar?",
+      "explanation": "Suhu aksila lebih rendah sekitar 0,6 derajat Celsius dibanding suhu oral.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. 0,6 derajat C", "isCorrect": true },
+        { "text": "B. 2,0 derajat C", "isCorrect": false },
+        { "text": "C. 5,0 derajat C", "isCorrect": false },
+        { "text": "D. 0,1 derajat C", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat mengukur suhu melalui aksila (ketiak), sensor harus dipastikan mengenai?",
+      "explanation": "Pada pengukuran aksila, sensor harus mengenai kulit, bukan baju, dan ditahan 2-3 menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Baju", "isCorrect": false },
+        { "text": "B. Kulit", "isCorrect": true },
+        { "text": "C. Tulang", "isCorrect": false },
+        { "text": "D. Rambut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode pengukuran suhu oral mengharuskan ujung sensor diletakkan?",
+      "explanation": "Pada pengukuran oral, ujung sensor diletakkan di bawah lidah dengan bibir tertutup dan tidak berbicara.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Di atas lidah", "isCorrect": false },
+        { "text": "B. Di bawah lidah", "isCorrect": true },
+        { "text": "C. Di pipi dalam", "isCorrect": false },
+        { "text": "D. Di langit-langit mulut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran suhu oral tidak dianjurkan dilakukan pada?",
+      "explanation": "Pengukuran suhu oral tidak dianjurkan pada bayi karena risiko menggigit dan ketidakmampuan mengikuti instruksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Pekerja dewasa", "isCorrect": false },
+        { "text": "B. Bayi", "isCorrect": true },
+        { "text": "C. Lansia sehat", "isCorrect": false },
+        { "text": "D. Remaja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran suhu rektal (anus) umumnya dilakukan pada?",
+      "explanation": "Pengukuran suhu rektal umumnya dilakukan pada bayi karena lebih akurat dan aman bagi mereka.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Bayi", "isCorrect": true },
+        { "text": "B. Pekerja lapangan", "isCorrect": false },
+        { "text": "C. Lansia", "isCorrect": false },
+        { "text": "D. Atlet", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan interpretasi, suhu tubuh antara 37,5-38,5 derajat Celsius dikategorikan sebagai?",
+      "explanation": "Suhu antara 37,5-38,5 derajat Celsius dikategorikan sebagai sub febris.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Normal", "isCorrect": false },
+        { "text": "B. Sub febris", "isCorrect": true },
+        { "text": "C. Febris", "isCorrect": false },
+        { "text": "D. Hipotermia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu tubuh di atas 38,5 derajat Celsius dikategorikan sebagai?",
+      "explanation": "Suhu di atas 38,5 derajat Celsius dikategorikan sebagai febris (demam tinggi).",
+      "difficulty": "HARD",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Sub febris", "isCorrect": false },
+        { "text": "B. Normal", "isCorrect": false },
+        { "text": "C. Febris", "isCorrect": true },
+        { "text": "D. Hipotermia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam konteks kesehatan kerja, pengukuran suhu tubuh penting untuk mendeteksi?",
+      "explanation": "Suhu tubuh penting untuk mendeteksi heat stress atau paparan panas berlebih pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Heat stress atau paparan panas berlebih", "isCorrect": true },
+        { "text": "B. Tingkat kebisingan", "isCorrect": false },
+        { "text": "C. Saturasi oksigen", "isCorrect": false },
+        { "text": "D. Tekanan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan status gizi rendah cenderung memiliki suhu tubuh rendah karena?",
+      "explanation": "Pekerja dengan status gizi rendah memiliki suhu tubuh rendah karena metabolisme tubuhnya rendah.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Metabolisme tinggi", "isCorrect": false },
+        { "text": "B. Metabolisme rendah", "isCorrect": true },
+        { "text": "C. Tekanan darah tinggi", "isCorrect": false },
+        { "text": "D. Saturasi oksigen tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat untuk mengukur frekuensi pernapasan secara elektronik disebut?",
+      "explanation": "Frekuensi pernapasan dapat dibantu diukur dengan respirometer atau monitor elektronik.",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Respirometer", "isCorrect": true },
+        { "text": "B. Sphygmomanometer", "isCorrect": false },
+        { "text": "C. Audiometer", "isCorrect": false },
+        { "text": "D. Lux meter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan normal pada orang dewasa adalah?",
+      "explanation": "Frekuensi pernapasan normal pada dewasa adalah 12-20 kali per menit.",
+      "difficulty": "EASY",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. 5-10 kali/menit", "isCorrect": false },
+        { "text": "B. 12-20 kali/menit", "isCorrect": true },
+        { "text": "C. 25-35 kali/menit", "isCorrect": false },
+        { "text": "D. 40-50 kali/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pekerja sebaiknya tidak menyadari sedang diperiksa frekuensi pernapasannya?",
+      "explanation": "Kesadaran sedang diperiksa dapat mengubah pola pernapasan sehingga hasil tidak mencerminkan kondisi alami.",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Karena dapat mengubah pola pernapasan", "isCorrect": true },
+        { "text": "B. Karena dapat menaikkan suhu tubuh", "isCorrect": false },
+        { "text": "C. Agar alat tidak rusak", "isCorrect": false },
+        { "text": "D. Agar pekerja tertidur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan dihitung dengan mengamati pergerakan?",
+      "explanation": "Frekuensi pernapasan dihitung melalui observasi pergerakan dada atau abdomen selama 60 detik.",
+      "difficulty": "EASY",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Pergerakan tangan", "isCorrect": false },
+        { "text": "B. Pergerakan dada atau abdomen", "isCorrect": true },
+        { "text": "C. Pergerakan mata", "isCorrect": false },
+        { "text": "D. Pergerakan kaki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Satu siklus frekuensi pernapasan terdiri dari gerakan?",
+      "explanation": "Satu frekuensi pernapasan dihitung dari satu gerakan naik (inspirasi) dan satu gerakan turun (ekspirasi).",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Inspirasi saja", "isCorrect": false },
+        { "text": "B. Ekspirasi saja", "isCorrect": false },
+        { "text": "C. Satu inspirasi dan satu ekspirasi", "isCorrect": true },
+        { "text": "D. Tiga inspirasi berturut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernapasan dengan frekuensi teratur namun cepat tidak normal (lebih dari 24x/menit secara patologis) disebut?",
+      "explanation": "Takipnea (tachipnoe) adalah pernapasan teratur namun cepat tidak normal; secara patologis menyertai demam, penyakit paru, dan jantung.",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Bradipnea", "isCorrect": false },
+        { "text": "B. Takipnea", "isCorrect": true },
+        { "text": "C. Apnea", "isCorrect": false },
+        { "text": "D. Eupnea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernapasan dengan frekuensi teratur namun lambat tidak normal disebut?",
+      "explanation": "Bradipnea adalah pernapasan yang teratur namun lambat tidak normal (kurang dari 10-12x/menit).",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Takipnea", "isCorrect": false },
+        { "text": "B. Bradipnea", "isCorrect": true },
+        { "text": "C. Hiperpnea", "isCorrect": false },
+        { "text": "D. Dispnea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi napas normal pada bayi (usia 0-1 tahun) adalah?",
+      "explanation": "Frekuensi napas normal bayi (0-1 tahun) adalah 30-60 kali per menit, lebih tinggi dari dewasa.",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. 12-20 kali/menit", "isCorrect": false },
+        { "text": "B. 30-60 kali/menit", "isCorrect": true },
+        { "text": "C. 5-10 kali/menit", "isCorrect": false },
+        { "text": "D. 70-90 kali/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbandingan frekuensi napas dengan frekuensi nadi pada orang normal adalah?",
+      "explanation": "Perbandingan frekuensi napas dengan nadi pada orang normal adalah 1:4.",
+      "difficulty": "HARD",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. 1:2", "isCorrect": false },
+        { "text": "B. 1:4", "isCorrect": true },
+        { "text": "C. 1:8", "isCorrect": false },
+        { "text": "D. 1:1", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suara napas tambahan bernada tinggi dengan kualitas merintih disebut?",
+      "explanation": "Wheezing (mengi) adalah suara napas tambahan bernada tinggi dengan kualitas merintih.",
+      "difficulty": "HARD",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Ronkhi", "isCorrect": false },
+        { "text": "B. Wheezing/mengi", "isCorrect": true },
+        { "text": "C. Stridor", "isCorrect": false },
+        { "text": "D. Crackles", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suara napas tambahan bernada rendah dengan kualitas mendengkur akibat penumpukan sekret disebut?",
+      "explanation": "Ronkhi adalah suara napas tambahan bernada rendah, kualitas mendengkur, akibat penumpukan sekret di saluran napas.",
+      "difficulty": "HARD",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Wheezing", "isCorrect": false },
+        { "text": "B. Ronkhi", "isCorrect": true },
+        { "text": "C. Stridor", "isCorrect": false },
+        { "text": "D. Pleural friction rub", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk menghitung frekuensi pernapasan secara akurat, observasi sebaiknya dilakukan selama?",
+      "explanation": "Frekuensi pernapasan dihitung selama 1 menit penuh untuk hasil yang akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. 10 detik", "isCorrect": false },
+        { "text": "B. 30 detik", "isCorrect": false },
+        { "text": "C. 1 menit penuh", "isCorrect": true },
+        { "text": "D. 5 menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pola pernapasan dalam dan cepat yang sering terkait asidosis metabolik disebut pola?",
+      "explanation": "Pola pernapasan Kussmaul adalah pernapasan dalam dan cepat, sering terkait kondisi asidosis metabolik.",
+      "difficulty": "HARD",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Cheyne-Stokes", "isCorrect": false },
+        { "text": "B. Kussmaul", "isCorrect": true },
+        { "text": "C. Regular", "isCorrect": false },
+        { "text": "D. Biot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tiga parameter yang dinilai pada pemeriksaan frekuensi pernapasan adalah?",
+      "explanation": "Parameter pernapasan yang dinilai adalah frekuensi, kedalaman, dan pola pernapasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Frekuensi, kedalaman, dan pola", "isCorrect": true },
+        { "text": "B. Suhu, warna, dan bau", "isCorrect": false },
+        { "text": "C. Tekanan, volume, dan pH", "isCorrect": false },
+        { "text": "D. Frekuensi, irama, dan tekanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi utama sistem respirasi yang dievaluasi melalui RR dan SpO2 adalah menjamin?",
+      "explanation": "Fungsi respirasi menjamin kebutuhan oksigenasi pada otak, dievaluasi melalui Respiration Rate (RR) dan saturasi oksigen (SpO2).",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Kebutuhan oksigenasi pada otak", "isCorrect": true },
+        { "text": "B. Suhu tubuh tetap rendah", "isCorrect": false },
+        { "text": "C. Tekanan darah selalu tinggi", "isCorrect": false },
+        { "text": "D. Status gizi pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indeks yang digunakan untuk menilai status gizi orang dewasa di atas 18 tahun adalah?",
+      "explanation": "Pada dewasa (>18 tahun), status gizi dinilai dengan IMT (Indeks Massa Tubuh).",
+      "difficulty": "EASY",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. BB/U", "isCorrect": false },
+        { "text": "B. IMT (Indeks Massa Tubuh)", "isCorrect": true },
+        { "text": "C. TB/U", "isCorrect": false },
+        { "text": "D. SpO2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rumus perhitungan IMT (Indeks Massa Tubuh) adalah?",
+      "explanation": "IMT dihitung dengan membagi berat badan (kg) dengan tinggi badan (meter) dikuadratkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Berat badan (kg) dibagi tinggi badan (meter) kuadrat", "isCorrect": true },
+        { "text": "B. Tinggi badan dikali berat badan", "isCorrect": false },
+        { "text": "C. Berat badan dibagi umur", "isCorrect": false },
+        { "text": "D. Tinggi badan dibagi berat badan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran dimensi dan komposisi tubuh seperti berat badan, tinggi badan, dan lingkar perut termasuk penilaian status gizi secara?",
+      "explanation": "Antropometri adalah penilaian status gizi langsung dengan mengukur dimensi dan komposisi tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Tidak langsung", "isCorrect": false },
+        { "text": "B. Antropometri", "isCorrect": true },
+        { "text": "C. Biokimia", "isCorrect": false },
+        { "text": "D. Survei konsumsi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengukuran tinggi badan, kepala diposisikan sejajar dengan garis?",
+      "explanation": "Pengukuran tinggi badan dilakukan dengan kepala sejajar garis Frankfort, berdiri tegak tanpa alas kaki.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Garis Korotkoff", "isCorrect": false },
+        { "text": "B. Garis Frankfort", "isCorrect": true },
+        { "text": "C. Garis median", "isCorrect": false },
+        { "text": "D. Garis aksila", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lingkar perut diukur pada titik?",
+      "explanation": "Lingkar perut diukur di pertengahan antara iga terbawah (rusuk terakhir) dan krista iliaka.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Tepat di pusar saja", "isCorrect": false },
+        { "text": "B. Pertengahan antara iga terbawah dan krista iliaka", "isCorrect": true },
+        { "text": "C. Di bawah dada", "isCorrect": false },
+        { "text": "D. Di pangkal paha", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Batas normal lingkar perut untuk pria menurut materi adalah?",
+      "explanation": "Lingkar perut normal untuk pria adalah kurang dari 90 cm.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. < 80 cm", "isCorrect": false },
+        { "text": "B. < 90 cm", "isCorrect": true },
+        { "text": "C. < 100 cm", "isCorrect": false },
+        { "text": "D. < 70 cm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Batas normal lingkar perut untuk wanita menurut materi adalah?",
+      "explanation": "Lingkar perut normal untuk wanita adalah kurang dari 80 cm.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. < 80 cm", "isCorrect": true },
+        { "text": "B. < 90 cm", "isCorrect": false },
+        { "text": "C. < 100 cm", "isCorrect": false },
+        { "text": "D. < 60 cm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator status gizi anak yang menunjukkan tinggi badan tidak sesuai usia disebut?",
+      "explanation": "Stunting (TB/U) adalah kondisi tinggi badan tidak sesuai dengan usia anak.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Underweight", "isCorrect": false },
+        { "text": "B. Stunting", "isCorrect": true },
+        { "text": "C. Wasting", "isCorrect": false },
+        { "text": "D. Obesitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator status gizi anak yang menunjukkan berat badan rendah tidak sesuai tinggi badan disebut?",
+      "explanation": "Wasting (kurus, indikator BB/TB) adalah berat badan rendah yang tidak sesuai dengan tinggi badan.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Stunting", "isCorrect": false },
+        { "text": "B. Wasting/kurus", "isCorrect": true },
+        { "text": "C. Underweight", "isCorrect": false },
+        { "text": "D. Gemuk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian status gizi melalui pemeriksaan hemoglobin, hematokrit, dan gula darah termasuk pemeriksaan?",
+      "explanation": "Pemeriksaan laboratorium/biokimia menilai status gizi melalui darah (hemoglobin, hematokrit, gula darah), urine, dan tinja.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Antropometri", "isCorrect": false },
+        { "text": "B. Klinis", "isCorrect": false },
+        { "text": "C. Laboratorium/biokimia", "isCorrect": true },
+        { "text": "D. Survei konsumsi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut interpretasi IMT untuk laki-laki, kategori normal berada pada rentang?",
+      "explanation": "Untuk laki-laki, IMT normal berada pada rentang 18-25 kg/m2.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. < 17 kg/m2", "isCorrect": false },
+        { "text": "B. 18-25 kg/m2", "isCorrect": true },
+        { "text": "C. 25-27 kg/m2", "isCorrect": false },
+        { "text": "D. > 27 kg/m2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut interpretasi IMT untuk perempuan, kategori normal berada pada rentang?",
+      "explanation": "Untuk perempuan, IMT normal berada pada rentang 17-23 kg/m2.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. 17-23 kg/m2", "isCorrect": true },
+        { "text": "B. 18-25 kg/m2", "isCorrect": false },
+        { "text": "C. 23-27 kg/m2", "isCorrect": false },
+        { "text": "D. > 27 kg/m2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut interpretasi IMT (baik pria maupun wanita), kategori obesitas terjadi jika IMT?",
+      "explanation": "Kategori obesitas terjadi jika IMT lebih dari 27 kg/m2, baik pada laki-laki maupun perempuan.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. < 17 kg/m2", "isCorrect": false },
+        { "text": "B. 18-25 kg/m2", "isCorrect": false },
+        { "text": "C. > 27 kg/m2", "isCorrect": true },
+        { "text": "D. 23-25 kg/m2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator status gizi yang digunakan untuk anak usia 5-18 tahun adalah?",
+      "explanation": "Pada anak usia 5-18 tahun, indikator yang digunakan adalah TB/U dan IMT/U.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. TB/U dan IMT/U", "isCorrect": true },
+        { "text": "B. BB/U dan BB/TB saja", "isCorrect": false },
+        { "text": "C. IMT dewasa", "isCorrect": false },
+        { "text": "D. Lingkar perut saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi status gizi menurut Kemenkes RI dan WHO adalah keadaan akibat keseimbangan antara?",
+      "explanation": "Status gizi adalah keadaan akibat keseimbangan antara asupan zat gizi dengan kebutuhan nutrisi untuk metabolisme.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Asupan zat gizi dan kebutuhan nutrisi untuk metabolisme", "isCorrect": true },
+        { "text": "B. Tinggi badan dan usia", "isCorrect": false },
+        { "text": "C. Tekanan darah dan suhu", "isCorrect": false },
+        { "text": "D. Saturasi oksigen dan nadi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor primer yang memengaruhi status gizi pekerja antara lain?",
+      "explanation": "Faktor primer status gizi meliputi kuantitas/kualitas gizi, pola makan, dan kondisi sosial-ekonomi.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Kuantitas/kualitas gizi, pola makan, sosial-ekonomi", "isCorrect": true },
+        { "text": "B. Gangguan pencernaan dan penyerapan", "isCorrect": false },
+        { "text": "C. Gangguan metabolisme dan ekskresi", "isCorrect": false },
+        { "text": "D. Penyakit infeksi saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian status gizi melalui survei konsumsi makanan termasuk penilaian secara?",
+      "explanation": "Survei konsumsi makanan termasuk penilaian status gizi secara tidak langsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Langsung", "isCorrect": false },
+        { "text": "B. Tidak langsung", "isCorrect": true },
+        { "text": "C. Antropometri", "isCorrect": false },
+        { "text": "D. Biokimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat yang digunakan untuk mengukur saturasi oksigen perifer (SpO2) adalah?",
+      "explanation": "Pulse oximeter digunakan untuk memperkirakan saturasi oksigen di pembuluh darah kapiler perifer.",
+      "difficulty": "EASY",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Sphygmomanometer", "isCorrect": false },
+        { "text": "B. Pulse oximeter", "isCorrect": true },
+        { "text": "C. Termometer", "isCorrect": false },
+        { "text": "D. Stadiometer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saturasi oksigen menunjukkan persentase hemoglobin yang?",
+      "explanation": "Saturasi oksigen adalah persentase hemoglobin yang terikat oksigen dalam aliran darah.",
+      "difficulty": "MEDIUM",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Terikat oksigen", "isCorrect": true },
+        { "text": "B. Terikat karbon dioksida", "isCorrect": false },
+        { "text": "C. Terikat glukosa", "isCorrect": false },
+        { "text": "D. Terikat zat besi saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kadar saturasi oksigen normal yang diukur dengan pulse oximeter adalah?",
+      "explanation": "Kadar saturasi oksigen normal dengan pulse oximeter adalah 95-100%.",
+      "difficulty": "EASY",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. 50-70%", "isCorrect": false },
+        { "text": "B. 80-90%", "isCorrect": false },
+        { "text": "C. 95-100%", "isCorrect": true },
+        { "text": "D. 100-120%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi kadar oksigen darah sangat rendah yang dapat merusak jantung, otak, dan ginjal disebut?",
+      "explanation": "Hipoksemia adalah kondisi kadar oksigen darah sangat rendah yang dapat merusak jantung, otak, dan ginjal.",
+      "difficulty": "MEDIUM",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Hipertensi", "isCorrect": false },
+        { "text": "B. Hipoksemia", "isCorrect": true },
+        { "text": "C. Hipotermia", "isCorrect": false },
+        { "text": "D. Hiperglikemia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode pengukuran saturasi oksigen yang paling akurat dengan mengambil sampel darah arteri adalah?",
+      "explanation": "Tes Analisis Gas Darah paling akurat karena mengambil sampel darah arteri untuk melihat kadar oksigen dan karbon dioksida.",
+      "difficulty": "MEDIUM",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Pulse oximeter", "isCorrect": false },
+        { "text": "B. Tes Analisis Gas Darah", "isCorrect": true },
+        { "text": "C. Auskultasi", "isCorrect": false },
+        { "text": "D. Palpasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pulse oximeter umumnya dipasang pada bagian tubuh berupa?",
+      "explanation": "Pulse oximeter dipasang di jari atau daun telinga untuk memperkirakan saturasi oksigen perifer.",
+      "difficulty": "EASY",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Jari atau daun telinga", "isCorrect": true },
+        { "text": "B. Dahi saja", "isCorrect": false },
+        { "text": "C. Lengan atas", "isCorrect": false },
+        { "text": "D. Pergelangan kaki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil pengukuran tes analisis gas darah dinyatakan dalam satuan?",
+      "explanation": "Hasil tes analisis gas darah dinyatakan dalam mmHg (kadar normal di atas 80 mmHg).",
+      "difficulty": "MEDIUM",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Persen (%)", "isCorrect": false },
+        { "text": "B. mmHg", "isCorrect": true },
+        { "text": "C. dBA", "isCorrect": false },
+        { "text": "D. derajat Celsius", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kadar oksigen normal pada tes analisis gas darah adalah?",
+      "explanation": "Pada tes analisis gas darah, kadar oksigen normal berada di atas 80 mmHg.",
+      "difficulty": "HARD",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Di atas 80 mmHg", "isCorrect": true },
+        { "text": "B. Di bawah 50 mmHg", "isCorrect": false },
+        { "text": "C. Di atas 120 mmHg", "isCorrect": false },
+        { "text": "D. Di bawah 20 mmHg", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda dan gejala hipoksemia (saturasi oksigen rendah) antara lain?",
+      "explanation": "Gejala hipoksemia meliputi pusing, jantung berdebar, batuk, sesak napas, bingung, dan kulit kebiruan.",
+      "difficulty": "MEDIUM",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Pusing, sesak napas, dan kulit kebiruan", "isCorrect": true },
+        { "text": "B. Suhu tubuh rendah dan menggigil", "isCorrect": false },
+        { "text": "C. Tekanan darah turun drastis saja", "isCorrect": false },
+        { "text": "D. Berat badan naik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pulse oximeter bekerja dengan mengukur?",
+      "explanation": "Pulse oximeter bekerja dengan mengukur panjang gelombang cahaya yang dipantulkan untuk memperkirakan saturasi oksigen.",
+      "difficulty": "HARD",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Panjang gelombang cahaya yang dipantulkan", "isCorrect": true },
+        { "text": "B. Tekanan udara di paru", "isCorrect": false },
+        { "text": "C. Suhu darah arteri", "isCorrect": false },
+        { "text": "D. Bunyi Korotkoff", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit berikut yang membuat pemeriksaan saturasi oksigen menjadi penting adalah?",
+      "explanation": "Saturasi oksigen penting dipantau pada pengidap PPOK, asma, pneumonia, gagal jantung, dan Covid-19.",
+      "difficulty": "MEDIUM",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. PPOK, asma, dan pneumonia", "isCorrect": true },
+        { "text": "B. Patah tulang kaki", "isCorrect": false },
+        { "text": "C. Dermatitis kontak", "isCorrect": false },
+        { "text": "D. Karies gigi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saturasi oksigen dengan pulse oximeter di bawah berapa persen dianggap di bawah normal?",
+      "explanation": "Saturasi oksigen pulse oximeter di bawah 95% dianggap di bawah normal (hipoksemia).",
+      "difficulty": "MEDIUM",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. < 95%", "isCorrect": true },
+        { "text": "B. < 100%", "isCorrect": false },
+        { "text": "C. < 99%", "isCorrect": false },
+        { "text": "D. < 90%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penanganan utama saat saturasi oksigen pekerja turun di bawah level kritis adalah?",
+      "explanation": "Penurunan saturasi oksigen di bawah level kritis harus ditangani dengan pemberian oksigen tambahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Pemberian oksigen tambahan", "isCorrect": true },
+        { "text": "B. Pemberian antibiotik", "isCorrect": false },
+        { "text": "C. Pengukuran lingkar perut", "isCorrect": false },
+        { "text": "D. Pemberian kafein", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor yang memengaruhi nilai saturasi oksigen antara lain?",
+      "explanation": "Saturasi oksigen dipengaruhi oleh jumlah oksigen yang dihirup, kelancaran pertukaran gas di paru, konsentrasi hemoglobin, dan afinitas hemoglobin mengikat oksigen.",
+      "difficulty": "HARD",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Konsentrasi hemoglobin dan kelancaran pertukaran gas di paru", "isCorrect": true },
+        { "text": "B. Warna kulit pekerja", "isCorrect": false },
+        { "text": "C. Tinggi badan saja", "isCorrect": false },
+        { "text": "D. Jenis kelamin saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada tes analisis gas darah, sampel darah arteri umumnya diambil dari?",
+      "explanation": "Sampel darah arteri pada tes analisis gas darah diambil di pergelangan tangan atau selangkangan.",
+      "difficulty": "HARD",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Pergelangan tangan atau selangkangan", "isCorrect": true },
+        { "text": "B. Ujung lidah", "isCorrect": false },
+        { "text": "C. Daun telinga", "isCorrect": false },
+        { "text": "D. Punggung kaki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda vital yang menggambarkan fungsi sistem kardiovaskular adalah?",
+      "explanation": "Tekanan darah menggambarkan fungsi sistem kardiovaskular pekerja.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Tekanan Darah",
+      "options": [
+        { "text": "A. Suhu tubuh", "isCorrect": false },
+        { "text": "B. Tekanan darah", "isCorrect": true },
+        { "text": "C. Frekuensi pernapasan", "isCorrect": false },
+        { "text": "D. IMT", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi kerja yang dapat meningkatkan tekanan darah pekerja adalah?",
+      "explanation": "Tekanan darah meningkat pada pekerja shift malam atau dengan beban kerja mental tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Persiapan Pemeriksaan",
+      "options": [
+        { "text": "A. Shift malam dan beban kerja mental tinggi", "isCorrect": true },
+        { "text": "B. Istirahat panjang", "isCorrect": false },
+        { "text": "C. Pekerjaan ringan di pagi hari", "isCorrect": false },
+        { "text": "D. Cuti kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi nadi pekerja cenderung meningkat pada kondisi?",
+      "explanation": "Frekuensi nadi meningkat pada aktivitas fisik berat.",
+      "difficulty": "EASY",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Aktivitas fisik berat", "isCorrect": true },
+        { "text": "B. Tidur nyenyak", "isCorrect": false },
+        { "text": "C. Istirahat total", "isCorrect": false },
+        { "text": "D. Suhu dingin ekstrem saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu tubuh pekerja cenderung meningkat pada kondisi?",
+      "explanation": "Suhu tubuh meningkat pada pekerja yang terpapar panas (heat stress).",
+      "difficulty": "EASY",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Pekerja terpapar panas (heat stress)", "isCorrect": true },
+        { "text": "B. Pekerja di ruang ber-AC", "isCorrect": false },
+        { "text": "C. Pekerja sedang tidur", "isCorrect": false },
+        { "text": "D. Pekerja dengan status gizi rendah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan pekerja dapat terganggu akibat paparan?",
+      "explanation": "Frekuensi pernapasan terganggu akibat paparan debu atau gas kimia di lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Paparan debu atau gas kimia", "isCorrect": true },
+        { "text": "B. Pencahayaan terang", "isCorrect": false },
+        { "text": "C. Suara musik", "isCorrect": false },
+        { "text": "D. Kelembapan normal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nilai normal tanda vital dapat bervariasi berdasarkan?",
+      "explanation": "Nilai normal tanda vital bervariasi berdasarkan usia, jenis kelamin, dan aktivitas.",
+      "difficulty": "EASY",
+      "tag": "Persiapan Pemeriksaan",
+      "options": [
+        { "text": "A. Usia, jenis kelamin, dan aktivitas", "isCorrect": true },
+        { "text": "B. Warna kulit saja", "isCorrect": false },
+        { "text": "C. Merek alat ukur", "isCorrect": false },
+        { "text": "D. Jam istirahat saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan status gizi berlebih (obesitas) cenderung memiliki suhu badan lebih tinggi karena?",
+      "explanation": "Pekerja obesitas memiliki suhu badan lebih tinggi karena metabolisme tubuh yang meningkat.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Metabolisme meningkat", "isCorrect": true },
+        { "text": "B. Metabolisme menurun", "isCorrect": false },
+        { "text": "C. Tekanan darah rendah", "isCorrect": false },
+        { "text": "D. Saturasi oksigen tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran beban kerja dapat dijadikan dasar untuk menetapkan?",
+      "explanation": "Pengukuran beban kerja berguna untuk menetapkan jumlah tenaga kerja/peralatan, waktu baku, dan dasar sistem penghargaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja & Frekuensi Nadi",
+      "options": [
+        { "text": "A. Jumlah tenaga kerja dan waktu baku", "isCorrect": true },
+        { "text": "B. Warna seragam pekerja", "isCorrect": false },
+        { "text": "C. Suhu ruangan kerja", "isCorrect": false },
+        { "text": "D. Jenis termometer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan klinis dalam penilaian status gizi langsung dilakukan dengan mengamati?",
+      "explanation": "Pemeriksaan klinis mengamati perubahan akibat kekurangan/kelebihan asupan, misalnya konjungtiva mata, mukosa mulut, dan bengkak kaki.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Konjungtiva mata dan mukosa mulut", "isCorrect": true },
+        { "text": "B. Bunyi Korotkoff", "isCorrect": false },
+        { "text": "C. Saturasi oksigen", "isCorrect": false },
+        { "text": "D. Panjang gelombang cahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor sekunder yang memengaruhi status gizi pekerja adalah?",
+      "explanation": "Faktor sekunder status gizi meliputi penyakit seperti gangguan pencernaan, penyerapan, metabolisme, dan ekskresi.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Gangguan pencernaan, penyerapan, dan metabolisme", "isCorrect": true },
+        { "text": "B. Pola makan dan sosial-ekonomi", "isCorrect": false },
+        { "text": "C. Kualitas gizi saja", "isCorrect": false },
+        { "text": "D. Pencahayaan ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi napas normal pada usia dewasa (19-59 tahun) menurut materi adalah?",
+      "explanation": "Frekuensi napas normal pada dewasa (19-59 tahun) adalah 12-20 kali per menit.",
+      "difficulty": "EASY",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. 30-60 kali/menit", "isCorrect": false },
+        { "text": "B. 12-20 kali/menit", "isCorrect": true },
+        { "text": "C. 24-40 kali/menit", "isCorrect": false },
+        { "text": "D. 5-10 kali/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat pengukuran frekuensi pernapasan, pemeriksa sering berpura-pura masih memegang pergelangan tangan pasien dengan tujuan?",
+      "explanation": "Pemeriksa berpura-pura memeriksa nadi agar pekerja tidak menyadari pernapasannya sedang dihitung, sehingga pola napas tetap alami.",
+      "difficulty": "MEDIUM",
+      "tag": "Frekuensi Pernapasan",
+      "options": [
+        { "text": "A. Agar pekerja tidak menyadari pernapasannya dihitung", "isCorrect": true },
+        { "text": "B. Untuk mengukur tekanan darah sekaligus", "isCorrect": false },
+        { "text": "C. Untuk menghitung saturasi oksigen", "isCorrect": false },
+        { "text": "D. Untuk mengukur suhu tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor yang memengaruhi suhu tubuh antara lain?",
+      "explanation": "Suhu tubuh dipengaruhi oleh laju metabolisme basal, aktivitas otot, dan metabolisme tambahan karena pengaruh hormon.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran Suhu Tubuh",
+      "options": [
+        { "text": "A. Laju metabolisme basal dan aktivitas otot", "isCorrect": true },
+        { "text": "B. Warna pakaian", "isCorrect": false },
+        { "text": "C. Tinggi badan saja", "isCorrect": false },
+        { "text": "D. Merek termometer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran tinggi badan untuk status gizi dilakukan dengan posisi?",
+      "explanation": "Tinggi badan diukur dengan berdiri tegak tanpa alas kaki dan kepala sejajar garis Frankfort.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi Sederhana",
+      "options": [
+        { "text": "A. Berdiri tegak tanpa alas kaki", "isCorrect": true },
+        { "text": "B. Duduk bersandar", "isCorrect": false },
+        { "text": "C. Berbaring telentang", "isCorrect": false },
+        { "text": "D. Membungkuk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hipoksemia ditandai dengan kulit yang berwarna?",
+      "explanation": "Hipoksemia (kekurangan oksigen darah) ditandai dengan kulit kebiruan (sianosis), pusing, dan sesak napas.",
+      "difficulty": "MEDIUM",
+      "tag": "Saturasi Oksigen",
+      "options": [
+        { "text": "A. Kemerahan terang", "isCorrect": false },
+        { "text": "B. Kebiruan (sianosis)", "isCorrect": true },
+        { "text": "C. Kekuningan", "isCorrect": false },
+        { "text": "D. Pucat keputihan", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa alat ukur tekanan darah?", "back": "Sphygmomanometer (tensimeter), tipe manual atau digital, sering dipadukan dengan stetoskop pada metode manual.", "tag": "Pengukuran Tekanan Darah" },
+    { "front": "Apa itu bunyi Korotkoff?", "back": "Bunyi yang terdengar melalui stetoskop saat tekanan manset diturunkan; bunyi pertama = sistolik, bunyi terakhir = diastolik.", "tag": "Pengukuran Tekanan Darah" },
+    { "front": "Berapa tekanan darah normal dewasa?", "back": "90/60 mmHg hingga 120/80 mmHg. Di bawahnya hipotensi, di atasnya hipertensi.", "tag": "Pengukuran Tekanan Darah" },
+    { "front": "Bagaimana posisi pengukuran tekanan darah yang benar?", "back": "Duduk, lengan sejajar jantung, kaki tidak bersilang, manset 2-3 cm di atas lipat siku, istirahat 5 menit dulu.", "tag": "Persiapan Pemeriksaan" },
+    { "front": "Apa itu white coat hypertension?", "back": "Peningkatan tekanan darah akibat kecemasan saat diperiksa tenaga kesehatan; diatasi dengan penjelasan prosedur untuk menenangkan pekerja.", "tag": "Persiapan Pemeriksaan" },
+    { "front": "Mengapa alat ukur harus dikalibrasi?", "back": "Agar hasil pengukuran valid dan reliabel. Alat yang tidak terkalibrasi memberi hasil menyimpang.", "tag": "Persiapan Pemeriksaan" },
+    { "front": "Di mana lokasi palpasi nadi paling sering?", "back": "Arteri radialis (pergelangan tangan). Alternatif: karotis (leher), brakialis (lengan atas), femoralis (paha), dorsalis pedis (kaki).", "tag": "Beban Kerja & Frekuensi Nadi" },
+    { "front": "Berapa frekuensi nadi normal dewasa?", "back": "60-100 kali per menit. Di bawah 60 = bradikardia, di atas 100 = takikardia.", "tag": "Beban Kerja & Frekuensi Nadi" },
+    { "front": "Apa 3 parameter pemeriksaan nadi?", "back": "Frekuensi (jumlah per menit), irama (teratur/tidak), dan kekuatan (lemah/normal/kuat).", "tag": "Beban Kerja & Frekuensi Nadi" },
+    { "front": "Apa berat badan standar dalam pengukuran beban kerja?", "back": "Laki-laki 70 kg, perempuan 55 kg. Pengamatan aktivitas minimal 4 jam dalam satu shift.", "tag": "Beban Kerja & Frekuensi Nadi" },
+    { "front": "Berapa suhu tubuh normal?", "back": "36,5-37,5 derajat C. Hipotermia <35 derajat C, hipertermia/demam >37,5 derajat C.", "tag": "Pengukuran Suhu Tubuh" },
+    { "front": "Apa lokasi pengukuran suhu paling akurat?", "back": "Rektal (anus) paling akurat tetapi tidak praktis di lingkungan kerja; umumnya untuk bayi. Aksila lebih rendah 0,6 derajat C dari oral.", "tag": "Pengukuran Suhu Tubuh" },
+    { "front": "Sebutkan jenis termometer.", "back": "Digital, inframerah (non-contact), timpani, dan air raksa. Lokasi: dahi, tangan, timpani, aksila, oral, rektal.", "tag": "Pengukuran Suhu Tubuh" },
+    { "front": "Berapa frekuensi pernapasan normal dewasa?", "back": "12-20 kali per menit. Takipnea >20x/menit, bradipnea <10-12x/menit.", "tag": "Frekuensi Pernapasan" },
+    { "front": "Mengapa pekerja tidak boleh sadar saat dihitung napasnya?", "back": "Kesadaran dapat mengubah pola pernapasan. Pemeriksa sering berpura-pura memegang nadi sambil mengamati gerakan dada/abdomen.", "tag": "Frekuensi Pernapasan" },
+    { "front": "Apa beda wheezing dan ronkhi?", "back": "Wheezing/mengi: nada tinggi, kualitas merintih. Ronkhi: nada rendah, kualitas mendengkur akibat penumpukan sekret.", "tag": "Frekuensi Pernapasan" },
+    { "front": "Apa rumus IMT?", "back": "Berat badan (kg) dibagi tinggi badan (meter) dikuadratkan. Untuk dewasa >18 tahun.", "tag": "Status Gizi Sederhana" },
+    { "front": "Di mana lingkar perut diukur?", "back": "Pertengahan antara iga terbawah dan krista iliaka. Normal: <90 cm pria, <80 cm wanita.", "tag": "Status Gizi Sederhana" },
+    { "front": "Apa metode penilaian status gizi langsung?", "back": "Antropometri (dimensi tubuh), pemeriksaan klinis (konjungtiva, mukosa), dan laboratorium/biokimia (Hb, gula darah).", "tag": "Status Gizi Sederhana" },
+    { "front": "Berapa saturasi oksigen normal (pulse oximeter)?", "back": "95-100%. Di bawah 95% = hipoksemia. Tes analisis gas darah normal di atas 80 mmHg.", "tag": "Saturasi Oksigen" },
+    { "front": "Apa beda pulse oximeter dan analisis gas darah?", "back": "Pulse oximeter (dipasang di jari/telinga, hasil %, perkiraan perifer). Analisis gas darah (sampel darah arteri, hasil mmHg, paling akurat).", "tag": "Saturasi Oksigen" }
+  ],
+  "mindmap": [
+    { "id": "teknik-tanda-vital", "label": "Teknik Pemeriksaan Tanda Vital", "color": "#6366f1", "parent": null, "content": "Prosedur baku pengukuran tekanan darah, nadi, suhu, pernapasan, status gizi, dan saturasi oksigen pekerja dengan alat terkalibrasi." },
+
+    { "id": "persiapan", "label": "Persiapan Pemeriksaan", "color": "#8b5cf6", "parent": "teknik-tanda-vital", "content": "Persiapan alat, lingkungan, dan pekerja agar hasil pengukuran valid dan reliabel." },
+    { "id": "persiapan-alat", "label": "Persiapan Alat", "color": "#8b5cf6", "parent": "persiapan", "content": "Alat harus bersih, terkalibrasi, dan mudah diakses; sphygmomanometer, termometer, timbangan, stadiometer, pita ukur." },
+    { "id": "persiapan-lingkungan", "label": "Persiapan Lingkungan", "color": "#8b5cf6", "parent": "persiapan", "content": "Ketenangan, pencahayaan memadai, suhu ruangan stabil, dan privasi agar pekerja nyaman dan hasil tidak salah catat." },
+    { "id": "persiapan-pekerja", "label": "Persiapan Pekerja", "color": "#8b5cf6", "parent": "persiapan", "content": "Pekerja diberi penjelasan tujuan/prosedur untuk mengurangi kecemasan, dan diminta istirahat minimal 5 menit." },
+    { "id": "white-coat", "label": "White Coat Hypertension", "color": "#8b5cf6", "parent": "persiapan-pekerja", "content": "Tekanan darah naik karena cemas saat diperiksa petugas kesehatan; dicegah dengan menenangkan pekerja." },
+
+    { "id": "tekanan-darah", "label": "Tekanan Darah", "color": "#0ea5e9", "parent": "teknik-tanda-vital", "content": "Indikator fungsi kardiovaskular, diukur dengan sphygmomanometer; normal 90/60-120/80 mmHg." },
+    { "id": "td-metode-manual", "label": "Metode Manual", "color": "#0ea5e9", "parent": "tekanan-darah", "content": "Pompa manset 20-30 mmHg di atas sistolik perkiraan, turunkan 2-3 mmHg/detik sambil dengar bunyi Korotkoff." },
+    { "id": "td-korotkoff", "label": "Bunyi Korotkoff", "color": "#0ea5e9", "parent": "td-metode-manual", "content": "Bunyi pertama terdengar = tekanan sistolik; bunyi terakhir menghilang = tekanan diastolik." },
+    { "id": "td-metode-digital", "label": "Metode Digital", "color": "#0ea5e9", "parent": "tekanan-darah", "content": "Lebih praktis namun tetap perlu kalibrasi; akurasi berkurang pada pasien dengan aritmia." },
+    { "id": "td-posisi", "label": "Posisi & Manset", "color": "#0ea5e9", "parent": "tekanan-darah", "content": "Duduk, lengan sejajar jantung, kaki tidak bersilang, manset 2-3 cm di atas lipat siku." },
+
+    { "id": "beban-nadi", "label": "Beban Kerja & Nadi", "color": "#10b981", "parent": "teknik-tanda-vital", "content": "Pengukuran beban kerja dan frekuensi denyut nadi sebagai respons jantung terhadap aktivitas." },
+    { "id": "beban-kerja", "label": "Pengukuran Beban Kerja", "color": "#10b981", "parent": "beban-nadi", "content": "Menetapkan waktu kerja qualified; metode teknis analisis dan praktis empiris; standar BB 70 kg pria, 55 kg wanita." },
+    { "id": "nadi-lokasi", "label": "Lokasi Palpasi", "color": "#10b981", "parent": "beban-nadi", "content": "Paling sering arteri radialis; alternatif karotis, brakialis, femoralis, dorsalis pedis. Diraba jari telunjuk dan tengah." },
+    { "id": "nadi-parameter", "label": "Parameter Nadi", "color": "#10b981", "parent": "beban-nadi", "content": "Frekuensi (normal 60-100x/menit), irama (teratur/tidak), kekuatan (lemah/normal/kuat)." },
+    { "id": "nadi-faktor", "label": "Faktor Pengaruh Nadi", "color": "#10b981", "parent": "beban-nadi", "content": "Aktivitas fisik, kafein, stres, suhu lingkungan, dan kondisi medis seperti aritmia." },
+
+    { "id": "suhu", "label": "Suhu Tubuh", "color": "#f59e0b", "parent": "teknik-tanda-vital", "content": "Diukur dengan termometer untuk mendeteksi heat stress, infeksi, dan gangguan metabolisme; normal 36,5-37,5 derajat C." },
+    { "id": "suhu-jenis", "label": "Jenis Termometer", "color": "#f59e0b", "parent": "suhu", "content": "Digital, inframerah (non-contact), timpani, air raksa. Lokasi: dahi, oral, aksila, timpani, rektal." },
+    { "id": "suhu-metode", "label": "Metode Pengukuran", "color": "#f59e0b", "parent": "suhu", "content": "Oral (di bawah lidah), aksila (sensor kena kulit, 2-3 menit, lebih rendah 0,6 derajat C), rektal (paling akurat, untuk bayi)." },
+    { "id": "suhu-interpretasi", "label": "Interpretasi Suhu", "color": "#f59e0b", "parent": "suhu", "content": "Normal 36,1-37,5; sub febris 37,5-38,5; febris di atas 38,5 derajat C; hipotermia <35 derajat C." },
+
+    { "id": "pernapasan", "label": "Frekuensi Pernapasan", "color": "#ef4444", "parent": "teknik-tanda-vital", "content": "Menghitung laju napas per menit melalui observasi gerakan dada/abdomen; normal dewasa 12-20x/menit." },
+    { "id": "rr-parameter", "label": "Parameter Napas", "color": "#ef4444", "parent": "pernapasan", "content": "Frekuensi, kedalaman (dangkal/normal/dalam), dan pola (regular, Cheyne-Stokes, Kussmaul)." },
+    { "id": "rr-gangguan", "label": "Gangguan Napas", "color": "#ef4444", "parent": "pernapasan", "content": "Takipnea (cepat tidak normal >24x/menit patologis), bradipnea (lambat tidak normal)." },
+    { "id": "rr-suara", "label": "Suara Tambahan", "color": "#ef4444", "parent": "pernapasan", "content": "Wheezing/mengi (nada tinggi, merintih) dan ronkhi (nada rendah, mendengkur akibat sekret)." },
+    { "id": "rr-teknik", "label": "Teknik Hitung", "color": "#ef4444", "parent": "pernapasan", "content": "Hitung 1 menit penuh tanpa pekerja sadar (sering berpura-pura pegang nadi); rasio napas:nadi = 1:4." },
+
+    { "id": "status-gizi", "label": "Status Gizi Sederhana", "color": "#ec4899", "parent": "teknik-tanda-vital", "content": "Penilaian keseimbangan asupan dan kebutuhan gizi melalui antropometri, IMT, dan lingkar perut." },
+    { "id": "gizi-antropometri", "label": "Antropometri", "color": "#ec4899", "parent": "status-gizi", "content": "Pengukuran berat badan, tinggi badan (kepala sejajar garis Frankfort), lingkar lengan atas, dan lingkar perut." },
+    { "id": "gizi-imt", "label": "IMT", "color": "#ec4899", "parent": "status-gizi", "content": "Berat badan (kg) dibagi tinggi badan (m) kuadrat. Obesitas jika >27 kg/m2 untuk pria dan wanita." },
+    { "id": "gizi-lingkar-perut", "label": "Lingkar Perut", "color": "#ec4899", "parent": "status-gizi", "content": "Diukur di pertengahan iga terbawah dan krista iliaka; normal <90 cm pria, <80 cm wanita." },
+    { "id": "gizi-penilaian", "label": "Metode Penilaian", "color": "#ec4899", "parent": "status-gizi", "content": "Langsung (antropometri, klinis, laboratorium) dan tidak langsung (survei konsumsi, data kesehatan)." },
+
+    { "id": "saturasi", "label": "Saturasi Oksigen", "color": "#14b8a6", "parent": "teknik-tanda-vital", "content": "Persentase hemoglobin yang terikat oksigen; penting mendeteksi hipoksemia pada PPOK, asma, pneumonia." },
+    { "id": "spo2-pulse-oximeter", "label": "Pulse Oximeter", "color": "#14b8a6", "parent": "saturasi", "content": "Dipasang di jari/daun telinga, mengukur cahaya yang dipantulkan, hasil persen; normal 95-100%." },
+    { "id": "spo2-gas-darah", "label": "Analisis Gas Darah", "color": "#14b8a6", "parent": "saturasi", "content": "Paling akurat, ambil sampel darah arteri di pergelangan tangan/selangkangan, hasil mmHg; normal >80 mmHg." },
+    { "id": "spo2-hipoksemia", "label": "Hipoksemia", "color": "#14b8a6", "parent": "saturasi", "content": "Kadar oksigen sangat rendah; gejala pusing, sesak napas, kulit kebiruan; ditangani dengan oksigen tambahan." }
+  ]
+}

@@ -1,0 +1,3151 @@
+{
+  "topic": "Komunikasi Organisasi",
+  "order": 6,
+  "description": "Komunikasi organisasi adalah proses penyampaian dan pertukaran pesan antaranggota organisasi untuk mencapai tujuan bersama. Materi ini membahas pengertian dan fungsi komunikasi, komunikasi vertikal (ke bawah dan ke atas), arah komunikasi lain, serta etika berkomunikasi dengan atasan.",
+  "subtopics": [
+    "Pengertian & Fungsi Komunikasi",
+    "Komunikasi Vertikal",
+    "Downward Communication",
+    "Tipe Komunikasi Atas ke Bawah",
+    "Upward Communication",
+    "Arah & Jaringan Komunikasi",
+    "Etika Komunikasi dengan Atasan"
+  ],
+  "questions": [
+    {
+      "text": "Apa pengertian komunikasi menurut materi komunikasi organisasi?",
+      "explanation": "Komunikasi adalah proses pernyataan antarmanusia, yaitu menyatakan pikiran atau perasaan seseorang kepada orang lain dengan bahasa sebagai alat penyalurnya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Proses pemindahan barang antarindividu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Proses pernyataan pikiran atau perasaan antarmanusia menggunakan bahasa sebagai penyalur",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Proses penyimpanan data dalam organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Proses produksi pesan oleh mesin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam definisi komunikasi sebagai penyampaian pesan, pihak yang menyampaikan pesan disebut?",
+      "explanation": "Komunikator adalah pihak yang menyampaikan pesan kepada komunikan (penerima pesan).",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Komunikan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikator",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Media",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Efek",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pihak yang menerima pesan dalam proses komunikasi disebut?",
+      "explanation": "Komunikan adalah penerima pesan yang dituju oleh komunikator dalam proses komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Komunikator",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Saluran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lambang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut definisi, komunikasi adalah proses penyampaian pesan oleh komunikator kepada komunikan melalui media yang menimbulkan?",
+      "explanation": "Komunikasi adalah proses penyampaian pesan oleh komunikator kepada komunikan melalui media yang menimbulkan efek tertentu.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Efek tertentu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Keuntungan finansial",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Produk fisik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dokumen tertulis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam proses komunikasi, gagasan, harapan, dan pesan disampaikan melalui?",
+      "explanation": "Pesan disampaikan melalui lambang tertentu yang mengandung arti, dari penyampai pesan kepada penerima pesan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Tindakan fisik langsung",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lambang tertentu yang mengandung arti",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Uang sebagai alat tukar",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mesin produksi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan komunikasi organisasi?",
+      "explanation": "Komunikasi organisasi adalah proses penyampaian dan pertukaran pesan antaranggota organisasi untuk mencapai tujuan bersama organisasi.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Komunikasi antarteman di luar pekerjaan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Proses penyampaian dan pertukaran pesan antaranggota organisasi untuk mencapai tujuan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Komunikasi yang hanya terjadi melalui surat resmi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Proses produksi barang dalam perusahaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat penyalur utama dalam proses komunikasi antarmanusia adalah?",
+      "explanation": "Bahasa digunakan sebagai alat penyalur pikiran atau perasaan seseorang kepada orang lain dalam komunikasi.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Bahasa",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Uang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Energi listrik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bahan baku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu fungsi komunikasi dalam organisasi adalah fungsi informatif, yang berarti?",
+      "explanation": "Fungsi informatif berarti organisasi dipandang sebagai sistem pemrosesan informasi sehingga seluruh anggota memperoleh informasi yang lebih banyak dan lebih baik untuk menjalankan tugasnya.",
+      "difficulty": "HARD",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Menghukum anggota yang lalai",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menyediakan dan menyebarkan informasi yang diperlukan anggota",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menghentikan operasi organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengganti anggota organisasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fungsi regulatif dalam komunikasi organisasi berkaitan dengan?",
+      "explanation": "Fungsi regulatif berkaitan dengan peraturan, kebijakan, dan perintah/instruksi yang berlaku dalam organisasi untuk mengendalikan jalannya pekerjaan.",
+      "difficulty": "HARD",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Peraturan dan perintah yang berlaku dalam organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hiburan bagi karyawan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penjualan produk ke konsumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengadaan bahan baku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fungsi persuasif dalam komunikasi organisasi bertujuan untuk?",
+      "explanation": "Fungsi persuasif berarti pimpinan lebih banyak mengajak/membujuk daripada memerintah agar bawahan bersedia menjalankan tugas dengan kesadaran sendiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Memaksa bawahan dengan ancaman",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Membujuk/mengajak anggota agar bersedia melaksanakan tugas dengan sukarela",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Memutus hubungan kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menyimpan arsip organisasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fungsi integratif dalam komunikasi organisasi bertujuan untuk?",
+      "explanation": "Fungsi integratif menyediakan saluran agar anggota dapat melaksanakan tugas dengan baik dan menumbuhkan rasa kebersamaan/keterpaduan dalam organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Memisahkan anggota dari organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menumbuhkan rasa kebersamaan dan keterpaduan antaranggota",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menambah persaingan antarbagian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi jumlah karyawan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan komunikasi dalam organisasi adalah?",
+      "explanation": "Tujuan komunikasi antara lain agar pesan dapat dipahami, terjadi perubahan sikap/perilaku, dan tujuan organisasi tercapai melalui koordinasi yang baik.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Agar pesan dipahami dan tujuan organisasi tercapai",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menambah jumlah dokumen yang tidak terbaca",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memperlambat pengambilan keputusan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menutup informasi dari seluruh anggota",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan komunikasi vertikal dalam organisasi?",
+      "explanation": "Komunikasi vertikal adalah komunikasi dua arah secara timbal balik antara pimpinan dan bawahan dalam organisasi menggunakan lambang yang bermakna untuk mencapai tujuan organisasi.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Vertikal",
+      "options": [
+        {
+          "text": "A. Komunikasi antarrekan kerja yang setingkat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikasi dua arah timbal balik antara pimpinan dan bawahan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Komunikasi antarperusahaan yang berbeda",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komunikasi dengan pelanggan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi vertikal terbagi menjadi dua arah, yaitu?",
+      "explanation": "Komunikasi vertikal terdiri dari komunikasi dari atas ke bawah (downward) dan komunikasi dari bawah ke atas (upward).",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Vertikal",
+      "options": [
+        {
+          "text": "A. Downward dan upward communication",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Horizontal dan diagonal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Formal dan informal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lisan dan tulisan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi vertikal berlangsung secara dua arah, artinya?",
+      "explanation": "Komunikasi vertikal bersifat timbal balik, yaitu pimpinan menyampaikan ke bawahan dan bawahan juga memberi respons/umpan balik ke pimpinan.",
+      "difficulty": "HARD",
+      "tag": "Komunikasi Vertikal",
+      "options": [
+        {
+          "text": "A. Hanya pimpinan yang berbicara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Terjadi timbal balik antara pimpinan dan bawahan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hanya bawahan yang berbicara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada respons sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama komunikasi vertikal dalam organisasi adalah?",
+      "explanation": "Komunikasi vertikal dilakukan dalam rangka mencapai suatu tujuan di dalam organisasi melalui hubungan timbal balik pimpinan dan bawahan.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Vertikal",
+      "options": [
+        {
+          "text": "A. Mencapai tujuan organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memperbanyak konflik internal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghambat aliran informasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menutup kerja sama antarbagian",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam komunikasi vertikal, pesan disampaikan menggunakan?",
+      "explanation": "Komunikasi vertikal menggunakan lambang-lambang yang bermakna agar pesan dapat dipahami oleh pimpinan dan bawahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Vertikal",
+      "options": [
+        {
+          "text": "A. Lambang-lambang yang bermakna",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tanda baca acak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kode rahasia yang tidak dimengerti",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gambar tanpa arti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi vertikal terjadi antara pihak yang berada pada?",
+      "explanation": "Komunikasi vertikal terjadi antara pihak pada tingkat hierarki yang berbeda, yaitu antara atasan (pimpinan) dan bawahan.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Vertikal",
+      "options": [
+        {
+          "text": "A. Tingkat hierarki/jabatan yang berbeda (atasan-bawahan)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tingkat jabatan yang sama",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Organisasi yang berbeda",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Departemen yang setara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan downward communication (komunikasi ke bawah)?",
+      "explanation": "Downward communication adalah komunikasi dari pimpinan/atasan kepada bawahan/karyawan.",
+      "difficulty": "EASY",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Komunikasi dari karyawan ke pimpinan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikasi dari pimpinan/atasan kepada bawahan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Komunikasi antarteman sejawat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komunikasi dengan pihak luar organisasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam komunikasi ke bawah, informasi mengalir dari?",
+      "explanation": "Informasi mengalir dari manajemen puncak ke manajemen menengah, lalu ke manajemen lebih rendah, dan akhirnya sampai pada karyawan operasional.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Karyawan operasional ke manajemen puncak",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Manajemen puncak ke menengah lalu ke karyawan operasional",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pelanggan ke perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Antarbagian yang setara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu jenis informasi yang dikomunikasikan dari atasan ke bawahan adalah?",
+      "explanation": "Salah satunya adalah informasi mengenai bagaimana melaksanakan pekerjaan, yaitu petunjuk teknis pelaksanaan tugas.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Informasi mengenai bagaimana melaksanakan pekerjaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Gosip antarkaryawan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Keluhan pribadi pimpinan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Laporan pajak pribadi karyawan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Informasi mengenai dasar pemikiran untuk melakukan pekerjaan yang disampaikan atasan bertujuan agar bawahan?",
+      "explanation": "Informasi tentang dasar pemikiran (rasional) membantu bawahan memahami alasan/latar belakang mengapa pekerjaan harus dikerjakan dengan cara tertentu.",
+      "difficulty": "HARD",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Memahami alasan/rasional di balik pekerjaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengabaikan prosedur kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bekerja tanpa memahami tujuan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berhenti dari pekerjaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Informasi mengenai kebijakan dan praktik-praktik organisasi yang disampaikan dari atas ke bawah berfungsi untuk?",
+      "explanation": "Informasi tentang kebijakan dan praktik organisasi memberi tahu bawahan aturan, prosedur, dan cara kerja yang berlaku di organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Menyampaikan aturan, prosedur, dan praktik kerja organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menutupi aturan dari karyawan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengganti tujuan organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghapus seluruh prosedur kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Informasi untuk mengembangkan rasa memiliki tugas (sense of mission) yang disampaikan atasan bertujuan?",
+      "explanation": "Informasi ini bertujuan menumbuhkan rasa memiliki tugas dan keterikatan karyawan terhadap pekerjaan dan organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Menumbuhkan rasa memiliki tugas dan keterikatan pada organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membuat karyawan acuh pada pekerjaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengurangi tanggung jawab karyawan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memperlambat penyelesaian tugas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam komunikasi ke bawah, manajemen puncak berada pada posisi?",
+      "explanation": "Manajemen puncak (top management) berada di tingkat tertinggi, dari sinilah informasi mengalir turun ke tingkat manajemen di bawahnya.",
+      "difficulty": "EASY",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Tingkat tertinggi dalam organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tingkat operasional terbawah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Di luar struktur organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Setingkat dengan karyawan operasional",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tipe komunikasi dari atas ke bawah yang berupa perintah dari atasan kepada bawahan disebut?",
+      "explanation": "Instruksi (perintah) adalah tipe komunikasi atas ke bawah yang paling sering dilakukan, dapat disampaikan secara lisan maupun tertulis.",
+      "difficulty": "EASY",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Laporan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Instruksi (perintah)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Saran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Usulan anggaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Instruksi atau perintah dari atasan ke bawahan dapat dilaksanakan secara?",
+      "explanation": "Instruksi dapat disampaikan baik secara lisan maupun tertulis tergantung kebutuhan dan situasinya.",
+      "difficulty": "EASY",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Hanya lisan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hanya tertulis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lisan maupun tertulis",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Hanya melalui isyarat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemberian penjelasan singkat atau pertemuan untuk memberikan penerangan secara ringkas disebut?",
+      "explanation": "Briefing (pengarahan) adalah memberikan penjelasan secara singkat atau pertemuan untuk memberikan penerangan secara ringkas.",
+      "difficulty": "EASY",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Instruksi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Briefing (pengarahan)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Teguran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Laporan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyampaian informasi tentang aturan organisasi, prosedur, dan sejarah organisasi termasuk tipe komunikasi atas ke bawah berupa?",
+      "explanation": "Ini termasuk pemberian informasi tentang kebijakan perusahaan yang orientasinya untuk organisasi, seperti aturan, prosedur, dan sejarah organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Pemberian informasi kebijakan perusahaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Teguran lisan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Laporan hasil kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Usulan anggaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tindakan pimpinan menegur bawahan yang lalai dalam menjalankan tugas atau instruksi termasuk tipe komunikasi atas ke bawah berupa?",
+      "explanation": "Melakukan teguran adalah tipe komunikasi atas ke bawah; pimpinan berhak menegur bawahan yang lalai, baik secara lisan maupun tertulis.",
+      "difficulty": "EASY",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Briefing",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Teguran",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Penghargaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Saran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Teguran dari pimpinan kepada bawahan dapat disampaikan secara?",
+      "explanation": "Teguran kepada bawahan yang lalai dapat dilaksanakan baik secara lisan maupun tertulis.",
+      "difficulty": "EASY",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Lisan maupun tertulis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya melalui email",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya melalui pihak ketiga",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya saat rapat tahunan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Upaya pimpinan menanamkan nilai dan ideologi yang telah disepakati perusahaan dalam diri karyawan disebut tipe komunikasi atas ke bawah berupa?",
+      "explanation": "Penanaman ideologi adalah tipe komunikasi atas ke bawah untuk menanamkan ideologi yang disepakati sehingga menumbuhkan semangat kerja terhadap organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Penanaman ideologi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Teguran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Laporan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Usulan anggaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan penanaman ideologi oleh pimpinan kepada karyawan adalah?",
+      "explanation": "Penanaman ideologi bertujuan menumbuhkan tingkat semangat kerja karyawan terhadap organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Menumbuhkan semangat kerja terhadap organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengurangi loyalitas karyawan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengganti visi organisasi setiap hari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghapus aturan organisasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemberian insentif dan dorongan agar karyawan bekerja dengan giat termasuk tipe komunikasi atas ke bawah berupa?",
+      "explanation": "Memberikan penghargaan adalah tipe komunikasi atas ke bawah untuk memberikan insentif, motivasi, atau dorongan agar karyawan bekerja giat sesuai instruksi.",
+      "difficulty": "EASY",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Teguran",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Memberikan penghargaan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Penanaman ideologi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Briefing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Memberikan penghargaan kepada karyawan bertujuan untuk?",
+      "explanation": "Pemberian penghargaan bertujuan memberi insentif, motivasi, atau dorongan agar karyawan bekerja giat sesuai instruksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Memberi insentif dan motivasi agar bekerja giat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghukum karyawan teladan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengurangi produktivitas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membatalkan tugas karyawan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN termasuk tipe komunikasi dari atas ke bawah?",
+      "explanation": "Laporan hasil kerja merupakan komunikasi dari bawah ke atas (upward), bukan dari atas ke bawah.",
+      "difficulty": "MEDIUM",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Instruksi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Briefing",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Laporan hasil kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Teguran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu faktor yang mempengaruhi efektivitas komunikasi ke bawah adalah keterbukaan, yang berarti?",
+      "explanation": "Keterbukaan berarti pimpinan bersedia berbagi informasi secara terbuka kepada bawahan sehingga komunikasi ke bawah berjalan efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Kesediaan pimpinan berbagi informasi secara terbuka",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menyembunyikan semua informasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memberi informasi hanya pada satu orang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menolak memberi penjelasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor pesan yang berlebihan (overload) dalam komunikasi ke bawah dapat menyebabkan?",
+      "explanation": "Pesan yang berlebihan membuat bawahan kewalahan dan cenderung mengabaikan sebagian pesan sehingga komunikasi menjadi kurang efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Bawahan kewalahan dan mengabaikan sebagian pesan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pesan selalu lebih jelas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Komunikasi menjadi lebih efektif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada dampak sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor timing dalam komunikasi ke bawah berkaitan dengan?",
+      "explanation": "Timing berkaitan dengan ketepatan waktu penyampaian pesan; pesan yang disampaikan pada waktu yang tepat akan lebih efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Ketepatan waktu penyampaian pesan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Ukuran ruang rapat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jumlah karyawan dalam organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Warna seragam karyawan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor penyaringan (filtering) dalam komunikasi ke bawah dapat menyebabkan?",
+      "explanation": "Penyaringan menyebabkan sebagian isi pesan hilang atau berubah saat melewati beberapa tingkat hierarki sebelum sampai ke bawahan.",
+      "difficulty": "HARD",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Sebagian isi pesan hilang atau berubah saat melewati tingkat hierarki",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pesan selalu utuh tanpa perubahan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pesan bertambah panjang dengan sendirinya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pesan sampai lebih cepat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor kepercayaan dalam komunikasi ke bawah mempengaruhi efektivitas karena?",
+      "explanation": "Tingkat kepercayaan bawahan terhadap pimpinan menentukan sejauh mana pesan diterima dan dipercaya, sehingga mempengaruhi efektivitas komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Pesan lebih diterima bila bawahan percaya pada pimpinan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kepercayaan tidak berpengaruh sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pesan ditolak jika ada kepercayaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kepercayaan memperlambat penyampaian",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk faktor yang mempengaruhi komunikasi ke bawah?",
+      "explanation": "Faktor yang mempengaruhi komunikasi ke bawah meliputi keterbukaan, kepercayaan, pesan yang berlebihan, timing, dan penyaringan.",
+      "difficulty": "EASY",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Keterbukaan, kepercayaan, timing, dan penyaringan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Cuaca dan suhu ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Harga saham perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jumlah pelanggan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan upward communication (komunikasi ke atas)?",
+      "explanation": "Upward communication adalah komunikasi dari bawahan/karyawan kepada atasan/pimpinan.",
+      "difficulty": "EASY",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Komunikasi dari atasan ke bawahan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikasi dari bawahan kepada atasan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Komunikasi antarteman sejawat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komunikasi dengan pelanggan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu klasifikasi isi komunikasi ke atas adalah laporan hasil kerja, yang disampaikan oleh?",
+      "explanation": "Laporan hasil kerja disampaikan oleh seseorang pada bagian tertentu kepada atasannya yang berwenang.",
+      "difficulty": "MEDIUM",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Bawahan pada bagian tertentu kepada atasan yang berwenang",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Atasan kepada seluruh bawahan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pelanggan kepada perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pemerintah kepada perusahaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Laporan hasil kerja dalam komunikasi ke atas dapat disampaikan dalam bentuk?",
+      "explanation": "Laporan kerja dapat dilaksanakan dalam bentuk tulisan maupun lisan.",
+      "difficulty": "EASY",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Tulisan maupun lisan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya gambar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya isyarat tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya melalui pihak ketiga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Laporan hasil kerja secara lisan dalam komunikasi ke atas umumnya dilakukan melalui?",
+      "explanation": "Secara lisan, laporan hasil kerja dilakukan dengan tatap muka dalam sebuah rapat.",
+      "difficulty": "MEDIUM",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Tatap muka dalam sebuah rapat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengumuman di papan pengumuman",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Surat edaran resmi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Iklan media massa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Laporan hasil kerja secara tulisan dalam komunikasi ke atas dapat berbentuk?",
+      "explanation": "Secara tulisan, laporan hasil kerja dapat ditulis dalam bentuk catatan atau memo.",
+      "difficulty": "MEDIUM",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Catatan atau memo",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Poster iklan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Spanduk",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Stiker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu klasifikasi isi komunikasi ke atas berupa pemberian masukan untuk perbaikan disebut?",
+      "explanation": "Memberikan saran adalah salah satu klasifikasi isi komunikasi ke atas, yaitu bawahan memberi masukan untuk perbaikan kepada atasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Memberikan saran",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memberi instruksi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memberikan teguran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penanaman ideologi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam komunikasi ke atas, pendapat karyawan atau bawahan yang harus dapat disampaikan adalah?",
+      "explanation": "Pendapat karyawan baik yang bersifat positif maupun negatif harus dapat disampaikan dari bawahan ke atasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Hanya pendapat positif",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pendapat positif maupun negatif",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hanya pendapat tentang gaji",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada pendapat yang boleh disampaikan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Usulan anggaran biaya yang disampaikan bawahan kepada atasan termasuk dalam?",
+      "explanation": "Usulan anggaran biaya adalah salah satu klasifikasi isi komunikasi ke atas (upward communication).",
+      "difficulty": "EASY",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Komunikasi ke atas (upward communication)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Komunikasi ke bawah (downward communication)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Komunikasi horizontal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komunikasi dengan pihak eksternal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk klasifikasi isi komunikasi ke atas?",
+      "explanation": "Klasifikasi isi komunikasi ke atas meliputi laporan hasil kerja, memberikan saran, memberikan pendapat, dan usulan anggaran biaya.",
+      "difficulty": "EASY",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Laporan hasil kerja, saran, pendapat, dan usulan anggaran",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Instruksi dan teguran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Briefing dan penanaman ideologi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penghargaan dan kebijakan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa komunikasi ke atas penting bagi pimpinan organisasi?",
+      "explanation": "Komunikasi ke atas penting karena memberi pimpinan umpan balik, informasi kondisi nyata di lapangan, serta saran dan pendapat untuk pengambilan keputusan.",
+      "difficulty": "HARD",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Memberi umpan balik dan informasi kondisi nyata untuk pengambilan keputusan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menambah beban kerja tanpa manfaat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghambat pimpinan mengambil keputusan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghapus laporan dari bawahan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi ke atas berfungsi sebagai umpan balik (feedback) bagi?",
+      "explanation": "Komunikasi ke atas memberikan umpan balik kepada pimpinan atas pesan, kebijakan, atau instruksi yang telah disampaikan ke bawah.",
+      "difficulty": "MEDIUM",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Pimpinan atas pesan dan instruksi yang telah disampaikan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pelanggan eksternal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pesaing perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pemerintah daerah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi yang terjadi antara individu atau bagian yang berada pada tingkat hierarki yang sama disebut?",
+      "explanation": "Komunikasi horizontal adalah komunikasi antara individu atau bagian yang setingkat/sederajat dalam struktur organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Komunikasi vertikal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikasi horizontal",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Komunikasi diagonal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Downward communication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama komunikasi horizontal dalam organisasi adalah?",
+      "explanation": "Komunikasi horizontal bertujuan untuk koordinasi tugas, berbagi informasi, dan menyelesaikan masalah antarbagian yang setingkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Koordinasi tugas dan berbagi informasi antarbagian setingkat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memberi perintah kepada atasan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memberi penghargaan kepada bawahan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghukum rekan kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi antara individu yang berbeda tingkat hierarki dan berbeda bagian/departemen disebut?",
+      "explanation": "Komunikasi diagonal (silang) terjadi antara pihak yang berbeda tingkat jabatan dan berbeda bagian/departemen.",
+      "difficulty": "MEDIUM",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Komunikasi horizontal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikasi vertikal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Komunikasi diagonal",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Komunikasi internal saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Contoh komunikasi diagonal dalam organisasi adalah?",
+      "explanation": "Contoh komunikasi diagonal adalah manajer keuangan yang berkomunikasi langsung dengan staf bagian produksi (beda level dan beda departemen).",
+      "difficulty": "MEDIUM",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Manajer satu departemen berkomunikasi dengan staf departemen lain",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Manajer berkomunikasi dengan bawahan langsungnya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Dua staf setingkat di bagian yang sama",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karyawan melapor ke atasan langsung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi yang berlangsung melalui jalur dan struktur resmi organisasi disebut komunikasi?",
+      "explanation": "Komunikasi formal mengikuti jalur, struktur, dan prosedur resmi organisasi, misalnya surat dinas, rapat resmi, dan laporan.",
+      "difficulty": "EASY",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Formal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Informal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Grapevine",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Diagonal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi yang terjadi di luar jalur resmi, berdasarkan hubungan pribadi antaranggota, disebut komunikasi?",
+      "explanation": "Komunikasi informal terjadi di luar struktur resmi dan didasarkan pada hubungan pribadi/sosial antaranggota organisasi.",
+      "difficulty": "EASY",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Formal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Informal",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Vertikal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Resmi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyebaran informasi melalui jaringan informal seperti desas-desus antarkaryawan dikenal dengan istilah?",
+      "explanation": "Grapevine (selentingan) adalah jaringan komunikasi informal yang menyebarkan informasi/desas-desus secara tidak resmi dalam organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Grapevine (selentingan)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memo resmi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Surat dinas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Briefing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu ciri komunikasi grapevine (selentingan) adalah?",
+      "explanation": "Grapevine menyebar dengan cepat, tidak mengikuti jalur resmi, dan informasinya tidak selalu akurat karena bersifat informal.",
+      "difficulty": "MEDIUM",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Menyebar cepat dan tidak selalu akurat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Selalu akurat dan resmi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya melalui surat dinas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lambat dan terdokumentasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pola hubungan yang menunjukkan siapa berkomunikasi dengan siapa dalam organisasi disebut?",
+      "explanation": "Jaringan komunikasi (communication network) adalah pola/struktur hubungan yang menggambarkan alur komunikasi antaranggota organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Jaringan komunikasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lambang komunikasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Media komunikasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Efek komunikasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jaringan komunikasi di mana semua informasi harus melalui satu orang pusat (misalnya pemimpin) disebut pola?",
+      "explanation": "Pola roda (wheel) adalah jaringan tersentralisasi di mana semua komunikasi mengalir melalui satu individu pusat.",
+      "difficulty": "HARD",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Pola roda (wheel)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pola lingkaran (circle)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pola semua saluran (all-channel)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pola rantai (chain)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jaringan komunikasi di mana setiap anggota dapat berkomunikasi bebas dengan semua anggota lain disebut pola?",
+      "explanation": "Pola semua saluran (all-channel) bersifat terdesentralisasi, memungkinkan setiap anggota berkomunikasi langsung dengan anggota lain.",
+      "difficulty": "HARD",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Pola semua saluran (all-channel)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pola roda (wheel)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pola rantai (chain)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pola Y",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jaringan komunikasi pola rantai (chain) mengikuti alur?",
+      "explanation": "Pola rantai mengikuti garis komando hierarki secara berurutan, dari satu tingkat ke tingkat berikutnya seperti rantai.",
+      "difficulty": "HARD",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Garis hierarki berurutan dari satu tingkat ke tingkat berikutnya",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Semua anggota berbicara serentak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Satu pusat ke semua arah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Acak tanpa pola",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Keunggulan komunikasi formal dibandingkan informal adalah?",
+      "explanation": "Komunikasi formal lebih terstruktur, terdokumentasi, dan dapat dipertanggungjawabkan karena mengikuti jalur resmi organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Terstruktur, terdokumentasi, dan dapat dipertanggungjawabkan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Selalu lebih cepat daripada informal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak memerlukan catatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berdasarkan desas-desus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Iklim komunikasi organisasi mengacu pada?",
+      "explanation": "Iklim komunikasi organisasi adalah persepsi anggota terhadap kualitas hubungan dan suasana komunikasi dalam organisasi, misalnya keterbukaan dan kepercayaan.",
+      "difficulty": "HARD",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Persepsi anggota terhadap suasana dan kualitas komunikasi dalam organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu udara di ruang kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jumlah dokumen yang dicetak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Letak geografis kantor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Iklim komunikasi organisasi yang positif umumnya ditandai dengan?",
+      "explanation": "Iklim komunikasi positif ditandai dengan keterbukaan, kepercayaan, dukungan, dan partisipasi anggota dalam komunikasi.",
+      "difficulty": "HARD",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Keterbukaan, kepercayaan, dukungan, dan partisipasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Ketertutupan dan kecurigaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Larangan menyampaikan pendapat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada umpan balik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Iklim komunikasi yang baik dalam organisasi cenderung berdampak pada?",
+      "explanation": "Iklim komunikasi yang positif meningkatkan kepuasan kerja, komitmen, dan produktivitas anggota organisasi.",
+      "difficulty": "HARD",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Peningkatan kepuasan kerja dan produktivitas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penurunan motivasi kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Meningkatnya konflik tanpa solusi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menurunnya komitmen anggota",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip etika berkomunikasi dengan atasan adalah?",
+      "explanation": "Etika berkomunikasi dengan atasan antara lain bersikap sopan, menghormati, dan menyampaikan pesan secara jelas serta pada waktu yang tepat.",
+      "difficulty": "EASY",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Bersikap sopan dan menghormati atasan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memotong pembicaraan atasan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengabaikan instruksi atasan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berbicara kasar saat tidak setuju",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Saat menyampaikan pendapat yang berbeda kepada atasan, etika yang baik adalah?",
+      "explanation": "Pendapat yang berbeda sebaiknya disampaikan dengan sopan, argumentatif, dan pada waktu yang tepat, bukan dengan menyalahkan atau di depan umum.",
+      "difficulty": "MEDIUM",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Menyampaikan dengan sopan, beralasan, dan pada waktu yang tepat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menyalahkan atasan di depan rekan kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Diam saja dan menyimpan kekesalan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menolak tanpa memberi alasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam etika komunikasi dengan atasan, mendengarkan instruksi sebaiknya dilakukan dengan?",
+      "explanation": "Bawahan sebaiknya mendengarkan instruksi atasan dengan penuh perhatian dan memastikan paham sebelum melaksanakannya.",
+      "difficulty": "EASY",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Penuh perhatian dan memastikan paham",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sambil mengerjakan hal lain",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tanpa menyimak isi pesan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sambil membantah tanpa alasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ketika belum memahami instruksi atasan, sikap etis yang tepat adalah?",
+      "explanation": "Bila belum paham, bawahan sebaiknya bertanya/meminta klarifikasi dengan sopan agar tidak terjadi kesalahan dalam pelaksanaan tugas.",
+      "difficulty": "MEDIUM",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Bertanya atau meminta klarifikasi dengan sopan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pura-pura mengerti lalu mengerjakan asal-asalan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengabaikan instruksi tersebut",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menyalahkan atasan karena tidak jelas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Etika menyampaikan laporan kepada atasan sebaiknya dilakukan secara?",
+      "explanation": "Laporan kepada atasan sebaiknya disampaikan secara jujur, jelas, lengkap, dan tepat waktu sesuai fakta.",
+      "difficulty": "EASY",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Jujur, jelas, dan tepat waktu sesuai fakta",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Berlebihan dan dilebih-lebihkan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menutupi kesalahan yang terjadi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Asal jadi tanpa data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Memilih waktu yang tepat untuk berbicara dengan atasan merupakan bentuk etika komunikasi yang berkaitan dengan?",
+      "explanation": "Memilih waktu yang tepat (timing) menunjukkan kepekaan dan menghormati kesibukan atasan agar komunikasi lebih efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Ketepatan waktu dan menghormati kesibukan atasan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengabaikan situasi atasan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memaksakan kehendak sendiri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berbicara kapan pun tanpa pertimbangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bahasa yang sebaiknya digunakan saat berkomunikasi dengan atasan adalah?",
+      "explanation": "Bahasa yang digunakan sebaiknya sopan, formal, dan jelas agar pesan dipahami serta menjaga hubungan profesional.",
+      "difficulty": "EASY",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Sopan, formal, dan jelas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kasar dan menantang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penuh sindiran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak teratur dan membingungkan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sikap yang TIDAK etis saat berkomunikasi dengan atasan adalah?",
+      "explanation": "Menyela atau memotong pembicaraan atasan secara kasar merupakan sikap yang tidak etis dalam komunikasi organisasi.",
+      "difficulty": "EASY",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Memotong pembicaraan atasan secara kasar",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mendengarkan dengan saksama",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bertanya dengan sopan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menyampaikan laporan tepat waktu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Memberikan umpan balik kepada atasan secara konstruktif berarti?",
+      "explanation": "Umpan balik konstruktif berfokus pada solusi/perbaikan dan disampaikan dengan cara yang membangun, bukan menyerang pribadi.",
+      "difficulty": "HARD",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Berfokus pada perbaikan dan disampaikan secara membangun",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menyerang pribadi atasan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya mengkritik tanpa solusi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menyebarkan keluhan ke rekan lain",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi yang baik antara atasan dan bawahan dapat membantu organisasi dalam hal?",
+      "explanation": "Komunikasi yang baik mendukung koordinasi, pengambilan keputusan, dan pencapaian tujuan organisasi secara efektif.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Koordinasi dan pencapaian tujuan organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memperbanyak kesalahpahaman",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghambat kerja sama",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menutup aliran informasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Instruksi sebagai tipe komunikasi atas ke bawah adalah hal yang?",
+      "explanation": "Instruksi (perintah) merupakan hal yang paling sering dilakukan dalam konteks komunikasi dari atasan kepada bawahan.",
+      "difficulty": "EASY",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Paling sering dilakukan dalam komunikasi atasan ke bawahan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jarang terjadi dalam organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya dilakukan setahun sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dilarang dalam organisasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Briefing (pengarahan) berbeda dari instruksi karena lebih menekankan pada?",
+      "explanation": "Briefing menekankan pemberian penjelasan/penerangan secara singkat dan ringkas, sedangkan instruksi menekankan perintah untuk melakukan sesuatu.",
+      "difficulty": "MEDIUM",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Penjelasan/penerangan secara singkat dan ringkas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pemberian hukuman",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pengumpulan laporan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Permintaan anggaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemberian informasi tentang sejarah organisasi kepada karyawan termasuk tipe komunikasi atas ke bawah karena?",
+      "explanation": "Pemberian informasi sejarah organisasi termasuk informasi kebijakan perusahaan yang orientasinya untuk organisasi, disampaikan dari atasan ke bawahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Termasuk pemberian informasi kebijakan/orientasi organisasi dari atasan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Termasuk laporan dari bawahan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Termasuk usulan anggaran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Termasuk komunikasi horizontal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi vertikal disebut komunikasi timbal balik karena melibatkan?",
+      "explanation": "Komunikasi vertikal melibatkan arus dua arah, yaitu dari atasan ke bawahan dan dari bawahan ke atasan secara timbal balik.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Vertikal",
+      "options": [
+        {
+          "text": "A. Arus dua arah antara atasan dan bawahan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Arus satu arah dari atasan saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Komunikasi antarperusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komunikasi dengan pelanggan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika seorang supervisor melaporkan progres proyek kepada manajer, arah komunikasi ini adalah?",
+      "explanation": "Laporan dari supervisor (lebih rendah) kepada manajer (lebih tinggi) merupakan komunikasi ke atas (upward communication).",
+      "difficulty": "MEDIUM",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Komunikasi ke atas (upward)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Komunikasi ke bawah (downward)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Komunikasi horizontal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komunikasi diagonal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika seorang manajer memberikan perintah kerja kepada stafnya, arah komunikasi ini adalah?",
+      "explanation": "Perintah dari manajer kepada staf merupakan komunikasi ke bawah (downward communication).",
+      "difficulty": "EASY",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Komunikasi ke bawah (downward)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Komunikasi ke atas (upward)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Komunikasi horizontal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komunikasi eksternal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dua staf akuntansi yang berdiskusi menyusun laporan keuangan bersama merupakan contoh komunikasi?",
+      "explanation": "Dua staf setingkat di bagian yang sama berdiskusi merupakan komunikasi horizontal antarrekan sederajat.",
+      "difficulty": "EASY",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Horizontal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Vertikal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Diagonal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Downward",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rapat resmi bulanan yang dijadwalkan organisasi merupakan contoh saluran komunikasi?",
+      "explanation": "Rapat resmi yang terjadwal dan terdokumentasi merupakan saluran komunikasi formal organisasi.",
+      "difficulty": "EASY",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Formal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Informal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Grapevine",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Diagonal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Obrolan santai karyawan saat istirahat makan siang termasuk komunikasi?",
+      "explanation": "Obrolan santai di luar jalur resmi dan berdasarkan hubungan pribadi termasuk komunikasi informal.",
+      "difficulty": "EASY",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Informal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Formal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Vertikal resmi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Downward",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manfaat positif dari komunikasi informal (grapevine) yang dapat dimanfaatkan pimpinan adalah?",
+      "explanation": "Grapevine dapat menjadi sumber informasi cepat tentang suasana hati dan isu yang berkembang di antara karyawan, sehingga berguna bagi pimpinan jika dikelola bijak.",
+      "difficulty": "HARD",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Sumber informasi cepat tentang isu dan suasana karyawan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menggantikan semua komunikasi formal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menjamin akurasi informasi 100%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghapus kebutuhan rapat resmi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu kelemahan komunikasi informal/grapevine adalah?",
+      "explanation": "Kelemahan grapevine adalah informasi mudah terdistorsi/tidak akurat sehingga dapat menimbulkan kesalahpahaman dan rumor yang merugikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Informasi mudah terdistorsi dan memicu rumor",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Selalu terdokumentasi dengan baik",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lambat dan birokratis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya berisi instruksi resmi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi diagonal bermanfaat bagi organisasi karena?",
+      "explanation": "Komunikasi diagonal mempercepat aliran informasi dan koordinasi lintas bagian/tingkat tanpa harus selalu melalui jalur hierarki yang panjang.",
+      "difficulty": "HARD",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Mempercepat koordinasi lintas bagian dan tingkat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memperpanjang birokrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghapus struktur organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menutup komunikasi antarbagian",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai komunikasi ke bawah adalah?",
+      "explanation": "Komunikasi ke bawah mengalir dari tingkat manajemen yang lebih tinggi menuju tingkat yang lebih rendah hingga karyawan operasional.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Mengalir dari manajemen lebih tinggi ke lebih rendah hingga karyawan operasional",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Selalu berupa laporan dari bawahan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya terjadi antarrekan setingkat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak melibatkan pimpinan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi yang efektif dalam organisasi mengandung unsur umpan balik (feedback) agar?",
+      "explanation": "Umpan balik memastikan pesan telah diterima dan dipahami sebagaimana dimaksud, sehingga komunikasi berlangsung dua arah dan efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Memastikan pesan diterima dan dipahami sebagaimana dimaksud",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memperpanjang waktu komunikasi tanpa tujuan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghambat respons penerima",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membuat pesan menjadi rahasia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam komunikasi organisasi, pesan yang berlebihan (information overload) sebaiknya diatasi dengan?",
+      "explanation": "Information overload dapat diatasi dengan menyaring dan memprioritaskan informasi yang relevan agar penerima tidak kewalahan.",
+      "difficulty": "HARD",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Menyaring dan memprioritaskan informasi yang relevan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menambah jumlah pesan lebih banyak lagi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghentikan seluruh komunikasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengirim pesan tanpa memilih isi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan komunikasi yang berkaitan dengan perubahan sikap adalah agar komunikan?",
+      "explanation": "Salah satu tujuan komunikasi adalah perubahan sikap (attitude change), yaitu agar penerima mengubah sikapnya sesuai pesan yang disampaikan.",
+      "difficulty": "HARD",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Mengubah sikapnya sesuai pesan yang disampaikan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tidak melakukan apa pun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menolak semua informasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Melupakan isi pesan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi organisasi yang baik mendukung pengambilan keputusan karena?",
+      "explanation": "Komunikasi yang baik menyediakan informasi yang akurat dan tepat waktu sehingga keputusan dapat diambil secara cepat dan tepat.",
+      "difficulty": "HARD",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Menyediakan informasi akurat dan tepat waktu untuk keputusan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menyembunyikan data penting",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memperlambat aliran informasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghapus laporan dari bawahan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang tepat tentang hubungan komunikasi ke bawah dan ke atas adalah?",
+      "explanation": "Keduanya merupakan bagian dari komunikasi vertikal yang saling melengkapi: ke bawah menyampaikan instruksi/kebijakan, ke atas menyampaikan laporan/umpan balik.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Vertikal",
+      "options": [
+        {
+          "text": "A. Keduanya bagian komunikasi vertikal yang saling melengkapi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Keduanya tidak berhubungan sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Keduanya termasuk komunikasi horizontal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Keduanya hanya berupa komunikasi tertulis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Memberikan saran kepada atasan tentang perbaikan prosedur kerja merupakan contoh komunikasi ke atas yang bersifat?",
+      "explanation": "Saran perbaikan prosedur merupakan masukan konstruktif dari bawahan ke atasan, termasuk klasifikasi memberikan saran dalam komunikasi ke atas.",
+      "difficulty": "MEDIUM",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Memberikan saran (konstruktif)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Instruksi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Teguran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Briefing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam struktur organisasi, komunikasi ke bawah biasanya mengikuti?",
+      "explanation": "Komunikasi ke bawah mengikuti garis komando/rantai hierarki organisasi dari atasan ke bawahan.",
+      "difficulty": "EASY",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Garis komando/rantai hierarki organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jalur informal grapevine saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hubungan pertemanan pribadi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komunikasi dengan pihak luar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu hambatan komunikasi ke atas adalah bawahan enggan menyampaikan informasi buruk karena?",
+      "explanation": "Bawahan sering enggan menyampaikan kabar buruk ke atasan karena takut disalahkan atau khawatir dampak negatif bagi dirinya.",
+      "difficulty": "HARD",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Takut disalahkan atau khawatir akan dampak negatif",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Atasan selalu memberi penghargaan untuk kabar buruk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada saluran komunikasi sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kabar buruk dilarang oleh undang-undang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Agar komunikasi ke atas berjalan baik, pimpinan sebaiknya?",
+      "explanation": "Pimpinan sebaiknya menciptakan iklim terbuka dan mau mendengar agar bawahan tidak ragu menyampaikan laporan, saran, dan pendapat.",
+      "difficulty": "MEDIUM",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Menciptakan iklim terbuka dan mau mendengar bawahan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghukum setiap bawahan yang berpendapat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menutup semua saluran umpan balik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Melarang bawahan berbicara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penghargaan (reward) sebagai komunikasi atas ke bawah biasanya diberikan kepada karyawan yang?",
+      "explanation": "Penghargaan diberikan sebagai insentif dan dorongan kepada karyawan yang bekerja giat sesuai instruksi/berprestasi.",
+      "difficulty": "EASY",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Bekerja giat dan berprestasi sesuai instruksi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sering melanggar aturan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak menyelesaikan tugas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengabaikan instruksi atasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Memo internal yang dikirim manajer ke seluruh staf untuk menjelaskan kebijakan baru merupakan contoh komunikasi?",
+      "explanation": "Memo dari manajer ke staf menjelaskan kebijakan termasuk komunikasi ke bawah (downward) yang juga bersifat formal.",
+      "difficulty": "MEDIUM",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Ke bawah (downward) dan formal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Ke atas (upward) dan informal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Horizontal dan informal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Grapevine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi organisasi dapat dibedakan menurut arahnya menjadi?",
+      "explanation": "Menurut arahnya, komunikasi organisasi dibedakan menjadi vertikal (ke atas dan ke bawah), horizontal, dan diagonal.",
+      "difficulty": "EASY",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Vertikal, horizontal, dan diagonal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lisan dan tertulis saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Formal dan internal saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Cepat dan lambat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa yang membedakan komunikasi formal dengan informal dalam organisasi?",
+      "explanation": "Komunikasi formal mengikuti jalur dan struktur resmi organisasi, sedangkan informal terjadi di luar jalur resmi berdasarkan hubungan pribadi.",
+      "difficulty": "EASY",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Formal mengikuti jalur resmi, informal di luar jalur resmi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Formal selalu lisan, informal selalu tertulis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Keduanya sama persis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Formal hanya dengan pihak luar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan komunikasi non verbal lebih jujur tidak dibahas di sini; namun dalam organisasi, instruksi tertulis memiliki kelebihan yaitu?",
+      "explanation": "Instruksi tertulis memiliki kelebihan dapat didokumentasikan dan dijadikan bukti/rujukan sehingga mengurangi kesalahpahaman.",
+      "difficulty": "HARD",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Dapat didokumentasikan dan dijadikan rujukan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Selalu lebih cepat daripada lisan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak bisa disimpan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak memerlukan kejelasan bahasa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kelebihan instruksi lisan dibandingkan instruksi tertulis adalah?",
+      "explanation": "Instruksi lisan memungkinkan umpan balik langsung dan klarifikasi seketika antara atasan dan bawahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tipe Komunikasi Atas ke Bawah",
+      "options": [
+        {
+          "text": "A. Memungkinkan umpan balik dan klarifikasi langsung",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Selalu terdokumentasi otomatis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak bisa disalahpahami sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak memerlukan kehadiran kedua pihak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam komunikasi organisasi, koordinasi antarbagian setingkat untuk menyelesaikan pekerjaan paling tepat dilakukan melalui komunikasi?",
+      "explanation": "Koordinasi antarbagian setingkat dilakukan melalui komunikasi horizontal yang menghubungkan unit-unit sederajat.",
+      "difficulty": "EASY",
+      "tag": "Arah & Jaringan Komunikasi",
+      "options": [
+        {
+          "text": "A. Horizontal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Downward",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Upward",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Vertikal saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari seluruh proses komunikasi dalam organisasi adalah?",
+      "explanation": "Tujuan akhir komunikasi organisasi adalah tercapainya tujuan organisasi melalui koordinasi, kerja sama, dan pemahaman bersama.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Tercapainya tujuan organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memperbanyak rapat tanpa hasil",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menambah konflik internal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menutup informasi dari karyawan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Seorang karyawan yang menyampaikan keluhan kerja kepada atasan langsung melakukan komunikasi?",
+      "explanation": "Menyampaikan keluhan dari karyawan kepada atasan merupakan komunikasi ke atas (upward), berupa penyampaian pendapat/keluhan.",
+      "difficulty": "EASY",
+      "tag": "Upward Communication",
+      "options": [
+        {
+          "text": "A. Ke atas (upward)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Ke bawah (downward)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Horizontal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Eksternal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyaringan (filtering) dalam komunikasi ke bawah paling mungkin terjadi pada organisasi dengan?",
+      "explanation": "Penyaringan lebih mungkin terjadi pada organisasi dengan banyak tingkat hierarki karena pesan melewati lebih banyak perantara.",
+      "difficulty": "HARD",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Banyak tingkat hierarki/level manajemen",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya satu tingkat tanpa perantara",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada struktur organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komunikasi langsung tanpa perantara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Etika komunikasi dengan atasan juga mencakup sikap saat menerima kritik, yaitu?",
+      "explanation": "Saat menerima kritik dari atasan, sikap etis adalah menerima dengan lapang dada, tidak defensif, dan menjadikannya bahan perbaikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Etika Komunikasi dengan Atasan",
+      "options": [
+        {
+          "text": "A. Menerima dengan lapang dada dan menjadikannya perbaikan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membantah dengan emosi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengabaikan kritik sepenuhnya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membalas mengkritik atasan secara pribadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa konsistensi penting dalam komunikasi ke bawah dari pimpinan?",
+      "explanation": "Konsistensi pesan menjaga kepercayaan bawahan dan mencegah kebingungan akibat instruksi yang berubah-ubah atau bertentangan.",
+      "difficulty": "HARD",
+      "tag": "Downward Communication",
+      "options": [
+        {
+          "text": "A. Menjaga kepercayaan dan mencegah kebingungan bawahan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membuat pesan menjadi rahasia",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memperlambat pekerjaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menambah jumlah dokumen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu peran penting komunikasi organisasi dalam membangun budaya kerja adalah?",
+      "explanation": "Komunikasi organisasi yang baik membantu menyampaikan dan menanamkan nilai, norma, serta ideologi organisasi sehingga membentuk budaya kerja yang kuat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Fungsi Komunikasi",
+      "options": [
+        {
+          "text": "A. Menanamkan nilai, norma, dan ideologi organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghapus seluruh nilai organisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengurangi rasa memiliki karyawan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memutus hubungan antaranggota",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Komunikasi",
+      "back": "Proses pernyataan antarmanusia, yaitu menyatakan pikiran atau perasaan kepada orang lain menggunakan bahasa sebagai alat penyalurnya.",
+      "tag": "Pengertian & Fungsi Komunikasi"
+    },
+    {
+      "front": "Komunikator vs Komunikan",
+      "back": "Komunikator adalah pihak yang menyampaikan pesan; komunikan adalah pihak yang menerima pesan.",
+      "tag": "Pengertian & Fungsi Komunikasi"
+    },
+    {
+      "front": "Komunikasi organisasi",
+      "back": "Proses penyampaian dan pertukaran pesan antaranggota organisasi untuk mencapai tujuan bersama.",
+      "tag": "Pengertian & Fungsi Komunikasi"
+    },
+    {
+      "front": "Fungsi komunikasi organisasi",
+      "back": "Informatif, regulatif, persuasif, dan integratif.",
+      "tag": "Pengertian & Fungsi Komunikasi"
+    },
+    {
+      "front": "Komunikasi vertikal",
+      "back": "Komunikasi dua arah timbal balik antara pimpinan dan bawahan menggunakan lambang bermakna untuk mencapai tujuan organisasi.",
+      "tag": "Komunikasi Vertikal"
+    },
+    {
+      "front": "Dua arah komunikasi vertikal",
+      "back": "Downward (atas ke bawah) dan upward (bawah ke atas).",
+      "tag": "Komunikasi Vertikal"
+    },
+    {
+      "front": "Downward communication",
+      "back": "Komunikasi dari pimpinan/atasan kepada bawahan; mengalir dari manajemen puncak ke menengah lalu ke karyawan operasional.",
+      "tag": "Downward Communication"
+    },
+    {
+      "front": "Isi komunikasi ke bawah",
+      "back": "Cara melaksanakan pekerjaan, dasar pemikiran pekerjaan, kebijakan & praktik organisasi, dan pengembangan rasa memiliki tugas.",
+      "tag": "Downward Communication"
+    },
+    {
+      "front": "Faktor komunikasi ke bawah",
+      "back": "Keterbukaan, kepercayaan, pesan berlebihan (overload), timing, dan penyaringan (filtering).",
+      "tag": "Downward Communication"
+    },
+    {
+      "front": "Instruksi (perintah)",
+      "back": "Tipe komunikasi atas ke bawah yang paling sering; dapat lisan maupun tertulis.",
+      "tag": "Tipe Komunikasi Atas ke Bawah"
+    },
+    {
+      "front": "Briefing (pengarahan)",
+      "back": "Pemberian penjelasan singkat atau pertemuan untuk memberi penerangan secara ringkas.",
+      "tag": "Tipe Komunikasi Atas ke Bawah"
+    },
+    {
+      "front": "Teguran",
+      "back": "Pimpinan menegur bawahan yang lalai menjalankan tugas/instruksi, baik lisan maupun tertulis.",
+      "tag": "Tipe Komunikasi Atas ke Bawah"
+    },
+    {
+      "front": "Penanaman ideologi",
+      "back": "Upaya pimpinan menanamkan nilai/ideologi yang disepakati untuk menumbuhkan semangat kerja terhadap organisasi.",
+      "tag": "Tipe Komunikasi Atas ke Bawah"
+    },
+    {
+      "front": "Memberikan penghargaan",
+      "back": "Memberi insentif, motivasi, atau dorongan agar karyawan bekerja giat sesuai instruksi.",
+      "tag": "Tipe Komunikasi Atas ke Bawah"
+    },
+    {
+      "front": "Upward communication",
+      "back": "Komunikasi dari bawahan kepada atasan; berisi laporan, saran, pendapat, dan usulan anggaran.",
+      "tag": "Upward Communication"
+    },
+    {
+      "front": "Laporan hasil kerja",
+      "back": "Disampaikan bawahan ke atasan berwenang; lisan via rapat tatap muka, tulisan via catatan atau memo.",
+      "tag": "Upward Communication"
+    },
+    {
+      "front": "Klasifikasi isi komunikasi ke atas",
+      "back": "Laporan hasil kerja, memberikan saran, memberikan pendapat (positif/negatif), dan usulan anggaran biaya.",
+      "tag": "Upward Communication"
+    },
+    {
+      "front": "Komunikasi horizontal",
+      "back": "Komunikasi antara individu/bagian yang setingkat untuk koordinasi dan berbagi informasi.",
+      "tag": "Arah & Jaringan Komunikasi"
+    },
+    {
+      "front": "Komunikasi diagonal",
+      "back": "Komunikasi antarpihak yang berbeda tingkat hierarki dan berbeda bagian/departemen.",
+      "tag": "Arah & Jaringan Komunikasi"
+    },
+    {
+      "front": "Formal vs informal",
+      "back": "Formal mengikuti jalur/struktur resmi organisasi; informal di luar jalur resmi berdasarkan hubungan pribadi.",
+      "tag": "Arah & Jaringan Komunikasi"
+    },
+    {
+      "front": "Grapevine (selentingan)",
+      "back": "Jaringan komunikasi informal yang menyebar cepat namun tidak selalu akurat dan rawan rumor.",
+      "tag": "Arah & Jaringan Komunikasi"
+    },
+    {
+      "front": "Iklim komunikasi organisasi",
+      "back": "Persepsi anggota terhadap suasana/kualitas komunikasi; iklim positif ditandai keterbukaan, kepercayaan, dukungan, dan partisipasi.",
+      "tag": "Arah & Jaringan Komunikasi"
+    },
+    {
+      "front": "Etika komunikasi dengan atasan",
+      "back": "Sopan, menghormati, bahasa jelas/formal, memilih waktu tepat, jujur dalam laporan, dan menerima kritik dengan lapang dada.",
+      "tag": "Etika Komunikasi dengan Atasan"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Komunikasi Organisasi",
+      "color": "#6366f1",
+      "parent": null,
+      "content": "Proses penyampaian dan pertukaran pesan antaranggota organisasi untuk mencapai tujuan bersama melalui berbagai arah dan saluran komunikasi."
+    },
+    {
+      "id": "pengertian",
+      "label": "Pengertian & Fungsi",
+      "color": "#8b5cf6",
+      "parent": "root",
+      "content": "Dasar konsep komunikasi: unsur, definisi, tujuan, dan fungsi komunikasi dalam organisasi."
+    },
+    {
+      "id": "pengertian-def",
+      "label": "Definisi Komunikasi",
+      "color": "#8b5cf6",
+      "parent": "pengertian",
+      "content": "Proses pernyataan pikiran/perasaan antarmanusia menggunakan bahasa; penyampaian pesan oleh komunikator ke komunikan melalui media yang menimbulkan efek."
+    },
+    {
+      "id": "pengertian-unsur",
+      "label": "Komunikator & Komunikan",
+      "color": "#8b5cf6",
+      "parent": "pengertian",
+      "content": "Komunikator adalah penyampai pesan; komunikan adalah penerima pesan; pesan disalurkan melalui lambang bermakna dan media."
+    },
+    {
+      "id": "pengertian-tujuan",
+      "label": "Tujuan",
+      "color": "#8b5cf6",
+      "parent": "pengertian",
+      "content": "Agar pesan dipahami, terjadi perubahan sikap/perilaku, dan tujuan organisasi tercapai melalui koordinasi yang baik."
+    },
+    {
+      "id": "pengertian-fungsi",
+      "label": "Fungsi",
+      "color": "#8b5cf6",
+      "parent": "pengertian",
+      "content": "Informatif (menyebar informasi), regulatif (aturan/perintah), persuasif (membujuk), dan integratif (kebersamaan)."
+    },
+    {
+      "id": "vertikal",
+      "label": "Komunikasi Vertikal",
+      "color": "#0ea5e9",
+      "parent": "root",
+      "content": "Komunikasi dua arah timbal balik antara pimpinan dan bawahan dengan lambang bermakna untuk mencapai tujuan organisasi."
+    },
+    {
+      "id": "vertikal-dua",
+      "label": "Dua Arah",
+      "color": "#0ea5e9",
+      "parent": "vertikal",
+      "content": "Terdiri dari downward (atas ke bawah) dan upward (bawah ke atas) yang saling melengkapi."
+    },
+    {
+      "id": "vertikal-timbal",
+      "label": "Timbal Balik",
+      "color": "#0ea5e9",
+      "parent": "vertikal",
+      "content": "Bersifat dua arah: pimpinan menyampaikan ke bawahan dan bawahan memberi respons/umpan balik ke pimpinan."
+    },
+    {
+      "id": "vertikal-tujuan",
+      "label": "Tujuan Vertikal",
+      "color": "#0ea5e9",
+      "parent": "vertikal",
+      "content": "Mencapai tujuan organisasi melalui hubungan komunikasi yang efektif antara atasan dan bawahan."
+    },
+    {
+      "id": "downward",
+      "label": "Downward Communication",
+      "color": "#10b981",
+      "parent": "root",
+      "content": "Komunikasi dari atasan ke bawahan; mengalir dari manajemen puncak ke menengah lalu ke karyawan operasional."
+    },
+    {
+      "id": "downward-isi",
+      "label": "Jenis Informasi",
+      "color": "#10b981",
+      "parent": "downward",
+      "content": "Cara melaksanakan pekerjaan, dasar pemikiran pekerjaan, kebijakan & praktik organisasi, dan pengembangan rasa memiliki tugas."
+    },
+    {
+      "id": "downward-faktor",
+      "label": "Faktor Pengaruh",
+      "color": "#10b981",
+      "parent": "downward",
+      "content": "Keterbukaan, kepercayaan, pesan berlebihan (overload), timing (ketepatan waktu), dan penyaringan (filtering)."
+    },
+    {
+      "id": "downward-filter",
+      "label": "Penyaringan",
+      "color": "#10b981",
+      "parent": "downward-faktor",
+      "content": "Isi pesan dapat hilang/berubah saat melewati banyak tingkat hierarki sebelum sampai ke bawahan."
+    },
+    {
+      "id": "downward-overload",
+      "label": "Pesan Berlebihan",
+      "color": "#10b981",
+      "parent": "downward-faktor",
+      "content": "Information overload membuat bawahan kewalahan; diatasi dengan menyaring dan memprioritaskan informasi relevan."
+    },
+    {
+      "id": "tipe",
+      "label": "Tipe Atas ke Bawah",
+      "color": "#f59e0b",
+      "parent": "root",
+      "content": "Bentuk-bentuk komunikasi yang disampaikan atasan kepada bawahan dalam organisasi."
+    },
+    {
+      "id": "tipe-instruksi",
+      "label": "Instruksi",
+      "color": "#f59e0b",
+      "parent": "tipe",
+      "content": "Perintah dari atasan ke bawahan; paling sering dilakukan, bisa lisan maupun tertulis."
+    },
+    {
+      "id": "tipe-briefing",
+      "label": "Briefing",
+      "color": "#f59e0b",
+      "parent": "tipe",
+      "content": "Pengarahan: pemberian penjelasan singkat atau pertemuan untuk penerangan ringkas."
+    },
+    {
+      "id": "tipe-info",
+      "label": "Info Kebijakan",
+      "color": "#f59e0b",
+      "parent": "tipe",
+      "content": "Pemberian informasi kebijakan: aturan, prosedur, dan sejarah organisasi berorientasi pada organisasi."
+    },
+    {
+      "id": "tipe-teguran",
+      "label": "Teguran",
+      "color": "#f59e0b",
+      "parent": "tipe",
+      "content": "Pimpinan menegur bawahan yang lalai menjalankan tugas/instruksi, secara lisan maupun tertulis."
+    },
+    {
+      "id": "tipe-ideologi",
+      "label": "Penanaman Ideologi",
+      "color": "#f59e0b",
+      "parent": "tipe",
+      "content": "Menanamkan nilai/ideologi yang disepakati untuk menumbuhkan semangat kerja terhadap organisasi."
+    },
+    {
+      "id": "tipe-penghargaan",
+      "label": "Penghargaan",
+      "color": "#f59e0b",
+      "parent": "tipe",
+      "content": "Memberi insentif, motivasi, atau dorongan agar karyawan bekerja giat sesuai instruksi."
+    },
+    {
+      "id": "upward",
+      "label": "Upward Communication",
+      "color": "#ef4444",
+      "parent": "root",
+      "content": "Komunikasi dari bawahan ke atasan; berisi laporan, saran, pendapat, dan usulan anggaran."
+    },
+    {
+      "id": "upward-laporan",
+      "label": "Laporan Hasil Kerja",
+      "color": "#ef4444",
+      "parent": "upward",
+      "content": "Disampaikan bawahan ke atasan berwenang; lisan via rapat tatap muka, tulisan via catatan atau memo."
+    },
+    {
+      "id": "upward-saran",
+      "label": "Saran",
+      "color": "#ef4444",
+      "parent": "upward",
+      "content": "Bawahan memberi masukan/usul perbaikan kepada atasan."
+    },
+    {
+      "id": "upward-pendapat",
+      "label": "Pendapat",
+      "color": "#ef4444",
+      "parent": "upward",
+      "content": "Pendapat bawahan, baik positif maupun negatif, harus dapat disampaikan kepada atasan."
+    },
+    {
+      "id": "upward-anggaran",
+      "label": "Usulan Anggaran",
+      "color": "#ef4444",
+      "parent": "upward",
+      "content": "Usulan anggaran biaya yang diajukan bawahan kepada atasan."
+    },
+    {
+      "id": "upward-feedback",
+      "label": "Umpan Balik",
+      "color": "#ef4444",
+      "parent": "upward",
+      "content": "Memberi pimpinan informasi kondisi nyata di lapangan untuk pengambilan keputusan."
+    },
+    {
+      "id": "arah",
+      "label": "Arah & Jaringan",
+      "color": "#ec4899",
+      "parent": "root",
+      "content": "Arah komunikasi (horizontal, diagonal), saluran formal-informal, jaringan, dan iklim komunikasi."
+    },
+    {
+      "id": "arah-horizontal",
+      "label": "Horizontal",
+      "color": "#ec4899",
+      "parent": "arah",
+      "content": "Komunikasi antar individu/bagian setingkat untuk koordinasi dan berbagi informasi."
+    },
+    {
+      "id": "arah-diagonal",
+      "label": "Diagonal",
+      "color": "#ec4899",
+      "parent": "arah",
+      "content": "Komunikasi antarpihak yang berbeda tingkat hierarki dan berbeda bagian/departemen."
+    },
+    {
+      "id": "arah-formal",
+      "label": "Formal vs Informal",
+      "color": "#ec4899",
+      "parent": "arah",
+      "content": "Formal mengikuti jalur/struktur resmi; informal di luar jalur resmi berdasarkan hubungan pribadi."
+    },
+    {
+      "id": "arah-grapevine",
+      "label": "Grapevine",
+      "color": "#ec4899",
+      "parent": "arah-formal",
+      "content": "Jaringan informal/selentingan yang menyebar cepat namun rawan distorsi dan rumor."
+    },
+    {
+      "id": "arah-jaringan",
+      "label": "Jaringan Komunikasi",
+      "color": "#ec4899",
+      "parent": "arah",
+      "content": "Pola hubungan siapa berkomunikasi dengan siapa, misal pola roda, rantai, dan semua saluran."
+    },
+    {
+      "id": "arah-iklim",
+      "label": "Iklim Komunikasi",
+      "color": "#ec4899",
+      "parent": "arah",
+      "content": "Persepsi anggota atas suasana komunikasi; iklim positif menandai keterbukaan, kepercayaan, dan partisipasi."
+    },
+    {
+      "id": "etika",
+      "label": "Etika dengan Atasan",
+      "color": "#14b8a6",
+      "parent": "root",
+      "content": "Tata krama berkomunikasi dengan atasan agar hubungan profesional terjaga dan pesan efektif."
+    },
+    {
+      "id": "etika-sopan",
+      "label": "Sopan & Hormat",
+      "color": "#14b8a6",
+      "parent": "etika",
+      "content": "Bersikap sopan, menghormati atasan, dan menggunakan bahasa yang jelas serta formal."
+    },
+    {
+      "id": "etika-waktu",
+      "label": "Ketepatan Waktu",
+      "color": "#14b8a6",
+      "parent": "etika",
+      "content": "Memilih waktu tepat untuk berbicara dengan menghormati kesibukan atasan."
+    },
+    {
+      "id": "etika-laporan",
+      "label": "Jujur & Jelas",
+      "color": "#14b8a6",
+      "parent": "etika",
+      "content": "Menyampaikan laporan secara jujur, jelas, lengkap, dan tepat waktu sesuai fakta."
+    },
+    {
+      "id": "etika-kritik",
+      "label": "Menerima Kritik",
+      "color": "#14b8a6",
+      "parent": "etika",
+      "content": "Menerima kritik dengan lapang dada, tidak defensif, dan menjadikannya bahan perbaikan."
+    }
+  ]
+}

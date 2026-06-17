@@ -1,0 +1,1320 @@
+{
+  "topic": "HAZOP (Hazard and Operability Study)",
+  "order": 3,
+  "description": "HAZOP (Hazard and Operability Study) adalah metode identifikasi bahaya terstruktur yang menggunakan kata panduan (guide word) untuk menganalisis penyimpangan parameter proses dari kondisi desain. Metode ini mengidentifikasi penyebab dan konsekuensi penyimpangan, menilai keandalan pengaman yang ada, lalu menyusun rekomendasi tindakan pengendalian pada proses industri seperti migas, pertambangan, manufaktur, dan energi.",
+  "subtopics": [
+    "Pengertian & Tujuan HAZOP",
+    "Tim & Pelaksanaan Studi",
+    "Node & Parameter Proses",
+    "Guide Word",
+    "Deviation, Cause & Consequence",
+    "Safeguard & Recommendation",
+    "Worksheet HAZOP",
+    "Penerapan di Industri"
+  ],
+  "questions": [
+    {
+      "text": "Apa kepanjangan dari HAZOP?",
+      "explanation": "HAZOP merupakan singkatan dari Hazard and Operability Study, yaitu studi bahaya dan keteroperasian.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Hazard and Operability Study", "isCorrect": true },
+        { "text": "B. Hazardous Operation Procedure", "isCorrect": false },
+        { "text": "C. Hazard Operation Plan", "isCorrect": false },
+        { "text": "D. Hazard and Output Process", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP termasuk dalam kategori metode identifikasi bahaya yang bersifat?",
+      "explanation": "HAZOP adalah metode identifikasi bahaya yang terstruktur dan sistematis, menggunakan kata panduan untuk menganalisis penyimpangan secara berurutan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Acak dan spontan", "isCorrect": false },
+        { "text": "B. Terstruktur dan sistematis", "isCorrect": true },
+        { "text": "C. Hanya berdasarkan intuisi", "isCorrect": false },
+        { "text": "D. Tidak memerlukan dokumen desain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama dilakukannya studi HAZOP adalah?",
+      "explanation": "Tujuan HAZOP adalah mengidentifikasi potensi bahaya dan masalah keteroperasian (operability) yang timbul akibat penyimpangan proses dari kondisi desain.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Menghitung keuntungan produksi", "isCorrect": false },
+        { "text": "B. Mengidentifikasi bahaya dan masalah keteroperasian akibat penyimpangan proses", "isCorrect": true },
+        { "text": "C. Merekrut pekerja baru", "isCorrect": false },
+        { "text": "D. Menentukan harga jual produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP pertama kali dikembangkan oleh perusahaan di sektor?",
+      "explanation": "HAZOP dikembangkan pada akhir 1960-an oleh ICI (Imperial Chemical Industries) di industri kimia/proses untuk mengkaji keselamatan pabrik.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Pertanian", "isCorrect": false },
+        { "text": "B. Industri kimia/proses", "isCorrect": true },
+        { "text": "C. Perbankan", "isCorrect": false },
+        { "text": "D. Tekstil rumahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain bahaya keselamatan, HAZOP juga menilai aspek?",
+      "explanation": "Kata 'Operability' menunjukkan HAZOP juga menilai masalah keteroperasian, yaitu hal yang mengganggu kelancaran/efisiensi operasi proses meski belum tentu berbahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Operability (keteroperasian)", "isCorrect": true },
+        { "text": "B. Pemasaran produk", "isCorrect": false },
+        { "text": "C. Gaji karyawan", "isCorrect": false },
+        { "text": "D. Desain logo perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP paling tepat diterapkan pada sistem yang bersifat?",
+      "explanation": "HAZOP sangat cocok untuk proses kontinu yang melibatkan aliran fluida melalui jalur pipa dan peralatan, sehingga parameter proses dan penyimpangannya dapat dikaji per node.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Proses dengan aliran fluida pada pipa dan peralatan", "isCorrect": true },
+        { "text": "B. Hanya pekerjaan administrasi kantor", "isCorrect": false },
+        { "text": "C. Kegiatan tanpa peralatan apa pun", "isCorrect": false },
+        { "text": "D. Hanya transaksi keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan dasar yang digunakan HAZOP dalam menganalisis bahaya adalah?",
+      "explanation": "HAZOP menggunakan pendekatan kata panduan (guide word) yang dikombinasikan dengan parameter proses untuk membangkitkan penyimpangan yang mungkin terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Kombinasi kata panduan dan parameter proses", "isCorrect": true },
+        { "text": "B. Tebakan acak tanpa kata kunci", "isCorrect": false },
+        { "text": "C. Hanya wawancara pelanggan", "isCorrect": false },
+        { "text": "D. Analisis laporan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP termasuk teknik identifikasi bahaya yang bersifat?",
+      "explanation": "HAZOP umumnya bersifat kualitatif, mengandalkan diskusi tim terstruktur untuk menemukan penyimpangan, bukan perhitungan probabilitas numerik murni.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Kuantitatif murni", "isCorrect": false },
+        { "text": "B. Kualitatif berbasis diskusi tim terstruktur", "isCorrect": true },
+        { "text": "C. Otomatis tanpa manusia", "isCorrect": false },
+        { "text": "D. Statistik inferensial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan tujuan HAZOP?",
+      "explanation": "HAZOP bertujuan mengidentifikasi bahaya, masalah operasi, dan menyusun rekomendasi; menentukan harga jual produk bukan tujuannya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Mengidentifikasi potensi bahaya proses", "isCorrect": false },
+        { "text": "B. Menentukan harga jual produk akhir", "isCorrect": true },
+        { "text": "C. Menemukan masalah keteroperasian", "isCorrect": false },
+        { "text": "D. Menyusun rekomendasi pengendalian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP sebaiknya dilakukan dengan basis dokumen utama berupa?",
+      "explanation": "HAZOP menggunakan P&ID (Piping and Instrumentation Diagram) sebagai dokumen utama karena memuat detail pipa, peralatan, dan instrumentasi yang akan dikaji.",
+      "difficulty": "MEDIUM",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. P&ID (Piping and Instrumentation Diagram)", "isCorrect": true },
+        { "text": "B. Struktur organisasi perusahaan", "isCorrect": false },
+        { "text": "C. Daftar gaji karyawan", "isCorrect": false },
+        { "text": "D. Brosur produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan 'node' atau study node dalam HAZOP?",
+      "explanation": "Node (study node) adalah bagian/segmen spesifik dari proses (misalnya jalur pipa antar dua peralatan) yang dipilih untuk dianalisis penyimpangannya.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Nama pekerja yang bertugas", "isCorrect": false },
+        { "text": "B. Bagian/segmen proses yang dipilih untuk dianalisis", "isCorrect": true },
+        { "text": "C. Merk peralatan", "isCorrect": false },
+        { "text": "D. Nilai keuntungan proses", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HAZOP, proses besar biasanya dibagi terlebih dahulu menjadi beberapa?",
+      "explanation": "Proses dipecah menjadi node-node (study node) agar analisis penyimpangan dapat dilakukan secara terstruktur pada tiap bagian.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Node/study node", "isCorrect": true },
+        { "text": "B. Departemen pemasaran", "isCorrect": false },
+        { "text": "C. Shift kerja", "isCorrect": false },
+        { "text": "D. Kelompok pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh parameter proses yang dikaji dalam HAZOP?",
+      "explanation": "Parameter proses adalah besaran fisik/kimia yang menjadi sasaran kata panduan, contohnya aliran (flow), tekanan (pressure), suhu (temperature), dan level.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Warna seragam pekerja", "isCorrect": false },
+        { "text": "B. Aliran (flow), tekanan, suhu, dan level", "isCorrect": true },
+        { "text": "C. Jumlah karyawan", "isCorrect": false },
+        { "text": "D. Tanggal libur nasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Parameter proses 'Flow' dalam HAZOP mengacu pada?",
+      "explanation": "Parameter Flow mengacu pada aliran fluida (cairan/gas) di dalam sistem perpipaan atau peralatan proses.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Aliran fluida dalam sistem", "isCorrect": true },
+        { "text": "B. Tinggi gedung pabrik", "isCorrect": false },
+        { "text": "C. Jumlah pekerja", "isCorrect": false },
+        { "text": "D. Warna pipa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Parameter 'Pressure' pada HAZOP berkaitan dengan?",
+      "explanation": "Pressure adalah parameter tekanan dalam sistem, yang penyimpangannya (terlalu tinggi/rendah) dapat menyebabkan kebocoran, ledakan, atau kerusakan peralatan.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Tekanan dalam sistem", "isCorrect": true },
+        { "text": "B. Kecepatan pekerja", "isCorrect": false },
+        { "text": "C. Biaya operasional", "isCorrect": false },
+        { "text": "D. Kelembapan udara luar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain flow, pressure, dan temperature, parameter proses lain yang sering dikaji adalah?",
+      "explanation": "Parameter lain yang umum antara lain level, komposisi (composition), reaksi (reaction), pH, dan viskositas.",
+      "difficulty": "MEDIUM",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Level dan komposisi (composition)", "isCorrect": true },
+        { "text": "B. Nama merk dagang", "isCorrect": false },
+        { "text": "C. Hari ulang tahun pabrik", "isCorrect": false },
+        { "text": "D. Jumlah pintu gerbang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HAZOP, setiap node dianalisis dengan cara?",
+      "explanation": "Setiap node dianalisis dengan menerapkan setiap kata panduan pada setiap parameter proses untuk menghasilkan daftar penyimpangan yang mungkin.",
+      "difficulty": "MEDIUM",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Menerapkan kata panduan pada tiap parameter proses", "isCorrect": true },
+        { "text": "B. Hanya membaca manual peralatan", "isCorrect": false },
+        { "text": "C. Mengabaikan parameter proses", "isCorrect": false },
+        { "text": "D. Menghitung laba bersih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan desain (design intent) suatu node menggambarkan?",
+      "explanation": "Design intent adalah kondisi proses yang seharusnya/dirancang pada node tersebut, menjadi acuan untuk menilai apakah terjadi penyimpangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Kondisi/maksud proses yang seharusnya pada node", "isCorrect": true },
+        { "text": "B. Jumlah keuntungan tahunan", "isCorrect": false },
+        { "text": "C. Daftar libur karyawan", "isCorrect": false },
+        { "text": "D. Lokasi kantor pusat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa fungsi utama kata panduan (guide word) dalam HAZOP?",
+      "explanation": "Guide word adalah kata kunci sederhana yang dikombinasikan dengan parameter proses untuk merangsang/membangkitkan ide penyimpangan secara sistematis.",
+      "difficulty": "EASY",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Membangkitkan ide penyimpangan secara sistematis", "isCorrect": true },
+        { "text": "B. Menghitung biaya proyek", "isCorrect": false },
+        { "text": "C. Menentukan jam istirahat", "isCorrect": false },
+        { "text": "D. Memberi nama produk baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide word 'NO' (atau NONE) ketika diterapkan pada parameter Flow berarti?",
+      "explanation": "Guide word NO/NONE berarti tidak tercapainya maksud desain sama sekali; pada Flow berarti tidak ada aliran sama sekali (no flow).",
+      "difficulty": "EASY",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Aliran berlebih", "isCorrect": false },
+        { "text": "B. Tidak ada aliran sama sekali", "isCorrect": true },
+        { "text": "C. Aliran terbalik arah", "isCorrect": false },
+        { "text": "D. Aliran normal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide word 'MORE' menggambarkan penyimpangan berupa?",
+      "explanation": "MORE berarti peningkatan kuantitatif dari maksud desain, misalnya aliran lebih besar, tekanan lebih tinggi, atau suhu lebih panas.",
+      "difficulty": "EASY",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Peningkatan kuantitatif (lebih dari desain)", "isCorrect": true },
+        { "text": "B. Tidak ada aktivitas", "isCorrect": false },
+        { "text": "C. Arah terbalik", "isCorrect": false },
+        { "text": "D. Pengurangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide word 'LESS' menggambarkan penyimpangan berupa?",
+      "explanation": "LESS berarti penurunan kuantitatif dari maksud desain, misalnya aliran lebih kecil, tekanan lebih rendah, atau suhu lebih dingin dari yang direncanakan.",
+      "difficulty": "EASY",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Penurunan kuantitatif (kurang dari desain)", "isCorrect": true },
+        { "text": "B. Peningkatan drastis", "isCorrect": false },
+        { "text": "C. Arah berlawanan", "isCorrect": false },
+        { "text": "D. Penambahan zat lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide word 'REVERSE' pada parameter Flow berarti?",
+      "explanation": "REVERSE berarti kebalikan dari maksud desain; pada Flow berarti aliran berbalik arah (reverse flow / back flow).",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Aliran berbalik arah", "isCorrect": true },
+        { "text": "B. Aliran berhenti total", "isCorrect": false },
+        { "text": "C. Aliran bertambah besar", "isCorrect": false },
+        { "text": "D. Aliran normal stabil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide word 'AS WELL AS' menunjukkan penyimpangan berupa?",
+      "explanation": "AS WELL AS berarti maksud desain tercapai tetapi disertai hal tambahan yang tidak diinginkan, misalnya adanya kontaminan tambahan atau fasa lain dalam aliran.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Maksud desain tercapai disertai hal tambahan yang tidak diinginkan", "isCorrect": true },
+        { "text": "B. Tidak ada apa pun yang terjadi", "isCorrect": false },
+        { "text": "C. Proses berbalik arah", "isCorrect": false },
+        { "text": "D. Hanya sebagian maksud tercapai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide word 'PART OF' menggambarkan kondisi?",
+      "explanation": "PART OF berarti hanya sebagian dari maksud desain yang tercapai, misalnya komposisi campuran tidak lengkap atau hanya sebagian komponen mengalir.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Hanya sebagian maksud desain tercapai", "isCorrect": true },
+        { "text": "B. Maksud desain tercapai sepenuhnya", "isCorrect": false },
+        { "text": "C. Aliran berbalik", "isCorrect": false },
+        { "text": "D. Tidak ada aliran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide word 'OTHER THAN' berarti?",
+      "explanation": "OTHER THAN berarti terjadi sesuatu yang sama sekali berbeda dari maksud desain, misalnya zat yang salah mengalir atau aktivitas lain di luar rencana.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Terjadi sesuatu yang sama sekali berbeda dari maksud desain", "isCorrect": true },
+        { "text": "B. Maksud desain tercapai dengan sempurna", "isCorrect": false },
+        { "text": "C. Penambahan kuantitas kecil", "isCorrect": false },
+        { "text": "D. Pengurangan suhu sedikit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi guide word 'MORE' + parameter 'Pressure' menghasilkan penyimpangan?",
+      "explanation": "MORE + Pressure menghasilkan penyimpangan 'tekanan berlebih/lebih tinggi dari desain' (high pressure / overpressure).",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Tekanan lebih tinggi dari desain", "isCorrect": true },
+        { "text": "B. Tekanan lebih rendah dari desain", "isCorrect": false },
+        { "text": "C. Tidak ada tekanan", "isCorrect": false },
+        { "text": "D. Tekanan terbalik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi 'LESS' + 'Temperature' menghasilkan penyimpangan?",
+      "explanation": "LESS + Temperature menghasilkan penyimpangan 'suhu lebih rendah dari desain' (low temperature), yang dapat menyebabkan pembekuan atau reaksi tidak sempurna.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Suhu lebih rendah dari desain", "isCorrect": true },
+        { "text": "B. Suhu lebih tinggi dari desain", "isCorrect": false },
+        { "text": "C. Suhu terbalik", "isCorrect": false },
+        { "text": "D. Tidak ada suhu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah daftar guide word HAZOP yang BENAR?",
+      "explanation": "Set guide word HAZOP klasik adalah NO/NONE, MORE, LESS, AS WELL AS, PART OF, REVERSE, dan OTHER THAN.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. NO, MORE, LESS, AS WELL AS, PART OF, REVERSE, OTHER THAN", "isCorrect": true },
+        { "text": "B. BELI, JUAL, SIMPAN, BUANG", "isCorrect": false },
+        { "text": "C. MERAH, KUNING, HIJAU", "isCorrect": false },
+        { "text": "D. SENIN, SELASA, RABU", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyimpangan (deviation) dalam HAZOP didefinisikan sebagai?",
+      "explanation": "Deviation adalah penyimpangan kondisi proses dari maksud desain (design intent), yang dihasilkan dari kombinasi guide word dan parameter.",
+      "difficulty": "EASY",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Penyimpangan kondisi proses dari maksud desain", "isCorrect": true },
+        { "text": "B. Keuntungan yang hilang", "isCorrect": false },
+        { "text": "C. Jumlah pekerja yang absen", "isCorrect": false },
+        { "text": "D. Jadwal perawatan rutin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam alur analisis HAZOP, setelah menemukan deviation, langkah berikutnya adalah mengidentifikasi?",
+      "explanation": "Setelah deviation ditemukan, tim mengidentifikasi penyebab (cause) yang dapat menimbulkan penyimpangan tersebut.",
+      "difficulty": "EASY",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Penyebab (cause) penyimpangan", "isCorrect": true },
+        { "text": "B. Harga jual produk", "isCorrect": false },
+        { "text": "C. Nama pemilik pabrik", "isCorrect": false },
+        { "text": "D. Jadwal libur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud 'cause' (penyebab) dalam HAZOP?",
+      "explanation": "Cause adalah alasan/sumber yang dapat menimbulkan terjadinya penyimpangan, misalnya pompa mati, katup tertutup, atau kebocoran.",
+      "difficulty": "EASY",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Alasan/sumber yang menimbulkan penyimpangan", "isCorrect": true },
+        { "text": "B. Hasil akhir proses produksi", "isCorrect": false },
+        { "text": "C. Tindakan pengendalian", "isCorrect": false },
+        { "text": "D. Nilai keuntungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud 'consequence' (konsekuensi) dalam HAZOP?",
+      "explanation": "Consequence adalah akibat/dampak yang ditimbulkan apabila penyimpangan benar-benar terjadi, misalnya kebakaran, ledakan, atau kerusakan peralatan.",
+      "difficulty": "EASY",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Akibat/dampak bila penyimpangan terjadi", "isCorrect": true },
+        { "text": "B. Penyebab penyimpangan", "isCorrect": false },
+        { "text": "C. Nama node yang dikaji", "isCorrect": false },
+        { "text": "D. Jadwal rapat tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh penyebab (cause) untuk deviation 'NO Flow' pada jalur pipa adalah?",
+      "explanation": "No Flow dapat disebabkan oleh pompa mati, katup tertutup penuh, atau pipa tersumbat (blockage), sehingga aliran terhenti.",
+      "difficulty": "MEDIUM",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Pompa mati atau katup tertutup penuh", "isCorrect": true },
+        { "text": "B. Pekerja terlambat masuk", "isCorrect": false },
+        { "text": "C. Harga bahan baku naik", "isCorrect": false },
+        { "text": "D. Kantor tutup di hari libur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh konsekuensi (consequence) dari deviation 'MORE Pressure' pada bejana tekan adalah?",
+      "explanation": "Tekanan berlebih dapat menyebabkan bejana/pipa pecah atau meledak (overpressure rupture) jika tidak ada pengaman tekanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Bejana/pipa pecah atau meledak", "isCorrect": true },
+        { "text": "B. Pekerja mendapat bonus", "isCorrect": false },
+        { "text": "C. Produksi berhenti karena libur", "isCorrect": false },
+        { "text": "D. Warna produk berubah saja tanpa risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviation 'REVERSE Flow' pada jalur perpipaan dapat menimbulkan konsekuensi berupa?",
+      "explanation": "Aliran balik dapat menyebabkan kontaminasi silang, masuknya zat tak diinginkan ke tangki/unit hulu, atau kerusakan pompa.",
+      "difficulty": "MEDIUM",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Kontaminasi silang atau kerusakan pompa", "isCorrect": true },
+        { "text": "B. Peningkatan keuntungan", "isCorrect": false },
+        { "text": "C. Penghematan listrik kantor", "isCorrect": false },
+        { "text": "D. Tidak ada dampak sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyebab umum deviation 'MORE Temperature' pada reaktor adalah?",
+      "explanation": "Suhu berlebih dapat disebabkan kegagalan sistem pendingin, reaksi eksotermik tak terkendali (runaway reaction), atau pemanas yang terus menyala.",
+      "difficulty": "MEDIUM",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Kegagalan sistem pendingin atau reaksi eksotermik tak terkendali", "isCorrect": true },
+        { "text": "B. Pekerja mengambil cuti", "isCorrect": false },
+        { "text": "C. Harga listrik turun", "isCorrect": false },
+        { "text": "D. Penambahan jam istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Satu deviation dalam HAZOP dapat memiliki?",
+      "explanation": "Satu penyimpangan dapat memiliki beberapa penyebab sekaligus beberapa konsekuensi yang berbeda, sehingga semuanya perlu dicatat.",
+      "difficulty": "MEDIUM",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Lebih dari satu penyebab dan lebih dari satu konsekuensi", "isCorrect": true },
+        { "text": "B. Hanya satu penyebab dan tanpa konsekuensi", "isCorrect": false },
+        { "text": "C. Tidak boleh punya penyebab", "isCorrect": false },
+        { "text": "D. Selalu tepat satu penyebab dan satu konsekuensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud 'safeguard' dalam worksheet HAZOP?",
+      "explanation": "Safeguard adalah pengaman/proteksi yang sudah ada (existing) untuk mencegah penyebab atau mengurangi konsekuensi penyimpangan, misalnya alarm, interlock, atau katup pengaman.",
+      "difficulty": "EASY",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Pengaman/proteksi yang sudah ada untuk mencegah/mengurangi penyimpangan", "isCorrect": true },
+        { "text": "B. Nama supervisor proyek", "isCorrect": false },
+        { "text": "C. Jadwal pengiriman barang", "isCorrect": false },
+        { "text": "D. Daftar harga produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh safeguard untuk deviation 'MORE Pressure' adalah?",
+      "explanation": "Pressure Relief Valve (PRV/katup pelepas tekanan) atau rupture disk berfungsi melepas tekanan berlebih sebelum bejana pecah.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Pressure Relief Valve (katup pelepas tekanan)", "isCorrect": true },
+        { "text": "B. Lampu dekorasi", "isCorrect": false },
+        { "text": "C. Papan nama perusahaan", "isCorrect": false },
+        { "text": "D. Mesin absensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa fungsi 'recommendation' (rekomendasi) dalam HAZOP?",
+      "explanation": "Recommendation adalah usulan tindakan tambahan untuk mengurangi risiko bila safeguard yang ada dinilai belum memadai.",
+      "difficulty": "EASY",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Usulan tindakan tambahan untuk mengurangi risiko", "isCorrect": true },
+        { "text": "B. Catatan kehadiran rapat", "isCorrect": false },
+        { "text": "C. Nama anggota tim", "isCorrect": false },
+        { "text": "D. Lokasi kantin pabrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rekomendasi dalam HAZOP umumnya dibuat ketika?",
+      "explanation": "Rekomendasi diberikan ketika pengaman (safeguard) yang ada dinilai tidak cukup memadai untuk mengendalikan konsekuensi penyimpangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Safeguard yang ada belum memadai", "isCorrect": true },
+        { "text": "B. Semua proses sudah aman sempurna", "isCorrect": false },
+        { "text": "C. Tidak ada penyimpangan yang ditemukan", "isCorrect": false },
+        { "text": "D. Hanya untuk mempercantik laporan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh safeguard untuk deviation 'NO Flow' akibat pompa mati adalah?",
+      "explanation": "Low flow alarm atau pompa cadangan (standby pump) berfungsi memperingatkan dan menjaga aliran tetap ada saat pompa utama gagal.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Low flow alarm dan pompa cadangan (standby)", "isCorrect": true },
+        { "text": "B. Pemberian seragam baru", "isCorrect": false },
+        { "text": "C. Penambahan parkir mobil", "isCorrect": false },
+        { "text": "D. Pengecatan ulang gedung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk safeguard berupa instrumentasi proteksi?",
+      "explanation": "Interlock, alarm, dan sistem shutdown otomatis (SIS) adalah instrumentasi proteksi yang menghentikan/memperingatkan proses saat parameter menyimpang.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Interlock, alarm, dan sistem shutdown otomatis", "isCorrect": true },
+        { "text": "B. Poster motivasi kerja", "isCorrect": false },
+        { "text": "C. Brosur produk", "isCorrect": false },
+        { "text": "D. Daftar menu kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setiap rekomendasi HAZOP sebaiknya ditindaklanjuti dengan menetapkan?",
+      "explanation": "Rekomendasi sebaiknya disertai penanggung jawab (action party) dan batas waktu agar tindak lanjut dapat dipantau penyelesaiannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Penanggung jawab dan batas waktu tindak lanjut", "isCorrect": true },
+        { "text": "B. Warna stabilo laporan", "isCorrect": false },
+        { "text": "C. Lokasi penyimpanan kopi", "isCorrect": false },
+        { "text": "D. Nama merk komputer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah urutan kolom yang benar dalam worksheet HAZOP?",
+      "explanation": "Urutan kolom worksheet HAZOP umumnya: Guide Word/Parameter, Deviation, Cause, Consequence, Safeguard, dan Recommendation/Action.",
+      "difficulty": "MEDIUM",
+      "tag": "Worksheet HAZOP",
+      "options": [
+        { "text": "A. Deviation, Cause, Consequence, Safeguard, Recommendation", "isCorrect": true },
+        { "text": "B. Harga, Diskon, Pajak, Laba", "isCorrect": false },
+        { "text": "C. Nama, Alamat, Telepon, Email", "isCorrect": false },
+        { "text": "D. Tanggal, Bulan, Tahun saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Worksheet HAZOP berfungsi sebagai?",
+      "explanation": "Worksheet HAZOP adalah lembar kerja yang mendokumentasikan hasil analisis tim secara sistematis per node, deviation, hingga rekomendasi.",
+      "difficulty": "EASY",
+      "tag": "Worksheet HAZOP",
+      "options": [
+        { "text": "A. Lembar dokumentasi hasil analisis HAZOP secara sistematis", "isCorrect": true },
+        { "text": "B. Lembar pemesanan barang", "isCorrect": false },
+        { "text": "C. Daftar hadir karyawan", "isCorrect": false },
+        { "text": "D. Faktur penjualan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Informasi 'node' atau 'design intent' biasanya dicatat di bagian mana worksheet HAZOP?",
+      "explanation": "Node dan design intent dicatat di bagian atas/awal worksheet sebagai konteks sebelum kolom deviation diisi.",
+      "difficulty": "MEDIUM",
+      "tag": "Worksheet HAZOP",
+      "options": [
+        { "text": "A. Bagian awal/header tiap node sebelum kolom deviation", "isCorrect": true },
+        { "text": "B. Kolom harga produk", "isCorrect": false },
+        { "text": "C. Lampiran gaji", "isCorrect": false },
+        { "text": "D. Tidak dicatat sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada worksheet HAZOP, kolom yang mencatat pengaman yang sudah terpasang adalah?",
+      "explanation": "Kolom Safeguard (Existing Safeguard) mencatat pengaman/proteksi yang sudah ada untuk penyimpangan tersebut.",
+      "difficulty": "EASY",
+      "tag": "Worksheet HAZOP",
+      "options": [
+        { "text": "A. Kolom Safeguard", "isCorrect": true },
+        { "text": "B. Kolom Harga", "isCorrect": false },
+        { "text": "C. Kolom Tanda Tangan", "isCorrect": false },
+        { "text": "D. Kolom Tanggal Lahir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beberapa worksheet HAZOP juga memuat kolom penilaian risiko berupa?",
+      "explanation": "Banyak format HAZOP menambahkan kolom Likelihood (kemungkinan) dan Severity (keparahan) untuk memberi peringkat risiko penyimpangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Worksheet HAZOP",
+      "options": [
+        { "text": "A. Likelihood (kemungkinan) dan Severity (keparahan)", "isCorrect": true },
+        { "text": "B. Berat badan operator", "isCorrect": false },
+        { "text": "C. Jumlah cuti tahunan", "isCorrect": false },
+        { "text": "D. Merk kendaraan dinas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa dokumentasi worksheet HAZOP penting?",
+      "explanation": "Worksheet menjadi bukti dan rujukan tindak lanjut rekomendasi, audit, serta acuan saat ada modifikasi proses di masa depan.",
+      "difficulty": "MEDIUM",
+      "tag": "Worksheet HAZOP",
+      "options": [
+        { "text": "A. Sebagai bukti, rujukan tindak lanjut, dan acuan audit/modifikasi", "isCorrect": true },
+        { "text": "B. Untuk menambah jumlah halaman laporan saja", "isCorrect": false },
+        { "text": "C. Agar terlihat sibuk", "isCorrect": false },
+        { "text": "D. Tidak ada manfaatnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa yang sebaiknya memimpin pelaksanaan studi HAZOP?",
+      "explanation": "Studi HAZOP dipimpin oleh seorang facilitator/leader yang menguasai metodologi HAZOP namun idealnya tidak terlibat langsung dalam desain proses agar objektif.",
+      "difficulty": "EASY",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Facilitator/leader yang menguasai metodologi HAZOP", "isCorrect": true },
+        { "text": "B. Petugas kebersihan", "isCorrect": false },
+        { "text": "C. Pelanggan akhir", "isCorrect": false },
+        { "text": "D. Sopir perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP idealnya dilaksanakan oleh?",
+      "explanation": "HAZOP dilakukan oleh tim multidisiplin (operasi, proses, instrumentasi, mekanikal, K3) agar penyimpangan dikaji dari berbagai sudut keahlian.",
+      "difficulty": "EASY",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Tim multidisiplin dari berbagai keahlian", "isCorrect": true },
+        { "text": "B. Satu orang saja secara mandiri", "isCorrect": false },
+        { "text": "C. Hanya bagian keuangan", "isCorrect": false },
+        { "text": "D. Hanya pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peran 'scribe' atau notulen dalam tim HAZOP adalah?",
+      "explanation": "Scribe bertugas mencatat hasil diskusi tim (deviation, cause, consequence, safeguard, rekomendasi) ke dalam worksheet HAZOP.",
+      "difficulty": "MEDIUM",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Mencatat hasil diskusi ke dalam worksheet HAZOP", "isCorrect": true },
+        { "text": "B. Mengatur keuangan proyek", "isCorrect": false },
+        { "text": "C. Memasarkan produk", "isCorrect": false },
+        { "text": "D. Membersihkan ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa HAZOP memerlukan tim multidisiplin?",
+      "explanation": "Karena penyimpangan proses dapat berkaitan dengan berbagai disiplin (proses, mekanikal, instrumentasi, operasi), sehingga keahlian beragam memberi analisis lebih lengkap.",
+      "difficulty": "MEDIUM",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Agar penyimpangan dikaji dari berbagai sudut keahlian", "isCorrect": true },
+        { "text": "B. Agar rapat lebih ramai", "isCorrect": false },
+        { "text": "C. Untuk menghabiskan anggaran", "isCorrect": false },
+        { "text": "D. Agar laporan lebih tebal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Studi HAZOP paling efektif dilakukan pada tahap?",
+      "explanation": "HAZOP idealnya dilakukan pada tahap desain rinci (sebelum konstruksi/komisioning) agar rekomendasi mudah diterapkan, namun juga bisa pada plant existing/modifikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Tahap desain rinci sebelum konstruksi, atau saat modifikasi", "isCorrect": true },
+        { "text": "B. Setelah pabrik dibongkar", "isCorrect": false },
+        { "text": "C. Hanya saat liburan", "isCorrect": false },
+        { "text": "D. Tidak pernah pada tahap apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kelemahan/keterbatasan metode HAZOP adalah?",
+      "explanation": "HAZOP cenderung memakan waktu dan sumber daya, serta sangat bergantung pada keahlian dan kelengkapan informasi tim yang terlibat.",
+      "difficulty": "HARD",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Memakan waktu dan bergantung pada keahlian tim", "isCorrect": true },
+        { "text": "B. Tidak memerlukan data sama sekali", "isCorrect": false },
+        { "text": "C. Selalu memberi hasil numerik presisi", "isCorrect": false },
+        { "text": "D. Dapat dilakukan tanpa proses apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk Kelompok 1 (sektor Migas), HAZOP dapat diterapkan pada proses?",
+      "explanation": "Di sektor migas, HAZOP umum diterapkan pada proses pemisahan minyak-gas-air (separator), kompresi gas, atau jalur pipa transmisi.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan di Industri",
+      "options": [
+        { "text": "A. Proses separator dan kompresi gas", "isCorrect": true },
+        { "text": "B. Penjualan tiket bioskop", "isCorrect": false },
+        { "text": "C. Penjahitan pakaian", "isCorrect": false },
+        { "text": "D. Penataan rambut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk Kelompok 2 (sektor Pertambangan), penerapan HAZOP dapat fokus pada?",
+      "explanation": "Di pertambangan, HAZOP dapat diterapkan pada sistem ventilasi, pengolahan bijih (leaching/processing), atau penanganan slurry dan bahan kimia.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan di Industri",
+      "options": [
+        { "text": "A. Sistem ventilasi tambang dan pengolahan bijih", "isCorrect": true },
+        { "text": "B. Pemasaran kosmetik", "isCorrect": false },
+        { "text": "C. Penjualan makanan ringan", "isCorrect": false },
+        { "text": "D. Desain interior rumah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk Kelompok 3 (sektor Manufaktur), HAZOP dapat diterapkan pada?",
+      "explanation": "Di manufaktur, HAZOP dapat diterapkan pada proses dengan fluida/reaksi seperti boiler, sistem pendingin, atau jalur cairan/uap pada lini produksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan di Industri",
+      "options": [
+        { "text": "A. Sistem boiler, pendingin, atau jalur cairan/uap produksi", "isCorrect": true },
+        { "text": "B. Penjualan saham", "isCorrect": false },
+        { "text": "C. Penyiaran radio", "isCorrect": false },
+        { "text": "D. Penataan taman kota", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk Kelompok 4 (sektor Energi), HAZOP dapat diterapkan pada?",
+      "explanation": "Di sektor energi, HAZOP dapat diterapkan pada pembangkit listrik (PLTU/PLTG), sistem bahan bakar, turbin uap, dan jalur uap bertekanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan di Industri",
+      "options": [
+        { "text": "A. Pembangkit listrik dan sistem uap bertekanan", "isCorrect": true },
+        { "text": "B. Penjualan buku pelajaran", "isCorrect": false },
+        { "text": "C. Pembuatan kue kering", "isCorrect": false },
+        { "text": "D. Pencatatan absensi sekolah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan HAZOP di industri migas penting karena umumnya menangani bahan yang?",
+      "explanation": "Industri migas menangani bahan mudah terbakar dan bertekanan tinggi (flammable, high pressure), sehingga penyimpangan proses berisiko kebakaran/ledakan besar.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan di Industri",
+      "options": [
+        { "text": "A. Mudah terbakar dan bertekanan tinggi", "isCorrect": true },
+        { "text": "B. Tidak berbahaya sama sekali", "isCorrect": false },
+        { "text": "C. Selalu padat dan dingin", "isCorrect": false },
+        { "text": "D. Hanya berupa air bersih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik HAZOP, hasil analisis tiap kelompok dituangkan dalam bentuk?",
+      "explanation": "Sesuai format praktik, hasil HAZOP dituangkan dalam formulir/worksheet HAZOP yang menjadi bagian laporan praktikum.",
+      "difficulty": "EASY",
+      "tag": "Worksheet HAZOP",
+      "options": [
+        { "text": "A. Formulir/worksheet HAZOP", "isCorrect": true },
+        { "text": "B. Daftar belanja pasar", "isCorrect": false },
+        { "text": "C. Buku harian pribadi", "isCorrect": false },
+        { "text": "D. Kartu nama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi guide word 'AS WELL AS' + parameter komposisi pada sektor migas dapat berarti?",
+      "explanation": "AS WELL AS pada komposisi berarti adanya zat tambahan tak diinginkan, misalnya air atau pengotor (impurities) ikut mengalir bersama produk utama.",
+      "difficulty": "HARD",
+      "tag": "Penerapan di Industri",
+      "options": [
+        { "text": "A. Adanya zat tambahan/pengotor dalam aliran", "isCorrect": true },
+        { "text": "B. Aliran berhenti total", "isCorrect": false },
+        { "text": "C. Suhu menurun drastis", "isCorrect": false },
+        { "text": "D. Produksi naik tanpa masalah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil akhir suatu studi HAZOP yang paling penting bagi manajemen adalah?",
+      "explanation": "Hasil akhir yang paling penting adalah daftar rekomendasi tindakan (action items) untuk menurunkan risiko, beserta penanggung jawabnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Daftar rekomendasi tindakan pengendalian risiko", "isCorrect": true },
+        { "text": "B. Daftar menu makan siang", "isCorrect": false },
+        { "text": "C. Jadwal cuti bersama", "isCorrect": false },
+        { "text": "D. Daftar lagu favorit tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila pada suatu node tidak ditemukan penyimpangan yang berarti, tim HAZOP sebaiknya?",
+      "explanation": "Bila tidak ada penyimpangan berarti, tim mencatat 'tidak ada bahaya signifikan' lalu lanjut ke parameter/guide word atau node berikutnya secara sistematis.",
+      "difficulty": "MEDIUM",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Mencatatnya dan melanjutkan ke parameter/node berikutnya", "isCorrect": true },
+        { "text": "B. Menghentikan seluruh studi", "isCorrect": false },
+        { "text": "C. Mengabaikan node lain", "isCorrect": false },
+        { "text": "D. Membubarkan tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama HAZOP dengan JSA adalah?",
+      "explanation": "HAZOP berfokus pada penyimpangan parameter proses pada sistem/peralatan (process-based), sedangkan JSA menguraikan bahaya per langkah pekerjaan (task-based).",
+      "difficulty": "HARD",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. HAZOP fokus pada penyimpangan proses, JSA pada langkah pekerjaan", "isCorrect": true },
+        { "text": "B. HAZOP dan JSA sepenuhnya identik", "isCorrect": false },
+        { "text": "C. HAZOP hanya untuk kantor, JSA untuk pabrik", "isCorrect": false },
+        { "text": "D. HAZOP tidak butuh tim, JSA butuh tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi 'LESS' + 'Level' pada sebuah tangki dapat menyebabkan konsekuensi?",
+      "explanation": "Level terlalu rendah dapat menyebabkan pompa kering (running dry/cavitation) atau gangguan suplai ke unit hilir.",
+      "difficulty": "HARD",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Pompa kering (running dry) atau gangguan suplai hilir", "isCorrect": true },
+        { "text": "B. Tangki meluap", "isCorrect": false },
+        { "text": "C. Keuntungan meningkat", "isCorrect": false },
+        { "text": "D. Tidak ada dampak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi 'MORE' + 'Level' pada tangki penyimpanan dapat menyebabkan?",
+      "explanation": "Level terlalu tinggi dapat menyebabkan tangki meluap (overflow/overfill), tumpahan bahan berbahaya, dan risiko pencemaran atau kebakaran.",
+      "difficulty": "HARD",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Tangki meluap (overflow) dan tumpahan bahan", "isCorrect": true },
+        { "text": "B. Pompa kering", "isCorrect": false },
+        { "text": "C. Tangki kosong", "isCorrect": false },
+        { "text": "D. Suhu naik tanpa risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide word 'NONE' pada parameter komposisi reaksi (composition) dapat berarti?",
+      "explanation": "NONE pada komposisi/reaksi berarti komponen yang seharusnya ada tidak ada, atau reaksi yang diinginkan tidak terjadi sama sekali.",
+      "difficulty": "HARD",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Komponen/reaksi yang diinginkan tidak terjadi", "isCorrect": true },
+        { "text": "B. Reaksi berlebih", "isCorrect": false },
+        { "text": "C. Suhu naik", "isCorrect": false },
+        { "text": "D. Aliran berbalik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HAZOP, 'design intent' yang menyebut 'cairan mengalir dari tangki A ke reaktor B sebesar 100 L/menit' adalah contoh dari?",
+      "explanation": "Pernyataan tersebut adalah maksud desain (design intent) untuk node yang menggambarkan kondisi proses yang seharusnya terjadi.",
+      "difficulty": "HARD",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Maksud desain (design intent) sebuah node", "isCorrect": true },
+        { "text": "B. Rekomendasi tindakan", "isCorrect": false },
+        { "text": "C. Konsekuensi penyimpangan", "isCorrect": false },
+        { "text": "D. Daftar safeguard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa HAZOP menggunakan kata panduan yang sederhana dan terbatas jumlahnya?",
+      "explanation": "Kata panduan dibuat sederhana dan baku agar mencakup semua kemungkinan penyimpangan secara menyeluruh tanpa ada yang terlewat, dan mudah diterapkan konsisten.",
+      "difficulty": "HARD",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Agar mencakup semua kemungkinan penyimpangan secara menyeluruh dan konsisten", "isCorrect": true },
+        { "text": "B. Agar studi lebih cepat selesai tanpa hasil", "isCorrect": false },
+        { "text": "C. Karena tidak ada kata lain yang tersedia", "isCorrect": false },
+        { "text": "D. Untuk membingungkan tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika sebuah safeguard berupa 'high temperature alarm' dinilai belum cukup, rekomendasi yang sesuai adalah?",
+      "explanation": "Rekomendasi dapat berupa penambahan interlock/trip otomatis yang menghentikan pemanas saat suhu kritis, bukan sekadar alarm peringatan.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Menambah interlock/trip otomatis pemanas pada suhu kritis", "isCorrect": true },
+        { "text": "B. Menghapus alarm yang ada", "isCorrect": false },
+        { "text": "C. Mengganti warna tangki", "isCorrect": false },
+        { "text": "D. Menambah jam lembur pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang BENAR tentang hubungan guide word dan parameter?",
+      "explanation": "Setiap guide word diterapkan pada tiap parameter untuk menghasilkan deviation; satu parameter dapat menghasilkan beberapa deviation dari guide word berbeda.",
+      "difficulty": "HARD",
+      "tag": "Guide Word",
+      "options": [
+        { "text": "A. Guide word + parameter menghasilkan deviation; satu parameter bisa banyak deviation", "isCorrect": true },
+        { "text": "B. Guide word menggantikan parameter sepenuhnya", "isCorrect": false },
+        { "text": "C. Parameter tidak diperlukan dalam HAZOP", "isCorrect": false },
+        { "text": "D. Satu parameter hanya boleh satu guide word", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviation 'OTHER THAN' pada sebuah operasi batch dapat berupa?",
+      "explanation": "OTHER THAN pada batch dapat berarti urutan operasi yang salah, bahan yang keliru dimasukkan, atau aktivitas berbeda dari prosedur yang dirancang.",
+      "difficulty": "HARD",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Urutan operasi salah atau bahan keliru dimasukkan", "isCorrect": true },
+        { "text": "B. Proses berjalan sempurna sesuai rencana", "isCorrect": false },
+        { "text": "C. Tekanan naik sedikit", "isCorrect": false },
+        { "text": "D. Suhu tetap stabil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Output HAZOP yang berupa 'belum perlu tindakan tambahan karena safeguard memadai' menunjukkan bahwa?",
+      "explanation": "Hal itu berarti risiko penyimpangan sudah terkendali oleh pengaman yang ada, sehingga tidak diperlukan rekomendasi baru pada baris tersebut.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Risiko sudah terkendali oleh safeguard yang ada", "isCorrect": true },
+        { "text": "B. Studi HAZOP gagal", "isCorrect": false },
+        { "text": "C. Node harus dibongkar", "isCorrect": false },
+        { "text": "D. Tim tidak bekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa keunggulan HAZOP dibanding metode identifikasi bahaya yang tidak terstruktur?",
+      "explanation": "Keunggulan HAZOP adalah sistematis dan menyeluruh, sehingga kecil kemungkinan ada penyimpangan/bahaya yang terlewat dibanding metode acak.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Sistematis dan menyeluruh sehingga bahaya tidak mudah terlewat", "isCorrect": true },
+        { "text": "B. Lebih murah karena tanpa dokumen", "isCorrect": false },
+        { "text": "C. Tidak memerlukan tim", "isCorrect": false },
+        { "text": "D. Selalu menghasilkan angka pasti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada sektor energi (PLTU), deviation 'MORE Pressure' pada drum boiler dapat menyebabkan?",
+      "explanation": "Tekanan berlebih pada drum boiler berisiko ledakan boiler (boiler explosion) yang sangat berbahaya jika katup pengaman gagal.",
+      "difficulty": "HARD",
+      "tag": "Penerapan di Industri",
+      "options": [
+        { "text": "A. Ledakan boiler bila katup pengaman gagal", "isCorrect": true },
+        { "text": "B. Boiler menjadi lebih hemat", "isCorrect": false },
+        { "text": "C. Uap berhenti tanpa risiko", "isCorrect": false },
+        { "text": "D. Produksi listrik naik tanpa bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan urutan logis analisis pada satu baris worksheet HAZOP?",
+      "explanation": "Urutan logisnya: pilih parameter dan guide word menghasilkan deviation, lalu cari cause, tentukan consequence, identifikasi safeguard, dan buat recommendation.",
+      "difficulty": "MEDIUM",
+      "tag": "Worksheet HAZOP",
+      "options": [
+        { "text": "A. Deviation -> Cause -> Consequence -> Safeguard -> Recommendation", "isCorrect": true },
+        { "text": "B. Recommendation -> Safeguard -> Deviation -> Cause", "isCorrect": false },
+        { "text": "C. Consequence -> Recommendation -> Deviation -> Cause", "isCorrect": false },
+        { "text": "D. Safeguard -> Deviation -> Recommendation -> Cause", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud 'runaway reaction' yang sering jadi konsekuensi deviation suhu di HAZOP?",
+      "explanation": "Runaway reaction adalah reaksi eksotermik yang tak terkendali di mana kenaikan suhu mempercepat reaksi lebih lanjut, berisiko ledakan; menjadi konsekuensi MORE Temperature.",
+      "difficulty": "HARD",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Reaksi eksotermik tak terkendali yang berisiko ledakan", "isCorrect": true },
+        { "text": "B. Reaksi yang berhenti total dengan aman", "isCorrect": false },
+        { "text": "C. Reaksi yang menghemat energi", "isCorrect": false },
+        { "text": "D. Reaksi yang menambah keuntungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik HAZOP, laporan praktikum dikumpulkan dengan ketentuan?",
+      "explanation": "Sesuai ketentuan praktik, laporan ditulis tangan maksimal 2 halaman berisi judul, tujuan, hasil formulir HAZOP, kesimpulan dan saran.",
+      "difficulty": "EASY",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Ditulis tangan maksimal 2 halaman dengan format judul, tujuan, hasil HAZOP, kesimpulan", "isCorrect": true },
+        { "text": "B. Diketik minimal 50 halaman", "isCorrect": false },
+        { "text": "C. Tidak perlu dikumpulkan", "isCorrect": false },
+        { "text": "D. Hanya berupa video", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa P&ID dianggap dokumen kunci dalam HAZOP?",
+      "explanation": "P&ID menampilkan susunan pipa, peralatan, katup, dan instrumentasi secara rinci, sehingga tim dapat memilih node dan menelusuri aliran serta safeguard yang ada.",
+      "difficulty": "HARD",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Menampilkan susunan pipa, peralatan, dan instrumentasi secara rinci", "isCorrect": true },
+        { "text": "B. Berisi daftar gaji karyawan", "isCorrect": false },
+        { "text": "C. Memuat strategi pemasaran", "isCorrect": false },
+        { "text": "D. Hanya berisi logo perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep 'operability problem' yang dicari HAZOP misalnya?",
+      "explanation": "Operability problem adalah masalah yang mengganggu kelancaran operasi meski tak selalu berbahaya, contohnya proses sering trip, sulit di-start-up, atau menurunkan kualitas produk.",
+      "difficulty": "HARD",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Proses sering trip atau sulit di-start-up sehingga mengganggu operasi", "isCorrect": true },
+        { "text": "B. Kenaikan harga saham", "isCorrect": false },
+        { "text": "C. Penambahan pelanggan baru", "isCorrect": false },
+        { "text": "D. Perubahan warna logo", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HAZOP, jika deviation memiliki konsekuensi ringan dan safeguard kuat, maka prioritas tindak lanjutnya?",
+      "explanation": "Konsekuensi ringan dengan safeguard kuat berarti risiko rendah, sehingga prioritas tindak lanjutnya rendah atau cukup dipantau saja.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Rendah/cukup dipantau", "isCorrect": true },
+        { "text": "B. Sangat tinggi dan mendesak", "isCorrect": false },
+        { "text": "C. Harus menghentikan pabrik", "isCorrect": false },
+        { "text": "D. Tidak boleh dicatat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemilihan node dalam HAZOP biasanya dilakukan dengan mengikuti?",
+      "explanation": "Node dipilih dengan menelusuri alur proses (mengikuti aliran fluida) dari satu peralatan ke peralatan berikutnya secara berurutan di P&ID.",
+      "difficulty": "MEDIUM",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Menelusuri alur proses dari peralatan ke peralatan secara berurutan", "isCorrect": true },
+        { "text": "B. Mengundi secara acak", "isCorrect": false },
+        { "text": "C. Mengikuti abjad nama pekerja", "isCorrect": false },
+        { "text": "D. Berdasarkan harga peralatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan antara HAZOP dan studi LOPA (Layer of Protection Analysis) adalah?",
+      "explanation": "LOPA sering menjadi tindak lanjut HAZOP untuk skenario berisiko tinggi, menilai kecukupan lapisan proteksi secara semi-kuantitatif.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. LOPA dapat menjadi tindak lanjut HAZOP untuk menilai kecukupan lapisan proteksi", "isCorrect": true },
+        { "text": "B. LOPA menggantikan kebutuhan identifikasi bahaya", "isCorrect": false },
+        { "text": "C. LOPA tidak ada hubungannya dengan risiko", "isCorrect": false },
+        { "text": "D. LOPA hanya untuk pemasaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada deviation 'PART OF Composition' di proses pencampuran, konsekuensi yang mungkin adalah?",
+      "explanation": "PART OF composition berarti campuran tidak lengkap, sehingga produk tidak sesuai spesifikasi (off-spec) atau reaksi tidak sempurna.",
+      "difficulty": "HARD",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Produk tidak sesuai spesifikasi (off-spec)", "isCorrect": true },
+        { "text": "B. Produk menjadi lebih murni sempurna", "isCorrect": false },
+        { "text": "C. Tekanan meledak", "isCorrect": false },
+        { "text": "D. Aliran berbalik arah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu safeguard administratif yang dapat dicatat dalam HAZOP adalah?",
+      "explanation": "Safeguard administratif misalnya prosedur operasi standar (SOP), pelatihan operator, dan inspeksi rutin; bersifat melengkapi proteksi rekayasa.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. SOP, pelatihan operator, dan inspeksi rutin", "isCorrect": true },
+        { "text": "B. Pengecatan logo perusahaan", "isCorrect": false },
+        { "text": "C. Pembagian seragam baru", "isCorrect": false },
+        { "text": "D. Pemasangan AC ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP termasuk salah satu metode dalam keluarga teknik?",
+      "explanation": "HAZOP termasuk teknik PHA (Process Hazard Analysis), yaitu kumpulan metode untuk menganalisis bahaya proses, bersama What-If, FMEA, dan Checklist.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. PHA (Process Hazard Analysis)", "isCorrect": true },
+        { "text": "B. Analisis laporan keuangan", "isCorrect": false },
+        { "text": "C. Riset pemasaran", "isCorrect": false },
+        { "text": "D. Manajemen sumber daya manusia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk memastikan rekomendasi HAZOP benar-benar dilaksanakan, perlu ada mekanisme?",
+      "explanation": "Diperlukan mekanisme follow-up/tracking (pelacakan tindak lanjut) untuk memantau status penyelesaian setiap rekomendasi sampai selesai (close-out).",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Mekanisme pelacakan tindak lanjut (follow-up/close-out)", "isCorrect": true },
+        { "text": "B. Penghapusan seluruh rekomendasi", "isCorrect": false },
+        { "text": "C. Penyimpanan laporan tanpa dibaca", "isCorrect": false },
+        { "text": "D. Pemberian bonus tanpa syarat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan deviation-konsekuensi yang TEPAT?",
+      "explanation": "MORE Flow yang melebihi kapasitas dapat menyebabkan banjir/overload pada unit hilir; ini pasangan deviation-konsekuensi yang tepat.",
+      "difficulty": "HARD",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. MORE Flow -> overload/banjir pada unit hilir", "isCorrect": true },
+        { "text": "B. NO Flow -> tangki meluap", "isCorrect": false },
+        { "text": "C. LESS Pressure -> ledakan bejana", "isCorrect": false },
+        { "text": "D. REVERSE Flow -> suhu naik drastis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan praktik HAZOP berkelompok per sektor industri adalah agar mahasiswa mampu?",
+      "explanation": "Tujuannya agar mahasiswa mampu menerapkan analisis dan pengendalian risiko menggunakan HAZOP pada proses bisnis industri nyata di sektor masing-masing.",
+      "difficulty": "EASY",
+      "tag": "Penerapan di Industri",
+      "options": [
+        { "text": "A. Menerapkan analisis dan pengendalian risiko HAZOP pada proses industri", "isCorrect": true },
+        { "text": "B. Menghafal harga produk", "isCorrect": false },
+        { "text": "C. Membuat iklan produk", "isCorrect": false },
+        { "text": "D. Menyusun laporan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HAZOP, istilah 'consequence' yang dinilai dapat berupa dampak terhadap?",
+      "explanation": "Konsekuensi dapat berupa dampak terhadap keselamatan manusia, lingkungan, aset/peralatan, maupun kelangsungan operasi (produksi).",
+      "difficulty": "MEDIUM",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Keselamatan, lingkungan, aset, dan operasi", "isCorrect": true },
+        { "text": "B. Hanya warna cat dinding", "isCorrect": false },
+        { "text": "C. Hanya jumlah pengunjung", "isCorrect": false },
+        { "text": "D. Hanya harga saham", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila ditemukan konsekuensi serius tetapi sama sekali tidak ada safeguard, maka HAZOP wajib?",
+      "explanation": "Konsekuensi serius tanpa safeguard adalah temuan prioritas tinggi, sehingga wajib dibuat rekomendasi pengendalian segera.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Recommendation",
+      "options": [
+        { "text": "A. Membuat rekomendasi pengendalian prioritas tinggi", "isCorrect": true },
+        { "text": "B. Mengabaikan temuan tersebut", "isCorrect": false },
+        { "text": "C. Menutup studi tanpa catatan", "isCorrect": false },
+        { "text": "D. Menambah jam istirahat tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan parameter proses yang biasa dikaji HAZOP?",
+      "explanation": "Flow, pressure, dan temperature adalah parameter proses; 'nama operator' bukan parameter proses melainkan data personil.",
+      "difficulty": "MEDIUM",
+      "tag": "Node & Parameter Proses",
+      "options": [
+        { "text": "A. Nama operator", "isCorrect": true },
+        { "text": "B. Flow (aliran)", "isCorrect": false },
+        { "text": "C. Pressure (tekanan)", "isCorrect": false },
+        { "text": "D. Temperature (suhu)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip kerja tim HAZOP saat membahas tiap deviation adalah?",
+      "explanation": "Tim bekerja melalui diskusi terbuka dan brainstorming terstruktur dipandu fasilitator, mempertimbangkan semua kemungkinan cause dan consequence.",
+      "difficulty": "MEDIUM",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Diskusi terbuka dan brainstorming terstruktur dipandu fasilitator", "isCorrect": true },
+        { "text": "B. Keputusan sepihak oleh satu orang", "isCorrect": false },
+        { "text": "C. Tanpa diskusi sama sekali", "isCorrect": false },
+        { "text": "D. Berdasarkan undian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa HAZOP sebaiknya diulang ketika ada modifikasi proses (management of change)?",
+      "explanation": "Modifikasi dapat memunculkan penyimpangan dan bahaya baru, sehingga HAZOP perlu ditinjau ulang agar pengendalian tetap memadai (management of change).",
+      "difficulty": "HARD",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Modifikasi dapat memunculkan penyimpangan/bahaya baru", "isCorrect": true },
+        { "text": "B. Untuk menghabiskan waktu kerja", "isCorrect": false },
+        { "text": "C. Karena laporan lama hilang", "isCorrect": false },
+        { "text": "D. Tidak ada alasan teknis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviation 'NO Flow' yang dibiarkan tanpa pengendalian pada jalur umpan reaktor dapat menyebabkan?",
+      "explanation": "Tanpa umpan, reaktor dapat mengalami gangguan reaksi, akumulasi panas, atau kerusakan; pada pompa dapat terjadi kerusakan akibat dead-head.",
+      "difficulty": "HARD",
+      "tag": "Deviation, Cause & Consequence",
+      "options": [
+        { "text": "A. Gangguan reaksi pada reaktor dan/atau kerusakan pompa", "isCorrect": true },
+        { "text": "B. Peningkatan kualitas produk", "isCorrect": false },
+        { "text": "C. Penghematan bahan baku tanpa risiko", "isCorrect": false },
+        { "text": "D. Tidak ada dampak apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa peran 'leader/facilitator' yang membedakannya dari anggota tim teknis HAZOP?",
+      "explanation": "Leader mengarahkan jalannya studi, memastikan semua guide word/parameter dibahas, dan menjaga objektivitas; ia ahli metode bukan harus ahli desain proses.",
+      "difficulty": "HARD",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Mengarahkan studi dan memastikan metode dijalankan menyeluruh dan objektif", "isCorrect": true },
+        { "text": "B. Hanya mencatat absensi", "isCorrect": false },
+        { "text": "C. Menentukan harga produk", "isCorrect": false },
+        { "text": "D. Mengelola gudang barang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada sektor pertambangan, deviation 'AS WELL AS' pada ventilasi tambang dapat berarti adanya?",
+      "explanation": "AS WELL AS pada udara ventilasi dapat berarti masuknya gas berbahaya tambahan (misalnya metana/CH4 atau CO) bersama udara, berisiko ledakan/keracunan.",
+      "difficulty": "HARD",
+      "tag": "Penerapan di Industri",
+      "options": [
+        { "text": "A. Gas berbahaya tambahan seperti metana atau CO dalam aliran udara", "isCorrect": true },
+        { "text": "B. Udara menjadi lebih bersih", "isCorrect": false },
+        { "text": "C. Ventilasi berhenti total", "isCorrect": false },
+        { "text": "D. Tidak ada perubahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelengkapan analisis HAZOP sangat bergantung pada?",
+      "explanation": "Kelengkapan HAZOP bergantung pada kualitas dan kelengkapan informasi/dokumen proses (P&ID, data desain) serta pengalaman tim.",
+      "difficulty": "MEDIUM",
+      "tag": "Tim & Pelaksanaan Studi",
+      "options": [
+        { "text": "A. Kelengkapan dokumen proses dan pengalaman tim", "isCorrect": true },
+        { "text": "B. Jumlah snack saat rapat", "isCorrect": false },
+        { "text": "C. Warna ruang rapat", "isCorrect": false },
+        { "text": "D. Merk proyektor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah seluruh node selesai dikaji, hasil HAZOP dirangkum menjadi?",
+      "explanation": "Hasil seluruh node dirangkum menjadi laporan HAZOP yang memuat worksheet, daftar rekomendasi/action items, dan ringkasan temuan.",
+      "difficulty": "EASY",
+      "tag": "Worksheet HAZOP",
+      "options": [
+        { "text": "A. Laporan HAZOP berisi worksheet dan daftar rekomendasi", "isCorrect": true },
+        { "text": "B. Brosur penjualan", "isCorrect": false },
+        { "text": "C. Daftar belanja", "isCorrect": false },
+        { "text": "D. Jadwal piket harian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan paling tepat tentang HAZOP secara keseluruhan?",
+      "explanation": "HAZOP adalah kajian terstruktur berbasis tim yang menggunakan guide word dan parameter untuk menemukan penyimpangan, lalu menilai cause, consequence, safeguard, dan rekomendasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan HAZOP",
+      "options": [
+        { "text": "A. Kajian terstruktur berbasis tim yang mengkaji penyimpangan proses dan pengendaliannya", "isCorrect": true },
+        { "text": "B. Metode pemasaran produk industri", "isCorrect": false },
+        { "text": "C. Teknik perhitungan laba rugi", "isCorrect": false },
+        { "text": "D. Cara merekrut karyawan baru", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "HAZOP", "back": "Hazard and Operability Study — metode identifikasi bahaya terstruktur yang mengkaji penyimpangan parameter proses dari maksud desain menggunakan guide word.", "tag": "Pengertian & Tujuan HAZOP" },
+    { "front": "Tujuan HAZOP", "back": "Mengidentifikasi potensi bahaya (hazard) dan masalah keteroperasian (operability) akibat penyimpangan proses, lalu menyusun rekomendasi pengendalian.", "tag": "Pengertian & Tujuan HAZOP" },
+    { "front": "Node (study node)", "back": "Bagian/segmen proses yang dipilih untuk dianalisis penyimpangannya, biasanya berdasarkan P&ID.", "tag": "Node & Parameter Proses" },
+    { "front": "Design intent", "back": "Maksud/kondisi proses yang seharusnya terjadi pada suatu node; menjadi acuan untuk menilai penyimpangan.", "tag": "Node & Parameter Proses" },
+    { "front": "Parameter proses", "back": "Besaran yang dikaji dalam HAZOP, contohnya flow (aliran), pressure (tekanan), temperature (suhu), level, dan composition (komposisi).", "tag": "Node & Parameter Proses" },
+    { "front": "Guide word", "back": "Kata panduan baku (NO, MORE, LESS, AS WELL AS, PART OF, REVERSE, OTHER THAN) yang dikombinasikan dengan parameter untuk membangkitkan penyimpangan.", "tag": "Guide Word" },
+    { "front": "Guide word NO/NONE", "back": "Maksud desain tidak tercapai sama sekali, misalnya 'no flow' = tidak ada aliran.", "tag": "Guide Word" },
+    { "front": "Guide word MORE", "back": "Peningkatan kuantitatif dari desain, misalnya tekanan/suhu/aliran lebih tinggi dari yang dirancang.", "tag": "Guide Word" },
+    { "front": "Guide word LESS", "back": "Penurunan kuantitatif dari desain, misalnya aliran/tekanan/suhu lebih rendah dari yang dirancang.", "tag": "Guide Word" },
+    { "front": "Guide word REVERSE", "back": "Kebalikan dari maksud desain, misalnya aliran berbalik arah (reverse/back flow).", "tag": "Guide Word" },
+    { "front": "Guide word AS WELL AS", "back": "Maksud desain tercapai disertai hal tambahan tak diinginkan, misalnya kontaminan ikut mengalir.", "tag": "Guide Word" },
+    { "front": "Guide word PART OF", "back": "Hanya sebagian maksud desain tercapai, misalnya komposisi campuran tidak lengkap.", "tag": "Guide Word" },
+    { "front": "Guide word OTHER THAN", "back": "Terjadi sesuatu yang sama sekali berbeda dari maksud desain, misalnya zat salah atau urutan operasi keliru.", "tag": "Guide Word" },
+    { "front": "Deviation", "back": "Penyimpangan kondisi proses dari maksud desain, dihasilkan dari kombinasi guide word + parameter.", "tag": "Deviation, Cause & Consequence" },
+    { "front": "Cause", "back": "Penyebab/sumber yang dapat menimbulkan penyimpangan, misalnya pompa mati, katup tertutup, atau kebocoran.", "tag": "Deviation, Cause & Consequence" },
+    { "front": "Consequence", "back": "Akibat/dampak bila penyimpangan terjadi, misalnya kebakaran, ledakan, kerusakan peralatan, atau pencemaran.", "tag": "Deviation, Cause & Consequence" },
+    { "front": "Safeguard", "back": "Pengaman/proteksi yang sudah ada untuk mencegah penyebab atau mengurangi konsekuensi, misalnya alarm, interlock, atau relief valve.", "tag": "Safeguard & Recommendation" },
+    { "front": "Recommendation", "back": "Usulan tindakan tambahan ketika safeguard yang ada dinilai belum memadai untuk mengendalikan risiko.", "tag": "Safeguard & Recommendation" },
+    { "front": "Worksheet HAZOP", "back": "Lembar kerja yang mendokumentasikan node, deviation, cause, consequence, safeguard, dan recommendation secara sistematis.", "tag": "Worksheet HAZOP" },
+    { "front": "Tim HAZOP", "back": "Tim multidisiplin yang dipimpin facilitator/leader dan dibantu scribe (notulen), mencakup ahli proses, instrumentasi, mekanikal, operasi, dan K3.", "tag": "Tim & Pelaksanaan Studi" },
+    { "front": "P&ID", "back": "Piping and Instrumentation Diagram — dokumen utama HAZOP yang menampilkan pipa, peralatan, katup, dan instrumentasi proses.", "tag": "Node & Parameter Proses" },
+    { "front": "Penerapan HAZOP", "back": "Cocok untuk proses dengan aliran fluida pada pipa/peralatan di sektor migas, pertambangan, manufaktur, dan energi.", "tag": "Penerapan di Industri" }
+  ],
+  "mindmap": [
+    { "id": "root", "label": "HAZOP", "color": "#6366f1", "parent": null, "content": "Hazard and Operability Study: metode identifikasi bahaya terstruktur berbasis tim yang mengkaji penyimpangan parameter proses dari maksud desain menggunakan guide word, lalu menentukan pengendaliannya." },
+    { "id": "pengertian", "label": "Pengertian & Tujuan", "color": "#8b5cf6", "parent": "root", "content": "Dasar dan maksud dilakukannya studi HAZOP pada proses industri." },
+    { "id": "peng-definisi", "label": "Definisi", "color": "#8b5cf6", "parent": "pengertian", "content": "HAZOP = Hazard and Operability Study, kajian kualitatif terstruktur yang dikembangkan ICI di industri kimia." },
+    { "id": "peng-tujuan", "label": "Tujuan", "color": "#8b5cf6", "parent": "pengertian", "content": "Mengidentifikasi bahaya (hazard) dan masalah keteroperasian (operability) akibat penyimpangan proses, serta menyusun rekomendasi." },
+    { "id": "peng-pha", "label": "Bagian dari PHA", "color": "#8b5cf6", "parent": "pengertian", "content": "HAZOP termasuk keluarga Process Hazard Analysis bersama What-If, FMEA, dan Checklist." },
+    { "id": "tim", "label": "Tim & Pelaksanaan", "color": "#0ea5e9", "parent": "root", "content": "Pihak yang terlibat dan cara studi HAZOP dijalankan." },
+    { "id": "tim-leader", "label": "Facilitator/Leader", "color": "#0ea5e9", "parent": "tim", "content": "Memimpin studi, memastikan semua guide word/parameter dibahas, dan menjaga objektivitas; ahli metode HAZOP." },
+    { "id": "tim-scribe", "label": "Scribe", "color": "#0ea5e9", "parent": "tim", "content": "Notulen yang mencatat hasil diskusi tim ke dalam worksheet HAZOP." },
+    { "id": "tim-multi", "label": "Tim Multidisiplin", "color": "#0ea5e9", "parent": "tim", "content": "Terdiri dari ahli proses, mekanikal, instrumentasi, operasi, dan K3 agar penyimpangan dikaji menyeluruh." },
+    { "id": "tim-moc", "label": "Management of Change", "color": "#0ea5e9", "parent": "tim", "content": "HAZOP perlu diulang saat ada modifikasi proses karena dapat memunculkan bahaya baru." },
+    { "id": "node", "label": "Node & Parameter", "color": "#10b981", "parent": "root", "content": "Pembagian proses menjadi segmen analisis dan besaran yang dikaji." },
+    { "id": "node-pid", "label": "P&ID", "color": "#10b981", "parent": "node", "content": "Piping and Instrumentation Diagram, dokumen utama yang menjadi basis pemilihan node." },
+    { "id": "node-studynode", "label": "Study Node", "color": "#10b981", "parent": "node", "content": "Segmen proses (mis. pipa antar dua peralatan) yang dipilih untuk dianalisis penyimpangannya." },
+    { "id": "node-intent", "label": "Design Intent", "color": "#10b981", "parent": "node", "content": "Kondisi proses yang seharusnya pada node, menjadi acuan menilai penyimpangan." },
+    { "id": "node-param", "label": "Parameter Proses", "color": "#10b981", "parent": "node", "content": "Besaran yang dikaji: flow, pressure, temperature, level, composition, dan reaksi." },
+    { "id": "guideword", "label": "Guide Word", "color": "#f59e0b", "parent": "root", "content": "Kata panduan baku yang dikombinasikan dengan parameter untuk membangkitkan penyimpangan." },
+    { "id": "gw-no", "label": "NO / NONE", "color": "#f59e0b", "parent": "guideword", "content": "Maksud desain tidak tercapai sama sekali, mis. no flow (tidak ada aliran)." },
+    { "id": "gw-more", "label": "MORE", "color": "#f59e0b", "parent": "guideword", "content": "Peningkatan kuantitatif: tekanan/suhu/aliran lebih tinggi dari desain." },
+    { "id": "gw-less", "label": "LESS", "color": "#f59e0b", "parent": "guideword", "content": "Penurunan kuantitatif: tekanan/suhu/aliran lebih rendah dari desain." },
+    { "id": "gw-aswellas", "label": "AS WELL AS", "color": "#f59e0b", "parent": "guideword", "content": "Maksud tercapai disertai hal tambahan tak diinginkan, mis. kontaminan ikut mengalir." },
+    { "id": "gw-partof", "label": "PART OF", "color": "#f59e0b", "parent": "guideword", "content": "Hanya sebagian maksud desain tercapai, mis. komposisi tidak lengkap." },
+    { "id": "gw-reverse", "label": "REVERSE", "color": "#f59e0b", "parent": "guideword", "content": "Kebalikan dari maksud desain, mis. aliran berbalik arah (back flow)." },
+    { "id": "gw-otherthan", "label": "OTHER THAN", "color": "#f59e0b", "parent": "guideword", "content": "Terjadi sesuatu yang sama sekali berbeda, mis. zat salah atau urutan operasi keliru." },
+    { "id": "analisis", "label": "Deviation, Cause & Consequence", "color": "#ef4444", "parent": "root", "content": "Inti analisis: penyimpangan, penyebab, dan dampaknya." },
+    { "id": "an-deviation", "label": "Deviation", "color": "#ef4444", "parent": "analisis", "content": "Penyimpangan kondisi proses dari maksud desain, hasil kombinasi guide word + parameter." },
+    { "id": "an-cause", "label": "Cause", "color": "#ef4444", "parent": "analisis", "content": "Penyebab penyimpangan, mis. pompa mati, katup tertutup, kebocoran, kegagalan pendingin." },
+    { "id": "an-consequence", "label": "Consequence", "color": "#ef4444", "parent": "analisis", "content": "Dampak bila penyimpangan terjadi terhadap keselamatan, lingkungan, aset, dan operasi." },
+    { "id": "an-contoh", "label": "Contoh Skenario", "color": "#ef4444", "parent": "analisis", "content": "MORE Pressure -> bejana pecah; NO Flow -> reaksi terganggu/pompa rusak; REVERSE Flow -> kontaminasi silang." },
+    { "id": "kendali", "label": "Safeguard & Recommendation", "color": "#ec4899", "parent": "root", "content": "Pengaman yang ada dan usulan tindakan pengendalian." },
+    { "id": "k-safeguard", "label": "Safeguard", "color": "#ec4899", "parent": "kendali", "content": "Proteksi yang sudah ada: alarm, interlock, relief valve, pompa cadangan, SOP, pelatihan." },
+    { "id": "k-recommendation", "label": "Recommendation", "color": "#ec4899", "parent": "kendali", "content": "Usulan tindakan tambahan saat safeguard belum memadai, disertai penanggung jawab dan batas waktu." },
+    { "id": "k-followup", "label": "Tindak Lanjut", "color": "#ec4899", "parent": "kendali", "content": "Pelacakan close-out rekomendasi; LOPA dapat menjadi tindak lanjut untuk skenario berisiko tinggi." },
+    { "id": "worksheet", "label": "Worksheet HAZOP", "color": "#14b8a6", "parent": "root", "content": "Lembar dokumentasi hasil analisis HAZOP secara sistematis per node." },
+    { "id": "ws-kolom", "label": "Kolom Worksheet", "color": "#14b8a6", "parent": "worksheet", "content": "Urutan kolom: Deviation, Cause, Consequence, Safeguard, Recommendation." },
+    { "id": "ws-risiko", "label": "Penilaian Risiko", "color": "#14b8a6", "parent": "worksheet", "content": "Sebagian format menambahkan kolom Likelihood dan Severity untuk memberi peringkat risiko." },
+    { "id": "ws-laporan", "label": "Laporan HAZOP", "color": "#14b8a6", "parent": "worksheet", "content": "Rangkuman seluruh node berisi worksheet, daftar rekomendasi/action items, dan ringkasan temuan." },
+    { "id": "industri", "label": "Penerapan di Industri", "color": "#8b5cf6", "parent": "root", "content": "Penerapan HAZOP pada berbagai sektor proses industri." },
+    { "id": "ind-migas", "label": "Migas", "color": "#8b5cf6", "parent": "industri", "content": "Separator, kompresi gas, pipa transmisi; bahan mudah terbakar dan bertekanan tinggi." },
+    { "id": "ind-tambang", "label": "Pertambangan", "color": "#8b5cf6", "parent": "industri", "content": "Ventilasi tambang, pengolahan bijih, penanganan slurry dan gas berbahaya." },
+    { "id": "ind-manufaktur", "label": "Manufaktur", "color": "#8b5cf6", "parent": "industri", "content": "Boiler, sistem pendingin, dan jalur cairan/uap pada lini produksi." },
+    { "id": "ind-energi", "label": "Energi", "color": "#8b5cf6", "parent": "industri", "content": "Pembangkit listrik (PLTU/PLTG), turbin uap, dan sistem uap bertekanan." }
+  ]
+}

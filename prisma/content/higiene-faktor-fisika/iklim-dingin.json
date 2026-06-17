@@ -1,0 +1,3138 @@
+{
+  "topic": "Iklim Kerja Dingin",
+  "order": 6,
+  "description": "Bahaya stres dingin (cold stress) di tempat kerja, mekanisme kehilangan panas tubuh, gangguan kesehatan akibat dingin, serta cara penilaian dan pengendaliannya.",
+  "subtopics": [
+    "Termoregulasi & Kehilangan Panas",
+    "Hipotermia",
+    "Cedera Dingin Lokal",
+    "Wind Chill",
+    "ACGIH Cold Stress",
+    "Pakaian & APD Dingin",
+    "Work-Warming Regimen",
+    "Pengukuran",
+    "Pengendalian"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan cold stress (stres dingin)?",
+      "explanation": "Cold stress terjadi saat tubuh tidak mampu menjaga suhu inti tetap normal akibat paparan suhu rendah, terutama bila disertai angin, kelembaban, atau pakaian yang tidak memadai.",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Kondisi tubuh kepanasan karena beban kerja tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kondisi saat tubuh tidak mampu menjaga suhu inti normal akibat paparan dingin",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Penyakit kulit akibat sinar matahari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gangguan pendengaran akibat suhu rendah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor lingkungan apa yang memperparah cold stress selain suhu rendah?",
+      "explanation": "Angin dan kelembaban (basah) serta pakaian kerja yang tidak memadai memperparah cold stress karena mempercepat kehilangan panas tubuh.",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Angin dan kelembaban",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Cahaya terang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kebisingan tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tekanan udara tinggi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berapa suhu inti tubuh normal manusia?",
+      "explanation": "Suhu inti tubuh normal manusia berkisar sekitar 37°C. Termoregulasi menjaga suhu ini relatif stabil.",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Sekitar 30°C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sekitar 37°C",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sekitar 42°C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sekitar 25°C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN mekanisme kehilangan panas tubuh?",
+      "explanation": "Empat mekanisme kehilangan panas adalah konduksi, konveksi, radiasi, dan evaporasi. Filtrasi bukan mekanisme perpindahan panas.",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Konduksi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Konveksi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Filtrasi",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Radiasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kehilangan panas tubuh akibat kontak langsung dengan permukaan/benda dingin disebut?",
+      "explanation": "Konduksi adalah perpindahan panas melalui kontak langsung antara tubuh dengan benda/permukaan yang lebih dingin, misalnya duduk di logam dingin atau memegang alat dingin.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Radiasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Konveksi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Konduksi",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Evaporasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mekanisme kehilangan panas akibat angin yang membawa udara hangat dari permukaan kulit disebut?",
+      "explanation": "Konveksi adalah perpindahan panas oleh aliran udara/fluida. Angin menyapu lapisan udara hangat di dekat kulit sehingga mempercepat kehilangan panas (dasar efek wind chill).",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Konveksi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Konduksi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Radiasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Evaporasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mekanisme kehilangan panas tubuh melalui pancaran gelombang inframerah ke lingkungan yang lebih dingin disebut?",
+      "explanation": "Radiasi adalah pemindahan panas berupa gelombang elektromagnetik (inframerah) dari tubuh ke benda/lingkungan sekitar yang lebih dingin tanpa kontak langsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Konduksi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Radiasi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Konveksi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Evaporasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa pakaian basah berbahaya pada lingkungan dingin?",
+      "explanation": "Pakaian basah mempercepat kehilangan panas melalui evaporasi dan konduksi; air menghantarkan panas jauh lebih cepat daripada udara, sehingga tubuh cepat kedinginan.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Karena menambah berat saja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena air menghantarkan panas lebih cepat sehingga mempercepat kehilangan panas",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena membuat kulit lebih tahan dingin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena memantulkan radiasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Respons tubuh berupa kontraksi otot ritmis untuk menghasilkan panas saat kedinginan disebut?",
+      "explanation": "Menggigil (shivering) adalah kontraksi otot involunter yang meningkatkan produksi panas metabolik sebagai respons termoregulasi terhadap dingin.",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Vasodilatasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menggigil (shivering)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Berkeringat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hiperventilasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyempitan pembuluh darah perifer (vasokonstriksi) saat dingin bertujuan untuk?",
+      "explanation": "Vasokonstriksi perifer mengurangi aliran darah ke kulit/ekstremitas untuk mengurangi kehilangan panas dan mempertahankan suhu inti tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Kehilangan Panas",
+      "options": [
+        {
+          "text": "A. Meningkatkan kehilangan panas",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengurangi kehilangan panas dan menjaga suhu inti",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mempercepat keringat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menurunkan tekanan darah saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bagian tubuh manakah yang paling rentan terhadap cedera dingin?",
+      "explanation": "Ekstremitas dan area terbuka seperti jari tangan, jari kaki, telinga, hidung, dan pipi paling rentan karena vasokonstriksi mengurangi aliran darah ke area ini.",
+      "difficulty": "EASY",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Dada dan perut",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Jari tangan, jari kaki, telinga, dan hidung",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Punggung",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Paha",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hipotermia didefinisikan sebagai kondisi suhu inti tubuh turun di bawah?",
+      "explanation": "Hipotermia adalah kondisi medis ketika suhu inti tubuh turun di bawah 35°C, di mana tubuh kehilangan panas lebih cepat daripada yang dapat diproduksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Hipotermia",
+      "options": [
+        {
+          "text": "A. 37°C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 36°C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 35°C",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 30°C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Gejala utama hipotermia menurut materi cold stress adalah?",
+      "explanation": "Materi menyebut gejala utama hipotermia: menggigil, bingung, hingga koma. Hipotermia merupakan risiko utama pekerja luar ruangan.",
+      "difficulty": "EASY",
+      "tag": "Hipotermia",
+      "options": [
+        {
+          "text": "A. Menggigil, bingung, koma",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kulit kemerahan dan berkeringat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Demam tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Batuk dan pilek",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada hipotermia ringan, tanda yang khas muncul adalah?",
+      "explanation": "Hipotermia ringan (suhu inti ~32-35°C) ditandai menggigil hebat, kesulitan koordinasi tangan, dan gerakan melambat; tubuh masih berusaha memproduksi panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Hipotermia",
+      "options": [
+        {
+          "text": "A. Berhenti menggigil dan koma",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menggigil hebat dan koordinasi tangan menurun",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kulit memerah dan berkeringat banyak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Detak jantung sangat cepat dan stabil",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tanda hipotermia berat yang membedakannya dari hipotermia ringan adalah?",
+      "explanation": "Pada hipotermia berat (suhu inti <28-32°C), menggigil biasanya BERHENTI, terjadi penurunan kesadaran, kekakuan otot, dan risiko henti jantung. Berhentinya menggigil adalah tanda bahaya.",
+      "difficulty": "HARD",
+      "tag": "Hipotermia",
+      "options": [
+        {
+          "text": "A. Menggigil semakin kuat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menggigil berhenti, kesadaran menurun, dan kekakuan otot",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Suhu inti naik kembali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Banyak berkeringat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa berhentinya menggigil pada penderita hipotermia merupakan tanda bahaya?",
+      "explanation": "Berhentinya menggigil menandakan tubuh kehabisan cadangan energi dan mekanisme produksi panas gagal, menandai progresi ke hipotermia sedang/berat yang mengancam jiwa.",
+      "difficulty": "HARD",
+      "tag": "Hipotermia",
+      "options": [
+        {
+          "text": "A. Karena tubuh sudah pulih",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena mekanisme produksi panas tubuh gagal/kehabisan energi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena suhu lingkungan naik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena pakaian sudah cukup hangat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerja dengan risiko hipotermia tertinggi menurut materi adalah?",
+      "explanation": "Materi menyebut hipotermia sebagai risiko bagi pekerja luar ruangan yang terpapar suhu rendah dalam waktu lama.",
+      "difficulty": "EASY",
+      "tag": "Hipotermia",
+      "options": [
+        {
+          "text": "A. Pekerja kantoran ber-AC",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pekerja luar ruangan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pekerja laboratorium kering",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pekerja gudang panas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frostbite (radang dingin/radang beku) adalah?",
+      "explanation": "Frostbite adalah pembekuan jaringan kulit dan jaringan di bawahnya akibat paparan dingin ekstrem; ditandai kulit beku, mati rasa, dan dapat menghitam pada kasus berat.",
+      "difficulty": "EASY",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Ruam akibat panas",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pembekuan jaringan kulit akibat paparan dingin ekstrem",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Luka bakar kimia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Infeksi jamur kulit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Gejala frostbite menurut materi adalah?",
+      "explanation": "Materi menyebut frostbite ditandai kulit beku, mati rasa, dan menghitam; berisiko bagi pekerja salju dan tambang.",
+      "difficulty": "EASY",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Kulit beku, mati rasa, menghitam",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kulit memerah dan berkeringat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Gatal dan melepuh akibat panas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kulit kering bersisik saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frostnip berbeda dari frostbite karena?",
+      "explanation": "Frostnip adalah bentuk cedera dingin paling ringan yang belum membekukan jaringan (reversibel), ditandai kulit pucat dan mati rasa sementara; bila tidak ditangani dapat berlanjut menjadi frostbite.",
+      "difficulty": "HARD",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Frostnip lebih parah dari frostbite",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Frostnip belum membekukan jaringan dan bersifat reversibel",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Frostnip hanya terjadi pada suhu panas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Frostnip selalu menyebabkan amputasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Chilblains (perniosis) ditandai gejala?",
+      "explanation": "Chilblains atau perniosis adalah peradangan pembuluh darah kecil akibat paparan dingin berulang; ditandai gatal, merah, dan bengkak pada kulit.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Gatal, merah, bengkak",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kulit menghitam dan beku",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Berkeringat berlebih",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Demam tinggi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Chilblains merupakan peradangan pada?",
+      "explanation": "Chilblains (perniosis) adalah peradangan pembuluh darah kecil (kapiler) di kulit akibat paparan dingin dan lembab berulang.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Pembuluh darah kecil di kulit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tulang rawan sendi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Saraf pusat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Otot besar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerja dengan risiko tinggi chilblains menurut materi adalah?",
+      "explanation": "Materi menyebut chilblains berisiko bagi pekerja di lingkungan lembab dan dingin.",
+      "difficulty": "EASY",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Pekerja lembab dan dingin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pekerja di dekat tungku panas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pekerja kantor",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengemudi siang hari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Trench foot (kaki parit) terjadi akibat?",
+      "explanation": "Trench foot (immersion foot) terjadi akibat paparan lama pada kondisi dingin dan basah (tidak harus membeku); ditandai kulit basah, bengkak, dan nyeri.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Paparan lama kondisi dingin dan basah",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Paparan sinar UV",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kontak bahan kimia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Getaran mesin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Gejala trench foot menurut materi adalah?",
+      "explanation": "Materi menyebut trench foot ditandai kulit basah, bengkak, dan nyeri; berisiko bagi pekerja logistik beku.",
+      "difficulty": "EASY",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Kulit basah, bengkak, nyeri",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kulit kering dan menghitam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Gatal dan kemerahan kering",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Demam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perbedaan utama trench foot dengan frostbite adalah?",
+      "explanation": "Trench foot terjadi pada suhu dingin di ATAS titik beku dengan kondisi basah berkepanjangan, sehingga jaringan TIDAK membeku; frostbite melibatkan pembekuan jaringan di bawah titik beku.",
+      "difficulty": "HARD",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Trench foot terjadi tanpa pembekuan jaringan (suhu di atas titik beku, basah)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Trench foot hanya pada suhu sangat panas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Trench foot tidak berhubungan dengan kelembaban",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Trench foot selalu menyebabkan kulit menghitam beku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Gangguan kognitif-motorik akibat cold stress ditandai gejala?",
+      "explanation": "Materi menyebut gangguan kognitif motorik akibat dingin ditandai gerakan lambat, linglung, dan mudah jatuh; berisiko bagi operator luar ruang.",
+      "difficulty": "MEDIUM",
+      "tag": "Hipotermia",
+      "options": [
+        {
+          "text": "A. Lambat, linglung, jatuh",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Cepat dan waspada",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Berkeringat dan haus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pendengaran meningkat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan wind chill?",
+      "explanation": "Wind chill (suhu dingin akibat angin) adalah suhu yang dirasakan tubuh akibat kombinasi suhu udara aktual dan kecepatan angin; angin mempercepat kehilangan panas sehingga terasa lebih dingin.",
+      "difficulty": "EASY",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Suhu yang dirasakan tubuh akibat kombinasi suhu udara dan kecepatan angin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu rata-rata harian",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kelembaban udara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tekanan atmosfer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tabel wind chill menilai risiko bahaya dingin berdasarkan gabungan dua parameter, yaitu?",
+      "explanation": "Tabel wind chill (tabel ekuivalen temperatur dingin) menilai risiko berdasarkan gabungan suhu udara aktual dan kecepatan angin.",
+      "difficulty": "EASY",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Suhu udara aktual dan kecepatan angin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu dan kelembaban",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tekanan dan ketinggian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu dan intensitas cahaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar yang mengatur iklim kerja dingin (cold stress) di Indonesia adalah?",
+      "explanation": "Permenaker RI No. 5 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja mengatur penilaian iklim kerja dingin melalui tabel wind chill.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Permenaker No. 5 Tahun 2018",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Permenaker No. 13 Tahun 2011",
+          "isCorrect": false
+        },
+        {
+          "text": "C. UU No. 1 Tahun 1970",
+          "isCorrect": false
+        },
+        {
+          "text": "D. PP No. 50 Tahun 2012",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel wind chill, suhu udara aktual ditempatkan pada bagian?",
+      "explanation": "Sesuai cara penggunaan tabel cold stress, suhu temperatur aktual (°C) berada pada kolom atas, sedangkan kecepatan angin (mph) berada pada kolom kiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Kolom atas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kolom kiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Baris paling bawah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada di tabel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel wind chill, kecepatan angin (mph) ditempatkan pada bagian?",
+      "explanation": "Kecepatan angin yang bertiup di lokasi (dalam mph) ditempatkan pada kolom kiri tabel wind chill.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Kolom kiri",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kolom atas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Diagonal tengah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak digunakan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai perpotongan suhu aktual dan kecepatan angin pada tabel cold stress disebut?",
+      "explanation": "Titik perpotongan menghasilkan nilai 'Ekuivalen Temperatur Dingin', yang menunjukkan seberapa dingin suhu terasa oleh tubuh akibat efek angin.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Ekuivalen Temperatur Dingin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Indeks panas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suhu basah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu bola",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tabel wind chill terbagi menjadi berapa zona risiko?",
+      "explanation": "Tabel wind chill terbagi menjadi 3 zona risiko: sedikit berbahaya (biru), bahaya meningkat (kuning), dan sangat berbahaya (merah).",
+      "difficulty": "EASY",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. 2 zona",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 3 zona",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 4 zona",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 5 zona",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Zona biru pada tabel wind chill (sedikit berbahaya) menandakan?",
+      "explanation": "Zona biru berarti paparan dingin bisa menyebabkan rasa tidak nyaman atau gejala ringan seperti menggigil; tindakannya pakaian hangat standar dan monitoring biasa.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Risiko ringan, cukup pakaian hangat standar dan monitoring biasa",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Frostbite dalam 30 detik",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Larangan total bekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada risiko sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada zona kuning (bahaya meningkat) tabel wind chill, frostbite pada kulit terbuka dapat terjadi dalam waktu?",
+      "explanation": "Pada zona kuning (bahaya meningkat), risiko frostbite pada bagian tubuh terbuka muncul dalam waktu 1 menit; tindakannya pengawasan ketat, pakaian pelindung lengkap, dan pembatasan waktu kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. 1 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 10 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 hari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada zona merah (sangat berbahaya), tubuh dapat membeku dalam waktu?",
+      "explanation": "Pada zona merah (sangat berbahaya), tubuh dapat membeku dalam 30 detik; kondisi ekstrem ini dapat menyebabkan hipotermia atau frostbite parah.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. 30 detik",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 5 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 30 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tindakan yang tepat pada zona merah (sangat berbahaya) adalah?",
+      "explanation": "Pada zona merah, hindari bekerja di luar; pekerjaan hanya boleh dengan APD ekstrem dan durasi kerja sangat singkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Hindari bekerja di luar, hanya dengan APD ekstrem dan kerja sangat singkat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Bekerja normal tanpa pelindung",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak perlu tindakan apa pun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Cukup pakaian standar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada contoh: suhu aktual -12,2°C dan angin 20 mph menghasilkan ekuivalen temperatur dingin sekitar?",
+      "explanation": "Sesuai contoh materi, baris '20' dan kolom '-12,2°C' berpotongan pada nilai -31,7°C, masuk zona bahaya meningkat.",
+      "difficulty": "HARD",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. -31,7°C",
+          "isCorrect": true
+        },
+        {
+          "text": "B. -12,2°C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. -20°C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. -45°C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada contoh: suhu aktual -45,6°C dan angin 35 mph menghasilkan ekuivalen temperatur dingin sekitar?",
+      "explanation": "Sesuai contoh materi, titik potong menghasilkan -89,4°C, masuk zona sangat berbahaya sehingga kerja di luar sangat tidak disarankan.",
+      "difficulty": "HARD",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. -89,4°C",
+          "isCorrect": true
+        },
+        {
+          "text": "B. -45,6°C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. -60°C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. -100°C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa kecepatan angin lebih tinggi meningkatkan risiko meski suhu udara sama?",
+      "explanation": "Angin menghilangkan lapisan tipis udara hangat di dekat kulit (konveksi), mempercepat kehilangan panas sehingga suhu terasa lebih dingin dan risiko meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Karena angin menghilangkan lapisan udara hangat di kulit dan mempercepat kehilangan panas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena angin menambah kelembaban",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena angin menaikkan suhu inti",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena angin tidak berpengaruh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam rumus wind chill metrik, satuan kecepatan angin (V) yang digunakan adalah?",
+      "explanation": "Rumus wind chill metrik menggunakan kecepatan angin (V) dalam kilometer per jam (km/jam).",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Kilometer per jam (km/jam)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Meter per detik",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mil per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Knot",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam rumus wind chill, simbol WCT menyatakan?",
+      "explanation": "WCT (Wind Chill Temperature) adalah suhu wind chill, yaitu suhu yang dirasakan kulit dalam derajat Celsius, hasil perhitungan rumus.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Suhu wind chill (suhu yang dirasakan) dalam °C",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu udara aktual",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kecepatan angin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kelembaban relatif",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam rumus wind chill metrik, Ta menyatakan?",
+      "explanation": "Ta adalah suhu udara sebenarnya (aktual) dalam derajat Celsius yang digunakan sebagai input, bukan suhu wind chill.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Suhu udara sebenarnya (aktual) dalam °C",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu wind chill",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kecepatan angin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tekanan udara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam rumus wind chill, kecepatan angin dimodelkan melalui pangkat?",
+      "explanation": "Rumus wind chill menggunakan V pangkat 0,16 (V^0.16) untuk memodelkan pengaruh kecepatan angin yang non-linier.",
+      "difficulty": "HARD",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. V^0.16",
+          "isCorrect": true
+        },
+        {
+          "text": "B. V^2",
+          "isCorrect": false
+        },
+        {
+          "text": "C. V^0.5",
+          "isCorrect": false
+        },
+        {
+          "text": "D. V^1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada contoh perhitungan, suhu udara -15°C dan angin 30 km/jam menghasilkan suhu wind chill sekitar?",
+      "explanation": "Sesuai contoh perhitungan materi, WCT ≈ -29,7°C, yang masuk rentang -28 hingga -39°C (peningkatan risiko frostbite dalam 10-30 menit).",
+      "difficulty": "HARD",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Sekitar -29,7°C",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sekitar -15°C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sekitar -45°C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sekitar -10°C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada rentang suhu wind chill -28 hingga -39°C, peningkatan risiko frostbite pada kebanyakan orang terjadi dalam waktu?",
+      "explanation": "Materi menyebut pada rentang wind chill -28 hingga -39°C, terdapat peningkatan risiko frostbite pada kebanyakan orang dalam 10 hingga 30 menit terpapar.",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. 10 hingga 30 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1 hingga 2 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 2 hingga 4 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 hari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Semakin rendah suhu wind chill, maka risiko frostbite?",
+      "explanation": "Semakin rendah suhu wind chill, semakin cepat risiko terjadinya frostbite; pada wind chill sangat rendah frostbite bisa terjadi dalam hitungan menit.",
+      "difficulty": "EASY",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Semakin cepat terjadi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Semakin lambat terjadi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak berubah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hilang sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tabel work/warm-up schedule (jadwal kerja dan pemanasan) disusun untuk shift kerja selama?",
+      "explanation": "Tabel jadwal kerja dan pemanasan dalam materi disusun untuk shift kerja 4 jam dalam kondisi cold stress.",
+      "difficulty": "EASY",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. Shift 4 jam",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Shift 8 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Shift 12 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Shift 1 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tabel work/warm-up schedule disusun berdasarkan kombinasi dua faktor, yaitu?",
+      "explanation": "Tabel jadwal kerja-pemanasan disusun berdasarkan kombinasi suhu udara dan kecepatan angin.",
+      "difficulty": "EASY",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. Suhu udara dan kecepatan angin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu dan kelembaban",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Beban kerja dan usia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tinggi badan dan berat badan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel work/warm-up schedule, 'periode kerja maksimum' menunjukkan?",
+      "explanation": "Periode kerja maksimum adalah lama waktu kerja berturut-turut yang diperbolehkan sebelum pekerja harus istirahat di ruang hangat.",
+      "difficulty": "MEDIUM",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. Lama kerja berturut-turut sebelum istirahat di ruang hangat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Total durasi shift",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jumlah pekerja maksimum",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu maksimum ruangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel work/warm-up schedule, 'jumlah istirahat/pemanasan' menunjukkan?",
+      "explanation": "Jumlah istirahat/pemanasan menunjukkan berapa kali pekerja harus masuk ke ruangan hangat selama shift kerja 4 jam.",
+      "difficulty": "MEDIUM",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. Berapa kali pekerja harus masuk ruang hangat selama shift",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Durasi total istirahat makan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jumlah pekerja per regu",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lama shift berikutnya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada contoh, suhu -32 s.d -34°C dengan angin 5 mph memberikan periode kerja maksimal?",
+      "explanation": "Sesuai contoh materi, pada suhu -32 s.d -34°C dan angin 5 mph, periode kerja maksimal adalah 55 menit dengan total 3 kali istirahat/pemanasan dalam shift 4 jam.",
+      "difficulty": "HARD",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. 55 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 75 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 30 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 90 menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada contoh suhu -32 s.d -34°C dan angin 5 mph, jumlah istirahat/pemanasan yang harus diberikan adalah?",
+      "explanation": "Sesuai contoh, pekerja harus diberikan total 3 kali istirahat/pemanasan dalam shift 4 jam.",
+      "difficulty": "HARD",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. 3 kali",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 5 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 0 kali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada contoh suhu -38 s.d -39°C dengan angin 15 mph, rekomendasi tabel adalah?",
+      "explanation": "Pada kondisi tersebut, pekerjaan yang tidak darurat sebaiknya dihentikan karena risiko frostbite dan hipotermia sangat tinggi; hanya pekerjaan darurat yang boleh dilakukan.",
+      "difficulty": "HARD",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. Pekerjaan non-darurat sebaiknya dihentikan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kerja normal tanpa istirahat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kerja 2 jam tanpa pemanasan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu APD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Istirahat/pemanasan dalam work/warm-up schedule harus dilakukan di?",
+      "explanation": "Catatan penting menyebut istirahat/pemanasan harus dilakukan di ruangan hangat, bukan sekadar berhenti bekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. Ruangan hangat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tempat teduh di luar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Di dekat mesin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Di mana saja asal duduk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika pekerja berkeringat saat bekerja di lingkungan dingin, maka?",
+      "explanation": "Catatan materi: jika pekerja berkeringat, risiko meningkat karena keringat membasahi pakaian dan mempercepat kehilangan panas; pemanasan harus dilakukan lebih sering.",
+      "difficulty": "MEDIUM",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. Risiko meningkat dan pemanasan harus lebih sering",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Risiko menurun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada pengaruh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pekerja boleh berhenti istirahat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa berkeringat berbahaya di lingkungan dingin?",
+      "explanation": "Keringat membasahi pakaian sehingga insulasi berkurang dan kehilangan panas (evaporasi/konduksi) meningkat, mempercepat pendinginan tubuh.",
+      "difficulty": "HARD",
+      "tag": "Work-Warming Regimen",
+      "options": [
+        {
+          "text": "A. Karena keringat membasahi pakaian dan menurunkan insulasi sehingga panas cepat hilang",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena keringat menghangatkan tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena keringat menambah berat badan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena keringat tidak ada hubungannya dengan dingin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah perlengkapan pelindung yang diwajibkan menurut catatan work/warm-up schedule?",
+      "explanation": "Catatan menyebut sarung tangan, sepatu insulasi, pelindung wajah, dan pakaian berlapis wajib digunakan.",
+      "difficulty": "EASY",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Sarung tangan, sepatu insulasi, pelindung wajah, pakaian berlapis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kacamata hitam dan topi jerami",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sandal jepit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pakaian tipis menyerap keringat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cold Stress Wind Chill Calculator digunakan untuk memperkirakan risiko?",
+      "explanation": "Kalkulator ini memperhitungkan suhu udara dan kecepatan angin untuk menilai risiko kondisi seperti hipotermia atau frostbite.",
+      "difficulty": "EASY",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Hipotermia dan frostbite",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Heat stroke",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Dehidrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gangguan pendengaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Output utama dari Cold Stress Calculator adalah?",
+      "explanation": "Kalkulator menghasilkan Adjusted Temperature (suhu yang dirasakan tubuh akibat kombinasi suhu dingin dan angin, yaitu wind chill).",
+      "difficulty": "MEDIUM",
+      "tag": "Wind Chill",
+      "options": [
+        {
+          "text": "A. Adjusted Temperature (wind chill)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kelembaban relatif",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Indeks UV",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tekanan darah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel estimasi kecepatan angin, kondisi 'daun tidak bergerak' setara dengan?",
+      "explanation": "Pada tabel estimasi, daun tidak bergerak menunjukkan angin 0-2 mph (angin tenang).",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. 0-2 mph (angin tenang)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 8-12 mph",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 13-18 mph",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 20-30 mph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel estimasi kecepatan angin, kondisi 'debu beterbangan' setara dengan?",
+      "explanation": "Pada tabel estimasi, debu beterbangan menunjukkan kecepatan angin sekitar 8-12 mph.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. 8-12 mph",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 0-2 mph",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 3-7 mph",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 13-18 mph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel estimasi kecepatan angin, kondisi 'cabang pohon goyang' setara dengan?",
+      "explanation": "Pada tabel estimasi, cabang pohon goyang menunjukkan kecepatan angin sekitar 13-18 mph.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. 13-18 mph",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 0-2 mph",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 3-7 mph",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 8-12 mph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel estimasi kecepatan angin, kondisi 'daun bergerak pelan' setara dengan?",
+      "explanation": "Pada tabel estimasi, daun bergerak pelan menunjukkan kecepatan angin sekitar 3-7 mph.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. 3-7 mph",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 0-2 mph",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 8-12 mph",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 13-18 mph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat untuk mengukur kecepatan angin pada iklim kerja dingin adalah?",
+      "explanation": "Anemometer adalah alat ukur kecepatan angin/aliran udara yang dibutuhkan dalam pengukuran iklim kerja dingin.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. Anemometer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sound level meter",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Luxmeter",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Barometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat untuk mengukur suhu kering pada iklim kerja dingin adalah?",
+      "explanation": "Termometer (rentang misalnya -40°C ke atas) digunakan untuk mengukur suhu kering pada pengukuran iklim kerja dingin.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. Termometer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Anemometer",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Luxmeter",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sound level meter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat yang mengukur suhu sekaligus kelembapan adalah?",
+      "explanation": "Termohygrometer adalah alat untuk mengukur suhu sekaligus kelembapan udara.",
+      "difficulty": "EASY",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. Termohygrometer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Anemometer",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Termometer biasa",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Manometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar yang mengatur langkah pengukuran iklim kerja dingin adalah?",
+      "explanation": "SNI 7061-2019 mengatur langkah-langkah pengukuran iklim kerja dingin.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. SNI 7061-2019",
+          "isCorrect": true
+        },
+        {
+          "text": "B. SNI 16-7063",
+          "isCorrect": false
+        },
+        {
+          "text": "C. ISO 9001",
+          "isCorrect": false
+        },
+        {
+          "text": "D. SNI 03-1733",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ketinggian penempatan termometer untuk pekerja posisi berdiri menurut langkah pengukuran adalah?",
+      "explanation": "Menurut langkah pengukuran (SNI 7061-2019), untuk posisi kerja berdiri termometer diletakkan sekitar 1,00 m.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. Sekitar 1,00 m",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sekitar 0,60 m",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sekitar 2,00 m",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Di lantai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ketinggian penempatan termometer untuk pekerja posisi duduk menurut langkah pengukuran adalah?",
+      "explanation": "Menurut langkah pengukuran, untuk posisi kerja duduk termometer diletakkan sekitar 0,60 m.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. Sekitar 0,60 m",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sekitar 1,00 m",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sekitar 1,50 m",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sekitar 0,20 m",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berapa lama alat ukur ditempatkan di titik pengukuran untuk penyesuaian suhu lingkungan?",
+      "explanation": "Alat ukur ditempatkan di titik pengukuran selama 20 menit untuk penyesuaian terhadap suhu lingkungan kerja.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. 20 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 5 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 60 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 2 menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pembacaan hasil pengukuran iklim kerja dingin dilakukan setiap berapa menit dan berapa kali?",
+      "explanation": "Pembacaan hasil pengukuran dilakukan setiap 5 menit sebanyak 6 kali pembacaan dan dicatat dalam formulir.",
+      "difficulty": "HARD",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. Setiap 5 menit sebanyak 6 kali",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Setiap 10 menit sebanyak 3 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Setiap 1 menit sebanyak 20 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sekali saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Setelah selesai mengukur satu titik, langkah untuk titik pengukuran selanjutnya adalah?",
+      "explanation": "Apabila akan mengukur titik selanjutnya, prosedur diulang mulai dari langkah pertama (peletakan termometer dan penyesuaian).",
+      "difficulty": "MEDIUM",
+      "tag": "Pengukuran",
+      "options": [
+        {
+          "text": "A. Mengulang prosedur dari langkah pertama",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Langsung membaca tanpa penyesuaian",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengurangi waktu menjadi 5 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu mengukur lagi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut ACGIH TLV cold stress, pada suhu kerja di bawah berapa derajat mulai direkomendasikan tindakan perlindungan untuk pekerja kerja ringan?",
+      "explanation": "ACGIH merekomendasikan tindakan perlindungan dan pemantauan ketika suhu udara di tempat kerja turun di bawah 16°C (60°F) untuk pekerjaan ringan/sedentary, karena risiko cold stress mulai relevan.",
+      "difficulty": "HARD",
+      "tag": "ACGIH Cold Stress",
+      "options": [
+        {
+          "text": "A. Di bawah 16°C",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Di bawah 25°C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Di bawah 30°C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Di bawah 5°C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut pedoman ACGIH, jika suhu inti tubuh pekerja diperkirakan turun di bawah 36°C, tindakan yang dianjurkan adalah?",
+      "explanation": "ACGIH menetapkan suhu inti minimum yang harus dijaga; bila suhu inti diperkirakan turun mendekati/di bawah 36°C, pekerjaan harus dihentikan dan pekerja dihangatkan untuk mencegah hipotermia.",
+      "difficulty": "HARD",
+      "tag": "ACGIH Cold Stress",
+      "options": [
+        {
+          "text": "A. Hentikan pekerjaan dan hangatkan pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lanjutkan kerja tanpa istirahat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Naikkan beban kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lepas pakaian pelindung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama ACGIH TLV untuk cold stress adalah?",
+      "explanation": "TLV cold stress ACGIH bertujuan menjaga suhu inti tubuh tidak turun di bawah batas aman dan mencegah cedera dingin (frostbite) pada ekstremitas pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "ACGIH Cold Stress",
+      "options": [
+        {
+          "text": "A. Menjaga suhu inti tubuh dan mencegah cedera dingin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengatur kebisingan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengatur pencahayaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengatur tekanan udara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut pedoman cold stress, pekerja yang basah/terkena air pada suhu di bawah berapa harus segera diganti pakaiannya?",
+      "explanation": "Pedoman cold stress menyarankan bahwa pekerja yang basah pada suhu udara di bawah sekitar 2°C (36°F) harus segera mengganti pakaian dan dihangatkan, karena pakaian basah sangat mempercepat kehilangan panas.",
+      "difficulty": "HARD",
+      "tag": "ACGIH Cold Stress",
+      "options": [
+        {
+          "text": "A. Sekitar 2°C",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sekitar 20°C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sekitar 30°C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sekitar 15°C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip dasar sistem pakaian berlapis (layering) untuk lingkungan dingin terdiri dari tiga lapisan, yaitu?",
+      "explanation": "Sistem layering terdiri dari lapisan dalam (wicking/penyerap keringat), lapisan tengah (insulasi/penahan panas), dan lapisan luar (windproof/waterproof/penahan angin & air).",
+      "difficulty": "MEDIUM",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Wicking (dalam), insulasi (tengah), windproof (luar)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Katun, katun, katun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Plastik, kertas, logam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tipis, tipis, tipis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fungsi lapisan dalam (base layer) pada sistem pakaian berlapis adalah?",
+      "explanation": "Lapisan dalam (base/wicking layer) berfungsi menyerap dan memindahkan keringat dari kulit (wicking) agar kulit tetap kering dan tidak kehilangan panas akibat keringat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Menyerap/memindahkan keringat (wicking) agar kulit tetap kering",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menahan angin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memantulkan cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menambah berat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fungsi lapisan tengah pada sistem pakaian berlapis adalah?",
+      "explanation": "Lapisan tengah berfungsi sebagai insulasi, yaitu memerangkap udara hangat di dekat tubuh untuk mengurangi kehilangan panas (misalnya fleece atau bulu/wool).",
+      "difficulty": "MEDIUM",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Insulasi, memerangkap udara hangat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menyerap keringat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menahan hujan saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memberi warna",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fungsi lapisan luar (shell) pada sistem pakaian berlapis adalah?",
+      "explanation": "Lapisan luar (outer shell) berfungsi menahan angin dan air (windproof/waterproof) agar insulasi tidak basah dan efek wind chill berkurang.",
+      "difficulty": "MEDIUM",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Menahan angin dan air (windproof/waterproof)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menyerap keringat dari kulit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memberi insulasi utama",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak punya fungsi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa pakaian berbahan katun (cotton) kurang disarankan sebagai base layer di lingkungan dingin?",
+      "explanation": "Katun menyerap dan menahan keringat/air serta lambat kering, sehingga ketika basah ia mempercepat kehilangan panas (cotton kills). Bahan sintetis atau wool lebih baik untuk wicking.",
+      "difficulty": "HARD",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Karena katun menahan air, lambat kering, dan mempercepat kehilangan panas saat basah",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena katun terlalu hangat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena katun memantulkan angin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena katun tahan air",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Keunggulan sistem pakaian berlapis dibanding satu pakaian tebal adalah?",
+      "explanation": "Sistem berlapis memungkinkan pekerja menambah atau melepas lapisan sesuai aktivitas dan suhu, sehingga dapat mengatur insulasi dan mencegah keringat berlebih.",
+      "difficulty": "MEDIUM",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Lapisan bisa ditambah/dilepas sesuai aktivitas dan suhu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lebih murah pasti",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak perlu sarung tangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membuat lebih banyak berkeringat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa pelindung kepala penting di lingkungan dingin?",
+      "explanation": "Kepala merupakan area dengan kehilangan panas signifikan; menutup kepala (topi/balaclava) mengurangi kehilangan panas tubuh secara keseluruhan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Karena kepala merupakan sumber kehilangan panas yang signifikan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena kepala tidak terpengaruh dingin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena topi memantulkan suara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena hanya untuk gaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "APD yang tepat untuk melindungi tangan pekerja di lingkungan dingin adalah?",
+      "explanation": "Sarung tangan berinsulasi (insulated gloves/mittens) melindungi tangan dari frostbite dan menjaga ketangkasan; mitten lebih hangat daripada glove jari terpisah.",
+      "difficulty": "EASY",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Sarung tangan berinsulasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sarung tangan lateks tipis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tanpa sarung tangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sarung tangan basah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk melindungi kaki dari trench foot dan frostbite, alas kaki yang dianjurkan adalah?",
+      "explanation": "Sepatu/boot berinsulasi dan tahan air (waterproof, insulated) dengan kaus kaki kering menjaga kaki tetap hangat dan kering, mencegah trench foot maupun frostbite.",
+      "difficulty": "MEDIUM",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Sepatu berinsulasi dan tahan air dengan kaus kaki kering",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sandal terbuka",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sepatu kanvas basah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tanpa kaus kaki",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tindakan pencegahan menurut kalkulator cold stress saat risiko tinggi adalah menutupi?",
+      "explanation": "Precautions menyarankan menutupi semua kulit terbuka, memakai topi, sarung tangan berinsulasi, syal, penutup leher/wajah, serta sepatu tahan air dan hangat, dan tetap kering serta aktif.",
+      "difficulty": "EASY",
+      "tag": "Pakaian & APD Dingin",
+      "options": [
+        {
+          "text": "A. Semua kulit terbuka",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya telapak tangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak perlu menutupi apa pun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya mata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fenomena Raynaud merupakan?",
+      "explanation": "Fenomena Raynaud adalah respons berlebihan pembuluh darah jari (vasospasme) terhadap dingin/stres, menyebabkan jari memutih lalu membiru dan nyeri; pekerja dingin lebih rentan mengalami serangan.",
+      "difficulty": "HARD",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Vasospasme pembuluh darah jari akibat dingin sehingga jari memutih/membiru",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pembekuan total seluruh tangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Luka bakar matahari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Infeksi bakteri kuku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perubahan warna kulit jari yang khas pada serangan fenomena Raynaud adalah?",
+      "explanation": "Pada serangan Raynaud, jari biasanya memutih (pucat) akibat vasospasme, lalu membiru (sianosis), kemudian memerah saat aliran darah kembali.",
+      "difficulty": "HARD",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Putih, lalu biru, lalu merah",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Selalu hijau",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tetap normal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Langsung menghitam permanen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengendalian teknik (engineering control) untuk mengurangi cold stress adalah?",
+      "explanation": "Contoh engineering control: memasang pelindung/penghalang angin (wind screen), pemanas ruangan, atau menutup area kerja agar terlindung dari angin dan dingin.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Memasang penghalang angin dan pemanas ruangan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengurangi gaji pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menambah kebisingan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membuka semua jendela",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengendalian administratif untuk cold stress meliputi?",
+      "explanation": "Pengendalian administratif meliputi penjadwalan kerja/istirahat (work-warming regimen), rotasi pekerja, penyediaan ruang hangat, pelatihan pengenalan gejala, dan membatasi durasi paparan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Jadwal kerja-pemanasan, rotasi pekerja, dan pelatihan gejala",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memasang dinding beton",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengganti mesin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menambah beban kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa sistem buddy (kerja berpasangan) penting di lingkungan dingin ekstrem?",
+      "explanation": "Sistem buddy memungkinkan rekan saling memantau gejala awal hipotermia/frostbite (misalnya bingung, kulit pucat) yang sering tidak disadari penderita sendiri, sehingga penanganan lebih cepat.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Agar rekan saling memantau gejala dini hipotermia/frostbite",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Agar pekerjaan lebih lambat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Untuk menghemat APD",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada manfaatnya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Asupan yang dianjurkan untuk pekerja di lingkungan dingin guna menjaga energi dan suhu tubuh adalah?",
+      "explanation": "Pekerja dianjurkan mengonsumsi minuman hangat dan makanan/snack tinggi kalori untuk mempertahankan produksi panas; alkohol justru harus dihindari karena memicu vasodilatasi dan mempercepat kehilangan panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Minuman hangat dan makanan tinggi kalori",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Minuman beralkohol",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Es batu",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak makan apa pun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa konsumsi alkohol berbahaya bagi pekerja di lingkungan dingin?",
+      "explanation": "Alkohol menyebabkan vasodilatasi perifer sehingga panas tubuh cepat hilang ke kulit dan lingkungan, sekaligus menumpulkan kewaspadaan terhadap gejala dingin, meningkatkan risiko hipotermia.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Karena memicu vasodilatasi sehingga panas tubuh cepat hilang",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena menghangatkan tubuh secara permanen",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena menambah insulasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena tidak berpengaruh pada suhu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pertolongan pertama yang TEPAT pada korban frostbite ringan adalah?",
+      "explanation": "Frostbite ditangani dengan menghangatkan area secara bertahap (rendam air hangat ~37-39°C), bukan menggosok keras atau menggunakan panas langsung tinggi yang dapat merusak jaringan; hindari pula menghangatkan jika ada risiko membeku kembali.",
+      "difficulty": "HARD",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Menghangatkan area secara bertahap dengan air hangat, tanpa menggosok keras",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menggosok kuat dengan salju",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memanaskan langsung di atas api",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membiarkannya tanpa tindakan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Langkah penanganan awal yang tepat pada korban hipotermia adalah?",
+      "explanation": "Penanganan hipotermia: pindahkan korban ke tempat hangat dan kering, lepas pakaian basah, bungkus dengan selimut/lapisan kering, dan beri minuman hangat bila sadar; tangani dengan lembut dan cari bantuan medis pada kasus berat.",
+      "difficulty": "MEDIUM",
+      "tag": "Hipotermia",
+      "options": [
+        {
+          "text": "A. Pindahkan ke tempat hangat, lepas pakaian basah, bungkus dengan selimut kering",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Beri air es",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suruh tetap bekerja di luar",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lepas semua pakaian dan biarkan di luar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor individu yang dapat memperbesar risiko cedera dingin pada pekerja adalah?",
+      "explanation": "Faktor individu seperti gangguan sirkulasi darah, kondisi kesehatan tertentu (diabetes, Raynaud), kelelahan, usia, dan jenis pakaian dapat memperbesar variasi risiko frostbite sebagaimana dicatat materi.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera Dingin Lokal",
+      "options": [
+        {
+          "text": "A. Gangguan sirkulasi darah dan kondisi kesehatan tertentu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tinggi badan saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Warna pakaian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Golongan darah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut pedoman ACGIH cold stress, hierarki pengendalian yang dianjurkan dimulai dari?",
+      "explanation": "Sesuai hierarki pengendalian, prioritas utama adalah pengendalian teknik (engineering) seperti penghalang angin dan pemanas, baru kemudian administratif (jadwal kerja-pemanasan), dan terakhir APD; APD bukan pilihan pertama.",
+      "difficulty": "HARD",
+      "tag": "ACGIH Cold Stress",
+      "options": [
+        {
+          "text": "A. Pengendalian teknik (engineering), lalu administratif, lalu APD",
+          "isCorrect": true
+        },
+        {
+          "text": "B. APD terlebih dahulu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada hierarki",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya mengandalkan obat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa aklimatisasi pekerja terhadap dingin tetap perlu disertai pengendalian lain?",
+      "explanation": "Berbeda dengan panas, adaptasi/aklimatisasi tubuh terhadap dingin sangat terbatas; tubuh tidak bisa banyak meningkatkan toleransi dingin, sehingga pengendalian teknik, pakaian, dan jadwal kerja-pemanasan tetap menjadi andalan utama.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Karena adaptasi tubuh terhadap dingin sangat terbatas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena dingin tidak berbahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena tubuh sepenuhnya kebal setelah seminggu",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena aklimatisasi menghilangkan kebutuhan APD",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Apa itu cold stress?",
+      "back": "Kondisi saat tubuh tidak mampu menjaga suhu inti tetap normal akibat paparan suhu rendah, diperparah angin, kelembaban, dan pakaian tidak memadai.",
+      "tag": "Termoregulasi & Kehilangan Panas"
+    },
+    {
+      "front": "4 mekanisme kehilangan panas tubuh",
+      "back": "Konduksi (kontak benda dingin), Konveksi (angin), Radiasi (pancaran inframerah), Evaporasi (penguapan keringat).",
+      "tag": "Termoregulasi & Kehilangan Panas"
+    },
+    {
+      "front": "Respons termoregulasi tubuh terhadap dingin",
+      "back": "Vasokonstriksi perifer (mengurangi aliran darah ke kulit) dan menggigil (shivering) untuk memproduksi panas.",
+      "tag": "Termoregulasi & Kehilangan Panas"
+    },
+    {
+      "front": "Definisi hipotermia",
+      "back": "Suhu inti tubuh turun di bawah 35°C. Gejala: menggigil, bingung, hingga koma.",
+      "tag": "Hipotermia"
+    },
+    {
+      "front": "Tanda bahaya hipotermia berat",
+      "back": "Menggigil BERHENTI, kesadaran menurun, otot kaku, risiko henti jantung. Berhentinya menggigil = tubuh kehabisan energi.",
+      "tag": "Hipotermia"
+    },
+    {
+      "front": "Frostbite (radang beku)",
+      "back": "Pembekuan jaringan kulit akibat dingin ekstrem. Gejala: kulit beku, mati rasa, menghitam. Frostnip = bentuk ringan reversibel sebelum membeku.",
+      "tag": "Cedera Dingin Lokal"
+    },
+    {
+      "front": "Trench foot (kaki parit)",
+      "back": "Cedera akibat paparan lama kondisi dingin dan BASAH (di atas titik beku, tanpa pembekuan). Gejala: kulit basah, bengkak, nyeri.",
+      "tag": "Cedera Dingin Lokal"
+    },
+    {
+      "front": "Chilblains (perniosis)",
+      "back": "Peradangan pembuluh darah kecil di kulit akibat dingin & lembab berulang. Gejala: gatal, merah, bengkak.",
+      "tag": "Cedera Dingin Lokal"
+    },
+    {
+      "front": "Fenomena Raynaud",
+      "back": "Vasospasme pembuluh darah jari akibat dingin: jari memutih -> membiru -> memerah, disertai nyeri/mati rasa.",
+      "tag": "Cedera Dingin Lokal"
+    },
+    {
+      "front": "Apa itu wind chill?",
+      "back": "Suhu yang dirasakan tubuh akibat kombinasi suhu udara aktual dan kecepatan angin. Angin mempercepat kehilangan panas (konveksi).",
+      "tag": "Wind Chill"
+    },
+    {
+      "front": "Standar iklim kerja dingin di Indonesia",
+      "back": "Permenaker No. 5 Tahun 2018 (tabel wind chill / ekuivalen temperatur dingin). Pengukuran: SNI 7061-2019.",
+      "tag": "Wind Chill"
+    },
+    {
+      "front": "3 zona risiko tabel wind chill",
+      "back": "Biru = sedikit berbahaya (pakaian standar). Kuning = bahaya meningkat (frostbite kulit terbuka dalam 1 menit). Merah = sangat berbahaya (tubuh membeku dalam 30 detik).",
+      "tag": "Wind Chill"
+    },
+    {
+      "front": "Rumus wind chill (metrik) komponen kunci",
+      "back": "WCT (°C) hasil; Ta = suhu udara aktual (°C); V = kecepatan angin (km/jam); angin masuk lewat V^0.16. Contoh: Ta -15°C, V 30 km/jam -> WCT ≈ -29,7°C.",
+      "tag": "Wind Chill"
+    },
+    {
+      "front": "Work/Warm-up schedule",
+      "back": "Jadwal kerja-pemanasan untuk shift 4 jam berdasarkan suhu + kecepatan angin. Tiap sel: periode kerja maksimum & jumlah istirahat di ruang hangat. Contoh -32 s.d -34°C/5 mph = 55 menit, 3x istirahat.",
+      "tag": "Work-Warming Regimen"
+    },
+    {
+      "front": "ACGIH TLV cold stress (kerja ringan)",
+      "back": "Tindakan perlindungan mulai direkomendasikan saat suhu kerja < 16°C. Suhu inti harus dijaga tidak turun di bawah ~36°C; bila lebih rendah, hentikan kerja & hangatkan.",
+      "tag": "ACGIH Cold Stress"
+    },
+    {
+      "front": "Sistem pakaian berlapis (layering)",
+      "back": "Lapisan dalam = wicking (serap keringat), lapisan tengah = insulasi (perangkap udara hangat), lapisan luar = windproof/waterproof (tahan angin & air). Hindari katun sebagai base layer.",
+      "tag": "Pakaian & APD Dingin"
+    },
+    {
+      "front": "APD dingin penting",
+      "back": "Sarung tangan berinsulasi, sepatu insulasi tahan air, pelindung wajah/leher, topi/balaclava, pakaian berlapis. Tutup semua kulit terbuka, tetap kering & aktif.",
+      "tag": "Pakaian & APD Dingin"
+    },
+    {
+      "front": "Alat ukur iklim kerja dingin",
+      "back": "Termometer suhu kering, Termohygrometer (suhu + kelembapan), Anemometer (kecepatan angin).",
+      "tag": "Pengukuran"
+    },
+    {
+      "front": "Prosedur pengukuran (SNI 7061-2019)",
+      "back": "Termometer: berdiri ~1,00 m, duduk ~0,60 m. Adaptasi alat 20 menit, baca tiap 5 menit sebanyak 6 kali. Ulangi dari awal untuk titik berikutnya.",
+      "tag": "Pengukuran"
+    },
+    {
+      "front": "Pengendalian cold stress",
+      "back": "Engineering: penghalang angin, pemanas ruang. Administratif: jadwal kerja-pemanasan, rotasi, ruang hangat, pelatihan, sistem buddy, minuman hangat + makanan kalori tinggi (hindari alkohol).",
+      "tag": "Pengendalian"
+    },
+    {
+      "front": "Berapa suhu inti tubuh normal & kapan cold stress terjadi?",
+      "back": "Suhu inti normal ~37°C. Cold stress terjadi saat tubuh kehilangan panas lebih cepat daripada produksinya sehingga gagal menjaga suhu inti normal.",
+      "tag": "Termoregulasi & Kehilangan Panas"
+    },
+    {
+      "front": "4 faktor pemicu cold stress",
+      "back": "Suhu udara rendah, angin (wind chill), kelembaban/kondisi basah, dan pakaian kerja yang tidak memadai.",
+      "tag": "Termoregulasi & Kehilangan Panas"
+    },
+    {
+      "front": "Mengapa angin meningkatkan risiko dingin (efek wind chill)?",
+      "back": "Angin menghilangkan lapisan tipis udara hangat di dekat kulit (konveksi), mempercepat kehilangan panas sehingga suhu terasa lebih dingin dari suhu aktual. Angin lebih kencang = risiko lebih besar meski suhu sama.",
+      "tag": "Termoregulasi & Kehilangan Panas"
+    },
+    {
+      "front": "Gangguan kognitif-motorik akibat dingin",
+      "back": "Penurunan fungsi kognitif & motorik: gerakan lambat, linglung, mudah jatuh. Berisiko pada operator yang bekerja di luar ruang.",
+      "tag": "Hipotermia"
+    },
+    {
+      "front": "5 penyakit utama akibat cold stress",
+      "back": "Hipotermia, frostbite (radang dingin), chilblains (perniosis), trench foot (kaki parit), dan gangguan kognitif-motorik.",
+      "tag": "Cedera Dingin Lokal"
+    },
+    {
+      "front": "Cara membaca tabel wind chill",
+      "back": "Suhu aktual (°C) di kolom atas, kecepatan angin (mph) di kolom kiri. Titik perpotongan = nilai Ekuivalen Temperatur Dingin, lalu interpretasi lewat zona warna.",
+      "tag": "Wind Chill"
+    },
+    {
+      "front": "Contoh pembacaan tabel wind chill",
+      "back": "Contoh 1: -12,2°C + 20 mph -> -31,7°C (zona kuning/bahaya meningkat). Contoh 2: -45,6°C + 35 mph -> -89,4°C (zona merah/sangat berbahaya, kerja luar sangat tidak disarankan).",
+      "tag": "Wind Chill"
+    },
+    {
+      "front": "Rumus lengkap WCT (metrik)",
+      "back": "WCT = 13,12 + 0,6215·Ta - 11,37·V^0,16 + 0,3965·Ta·V^0,16. Ta = suhu udara (°C), V = kecepatan angin (km/jam). Contoh: Ta -15°C, V 30 km/jam (V^0,16 ≈ 1,93) -> WCT ≈ -29,7°C.",
+      "tag": "Wind Chill"
+    },
+    {
+      "front": "Wind chill -28 s.d -39°C: risiko frostbite?",
+      "back": "Risiko frostbite meningkat pada kebanyakan orang dalam 10-30 menit paparan. Semakin rendah wind chill, semakin cepat frostbite terjadi (bisa hitungan menit).",
+      "tag": "Wind Chill"
+    },
+    {
+      "front": "Contoh jadwal kerja: kapan kerja dihentikan?",
+      "back": "-32 s.d -34°C / 5 mph: kerja maks 55 menit, 3x istirahat (shift 4 jam). -38 s.d -39°C / 15 mph: pekerjaan non-darurat dihentikan; hanya kerja darurat dengan APD lengkap, durasi pendek, pengawasan medis.",
+      "tag": "Work-Warming Regimen"
+    },
+    {
+      "front": "Catatan penting penerapan work/warm-up schedule",
+      "back": "Istirahat/pemanasan harus di ruangan hangat (bukan sekadar berhenti). Jika berkeringat, risiko naik & pemanasan lebih sering. APD wajib: sarung tangan, sepatu insulasi, pelindung wajah, pakaian berlapis.",
+      "tag": "Work-Warming Regimen"
+    },
+    {
+      "front": "Cold Stress Wind Chill Calculator: input & output",
+      "back": "Input: kecepatan angin (km/jam) & suhu udara (°C). Output: Adjusted Temperature (wind chill), Risk to Workers, Health Concerns, dan Precautions. Untuk menentukan durasi kerja aman, pakaian, dan waktu istirahat.",
+      "tag": "Wind Chill"
+    },
+    {
+      "front": "Estimasi kecepatan angin tanpa alat",
+      "back": "Daun tidak bergerak: 0-2 mph (tenang). Daun bergerak pelan: 3-7 mph. Debu beterbangan: 8-12 mph. Cabang pohon goyang: 13-18 mph.",
+      "tag": "Pengukuran"
+    },
+    {
+      "front": "Spesifikasi termometer untuk iklim kerja dingin",
+      "back": "Termometer suhu kering mampu mengukur hingga -40°C. Termohygrometer mengukur suhu + kelembaban, anemometer mengukur kecepatan angin.",
+      "tag": "Pengukuran"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Iklim Kerja Dingin",
+      "color": "#6366f1",
+      "parent": null,
+      "content": "Cold stress (stres dingin): kondisi kerja pada suhu rendah yang membahayakan kesehatan. Terjadi saat tubuh tidak mampu menjaga suhu inti tetap normal akibat paparan suhu rendah, terutama bila disertai angin, kelembaban, atau pakaian kerja yang tidak memadai."
+    },
+    {
+      "id": "ds",
+      "label": "Konsep Dasar",
+      "color": "#8b5cf6",
+      "parent": "root",
+      "content": "Pengertian cold stress dan faktor lingkungan yang memengaruhinya."
+    },
+    {
+      "id": "ds-def",
+      "label": "Definisi Cold Stress",
+      "color": "#8b5cf6",
+      "parent": "ds",
+      "content": "Penyakit akibat kerja yang disebabkan oleh stres dingin; terjadi ketika tubuh tidak mampu mempertahankan suhu inti normal karena paparan suhu rendah."
+    },
+    {
+      "id": "ds-inti",
+      "label": "Suhu Inti Tubuh",
+      "color": "#8b5cf6",
+      "parent": "ds",
+      "content": "Masalah timbul saat tubuh gagal menjaga suhu inti tetap normal sehingga panas tubuh hilang lebih cepat daripada produksinya."
+    },
+    {
+      "id": "ds-fak",
+      "label": "Faktor Pemicu",
+      "color": "#8b5cf6",
+      "parent": "ds",
+      "content": "Faktor lingkungan & kerja yang memperberat paparan dingin:\n- Suhu udara rendah\n- Angin (wind chill)\n- Kelembaban / kondisi basah\n- Pakaian kerja yang tidak memadai"
+    },
+    {
+      "id": "ds-fak-suhu",
+      "label": "Suhu Udara Rendah",
+      "color": "#8b5cf6",
+      "parent": "ds-fak",
+      "content": "Suhu lingkungan kerja yang rendah merupakan faktor utama paparan dingin."
+    },
+    {
+      "id": "ds-fak-angin",
+      "label": "Angin (Wind Chill)",
+      "color": "#8b5cf6",
+      "parent": "ds-fak",
+      "content": "Angin menghilangkan lapisan tipis udara hangat di dekat kulit sehingga mempercepat kehilangan panas; suhu terasa lebih dingin dari suhu aktual."
+    },
+    {
+      "id": "ds-fak-lembab",
+      "label": "Kelembaban / Basah",
+      "color": "#8b5cf6",
+      "parent": "ds-fak",
+      "content": "Kondisi lembab atau basah meningkatkan risiko; pekerja yang berkeringat berisiko lebih tinggi sehingga pemanasan harus lebih sering."
+    },
+    {
+      "id": "ds-fak-pakaian",
+      "label": "Pakaian Tidak Memadai",
+      "color": "#8b5cf6",
+      "parent": "ds-fak",
+      "content": "Pakaian kerja yang tidak memadai membuat tubuh kehilangan panas dan memperbesar risiko cold stress."
+    },
+    {
+      "id": "pk",
+      "label": "Penyakit Akibat Cold Stress",
+      "color": "#06b6d4",
+      "parent": "root",
+      "content": "Lima gangguan kesehatan utama akibat paparan dingin beserta gejala dan kelompok pekerja berisiko."
+    },
+    {
+      "id": "pk-hipo",
+      "label": "Hipotermia",
+      "color": "#06b6d4",
+      "parent": "pk",
+      "content": "Penurunan suhu inti tubuh akibat paparan dingin."
+    },
+    {
+      "id": "pk-hipo-g",
+      "label": "Gejala",
+      "color": "#06b6d4",
+      "parent": "pk-hipo",
+      "content": "Gejala utama hipotermia:\n- Menggigil\n- Bingung\n- Koma"
+    },
+    {
+      "id": "pk-hipo-r",
+      "label": "Risiko Pekerjaan",
+      "color": "#06b6d4",
+      "parent": "pk-hipo",
+      "content": "Banyak terjadi pada pekerja luar ruangan."
+    },
+    {
+      "id": "pk-frost",
+      "label": "Frostbite (Radang Dingin)",
+      "color": "#06b6d4",
+      "parent": "pk",
+      "content": "Pembekuan jaringan kulit akibat suhu sangat dingin."
+    },
+    {
+      "id": "pk-frost-g",
+      "label": "Gejala",
+      "color": "#06b6d4",
+      "parent": "pk-frost",
+      "content": "Gejala utama frostbite:\n- Kulit beku\n- Mati rasa\n- Kulit menghitam"
+    },
+    {
+      "id": "pk-frost-r",
+      "label": "Risiko Pekerjaan",
+      "color": "#06b6d4",
+      "parent": "pk-frost",
+      "content": "Banyak terjadi pada pekerja salju dan pekerja tambang."
+    },
+    {
+      "id": "pk-frost-nip",
+      "label": "Frostnip",
+      "color": "#06b6d4",
+      "parent": "pk-frost",
+      "content": "Tahap awal sebelum frostbite; jari tangan/kaki, telinga, dan wajah mati rasa atau memutih akibat paparan dingin."
+    },
+    {
+      "id": "pk-chil",
+      "label": "Chilblains (Perniosis)",
+      "color": "#06b6d4",
+      "parent": "pk",
+      "content": "Peradangan pembuluh darah kecil akibat paparan dingin."
+    },
+    {
+      "id": "pk-chil-g",
+      "label": "Gejala",
+      "color": "#06b6d4",
+      "parent": "pk-chil",
+      "content": "Gejala utama chilblains:\n- Gatal\n- Merah\n- Bengkak"
+    },
+    {
+      "id": "pk-chil-r",
+      "label": "Risiko Pekerjaan",
+      "color": "#06b6d4",
+      "parent": "pk-chil",
+      "content": "Banyak terjadi pada pekerja di lingkungan lembab dan dingin."
+    },
+    {
+      "id": "pk-trench",
+      "label": "Trench Foot (Kaki Parit)",
+      "color": "#06b6d4",
+      "parent": "pk",
+      "content": "Kerusakan kaki akibat paparan lembab dan dingin dalam waktu lama."
+    },
+    {
+      "id": "pk-trench-g",
+      "label": "Gejala",
+      "color": "#06b6d4",
+      "parent": "pk-trench",
+      "content": "Gejala utama trench foot:\n- Kulit basah\n- Bengkak\n- Nyeri"
+    },
+    {
+      "id": "pk-trench-r",
+      "label": "Risiko Pekerjaan",
+      "color": "#06b6d4",
+      "parent": "pk-trench",
+      "content": "Banyak terjadi pada pekerja logistik beku."
+    },
+    {
+      "id": "pk-kog",
+      "label": "Gangguan Kognitif Motorik",
+      "color": "#06b6d4",
+      "parent": "pk",
+      "content": "Penurunan fungsi kognitif dan motorik akibat paparan dingin."
+    },
+    {
+      "id": "pk-kog-g",
+      "label": "Gejala",
+      "color": "#06b6d4",
+      "parent": "pk-kog",
+      "content": "Gejala utama gangguan kognitif motorik:\n- Lambat\n- Linglung\n- Mudah jatuh"
+    },
+    {
+      "id": "pk-kog-r",
+      "label": "Risiko Pekerjaan",
+      "color": "#06b6d4",
+      "parent": "pk-kog",
+      "content": "Banyak terjadi pada operator yang bekerja di luar ruang."
+    },
+    {
+      "id": "st",
+      "label": "Standar & Tabel Cold Stress",
+      "color": "#f59e0b",
+      "parent": "root",
+      "content": "Standar penilaian risiko cold stress menggunakan tabel wind chill."
+    },
+    {
+      "id": "st-reg",
+      "label": "Permenaker No. 5 Tahun 2018",
+      "color": "#f59e0b",
+      "parent": "st",
+      "content": "Permenaker RI No. 5 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja menjadi acuan standar iklim kerja dingin (cold stress)."
+    },
+    {
+      "id": "st-wct",
+      "label": "Tabel Wind Chill",
+      "color": "#f59e0b",
+      "parent": "st",
+      "content": "Disebut juga tabel ekuivalen temperatur dingin; menilai risiko bahaya paparan suhu dingin terhadap tubuh berdasarkan gabungan suhu udara aktual dan kecepatan angin. Digunakan pada penilaian cold stress di tempat kerja beriklim dingin atau ruang pendingin."
+    },
+    {
+      "id": "st-cara",
+      "label": "Cara Menggunakan Tabel",
+      "color": "#f59e0b",
+      "parent": "st",
+      "content": "Langkah penggunaan tabel wind chill:\n- Identifikasi suhu aktual (kolom atas, derajat C) dan kecepatan angin (kolom kiri, mph)\n- Cari titik perpotongan untuk nilai Ekuivalen Temperatur Dingin\n- Interpretasikan risiko berdasarkan zona warna"
+    },
+    {
+      "id": "st-cara-suhu",
+      "label": "Parameter Suhu Aktual",
+      "color": "#f59e0b",
+      "parent": "st-cara",
+      "content": "Suhu temperatur aktual di lokasi kerja (derajat C), dibaca pada kolom atas tabel."
+    },
+    {
+      "id": "st-cara-angin",
+      "label": "Parameter Kecepatan Angin",
+      "color": "#f59e0b",
+      "parent": "st-cara",
+      "content": "Kecepatan angin yang bertiup di lokasi (mph), dibaca pada kolom kiri tabel."
+    },
+    {
+      "id": "st-zona",
+      "label": "Tiga Zona Risiko",
+      "color": "#f59e0b",
+      "parent": "st",
+      "content": "Tabel terbagi menjadi tiga zona risiko berdasarkan warna."
+    },
+    {
+      "id": "st-zona-biru",
+      "label": "Sedikit Berbahaya (Biru)",
+      "color": "#f59e0b",
+      "parent": "st-zona",
+      "content": "Paparan dingin dapat menyebabkan rasa tidak nyaman atau gejala ringan seperti menggigil. Tindakan: pakaian hangat standar dan monitoring biasa."
+    },
+    {
+      "id": "st-zona-kuning",
+      "label": "Bahaya Meningkat (Kuning)",
+      "color": "#f59e0b",
+      "parent": "st-zona",
+      "content": "Risiko frostbite pada bagian tubuh terbuka dalam waktu 1 menit. Tindakan: pengawasan ketat, pakaian pelindung lengkap, dan waktu kerja dibatasi."
+    },
+    {
+      "id": "st-zona-merah",
+      "label": "Sangat Berbahaya (Merah)",
+      "color": "#f59e0b",
+      "parent": "st-zona",
+      "content": "Tubuh dapat membeku dalam 30 detik; kondisi ekstrem dapat menyebabkan hipotermia atau frostbite parah. Tindakan: hindari bekerja di luar; hanya dengan APD ekstrem dan kerja sangat singkat."
+    },
+    {
+      "id": "st-ct",
+      "label": "Contoh Penggunaan Tabel",
+      "color": "#f59e0b",
+      "parent": "st",
+      "content": "Contoh pembacaan titik potong tabel wind chill."
+    },
+    {
+      "id": "st-ct-1",
+      "label": "Contoh 1",
+      "color": "#f59e0b",
+      "parent": "st-ct",
+      "content": "Suhu aktual -12,2 C, angin 20 mph, titik potong = -31,7 C. Termasuk zona bahaya meningkat; risiko frostbite pada bagian terbuka dalam 1 menit. Tindakan: pakaian berlapis, sarung tangan, pelindung wajah."
+    },
+    {
+      "id": "st-ct-2",
+      "label": "Contoh 2",
+      "color": "#f59e0b",
+      "parent": "st-ct",
+      "content": "Suhu aktual -45,6 C, angin 35 mph, titik potong = -89,4 C. Masuk zona sangat berbahaya; tubuh bisa membeku dalam 30 detik. Tindakan: kerja di luar sangat tidak disarankan."
+    },
+    {
+      "id": "jd",
+      "label": "Jadwal Kerja & Pemanasan",
+      "color": "#10b981",
+      "parent": "root",
+      "content": "Pedoman pengendalian paparan dingin: Work/Warm-up Schedule untuk shift kerja 4 jam."
+    },
+    {
+      "id": "jd-tab",
+      "label": "Tabel Work/Warm-up",
+      "color": "#10b981",
+      "parent": "jd",
+      "content": "Tabel jadwal kerja dan pemanasan selama shift kerja 4 jam pada kondisi cold stress, disusun berdasarkan kombinasi suhu udara dan kecepatan angin, sebagai pedoman menjaga keselamatan dan kesehatan pekerja."
+    },
+    {
+      "id": "jd-cara",
+      "label": "Cara Menggunakan",
+      "color": "#10b981",
+      "parent": "jd",
+      "content": "Langkah penggunaan:\n- Identifikasi kondisi lingkungan: suhu udara (derajat C) dan kecepatan angin (mph)\n- Baca sel pada baris suhu dan kolom kecepatan angin yang sesuai"
+    },
+    {
+      "id": "jd-isi",
+      "label": "Isi Tiap Sel",
+      "color": "#10b981",
+      "parent": "jd",
+      "content": "Tiap sel menunjukkan dua hal:\n- Periode kerja maksimum: lama kerja berturut-turut sebelum istirahat\n- Jumlah istirahat/pemanasan: berapa kali masuk ruangan hangat selama shift 4 jam"
+    },
+    {
+      "id": "jd-isi-kerja",
+      "label": "Periode Kerja Maksimum",
+      "color": "#10b981",
+      "parent": "jd-isi",
+      "content": "Waktu kerja maksimal terus-menerus sebelum istirahat di ruang hangat, mis. 75 menit."
+    },
+    {
+      "id": "jd-isi-rest",
+      "label": "Jumlah Istirahat/Pemanasan",
+      "color": "#10b981",
+      "parent": "jd-isi",
+      "content": "Jumlah kali istirahat/pemanasan yang harus diberikan selama shift (2, 3, dst.)."
+    },
+    {
+      "id": "jd-isi-stop",
+      "label": "Penghentian Kerja",
+      "color": "#10b981",
+      "parent": "jd-isi",
+      "content": "Pada kondisi tertentu, pekerjaan yang tidak darurat sebaiknya dihentikan; risiko terlalu tinggi, hanya pekerjaan darurat dengan perlindungan ekstra."
+    },
+    {
+      "id": "jd-ct",
+      "label": "Contoh Penggunaan",
+      "color": "#10b981",
+      "parent": "jd",
+      "content": "Contoh pembacaan jadwal kerja dan pemanasan."
+    },
+    {
+      "id": "jd-ct-1",
+      "label": "Contoh 1",
+      "color": "#10b981",
+      "parent": "jd-ct",
+      "content": "Suhu -32 s.d -34 C, angin 5 mph: periode kerja maksimal 55 menit dengan total 3 kali istirahat/pemanasan dalam shift 4 jam."
+    },
+    {
+      "id": "jd-ct-2",
+      "label": "Contoh 2",
+      "color": "#10b981",
+      "parent": "jd-ct",
+      "content": "Suhu -38 s.d -39 C, angin 15 mph: pekerjaan yang tidak darurat sebaiknya dihentikan. Hanya pekerjaan darurat dengan APD lengkap, durasi pendek, dan pengawasan medis."
+    },
+    {
+      "id": "jd-cat",
+      "label": "Catatan Penting",
+      "color": "#10b981",
+      "parent": "jd",
+      "content": "Hal penting dalam penerapan jadwal:\n- Istirahat/pemanasan dilakukan di ruangan hangat (bukan sekadar berhenti bekerja)\n- Jika pekerja berkeringat, risiko meningkat dan pemanasan harus lebih sering\n- APD wajib: sarung tangan, sepatu insulasi, pelindung wajah, pakaian berlapis\n- Kecepatan angin lebih tinggi = risiko lebih besar meski suhu sama"
+    },
+    {
+      "id": "wc",
+      "label": "Perhitungan Wind Chill",
+      "color": "#ec4899",
+      "parent": "root",
+      "content": "Cara menghitung perkiraan suhu wind chill (WCT) dan hubungannya dengan risiko frostbite."
+    },
+    {
+      "id": "wc-rumus",
+      "label": "Rumus WCT",
+      "color": "#ec4899",
+      "parent": "wc",
+      "content": "Rumus metrik menggabungkan efek suhu udara dan kecepatan angin untuk memperkirakan suhu yang dirasakan kulit terpapar.\n- WCT = 13,12 + 0,6215.Ta - 11,37.V^0,16 + 0,3965.Ta.V^0,16"
+    },
+    {
+      "id": "wc-wct",
+      "label": "WCT",
+      "color": "#ec4899",
+      "parent": "wc-rumus",
+      "content": "Wind Chill Temperature, suhu wind chill dalam derajat Celsius (C)."
+    },
+    {
+      "id": "wc-ta",
+      "label": "Ta (Suhu Udara)",
+      "color": "#ec4899",
+      "parent": "wc-rumus",
+      "content": "Suhu udara sebenarnya (C). Pengaruh linier positif: makin tinggi Ta, makin tinggi WCT."
+    },
+    {
+      "id": "wc-v",
+      "label": "V (Kecepatan Angin)",
+      "color": "#ec4899",
+      "parent": "wc-rumus",
+      "content": "Kecepatan angin (km/jam). Pengaruh kompleks melalui V^0,16: makin tinggi V, makin rendah WCT karena angin mempercepat kehilangan panas."
+    },
+    {
+      "id": "wc-langkah",
+      "label": "Langkah Perhitungan",
+      "color": "#ec4899",
+      "parent": "wc",
+      "content": "Tahapan menghitung WCT:\n- Dapatkan suhu udara Ta (C) yang sebenarnya\n- Dapatkan kecepatan angin V (km/jam)\n- Masukkan nilai ke dalam formula\n- Hitung V^0,16 (perlu kalkulator ilmiah)\n- Lakukan perkalian & penjumlahan sesuai urutan formula"
+    },
+    {
+      "id": "wc-ct",
+      "label": "Contoh Perhitungan",
+      "color": "#ec4899",
+      "parent": "wc",
+      "content": "Ta = -15 C, V = 30 km/jam, V^0,16 = 30^0,16 ~ 1,93. Hasil WCT ~ -29,7 C, masuk rentang -28 s.d -39 C pada tabel risiko frostbite (risiko meningkat dalam 10-30 menit)."
+    },
+    {
+      "id": "wc-frost",
+      "label": "Wind Chill vs Frostbite",
+      "color": "#ec4899",
+      "parent": "wc",
+      "content": "Semakin rendah suhu wind chill, semakin cepat risiko frostbite. Pada wind chill sangat rendah, frostbite dapat terjadi dalam hitungan menit. Contoh -28 s.d -39 C: risiko meningkat dalam 10-30 menit."
+    },
+    {
+      "id": "kal",
+      "label": "Cold Stress Calculator",
+      "color": "#ef4444",
+      "parent": "root",
+      "content": "Cold Stress Wind Chill Calculator for Construction: alat bantu untuk memperkirakan risiko paparan dingin terhadap tubuh di lingkungan kerja/luar ruangan, memperhitungkan suhu udara dan kecepatan angin."
+    },
+    {
+      "id": "kal-tuj",
+      "label": "Tujuan",
+      "color": "#ef4444",
+      "parent": "kal",
+      "content": "Membantu pekerja lapangan, supervisor K3, dan petugas SAR menghitung risiko kesehatan akibat dingin untuk menentukan durasi kerja aman, jenis pakaian pelindung, dan waktu istirahat ideal."
+    },
+    {
+      "id": "kal-input",
+      "label": "Input Data",
+      "color": "#ef4444",
+      "parent": "kal",
+      "content": "Dua parameter utama yang dimasukkan:\n- Kecepatan angin saat ini (km/jam), mis. 10\n- Suhu udara saat ini (derajat C), mis. -22"
+    },
+    {
+      "id": "kal-out",
+      "label": "Output Kalkulator",
+      "color": "#ef4444",
+      "parent": "kal",
+      "content": "Hasil dan interpretasi yang dikeluarkan kalkulator."
+    },
+    {
+      "id": "kal-out-adj",
+      "label": "Adjusted Temperature",
+      "color": "#ef4444",
+      "parent": "kal-out",
+      "content": "Suhu efektif yang dirasakan tubuh akibat kombinasi suhu dingin dan angin (wind chill), mis. -30 C."
+    },
+    {
+      "id": "kal-out-risk",
+      "label": "Risk to Workers",
+      "color": "#ef4444",
+      "parent": "kal-out",
+      "content": "Risiko untuk pekerja, mis. \"High risk of frostbite for most people in 10-30 minutes of exposure\" (risiko tinggi radang dingin bila terpapar 10-30 menit)."
+    },
+    {
+      "id": "kal-out-health",
+      "label": "Health Concerns",
+      "color": "#ef4444",
+      "parent": "kal-out",
+      "content": "Kekhawatiran kesehatan:\n- Risiko frostnip/frostbite (jari, telinga, wajah mati rasa atau putih)\n- Risiko hipotermia bila tanpa pakaian hangat atau terlalu lama di luar"
+    },
+    {
+      "id": "kal-out-prec",
+      "label": "Precautions",
+      "color": "#ef4444",
+      "parent": "kal-out",
+      "content": "Tindakan pencegahan:\n- Pakai pakaian berlapis yang hangat dan tahan angin\n- Tutupi semua kulit terbuka\n- Gunakan topi, sarung tangan berinsulasi, syal, penutup leher/wajah, sepatu tahan air & hangat\n- Tetap kering dan aktif"
+    },
+    {
+      "id": "kal-est",
+      "label": "Estimasi Kecepatan Angin",
+      "color": "#ef4444",
+      "parent": "kal",
+      "content": "Bila tak ada info cuaca, kecepatan angin dapat diperkirakan dari kondisi lingkungan:\n- Daun tidak bergerak: 0-2 mph (tenang)\n- Daun bergerak pelan: 3-7 mph\n- Debu beterbangan: 8-12 mph\n- Cabang pohon goyang: 13-18 mph"
+    },
+    {
+      "id": "uk",
+      "label": "Pengukuran & Peralatan",
+      "color": "#14b8a6",
+      "parent": "root",
+      "content": "Alat ukur dan prosedur pengukuran iklim kerja dingin."
+    },
+    {
+      "id": "uk-alat",
+      "label": "Peralatan",
+      "color": "#14b8a6",
+      "parent": "uk",
+      "content": "Alat ukur iklim kerja dingin mencakup pengukur suhu kering dan pengukur kecepatan angin."
+    },
+    {
+      "id": "uk-alat-term",
+      "label": "Termometer",
+      "color": "#14b8a6",
+      "parent": "uk-alat",
+      "content": "Mengukur suhu kering (mampu mengukur sampai -40 C)."
+    },
+    {
+      "id": "uk-alat-hygro",
+      "label": "Termohygrometer",
+      "color": "#14b8a6",
+      "parent": "uk-alat",
+      "content": "Mengukur suhu dan kelembaban udara."
+    },
+    {
+      "id": "uk-alat-anemo",
+      "label": "Anemometer",
+      "color": "#14b8a6",
+      "parent": "uk-alat",
+      "content": "Mengukur kecepatan angin / aliran udara."
+    },
+    {
+      "id": "uk-sni",
+      "label": "Prosedur SNI 7061-2019",
+      "color": "#14b8a6",
+      "parent": "uk",
+      "content": "Langkah pengukuran iklim kerja dingin menurut SNI 7061-2019."
+    },
+    {
+      "id": "uk-sni-tinggi",
+      "label": "Ketinggian Alat",
+      "color": "#14b8a6",
+      "parent": "uk-sni",
+      "content": "Letakkan termometer suhu kering pada titik pengukuran sesuai posisi kerja mayoritas pekerja: posisi berdiri sekitar 1,00 m dan posisi duduk sekitar 0,60 m."
+    },
+    {
+      "id": "uk-sni-adapt",
+      "label": "Penyesuaian 20 Menit",
+      "color": "#14b8a6",
+      "parent": "uk-sni",
+      "content": "Tempatkan alat di titik pengukuran selama 20 menit agar menyesuaikan dengan suhu lingkungan kerja."
+    },
+    {
+      "id": "uk-sni-baca",
+      "label": "Pembacaan 6 Kali",
+      "color": "#14b8a6",
+      "parent": "uk-sni",
+      "content": "Lakukan pembacaan setiap 5 menit sebanyak 6 kali pembacaan dan catat pada formulir yang disediakan."
+    },
+    {
+      "id": "uk-sni-ulang",
+      "label": "Ulangi Tiap Titik",
+      "color": "#14b8a6",
+      "parent": "uk-sni",
+      "content": "Untuk titik pengukuran berikutnya, ulangi prosedur dari langkah awal."
+    },
+    {
+      "id": "uk-sni-angin",
+      "label": "Ukur Kecepatan Angin",
+      "color": "#14b8a6",
+      "parent": "uk-sni",
+      "content": "Lakukan pengukuran kecepatan angin atau aliran udara di titik pengukuran."
+    }
+  ]
+}

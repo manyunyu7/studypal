@@ -1,0 +1,10 @@
+{
+  "subject": "Metode Penilaian Risiko",
+  "description": "Mata kuliah praktik yang membahas berbagai metode identifikasi bahaya dan penilaian risiko di tempat kerja. Mahasiswa mempelajari teknik seperti observasi kondisi/tindakan tidak aman, JSA/JSO, HAZOP, HIRADC, formulir ijin kerja, hingga penilaian risiko semi kuantitatif. Fokus pada penerapan metode untuk menganalisis dan mengendalikan risiko pada pekerjaan berisiko tinggi.",
+  "icon": "⚠️",
+  "order": 6,
+  "semester": {
+    "name": "Semester 2",
+    "year": "2025/2026"
+  }
+}

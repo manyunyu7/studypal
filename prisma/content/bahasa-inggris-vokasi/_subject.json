@@ -1,0 +1,10 @@
+{
+  "subject": "Bahasa Inggris Vokasi",
+  "description": "Mata kuliah Bahasa Inggris vokasional yang berfokus pada keterampilan menulis teks deskriptif dan teks rekon (recount) dalam Bahasa Inggris. Materi mencakup struktur teks, ciri kebahasaan (tenses, verba, kata sifat), serta penerapannya dalam konteks K3 seperti mendeskripsikan bahaya, APD, dan prosedur keselamatan.",
+  "icon": "🗣️",
+  "order": 10,
+  "semester": {
+    "name": "Semester 2",
+    "year": "2025/2026"
+  }
+}

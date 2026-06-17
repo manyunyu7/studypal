@@ -1,0 +1,1327 @@
+{
+  "topic": "Komunikasi Risiko K3",
+  "order": 4,
+  "description": "Komunikasi risiko K3 adalah proses penyampaian informasi mengenai bahaya, risiko, dan langkah pengendalian keselamatan dan kesehatan kerja kepada seluruh pihak di tempat kerja. Tujuannya membangun kesadaran, mencegah kecelakaan, dan mendorong perilaku kerja aman melalui prinsip transparansi, inklusivitas, dan peningkatan berkelanjutan sesuai regulasi seperti PP No. 50 Tahun 2012 dan ISO 45001:2018.",
+  "subtopics": [
+    "Gambaran Umum Komunikasi Risiko K3",
+    "Pentingnya Komunikasi Risiko K3",
+    "Regulasi & Standar",
+    "Prinsip Komunikasi Risiko K3",
+    "Implementasi Komunikasi Risiko K3",
+    "Alat & Teknik Komunikasi Risiko K3"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan K3 (Keselamatan dan Kesehatan Kerja)?",
+      "explanation": "K3 adalah sistem yang melindungi pekerja, mencegah kecelakaan, dan memastikan tempat kerja aman sesuai standar yang berlaku.",
+      "difficulty": "EASY",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Program pelatihan kerja umum bagi karyawan baru", "isCorrect": false },
+        { "text": "B. Sistem yang melindungi pekerja, mencegah kecelakaan, dan memastikan tempat kerja aman", "isCorrect": true },
+        { "text": "C. Aturan tentang jam kerja dan upah minimum", "isCorrect": false },
+        { "text": "D. Kebijakan rekrutmen tenaga kerja perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 pada dasarnya merupakan proses?",
+      "explanation": "Komunikasi risiko K3 adalah proses penyampaian informasi tentang bahaya, risiko, dan langkah pengendalian kepada pihak terkait di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Penyampaian informasi bahaya, risiko, dan pengendaliannya kepada pihak terkait", "isCorrect": true },
+        { "text": "B. Penyusunan laporan keuangan perusahaan", "isCorrect": false },
+        { "text": "C. Penjadwalan shift kerja karyawan", "isCorrect": false },
+        { "text": "D. Pemasaran produk perusahaan kepada pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan utama penerapan K3 di tempat kerja adalah?",
+      "explanation": "Tujuan K3 antara lain menjaga kesehatan fisik dan mental pekerja serta meminimalkan potensi bahaya di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Meningkatkan harga jual produk", "isCorrect": false },
+        { "text": "B. Menjaga kesehatan fisik dan mental serta meminimalkan potensi bahaya", "isCorrect": true },
+        { "text": "C. Mengurangi jumlah karyawan", "isCorrect": false },
+        { "text": "D. Memperpanjang jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan K3 yang baik diharapkan dapat meningkatkan?",
+      "explanation": "K3 bertujuan meningkatkan efisiensi dan produktivitas melalui lingkungan kerja yang kondusif.",
+      "difficulty": "EASY",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Tingkat kecelakaan kerja", "isCorrect": false },
+        { "text": "B. Efisiensi dan produktivitas melalui lingkungan kerja kondusif", "isCorrect": true },
+        { "text": "C. Biaya operasional perusahaan", "isCorrect": false },
+        { "text": "D. Jumlah lembur pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lingkup K3 mencakup?",
+      "explanation": "Lingkup K3 mencakup semua aspek kerja, mulai dari identifikasi risiko hingga implementasi langkah pencegahan.",
+      "difficulty": "EASY",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Hanya proses produksi di pabrik", "isCorrect": false },
+        { "text": "B. Semua aspek kerja, dari identifikasi risiko hingga implementasi pencegahan", "isCorrect": true },
+        { "text": "C. Hanya penggunaan APD", "isCorrect": false },
+        { "text": "D. Hanya kegiatan administrasi kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam konteks K3, istilah 'bahaya' (hazard) paling tepat diartikan sebagai?",
+      "explanation": "Bahaya (hazard) adalah segala sesuatu yang berpotensi menimbulkan cedera atau kerugian, sedangkan risiko adalah kemungkinan dan keparahan dampaknya.",
+      "difficulty": "MEDIUM",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Kerugian yang sudah pasti terjadi", "isCorrect": false },
+        { "text": "B. Sumber atau situasi yang berpotensi menimbulkan cedera atau kerugian", "isCorrect": true },
+        { "text": "C. Biaya perbaikan setelah kecelakaan", "isCorrect": false },
+        { "text": "D. Jumlah pekerja yang terpapar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara 'bahaya' dan 'risiko' dalam K3 adalah?",
+      "explanation": "Bahaya adalah sumber potensi cedera, sedangkan risiko adalah kombinasi kemungkinan terjadinya dan tingkat keparahan dampak dari bahaya tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Keduanya memiliki arti yang sama persis", "isCorrect": false },
+        { "text": "B. Bahaya adalah sumber potensi cedera; risiko adalah kemungkinan dan keparahan dampaknya", "isCorrect": true },
+        { "text": "C. Bahaya selalu lebih kecil daripada risiko", "isCorrect": false },
+        { "text": "D. Risiko hanya ada di pabrik, bahaya hanya di kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 sebaiknya ditujukan kepada?",
+      "explanation": "Komunikasi risiko K3 melibatkan seluruh pihak di tempat kerja, termasuk pekerja, manajemen, kontraktor, dan pemangku kepentingan lainnya.",
+      "difficulty": "EASY",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Hanya manajemen puncak", "isCorrect": false },
+        { "text": "B. Seluruh pihak di tempat kerja termasuk pekerja dan pemangku kepentingan", "isCorrect": true },
+        { "text": "C. Hanya petugas K3", "isCorrect": false },
+        { "text": "D. Hanya pekerja baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa komunikasi risiko K3 penting untuk pencegahan kecelakaan?",
+      "explanation": "Dengan komunikasi risiko yang baik, pekerja mengetahui bahaya dan cara mengendalikannya sehingga kecelakaan dapat dicegah.",
+      "difficulty": "EASY",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Karena dapat menghapus semua bahaya secara otomatis", "isCorrect": false },
+        { "text": "B. Karena pekerja jadi mengetahui bahaya dan cara mengendalikannya", "isCorrect": true },
+        { "text": "C. Karena menggantikan kebutuhan APD", "isCorrect": false },
+        { "text": "D. Karena meningkatkan upah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat penting komunikasi risiko K3 adalah meningkatkan?",
+      "explanation": "Komunikasi risiko K3 meningkatkan kesadaran pekerja terhadap bahaya di lingkungan kerja mereka.",
+      "difficulty": "EASY",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Kesadaran pekerja terhadap bahaya", "isCorrect": true },
+        { "text": "B. Kecepatan produksi tanpa batas", "isCorrect": false },
+        { "text": "C. Jumlah dokumen administrasi saja", "isCorrect": false },
+        { "text": "D. Tingkat kebisingan ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 yang efektif mendorong pekerja untuk melakukan?",
+      "explanation": "Komunikasi risiko K3 mendorong tindakan responsif, yaitu pekerja cepat bertindak tepat saat menghadapi situasi berbahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Tindakan responsif yang tepat saat menghadapi bahaya", "isCorrect": true },
+        { "text": "B. Penghindaran terhadap semua tugas kerja", "isCorrect": false },
+        { "text": "C. Pengabaian terhadap prosedur kerja", "isCorrect": false },
+        { "text": "D. Penolakan terhadap pelatihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 berkontribusi pada perbaikan kondisi kerja (work conditions) dengan cara?",
+      "explanation": "Dengan komunikasi risiko, masalah bahaya dapat diidentifikasi dan diperbaiki sehingga kondisi kerja menjadi lebih aman dan sehat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menyembunyikan informasi bahaya dari pekerja", "isCorrect": false },
+        { "text": "B. Mengidentifikasi dan memperbaiki masalah bahaya sehingga lingkungan lebih aman", "isCorrect": true },
+        { "text": "C. Mengurangi jumlah inspeksi", "isCorrect": false },
+        { "text": "D. Menambah beban kerja administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanpa komunikasi risiko K3 yang baik, dampak yang paling mungkin terjadi adalah?",
+      "explanation": "Tanpa komunikasi risiko yang baik, pekerja tidak menyadari bahaya sehingga potensi kecelakaan dan penyakit akibat kerja meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Produktivitas meningkat tanpa risiko", "isCorrect": false },
+        { "text": "B. Meningkatnya potensi kecelakaan karena pekerja tidak menyadari bahaya", "isCorrect": true },
+        { "text": "C. Biaya operasional menurun drastis", "isCorrect": false },
+        { "text": "D. Kepuasan pelanggan meningkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 membantu membangun budaya keselamatan karena?",
+      "explanation": "Komunikasi yang konsisten membuat keselamatan menjadi nilai bersama dan kebiasaan dalam organisasi sehingga terbentuk budaya keselamatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menjadikan keselamatan sebagai nilai dan kebiasaan bersama dalam organisasi", "isCorrect": true },
+        { "text": "B. Menghapus kebutuhan akan prosedur K3", "isCorrect": false },
+        { "text": "C. Membuat pekerja takut melapor", "isCorrect": false },
+        { "text": "D. Mengurangi keterlibatan manajemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Regulasi nasional yang menjadi acuan utama Sistem Manajemen K3 (SMK3) di Indonesia adalah?",
+      "explanation": "PP No. 50 Tahun 2012 mengatur penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) di Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. PP No. 50 Tahun 2012", "isCorrect": true },
+        { "text": "B. PP No. 21 Tahun 2008", "isCorrect": false },
+        { "text": "C. UU No. 40 Tahun 2004", "isCorrect": false },
+        { "text": "D. PP No. 101 Tahun 2014", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar internasional yang mengatur sistem manajemen keselamatan dan kesehatan kerja adalah?",
+      "explanation": "ISO 45001:2018 adalah standar internasional untuk Sistem Manajemen Keselamatan dan Kesehatan Kerja (OH&S).",
+      "difficulty": "EASY",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. ISO 9001:2015", "isCorrect": false },
+        { "text": "B. ISO 14001:2015", "isCorrect": false },
+        { "text": "C. ISO 45001:2018", "isCorrect": true },
+        { "text": "D. ISO 27001:2013", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "PP No. 50 Tahun 2012 secara khusus mengatur tentang?",
+      "explanation": "PP No. 50 Tahun 2012 mengatur penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) di perusahaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. Penerapan Sistem Manajemen K3 (SMK3)", "isCorrect": true },
+        { "text": "B. Standar upah minimum regional", "isCorrect": false },
+        { "text": "C. Jaminan pensiun pekerja", "isCorrect": false },
+        { "text": "D. Perizinan lingkungan hidup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu elemen penting dalam SMK3 menurut PP No. 50 Tahun 2012 yang berkaitan langsung dengan topik ini adalah?",
+      "explanation": "Komunikasi dan konsultasi K3 merupakan elemen SMK3 yang menjamin informasi bahaya dan risiko tersampaikan kepada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. Komunikasi dan konsultasi K3", "isCorrect": true },
+        { "text": "B. Penggajian berbasis kinerja", "isCorrect": false },
+        { "text": "C. Penjualan produk K3", "isCorrect": false },
+        { "text": "D. Pengelolaan pajak perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "ISO 45001:2018 menekankan pendekatan yang dikenal dengan siklus?",
+      "explanation": "ISO 45001:2018 menerapkan pendekatan siklus PDCA (Plan-Do-Check-Act) untuk perbaikan berkelanjutan sistem manajemen K3.",
+      "difficulty": "HARD",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. SWOT", "isCorrect": false },
+        { "text": "B. PDCA (Plan-Do-Check-Act)", "isCorrect": true },
+        { "text": "C. FIFO", "isCorrect": false },
+        { "text": "D. SMART", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain regulasi nasional dan standar internasional, perusahaan juga dapat menggunakan?",
+      "explanation": "Perusahaan dapat menerapkan pendekatan berbasis hukum lainnya sebagai dasar komunikasi risiko K3, di samping PP No. 50/2012 dan ISO 45001:2018.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. Pendekatan berbasis hukum lainnya yang relevan", "isCorrect": true },
+        { "text": "B. Hanya kebijakan internal tanpa dasar hukum", "isCorrect": false },
+        { "text": "C. Standar yang sudah dicabut", "isCorrect": false },
+        { "text": "D. Aturan negara lain tanpa adaptasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama ISO 45001:2018 bagi organisasi adalah?",
+      "explanation": "ISO 45001:2018 bertujuan menyediakan tempat kerja yang aman dan sehat serta mencegah cedera dan penyakit akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. Menyediakan tempat kerja aman dan mencegah cedera serta penyakit akibat kerja", "isCorrect": true },
+        { "text": "B. Meningkatkan penjualan ekspor", "isCorrect": false },
+        { "text": "C. Mengatur standar mutu produk pangan", "isCorrect": false },
+        { "text": "D. Mengatur keamanan informasi digital", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan SMK3 sesuai PP No. 50 Tahun 2012 bersifat wajib bagi perusahaan yang?",
+      "explanation": "SMK3 wajib diterapkan oleh perusahaan yang mempekerjakan minimal 100 orang atau memiliki tingkat potensi bahaya tinggi.",
+      "difficulty": "HARD",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. Mempekerjakan minimal 100 orang atau berpotensi bahaya tinggi", "isCorrect": true },
+        { "text": "B. Hanya perusahaan asing", "isCorrect": false },
+        { "text": "C. Hanya perusahaan teknologi", "isCorrect": false },
+        { "text": "D. Semua perusahaan tanpa kecuali ukuran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah prinsip utama komunikasi risiko K3 yang dibahas dalam materi?",
+      "explanation": "Terdapat tiga prinsip utama komunikasi risiko K3: transparansi dan kepercayaan, inklusivitas dan partisipasi, serta peningkatan berkelanjutan.",
+      "difficulty": "EASY",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Dua", "isCorrect": false },
+        { "text": "B. Tiga", "isCorrect": true },
+        { "text": "C. Empat", "isCorrect": false },
+        { "text": "D. Lima", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip komunikasi risiko K3 adalah transparansi dan?",
+      "explanation": "Prinsip pertama komunikasi risiko K3 adalah transparansi dan kepercayaan, yang dibangun melalui kejujuran dan konsistensi.",
+      "difficulty": "EASY",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Kepercayaan", "isCorrect": true },
+        { "text": "B. Kerahasiaan", "isCorrect": false },
+        { "text": "C. Keuntungan", "isCorrect": false },
+        { "text": "D. Kecepatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip transparansi dan kepercayaan dibangun melalui tiga hal, yaitu?",
+      "explanation": "Transparansi dan kepercayaan dibangun melalui kejujuran, komunikasi yang jelas, dan konsistensi.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Kejujuran, komunikasi yang jelas, dan konsistensi", "isCorrect": true },
+        { "text": "B. Kecepatan, biaya rendah, dan otomatisasi", "isCorrect": false },
+        { "text": "C. Kerahasiaan, hierarki, dan formalitas", "isCorrect": false },
+        { "text": "D. Sanksi, ancaman, dan pengawasan ketat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip inklusivitas dan partisipasi dalam komunikasi risiko K3 menekankan?",
+      "explanation": "Inklusivitas dan partisipasi menekankan keterlibatan karyawan, pemangku kepentingan, dan diskusi terbuka dalam komunikasi K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Keterlibatan karyawan dan pemangku kepentingan serta diskusi terbuka", "isCorrect": true },
+        { "text": "B. Pengambilan keputusan oleh manajemen saja", "isCorrect": false },
+        { "text": "C. Pembatasan informasi kepada pekerja", "isCorrect": false },
+        { "text": "D. Komunikasi satu arah dari atasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang termasuk dalam elemen prinsip inklusivitas dan partisipasi adalah?",
+      "explanation": "Inklusivitas dan partisipasi mencakup partisipasi karyawan, keterlibatan pemangku kepentingan, dan diskusi terbuka.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Partisipasi karyawan, keterlibatan pemangku kepentingan, diskusi terbuka", "isCorrect": true },
+        { "text": "B. Evaluasi berkala, umpan balik, pelatihan lanjutan", "isCorrect": false },
+        { "text": "C. Kejujuran, konsistensi, kejelasan", "isCorrect": false },
+        { "text": "D. Eliminasi, substitusi, rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip peningkatan berkelanjutan (continuous improvement) dalam komunikasi risiko K3 mencakup?",
+      "explanation": "Peningkatan berkelanjutan mencakup evaluasi berkala, pengumpulan umpan balik, dan pelatihan lanjutan.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Evaluasi berkala, pengumpulan umpan balik, dan pelatihan lanjutan", "isCorrect": true },
+        { "text": "B. Kejujuran, kepercayaan, dan konsistensi", "isCorrect": false },
+        { "text": "C. Eliminasi, substitusi, dan APD", "isCorrect": false },
+        { "text": "D. Identifikasi, penilaian, dan mitigasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa konsistensi penting dalam prinsip transparansi komunikasi risiko K3?",
+      "explanation": "Konsistensi membuat informasi K3 dapat dipercaya dan diandalkan pekerja, sehingga kepercayaan terhadap organisasi terbangun.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Agar informasi dapat dipercaya dan diandalkan sehingga membangun kepercayaan", "isCorrect": true },
+        { "text": "B. Agar laporan terlihat banyak", "isCorrect": false },
+        { "text": "C. Agar pekerja tidak perlu dilatih", "isCorrect": false },
+        { "text": "D. Agar biaya komunikasi naik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Diskusi terbuka sebagai bagian dari prinsip inklusivitas bertujuan untuk?",
+      "explanation": "Diskusi terbuka memungkinkan pekerja menyampaikan kekhawatiran dan masukan tentang risiko sehingga komunikasi berjalan dua arah.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Memungkinkan pekerja menyampaikan kekhawatiran dan masukan tentang risiko", "isCorrect": true },
+        { "text": "B. Membatasi pekerja untuk berbicara", "isCorrect": false },
+        { "text": "C. Mempercepat produksi semata", "isCorrect": false },
+        { "text": "D. Menghindari pertemuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengumpulan umpan balik (feedback) dalam prinsip peningkatan berkelanjutan berguna untuk?",
+      "explanation": "Umpan balik dari pekerja membantu memperbaiki dan menyempurnakan program komunikasi risiko K3 secara terus-menerus.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Memperbaiki dan menyempurnakan program K3 secara berkelanjutan", "isCorrect": true },
+        { "text": "B. Menambah dokumen tanpa tujuan", "isCorrect": false },
+        { "text": "C. Mengganti pekerja yang mengkritik", "isCorrect": false },
+        { "text": "D. Menghentikan program pelatihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip kejujuran (honesty) dalam komunikasi risiko K3 berarti?",
+      "explanation": "Kejujuran berarti menyampaikan informasi bahaya dan risiko apa adanya tanpa menutupi atau memanipulasi fakta.",
+      "difficulty": "EASY",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menyampaikan informasi bahaya dan risiko apa adanya tanpa ditutupi", "isCorrect": true },
+        { "text": "B. Hanya menyampaikan informasi yang menguntungkan perusahaan", "isCorrect": false },
+        { "text": "C. Menunda penyampaian informasi penting", "isCorrect": false },
+        { "text": "D. Menyembunyikan insiden dari pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberdayaan dan keterlibatan pekerja dalam pengambilan keputusan K3 merupakan wujud prinsip?",
+      "explanation": "Melibatkan pekerja dalam pengambilan keputusan adalah wujud prinsip inklusivitas dan partisipasi.",
+      "difficulty": "HARD",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Inklusivitas dan partisipasi", "isCorrect": true },
+        { "text": "B. Kerahasiaan informasi", "isCorrect": false },
+        { "text": "C. Otokrasi manajemen", "isCorrect": false },
+        { "text": "D. Sentralisasi total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa tahap utama dalam implementasi komunikasi risiko K3?",
+      "explanation": "Implementasi komunikasi risiko K3 terdiri atas tiga tahap: identifikasi bahaya, penilaian risiko, dan mitigasi risiko.",
+      "difficulty": "EASY",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Dua", "isCorrect": false },
+        { "text": "B. Tiga", "isCorrect": true },
+        { "text": "C. Empat", "isCorrect": false },
+        { "text": "D. Lima", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap pertama dalam implementasi komunikasi risiko K3 adalah?",
+      "explanation": "Tahap pertama implementasi adalah identifikasi bahaya, yang mencakup observasi langsung, pengumpulan data, dan pemahaman proses kerja.",
+      "difficulty": "EASY",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Mitigasi risiko", "isCorrect": false },
+        { "text": "B. Identifikasi bahaya", "isCorrect": true },
+        { "text": "C. Penilaian risiko", "isCorrect": false },
+        { "text": "D. Penggunaan APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya dalam implementasi K3 dilakukan melalui?",
+      "explanation": "Identifikasi bahaya dilakukan melalui observasi langsung, pengumpulan data, dan pemahaman proses kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Observasi langsung, pengumpulan data, dan pemahaman proses kerja", "isCorrect": true },
+        { "text": "B. Analisis kemungkinan, kajian dampak, dan pemetaan risiko", "isCorrect": false },
+        { "text": "C. Eliminasi, substitusi, dan rekayasa teknik", "isCorrect": false },
+        { "text": "D. Evaluasi berkala dan pelatihan lanjutan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap penilaian risiko (risk assessment) dalam implementasi K3 mencakup?",
+      "explanation": "Penilaian risiko mencakup analisis kemungkinan, kajian dampak, dan pemetaan risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Analisis kemungkinan, kajian dampak, dan pemetaan risiko", "isCorrect": true },
+        { "text": "B. Observasi langsung dan pengumpulan data", "isCorrect": false },
+        { "text": "C. Pelatihan dan dokumentasi", "isCorrect": false },
+        { "text": "D. Eliminasi dan substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap mitigasi risiko dalam implementasi K3 menggunakan pendekatan?",
+      "explanation": "Mitigasi risiko menggunakan hierarki pengendalian: eliminasi risiko, substitusi, rekayasa teknik, dan penggunaan APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Eliminasi, substitusi, rekayasa teknik, dan penggunaan APD", "isCorrect": true },
+        { "text": "B. Observasi, pengumpulan data, dan pemahaman proses", "isCorrect": false },
+        { "text": "C. Evaluasi, umpan balik, dan pelatihan", "isCorrect": false },
+        { "text": "D. Kejujuran, kepercayaan, dan konsistensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam hierarki pengendalian risiko, langkah yang paling utama atau paling efektif adalah?",
+      "explanation": "Eliminasi risiko (menghilangkan sumber bahaya sepenuhnya) merupakan langkah paling efektif dalam hierarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Penggunaan APD", "isCorrect": false },
+        { "text": "B. Eliminasi risiko", "isCorrect": true },
+        { "text": "C. Rekayasa teknik", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam hierarki mitigasi risiko, penggunaan APD berada pada posisi?",
+      "explanation": "Penggunaan APD merupakan langkah terakhir dan paling lemah dalam hierarki pengendalian, dipakai bila pengendalian lain belum memadai.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Posisi paling utama", "isCorrect": false },
+        { "text": "B. Posisi terakhir/paling lemah", "isCorrect": true },
+        { "text": "C. Di atas eliminasi", "isCorrect": false },
+        { "text": "D. Di atas rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengganti bahan kimia berbahaya dengan bahan yang lebih aman merupakan langkah mitigasi berupa?",
+      "explanation": "Mengganti bahan/proses berbahaya dengan yang lebih aman termasuk langkah substitusi dalam hierarki pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Substitusi", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Rekayasa teknik", "isCorrect": false },
+        { "text": "D. Penggunaan APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memasang sistem ventilasi atau pelindung mesin untuk mengurangi paparan bahaya termasuk langkah?",
+      "explanation": "Memasang ventilasi, pelindung mesin, atau peredam merupakan contoh rekayasa teknik (engineering control).",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Rekayasa teknik", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Penggunaan APD", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemetaan risiko (risk mapping) dalam penilaian risiko bertujuan untuk?",
+      "explanation": "Pemetaan risiko bertujuan menggambarkan tingkat risiko berdasarkan kemungkinan dan dampak, sehingga prioritas pengendalian dapat ditentukan.",
+      "difficulty": "HARD",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menggambarkan tingkat risiko untuk menentukan prioritas pengendalian", "isCorrect": true },
+        { "text": "B. Menghitung gaji pekerja", "isCorrect": false },
+        { "text": "C. Menentukan jam istirahat", "isCorrect": false },
+        { "text": "D. Memilih warna seragam pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemahaman proses kerja penting dalam identifikasi bahaya karena?",
+      "explanation": "Dengan memahami alur dan proses kerja, potensi bahaya pada setiap tahapan pekerjaan dapat dikenali secara lebih akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Membantu mengenali potensi bahaya pada setiap tahapan pekerjaan", "isCorrect": true },
+        { "text": "B. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "C. Mempercepat penjualan produk", "isCorrect": false },
+        { "text": "D. Menambah jam lembur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis kemungkinan (likelihood) dalam penilaian risiko menggambarkan?",
+      "explanation": "Analisis kemungkinan menggambarkan seberapa besar peluang suatu bahaya benar-benar menimbulkan kejadian/insiden.",
+      "difficulty": "HARD",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Seberapa besar peluang bahaya menimbulkan insiden", "isCorrect": true },
+        { "text": "B. Besarnya biaya pelatihan", "isCorrect": false },
+        { "text": "C. Jumlah dokumen yang dibuat", "isCorrect": false },
+        { "text": "D. Lama waktu kerja per hari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kajian dampak (consequence) dalam penilaian risiko menilai?",
+      "explanation": "Kajian dampak menilai tingkat keparahan akibat yang ditimbulkan apabila bahaya benar-benar terjadi.",
+      "difficulty": "HARD",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Tingkat keparahan akibat bila bahaya terjadi", "isCorrect": true },
+        { "text": "B. Jumlah pelanggan perusahaan", "isCorrect": false },
+        { "text": "C. Kecepatan internet kantor", "isCorrect": false },
+        { "text": "D. Warna rambu keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa kategori utama alat dan teknik komunikasi risiko K3 yang dibahas dalam materi?",
+      "explanation": "Terdapat tiga kategori utama: pelatihan dan pendidikan, dokumentasi dan pelaporan, serta platform digital dan saluran komunikasi.",
+      "difficulty": "EASY",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Dua", "isCorrect": false },
+        { "text": "B. Tiga", "isCorrect": true },
+        { "text": "C. Empat", "isCorrect": false },
+        { "text": "D. Enam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu alat komunikasi risiko K3 berupa pelatihan dan pendidikan bertujuan untuk?",
+      "explanation": "Pelatihan dan pendidikan bertujuan meningkatkan kesadaran pekerja, membekali keterampilan praktis, dan membangun budaya keselamatan.",
+      "difficulty": "EASY",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Meningkatkan kesadaran pekerja dan membangun budaya keselamatan", "isCorrect": true },
+        { "text": "B. Menambah jumlah mesin produksi", "isCorrect": false },
+        { "text": "C. Mengurangi gaji pekerja", "isCorrect": false },
+        { "text": "D. Mempercepat pengiriman barang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelatihan dan pendidikan K3 membantu membekali pekerja dengan?",
+      "explanation": "Pelatihan membekali pekerja dengan keterampilan praktis untuk bekerja secara aman.",
+      "difficulty": "EASY",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Keterampilan praktis untuk bekerja secara aman", "isCorrect": true },
+        { "text": "B. Modal usaha pribadi", "isCorrect": false },
+        { "text": "C. Hak cuti tambahan", "isCorrect": false },
+        { "text": "D. Kendaraan operasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dokumentasi dan pelaporan dalam komunikasi risiko K3 mencakup kegiatan?",
+      "explanation": "Dokumentasi dan pelaporan mencakup pencatatan insiden, pemantauan reguler, dan pelaporan secara transparan.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Pencatatan insiden, pemantauan reguler, dan pelaporan transparan", "isCorrect": true },
+        { "text": "B. Penjualan produk dan promosi", "isCorrect": false },
+        { "text": "C. Rekrutmen dan penggajian", "isCorrect": false },
+        { "text": "D. Eliminasi dan substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencatatan insiden (incident recording) dalam dokumentasi K3 penting karena?",
+      "explanation": "Pencatatan insiden menyediakan data untuk analisis penyebab dan pencegahan kejadian serupa di masa depan.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menyediakan data untuk analisis penyebab dan pencegahan kejadian serupa", "isCorrect": true },
+        { "text": "B. Menambah beban kerja tanpa manfaat", "isCorrect": false },
+        { "text": "C. Menyembunyikan kesalahan manajemen", "isCorrect": false },
+        { "text": "D. Mengganti kebutuhan pelatihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Platform digital dan saluran komunikasi dalam K3 memberikan keunggulan berupa?",
+      "explanation": "Platform digital memberikan efisiensi teknologi, notifikasi otomatis, dan aksesibilitas informasi K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Efisiensi teknologi, notifikasi otomatis, dan aksesibilitas informasi", "isCorrect": true },
+        { "text": "B. Penambahan jam kerja manual", "isCorrect": false },
+        { "text": "C. Pembatasan akses informasi", "isCorrect": false },
+        { "text": "D. Pengurangan transparansi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Notifikasi otomatis pada platform digital K3 berfungsi untuk?",
+      "explanation": "Notifikasi otomatis menyampaikan peringatan atau informasi penting K3 kepada pekerja secara cepat dan tepat waktu.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menyampaikan peringatan dan informasi K3 secara cepat dan tepat waktu", "isCorrect": true },
+        { "text": "B. Menghapus data insiden", "isCorrect": false },
+        { "text": "C. Menggantikan seluruh pelatihan tatap muka", "isCorrect": false },
+        { "text": "D. Membatasi komunikasi antar pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemantauan reguler (regular monitoring) dalam dokumentasi K3 bertujuan untuk?",
+      "explanation": "Pemantauan reguler memastikan kondisi K3 tetap terkendali dan deviasi terdeteksi sejak dini.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Memastikan kondisi K3 terkendali dan deteksi dini deviasi", "isCorrect": true },
+        { "text": "B. Menambah jumlah rapat tanpa tujuan", "isCorrect": false },
+        { "text": "C. Mengganti laporan dengan rumor", "isCorrect": false },
+        { "text": "D. Menutup akses informasi pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rambu/safety sign termasuk salah satu alat komunikasi risiko K3 jenis?",
+      "explanation": "Rambu keselamatan (safety sign) adalah alat komunikasi visual yang menyampaikan peringatan, larangan, kewajiban, atau informasi K3.",
+      "difficulty": "EASY",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Komunikasi visual", "isCorrect": true },
+        { "text": "B. Komunikasi finansial", "isCorrect": false },
+        { "text": "C. Komunikasi hiburan", "isCorrect": false },
+        { "text": "D. Komunikasi rahasia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rambu K3 dengan warna dasar merah pada umumnya menunjukkan?",
+      "explanation": "Rambu berwarna merah umumnya menunjukkan larangan atau bahaya kebakaran/peralatan pemadam, sebagai tanda peringatan keras.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Larangan atau bahaya kebakaran", "isCorrect": true },
+        { "text": "B. Kewajiban memakai APD", "isCorrect": false },
+        { "text": "C. Jalur evakuasi aman", "isCorrect": false },
+        { "text": "D. Informasi netral", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rambu K3 berwarna kuning dengan simbol segitiga umumnya berarti?",
+      "explanation": "Rambu kuning segitiga menyatakan peringatan/waspada terhadap suatu bahaya tertentu di area kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Peringatan/waspada terhadap bahaya", "isCorrect": true },
+        { "text": "B. Larangan mutlak", "isCorrect": false },
+        { "text": "C. Kewajiban", "isCorrect": false },
+        { "text": "D. Pintu keluar darurat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rambu K3 berwarna biru dengan simbol bulat umumnya menyatakan?",
+      "explanation": "Rambu biru bulat menyatakan kewajiban, misalnya wajib memakai helm, kacamata, atau sepatu pelindung.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Kewajiban, misalnya wajib memakai APD tertentu", "isCorrect": true },
+        { "text": "B. Larangan masuk", "isCorrect": false },
+        { "text": "C. Bahaya tegangan tinggi", "isCorrect": false },
+        { "text": "D. Lokasi P3K", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rambu K3 berwarna hijau umumnya digunakan untuk menunjukkan?",
+      "explanation": "Rambu hijau umumnya menunjukkan kondisi aman, jalur evakuasi, atau lokasi fasilitas pertolongan seperti P3K.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Kondisi aman, jalur evakuasi, atau lokasi P3K", "isCorrect": true },
+        { "text": "B. Bahaya ledakan", "isCorrect": false },
+        { "text": "C. Larangan merokok", "isCorrect": false },
+        { "text": "D. Tegangan listrik tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dokumen yang berisi informasi keselamatan suatu bahan kimia berbahaya disebut?",
+      "explanation": "MSDS/SDS (Material Safety Data Sheet/Safety Data Sheet) adalah lembar data keselamatan yang memuat informasi bahaya dan penanganan bahan kimia.",
+      "difficulty": "EASY",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. MSDS/SDS (Lembar Data Keselamatan Bahan)", "isCorrect": true },
+        { "text": "B. CV (Curriculum Vitae)", "isCorrect": false },
+        { "text": "C. SOP keuangan", "isCorrect": false },
+        { "text": "D. Faktur penjualan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan MSDS dalam komunikasi bahan kimia berbahaya adalah?",
+      "explanation": "MSDS adalah singkatan dari Material Safety Data Sheet, kini banyak disebut SDS (Safety Data Sheet).",
+      "difficulty": "EASY",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Material Safety Data Sheet", "isCorrect": true },
+        { "text": "B. Modern Safety Detection System", "isCorrect": false },
+        { "text": "C. Management Standard Data Set", "isCorrect": false },
+        { "text": "D. Manual Service Daily Schedule", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Informasi yang biasanya terdapat dalam MSDS/SDS antara lain?",
+      "explanation": "MSDS/SDS memuat identitas bahan, bahaya, cara penanganan, penyimpanan, pertolongan pertama, dan tindakan darurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Identitas bahan, bahaya, penanganan, dan tindakan darurat", "isCorrect": true },
+        { "text": "B. Harga jual dan diskon produk", "isCorrect": false },
+        { "text": "C. Daftar gaji karyawan", "isCorrect": false },
+        { "text": "D. Jadwal libur nasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem internasional untuk klasifikasi dan pelabelan bahan kimia berbahaya disebut?",
+      "explanation": "GHS (Globally Harmonized System) adalah sistem global untuk klasifikasi dan pelabelan bahan kimia berbahaya, termasuk piktogram bahaya.",
+      "difficulty": "HARD",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. GHS (Globally Harmonized System)", "isCorrect": true },
+        { "text": "B. ISO 9001", "isCorrect": false },
+        { "text": "C. HACCP", "isCorrect": false },
+        { "text": "D. KPI", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Label B3 (Bahan Berbahaya dan Beracun) berfungsi untuk?",
+      "explanation": "Label B3 menyampaikan informasi jenis bahaya bahan kimia agar pekerja dapat menangani dan menyimpannya secara aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menginformasikan jenis bahaya agar penanganan dan penyimpanan aman", "isCorrect": true },
+        { "text": "B. Menunjukkan harga bahan", "isCorrect": false },
+        { "text": "C. Menandai tanggal kedaluwarsa gaji", "isCorrect": false },
+        { "text": "D. Menggantikan APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan B3 dalam konteks bahan kimia di Indonesia adalah?",
+      "explanation": "B3 adalah singkatan dari Bahan Berbahaya dan Beracun.",
+      "difficulty": "EASY",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Bahan Berbahaya dan Beracun", "isCorrect": true },
+        { "text": "B. Bahan Baku Bersih", "isCorrect": false },
+        { "text": "C. Barang Bekas Berkualitas", "isCorrect": false },
+        { "text": "D. Bahan Bangunan Buatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Piktogram pada label B3 berupa simbol tengkorak biasanya menandakan?",
+      "explanation": "Simbol tengkorak (skull and crossbones) pada label B3/GHS menandakan bahan beracun (toxic) yang dapat menyebabkan keracunan akut.",
+      "difficulty": "HARD",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Bahan beracun (toxic)", "isCorrect": true },
+        { "text": "B. Bahan mudah didaur ulang", "isCorrect": false },
+        { "text": "C. Bahan aman dikonsumsi", "isCorrect": false },
+        { "text": "D. Bahan ramah lingkungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertemuan singkat tentang keselamatan sebelum pekerjaan dimulai dikenal dengan istilah?",
+      "explanation": "Toolbox meeting atau safety talk adalah pertemuan singkat tentang keselamatan yang dilakukan sebelum pekerjaan dimulai.",
+      "difficulty": "EASY",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Toolbox meeting / safety talk", "isCorrect": true },
+        { "text": "B. Rapat pemegang saham", "isCorrect": false },
+        { "text": "C. Rapat anggaran tahunan", "isCorrect": false },
+        { "text": "D. Audit keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Safety induction merupakan kegiatan komunikasi K3 yang ditujukan terutama kepada?",
+      "explanation": "Safety induction adalah pengenalan K3 yang diberikan kepada pekerja baru atau tamu sebelum memasuki area kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Pekerja baru atau tamu sebelum memasuki area kerja", "isCorrect": true },
+        { "text": "B. Hanya direktur perusahaan", "isCorrect": false },
+        { "text": "C. Pelanggan eksternal", "isCorrect": false },
+        { "text": "D. Pemegang saham", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Toolbox talk biasanya dilakukan dengan durasi?",
+      "explanation": "Toolbox talk/safety talk umumnya berlangsung singkat sekitar 5-10 menit sebelum pekerjaan dimulai.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Singkat, sekitar 5-10 menit", "isCorrect": true },
+        { "text": "B. Sepanjang shift kerja", "isCorrect": false },
+        { "text": "C. Minimal 3 jam", "isCorrect": false },
+        { "text": "D. Hanya 10 detik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi bahaya kepada pekerja paling efektif bila disampaikan dengan cara?",
+      "explanation": "Komunikasi bahaya efektif bila menggunakan bahasa jelas, sederhana, dan disesuaikan dengan pemahaman pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Bahasa jelas, sederhana, dan sesuai pemahaman pekerja", "isCorrect": true },
+        { "text": "B. Istilah teknis yang rumit tanpa penjelasan", "isCorrect": false },
+        { "text": "C. Hanya melalui dokumen tebal yang jarang dibaca", "isCorrect": false },
+        { "text": "D. Disembunyikan dari pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan safety induction bagi pekerja baru adalah?",
+      "explanation": "Safety induction mengenalkan potensi bahaya, prosedur darurat, dan aturan K3 di lokasi kerja kepada pekerja baru.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Mengenalkan bahaya, prosedur darurat, dan aturan K3 di lokasi kerja", "isCorrect": true },
+        { "text": "B. Menentukan besarnya gaji awal", "isCorrect": false },
+        { "text": "C. Memberikan jadwal cuti tahunan", "isCorrect": false },
+        { "text": "D. Mengajarkan teknik pemasaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aksesibilitas informasi (accessibility) melalui platform digital K3 berarti?",
+      "explanation": "Aksesibilitas berarti informasi K3 dapat dijangkau dengan mudah oleh pekerja kapan saja dan di mana saja.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Informasi K3 mudah dijangkau pekerja kapan saja dan di mana saja", "isCorrect": true },
+        { "text": "B. Informasi hanya untuk manajemen", "isCorrect": false },
+        { "text": "C. Informasi dibatasi jam kerja saja", "isCorrect": false },
+        { "text": "D. Informasi disimpan rahasia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Membangun budaya keselamatan (safety culture) melalui pelatihan berarti?",
+      "explanation": "Membangun budaya keselamatan berarti menjadikan keselamatan sebagai kebiasaan dan nilai yang dipegang seluruh pekerja sehari-hari.",
+      "difficulty": "HARD",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menjadikan keselamatan sebagai kebiasaan dan nilai seluruh pekerja", "isCorrect": true },
+        { "text": "B. Memberi sanksi tanpa edukasi", "isCorrect": false },
+        { "text": "C. Mengabaikan partisipasi pekerja", "isCorrect": false },
+        { "text": "D. Mengurangi pelatihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelaporan secara transparan dalam dokumentasi K3 mendukung prinsip?",
+      "explanation": "Pelaporan transparan mendukung prinsip transparansi dan kepercayaan dalam komunikasi risiko K3.",
+      "difficulty": "HARD",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Transparansi dan kepercayaan", "isCorrect": true },
+        { "text": "B. Kerahasiaan absolut", "isCorrect": false },
+        { "text": "C. Sentralisasi keputusan", "isCorrect": false },
+        { "text": "D. Pembatasan informasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang BUKAN merupakan tujuan utama K3 adalah?",
+      "explanation": "Tujuan K3 adalah kesehatan fisik-mental, meminimalkan bahaya, dan produktivitas; menambah jam kerja tanpa istirahat bukan tujuan K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Memaksimalkan jam kerja tanpa istirahat", "isCorrect": true },
+        { "text": "B. Menjaga kesehatan fisik dan mental pekerja", "isCorrect": false },
+        { "text": "C. Meminimalkan potensi bahaya", "isCorrect": false },
+        { "text": "D. Meningkatkan produktivitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 yang baik berkontribusi pada efisiensi operasional karena?",
+      "explanation": "Dengan mencegah kecelakaan, komunikasi risiko K3 mengurangi waktu berhenti kerja dan kerugian sehingga operasi lebih efisien.",
+      "difficulty": "HARD",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Mengurangi gangguan kerja dan kerugian akibat kecelakaan", "isCorrect": true },
+        { "text": "B. Menambah jumlah kecelakaan kerja", "isCorrect": false },
+        { "text": "C. Memperlambat seluruh proses produksi", "isCorrect": false },
+        { "text": "D. Menambah biaya tanpa manfaat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep 'tindakan responsif' dalam pentingnya komunikasi risiko K3 berkaitan dengan?",
+      "explanation": "Tindakan responsif berkaitan dengan kemampuan pekerja bertindak cepat dan tepat saat menghadapi situasi darurat atau bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Kemampuan bertindak cepat dan tepat saat menghadapi bahaya", "isCorrect": true },
+        { "text": "B. Penundaan pelaporan bahaya", "isCorrect": false },
+        { "text": "C. Pengabaian terhadap situasi darurat", "isCorrect": false },
+        { "text": "D. Pengurangan pelatihan darurat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa keterlibatan pemangku kepentingan (stakeholder) penting dalam komunikasi risiko K3?",
+      "explanation": "Keterlibatan pemangku kepentingan memastikan semua pihak yang terdampak memahami dan ikut mengelola risiko bersama.",
+      "difficulty": "HARD",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Memastikan semua pihak terdampak memahami dan ikut mengelola risiko", "isCorrect": true },
+        { "text": "B. Agar keputusan hanya dibuat manajemen", "isCorrect": false },
+        { "text": "C. Untuk membatasi akses informasi", "isCorrect": false },
+        { "text": "D. Untuk menambah birokrasi semata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Evaluasi berkala pada prinsip peningkatan berkelanjutan dilakukan untuk?",
+      "explanation": "Evaluasi berkala dilakukan untuk menilai efektivitas program komunikasi risiko K3 dan mengidentifikasi area perbaikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menilai efektivitas program dan mengidentifikasi area perbaikan", "isCorrect": true },
+        { "text": "B. Menghentikan program K3", "isCorrect": false },
+        { "text": "C. Mengurangi pelatihan pekerja", "isCorrect": false },
+        { "text": "D. Membatasi umpan balik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya melalui pengumpulan data dapat memanfaatkan?",
+      "explanation": "Pengumpulan data identifikasi bahaya dapat memanfaatkan catatan insiden sebelumnya, laporan inspeksi, dan keluhan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Catatan insiden sebelumnya, laporan inspeksi, dan keluhan pekerja", "isCorrect": true },
+        { "text": "B. Data penjualan bulanan", "isCorrect": false },
+        { "text": "C. Daftar harga produk", "isCorrect": false },
+        { "text": "D. Profil media sosial pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan antara penilaian risiko dan mitigasi risiko adalah?",
+      "explanation": "Penilaian risiko menentukan prioritas, kemudian mitigasi risiko menetapkan langkah pengendalian sesuai tingkat risiko tersebut.",
+      "difficulty": "HARD",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Penilaian risiko menentukan prioritas, mitigasi menetapkan pengendaliannya", "isCorrect": true },
+        { "text": "B. Keduanya tidak saling berhubungan", "isCorrect": false },
+        { "text": "C. Mitigasi dilakukan sebelum identifikasi bahaya", "isCorrect": false },
+        { "text": "D. Penilaian risiko menggantikan mitigasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menghentikan total suatu proses kerja yang sangat berbahaya merupakan bentuk mitigasi?",
+      "explanation": "Menghentikan/menghilangkan sumber bahaya sepenuhnya adalah eliminasi, langkah mitigasi paling efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": true },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Rekayasa teknik", "isCorrect": false },
+        { "text": "D. Penggunaan APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi dua arah dalam K3 ditandai dengan adanya?",
+      "explanation": "Komunikasi dua arah ditandai dengan umpan balik (feedback), di mana pekerja dapat merespons dan menyampaikan masukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Umpan balik dari penerima pesan", "isCorrect": true },
+        { "text": "B. Pesan yang hanya mengalir dari atasan", "isCorrect": false },
+        { "text": "C. Larangan bertanya", "isCorrect": false },
+        { "text": "D. Komunikasi tertutup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu indikator keberhasilan komunikasi risiko K3 adalah?",
+      "explanation": "Indikator keberhasilan antara lain menurunnya angka kecelakaan dan meningkatnya kepatuhan pekerja terhadap prosedur K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menurunnya angka kecelakaan dan meningkatnya kepatuhan prosedur", "isCorrect": true },
+        { "text": "B. Meningkatnya jumlah insiden", "isCorrect": false },
+        { "text": "C. Berkurangnya partisipasi pekerja", "isCorrect": false },
+        { "text": "D. Hilangnya dokumentasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam ISO 45001:2018, partisipasi dan konsultasi pekerja merupakan?",
+      "explanation": "ISO 45001:2018 mewajibkan partisipasi dan konsultasi pekerja sebagai elemen penting dalam sistem manajemen K3.",
+      "difficulty": "HARD",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. Elemen penting yang diwajibkan dalam sistem manajemen K3", "isCorrect": true },
+        { "text": "B. Kegiatan opsional yang tidak diatur", "isCorrect": false },
+        { "text": "C. Larangan dalam standar", "isCorrect": false },
+        { "text": "D. Tanggung jawab pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari seluruh proses komunikasi risiko K3 adalah?",
+      "explanation": "Tujuan akhir komunikasi risiko K3 adalah menciptakan tempat kerja yang aman, sehat, dan terbentuknya budaya keselamatan.",
+      "difficulty": "EASY",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menciptakan tempat kerja aman, sehat, dan budaya keselamatan", "isCorrect": true },
+        { "text": "B. Menambah jumlah dokumen", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "D. Meningkatkan kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelatihan lanjutan (continuous training) sebagai bagian peningkatan berkelanjutan bertujuan untuk?",
+      "explanation": "Pelatihan lanjutan menjaga dan memperbarui pengetahuan serta keterampilan K3 pekerja seiring perubahan kondisi kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Memperbarui pengetahuan dan keterampilan K3 pekerja secara berkala", "isCorrect": true },
+        { "text": "B. Menghapus pelatihan awal", "isCorrect": false },
+        { "text": "C. Mengurangi keterampilan pekerja", "isCorrect": false },
+        { "text": "D. Membatasi akses informasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 yang transparan membantu mencegah?",
+      "explanation": "Transparansi mencegah terjadinya penyembunyian bahaya dan informasi penting yang dapat membahayakan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Penyembunyian bahaya dan informasi penting dari pekerja", "isCorrect": true },
+        { "text": "B. Partisipasi pekerja", "isCorrect": false },
+        { "text": "C. Pelatihan K3", "isCorrect": false },
+        { "text": "D. Pelaporan insiden", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa observasi langsung efektif untuk identifikasi bahaya?",
+      "explanation": "Observasi langsung memungkinkan pengamat melihat kondisi nyata dan perilaku kerja di lapangan untuk mengenali bahaya aktual.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Memungkinkan melihat kondisi nyata dan perilaku kerja di lapangan", "isCorrect": true },
+        { "text": "B. Menghindari kontak dengan area kerja", "isCorrect": false },
+        { "text": "C. Mengandalkan asumsi tanpa data", "isCorrect": false },
+        { "text": "D. Mengabaikan kondisi aktual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 yang efektif menumbuhkan kesadaran pekerja (worker awareness), yang berarti pekerja?",
+      "explanation": "Kesadaran pekerja berarti pekerja memahami bahaya di sekitarnya dan tahu cara bekerja dengan aman.",
+      "difficulty": "EASY",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Memahami bahaya di sekitarnya dan cara bekerja aman", "isCorrect": true },
+        { "text": "B. Mengabaikan prosedur keselamatan", "isCorrect": false },
+        { "text": "C. Bergantung sepenuhnya pada keberuntungan", "isCorrect": false },
+        { "text": "D. Tidak peduli terhadap risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 berbeda dengan komunikasi biasa karena lebih menekankan pada?",
+      "explanation": "Komunikasi risiko K3 menekankan penyampaian informasi bahaya, risiko, dan pengendalian untuk melindungi keselamatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Penyampaian informasi bahaya, risiko, dan pengendaliannya", "isCorrect": true },
+        { "text": "B. Promosi produk perusahaan", "isCorrect": false },
+        { "text": "C. Negosiasi gaji", "isCorrect": false },
+        { "text": "D. Hiburan karyawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu peran manajemen dalam komunikasi risiko K3 adalah?",
+      "explanation": "Manajemen berperan menyediakan kebijakan, sumber daya, dan menjadi teladan komitmen K3 dalam komunikasi risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Menyediakan kebijakan, sumber daya, dan menjadi teladan komitmen K3", "isCorrect": true },
+        { "text": "B. Menyembunyikan informasi bahaya", "isCorrect": false },
+        { "text": "C. Mengabaikan laporan pekerja", "isCorrect": false },
+        { "text": "D. Melarang pelatihan K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemetaan risiko sering divisualisasikan dengan matriks yang menggabungkan dua sumbu, yaitu?",
+      "explanation": "Matriks risiko menggabungkan sumbu kemungkinan (likelihood) dan dampak/keparahan (consequence) untuk menentukan tingkat risiko.",
+      "difficulty": "HARD",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Kemungkinan (likelihood) dan dampak (consequence)", "isCorrect": true },
+        { "text": "B. Biaya dan keuntungan", "isCorrect": false },
+        { "text": "C. Waktu dan jarak", "isCorrect": false },
+        { "text": "D. Suhu dan kelembapan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa komunikasi risiko K3 harus dilakukan secara berkelanjutan, bukan sekali saja?",
+      "explanation": "Bahaya dan kondisi kerja dapat berubah, sehingga komunikasi risiko perlu berkelanjutan agar tetap relevan dan efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Karena bahaya dan kondisi kerja dapat berubah seiring waktu", "isCorrect": true },
+        { "text": "B. Karena pekerja tidak pernah lupa informasi", "isCorrect": false },
+        { "text": "C. Karena regulasi melarang pengulangan", "isCorrect": false },
+        { "text": "D. Karena cukup sekali untuk selamanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam komunikasi bahaya, penggunaan poster, banner, dan rambu termasuk media komunikasi yang bersifat?",
+      "explanation": "Poster, banner, dan rambu adalah media komunikasi visual yang menyampaikan pesan K3 secara cepat dan mudah dipahami.",
+      "difficulty": "EASY",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Visual", "isCorrect": true },
+        { "text": "B. Auditori murni", "isCorrect": false },
+        { "text": "C. Rahasia", "isCorrect": false },
+        { "text": "D. Finansial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanggung jawab utama untuk menjamin keselamatan kerja menurut prinsip K3 berada pada?",
+      "explanation": "Sesuai UU dan regulasi K3, pengusaha/pemberi kerja bertanggung jawab menjamin keselamatan dan kesehatan kerja pekerjanya.",
+      "difficulty": "HARD",
+      "tag": "Regulasi & Standar",
+      "options": [
+        { "text": "A. Pengusaha/pemberi kerja", "isCorrect": true },
+        { "text": "B. Hanya pekerja itu sendiri", "isCorrect": false },
+        { "text": "C. Pelanggan", "isCorrect": false },
+        { "text": "D. Pemerintah daerah saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelaporan near miss (hampir celaka) merupakan bagian penting komunikasi risiko K3 karena?",
+      "explanation": "Pelaporan near miss membantu mengidentifikasi bahaya potensial sebelum menjadi kecelakaan nyata, sehingga dapat dicegah lebih dini.",
+      "difficulty": "HARD",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Membantu mengenali bahaya potensial sebelum jadi kecelakaan nyata", "isCorrect": true },
+        { "text": "B. Menambah catatan tanpa manfaat", "isCorrect": false },
+        { "text": "C. Menyalahkan pekerja", "isCorrect": false },
+        { "text": "D. Mengurangi kewaspadaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsistensi pesan dalam komunikasi risiko K3 antar berbagai saluran (rambu, pelatihan, dokumen) penting agar?",
+      "explanation": "Konsistensi pesan mencegah kebingungan pekerja dan memperkuat pemahaman yang sama tentang bahaya dan pengendaliannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Mencegah kebingungan dan memperkuat pemahaman yang sama", "isCorrect": true },
+        { "text": "B. Membuat pesan saling bertentangan", "isCorrect": false },
+        { "text": "C. Menyulitkan pekerja memahami", "isCorrect": false },
+        { "text": "D. Mengurangi jumlah saluran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang termasuk contoh platform digital untuk komunikasi risiko K3 adalah?",
+      "explanation": "Aplikasi pelaporan bahaya berbasis ponsel, dashboard K3, atau sistem notifikasi otomatis merupakan contoh platform digital K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Aplikasi pelaporan bahaya dan dashboard K3 berbasis digital", "isCorrect": true },
+        { "text": "B. Buku catatan harian pribadi", "isCorrect": false },
+        { "text": "C. Pengumuman lisan tanpa rekam", "isCorrect": false },
+        { "text": "D. Surat pos biasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kelebihan utama penggunaan alat komunikasi K3 berbasis pelatihan adalah?",
+      "explanation": "Pelatihan memberikan pemahaman mendalam dan keterampilan langsung yang dapat dipraktikkan pekerja di lapangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat & Teknik Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Memberikan pemahaman mendalam dan keterampilan praktis", "isCorrect": true },
+        { "text": "B. Tidak memerlukan partisipasi pekerja", "isCorrect": false },
+        { "text": "C. Menghilangkan kebutuhan dokumentasi", "isCorrect": false },
+        { "text": "D. Hanya sekali seumur hidup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika ditemukan bahaya baru di tempat kerja, langkah komunikasi yang tepat adalah?",
+      "explanation": "Bahaya baru harus segera dikomunikasikan kepada pekerja terkait melalui saluran yang cepat agar tindakan pencegahan dapat dilakukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Segera mengomunikasikan kepada pekerja terkait melalui saluran cepat", "isCorrect": true },
+        { "text": "B. Menundanya hingga rapat tahunan", "isCorrect": false },
+        { "text": "C. Menyembunyikannya dari pekerja", "isCorrect": false },
+        { "text": "D. Mengabaikannya bila belum ada korban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Budaya keselamatan yang kuat tercermin dari perilaku pekerja yang?",
+      "explanation": "Budaya keselamatan kuat tercermin saat pekerja secara sukarela mematuhi prosedur dan saling mengingatkan soal keselamatan.",
+      "difficulty": "HARD",
+      "tag": "Pentingnya Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Sukarela mematuhi prosedur dan saling mengingatkan soal keselamatan", "isCorrect": true },
+        { "text": "B. Mematuhi aturan hanya saat diawasi", "isCorrect": false },
+        { "text": "C. Mengabaikan rambu keselamatan", "isCorrect": false },
+        { "text": "D. Menyembunyikan insiden", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko K3 yang baik melibatkan keseimbangan antara penyampaian informasi dan?",
+      "explanation": "Komunikasi risiko K3 yang baik menyeimbangkan penyampaian informasi dengan mendengarkan masukan/umpan balik pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Mendengarkan masukan dan umpan balik pekerja", "isCorrect": true },
+        { "text": "B. Mengabaikan pendapat pekerja", "isCorrect": false },
+        { "text": "C. Membatasi komunikasi satu arah", "isCorrect": false },
+        { "text": "D. Menutup ruang diskusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara keseluruhan, komunikasi risiko K3 merupakan kunci untuk?",
+      "explanation": "Komunikasi risiko K3 adalah kunci mewujudkan tempat kerja yang aman, sehat, dan produktif melalui pengelolaan risiko bersama.",
+      "difficulty": "EASY",
+      "tag": "Gambaran Umum Komunikasi Risiko K3",
+      "options": [
+        { "text": "A. Mewujudkan tempat kerja yang aman, sehat, dan produktif", "isCorrect": true },
+        { "text": "B. Menambah beban kerja semata", "isCorrect": false },
+        { "text": "C. Mengurangi keuntungan perusahaan", "isCorrect": false },
+        { "text": "D. Memperbanyak konflik internal", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa itu K3?", "back": "Sistem yang melindungi pekerja, mencegah kecelakaan, dan memastikan tempat kerja aman sesuai standar yang berlaku.", "tag": "Gambaran Umum Komunikasi Risiko K3" },
+    { "front": "Definisi komunikasi risiko K3", "back": "Proses penyampaian informasi tentang bahaya, risiko, dan langkah pengendaliannya kepada seluruh pihak di tempat kerja.", "tag": "Gambaran Umum Komunikasi Risiko K3" },
+    { "front": "Tujuan K3", "back": "Menjaga kesehatan fisik dan mental, meminimalkan potensi bahaya, serta meningkatkan efisiensi dan produktivitas melalui lingkungan kondusif.", "tag": "Gambaran Umum Komunikasi Risiko K3" },
+    { "front": "Lingkup K3", "back": "Semua aspek kerja, mulai dari identifikasi risiko hingga implementasi langkah pencegahan.", "tag": "Gambaran Umum Komunikasi Risiko K3" },
+    { "front": "Beda bahaya dan risiko", "back": "Bahaya (hazard) adalah sumber potensi cedera; risiko adalah kombinasi kemungkinan dan keparahan dampak dari bahaya tersebut.", "tag": "Gambaran Umum Komunikasi Risiko K3" },
+    { "front": "Pentingnya komunikasi risiko K3", "back": "Pencegahan kecelakaan, kesadaran pekerja, tindakan responsif, dan perbaikan kondisi kerja (work conditions).", "tag": "Pentingnya Komunikasi Risiko K3" },
+    { "front": "Regulasi nasional SMK3", "back": "PP No. 50 Tahun 2012 tentang penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3).", "tag": "Regulasi & Standar" },
+    { "front": "Standar internasional K3", "back": "ISO 45001:2018 tentang Sistem Manajemen Keselamatan dan Kesehatan Kerja, menggunakan siklus PDCA.", "tag": "Regulasi & Standar" },
+    { "front": "Tiga prinsip komunikasi risiko K3", "back": "Transparansi & kepercayaan, inklusivitas & partisipasi, serta peningkatan berkelanjutan.", "tag": "Prinsip Komunikasi Risiko K3" },
+    { "front": "Transparansi & kepercayaan dibangun melalui", "back": "Kejujuran, komunikasi yang jelas, dan konsistensi.", "tag": "Prinsip Komunikasi Risiko K3" },
+    { "front": "Inklusivitas & partisipasi mencakup", "back": "Partisipasi karyawan, keterlibatan pemangku kepentingan, dan diskusi terbuka.", "tag": "Prinsip Komunikasi Risiko K3" },
+    { "front": "Peningkatan berkelanjutan mencakup", "back": "Evaluasi berkala, pengumpulan umpan balik, dan pelatihan lanjutan.", "tag": "Prinsip Komunikasi Risiko K3" },
+    { "front": "Tiga tahap implementasi komunikasi risiko K3", "back": "Identifikasi bahaya, penilaian risiko, dan mitigasi risiko.", "tag": "Implementasi Komunikasi Risiko K3" },
+    { "front": "Identifikasi bahaya dilakukan dengan", "back": "Observasi langsung, pengumpulan data, dan pemahaman proses kerja.", "tag": "Implementasi Komunikasi Risiko K3" },
+    { "front": "Penilaian risiko mencakup", "back": "Analisis kemungkinan (likelihood), kajian dampak (consequence), dan pemetaan risiko.", "tag": "Implementasi Komunikasi Risiko K3" },
+    { "front": "Hierarki mitigasi risiko", "back": "Eliminasi, substitusi, rekayasa teknik, dan penggunaan APD (dari paling efektif ke paling lemah).", "tag": "Implementasi Komunikasi Risiko K3" },
+    { "front": "Tiga kategori alat & teknik komunikasi K3", "back": "Pelatihan & pendidikan, dokumentasi & pelaporan, serta platform digital & saluran komunikasi.", "tag": "Alat & Teknik Komunikasi Risiko K3" },
+    { "front": "Apa itu MSDS/SDS?", "back": "Lembar Data Keselamatan Bahan yang memuat identitas bahan, bahaya, penanganan, dan tindakan darurat bahan kimia.", "tag": "Alat & Teknik Komunikasi Risiko K3" },
+    { "front": "Apa itu B3?", "back": "Bahan Berbahaya dan Beracun; labelnya menginformasikan jenis bahaya agar penanganan dan penyimpanan aman.", "tag": "Alat & Teknik Komunikasi Risiko K3" },
+    { "front": "Apa itu safety talk / toolbox talk?", "back": "Pertemuan singkat (5-10 menit) tentang keselamatan sebelum pekerjaan dimulai untuk meningkatkan kesadaran bahaya.", "tag": "Alat & Teknik Komunikasi Risiko K3" },
+    { "front": "Apa itu safety induction?", "back": "Pengenalan K3 (bahaya, prosedur darurat, aturan) kepada pekerja baru atau tamu sebelum memasuki area kerja.", "tag": "Alat & Teknik Komunikasi Risiko K3" },
+    { "front": "Arti warna rambu K3", "back": "Merah = larangan/bahaya kebakaran; kuning = peringatan; biru = kewajiban; hijau = aman/jalur evakuasi/P3K.", "tag": "Alat & Teknik Komunikasi Risiko K3" }
+  ],
+  "mindmap": [
+    { "id": "komunikasi-risiko-k3", "label": "Komunikasi Risiko K3", "color": "#6366f1", "parent": null, "content": "Proses penyampaian informasi bahaya, risiko, dan pengendalian K3 untuk menciptakan tempat kerja aman dan sehat." },
+
+    { "id": "gambaran-umum", "label": "Gambaran Umum", "color": "#8b5cf6", "parent": "komunikasi-risiko-k3", "content": "Definisi, tujuan, dan lingkup K3 serta peran komunikasi risiko di dalamnya." },
+    { "id": "definisi-k3", "label": "Definisi K3", "color": "#8b5cf6", "parent": "gambaran-umum", "content": "Sistem yang melindungi pekerja, mencegah kecelakaan, dan memastikan tempat kerja aman sesuai standar." },
+    { "id": "tujuan-k3", "label": "Tujuan K3", "color": "#8b5cf6", "parent": "gambaran-umum", "content": "Menjaga kesehatan fisik-mental, meminimalkan bahaya, serta meningkatkan efisiensi dan produktivitas." },
+    { "id": "lingkup-k3", "label": "Lingkup K3", "color": "#8b5cf6", "parent": "gambaran-umum", "content": "Semua aspek kerja, dari identifikasi risiko hingga implementasi langkah pencegahan." },
+    { "id": "bahaya-vs-risiko", "label": "Bahaya vs Risiko", "color": "#8b5cf6", "parent": "gambaran-umum", "content": "Bahaya = sumber potensi cedera; risiko = kemungkinan dan keparahan dampak bahaya tersebut." },
+
+    { "id": "pentingnya", "label": "Pentingnya", "color": "#0ea5e9", "parent": "komunikasi-risiko-k3", "content": "Alasan komunikasi risiko K3 menjadi krusial di tempat kerja." },
+    { "id": "pencegahan-kecelakaan", "label": "Pencegahan Kecelakaan", "color": "#0ea5e9", "parent": "pentingnya", "content": "Informasi bahaya yang jelas membantu pekerja menghindari kecelakaan." },
+    { "id": "kesadaran-pekerja", "label": "Kesadaran Pekerja", "color": "#0ea5e9", "parent": "pentingnya", "content": "Pekerja memahami bahaya di sekitarnya dan cara bekerja secara aman." },
+    { "id": "tindakan-responsif", "label": "Tindakan Responsif", "color": "#0ea5e9", "parent": "pentingnya", "content": "Pekerja mampu bertindak cepat dan tepat saat menghadapi situasi bahaya." },
+    { "id": "kondisi-kerja", "label": "Kondisi Kerja", "color": "#0ea5e9", "parent": "pentingnya", "content": "Identifikasi dan perbaikan masalah bahaya membuat lingkungan kerja lebih aman." },
+
+    { "id": "regulasi", "label": "Regulasi & Standar", "color": "#10b981", "parent": "komunikasi-risiko-k3", "content": "Landasan hukum dan standar yang mengatur K3 dan komunikasi risiko." },
+    { "id": "pp-50-2012", "label": "PP No. 50/2012", "color": "#10b981", "parent": "regulasi", "content": "Regulasi nasional tentang penerapan SMK3, dengan komunikasi dan konsultasi sebagai elemennya." },
+    { "id": "iso-45001", "label": "ISO 45001:2018", "color": "#10b981", "parent": "regulasi", "content": "Standar internasional sistem manajemen K3 yang menekankan siklus PDCA dan partisipasi pekerja." },
+    { "id": "pendekatan-hukum", "label": "Pendekatan Hukum Lain", "color": "#10b981", "parent": "regulasi", "content": "Peraturan dan dasar hukum lain yang relevan untuk mendukung komunikasi risiko K3." },
+
+    { "id": "prinsip", "label": "Prinsip", "color": "#f59e0b", "parent": "komunikasi-risiko-k3", "content": "Tiga prinsip utama yang memandu komunikasi risiko K3." },
+    { "id": "transparansi", "label": "Transparansi & Kepercayaan", "color": "#f59e0b", "parent": "prinsip", "content": "Dibangun melalui kejujuran, komunikasi yang jelas, dan konsistensi." },
+    { "id": "inklusivitas", "label": "Inklusivitas & Partisipasi", "color": "#f59e0b", "parent": "prinsip", "content": "Partisipasi karyawan, keterlibatan pemangku kepentingan, dan diskusi terbuka." },
+    { "id": "peningkatan-berkelanjutan", "label": "Peningkatan Berkelanjutan", "color": "#f59e0b", "parent": "prinsip", "content": "Evaluasi berkala, pengumpulan umpan balik, dan pelatihan lanjutan." },
+
+    { "id": "implementasi", "label": "Implementasi", "color": "#ef4444", "parent": "komunikasi-risiko-k3", "content": "Tahapan penerapan komunikasi risiko K3 di lapangan." },
+    { "id": "identifikasi-bahaya", "label": "Identifikasi Bahaya", "color": "#ef4444", "parent": "implementasi", "content": "Observasi langsung, pengumpulan data, dan pemahaman proses kerja." },
+    { "id": "penilaian-risiko", "label": "Penilaian Risiko", "color": "#ef4444", "parent": "implementasi", "content": "Analisis kemungkinan, kajian dampak, dan pemetaan risiko." },
+    { "id": "mitigasi-risiko", "label": "Mitigasi Risiko", "color": "#ef4444", "parent": "implementasi", "content": "Eliminasi, substitusi, rekayasa teknik, dan penggunaan APD." },
+    { "id": "hierarki-pengendalian", "label": "Hierarki Pengendalian", "color": "#ef4444", "parent": "mitigasi-risiko", "content": "Urutan dari paling efektif (eliminasi) hingga paling lemah (APD)." },
+
+    { "id": "alat-teknik", "label": "Alat & Teknik", "color": "#ec4899", "parent": "komunikasi-risiko-k3", "content": "Sarana untuk menyampaikan komunikasi risiko K3 secara efektif." },
+    { "id": "pelatihan", "label": "Pelatihan & Pendidikan", "color": "#ec4899", "parent": "alat-teknik", "content": "Meningkatkan kesadaran, membekali keterampilan praktis, dan membangun budaya keselamatan." },
+    { "id": "dokumentasi", "label": "Dokumentasi & Pelaporan", "color": "#ec4899", "parent": "alat-teknik", "content": "Pencatatan insiden, pemantauan reguler, dan pelaporan secara transparan." },
+    { "id": "platform-digital", "label": "Platform Digital", "color": "#ec4899", "parent": "alat-teknik", "content": "Efisiensi teknologi, notifikasi otomatis, dan aksesibilitas informasi K3." },
+    { "id": "rambu-safety-sign", "label": "Rambu / Safety Sign", "color": "#ec4899", "parent": "alat-teknik", "content": "Komunikasi visual: merah=larangan, kuning=peringatan, biru=kewajiban, hijau=aman/evakuasi." },
+    { "id": "msds-sds", "label": "MSDS / SDS", "color": "#ec4899", "parent": "alat-teknik", "content": "Lembar Data Keselamatan Bahan berisi identitas, bahaya, penanganan, dan tindakan darurat." },
+    { "id": "label-b3", "label": "Label B3", "color": "#ec4899", "parent": "alat-teknik", "content": "Label Bahan Berbahaya dan Beracun yang menginformasikan jenis bahaya bahan kimia." },
+    { "id": "safety-talk", "label": "Safety Talk / Induction", "color": "#ec4899", "parent": "alat-teknik", "content": "Toolbox talk singkat sebelum kerja dan safety induction bagi pekerja baru/tamu." }
+  ]
+}

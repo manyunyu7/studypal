@@ -1,0 +1,3201 @@
+{
+  "topic": "Kebisingan",
+  "order": 1,
+  "description": "Kebisingan adalah bunyi yang tidak dikehendaki di tempat kerja yang dapat mengganggu kesehatan dan keselamatan pekerja, terutama menyebabkan gangguan pendengaran.",
+  "subtopics": [
+    "Definisi & Konsep Dasar",
+    "Alat Ukur & Satuan",
+    "NAB & Standar",
+    "Jenis Kebisingan",
+    "Dampak Kesehatan",
+    "Pengendalian & Hirarki",
+    "Prosedur Pengukuran",
+    "Regulasi"
+  ],
+  "questions": [
+    {
+      "text": "Apa definisi kebisingan dalam konteks higiene industri?",
+      "explanation": "Kebisingan didefinisikan sebagai bunyi yang tidak dikehendaki karena dapat mengganggu kesehatan, kenyamanan, dan keselamatan kerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Konsep Dasar",
+      "options": [
+        {
+          "text": "A. Semua bunyi yang ada di tempat kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Bunyi yang tidak dikehendaki yang dapat mengganggu kesehatan dan kenyamanan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Bunyi dengan frekuensi tinggi saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Getaran mekanis pada mesin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan yang digunakan untuk menyatakan tingkat tekanan bunyi adalah?",
+      "explanation": "Tingkat tekanan bunyi dinyatakan dalam desibel (dB), satuan logaritmik yang membandingkan tekanan bunyi terhadap nilai referensi.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Hertz (Hz)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pascal (Pa)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Desibel (dB)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Watt (W)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan frekuensi bunyi dinyatakan dalam?",
+      "explanation": "Frekuensi bunyi adalah jumlah getaran per detik dan dinyatakan dalam Hertz (Hz).",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Desibel (dB)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hertz (Hz)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pascal (Pa)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Newton (N)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berapa Nilai Ambang Batas (NAB) kebisingan untuk pajanan 8 jam kerja per hari menurut Permenaker No. 5 Tahun 2018?",
+      "explanation": "Permenaker No. 5 Tahun 2018 menetapkan NAB kebisingan 85 dBA untuk waktu pajanan 8 jam per hari.",
+      "difficulty": "EASY",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. 80 dBA",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 85 dBA",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 90 dBA",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 95 dBA",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat yang digunakan untuk mengukur tingkat kebisingan secara keseluruhan (overall level) adalah?",
+      "explanation": "Sound Level Meter (SLM) digunakan untuk mengukur overall level kebisingan dengan satuan dBA.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Audiometer",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sound Level Meter (SLM)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Anemometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lux meter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat yang digunakan untuk mengukur pajanan kebisingan personal pada pekerja yang berpindah-pindah adalah?",
+      "explanation": "Noise dosimeter mengukur intensitas bunyi yang diterima pekerja selama masa kerjanya yang berpindah-pindah, dengan satuan dBA.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Sound Level Meter",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Octave Band Analyzer",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Noise dosimeter",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Audiometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Setiap kenaikan 3 dBA dari NAB, waktu pajanan yang diperbolehkan menjadi?",
+      "explanation": "Dengan exchange rate (halving time) 3 dB, setiap kenaikan 3 dBA menyebabkan waktu pajanan yang diperbolehkan berkurang menjadi setengahnya.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. Dua kali lipat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Setengahnya",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tetap sama",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Seperempatnya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, untuk tingkat kebisingan 88 dBA, waktu pajanan maksimum yang diperbolehkan adalah?",
+      "explanation": "Dengan exchange rate 3 dB, dari 85 dBA (8 jam) naik 3 dBA menjadi 88 dBA, sehingga waktu pajanan menjadi setengahnya yaitu 4 jam.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. 8 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 4 jam",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 2 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk tingkat kebisingan 91 dBA, berapa waktu pajanan maksimum menurut Permenaker No. 5 Tahun 2018?",
+      "explanation": "85 dBA = 8 jam, 88 dBA = 4 jam, 91 dBA = 2 jam (setiap +3 dBA waktu pajanan menjadi setengahnya).",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. 4 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 2 jam",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 1 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 30 menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Gangguan pendengaran akibat bising yang bersifat permanen disebut?",
+      "explanation": "NIHL (Noise-Induced Hearing Loss) adalah gangguan pendengaran akibat bising yang bersifat menetap/permanen.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. TTS (Temporary Threshold Shift)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. NIHL (Noise-Induced Hearing Loss)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tinnitus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Vertigo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pergeseran ambang dengar sementara yang dapat pulih setelah istirahat dari pajanan bising disebut?",
+      "explanation": "TTS (Temporary Threshold Shift) adalah kenaikan ambang dengar sementara yang dapat pulih bila pekerja diistirahatkan dari pajanan bising.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. NIHL",
+          "isCorrect": false
+        },
+        {
+          "text": "B. PTS (Permanent Threshold Shift)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. TTS (Temporary Threshold Shift)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Presbikusis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemeriksaan untuk mengetahui status dan ambang pendengaran pekerja disebut?",
+      "explanation": "Audiometri adalah pemeriksaan fungsi pendengaran untuk mengetahui ambang dengar pekerja, hasilnya berupa audiogram.",
+      "difficulty": "EASY",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Spirometri",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Audiometri",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tonometri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Optometri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hasil dari pemeriksaan audiometri disebut?",
+      "explanation": "Audiogram adalah grafik hasil pemeriksaan audiometri yang menggambarkan ambang dengar pada berbagai frekuensi.",
+      "difficulty": "EASY",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Spirogram",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Audiogram",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Elektrokardiogram",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sonogram",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebelum dilakukan pemeriksaan audiometri, pekerja sebaiknya bebas dari pajanan bising selama?",
+      "explanation": "Audiometri dikerjakan pada pekerja 8-12 jam bebas bising (atau sampai 3 hari) untuk menghindari kenaikan ambang pendengaran sementara akibat bising.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 1-2 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 8-12 jam",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 24-48 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu bebas bising",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengendalian kebisingan yang paling efektif menurut hirarki pengendalian adalah?",
+      "explanation": "Eliminasi (menghilangkan sumber bahaya) berada di puncak hirarki pengendalian dan merupakan cara yang paling efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Penggunaan APD (alat pelindung telinga)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Eliminasi sumber bising",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pengendalian administratif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Rotasi kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Urutan hirarki pengendalian kebisingan dari yang paling efektif hingga paling kurang efektif adalah?",
+      "explanation": "Hirarki pengendalian: Eliminasi, Substitusi, Pengendalian rekayasa (engineering), Pengendalian administratif, dan terakhir APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. APD, administratif, engineering, substitusi, eliminasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Eliminasi, substitusi, engineering, administratif, APD",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Engineering, eliminasi, substitusi, APD, administratif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Substitusi, eliminasi, APD, administratif, engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat pelindung telinga jenis ear plug umumnya disisipkan pada bagian?",
+      "explanation": "Ear plug (sumbat telinga) digunakan dengan cara disisipkan ke dalam liang/saluran telinga untuk meredam bunyi.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Menutup seluruh daun telinga",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Disisipkan ke dalam saluran telinga",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Dipasang di kepala",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Ditempel di belakang telinga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kemampuan alat pelindung telinga dalam mereduksi pajanan bising dinyatakan dengan?",
+      "explanation": "NRR (Noise Reduction Rating) menyatakan kemampuan alat pelindung telinga (APT) dalam mereduksi pajanan bising dalam satuan dB.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. NAB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. NRR (Noise Reduction Rating)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. TWA",
+          "isCorrect": false
+        },
+        {
+          "text": "D. REL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jenis kebisingan yang tingkat intensitasnya tetap atau hampir tetap dalam jangka waktu tertentu disebut?",
+      "explanation": "Kebisingan kontinu (terus-menerus) memiliki tingkat intensitas yang relatif tetap, contohnya bunyi kompresor atau kipas yang berjalan terus.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kebisingan",
+      "options": [
+        {
+          "text": "A. Kebisingan impulsif",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kebisingan kontinu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kebisingan intermiten",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kebisingan random",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kebisingan yang muncul terputus-putus dan tingkatnya naik-turun disebut kebisingan?",
+      "explanation": "Kebisingan intermiten adalah kebisingan yang terputus-putus/datang dan pergi, misalnya bunyi kendaraan yang lewat atau mesin yang dihidup-matikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kebisingan",
+      "options": [
+        {
+          "text": "A. Kontinu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Intermiten",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Impulsif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Steady state",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kebisingan dengan puncak energi tinggi yang terjadi dalam waktu sangat singkat (kurang dari 1 detik) seperti tembakan atau ledakan disebut?",
+      "explanation": "Kebisingan impulsif memiliki puncak intensitas tinggi dalam waktu sangat singkat, contohnya ledakan, tembakan, atau pukulan palu.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kebisingan",
+      "options": [
+        {
+          "text": "A. Kontinu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Intermiten",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Impulsif",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Tonal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pembobotan (weighting) yang paling sering digunakan dalam pengukuran kebisingan lingkungan kerja karena mendekati respon telinga manusia adalah?",
+      "explanation": "Pembobotan A (dBA) digunakan karena mendekati respon/sensitivitas telinga manusia terhadap berbagai frekuensi bunyi.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Pembobotan A (dBA)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pembobotan B (dBB)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pembobotan C (dBC)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pembobotan D (dBD)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pembobotan dBC umumnya digunakan untuk mengukur?",
+      "explanation": "Pembobotan C (dBC) lebih datar pada frekuensi rendah dan biasa digunakan untuk mengukur kebisingan puncak (peak) atau kebisingan impulsif.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Kebisingan rata-rata harian",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kebisingan puncak/impulsif (peak)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Frekuensi tinggi saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suara percakapan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rentang frekuensi yang dapat didengar oleh telinga manusia normal adalah?",
+      "explanation": "Telinga manusia normal dapat mendengar bunyi pada rentang frekuensi sekitar 20 Hz sampai 20.000 Hz (20 kHz).",
+      "difficulty": "EASY",
+      "tag": "Definisi & Konsep Dasar",
+      "options": [
+        {
+          "text": "A. 2 - 200 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 20 - 20.000 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 100 - 5.000 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1.000 - 100.000 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat ukur yang dapat menganalisis tingkat bising pada berbagai pita oktaf frekuensi disebut?",
+      "explanation": "Sound Level Meter dengan octave band analyzer mengukur level bising pada berbagai pita oktaf frekuensi.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Noise dosimeter",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Octave band analyzer",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Audiometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kalibrator",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebelum digunakan, Sound Level Meter perlu dikalibrasi menggunakan?",
+      "explanation": "Noise calibrator (kalibrator akustik) digunakan untuk mengkalibrasi Sound Level Meter agar hasil pengukuran akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Termometer",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Noise calibrator",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Barometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Anemometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada survei area kebisingan, kegiatan menggambarkan sebaran intensitas bising pada denah lokasi kerja disebut?",
+      "explanation": "Noise mapping (pemetaan kebisingan) adalah pembuatan peta sebaran intensitas kebisingan pada denah unit kerja dengan garis kontur.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Audiometri",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Noise mapping (peta kebisingan)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kalibrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dosimetri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam pembuatan peta kebisingan, daerah dengan intensitas < 80 dBA umumnya diberi warna?",
+      "explanation": "Pada noise mapping, area dengan intensitas < 80 dBA diberi warna hijau (aman/di bawah NAB), sedangkan warna merah untuk area yang lebih tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Merah",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hijau",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kuning",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Orange",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengukuran dosis pajanan bising dilakukan sesuai dengan?",
+      "explanation": "Pengukuran dosis pajanan dilakukan sesuai dengan satu periode shift kerja (umumnya 8 jam per hari).",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 1 jam pertama kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Satu periode shift kerja (8 jam)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hanya saat istirahat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 30 menit sampel acak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut NIOSH, batas pajanan kebisingan yang direkomendasikan (REL) untuk 8 jam kerja dan dianggap sebagai dosis 100% adalah?",
+      "explanation": "NIOSH merekomendasikan REL 85 dBA sebagai TWA 8 jam, yang dianggap sebagai dosis kebisingan 100%.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. 80 dBA",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 85 dBA",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 90 dBA",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 87 dBA",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam perhitungan dosis pajanan bising, nilai dosis yang menunjukkan pajanan berbahaya adalah?",
+      "explanation": "Dosis pajanan bising 100% ke atas menunjukkan pajanan yang sudah melebihi batas dan berbahaya bagi pendengaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. < 50%",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 100% ke atas",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tepat 0%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. < 100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rata-rata tingkat kebisingan yang setara (equivalent) selama periode waktu tertentu dinyatakan dengan parameter?",
+      "explanation": "Leq (Equivalent Continuous Sound Level) adalah tingkat kebisingan rata-rata setara selama periode pengukuran.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Lmax",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Leq",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lmin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lpeak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai tukar (exchange rate) yang digunakan dalam standar NIOSH dan Permenaker No. 5 Tahun 2018 untuk kebisingan adalah?",
+      "explanation": "Exchange rate yang digunakan adalah 3 dB, artinya setiap kenaikan 3 dB menyebabkan waktu pajanan aman berkurang setengahnya.",
+      "difficulty": "HARD",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. 2 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 3 dB",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 5 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 6 dB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam pengukuran kebisingan lingkungan dengan metode grid, posisi mikrofon Sound Level Meter ditempatkan setinggi?",
+      "explanation": "Posisi pengukuran setinggi 1,5 m di atas tanah, yaitu mendekati tinggi telinga manusia rata-rata.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 0,5 m",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1,0 m",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 1,5 m (setinggi telinga manusia)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 2,5 m",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor koreksi (derating) yang dikurangkan dari nilai NRR sebelum dihitung pajanan efektif menurut metode NIOSH adalah?",
+      "explanation": "Dalam perhitungan pajanan efektif, NRR dikurangi faktor koreksi 7 dB terlebih dahulu untuk mengantisipasi perbedaan kondisi lapangan dengan laboratorium.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. 3 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 5 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 7 dB",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 10 dB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebuah ear plug memiliki NRR 33 dB dan pekerja terpajan bising 95 dBA. Berapa pajanan efektif menurut rumus NIOSH (faktor koreksi 50%)?",
+      "explanation": "Pajanan efektif = 95 - [(33-7) x 50%] = 95 - 13 = 82 dBA, sudah di bawah NAB 85 dBA.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. 62 dBA",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 82 dBA",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 88 dBA",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 69 dBA",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada penggunaan proteksi ganda (ear plug + ear muff), setelah menghitung dengan NRR tertinggi masih ditambahkan nilai?",
+      "explanation": "Pada proteksi ganda, setelah dihitung dengan NRR tertinggi, ditambahkan 5 dB karena kombinasi dua APT tidak menjumlah penuh reduksinya.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. 3 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 5 dB",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 7 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 10 dB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama pemeriksaan audiometri pada calon pekerja (pre-employment) adalah?",
+      "explanation": "Audiometri awal bertujuan mengetahui status pendengaran calon pekerja sebagai data dasar (baseline) untuk pemantauan selanjutnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Mengobati gangguan pendengaran",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengetahui status pendengaran awal sebagai data dasar",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengukur tingkat bising mesin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menentukan NAB lokasi kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ruangan khusus kedap suara yang digunakan untuk pemeriksaan audiometri disebut?",
+      "explanation": "Audiometric test booth (bilik audiometri) adalah ruangan kedap suara untuk pemeriksaan audiometri agar hasil tidak terganggu bising lingkungan.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Clean room",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Audiometric booth (bilik audiometri)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Cold storage",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dark room",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam audiogram, sumbu yang menggambarkan intensitas bunyi (ambang dengar) umumnya dinyatakan dalam?",
+      "explanation": "Pada audiogram, sumbu vertikal menyatakan ambang dengar dalam desibel (dB) dan sumbu horizontal menyatakan frekuensi (Hz).",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Hertz (Hz)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Desibel (dB)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pascal (Pa)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada NIHL akibat bising, penurunan pendengaran yang khas mula-mula terjadi pada frekuensi sekitar?",
+      "explanation": "NIHL khas menunjukkan takik (notch) pada audiogram di sekitar frekuensi 4000 Hz, kemudian meluas bila pajanan berlanjut.",
+      "difficulty": "HARD",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. 250 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1000 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 4000 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 8000 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sensasi berdenging atau berdengung di telinga yang sering menyertai pajanan bising disebut?",
+      "explanation": "Tinnitus adalah sensasi mendengar dengingan/dengungan tanpa sumber bunyi eksternal, sering menyertai gangguan pendengaran akibat bising.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Vertigo",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tinnitus",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Presbikusis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Otitis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Selain gangguan pendengaran, pajanan bising berlebih dapat menimbulkan dampak non-auditori berupa?",
+      "explanation": "Dampak non-auditori bising antara lain peningkatan tekanan darah, stres, gangguan tidur, dan gangguan komunikasi/konsentrasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Peningkatan tekanan darah dan stres",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penurunan suhu tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Gangguan penglihatan warna",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dehidrasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan survei pajanan bising adalah mengetahui apakah bising mengganggu?",
+      "explanation": "Survei pajanan bising antara lain bertujuan menilai apakah bising mengganggu komunikasi antar pekerja, selain mengidentifikasi sumber yang melebihi NAB.",
+      "difficulty": "EASY",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Pencahayaan ruang",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikasi antar pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Suhu lingkungan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kelembapan udara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengendalian rekayasa (engineering control) terhadap kebisingan contohnya adalah?",
+      "explanation": "Engineering control kebisingan misalnya memasang peredam (silencer/muffler), enclosure mesin, barrier akustik, atau isolasi getaran sumber bising.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Memberikan ear plug pada pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Memasang enclosure/peredam pada mesin",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Merotasi jadwal kerja pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memasang rambu peringatan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengatur rotasi kerja dan membatasi durasi pajanan pekerja di area bising termasuk pengendalian?",
+      "explanation": "Rotasi kerja dan pembatasan waktu pajanan adalah pengendalian administratif, yaitu mengatur cara/waktu kerja tanpa mengubah sumber bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Eliminasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Substitusi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Administratif",
+          "isCorrect": true
+        },
+        {
+          "text": "D. APD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengganti mesin lama yang sangat bising dengan mesin baru yang lebih senyap merupakan pengendalian?",
+      "explanation": "Mengganti sumber bahaya dengan yang lebih rendah risikonya (mesin lebih senyap) termasuk pengendalian substitusi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Substitusi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Administratif",
+          "isCorrect": false
+        },
+        {
+          "text": "C. APD",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Eliminasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penggunaan alat pelindung telinga (APT) berada pada posisi mana dalam hirarki pengendalian?",
+      "explanation": "APD/APT berada pada posisi paling bawah hirarki pengendalian karena hanya melindungi individu tanpa mengurangi sumber bahaya.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Paling atas (paling efektif)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Paling bawah (terakhir)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Di atas engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Di atas substitusi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Desibel (dB) merupakan satuan yang bersifat?",
+      "explanation": "Desibel adalah satuan logaritmik (skala log basis 10), bukan linier, sehingga penjumlahan dua sumber bunyi tidak bisa dijumlahkan langsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Konsep Dasar",
+      "options": [
+        {
+          "text": "A. Linier",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Logaritmik",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Eksponensial murni",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Trigonometri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika dua sumber bunyi yang masing-masing 80 dB digabungkan, tingkat kebisingan totalnya menjadi sekitar?",
+      "explanation": "Penggabungan dua sumber bunyi sama besar menambah sekitar 3 dB, sehingga 80 dB + 80 dB menjadi sekitar 83 dB (bukan 160 dB) karena sifat logaritmik.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Konsep Dasar",
+      "options": [
+        {
+          "text": "A. 160 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 83 dB",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 80 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 100 dB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai referensi tekanan bunyi (ambang dengar) yang digunakan sebagai dasar 0 dB adalah?",
+      "explanation": "Nilai referensi tekanan bunyi adalah 20 micropascal (20 uPa atau 2 x 10^-5 Pa), yang merupakan ambang dengar manusia normal.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Konsep Dasar",
+      "options": [
+        {
+          "text": "A. 20 uPa (mikropascal)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1 Pa",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 100 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 20 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frekuensi bunyi menentukan persepsi pendengaran berupa?",
+      "explanation": "Frekuensi menentukan tinggi-rendahnya nada (pitch); frekuensi tinggi terdengar nyaring, frekuensi rendah terdengar berat/dalam.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Konsep Dasar",
+      "options": [
+        {
+          "text": "A. Kekerasan/loudness bunyi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tinggi-rendahnya nada (pitch)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Arah datangnya bunyi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lama bunyi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada survei kebisingan, kegiatan mencatat besarnya intensitas dan lamanya pekerja terpajan termasuk dalam?",
+      "explanation": "Survei dosis pajanan harian mencatat besarnya intensitas yang diterima dan lamanya pekerja terpajan untuk membandingkan dengan NAB.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Survei area",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Survei dosis pajanan harian",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Survei engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Survei administratif",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu syarat alat survei kebisingan yang baik menurut materi adalah?",
+      "explanation": "Syarat alat survei kebisingan antara lain mudah dioperasikan, harga terjangkau, dan pemeliharaan mudah.",
+      "difficulty": "EASY",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Berukuran sangat besar",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mudah dioperasikan dan dipelihara",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hanya bisa dioperasikan ahli",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memerlukan listrik tegangan tinggi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam metode noise mapping NIOSH, penentuan jumlah titik pengukuran (N) dipengaruhi oleh?",
+      "explanation": "Rumus N = k x (A/a) menunjukkan jumlah titik pengukuran dipengaruhi luas total area (A), luas sumber/hotspot (a), dan konstanta bentuk (k=1,5).",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Luas total area dan luas sumber bising (hotspot)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jumlah pekerja saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suhu lingkungan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jenis APD yang dipakai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada perhitungan grid noise mapping, jarak antar titik pengukuran (d) ditentukan dengan rumus?",
+      "explanation": "Jarak grid d = akar dari (A/N), yaitu akar dari luas total area dibagi jumlah titik pengukuran.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. d = A x N",
+          "isCorrect": false
+        },
+        {
+          "text": "B. d = akar (A/N)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. d = A + N",
+          "isCorrect": false
+        },
+        {
+          "text": "D. d = N/A",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran grid, tiap titik diambil 3 kali pembacaan, dan nilai yang dipilih sebagai hasil adalah?",
+      "explanation": "Hasil pembacaan yang dipilih tiap titik adalah tingkat kebisingan rata-rata (Leq) dari pengukuran berulang pada titik tersebut.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Nilai maksimum",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Nilai rata-rata (Leq)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Nilai minimum",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Nilai pertama",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rumus waktu pemaparan maksimal NIOSH adalah T = 480 / 2^((L-85)/3). Jika L = 85 dB, berapa T?",
+      "explanation": "Jika L = 85, maka eksponen (85-85)/3 = 0, sehingga 2^0 = 1 dan T = 480/1 = 480 menit (8 jam).",
+      "difficulty": "HARD",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. 240 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 480 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 960 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 120 menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada rumus konversi dosis ke TWA: TWA = 10 x log(D/100) + 85, jika dosis D = 100%, maka TWA bernilai?",
+      "explanation": "Jika D = 100, maka log(100/100) = log(1) = 0, sehingga TWA = 0 + 85 = 85 dBA.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 80 dBA",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 85 dBA",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 90 dBA",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 100 dBA",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar SNI yang mengatur pengukuran tingkat kebisingan lingkungan adalah?",
+      "explanation": "SNI 8427-2017 mengatur pengukuran tingkat kebisingan lingkungan, sedangkan SNI 7231-2009 mengatur metoda pengukuran kebisingan di tempat kerja.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. SNI 8427-2017",
+          "isCorrect": true
+        },
+        {
+          "text": "B. SNI 19-1234",
+          "isCorrect": false
+        },
+        {
+          "text": "C. SNI 03-2000",
+          "isCorrect": false
+        },
+        {
+          "text": "D. SNI 9001-2015",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Peraturan yang menjadi acuan utama Nilai Ambang Batas faktor fisika (termasuk kebisingan) di tempat kerja di Indonesia adalah?",
+      "explanation": "Permenaker No. 5 Tahun 2018 tentang K3 Lingkungan Kerja mengatur NAB faktor fisika termasuk kebisingan (85 dBA/8 jam).",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Permenaker No. 5 Tahun 2018",
+          "isCorrect": true
+        },
+        {
+          "text": "B. UU No. 13 Tahun 2003",
+          "isCorrect": false
+        },
+        {
+          "text": "C. PP No. 50 Tahun 2012",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Permenaker No. 8 Tahun 2010",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Permenkes No. 70 Tahun 2016 mengatur tentang?",
+      "explanation": "Permenkes No. 70 Tahun 2016 mengatur Standar dan Persyaratan Kesehatan Lingkungan Kerja Industri, termasuk aspek kebisingan.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Standar dan persyaratan kesehatan lingkungan kerja industri",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Upah minimum pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jaminan sosial tenaga kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sistem manajemen K3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa kepanjangan dari NAB dalam konteks higiene industri?",
+      "explanation": "NAB adalah Nilai Ambang Batas, yaitu standar kadar/intensitas faktor bahaya yang masih dapat diterima pekerja tanpa menimbulkan gangguan kesehatan untuk pajanan 8 jam/hari.",
+      "difficulty": "EASY",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. Nilai Ambang Batas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Nilai Aman Bising",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Norma Acuan Baku",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Nilai Audit Bahaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk tingkat kebisingan 94 dBA, berapa waktu pajanan maksimum menurut Permenaker No. 5 Tahun 2018?",
+      "explanation": "85 dBA=8 jam, 88=4 jam, 91=2 jam, 94 dBA=1 jam (tiap +3 dBA waktu pajanan menjadi setengahnya).",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. 2 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1 jam",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 30 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 4 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk tingkat kebisingan 97 dBA, waktu pajanan maksimum menurut Permenaker No. 5 Tahun 2018 adalah?",
+      "explanation": "94 dBA = 1 jam, naik 3 dBA ke 97 dBA membuat waktu pajanan menjadi setengahnya yaitu 30 menit.",
+      "difficulty": "HARD",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. 1 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 30 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 15 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 2 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, batas kebisingan impulsif (peak) yang tidak boleh dilampaui pekerja adalah sekitar?",
+      "explanation": "Pajanan kebisingan impulsif/peak tidak boleh melebihi 140 dB (peak sound pressure level) untuk mencegah kerusakan pendengaran mendadak.",
+      "difficulty": "HARD",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. 100 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 120 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 140 dB",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 85 dB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada noise mapping, area dengan intensitas 91-94 dBA umumnya diberi kode warna?",
+      "explanation": "Menurut materi, area 91-94 dBA diberi warna merah, dan > 94 dBA diberi warna merah tua (paling berbahaya).",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Hijau",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kuning",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Merah",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Orange",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ear muff bekerja meredam bunyi dengan cara?",
+      "explanation": "Ear muff (tutup telinga) menutup seluruh daun telinga sehingga membentuk penghalang akustik di sekeliling telinga.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Disisipkan ke saluran telinga",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menutup seluruh daun telinga",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Ditempel di tulang tengkorak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dimasukkan ke hidung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, ear muff umumnya mampu meredam bunyi pada frekuensi tinggi hingga sekitar?",
+      "explanation": "Ear muff dapat meredam sekitar 30 dB pada frekuensi rendah dan hingga 50 dB pada frekuensi tinggi.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. 10 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 20 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 50 dB",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 5 dB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penghalang fisik berupa dinding/panel yang dipasang antara sumber bising dan pekerja untuk mengurangi energi akustik disebut?",
+      "explanation": "Barrier/panel akustik adalah penghalang yang mengurangi jumlah energi akustik yang merambat dari sumber ke pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Barrier/panel akustik",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dosimeter",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Audiometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kalibrator",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengganti rumus dengan akal sehat: jika dua pekerja sama-sama terpajan 85 dBA selama 8 jam, total dosis pajanan masing-masing adalah?",
+      "explanation": "Pajanan 85 dBA selama 8 jam tepat setara dosis 100% (batas aman), bukan di atas atau di bawahnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 50%",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 100%",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 200%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 0%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Octave band analyzer dengan filter pita sempit (narrow band) digunakan untuk menganalisis spektrum frekuensi pada rentang?",
+      "explanation": "Narrow band analyzer digunakan untuk spektrum sempit sekitar 2-200 Hz untuk analisis frekuensi yang lebih detail.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. 2 - 200 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1000 - 5000 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 20 - 20.000 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 50 - 100 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sound Level Meter standar umumnya dapat mengukur tingkat bising pada rentang sekitar?",
+      "explanation": "Sound Level Meter mencatat keseluruhan bising total pada rentang sekitar 30-130 dB pada frekuensi 20-20.000 Hz.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. 0 - 10 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 30 - 130 dB",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 130 - 200 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 200 - 300 dB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Data hasil pengukuran noise dosimeter terutama berguna untuk?",
+      "explanation": "Data dosimeter berguna untuk upaya pengendalian selanjutnya, karena menunjukkan tingkat intensitas bising aktual yang diterima pekerja.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Menentukan upah pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dasar upaya pengendalian kebisingan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengukur suhu ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menilai pencahayaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Program pemantauan dan pencegahan gangguan pendengaran akibat bising di perusahaan secara menyeluruh disebut?",
+      "explanation": "Hearing Conservation Program (HCP) atau Program Konservasi Pendengaran mencakup pengukuran bising, audiometri, APD, pelatihan, dan rekam medis.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Hearing Conservation Program",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lock Out Tag Out",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Job Safety Analysis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Material Safety Data Sheet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada audiogram, telinga kiri biasanya ditandai dengan simbol?",
+      "explanation": "Konvensi audiogram menggunakan simbol X untuk telinga kiri (left) dan O untuk telinga kanan (right).",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. O (lingkaran)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. X (silang)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Segitiga",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kotak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada audiogram, simbol O (lingkaran) menandakan hasil pemeriksaan untuk telinga?",
+      "explanation": "Simbol O (lingkaran) menandakan telinga kanan (right), sedangkan X menandakan telinga kiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Kiri",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kanan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kedua telinga",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada arti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa pembobotan A (dBA) dipilih untuk menilai risiko gangguan pendengaran akibat bising kerja?",
+      "explanation": "dBA memberi bobot frekuensi mirip sensitivitas telinga manusia, sehingga lebih merepresentasikan potensi gangguan pendengaran dibanding pembacaan linier.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Karena mengukur frekuensi rendah saja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena mendekati respon/sensitivitas telinga manusia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena lebih murah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena tidak terpengaruh frekuensi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bagian telinga yang paling sering rusak akibat pajanan bising kronis sehingga menyebabkan NIHL adalah?",
+      "explanation": "NIHL disebabkan kerusakan sel rambut (hair cells) pada koklea di telinga dalam, yang tidak dapat beregenerasi sehingga bersifat permanen.",
+      "difficulty": "HARD",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Gendang telinga (membran timpani)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sel rambut pada koklea (telinga dalam)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tulang pendengaran (osikula)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Daun telinga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "NIHL bersifat permanen terutama karena?",
+      "explanation": "Sel rambut koklea yang rusak akibat bising tidak dapat beregenerasi/pulih, sehingga gangguan pendengaran yang ditimbulkan bersifat menetap.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Sel rambut koklea tidak dapat beregenerasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Gendang telinga selalu robek",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada obatnya sama sekali untuk semua jenis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Selalu disertai infeksi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan menggunakan rumus Leq dalam pengukuran kebisingan yang fluktuatif adalah?",
+      "explanation": "Leq merepresentasikan satu nilai tingkat kebisingan setara yang energinya sama dengan kebisingan fluktuatif selama periode pengukuran, memudahkan perbandingan dengan NAB.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Mendapatkan nilai tertinggi sesaat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menyatakan tingkat bising rata-rata setara energi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengukur frekuensi tunggal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengukur suhu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Seorang pekerja berada di tempat A (100 dBA) 2 jam, B (120 dBA) 1 jam, C (90 dBA) 1 jam. Konsep yang dipakai untuk menghitung paparan rata-rata selama 4 jam adalah?",
+      "explanation": "Digunakan rumus Leq dengan fraksi waktu: Leq = 10 log(sum fraksi waktu x 10^(L/10)), menghasilkan tingkat kebisingan rata-rata setara (sekitar 114 dBA pada contoh).",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Rata-rata aritmetika biasa",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Leq berbobot fraksi waktu (logaritmik)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Nilai minimum dari ketiganya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penjumlahan langsung dBA",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Konstanta bentuk (k) dalam rumus penentuan jumlah titik pengukuran noise mapping NIOSH bernilai?",
+      "explanation": "Dalam materi, nilai konstanta bentuk (shape konstan) k yang digunakan adalah 1,50.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 1,00",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1,50",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 2,00",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 0,50",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Aplikasi yang dapat digunakan untuk membuat peta kontur sebaran kebisingan menurut materi adalah?",
+      "explanation": "Peta kontur kebisingan dapat dibuat dengan aplikasi seperti Golden Surfer dan ArcGIS, dengan titik koordinat dari GPS.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Golden Surfer / ArcGIS",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Microsoft Word",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Photoshop",
+          "isCorrect": false
+        },
+        {
+          "text": "D. AutoCAD Electrical",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam metode NIOSH, '3' pada rumus T = 480/2^((L-85)/3) menyatakan?",
+      "explanation": "Angka 3 adalah exchange rate (nilai tukar), yang menyatakan setiap kenaikan 3 dB waktu pajanan aman menjadi setengahnya.",
+      "difficulty": "HARD",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. Exchange rate (nilai tukar)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jumlah shift kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Faktor koreksi APD",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jumlah titik pengukuran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan pemeriksaan audiometri berkala pada pekerja yang terpajan bising adalah?",
+      "explanation": "Audiometri berkala bertujuan mengetahui pengaruh kebisingan secara dini dan mencegah agar gangguan pendengaran tidak bertambah parah.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Mendeteksi pengaruh bising secara dini",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menentukan gaji pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengukur tinggi badan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menilai kelembapan ruang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Survei engineering dalam survei kebisingan bertujuan untuk?",
+      "explanation": "Survei engineering bertujuan menilai kualitas bising dan mengumpulkan data teknis untuk merancang pengendalian (engineering control) yang tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Mendapat data untuk merancang pengendalian teknis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghitung upah lembur",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengukur pencahayaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menilai gizi pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang BENAR tentang hubungan dBA dengan risiko gangguan pendengaran adalah?",
+      "explanation": "Semakin tinggi intensitas (dBA) dan semakin lama durasi pajanan, semakin besar risiko gangguan pendengaran; karena itu NAB mengatur kombinasi intensitas dan waktu.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Risiko hanya tergantung durasi, bukan intensitas",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Risiko meningkat seiring intensitas dan durasi pajanan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Intensitas tinggi tidak berbahaya jika singkat sekalipun > 140 dB",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada hubungan antara dBA dan pendengaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengendalian kebisingan dengan menghilangkan total sumber bising (misal menghentikan proses yang tidak perlu) termasuk?",
+      "explanation": "Menghilangkan total sumber bahaya adalah eliminasi, yaitu tingkat pengendalian paling efektif dalam hirarki.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Eliminasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. APD",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Administratif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Substitusi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah urutan anatomi penghantaran bunyi yang benar dari luar ke dalam?",
+      "explanation": "Bunyi masuk melalui telinga luar (daun telinga, liang) ke telinga tengah (gendang telinga, tulang pendengaran) lalu telinga dalam (koklea) tempat sinyal diubah menjadi impuls saraf.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Konsep Dasar",
+      "options": [
+        {
+          "text": "A. Telinga dalam, tengah, luar",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Telinga luar, telinga tengah, telinga dalam",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Koklea, daun telinga, gendang telinga",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Telinga tengah, luar, dalam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu indikasi area kerja perlu dijadikan wajib APD (alat pelindung pendengaran) adalah jika hasil survei menunjukkan?",
+      "explanation": "Bila ditemukan sumber bising melebihi NAB (85 dBA), area tersebut perlu ditetapkan sebagai zona wajib alat pelindung pendengaran.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Intensitas bising melebihi NAB",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu ruangan tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pencahayaan kurang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kelembapan tinggi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai NRR yang tertera pada kemasan ear plug menggambarkan?",
+      "explanation": "NRR menggambarkan estimasi besarnya reduksi kebisingan (dalam dB) yang mampu diberikan oleh alat pelindung telinga tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Estimasi reduksi kebisingan oleh APT (dB)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Harga alat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Berat alat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Frekuensi resonansi telinga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kelebihan noise dosimeter dibanding Sound Level Meter dalam menilai pajanan pekerja adalah?",
+      "explanation": "Noise dosimeter dikenakan pada pekerja sehingga mampu mengukur pajanan personal aktual selama pekerja berpindah-pindah lokasi, sedangkan SLM hanya mengukur titik tertentu.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Mengukur pajanan personal pekerja yang berpindah-pindah",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya bisa di satu titik tetap",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengukur frekuensi suara percakapan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengukur suhu pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika audiometri dilakukan tepat setelah pekerja keluar dari area bising tanpa istirahat, hasilnya bisa menyesatkan karena?",
+      "explanation": "Tanpa istirahat bebas bising, kenaikan ambang dengar sementara (TTS) masih ada sehingga audiogram bisa menunjukkan penurunan pendengaran yang sebenarnya hanya sementara.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Masih terdapat TTS yang membuat hasil seolah lebih buruk",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Alat audiometer tidak berfungsi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Frekuensi terlalu tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pekerja terlalu lelah berjalan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa penjumlahan langsung dua nilai dBA (misal 85 dBA + 85 dBA = 170 dBA) adalah keliru?",
+      "explanation": "Desibel adalah skala logaritmik, sehingga penggabungan sumber bunyi tidak dijumlahkan secara aritmetika; dua sumber sama besar hanya menambah sekitar 3 dB.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Konsep Dasar",
+      "options": [
+        {
+          "text": "A. Karena dBA adalah skala logaritmik, bukan linier",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena dBA tidak bisa dijumlahkan sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena harus dikali dua",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena frekuensinya berbeda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk dampak auditori (langsung pada pendengaran) dari pajanan bising?",
+      "explanation": "Dampak auditori meliputi TTS, NIHL, dan tinnitus; sedangkan hipertensi/stres termasuk dampak non-auditori.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Hipertensi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. NIHL (gangguan pendengaran akibat bising)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Gangguan tidur",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Stres psikologis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan paling tepat mengenai NAB kebisingan 85 dBA/8 jam adalah?",
+      "explanation": "NAB 85 dBA untuk 8 jam adalah batas pajanan yang masih dapat diterima pekerja rata-rata tanpa gangguan kesehatan, namun bukan jaminan aman 100% untuk semua individu (yang sensitif tetap berisiko).",
+      "difficulty": "HARD",
+      "tag": "NAB & Standar",
+      "options": [
+        {
+          "text": "A. Batas pajanan yang masih dapat diterima rata-rata pekerja per 8 jam",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Batas yang menjamin 100% semua orang aman",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Batas pajanan untuk 24 jam terus-menerus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Nilai minimum bising yang harus dicapai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kebisingan termasuk dalam kelompok faktor bahaya?",
+      "explanation": "Kebisingan termasuk faktor bahaya fisika di tempat kerja, sebagaimana getaran, pencahayaan, iklim kerja, dan radiasi.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Konsep Dasar",
+      "options": [
+        {
+          "text": "A. Faktor fisika",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Faktor kimia",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Faktor biologi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Faktor ergonomi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dua contoh alat pelindung telinga (APT) yang umum digunakan adalah?",
+      "explanation": "Dua jenis APT yang umum adalah ear plug (sumbat telinga) dan ear muff (tutup telinga).",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Ear plug dan ear muff",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Helm dan sarung tangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kacamata dan masker",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sepatu dan rompi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bunyi mesin kompresor yang menyala terus-menerus dengan intensitas hampir tetap merupakan contoh kebisingan?",
+      "explanation": "Bunyi kompresor yang menyala terus dengan intensitas tetap adalah contoh kebisingan kontinu (steady state).",
+      "difficulty": "EASY",
+      "tag": "Jenis Kebisingan",
+      "options": [
+        {
+          "text": "A. Impulsif",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kontinu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Intermiten",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Random terputus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suara ledakan atau tembakan senjata merupakan contoh khas dari kebisingan?",
+      "explanation": "Ledakan dan tembakan menimbulkan puncak energi tinggi dalam waktu sangat singkat, yang merupakan ciri kebisingan impulsif.",
+      "difficulty": "EASY",
+      "tag": "Jenis Kebisingan",
+      "options": [
+        {
+          "text": "A. Kontinu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Intermiten",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Impulsif",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Steady state",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bunyi kendaraan yang lewat sesekali sehingga kebisingannya naik-turun secara berkala merupakan contoh kebisingan?",
+      "explanation": "Bunyi kendaraan yang datang dan pergi membuat kebisingan terputus-putus, yang merupakan ciri kebisingan intermiten.",
+      "difficulty": "EASY",
+      "tag": "Jenis Kebisingan",
+      "options": [
+        {
+          "text": "A. Intermiten",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kontinu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Impulsif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tonal murni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama penggunaan alat pelindung telinga oleh pekerja adalah?",
+      "explanation": "APT digunakan untuk mengurangi jumlah energi akustik (dosis bising) yang masuk ke telinga sehingga melindungi pendengaran pekerja.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        {
+          "text": "A. Mengurangi energi bising yang masuk ke telinga",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menambah kenyaringan suara",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghangatkan telinga",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengukur intensitas bising",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat yang khusus digunakan untuk mengukur fungsi/ambang pendengaran seseorang adalah?",
+      "explanation": "Audiometer adalah alat untuk mengukur ambang pendengaran seseorang pada berbagai frekuensi, hasilnya berupa audiogram.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Sound Level Meter",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Audiometer",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Noise dosimeter",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Octave band analyzer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada noise mapping, area dengan intensitas paling tinggi (> 94 dBA) diberi warna?",
+      "explanation": "Area dengan intensitas > 94 dBA, yang paling berbahaya, diberi warna merah tua pada peta kebisingan.",
+      "difficulty": "EASY",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Hijau",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kuning",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Merah tua",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Putih",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Kebisingan",
+      "back": "Bunyi yang tidak dikehendaki yang dapat mengganggu kesehatan, kenyamanan, dan keselamatan kerja.",
+      "tag": "Definisi & Konsep Dasar"
+    },
+    {
+      "front": "NAB Kebisingan (Permenaker No. 5/2018)",
+      "back": "85 dBA untuk pajanan 8 jam per hari kerja.",
+      "tag": "NAB & Standar"
+    },
+    {
+      "front": "Exchange rate / Halving time",
+      "back": "3 dB; setiap kenaikan 3 dBA, waktu pajanan aman berkurang menjadi setengahnya.",
+      "tag": "NAB & Standar"
+    },
+    {
+      "front": "Sound Level Meter (SLM)",
+      "back": "Alat ukur tingkat kebisingan keseluruhan (overall level) dalam satuan dBA.",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Noise Dosimeter",
+      "back": "Alat ukur pajanan kebisingan personal pada pekerja yang berpindah-pindah selama shift kerja.",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Octave Band Analyzer",
+      "back": "Alat untuk menganalisis tingkat bising pada berbagai pita oktaf frekuensi.",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "dBA vs dBC",
+      "back": "dBA mendekati respon telinga manusia (untuk bising umum); dBC lebih datar di frekuensi rendah (untuk peak/impulsif).",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Frekuensi audible manusia",
+      "back": "Rentang 20 Hz - 20.000 Hz; satuan frekuensi adalah Hertz (Hz).",
+      "tag": "Definisi & Konsep Dasar"
+    },
+    {
+      "front": "NIHL",
+      "back": "Noise-Induced Hearing Loss; gangguan pendengaran akibat bising yang bersifat permanen.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "TTS",
+      "back": "Temporary Threshold Shift; kenaikan ambang dengar sementara yang dapat pulih setelah istirahat dari bising.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Audiometri & Audiogram",
+      "back": "Pemeriksaan fungsi pendengaran; hasilnya berupa audiogram (grafik ambang dengar per frekuensi).",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Jenis Kebisingan",
+      "back": "Kontinu (tetap), Intermiten (terputus-putus), Impulsif (puncak tinggi sangat singkat).",
+      "tag": "Jenis Kebisingan"
+    },
+    {
+      "front": "Hirarki Pengendalian",
+      "back": "Eliminasi - Substitusi - Engineering - Administratif - APD (dari paling efektif ke kurang efektif).",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "NRR (Noise Reduction Rating)",
+      "back": "Nilai kemampuan alat pelindung telinga dalam mereduksi pajanan bising (dalam dB).",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "Leq",
+      "back": "Equivalent Continuous Sound Level; tingkat kebisingan rata-rata setara selama periode pengukuran.",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "TWA (Time-Weighted Average)",
+      "back": "Rata-rata tertimbang waktu pajanan; batas 85 dBA untuk 8 jam dengan exchange rate 3 dB.",
+      "tag": "NAB & Standar"
+    },
+    {
+      "front": "Noise Mapping",
+      "back": "Peta sebaran intensitas kebisingan dengan kode warna (hijau < 80 dBA sampai merah > 94 dBA).",
+      "tag": "Prosedur Pengukuran"
+    },
+    {
+      "front": "Dosis Pajanan Bising",
+      "back": "Pajanan aktual relatif terhadap yang diperbolehkan; 100% = batas aman, >100% berbahaya.",
+      "tag": "Prosedur Pengukuran"
+    },
+    {
+      "front": "Rumus Pajanan Efektif APT",
+      "back": "dBA efektif = dBA pajanan - [(NRR - 7) x 50%]; faktor koreksi 7 dB.",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "Batas Kebisingan Impulsif (Peak)",
+      "back": "Pajanan kebisingan impulsif/peak tidak boleh melebihi 140 dB peak sound pressure level untuk mencegah kerusakan pendengaran mendadak.",
+      "tag": "NAB & Standar"
+    },
+    {
+      "front": "Notch 4000 Hz",
+      "back": "Tanda khas NIHL pada audiogram berupa takik (notch) penurunan ambang dengar di sekitar frekuensi 4000 Hz, kemudian meluas bila pajanan berlanjut.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Tinnitus",
+      "back": "Sensasi mendengar dengingan/dengungan di telinga tanpa sumber bunyi eksternal, sering menyertai gangguan pendengaran akibat bising.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Dampak Non-Auditori Bising",
+      "back": "Efek di luar pendengaran: peningkatan tekanan darah (hipertensi), stres, gangguan tidur, serta gangguan komunikasi dan konsentrasi.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Nilai Referensi 0 dB",
+      "back": "Tekanan bunyi referensi 0 dB = 20 uPa (mikropascal), yaitu ambang dengar manusia normal.",
+      "tag": "Definisi & Konsep Dasar"
+    },
+    {
+      "front": "Penjumlahan dB (Logaritmik)",
+      "back": "dB bersifat logaritmik sehingga tidak dijumlah aritmetika; dua sumber sama besar hanya menambah sekitar 3 dB (80 dB + 80 dB ≈ 83 dB).",
+      "tag": "Definisi & Konsep Dasar"
+    },
+    {
+      "front": "Tabel Durasi Pajanan vs dBA",
+      "back": "Exchange rate 3 dB: 85 dBA = 8 jam, 88 dBA = 4 jam, 91 dBA = 2 jam, 94 dBA = 1 jam, 97 dBA = 30 menit.",
+      "tag": "NAB & Standar"
+    },
+    {
+      "front": "Rumus Waktu Maksimal NIOSH (T)",
+      "back": "T (menit) = 480 / 2^((L-85)/3); angka 3 = exchange rate. Bila L = 85 dB, maka T = 480 menit (8 jam).",
+      "tag": "NAB & Standar"
+    },
+    {
+      "front": "Ear Plug vs Ear Muff",
+      "back": "Ear plug disisipkan ke liang telinga (reduksi ~10-30 dB); ear muff menutup seluruh daun telinga (reduksi ~30 dB frek rendah hingga ~50 dB frek tinggi).",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "Engineering Control Kebisingan",
+      "back": "Pengendalian rekayasa pada sumber/jalur rambat: peredam (silencer/muffler), enclosure mesin, barrier/panel akustik, dan isolasi getaran.",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "Eliminasi, Substitusi, Administratif",
+      "back": "Eliminasi = menghilangkan sumber bising (paling efektif); Substitusi = mengganti mesin bising dengan yang lebih senyap; Administratif = rotasi kerja & pembatasan durasi pajanan.",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "Hearing Conservation Program (HCP)",
+      "back": "Program konservasi pendengaran menyeluruh: pengukuran bising, audiometri, penyediaan APD, pelatihan, dan rekam medis; area > NAB jadi zona wajib APP.",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "Audiometric Booth & Syarat Audiometri",
+      "back": "Audiometri dilakukan dalam bilik kedap suara (audiometric booth), setelah pekerja bebas bising 8-12 jam (sampai 3 hari) agar tidak terpengaruh TTS.",
+      "tag": "Prosedur Pengukuran"
+    },
+    {
+      "front": "Standar SNI & NIOSH REL",
+      "back": "SNI 8427-2017 (pengukuran kebisingan lingkungan), SNI 7231-2009 (di tempat kerja); NIOSH REL = 85 dBA TWA 8 jam (dosis 100%).",
+      "tag": "Regulasi"
+    },
+    {
+      "front": "Permenaker 5/2018 & Permenkes 70/2016",
+      "back": "Permenaker No. 5/2018 = acuan utama NAB faktor fisika (kebisingan 85 dBA/8 jam); Permenkes No. 70/2016 = Standar & Persyaratan Kesehatan Lingkungan Kerja Industri.",
+      "tag": "Regulasi"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Kebisingan (Noise)",
+      "color": "#6366f1",
+      "parent": null,
+      "content": "Bunyi yang tidak dikehendaki yang dapat mengganggu kesehatan, kenyamanan, dan keselamatan kerja. Termasuk faktor bahaya fisika di tempat kerja, bersama getaran, pencahayaan, iklim kerja, dan radiasi."
+    },
+    {
+      "id": "dasar",
+      "label": "Konsep Dasar",
+      "color": "#8b5cf6",
+      "parent": "root",
+      "content": "Definisi, besaran, satuan, dan dasar fisika bunyi."
+    },
+    {
+      "id": "dasar-def",
+      "label": "Definisi",
+      "color": "#8b5cf6",
+      "parent": "dasar",
+      "content": "Kebisingan adalah bunyi yang tidak dikehendaki karena dapat mengganggu kesehatan, kenyamanan, dan keselamatan kerja. Termasuk kelompok faktor bahaya fisika."
+    },
+    {
+      "id": "dasar-db",
+      "label": "Desibel (dB)",
+      "color": "#8b5cf6",
+      "parent": "dasar",
+      "content": "Satuan tingkat tekanan bunyi yang bersifat logaritmik (skala log basis 10), bukan linier.\n- Nilai referensi (0 dB) = 20 uPa (mikropascal) = ambang dengar manusia normal\n- Penjumlahan tidak langsung: dua sumber sama besar hanya menambah ~3 dB (80 dB + 80 dB ≈ 83 dB)"
+    },
+    {
+      "id": "dasar-db-log",
+      "label": "Sifat Logaritmik",
+      "color": "#8b5cf6",
+      "parent": "dasar-db",
+      "content": "Karena skala log, dBA tidak boleh dijumlah aritmetika (85 + 85 ≠ 170 dBA). Dua sumber identik hanya menambah sekitar 3 dB."
+    },
+    {
+      "id": "dasar-freq",
+      "label": "Frekuensi (Hz)",
+      "color": "#8b5cf6",
+      "parent": "dasar",
+      "content": "Jumlah getaran per detik, satuan Hertz (Hz). Menentukan tinggi-rendahnya nada (pitch): frekuensi tinggi terdengar nyaring, frekuensi rendah terdengar berat."
+    },
+    {
+      "id": "dasar-freq-audible",
+      "label": "Rentang Audible",
+      "color": "#8b5cf6",
+      "parent": "dasar-freq",
+      "content": "Telinga manusia normal mendengar bunyi pada rentang sekitar 20 Hz - 20.000 Hz (20 kHz)."
+    },
+    {
+      "id": "dasar-anatomi",
+      "label": "Anatomi Telinga",
+      "color": "#8b5cf6",
+      "parent": "dasar",
+      "content": "Jalur penghantaran bunyi dari luar ke dalam:\n- Telinga luar (daun telinga, liang telinga)\n- Telinga tengah (gendang telinga, tulang pendengaran)\n- Telinga dalam (koklea) — sinyal diubah menjadi impuls saraf"
+    },
+    {
+      "id": "jenis",
+      "label": "Jenis Kebisingan",
+      "color": "#06b6d4",
+      "parent": "root",
+      "content": "Klasifikasi kebisingan berdasarkan pola intensitas terhadap waktu."
+    },
+    {
+      "id": "jenis-kontinu",
+      "label": "Kontinu",
+      "color": "#06b6d4",
+      "parent": "jenis",
+      "content": "Tingkat intensitas tetap atau hampir tetap dalam jangka waktu tertentu (steady state).\n- Contoh: bunyi kompresor atau kipas yang menyala terus-menerus"
+    },
+    {
+      "id": "jenis-intermiten",
+      "label": "Intermiten",
+      "color": "#06b6d4",
+      "parent": "jenis",
+      "content": "Kebisingan terputus-putus, datang dan pergi, dengan tingkat naik-turun secara berkala.\n- Contoh: bunyi kendaraan yang lewat sesekali atau mesin yang dihidup-matikan"
+    },
+    {
+      "id": "jenis-impulsif",
+      "label": "Impulsif",
+      "color": "#06b6d4",
+      "parent": "jenis",
+      "content": "Puncak energi tinggi dalam waktu sangat singkat (kurang dari 1 detik).\n- Contoh: ledakan, tembakan senjata, pukulan palu\n- Diukur dengan pembobotan dBC; batas peak tidak boleh melebihi 140 dB"
+    },
+    {
+      "id": "sumber",
+      "label": "Sumber & Persepsi",
+      "color": "#f59e0b",
+      "parent": "root",
+      "content": "Sumber bunyi di tempat kerja dan bagaimana karakter bunyi dipersepsikan."
+    },
+    {
+      "id": "sumber-kerja",
+      "label": "Sumber di Tempat Kerja",
+      "color": "#f59e0b",
+      "parent": "sumber",
+      "content": "Mesin dan proses produksi yang menghasilkan bising.\n- Mesin produksi (kompresor, giling, peremahan, pengeringan)\n- Area kerja dengan tingkat bising tinggi disebut hotspot"
+    },
+    {
+      "id": "sumber-kombinasi",
+      "label": "Kombinasi Sumber",
+      "color": "#f59e0b",
+      "parent": "sumber",
+      "content": "Beberapa sumber bunyi digabung secara logaritmik, bukan aritmetika. Penambahan dua sumber sama besar menaikkan sekitar 3 dB."
+    },
+    {
+      "id": "sumber-pitch",
+      "label": "Pitch (Nada)",
+      "color": "#f59e0b",
+      "parent": "sumber",
+      "content": "Tinggi-rendahnya nada ditentukan oleh frekuensi. Frekuensi tinggi = nada nyaring; frekuensi rendah = nada berat/dalam."
+    },
+    {
+      "id": "dampak",
+      "label": "Dampak Kesehatan",
+      "color": "#10b981",
+      "parent": "root",
+      "content": "Efek pajanan bising terhadap kesehatan pekerja. Risiko meningkat seiring intensitas (dBA) dan durasi pajanan."
+    },
+    {
+      "id": "dampak-aud",
+      "label": "Auditori",
+      "color": "#10b981",
+      "parent": "dampak",
+      "content": "Dampak langsung pada sistem pendengaran."
+    },
+    {
+      "id": "dampak-aud-tts",
+      "label": "TTS",
+      "color": "#10b981",
+      "parent": "dampak-aud",
+      "content": "Temporary Threshold Shift — pergeseran ambang dengar sementara yang dapat pulih setelah istirahat dari pajanan bising. Bisa menyesatkan hasil audiometri bila tes dilakukan tanpa istirahat."
+    },
+    {
+      "id": "dampak-aud-nihl",
+      "label": "NIHL",
+      "color": "#10b981",
+      "parent": "dampak-aud",
+      "content": "Noise-Induced Hearing Loss — gangguan pendengaran akibat bising yang bersifat menetap/permanen.\n- Disebabkan kerusakan sel rambut (hair cells) pada koklea\n- Permanen karena sel rambut koklea tidak dapat beregenerasi"
+    },
+    {
+      "id": "dampak-aud-nihl-notch",
+      "label": "Notch 4000 Hz",
+      "color": "#10b981",
+      "parent": "dampak-aud-nihl",
+      "content": "NIHL khas menunjukkan takik (notch) pada audiogram di sekitar frekuensi 4000 Hz, kemudian meluas bila pajanan berlanjut."
+    },
+    {
+      "id": "dampak-aud-tinnitus",
+      "label": "Tinnitus",
+      "color": "#10b981",
+      "parent": "dampak-aud",
+      "content": "Sensasi mendengar dengingan/dengungan di telinga tanpa sumber bunyi eksternal, sering menyertai gangguan pendengaran akibat bising."
+    },
+    {
+      "id": "dampak-nonaud",
+      "label": "Non-Auditori",
+      "color": "#10b981",
+      "parent": "dampak",
+      "content": "Dampak di luar sistem pendengaran.\n- Peningkatan tekanan darah (hipertensi)\n- Stres\n- Gangguan tidur\n- Gangguan komunikasi dan konsentrasi"
+    },
+    {
+      "id": "ukur",
+      "label": "Pengukuran",
+      "color": "#ec4899",
+      "parent": "root",
+      "content": "Alat, parameter, dan metode pengukuran kebisingan."
+    },
+    {
+      "id": "ukur-alat",
+      "label": "Alat Ukur",
+      "color": "#ec4899",
+      "parent": "ukur",
+      "content": "Peralatan untuk mengukur dan menilai kebisingan."
+    },
+    {
+      "id": "ukur-alat-slm",
+      "label": "Sound Level Meter (SLM)",
+      "color": "#ec4899",
+      "parent": "ukur-alat",
+      "content": "Mengukur tingkat kebisingan keseluruhan (overall level) dalam dBA tanpa memperhatikan frekuensi.\n- Rentang ukur sekitar 30-130 dB pada frekuensi 20-20.000 Hz"
+    },
+    {
+      "id": "ukur-alat-oba",
+      "label": "Octave Band Analyzer",
+      "color": "#ec4899",
+      "parent": "ukur-alat",
+      "content": "SLM dengan filter pita oktaf untuk menganalisis level bising pada berbagai pita frekuensi.\n- Narrow band analyzer untuk spektrum sempit 2-200 Hz"
+    },
+    {
+      "id": "ukur-alat-dosi",
+      "label": "Noise Dosimeter",
+      "color": "#ec4899",
+      "parent": "ukur-alat",
+      "content": "Mengukur dosis/pajanan personal bunyi yang diterima pekerja yang berpindah-pindah (dBA).\n- Dipakai sepanjang shift kerja (8 jam)\n- Data berguna sebagai dasar upaya pengendalian"
+    },
+    {
+      "id": "ukur-alat-audio",
+      "label": "Audiometer",
+      "color": "#ec4899",
+      "parent": "ukur-alat",
+      "content": "Alat untuk mengukur ambang pendengaran seseorang pada berbagai frekuensi; hasilnya berupa audiogram. Dilakukan dalam audiometric booth (bilik kedap suara)."
+    },
+    {
+      "id": "ukur-alat-kalib",
+      "label": "Noise Calibrator",
+      "color": "#ec4899",
+      "parent": "ukur-alat",
+      "content": "Kalibrator akustik untuk mengkalibrasi Sound Level Meter sebelum digunakan agar hasil pengukuran akurat."
+    },
+    {
+      "id": "ukur-param",
+      "label": "Parameter & Pembobotan",
+      "color": "#ec4899",
+      "parent": "ukur",
+      "content": "Besaran dan filter pembobotan dalam pengukuran kebisingan."
+    },
+    {
+      "id": "ukur-param-dba",
+      "label": "Pembobotan A (dBA)",
+      "color": "#ec4899",
+      "parent": "ukur-param",
+      "content": "Pembobotan paling sering dipakai karena mendekati respon/sensitivitas telinga manusia, sehingga merepresentasikan risiko gangguan pendengaran."
+    },
+    {
+      "id": "ukur-param-dbc",
+      "label": "Pembobotan C (dBC)",
+      "color": "#ec4899",
+      "parent": "ukur-param",
+      "content": "Lebih datar pada frekuensi rendah; digunakan untuk mengukur kebisingan puncak (peak) atau impulsif."
+    },
+    {
+      "id": "ukur-param-leq",
+      "label": "Leq",
+      "color": "#ec4899",
+      "parent": "ukur-param",
+      "content": "Equivalent Continuous Sound Level — tingkat kebisingan rata-rata setara energi selama periode pengukuran. Memudahkan perbandingan kebisingan fluktuatif dengan NAB."
+    },
+    {
+      "id": "ukur-mapping",
+      "label": "Noise Mapping",
+      "color": "#ec4899",
+      "parent": "ukur",
+      "content": "Pemetaan sebaran intensitas kebisingan pada denah unit kerja dengan garis kontur (metode NIOSH)."
+    },
+    {
+      "id": "ukur-mapping-grid",
+      "label": "Metode Grid",
+      "color": "#ec4899",
+      "parent": "ukur-mapping",
+      "content": "Pengukuran berbasis titik grid berdasarkan luas area.\n- Jumlah titik: N = k x (A/a), dengan k=1,5 (shape konstan), A=luas total, a=luas hotspot\n- Jarak grid: d = akar(A/N)\n- Mikrofon setinggi 1,5 m (setinggi telinga); tiap titik 3x baca, ambil Leq"
+    },
+    {
+      "id": "ukur-mapping-warna",
+      "label": "Peta Kontur (Warna)",
+      "color": "#ec4899",
+      "parent": "ukur-mapping",
+      "content": "Kode warna intensitas (versi materi lingkungan kerja):\n- Hijau: < 80 dBA\n- Kuning: 80-85 dBA\n- Orange: 85-88 dBA\n- Merah muda: 88-91 dBA\n- Merah: 91-94 dBA\n- Merah tua: > 94 dBA"
+    },
+    {
+      "id": "ukur-mapping-app",
+      "label": "Aplikasi Peta",
+      "color": "#ec4899",
+      "parent": "ukur-mapping",
+      "content": "Titik koordinat dengan GPS (Garmin); peta kontur dibuat dengan Golden Surfer atau ArcGIS."
+    },
+    {
+      "id": "ukur-survey",
+      "label": "Survei Pajanan",
+      "color": "#ec4899",
+      "parent": "ukur",
+      "content": "Survei untuk mengetahui sumber melebihi NAB, gangguan komunikasi, kebutuhan APP, kualitas bising, dan efektivitas program. Syarat alat: mudah dioperasikan, harga terjangkau, pemeliharaan mudah."
+    },
+    {
+      "id": "ukur-survey-area",
+      "label": "Survei Area",
+      "color": "#ec4899",
+      "parent": "ukur-survey",
+      "content": "Pemantauan kebisingan lingkungan kerja: identifikasi sumber bising, sumber yang melebihi NAB, kebutuhan analisis frekuensi, dan pembuatan noise mapping."
+    },
+    {
+      "id": "ukur-survey-dosis",
+      "label": "Survei Dosis Harian",
+      "color": "#ec4899",
+      "parent": "ukur-survey",
+      "content": "Mencatat besarnya intensitas yang diterima dan lamanya pekerja terpajan untuk dibandingkan dengan NAB."
+    },
+    {
+      "id": "ukur-survey-eng",
+      "label": "Survei Engineering",
+      "color": "#ec4899",
+      "parent": "ukur-survey",
+      "content": "Menilai kualitas bising dan mengumpulkan data teknis untuk merancang pengendalian teknis (engineering control)."
+    },
+    {
+      "id": "ukur-audiometri",
+      "label": "Audiometri",
+      "color": "#ec4899",
+      "parent": "ukur",
+      "content": "Pemeriksaan fungsi pendengaran; hasilnya berupa audiogram. Dilakukan setelah pekerja bebas bising 8-12 jam (sampai 3 hari) agar tidak terpengaruh TTS."
+    },
+    {
+      "id": "ukur-audiometri-tujuan",
+      "label": "Tujuan Audiometri",
+      "color": "#ec4899",
+      "parent": "ukur-audiometri",
+      "content": "Mendeteksi pengaruh bising secara dini dan mencegah agar tidak bertambah parah.\n- Pre-employment: data dasar (baseline) status pendengaran\n- Identifikasi pekerja yang sensitif terhadap bising"
+    },
+    {
+      "id": "ukur-audiometri-audiogram",
+      "label": "Audiogram",
+      "color": "#ec4899",
+      "parent": "ukur-audiometri",
+      "content": "Grafik ambang dengar: sumbu vertikal = intensitas/ambang dengar (dB), sumbu horizontal = frekuensi (Hz).\n- Simbol X = telinga kiri\n- Simbol O = telinga kanan"
+    },
+    {
+      "id": "nab",
+      "label": "NAB & Regulasi",
+      "color": "#ef4444",
+      "parent": "root",
+      "content": "Nilai Ambang Batas, exchange rate, perhitungan dosis, dan dasar hukum."
+    },
+    {
+      "id": "nab-def",
+      "label": "NAB 85 dBA / 8 jam",
+      "color": "#ef4444",
+      "parent": "nab",
+      "content": "Nilai Ambang Batas = batas pajanan yang masih dapat diterima rata-rata pekerja per 8 jam tanpa gangguan kesehatan (bukan jaminan aman untuk semua individu).\n- Permenaker No. 5 Tahun 2018: 85 dBA untuk 8 jam\n- NIOSH REL: 85 dBA TWA 8 jam = dosis 100%"
+    },
+    {
+      "id": "nab-exchange",
+      "label": "Exchange Rate 3 dB",
+      "color": "#ef4444",
+      "parent": "nab",
+      "content": "Nilai tukar 3 dB: setiap kenaikan 3 dBA, waktu pajanan yang diperbolehkan menjadi setengahnya."
+    },
+    {
+      "id": "nab-tabel",
+      "label": "Tabel Durasi vs dBA",
+      "color": "#ef4444",
+      "parent": "nab-exchange",
+      "content": "Berdasarkan exchange rate 3 dB (Permenaker 5/2018):\n- 85 dBA: 8 jam\n- 88 dBA: 4 jam\n- 91 dBA: 2 jam\n- 94 dBA: 1 jam\n- 97 dBA: 30 menit"
+    },
+    {
+      "id": "nab-peak",
+      "label": "Batas Impulsif (Peak)",
+      "color": "#ef4444",
+      "parent": "nab",
+      "content": "Pajanan kebisingan impulsif/peak tidak boleh melebihi 140 dB (peak sound pressure level) untuk mencegah kerusakan pendengaran mendadak."
+    },
+    {
+      "id": "nab-dosis",
+      "label": "Perhitungan Dosis",
+      "color": "#ef4444",
+      "parent": "nab",
+      "content": "Dosis = jumlah pemaparan aktual relatif terhadap yang diperbolehkan.\n- Rumus: D = [C1/T1 + C2/T2 + ... + Cn/Tn] x 100\n- Dosis 100% ke atas = pajanan berbahaya\n- 85 dBA selama 8 jam = dosis tepat 100%"
+    },
+    {
+      "id": "nab-dosis-twa",
+      "label": "Konversi ke TWA",
+      "color": "#ef4444",
+      "parent": "nab-dosis",
+      "content": "TWA (Time-Weighted Average) = 10 x log(D/100) + 85.\n- Jika D = 100%, maka TWA = 85 dBA"
+    },
+    {
+      "id": "nab-tmax",
+      "label": "Waktu Maksimal (T)",
+      "color": "#ef4444",
+      "parent": "nab",
+      "content": "Rumus NIOSH waktu pemaparan maksimal: T(menit) = 480 / 2^((L-85)/3).\n- Angka 3 = exchange rate\n- Jika L = 85 dB, maka T = 480 menit (8 jam)"
+    },
+    {
+      "id": "nab-leq-kombinasi",
+      "label": "Leq Berpindah Tempat",
+      "color": "#ef4444",
+      "parent": "nab",
+      "content": "Pekerja yang berpindah ke beberapa tingkat bising dihitung dengan Leq berbobot fraksi waktu (logaritmik): Leq = 10 log(sum fA x 10^(LA/10)). Contoh: 100 dBA (2 jam), 120 dBA (1 jam), 90 dBA (1 jam) ≈ 114 dBA Leq 4 jam."
+    },
+    {
+      "id": "nab-regulasi",
+      "label": "Dasar Hukum & Standar",
+      "color": "#ef4444",
+      "parent": "nab",
+      "content": "Peraturan dan standar acuan."
+    },
+    {
+      "id": "nab-reg-permenaker",
+      "label": "Permenaker 5/2018",
+      "color": "#ef4444",
+      "parent": "nab-regulasi",
+      "content": "Acuan utama Nilai Ambang Batas faktor fisika (termasuk kebisingan) di tempat kerja: K3 Lingkungan Kerja, NAB 85 dBA/8 jam."
+    },
+    {
+      "id": "nab-reg-permenkes",
+      "label": "Permenkes 70/2016",
+      "color": "#ef4444",
+      "parent": "nab-regulasi",
+      "content": "Standar dan Persyaratan Kesehatan Lingkungan Kerja Industri, termasuk aspek kebisingan dan perhitungan NRR."
+    },
+    {
+      "id": "nab-reg-sni",
+      "label": "Standar SNI",
+      "color": "#ef4444",
+      "parent": "nab-regulasi",
+      "content": "SNI yang mengatur pengukuran kebisingan:\n- SNI 8427-2017: pengukuran tingkat kebisingan lingkungan\n- SNI 7231-2009: metoda pengukuran (di tempat kerja)"
+    },
+    {
+      "id": "nab-reg-niosh",
+      "label": "NIOSH REL",
+      "color": "#ef4444",
+      "parent": "nab-regulasi",
+      "content": "NIOSH merekomendasikan REL 85 dBA sebagai TWA 8 jam (dosis 100%). Pajanan pada dan di atas tingkat ini dianggap berbahaya."
+    },
+    {
+      "id": "kendali",
+      "label": "Pengendalian",
+      "color": "#14b8a6",
+      "parent": "root",
+      "content": "Upaya menurunkan pajanan bising mengikuti hirarki pengendalian, dari paling efektif ke paling kurang efektif."
+    },
+    {
+      "id": "kendali-hirarki",
+      "label": "Hirarki Pengendalian",
+      "color": "#14b8a6",
+      "parent": "kendali",
+      "content": "Urutan dari paling efektif: Eliminasi, Substitusi, Pengendalian rekayasa (engineering), Pengendalian administratif, lalu APD/APT."
+    },
+    {
+      "id": "kendali-eliminasi",
+      "label": "Eliminasi",
+      "color": "#14b8a6",
+      "parent": "kendali-hirarki",
+      "content": "Menghilangkan total sumber bising (misal menghentikan proses yang tidak perlu). Tingkat pengendalian paling efektif."
+    },
+    {
+      "id": "kendali-substitusi",
+      "label": "Substitusi",
+      "color": "#14b8a6",
+      "parent": "kendali-hirarki",
+      "content": "Mengganti sumber bahaya dengan yang lebih rendah risikonya, misal mengganti mesin lama yang bising dengan mesin baru yang lebih senyap."
+    },
+    {
+      "id": "kendali-engineering",
+      "label": "Engineering",
+      "color": "#14b8a6",
+      "parent": "kendali-hirarki",
+      "content": "Pengendalian rekayasa pada sumber atau jalur rambat:\n- Peredam (silencer/muffler)\n- Enclosure mesin\n- Barrier/panel akustik\n- Isolasi getaran sumber bising"
+    },
+    {
+      "id": "kendali-administratif",
+      "label": "Administratif",
+      "color": "#14b8a6",
+      "parent": "kendali-hirarki",
+      "content": "Mengatur cara/waktu kerja tanpa mengubah sumber bahaya, misal rotasi kerja dan pembatasan durasi pajanan di area bising."
+    },
+    {
+      "id": "kendali-apt",
+      "label": "APD / APT",
+      "color": "#14b8a6",
+      "parent": "kendali-hirarki",
+      "content": "Alat Pelindung Telinga — posisi paling bawah hirarki karena hanya melindungi individu tanpa mengurangi sumber. Tujuan: mengurangi energi akustik yang masuk ke telinga."
+    },
+    {
+      "id": "kendali-apt-earplug",
+      "label": "Ear Plug",
+      "color": "#14b8a6",
+      "parent": "kendali-apt",
+      "content": "Sumbat telinga yang disisipkan ke dalam liang/saluran telinga.\n- Reduksi ~10-16 dB pada frek < 1000 Hz\n- Reduksi ~25-30 dB pada frek 1000 Hz"
+    },
+    {
+      "id": "kendali-apt-earmuff",
+      "label": "Ear Muff",
+      "color": "#14b8a6",
+      "parent": "kendali-apt",
+      "content": "Tutup telinga yang menutup seluruh daun telinga membentuk penghalang akustik.\n- Reduksi ~30 dB pada frek rendah\n- Reduksi hingga ~50 dB pada frek tinggi"
+    },
+    {
+      "id": "kendali-apt-nrr",
+      "label": "NRR & Pajanan Efektif",
+      "color": "#14b8a6",
+      "parent": "kendali-apt",
+      "content": "NRR (Noise Reduction Rating) = estimasi reduksi kebisingan oleh APT (dB).\n- Proteksi tunggal: dBA efektif = dBA - [(NRR - 7) x 50%]\n- Faktor koreksi 7 dB; faktor lapangan 50%\n- Proteksi ganda: pakai NRR tertinggi lalu tambah 5 dB"
+    },
+    {
+      "id": "kendali-hcp",
+      "label": "Hearing Conservation Program",
+      "color": "#14b8a6",
+      "parent": "kendali",
+      "content": "Program konservasi pendengaran menyeluruh di perusahaan: pengukuran bising, audiometri, penyediaan APD, pelatihan, dan rekam medis. Area > NAB ditetapkan zona wajib APP."
+    }
+  ]
+}

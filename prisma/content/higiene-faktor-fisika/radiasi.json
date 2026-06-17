@@ -1,0 +1,3044 @@
+{
+  "topic": "Radiasi",
+  "order": 5,
+  "description": "Faktor bahaya fisik berupa perambatan energi gelombang elektromagnetik dan partikel bermuatan di tempat kerja, mencakup radiasi pengion dan non-pengion beserta proteksi, satuan dosis, dan regulasinya.",
+  "subtopics": [
+    "Konsep & Definisi Radiasi",
+    "Radiasi Pengion vs Non-Pengion",
+    "Jenis & Sumber Radiasi",
+    "Satuan & Besaran Dosis",
+    "ALARA & 3 Prinsip Proteksi",
+    "Efek Deterministik & Stokastik",
+    "Dampak Kesehatan",
+    "NAB / NBD Dosis",
+    "Alat Ukur & Dosimeter",
+    "Regulasi BAPETEN & Permenaker",
+    "Pengendalian Radiasi"
+  ],
+  "questions": [
+    {
+      "text": "Menurut PP RI No. 33 Tahun 2007, radiasi didefinisikan sebagai gelombang elektromagnetik dan partikel bermuatan yang mampu melakukan apa terhadap media yang dilaluinya?",
+      "explanation": "PP No. 33 Tahun 2007 mendefinisikan radiasi sebagai gelombang elektromagnetik dan partikel bermuatan yang karena energinya mampu mengionisasi media yang dilaluinya.",
+      "difficulty": "EASY",
+      "tag": "Konsep & Definisi Radiasi",
+      "options": [
+        {
+          "text": "A. Memanaskan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengionisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Membekukan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memantulkan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu ciri khas radiasi sebagai cara perambatan energi adalah?",
+      "explanation": "Radiasi adalah cara perambatan energi dari sumber ke lingkungan TANPA membutuhkan medium (berbeda dengan konduksi/konveksi).",
+      "difficulty": "EASY",
+      "tag": "Konsep & Definisi Radiasi",
+      "options": [
+        {
+          "text": "A. Selalu membutuhkan medium padat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hanya merambat di air",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak membutuhkan medium",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Hanya merambat di logam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dasar pembeda utama antara radiasi pengion dan non-pengion adalah?",
+      "explanation": "Pembeda utamanya adalah energi: radiasi pengion memiliki energi cukup untuk melepaskan elektron dari atom (ionisasi), sedangkan non-pengion tidak.",
+      "difficulty": "EASY",
+      "tag": "Radiasi Pengion vs Non-Pengion",
+      "options": [
+        {
+          "text": "A. Warna cahayanya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kemampuan mengionisasi atom",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kecepatan rambatnya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu sumbernya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk radiasi PENGION adalah?",
+      "explanation": "Sinar-X, gamma, alfa, beta, neutron, dan sinar kosmik termasuk radiasi pengion. UV, inframerah, gelombang mikro, cahaya tampak termasuk non-pengion.",
+      "difficulty": "EASY",
+      "tag": "Radiasi Pengion vs Non-Pengion",
+      "options": [
+        {
+          "text": "A. Gelombang mikro",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Inframerah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sinar gamma",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Cahaya tampak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk radiasi NON-PENGION adalah?",
+      "explanation": "Ultraviolet, inframerah, gelombang mikro, gelombang radio, cahaya tampak, dan medan magnet/listrik statis termasuk non-pengion. Sinar-X termasuk pengion.",
+      "difficulty": "EASY",
+      "tag": "Radiasi Pengion vs Non-Pengion",
+      "options": [
+        {
+          "text": "A. Sinar-X",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sinar gamma",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Partikel alfa",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gelombang radio",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Satuan SI untuk aktivitas radioaktif (laju peluruhan) adalah?",
+      "explanation": "Becquerel (Bq) adalah satuan SI aktivitas radioaktif, yaitu 1 peluruhan per detik.",
+      "difficulty": "EASY",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Gray (Gy)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sievert (Sv)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Becquerel (Bq)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Tesla (T)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan SI untuk dosis serap (energi radiasi yang diserap per satuan massa) adalah?",
+      "explanation": "Gray (Gy) adalah satuan SI dosis serap, setara dengan 1 joule energi per kilogram materi.",
+      "difficulty": "EASY",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Sievert (Sv)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gray (Gy)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Becquerel (Bq)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Roentgen (R)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan SI untuk dosis ekivalen / dosis efektif (memperhitungkan efek biologis radiasi) adalah?",
+      "explanation": "Sievert (Sv) adalah satuan dosis ekivalen dan dosis efektif, yang mempertimbangkan faktor bobot radiasi dan jaringan terhadap risiko biologis.",
+      "difficulty": "EASY",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Gray (Gy)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Becquerel (Bq)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sievert (Sv)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Curie (Ci)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip ALARA dalam proteksi radiasi merupakan singkatan dari?",
+      "explanation": "ALARA = As Low As Reasonably Achievable, yaitu menjaga paparan radiasi serendah mungkin yang dapat dicapai secara wajar.",
+      "difficulty": "EASY",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. As Low As Radiation Allows",
+          "isCorrect": false
+        },
+        {
+          "text": "B. As Long As Reasonably Allowed",
+          "isCorrect": false
+        },
+        {
+          "text": "C. As Low As Reasonably Achievable",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Always Limit All Radiation Areas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tiga prinsip dasar proteksi radiasi eksternal adalah?",
+      "explanation": "Tiga prinsip proteksi radiasi eksternal: waktu (perpendek waktu pajanan), jarak (perjauh dari sumber), dan perisai/shielding (gunakan penahan).",
+      "difficulty": "EASY",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Waktu, jarak, dan perisai",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu, tekanan, dan volume",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Warna, bau, dan rasa",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Cahaya, suara, dan getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Efek radiasi yang muncul hanya bila dosis melampaui ambang tertentu dan keparahannya bertambah seiring dosis disebut efek?",
+      "explanation": "Efek deterministik (non-stokastik) memiliki dosis ambang; di bawah ambang tidak muncul, di atas ambang keparahan meningkat dengan dosis (mis. eritema, katarak, kemandulan).",
+      "difficulty": "EASY",
+      "tag": "Efek Deterministik & Stokastik",
+      "options": [
+        {
+          "text": "A. Stokastik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Deterministik",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Genetik acak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sekunder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Efek radiasi yang probabilitas kejadiannya meningkat dengan dosis namun keparahannya tidak tergantung dosis (mis. kanker) disebut efek?",
+      "explanation": "Efek stokastik bersifat probabilistik dan tidak memiliki ambang; peluang terjadinya naik dengan dosis, contohnya kanker dan efek genetik.",
+      "difficulty": "EASY",
+      "tag": "Efek Deterministik & Stokastik",
+      "options": [
+        {
+          "text": "A. Deterministik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Akut",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Stokastik",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Lokal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lembaga pemerintah Indonesia yang bertugas mengawasi pemanfaatan tenaga nuklir dan keselamatan radiasi pengion adalah?",
+      "explanation": "BAPETEN (Badan Pengawas Tenaga Nuklir) adalah lembaga yang mengawasi keselamatan, keamanan, dan safeguards pemanfaatan tenaga nuklir di Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Regulasi BAPETEN & Permenaker",
+      "options": [
+        {
+          "text": "A. BMKG",
+          "isCorrect": false
+        },
+        {
+          "text": "B. BAPETEN",
+          "isCorrect": true
+        },
+        {
+          "text": "C. BPOM",
+          "isCorrect": false
+        },
+        {
+          "text": "D. BNPB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rentang panjang gelombang radiasi ultraviolet menurut materi adalah?",
+      "explanation": "Materi menyebut UV sebagai radiasi elektromagnetik dengan panjang gelombang 180-400 nm (NAB berlaku 200-400 nm).",
+      "difficulty": "EASY",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. 400-700 nm",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 700-1400 nm",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 180-400 nm",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 1-10 nm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerjaan berikut yang umumnya berisiko terpajan radiasi non-pengion UV tinggi adalah?",
+      "explanation": "Pengelasan (welding) menghasilkan radiasi UV intensitas tinggi yang berbahaya bagi mata dan kulit juru las.",
+      "difficulty": "EASY",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Pengelasan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengetikan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penjahitan kain",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memasak nasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat ukur klasik untuk mendeteksi dan mengukur radiasi pengion dengan menghitung pulsa ionisasi adalah?",
+      "explanation": "Geiger-Muller counter adalah alat umum untuk mendeteksi radiasi pengion (alfa, beta, gamma) berdasarkan ionisasi gas.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. Termometer",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Geiger-Muller counter",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Barometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Anemometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit mata akibat paparan UV berlebih saat pengelasan yang dikenal sebagai 'welder's flash' adalah?",
+      "explanation": "Fotokeratitis (arc eye / welder's flash) adalah peradangan kornea akibat paparan UVB berlebih dari busur las.",
+      "difficulty": "EASY",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Glaukoma",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Fotokeratitis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Miopia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Buta warna",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut UNSCEAR, rata-rata dosis efektif radiasi alam yang diterima manusia per tahun adalah?",
+      "explanation": "Materi menyebut UNSCEAR: rata-rata dosis efektif radiasi alam ~2,4 mSv/tahun (kosmik 0,4 + gamma 0,5 + radon 1,2 + internal 0,3).",
+      "difficulty": "EASY",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 0,4 mSv",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 2,4 mSv",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 20 mSv",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 100 mSv",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lembaga internasional yang menggolongkan radiasi pengion sebagai zat karsinogenik adalah?",
+      "explanation": "Materi menyebut IAEA (Badan Energi Atom Internasional) menggolongkan radiasi sebagai zat karsinogenik; secara umum IARC juga menggolongkan radiasi pengion karsinogen Grup 1.",
+      "difficulty": "EASY",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. IAEA",
+          "isCorrect": true
+        },
+        {
+          "text": "B. FIFA",
+          "isCorrect": false
+        },
+        {
+          "text": "C. UNICEF",
+          "isCorrect": false
+        },
+        {
+          "text": "D. WTO",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Yang BUKAN merupakan jenis radiasi partikel pengion adalah?",
+      "explanation": "Radiasi partikel pengion meliputi alfa, beta, dan neutron. Sinar gamma adalah radiasi elektromagnetik (bukan partikel), meski tetap pengion.",
+      "difficulty": "MEDIUM",
+      "tag": "Radiasi Pengion vs Non-Pengion",
+      "options": [
+        {
+          "text": "A. Partikel alfa",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Partikel beta",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sinar gamma",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Neutron",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk menahan partikel alfa, perisai yang cukup adalah?",
+      "explanation": "Partikel alfa berdaya tembus sangat rendah sehingga cukup ditahan selembar kertas atau lapisan kulit mati.",
+      "difficulty": "MEDIUM",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Selembar kertas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Beton 1 meter",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Timbal 10 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Air 5 meter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk menahan partikel beta secara efektif, bahan perisai yang umum digunakan adalah?",
+      "explanation": "Partikel beta ditahan dengan bahan ringan (mis. aluminium, plastik/akrilik) untuk menghindari radiasi bremsstrahlung yang timbul jika memakai logam berat.",
+      "difficulty": "MEDIUM",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Selembar kertas tipis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Aluminium atau plastik/akrilik",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Udara terbuka",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kaca bening biasa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perisai yang paling efektif untuk menahan sinar gamma dan sinar-X adalah bahan dengan?",
+      "explanation": "Sinar gamma/X berdaya tembus tinggi, ditahan dengan bahan ber-nomor atom tinggi dan padat seperti timbal (Pb) atau beton tebal.",
+      "difficulty": "MEDIUM",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Nomor atom rendah seperti kertas",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Nomor atom dan kerapatan tinggi seperti timbal/beton",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kain katun tebal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lapisan minyak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Neutron paling efektif ditahan (di-moderasi) oleh bahan yang kaya akan?",
+      "explanation": "Neutron tidak bermuatan; paling efektif diperlambat oleh bahan kaya atom hidrogen seperti air, parafin, atau beton, bukan logam berat.",
+      "difficulty": "MEDIUM",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Atom hidrogen (air/parafin/beton)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Timbal murni",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Emas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gas argon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hubungan antara intensitas radiasi dan jarak dari sumber titik mengikuti hukum?",
+      "explanation": "Intensitas radiasi dari sumber titik berbanding terbalik dengan kuadrat jarak (inverse square law): menggandakan jarak menurunkan intensitas menjadi 1/4.",
+      "difficulty": "MEDIUM",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Berbanding lurus dengan jarak",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kuadrat terbalik (inverse square law)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tidak dipengaruhi jarak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berbanding lurus kuadrat jarak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika jarak dari sumber radiasi titik diperbesar 2 kali lipat, maka intensitas radiasi menjadi?",
+      "explanation": "Berdasarkan hukum kuadrat terbalik, menggandakan jarak (2x) menurunkan intensitas menjadi 1/2^2 = 1/4 nilai semula.",
+      "difficulty": "MEDIUM",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. 1/2 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1/4 kali",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 2 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 4 kali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dosimeter personal yang menggunakan emulsi film fotografi untuk merekam dosis kumulatif disebut?",
+      "explanation": "Film badge adalah dosimeter personal yang menggunakan film fotografi; tingkat penghitaman film sebanding dengan dosis radiasi yang diterima.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. Film badge",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Anemometer",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Luxmeter",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sound level meter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dosimeter personal yang memanfaatkan pelepasan cahaya saat dipanaskan untuk membaca dosis adalah?",
+      "explanation": "TLD (Thermoluminescent Dosimeter) menyimpan energi radiasi dan memancarkan cahaya saat dipanaskan; intensitas cahaya sebanding dosis terserap.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. Film badge",
+          "isCorrect": false
+        },
+        {
+          "text": "B. TLD (Thermoluminescent Dosimeter)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pen dosimeter",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Geiger counter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Keunggulan utama pen dosimeter (pocket dosimeter) dibandingkan film badge adalah?",
+      "explanation": "Pen dosimeter (saku) dapat dibaca langsung di lapangan secara real-time, sedangkan film badge dan TLD harus diproses di laboratorium.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. Bisa dibaca langsung saat itu juga",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tidak perlu kalibrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengukur suhu sekaligus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak bisa rusak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SNI 16-7060-2004, suhu tempat kerja saat pengukuran radiasi UV disyaratkan berada pada rentang?",
+      "explanation": "Materi menyebut pengukuran UV disyaratkan pada suhu tempat kerja antara 0-40 derajat Celcius.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. 0-40 derajat Celcius",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 10-100 derajat Celcius",
+          "isCorrect": false
+        },
+        {
+          "text": "C. -20-0 derajat Celcius",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 50-80 derajat Celcius",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Radiometer sinar UV menurut SNI harus dikalibrasi oleh laboratorium terakreditasi minimal berapa kali per tahun?",
+      "explanation": "Materi menyebut setiap radiometer UV harus dikalibrasi oleh laboratorium kalibrasi terakreditasi minimal 1 kali per tahun.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. 1 kali per tahun",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 4 kali per tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 12 kali per tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu kalibrasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tiga sinar utama radiasi non-pengion yang dihasilkan proses pengelasan adalah?",
+      "explanation": "Materi menyebut pengelasan menghasilkan UV (200-400 nm), cahaya tampak (400-700 nm), dan inframerah (700-1400 nm).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Ultraviolet, cahaya tampak, dan inframerah",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Gamma, alfa, dan beta",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sinar-X, neutron, dan kosmik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Radio, mikro, dan magnet statis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Permenaker yang mengatur NAB faktor fisika termasuk radiasi non-pengion di lingkungan kerja adalah?",
+      "explanation": "Materi menyebut Permenaker No. 5 Tahun 2018 tentang K3 Lingkungan Kerja yang mengatur NAB radiasi medan magnet/listrik statis, gelombang radio/mikro, dan UV.",
+      "difficulty": "EASY",
+      "tag": "Regulasi BAPETEN & Permenaker",
+      "options": [
+        {
+          "text": "A. Permenaker No. 5 Tahun 2018",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Permenaker No. 13 Tahun 2011",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Permenaker No. 1 Tahun 1970",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Permenaker No. 8 Tahun 2010",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "PP yang mengatur keselamatan radiasi pengion dan keamanan sumber radioaktif adalah?",
+      "explanation": "Materi menyebut PP RI No. 33 Tahun 2007 tentang Keselamatan Radiasi Pengion dan Keamanan Sumber Radioaktif.",
+      "difficulty": "EASY",
+      "tag": "Regulasi BAPETEN & Permenaker",
+      "options": [
+        {
+          "text": "A. PP No. 33 Tahun 2007",
+          "isCorrect": true
+        },
+        {
+          "text": "B. PP No. 50 Tahun 2012",
+          "isCorrect": false
+        },
+        {
+          "text": "C. PP No. 101 Tahun 2014",
+          "isCorrect": false
+        },
+        {
+          "text": "D. PP No. 7 Tahun 2007",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, NAB kadar tertinggi (ceiling) medan magnet statis untuk pekerja di lingkungan kerja umum adalah?",
+      "explanation": "Materi menyebut NAB ceiling medan magnet statis untuk pekerja lingkungan kerja umum adalah 2 tesla (T).",
+      "difficulty": "MEDIUM",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 2 tesla",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 8 tesla",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 20 tesla",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 0,5 militesla",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, pekerja yang menggunakan feromagnetik atau implan medis elektronik tidak boleh terpajan medan magnet statis yang melampaui?",
+      "explanation": "Materi menyebut pekerja dengan implan medis elektronik/feromagnetik tidak boleh terpajan medan magnet statis melampaui 0,5 mT (militesla).",
+      "difficulty": "HARD",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 2 T",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 8 T",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 0,5 mT",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 20 T",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, pajanan medan magnet statis pada anggota gerak (tangan dan kaki) pekerja umum tidak boleh melampaui?",
+      "explanation": "Materi menyebut pajanan pada anggota gerak (tangan dan kaki) pekerja di lingkungan kerja umum tidak boleh melampaui 20 T.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 2 T",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 8 T",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 20 T",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 0,5 mT",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, pekerja dengan pelatihan khusus di lingkungan kerja terkendali dapat terpajan medan magnet statis sampai dengan?",
+      "explanation": "Materi menyebut pekerja terlatih khusus di lingkungan kerja terkendali dapat terpajan medan magnet statis sampai 8 T.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 2 T",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 8 T",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 20 T",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 0,5 mT",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai Batas Dosis (NBD) efektif untuk pekerja radiasi menurut ketentuan BAPETEN/IAEA adalah?",
+      "explanation": "NBD pekerja radiasi adalah 20 mSv per tahun dirata-ratakan selama 5 tahun (maksimum 50 mSv dalam satu tahun tertentu).",
+      "difficulty": "MEDIUM",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 1 mSv/tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 20 mSv/tahun (rata 5 tahun)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 100 mSv/tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 500 mSv/tahun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai Batas Dosis efektif untuk anggota masyarakat umum (bukan pekerja radiasi) adalah?",
+      "explanation": "NBD untuk masyarakat umum adalah 1 mSv per tahun, jauh lebih rendah dari pekerja radiasi (20 mSv/tahun).",
+      "difficulty": "MEDIUM",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 1 mSv/tahun",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 20 mSv/tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 50 mSv/tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 5 mSv/tahun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam satu tahun tertentu, dosis maksimum yang diperbolehkan untuk pekerja radiasi (di atas rata-rata 20 mSv) adalah?",
+      "explanation": "Selain rata-rata 20 mSv/tahun selama 5 tahun, dosis efektif pekerja tidak boleh melebihi 50 mSv dalam satu tahun tertentu.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 30 mSv",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 50 mSv",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 100 mSv",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 20 mSv",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Konversi satuan lama Curie (Ci) ke satuan SI Becquerel (Bq) adalah?",
+      "explanation": "1 Curie = 3,7 x 10^10 Becquerel (peluruhan per detik), mengacu pada aktivitas 1 gram radium-226.",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. 1 Ci = 100 Bq",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1 Ci = 3,7 x 10^10 Bq",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 1 Ci = 1.000 Bq",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 Ci = 1 Bq",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Konversi satuan lama rad ke satuan SI Gray (Gy) adalah?",
+      "explanation": "1 Gray = 100 rad, sehingga 1 rad = 0,01 Gy (10 mGy).",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. 1 Gy = 100 rad",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1 Gy = 1 rad",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 1 Gy = 10 rad",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 Gy = 1.000 rad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Besaran dosis yang dihitung dengan mengalikan dosis serap (Gy) dengan faktor bobot radiasi (wR) adalah?",
+      "explanation": "Dosis ekivalen (Sv) = dosis serap (Gy) x faktor bobot radiasi (wR), yang mencerminkan perbedaan efek biologis tiap jenis radiasi.",
+      "difficulty": "HARD",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Dosis serap",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dosis ekivalen",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Aktivitas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Paparan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor bobot radiasi (wR) untuk partikel alfa dibandingkan foton gamma adalah?",
+      "explanation": "Partikel alfa memiliki wR = 20, jauh lebih besar dari foton/gamma (wR = 1), karena alfa jauh lebih merusak secara biologis per satuan dosis serap.",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Sama (keduanya 1)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lebih besar (alfa 20, gamma 1)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lebih kecil (alfa 0,5)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Alfa tidak memiliki wR",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan lama untuk paparan radiasi (kemampuan radiasi gamma/X mengionisasi udara) adalah?",
+      "explanation": "Roentgen (R) adalah satuan lama paparan radiasi, mengukur ionisasi yang dihasilkan sinar gamma/X di udara.",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Roentgen (R)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Gray (Gy)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sievert (Sv)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Becquerel (Bq)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sinar-X dan sinar gamma memiliki kesamaan yaitu keduanya merupakan?",
+      "explanation": "Sinar-X dan gamma sama-sama radiasi gelombang elektromagnetik (foton) berenergi tinggi; bedanya pada asal (X dari luar inti/transisi elektron, gamma dari dalam inti).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Partikel bermuatan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gelombang elektromagnetik (foton)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Partikel tak bermuatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gelombang suara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perbedaan utama asal sinar-X dan sinar gamma adalah?",
+      "explanation": "Sinar gamma berasal dari dalam inti atom (peluruhan inti), sedangkan sinar-X berasal dari luar inti (transisi elektron / perlambatan elektron pada tabung sinar-X).",
+      "difficulty": "HARD",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Gamma dari inti, sinar-X dari luar inti (elektron)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Keduanya berasal dari elektron",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Gamma adalah partikel, sinar-X gelombang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada perbedaan asal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sumber radiasi alam yang menyumbang dosis efektif terbesar (~1,2 mSv/tahun) bagi manusia menurut materi adalah?",
+      "explanation": "Materi menyebut radon menyumbang 1,2 mSv/tahun, terbesar di antara komponen radiasi alam (kosmik 0,4; gamma 0,5; internal 0,3).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Radiasi kosmik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Radon",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Radiasi gamma terestrial",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Radiasi internal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, lokasi di Indonesia dengan konsentrasi Ra-226 tertinggi mencapai 7500 Bq/kg adalah?",
+      "explanation": "Materi menyebut Biak-Maluku memiliki konsentrasi Ra-226 tertinggi mencapai 7500 Bq/kg (rerata nasional 33 Bq/kg).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Mamuju-Sulawesi Barat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Biak-Maluku",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Ramsar-Iran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Guarapari-Brasil",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, daerah dengan konsentrasi Th-232 dan K-40 tinggi di Indonesia adalah?",
+      "explanation": "Materi menyebut Mamuju-Sulawesi Barat memiliki Th-232 hingga 3400 Bq/kg dan K-40 hingga 1500 Bq/kg.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Biak-Maluku",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mamuju-Sulawesi Barat",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kelahar-India",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Ramsar-Iran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Negara/wilayah berikut yang terkenal memiliki tingkat radiasi alam sangat tinggi menurut materi adalah?",
+      "explanation": "Materi menyebut Ramsar (Iran), Guarapari (Brasil), Kelahar (India), dan Cina sebagai wilayah dengan radiasi alam tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Ramsar-Iran",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tokyo-Jepang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Paris-Perancis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sydney-Australia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Yang termasuk contoh efek stokastik akibat radiasi pengion adalah?",
+      "explanation": "Efek stokastik (tanpa ambang, probabilistik) mencakup kanker dan efek genetik/herediter. Eritema dan katarak adalah deterministik.",
+      "difficulty": "MEDIUM",
+      "tag": "Efek Deterministik & Stokastik",
+      "options": [
+        {
+          "text": "A. Eritema kulit",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Katarak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kanker dan efek genetik",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Mual akut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ciri khas efek stokastik adalah tidak memiliki dosis ambang, artinya?",
+      "explanation": "Karena tanpa ambang, secara teori dosis sekecil apa pun tetap berpotensi menimbulkan efek stokastik (kanker), hanya probabilitasnya yang naik dengan dosis.",
+      "difficulty": "HARD",
+      "tag": "Efek Deterministik & Stokastik",
+      "options": [
+        {
+          "text": "A. Efek hanya muncul di atas dosis tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tidak ada dosis aman; risiko ada pada dosis berapa pun",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tidak pernah terjadi pada manusia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Keparahan naik dengan dosis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mekanisme dasar kerusakan biologis radiasi pengion pada tubuh terkait dengan?",
+      "explanation": "Radiasi pengion menyebabkan kerusakan sel melalui perubahan kimiawi pada DNA (langsung memutus untai DNA atau lewat radikal bebas dari ionisasi air).",
+      "difficulty": "MEDIUM",
+      "tag": "Efek Deterministik & Stokastik",
+      "options": [
+        {
+          "text": "A. Penurunan suhu sel",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kerusakan/perubahan kimiawi DNA sel",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Penambahan oksigen sel",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Peningkatan ukuran sel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor berikut yang menurut materi mempengaruhi munculnya efek radiasi pada tubuh adalah?",
+      "explanation": "Materi menyebut efek radiasi tergantung tingkat dosis, lama pemaparan, jarak dari sumber, usia, dan penggunaan APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Warna pakaian pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dosis, lama pemaparan, jarak, usia, dan APD",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tinggi badan saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Golongan darah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan radiasi pengion dosis tinggi akut pada seluruh tubuh dapat menyebabkan kerusakan organ berikut menurut materi, KECUALI?",
+      "explanation": "Materi menyebut dampak: kerusakan sumsum tulang, saluran pernapasan, saluran pencernaan, eritema kulit, kemandulan, kanker. Peningkatan tinggi badan bukan dampak radiasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Kerusakan sumsum tulang",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kerusakan saluran pencernaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pertambahan tinggi badan",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Kemandulan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Permenkes yang turut mengatur radiasi (termasuk medan listrik statis) menurut materi adalah?",
+      "explanation": "Materi menyebut Permenkes No. 70 Tahun 2016 yang mengatur antara lain medan listrik statis dan persyaratan kesehatan lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi BAPETEN & Permenaker",
+      "options": [
+        {
+          "text": "A. Permenkes No. 70 Tahun 2016",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Permenkes No. 1 Tahun 2020",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Permenkes No. 48 Tahun 2016",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Permenkes No. 7 Tahun 2007",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, NAB radiasi medan listrik statis di lingkungan kerja dinyatakan dalam satuan?",
+      "explanation": "Materi menyebut NAB pajanan radiasi medan listrik statis dinyatakan dalam V/m (volt per meter).",
+      "difficulty": "MEDIUM",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. V/m (volt per meter)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tesla",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sievert",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Decibel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, rentang frekuensi gelombang radio sampai gelombang mikro yang diatur NAB adalah?",
+      "explanation": "Materi menyebut gelombang radio/mikro mencakup rentang frekuensi 300 KHz sampai 300 GHz.",
+      "difficulty": "HARD",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 0-300 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 300 KHz - 300 GHz",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 1-100 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 180-400 nm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, untuk pekerja pengguna alat pacu jantung, bila tidak ada informasi dari pembuat alat maka pajanan medan listrik tidak boleh melampaui?",
+      "explanation": "Materi menyebut bila tidak ada informasi dari pembuat alat pacu jantung, pajanan medan listrik tidak boleh melampaui 1 kV/m.",
+      "difficulty": "HARD",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 1 kV/m",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 2 T",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 0,5 mT",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 8 T",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat sederhana untuk mendeteksi keberadaan medan magnet dengan mengamati orientasi jarum adalah?",
+      "explanation": "Materi menyebut kompas sebagai metode sederhana mendeteksi medan magnet dengan mengamati orientasi jarum kompas.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. Kompas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Termometer",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Barometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Luxmeter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, SNI 7220:2015 mengatur metode pengukuran medan listrik dan medan magnet pada frekuensi?",
+      "explanation": "Materi menyebut SNI 7220:2015 mengatur Metode Pengukuran Medan Listrik dan Medan Magnet Frekuensi Rendah.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. Frekuensi rendah",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Frekuensi tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Frekuensi radio saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Frekuensi gamma",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Spesifikasi radiometer UV menurut SNI 16-7060-2004 memiliki kisaran panjang gelombang?",
+      "explanation": "Materi menyebut radiometer UV harus mempunyai kisaran panjang gelombang 180 nm - 400 nm.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. 180 nm - 400 nm",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 400 nm - 700 nm",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 700 nm - 1400 nm",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 nm - 100 nm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip pengendalian dengan menghilangkan sumber radiasi dari tempat kerja termasuk hierarki pengendalian tingkat?",
+      "explanation": "Menghilangkan/eliminasi sumber radiasi adalah pengendalian hierarki tertinggi karena menghapus bahaya pada sumbernya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Radiasi",
+      "options": [
+        {
+          "text": "A. Eliminasi (tertinggi)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. APD (terendah)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Administratif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Rekayasa teknik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam hierarki pengendalian bahaya radiasi, penggunaan APD menempati posisi?",
+      "explanation": "APD adalah pengendalian hierarki terendah, dipakai sebagai pelengkap setelah eliminasi, substitusi, rekayasa, dan administratif diupayakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Radiasi",
+      "options": [
+        {
+          "text": "A. Tertinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Terendah (pelengkap terakhir)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sama dengan eliminasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak termasuk hierarki",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "APD yang tepat untuk melindungi mata juru las dari radiasi UV busur las adalah?",
+      "explanation": "Juru las wajib menggunakan welding helmet/kacamata las dengan filter (kaca penyaring) bernomor shade sesuai untuk menahan UV dan cahaya intens.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Radiasi",
+      "options": [
+        {
+          "text": "A. Topeng/helm las dengan kaca filter",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kacamata baca biasa",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Earplug",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Masker debu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Membatasi durasi kerja pekerja di area radiasi merupakan penerapan prinsip proteksi?",
+      "explanation": "Mempersingkat waktu pajanan adalah penerapan prinsip proteksi 'waktu': semakin singkat pajanan, semakin kecil dosis kumulatif.",
+      "difficulty": "EASY",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Waktu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jarak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Perisai",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Eliminasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemasangan dinding timbal di sekitar ruang radiologi merupakan penerapan prinsip proteksi?",
+      "explanation": "Pemasangan perisai/shielding (mis. dinding timbal) untuk menahan radiasi adalah penerapan prinsip proteksi 'perisai'.",
+      "difficulty": "EASY",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Perisai",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Waktu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jarak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Administratif",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Radiasi inframerah pada pekerja sering disebut sebagai radiasi?",
+      "explanation": "Materi menyebut radiasi infra-red (inframerah) sebagai radiasi panas; paparan kronis dapat menimbulkan katarak (mis. pada pekerja peleburan/glass blower).",
+      "difficulty": "EASY",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Panas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dingin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pengion",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Beku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Laser termasuk dalam kategori radiasi?",
+      "explanation": "Laser adalah berkas cahaya terkolimasi (umumnya pada rentang UV, tampak, atau inframerah) sehingga termasuk radiasi non-pengion yang dapat merusak mata dan kulit.",
+      "difficulty": "MEDIUM",
+      "tag": "Radiasi Pengion vs Non-Pengion",
+      "options": [
+        {
+          "text": "A. Non-pengion",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengion partikel",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pengion gelombang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Radiasi neutron",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cahaya tampak (visible light) dalam klasifikasi radiasi termasuk?",
+      "explanation": "Cahaya tampak termasuk radiasi non-pengion karena energi fotonnya tidak cukup untuk mengionisasi atom.",
+      "difficulty": "EASY",
+      "tag": "Radiasi Pengion vs Non-Pengion",
+      "options": [
+        {
+          "text": "A. Non-pengion",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengion",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Partikel pengion",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Neutron",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sinar kosmik yang berasal dari luar angkasa dalam klasifikasi radiasi termasuk?",
+      "explanation": "Sinar kosmik tergolong radiasi pengion karena berenergi sangat tinggi dan mampu mengionisasi materi yang dilaluinya.",
+      "difficulty": "MEDIUM",
+      "tag": "Radiasi Pengion vs Non-Pengion",
+      "options": [
+        {
+          "text": "A. Pengion",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Non-pengion",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Gelombang suara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Medan statis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Urutan daya tembus radiasi pengion dari paling rendah ke paling tinggi yang benar adalah?",
+      "explanation": "Daya tembus dari rendah ke tinggi: alfa (terendah) < beta < gamma/sinar-X < neutron (sangat menembus). Alfa tertahan kertas, gamma butuh timbal, neutron butuh moderasi hidrogen.",
+      "difficulty": "HARD",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Alfa < beta < gamma < neutron",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Gamma < beta < alfa < neutron",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Neutron < gamma < beta < alfa",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Beta < alfa < neutron < gamma",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Meski daya tembusnya rendah, partikel alfa sangat berbahaya bila masuk ke dalam tubuh (terinhalasi/tertelan) karena?",
+      "explanation": "Bila kontaminasi internal, alfa memberi daya ionisasi sangat tinggi (LET tinggi, wR=20) langsung ke jaringan, sehingga sangat merusak secara lokal.",
+      "difficulty": "HARD",
+      "tag": "Efek Deterministik & Stokastik",
+      "options": [
+        {
+          "text": "A. Daya ionisasi lokalnya sangat tinggi pada jaringan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Bisa menembus seluruh tubuh dari luar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak bermuatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengubah suhu tubuh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Konsep waktu paruh (half-life) suatu zat radioaktif menyatakan?",
+      "explanation": "Waktu paruh adalah waktu yang diperlukan agar aktivitas (jumlah inti radioaktif) suatu zat berkurang menjadi setengah nilai awalnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Waktu agar aktivitas berkurang menjadi setengah",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Waktu agar aktivitas berlipat dua",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Waktu agar radiasi hilang total",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lama pekerja boleh terpajan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Janin/embrio sangat sensitif terhadap radiasi pengion, sehingga pekerja radiasi yang hamil mendapat?",
+      "explanation": "Pekerja wanita hamil mendapat pembatasan dosis lebih ketat untuk melindungi janin yang sangat radiosensitif; umumnya dosis ke permukaan abdomen dibatasi sangat rendah selama kehamilan.",
+      "difficulty": "HARD",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. Pembatasan dosis lebih ketat untuk melindungi janin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dosis lebih tinggi karena 2 orang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada perlakuan khusus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Wajib bekerja di area dosis tertinggi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama penerapan prinsip ALARA dalam proteksi radiasi adalah?",
+      "explanation": "ALARA bertujuan menekan dosis radiasi serendah mungkin yang wajar dicapai, untuk meminimalkan risiko efek stokastik (yang tidak memiliki ambang).",
+      "difficulty": "MEDIUM",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Menekan dosis serendah mungkin meski sudah di bawah NBD",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membolehkan dosis maksimal hingga NBD",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghapus kewajiban dosimeter",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mempercepat pekerjaan tanpa proteksi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tiga pilar sistem proteksi radiasi menurut prinsip ICRP yang diadopsi BAPETEN adalah?",
+      "explanation": "Sistem proteksi radiasi ICRP/BAPETEN bertumpu pada tiga pilar: justifikasi (pemanfaatan harus bermanfaat), optimisasi (ALARA), dan limitasi dosis (tidak melampaui NBD).",
+      "difficulty": "HARD",
+      "tag": "Regulasi BAPETEN & Permenaker",
+      "options": [
+        {
+          "text": "A. Justifikasi, optimisasi (ALARA), dan limitasi dosis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Waktu, jarak, dan perisai",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Eliminasi, substitusi, dan APD",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengukuran, pelaporan, dan pelatihan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Setiap pemanfaatan sumber radiasi pengion di Indonesia (mis. radiologi, industri) wajib memiliki?",
+      "explanation": "Pemanfaatan tenaga nuklir/sumber radiasi pengion wajib memiliki izin dari BAPETEN sebelum dioperasikan, sesuai PP 33/2007.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi BAPETEN & Permenaker",
+      "options": [
+        {
+          "text": "A. Izin dari BAPETEN",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Izin dari BMKG",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Izin dari Kemendag",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tanpa izin apa pun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tanda/simbol internasional untuk area atau sumber radiasi pengion (trefoil) berwarna?",
+      "explanation": "Simbol trefoil radiasi pengion umumnya berupa kipas tiga bilah berwarna hitam/magenta di atas latar kuning sebagai peringatan bahaya radiasi.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian Radiasi",
+      "options": [
+        {
+          "text": "A. Trefoil hitam/magenta di latar kuning",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lingkaran hijau polos",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Segitiga biru",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bintang merah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemantauan dosis radiasi yang diterima pekerja secara berkala menggunakan dosimeter personal disebut?",
+      "explanation": "Pemantauan dosis perorangan (personal monitoring) memakai dosimeter (film badge/TLD) yang dievaluasi berkala untuk memastikan dosis pekerja di bawah NBD.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. Pemantauan dosis perorangan (personal monitoring)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Audiometri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Survei kebisingan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pemeriksaan ergonomi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Survey meter berbeda dari dosimeter personal karena survey meter digunakan untuk?",
+      "explanation": "Survey meter mengukur laju paparan/dosis radiasi di suatu area/lingkungan secara real-time, sedangkan dosimeter personal merekam dosis kumulatif yang diterima individu.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Dosimeter",
+      "options": [
+        {
+          "text": "A. Mengukur laju radiasi di area/lingkungan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Merekam dosis kumulatif satu orang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengukur suhu ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengukur kelembapan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Konsep 'half-value layer' (HVL) pada perisai radiasi menyatakan?",
+      "explanation": "Half-value layer (HVL) adalah ketebalan bahan perisai yang diperlukan untuk mengurangi intensitas radiasi menjadi setengah nilai awalnya.",
+      "difficulty": "HARD",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Ketebalan perisai yang menurunkan intensitas jadi setengah",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Setengah waktu kerja pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Setengah jarak ke sumber",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Setengah dosis tahunan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "APD timbal (apron Pb) yang dipakai radiografer berfungsi sebagai penerapan prinsip proteksi?",
+      "explanation": "Apron timbal adalah bentuk perisai (shielding) personal yang menahan sinar-X/gamma, merupakan penerapan prinsip 'perisai'.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian Radiasi",
+      "options": [
+        {
+          "text": "A. Perisai (shielding)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Waktu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jarak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Eliminasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sindrom Radiasi Akut (Acute Radiation Syndrome) muncul akibat?",
+      "explanation": "Sindrom radiasi akut terjadi akibat paparan seluruh tubuh dosis sangat tinggi dalam waktu singkat (umumnya > beberapa Gy), menimbulkan gejala deterministik berat.",
+      "difficulty": "HARD",
+      "tag": "Efek Deterministik & Stokastik",
+      "options": [
+        {
+          "text": "A. Paparan seluruh tubuh dosis sangat tinggi dalam waktu singkat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Paparan sangat rendah selama bertahun-tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya paparan UV matahari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Medan magnet statis lemah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa jaringan tubuh yang sel-selnya cepat membelah (mis. sumsum tulang, usus, gonad) lebih radiosensitif?",
+      "explanation": "Sel yang cepat membelah lebih rentan kerusakan DNA radiasi (Hukum Bergonie-Tribondeau), sehingga jaringan dengan proliferasi tinggi lebih radiosensitif.",
+      "difficulty": "HARD",
+      "tag": "Efek Deterministik & Stokastik",
+      "options": [
+        {
+          "text": "A. Karena sel yang cepat membelah lebih rentan kerusakan DNA",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena sel tersebut tidak punya DNA",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena letaknya di permukaan kulit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena suhunya lebih tinggi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berdasarkan materi, walaupun pekerja las sudah menggunakan APD, hasil pengukuran UV-B pada penelitian di Jember menunjukkan?",
+      "explanation": "Materi menyebut meski sudah pakai APD (0,0002 mW/cm2), nilainya tetap melebihi NAB yang ditetapkan, sehingga diperlukan pengendalian tambahan agar pekerja tidak menderita PAK.",
+      "difficulty": "HARD",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Tetap melebihi NAB yang ditetapkan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jauh di bawah NAB dan aman total",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak terdeteksi sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sama dengan tanpa APD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai hubungan jenis radiasi dan medium perambatan adalah?",
+      "explanation": "Radiasi (gelombang elektromagnetik) dapat merambat tanpa medium, termasuk melalui ruang hampa; inilah sebabnya sinar matahari/kosmik mencapai bumi.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep & Definisi Radiasi",
+      "options": [
+        {
+          "text": "A. Gelombang elektromagnetik dapat merambat di ruang hampa",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Semua radiasi butuh medium padat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Radiasi tidak bisa menembus udara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Radiasi hanya merambat di air",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang TEPAT membedakan radiasi pengion dari non-pengion berdasarkan panjang gelombang/frekuensi adalah?",
+      "explanation": "Radiasi pengion umumnya memiliki frekuensi sangat tinggi/panjang gelombang sangat pendek (energi foton tinggi) seperti sinar-X dan gamma; non-pengion berfrekuensi lebih rendah.",
+      "difficulty": "HARD",
+      "tag": "Radiasi Pengion vs Non-Pengion",
+      "options": [
+        {
+          "text": "A. Pengion: frekuensi tinggi/panjang gelombang pendek (energi tinggi)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengion: frekuensi rendah/panjang gelombang panjang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Keduanya selalu sama frekuensinya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Non-pengion energinya selalu lebih tinggi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa radiasi non-pengion umumnya tidak menyebabkan efek stokastik kanker seperti radiasi pengion?",
+      "explanation": "Energi foton radiasi non-pengion tidak cukup untuk mengionisasi/memutus DNA secara langsung, sehingga jalur utamanya bukan kerusakan genetik pengion; bahayanya lebih ke efek termal/fotokimia.",
+      "difficulty": "HARD",
+      "tag": "Radiasi Pengion vs Non-Pengion",
+      "options": [
+        {
+          "text": "A. Energinya tidak cukup mengionisasi/merusak DNA secara langsung",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena tidak merambat di udara",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena selalu dipantulkan kulit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena tidak memiliki frekuensi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengendalian substitusi pada bahaya radiasi dapat berupa?",
+      "explanation": "Substitusi berarti mengganti sumber/proses berisiko tinggi dengan yang lebih aman, mis. mengganti sumber radioaktif dengan generator sinar-X yang bisa dimatikan, atau metode non-radiasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian Radiasi",
+      "options": [
+        {
+          "text": "A. Mengganti sumber radioaktif dengan metode lebih aman",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memperpanjang jam kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghapus pelatihan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menambah jumlah sumber radiasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hasil pengukuran radiasi (mis. UV, medan magnet) yang melebihi NAB menurut materi mengharuskan dilakukannya?",
+      "explanation": "Materi berulang menyebut bila hasil pengukuran melebihi NAB maka harus dilakukan pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian Radiasi",
+      "options": [
+        {
+          "text": "A. Pengendalian",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pembiaran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penambahan sumber",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengabaian hasil",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Efek akut medan magnet statis kuat (di atas ~2 T) menurut materi dapat berupa?",
+      "explanation": "Materi menyebut efek akut medan magnet statis (>~2 T): mual, vertigo/pusing, rasa logam (metallic taste), dan fosfen (ilusi kilatan cahaya), umumnya saat bergerak dalam medan.",
+      "difficulty": "HARD",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Mual, vertigo, rasa logam, dan fosfen",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Patah tulang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hipotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tuli permanen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, respons akut merugikan medan magnet statis umumnya TIDAK terjadi pada kekuatan medan di bawah?",
+      "explanation": "Materi menyebut respons akut merugikan tidak terjadi pada kekuatan medan di bawah sekitar 2 T.",
+      "difficulty": "HARD",
+      "tag": "NAB / NBD Dosis",
+      "options": [
+        {
+          "text": "A. 2 T",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 8 T",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 0,5 mT",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 20 T",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Profesi 'radiologis' termasuk contoh pekerjaan berisiko radiasi karena terpajan?",
+      "explanation": "Radiologis bekerja dengan sinar-X dan radiasi pengion lain dalam pencitraan medis, sehingga berisiko menerima dosis pengion.",
+      "difficulty": "EASY",
+      "tag": "Jenis & Sumber Radiasi",
+      "options": [
+        {
+          "text": "A. Sinar-X / radiasi pengion",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya kebisingan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya getaran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya suhu dingin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam proteksi radiasi internal (kontaminasi zat radioaktif masuk tubuh), prinsip pengendalian utamanya adalah?",
+      "explanation": "Untuk radiasi internal, prinsip waktu-jarak-perisai kurang efektif; pengendalian utama adalah mencegah masuknya zat radioaktif ke tubuh (kontaminasi) lewat inhalasi/ingesti/luka dengan APD, ventilasi, dan higiene.",
+      "difficulty": "HARD",
+      "tag": "ALARA & 3 Prinsip Proteksi",
+      "options": [
+        {
+          "text": "A. Mencegah masuknya zat radioaktif ke dalam tubuh",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memperbesar jarak saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memperpanjang waktu kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membiarkan kontaminasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor bobot jaringan (wT) dalam perhitungan dosis efektif digunakan untuk?",
+      "explanation": "Faktor bobot jaringan (wT) mencerminkan sensitivitas/kontribusi relatif tiap organ terhadap risiko stokastik total; dosis efektif = jumlah (dosis ekivalen organ x wT).",
+      "difficulty": "HARD",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Memperhitungkan sensitivitas relatif tiap organ terhadap risiko",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengukur suhu organ",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghitung berat badan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menentukan warna apron",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan dosis efektif dan dosis ekivalen sama-sama Sievert (Sv), namun keduanya berbeda dalam hal?",
+      "explanation": "Dosis ekivalen menggambarkan dosis pada satu organ/jaringan tertentu (memakai wR), sedangkan dosis efektif menjumlahkan kontribusi seluruh organ dengan faktor bobot jaringan (wT) untuk seluruh tubuh.",
+      "difficulty": "HARD",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Ekivalen per organ, efektif untuk seluruh tubuh (dengan wT)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tidak ada perbedaan sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Ekivalen untuk benda mati, efektif untuk manusia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Ekivalen memakai Bq, efektif memakai Gy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut pasangan satuan SI dan satuan lama yang TIDAK tepat adalah?",
+      "explanation": "Pasangan benar: Gray-rad, Sievert-rem, Becquerel-Curie. 'Sievert-Roentgen' tidak tepat karena Roentgen adalah satuan paparan (bukan dosis ekivalen).",
+      "difficulty": "HARD",
+      "tag": "Satuan & Besaran Dosis",
+      "options": [
+        {
+          "text": "A. Gray - rad",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sievert - rem",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Becquerel - Curie",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sievert - Roentgen",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Definisi radiasi menurut PP No. 33 Tahun 2007",
+      "back": "Gelombang elektromagnetik dan partikel bermuatan yang karena energinya mampu mengionisasi media yang dilaluinya; perambatan energi tanpa membutuhkan medium.",
+      "tag": "Konsep & Definisi Radiasi"
+    },
+    {
+      "front": "Beda radiasi pengion vs non-pengion",
+      "back": "Pengion: energi cukup melepas elektron/mengionisasi atom (sinar-X, gamma, alfa, beta, neutron, kosmik). Non-pengion: tidak mengionisasi (UV, inframerah, cahaya tampak, gelombang mikro, radio, medan magnet/listrik statis).",
+      "tag": "Radiasi Pengion vs Non-Pengion"
+    },
+    {
+      "front": "Becquerel (Bq)",
+      "back": "Satuan SI aktivitas radioaktif = 1 peluruhan per detik. Satuan lama: Curie (Ci); 1 Ci = 3,7 x 10^10 Bq.",
+      "tag": "Satuan & Besaran Dosis"
+    },
+    {
+      "front": "Gray (Gy)",
+      "back": "Satuan SI dosis serap = 1 joule energi radiasi terserap per kilogram materi. Satuan lama: rad; 1 Gy = 100 rad.",
+      "tag": "Satuan & Besaran Dosis"
+    },
+    {
+      "front": "Sievert (Sv)",
+      "back": "Satuan SI dosis ekivalen/efektif yang memperhitungkan efek biologis (faktor bobot radiasi & jaringan). Satuan lama: rem; 1 Sv = 100 rem.",
+      "tag": "Satuan & Besaran Dosis"
+    },
+    {
+      "front": "Prinsip ALARA",
+      "back": "As Low As Reasonably Achievable - menjaga paparan radiasi serendah mungkin yang dapat dicapai secara wajar dengan pertimbangan ekonomi & sosial.",
+      "tag": "ALARA & 3 Prinsip Proteksi"
+    },
+    {
+      "front": "3 prinsip proteksi radiasi eksternal",
+      "back": "1) Waktu: perpendek durasi pajanan. 2) Jarak: perjauh dari sumber (hukum kuadrat terbalik). 3) Perisai/shielding: pasang penahan sesuai jenis radiasi.",
+      "tag": "ALARA & 3 Prinsip Proteksi"
+    },
+    {
+      "front": "Daya tembus & perisai partikel radiasi",
+      "back": "Alfa: ditahan kertas/kulit. Beta: ditahan aluminium/plastik. Gamma & sinar-X: ditahan timbal/beton. Neutron: ditahan air/parafin/beton (kaya hidrogen).",
+      "tag": "ALARA & 3 Prinsip Proteksi"
+    },
+    {
+      "front": "Efek deterministik",
+      "back": "Memiliki dosis ambang; muncul bila dosis melampaui ambang dan keparahan naik dengan dosis. Contoh: eritema kulit, katarak, kemandulan, sindrom radiasi akut.",
+      "tag": "Efek Deterministik & Stokastik"
+    },
+    {
+      "front": "Efek stokastik",
+      "back": "Probabilistik tanpa ambang; peluang naik dengan dosis tetapi keparahan tidak tergantung dosis. Contoh: kanker dan efek genetik (herediter).",
+      "tag": "Efek Deterministik & Stokastik"
+    },
+    {
+      "front": "BAPETEN",
+      "back": "Badan Pengawas Tenaga Nuklir - lembaga pemerintah RI yang mengawasi keselamatan, keamanan, dan safeguards pemanfaatan tenaga nuklir & radiasi pengion.",
+      "tag": "Regulasi BAPETEN & Permenaker"
+    },
+    {
+      "front": "Regulasi radiasi di Indonesia",
+      "back": "PP No. 33 Tahun 2007 (keselamatan radiasi pengion & keamanan sumber radioaktif); Permenaker No. 5 Tahun 2018 (NAB faktor fisika/radiasi non-pengion di lingkungan kerja); Permenkes No. 70 Tahun 2016.",
+      "tag": "Regulasi BAPETEN & Permenaker"
+    },
+    {
+      "front": "Dosimeter personal radiasi pengion",
+      "back": "Film badge (film fotografi, dibaca di lab), TLD (thermoluminescent, dipanaskan untuk dibaca), dan pen/pocket dosimeter (dibaca langsung real-time).",
+      "tag": "Alat Ukur & Dosimeter"
+    },
+    {
+      "front": "Alat ukur radiasi",
+      "back": "Pengion: Geiger-Muller counter, survey meter, dosimeter. Non-pengion UV: radiometer sinar UV (180-400 nm) per SNI 16-7060-2004. Medan magnet: magnetometer/Hall sensor.",
+      "tag": "Alat Ukur & Dosimeter"
+    },
+    {
+      "front": "Dampak UV pada pekerja las",
+      "back": "Mata: fotokeratitis (arc eye/welder's flash), konjungtivitis, katarak. Kulit: eritema (kemerahan), terbakar, photoaging, kerusakan keratinosit yang memicu kanker kulit.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Dosis radiasi alam (UNSCEAR)",
+      "back": "Rata-rata dosis efektif radiasi alam ~2,4 mSv/tahun: kosmik 0,4 + gamma terestrial 0,5 + radon 1,2 + radiasi internal 0,3 mSv.",
+      "tag": "NAB / NBD Dosis"
+    },
+    {
+      "front": "NBD pekerja radiasi (BAPETEN/IAEA)",
+      "back": "Nilai Batas Dosis pekerja radiasi: 20 mSv/tahun dirata-ratakan selama 5 tahun (maks 50 mSv dalam 1 tahun). Masyarakat umum: 1 mSv/tahun.",
+      "tag": "NAB / NBD Dosis"
+    },
+    {
+      "front": "Pengendalian radiasi (hierarki)",
+      "back": "Eliminasi sumber, isolasi/substitusi, rekayasa teknik (shielding/proteksi), pengendalian administratif (pengaturan waktu kerja, jarak aman), dan APD yang sesuai.",
+      "tag": "Pengendalian Radiasi"
+    },
+    {
+      "front": "NAB medan magnet statis (Permenaker 5/2018)",
+      "back": "Ceiling pekerja umum 2 T; pekerja terlatih di lingkungan terkendali sampai 8 T; anggota gerak (tangan/kaki) maks 20 T; pengguna implan medis maks 0,5 mT.",
+      "tag": "NAB / NBD Dosis"
+    },
+    {
+      "front": "Jenis radiasi pengion: partikel vs elektromagnetik",
+      "back": "Partikel atom pengion: alfa, beta, neutron. Elektromagnetik pengion: sinar-X, gamma, sinar kosmik. Semua mampu mengionisasi media yang dilaluinya.",
+      "tag": "Radiasi Pengion vs Non-Pengion"
+    },
+    {
+      "front": "Beda asal sinar-X dan sinar gamma",
+      "back": "Keduanya gelombang elektromagnetik (foton) pengion. Sinar gamma berasal dari dalam inti atom (peluruhan inti); sinar-X dari luar inti (transisi/perlambatan elektron, mis. tabung sinar-X).",
+      "tag": "Jenis & Sumber Radiasi"
+    },
+    {
+      "front": "Hukum kuadrat terbalik (inverse square law)",
+      "back": "Intensitas radiasi sumber titik berbanding terbalik dengan kuadrat jarak. Menggandakan jarak (2x) menurunkan intensitas menjadi 1/4. Dasar prinsip proteksi 'jarak'.",
+      "tag": "ALARA & 3 Prinsip Proteksi"
+    },
+    {
+      "front": "Faktor bobot radiasi (wR) & dosis ekivalen",
+      "back": "Dosis ekivalen (Sv) = dosis serap (Gy) x faktor bobot radiasi (wR). wR foton/gamma = 1, alfa = 20 (alfa jauh lebih merusak per satuan dosis serap).",
+      "tag": "Satuan & Besaran Dosis"
+    },
+    {
+      "front": "Satuan lama radiasi (Roentgen & rem)",
+      "back": "Roentgen (R): satuan lama paparan (ionisasi gamma/X di udara). rem: satuan lama dosis ekivalen; 1 Sv = 100 rem. rad: satuan lama dosis serap; 1 Gy = 100 rad.",
+      "tag": "Satuan & Besaran Dosis"
+    },
+    {
+      "front": "Lokasi radiasi alam tinggi di Indonesia",
+      "back": "Biak (Maluku): Ra-226 tertinggi 7500 Bq/kg (rerata nasional 33 Bq/kg). Mamuju (Sulawesi Barat): Th-232 sampai 3400 Bq/kg dan K-40 sampai 1500 Bq/kg. Dunia: Ramsar (Iran), Guarapari (Brasil), Kerala (India), Cina.",
+      "tag": "Jenis & Sumber Radiasi"
+    },
+    {
+      "front": "NAB radiasi ultraviolet (Permenaker 5/2018)",
+      "back": "Berlaku untuk panjang gelombang 200-400 nm. Sumber yang dicakup: pengelasan/carbon arc, lampu fluorescent, lampu pijar, lampu germicidal, dan sinar matahari. Individu fotosensitif tidak dianjurkan terpajan UV.",
+      "tag": "NAB / NBD Dosis"
+    },
+    {
+      "front": "NAB medan listrik statis (Permenkes 70/2016)",
+      "back": "Frekuensi <=30 kHz, dinyatakan dalam V/m sebagai batas ceiling selama 8 jam/hari. Pekerja dengan alat pacu jantung: NAB 0-220 Hz tidak berlaku; bila tak ada info pembuat, pajanan <=1 kV/m.",
+      "tag": "NAB / NBD Dosis"
+    },
+    {
+      "front": "Gelombang radio & mikro (rentang & pengendalian)",
+      "back": "Radiasi non-pengion 300 kHz - 300 GHz. Pengukuran > NAB harus dikendalikan: hilangkan/isolasi sumber, rancang proteksi, batasi waktu pajanan, dan gunakan APD sesuai.",
+      "tag": "Jenis & Sumber Radiasi"
+    },
+    {
+      "front": "Persyaratan & kalibrasi pengukuran UV (SNI 16-7060-2004)",
+      "back": "Suhu tempat kerja saat diukur 0-40 derajat C. Radiometer UV harus dikalibrasi lab terakreditasi minimal 1 kali/tahun. Spesifikasi: portabel, baca langsung, panjang gelombang 180-400 nm, rentang 0-19.990 uW/cm2 (resolusi 0,1 uW/cm2).",
+      "tag": "Alat Ukur & Dosimeter"
+    },
+    {
+      "front": "Titik pengukuran radiasi UV (SNI 16-7060-2004)",
+      "back": "Minimal 3 titik: zona penglihatan (maks 30 cm dari mata), setinggi siku (maks 30 cm dari badan terluar), dan setinggi betis. Sensor diarahkan menghadap sumber sinar UV.",
+      "tag": "Alat Ukur & Dosimeter"
+    },
+    {
+      "front": "Dampak kesehatan medan magnet statis",
+      "back": "Efek akut bergerak dalam medan >~2 T: mual, vertigo, rasa logam, fosfen. Bekerja di >=3 T menggandakan peluang gejala dibanding <=1,5 T. Jangka panjang (epidemiologi): kanker dan risiko abortus spontan pada pekerja MRI wanita.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Studi pajanan UV-B bengkel las (Adib Firmansyah)",
+      "back": "8 bengkel las di Puger, Jember: UV-B tanpa APD 0,5761 mW/cm2; dengan APD 0,0002 mW/cm2. Keduanya tetap melebihi NAB, sehingga APD harus dikombinasikan pengendalian lain.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Mekanisme & faktor penentu efek radiasi",
+      "back": "Mekanisme: kerusakan/perubahan kimiawi DNA sel (langsung atau via radikal bebas). Munculnya efek tergantung tingkat dosis, lama pemaparan, jarak dari sumber, usia, dan penggunaan APD.",
+      "tag": "Efek Deterministik & Stokastik"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Radiasi di Tempat Kerja",
+      "parent": null,
+      "color": "#6366f1",
+      "content": "Perambatan energi dari sumber ke lingkungan, sebagian dapat mengionisasi media yang dilaluinya. Menjadi faktor fisika bahaya di tempat kerja yang harus diukur dan dikendalikan."
+    },
+    {
+      "id": "dasar",
+      "label": "Konsep Dasar",
+      "parent": "root",
+      "color": "#8b5cf6",
+      "content": "Definisi radiasi, sifat perambatan, sumber alam, dan lokasi radiasi alam tinggi."
+    },
+    {
+      "id": "dasar-def",
+      "label": "Definisi Radiasi",
+      "parent": "dasar",
+      "color": "#8b5cf6",
+      "content": "Menurut PP RI No. 33 Tahun 2007: gelombang elektromagnetik dan partikel bermuatan yang karena energinya mampu mengionisasi media yang dilaluinya."
+    },
+    {
+      "id": "dasar-rambat",
+      "label": "Cara Perambatan",
+      "parent": "dasar",
+      "color": "#8b5cf6",
+      "content": "Radiasi adalah cara perambatan energi dari sumber energi ke lingkungannya, tanpa membutuhkan medium (dapat merambat di ruang hampa)."
+    },
+    {
+      "id": "dasar-alam",
+      "label": "Radiasi Alam",
+      "parent": "dasar",
+      "color": "#8b5cf6",
+      "content": "Menurut UNSCEAR, rata-rata dosis efektif radiasi alam yang diterima manusia adalah 2,4 mSv/tahun, terdiri dari:\n- Radiasi kosmik (0,4 mSv)\n- Radiasi gamma (0,5 mSv)\n- Radon (1,2 mSv)\n- Radiasi internal (0,3 mSv)"
+    },
+    {
+      "id": "dasar-lokasi",
+      "label": "Lokasi Radiasi Alam Tinggi",
+      "parent": "dasar",
+      "color": "#8b5cf6",
+      "content": "Negara/wilayah dengan tingkat radiasi alam sangat tinggi: Ramsar (Iran), Guarapari (Brasil), Kerala (India), Cina, dan Indonesia."
+    },
+    {
+      "id": "dasar-lokasi-id",
+      "label": "Lokasi di Indonesia",
+      "parent": "dasar-lokasi",
+      "color": "#8b5cf6",
+      "content": "Wilayah radiasi alam tinggi di Indonesia:\n- Biak, Maluku: konsentrasi Ra-226 tertinggi 7500 Bq/kg (rerata nasional 33 Bq/kg)\n- Mamuju, Sulawesi Barat: Th-232 tertinggi 3400 Bq/kg (rerata 45 Bq/kg) dan K-40 tertinggi 1500 Bq/kg (rerata 142 Bq/kg)"
+    },
+    {
+      "id": "jenis",
+      "label": "Jenis Radiasi",
+      "parent": "root",
+      "color": "#06b6d4",
+      "content": "Radiasi dibagi menjadi dua kelompok besar berdasarkan kemampuan mengionisasi: radiasi pengion dan radiasi non-pengion."
+    },
+    {
+      "id": "jenis-pengion",
+      "label": "Radiasi Pengion",
+      "parent": "jenis",
+      "color": "#06b6d4",
+      "content": "Radiasi berenergi tinggi yang mampu mengionisasi atom/molekul media yang dilaluinya. Terdiri dari radiasi partikel atom pengion dan radiasi elektromagnetik pengion."
+    },
+    {
+      "id": "jenis-pengion-partikel",
+      "label": "Radiasi Partikel Atom",
+      "parent": "jenis-pengion",
+      "color": "#06b6d4",
+      "content": "Radiasi partikel atom pengion meliputi:\n- Sinar Alfa\n- Sinar Beta\n- Neutron"
+    },
+    {
+      "id": "jenis-pengion-em",
+      "label": "Radiasi EM Pengion",
+      "parent": "jenis-pengion",
+      "color": "#06b6d4",
+      "content": "Radiasi elektromagnetik pengion meliputi:\n- Sinar X\n- Sinar Gamma\n- Sinar Kosmik"
+    },
+    {
+      "id": "jenis-nonpengion",
+      "label": "Radiasi Non-Pengion",
+      "parent": "jenis",
+      "color": "#06b6d4",
+      "content": "Radiasi berenergi rendah yang tidak mampu mengionisasi. Meliputi: medan magnet statis (0-300 Hz), medan listrik statis (≤30 kHz), gelombang radio & mikro, radiasi inframerah (panas), cahaya tampak, dan radiasi ultraviolet."
+    },
+    {
+      "id": "nonp",
+      "label": "Radiasi Non-Pengion (Detail)",
+      "parent": "root",
+      "color": "#f59e0b",
+      "content": "Jenis-jenis radiasi non-pengion yang dibahas detail beserta sumber, NAB, dan dampak kesehatannya."
+    },
+    {
+      "id": "nonp-mms",
+      "label": "Medan Magnet Statis",
+      "parent": "nonp",
+      "color": "#f59e0b",
+      "content": "Medan magnet/area yang ditimbulkan oleh pergerakan arus listrik (rentang 0-300 Hz). Sumber bahaya di tempat kerja harus diukur; bila hasil > NAB harus dikendalikan."
+    },
+    {
+      "id": "nonp-mms-faktor",
+      "label": "Faktor Potensi Bahaya",
+      "parent": "nonp-mms",
+      "color": "#f59e0b",
+      "content": "Faktor yang memengaruhi potensi bahaya medan magnet statis:\n- Intensitas fluks magnet (berhubungan dengan sumbernya)\n- Desain sumber medan magnet\n- Aksesibilitas medan magnet\n- Peralatan/bahan berbahaya yang berhubungan dengan sumber"
+    },
+    {
+      "id": "nonp-mms-nab",
+      "label": "NAB Medan Magnet Statis",
+      "parent": "nonp-mms",
+      "color": "#f59e0b",
+      "content": "Diatur Permenaker No. 5 Tahun 2018:\n- NAB ceiling pekerja umum: 2 tesla (T)\n- Pekerja terlatih di lingkungan terkendali: hingga 8 T\n- Anggota gerak (tangan & kaki): tidak melampaui 20 T\n- Pengguna implan feromagnetik/peralatan medis elektronik: tidak melampaui 0,5 mT"
+    },
+    {
+      "id": "nonp-mms-dampak",
+      "label": "Dampak Kesehatan MMS",
+      "parent": "nonp-mms",
+      "color": "#f59e0b",
+      "content": "Efek akut (saat bergerak dalam medan > ~2 T): mual, vertigo, rasa logam, dan fosfen. Bekerja di ≥ 3 T menggandakan peluang gejala dibanding ≤ 1,5 T. Efek jangka panjang (studi epidemiologi): kanker dan risiko abortus spontan pada pekerja MRI wanita."
+    },
+    {
+      "id": "nonp-mms-uji",
+      "label": "Metode Pengujian MMS",
+      "parent": "nonp-mms",
+      "color": "#f59e0b",
+      "content": "Alat pengukur medan magnet statis:\n- Kompas: deteksi sederhana lewat orientasi jarum\n- Sensor Hall Effect: berdasarkan prinsip efek Hall\n- Magnetometer: pengukuran dengan akurasi tinggi"
+    },
+    {
+      "id": "nonp-mls",
+      "label": "Medan Listrik Statis",
+      "parent": "nonp",
+      "color": "#f59e0b",
+      "content": "Rentang frekuensi ≤ 30 kHz, diatur Permenkes 70 Tahun 2016. NAB merupakan batas pajanan tertinggi (ceiling) yang tidak boleh dilampaui selama 8 jam kerja per hari, dinyatakan dalam V/m."
+    },
+    {
+      "id": "nonp-mls-nab",
+      "label": "Penggunaan NAB MLS",
+      "parent": "nonp-mls",
+      "color": "#f59e0b",
+      "content": "Catatan penggunaan NAB medan listrik statis:\n- Pekerja dengan alat pacu jantung: NAB ceiling 0-220 Hz tidak berlaku karena dapat mengganggu fungsi alat; bila tak ada info pembuat, pajanan ≤ 1 kV/m\n- NAB frekuensi 3-30 kHz berlaku untuk pajanan per bagian tubuh maupun seluruh tubuh"
+    },
+    {
+      "id": "nonp-radio",
+      "label": "Gelombang Radio & Mikro",
+      "parent": "nonp",
+      "color": "#f59e0b",
+      "content": "Radiasi elektromagnetik rentang 300 kHz - 300 GHz. Tempat kerja risiko gelombang radio (frekuensi s/d 300 MHz) dan gelombang mikro (frekuensi ≥ 300 GHz). Pengukuran melebihi NAB harus dikendalikan."
+    },
+    {
+      "id": "nonp-radio-kendali",
+      "label": "Pengendalian Radio/Mikro",
+      "parent": "nonp-radio",
+      "color": "#f59e0b",
+      "content": "Upaya pengendalian gelombang radio & mikro:\n- Menghilangkan sumber radiasi\n- Mengisolasi/membatasi pajanan sumber\n- Merancang tempat kerja dengan peralatan proteksi radiasi\n- Membatasi waktu pajanan\n- Menggunakan APD yang sesuai\n- Pengendalian lain sesuai perkembangan ilmu pengetahuan"
+    },
+    {
+      "id": "nonp-uv",
+      "label": "Radiasi Ultraviolet (UV)",
+      "parent": "nonp",
+      "color": "#f59e0b",
+      "content": "Radiasi elektromagnetik dengan panjang gelombang 200-400 nm. Sumber yang dicakup NAB: pengelasan & carbon arcs, benda berpendar (fluorescent), lampu pijar, lampu germicidal, dan sinar matahari."
+    },
+    {
+      "id": "nonp-uv-nab",
+      "label": "NAB Ultraviolet",
+      "parent": "nonp-uv",
+      "color": "#f59e0b",
+      "content": "NAB UV berlaku untuk panjang gelombang 200-400 nm dan mewakili kondisi di mana hampir semua pekerja sehat dapat terpajan terus-menerus tanpa dampak kesehatan akut merugikan seperti eritema dan fotokeratitis. Individu fotosensitif tidak dianjurkan terpajan UV."
+    },
+    {
+      "id": "nonp-uv-kendali",
+      "label": "Pengendalian UV",
+      "parent": "nonp-uv",
+      "color": "#f59e0b",
+      "content": "Pengendalian UV (Permenaker 5/2018):\n- Menghilangkan sumber radiasi UV\n- Mengisolasi/membatasi pajanan sumber\n- Merancang tempat kerja dengan peralatan proteksi radiasi\n- Memberikan jarak aman sesuai standar\n- Membatasi pajanan melalui pengaturan waktu kerja\n- Penggunaan APD yang sesuai"
+    },
+    {
+      "id": "nonp-uv-las",
+      "label": "Pengelasan (Welding)",
+      "parent": "nonp-uv",
+      "color": "#f59e0b",
+      "content": "Pekerjaan menyatukan logam dengan mencairkan logam induk dan pengisi; berisiko fisik tinggi. Sumber bahaya: paparan panas, sengatan listrik, ergonomi, kabel berantakan, dan intensitas cahaya las tinggi."
+    },
+    {
+      "id": "nonp-uv-las-sinar",
+      "label": "Sinar Non-Pengion Las",
+      "parent": "nonp-uv-las",
+      "color": "#f59e0b",
+      "content": "Tiga sinar non-pengion utama dari pengelasan:\n- UV (200-400 nm)\n- Cahaya tampak (400-700 nm)\n- Inframerah (700-1400 nm)\nSinar terbanyak adalah UV (UVA, UVB, UVC); UVB paling berdampak nyata pada mata dan kulit."
+    },
+    {
+      "id": "nonp-uv-las-studi",
+      "label": "Hasil Studi Bengkel Las",
+      "parent": "nonp-uv-las",
+      "color": "#f59e0b",
+      "content": "Penelitian Adib Firmansyah (8 bengkel las di Puger, Jember) mengukur UV-B:\n- Tanpa APD: 0,5761 mW/cm²\n- Menggunakan APD: 0,0002 mW/cm²\nKeduanya tetap melebihi NAB walau sudah pakai APD, sehingga diperlukan pengendalian tepat agar pekerja tidak menderita PAK."
+    },
+    {
+      "id": "nonp-uv-las-dampak",
+      "label": "Dampak UV pada Pekerja Las",
+      "parent": "nonp-uv-las",
+      "color": "#f59e0b",
+      "content": "Dampak sinar UV bagi pekerja las:\n- Mata: katarak (UVA jangka panjang), fotokeratitis (UVB berlebih), konjungtivitis, welder's flash / arc eye\n- Kulit: hiperpigmentasi, kerusakan sel keratinosit pemicu kanker, reddening (kemerahan), burned (terbakar), dan photoaging"
+    },
+    {
+      "id": "pengion",
+      "label": "Radiasi Pengion (Detail)",
+      "parent": "root",
+      "color": "#10b981",
+      "content": "Radiasi pengion mampu mengionisasi media yang dilaluinya dan digolongkan IAEA sebagai zat karsinogenik. Mencakup partikel (alfa, beta, neutron) dan elektromagnetik (sinar X, gamma, kosmik)."
+    },
+    {
+      "id": "pengion-alfa",
+      "label": "Sinar Alfa",
+      "parent": "pengion",
+      "color": "#10b981",
+      "content": "Partikel bermuatan pengion; tergolong radiasi partikel atom pengion."
+    },
+    {
+      "id": "pengion-beta",
+      "label": "Sinar Beta",
+      "parent": "pengion",
+      "color": "#10b981",
+      "content": "Partikel bermuatan pengion; tergolong radiasi partikel atom pengion."
+    },
+    {
+      "id": "pengion-neutron",
+      "label": "Neutron",
+      "parent": "pengion",
+      "color": "#10b981",
+      "content": "Partikel pengion tanpa muatan; tergolong radiasi partikel atom pengion."
+    },
+    {
+      "id": "pengion-x",
+      "label": "Sinar X",
+      "parent": "pengion",
+      "color": "#10b981",
+      "content": "Radiasi elektromagnetik pengion; banyak dimanfaatkan dalam radiologi."
+    },
+    {
+      "id": "pengion-gamma",
+      "label": "Sinar Gamma",
+      "parent": "pengion",
+      "color": "#10b981",
+      "content": "Radiasi elektromagnetik pengion berenergi tinggi; kontributor radiasi gamma alam ~0,5 mSv/tahun."
+    },
+    {
+      "id": "pengion-kosmik",
+      "label": "Sinar Kosmik",
+      "parent": "pengion",
+      "color": "#10b981",
+      "content": "Radiasi elektromagnetik pengion dari luar angkasa; kontributor radiasi kosmik alam ~0,4 mSv/tahun."
+    },
+    {
+      "id": "pengion-kerja",
+      "label": "Pekerjaan Berisiko Radiasi",
+      "parent": "pengion",
+      "color": "#10b981",
+      "content": "Contoh pekerjaan dengan risiko bahaya radiasi:\n- Pekerja di instalasi nuklir\n- Petani\n- Pekerja welding (las)\n- Radiologis"
+    },
+    {
+      "id": "efek",
+      "label": "Efek Kesehatan",
+      "parent": "root",
+      "color": "#ec4899",
+      "content": "Efek radiasi tergantung tingkat dosis, lama pemaparan, jarak dari sumber, usia, dan penggunaan APD. Dibedakan menjadi efek deterministik dan stokastik."
+    },
+    {
+      "id": "efek-faktor",
+      "label": "Faktor Penentu Efek",
+      "parent": "efek",
+      "color": "#ec4899",
+      "content": "Munculnya efek radiasi pada tubuh tergantung pada:\n- Tingkat dosis\n- Lama pemaparan\n- Jarak dari sumber paparan\n- Usia\n- Penggunaan APD"
+    },
+    {
+      "id": "efek-determ",
+      "label": "Efek Deterministik (Akut)",
+      "parent": "efek",
+      "color": "#ec4899",
+      "content": "Akibat paparan akut: kematian sel, gangguan fungsi jaringan dan organ tubuh, hingga kematian. Memiliki ambang dosis dan keparahan meningkat seiring dosis."
+    },
+    {
+      "id": "efek-stokastik",
+      "label": "Efek Stokastik",
+      "parent": "efek",
+      "color": "#ec4899",
+      "content": "Terbentuknya sel baru yang tidak normal dan berpotensi menjadi kanker. IAEA menggolongkan radiasi sebagai zat karsinogenik."
+    },
+    {
+      "id": "efek-mata",
+      "label": "Gangguan Mata",
+      "parent": "efek",
+      "color": "#ec4899",
+      "content": "Dampak pada mata bila melebihi NAB:\n- Fotokeratitis\n- Katarak"
+    },
+    {
+      "id": "efek-kulit",
+      "label": "Gangguan Kulit",
+      "parent": "efek",
+      "color": "#ec4899",
+      "content": "Eritema pada kulit akibat paparan radiasi melebihi NAB."
+    },
+    {
+      "id": "efek-organ",
+      "label": "Kerusakan Organ & Sel",
+      "parent": "efek",
+      "color": "#ec4899",
+      "content": "Dampak paparan radiasi melebihi NAB pada tubuh:\n- Kerusakan sel (perubahan kimiawi pada DNA)\n- Kerusakan sumsum tulang belakang\n- Kerusakan saluran pernapasan\n- Kerusakan saluran pencernaan\n- Pusing dan muntah-muntah"
+    },
+    {
+      "id": "efek-sistemik",
+      "label": "Dampak Sistemik & Fatal",
+      "parent": "efek",
+      "color": "#ec4899",
+      "content": "Dampak berat akibat paparan radiasi melebihi NAB:\n- Kemandulan\n- Kanker\n- Meninggal dunia"
+    },
+    {
+      "id": "regulasi",
+      "label": "NAB & Regulasi",
+      "parent": "root",
+      "color": "#ef4444",
+      "content": "Dasar hukum dan Nilai Ambang Batas (NAB) pengaturan radiasi di tempat kerja di Indonesia."
+    },
+    {
+      "id": "regulasi-pp33",
+      "label": "PP No. 33 Tahun 2007",
+      "parent": "regulasi",
+      "color": "#ef4444",
+      "content": "Tentang Keselamatan Radiasi Pengion dan Keamanan Sumber Radioaktif. Memuat definisi radiasi sebagai gelombang elektromagnetik dan partikel bermuatan yang mampu mengionisasi."
+    },
+    {
+      "id": "regulasi-permenaker",
+      "label": "Permenaker No. 5 Tahun 2018",
+      "parent": "regulasi",
+      "color": "#ef4444",
+      "content": "Tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja. Mengatur NAB faktor fisika termasuk medan magnet statis, gelombang radio/mikro, dan radiasi ultraviolet."
+    },
+    {
+      "id": "regulasi-permenkes",
+      "label": "Permenkes No. 70 Tahun 2016",
+      "parent": "regulasi",
+      "color": "#ef4444",
+      "content": "Mengatur standar dan persyaratan kesehatan lingkungan kerja industri, termasuk NAB radiasi medan listrik statis (≤ 30 kHz, dinyatakan dalam V/m)."
+    },
+    {
+      "id": "regulasi-cakupan",
+      "label": "Jenis yang Diatur NAB",
+      "parent": "regulasi",
+      "color": "#ef4444",
+      "content": "Jenis radiasi non-pengion yang diatur NAB:\n- Medan magnet statis (0-300 Hz)\n- Medan listrik statis (≤ 30 kHz)\n- Gelombang radio/mikro (300 kHz - 300 GHz)\n- Radiasi ultraviolet (200-400 nm)"
+    },
+    {
+      "id": "ukur",
+      "label": "Pengukuran & Monitoring",
+      "parent": "root",
+      "color": "#14b8a6",
+      "content": "Prinsip, alat, persyaratan, dan prosedur pengukuran radiasi di tempat kerja; fokus pengukuran sinar UV mengacu SNI 16-7060-2004."
+    },
+    {
+      "id": "ukur-alat",
+      "label": "Alat Pengukur Radiasi",
+      "parent": "ukur",
+      "color": "#14b8a6",
+      "content": "Alat pengukur radiasi disesuaikan dengan jenisnya, antara lain magnetometer & sensor Hall (medan magnet) dan radiometer UV (sinar ultraviolet)."
+    },
+    {
+      "id": "ukur-sni",
+      "label": "SNI 16-7060-2004",
+      "parent": "ukur",
+      "color": "#14b8a6",
+      "content": "Standar pengukuran radiasi sinar ultra ungu (ultraviolet) di tempat kerja. Mengatur prinsip, peralatan, dan prosedur kerja pengukuran UV."
+    },
+    {
+      "id": "ukur-syarat",
+      "label": "Persyaratan Pengukuran",
+      "parent": "ukur",
+      "color": "#14b8a6",
+      "content": "Saat mengadakan pengukuran disyaratkan suhu tempat kerja yang diukur berada antara 0-40 derajat celsius."
+    },
+    {
+      "id": "ukur-radiometer",
+      "label": "Radiometer Sinar UV",
+      "parent": "ukur",
+      "color": "#14b8a6",
+      "content": "Spesifikasi radiometer UV:\n- Portabel dan dapat langsung dibaca hasilnya\n- Kisaran panjang gelombang 180-400 nm\n- Kemampuan radiasi 0 - 19.990 µW/cm² dengan resolusi 0,1 µW/cm²"
+    },
+    {
+      "id": "ukur-kalibrasi",
+      "label": "Kalibrasi Alat",
+      "parent": "ukur",
+      "color": "#14b8a6",
+      "content": "Setiap radiometer sinar UV yang akan dipakai harus dikalibrasi oleh laboratorium kalibrasi terakreditasi minimal 1 kali per tahun."
+    },
+    {
+      "id": "ukur-titik",
+      "label": "Titik Pengukuran",
+      "parent": "ukur",
+      "color": "#14b8a6",
+      "content": "Pengukuran UV minimal pada 3 titik:\n- Zona penglihatan: jarak maksimal 30 cm dari mata\n- Setinggi siku (posisi kerja duduk/berdiri): jarak maksimal 30 cm dari badan terluar\n- Setinggi betis dari betis"
+    },
+    {
+      "id": "ukur-prosedur",
+      "label": "Prosedur Kerja",
+      "parent": "ukur",
+      "color": "#14b8a6",
+      "content": "Prosedur pengukuran UV:\n- Tutup sensor dan hidupkan alat\n- Atur tombol agar monitor menunjukkan angka nol\n- Bawa alat ke tempat pengukuran\n- Letakkan sensor di tiap titik menghadap sumber sinar UV\n- Lakukan pengukuran pada setiap titik\n- Baca dan catat hasil pengukuran"
+    },
+    {
+      "id": "proteksi",
+      "label": "Proteksi Radiasi",
+      "parent": "root",
+      "color": "#a855f7",
+      "content": "Prinsip pengendalian umum untuk mengurangi pajanan radiasi di tempat kerja, diterapkan untuk berbagai jenis radiasi non-pengion."
+    },
+    {
+      "id": "proteksi-eliminasi",
+      "label": "Menghilangkan Sumber",
+      "parent": "proteksi",
+      "color": "#a855f7",
+      "content": "Menghilangkan sumber radiasi di tempat kerja merupakan langkah pengendalian paling utama (eliminasi)."
+    },
+    {
+      "id": "proteksi-isolasi",
+      "label": "Isolasi & Proteksi",
+      "parent": "proteksi",
+      "color": "#a855f7",
+      "content": "Mengisolasi atau membatasi pajanan sumber radiasi dan merancang tempat kerja menggunakan peralatan proteksi radiasi (perisai/shielding)."
+    },
+    {
+      "id": "proteksi-jarak",
+      "label": "Jarak Aman",
+      "parent": "proteksi",
+      "color": "#a855f7",
+      "content": "Memberikan jarak aman sesuai standar antara sumber pajanan radiasi dan pekerja untuk mengurangi intensitas yang diterima."
+    },
+    {
+      "id": "proteksi-waktu",
+      "label": "Pembatasan Waktu",
+      "parent": "proteksi",
+      "color": "#a855f7",
+      "content": "Membatasi waktu pajanan terhadap sumber radiasi melalui pengaturan waktu kerja untuk menurunkan dosis kumulatif."
+    },
+    {
+      "id": "proteksi-apd",
+      "label": "Alat Pelindung Diri (APD)",
+      "parent": "proteksi",
+      "color": "#a855f7",
+      "content": "Menggunakan APD yang sesuai jenis radiasi (mis. pelindung mata & kulit untuk pekerja las). Catatan: pada studi bengkel las, UV-B tetap melebihi NAB walau sudah pakai APD, sehingga APD dikombinasikan pengendalian lain."
+    },
+    {
+      "id": "proteksi-iptek",
+      "label": "Pengendalian Lain (IPTEK)",
+      "parent": "proteksi",
+      "color": "#a855f7",
+      "content": "Melakukan pengendalian lain sesuai perkembangan ilmu pengetahuan dan teknologi."
+    }
+  ]
+}

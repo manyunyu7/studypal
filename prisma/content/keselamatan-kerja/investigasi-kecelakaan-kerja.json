@@ -1,0 +1,1431 @@
+{
+  "topic": "Investigasi Kecelakaan Kerja",
+  "order": 7,
+  "description": "Investigasi kecelakaan kerja adalah rangkaian kegiatan sistematis untuk menemukan fakta, penyebab langsung, dan akar penyebab (root cause) suatu kecelakaan agar dapat ditentukan tindakan perbaikan yang tepat. Tujuannya mencegah kecelakaan terulang melalui metode analisis seperti RCA, 5 Whys, Fishbone, FTA, ETA, SCAT, dan FMEA.",
+  "subtopics": [
+    "Definisi Kecelakaan Kerja",
+    "Definisi & Tujuan Investigasi",
+    "Tahapan Investigasi",
+    "Pengumpulan Data 6M+1E",
+    "Metode 5 Whys, Fishbone & RCA",
+    "Fault Tree & Event Tree Analysis",
+    "SCAT & FMEA",
+    "Laporan Investigasi & Tindak Lanjut"
+  ],
+  "questions": [
+    {
+      "text": "Menurut ILO, kecelakaan kerja didefinisikan sebagai?",
+      "explanation": "ILO mendefinisikan kecelakaan kerja sebagai kejadian yang tidak terduga, tidak direncanakan, dan tidak diinginkan yang terjadi saat seseorang menjalankan pekerjaannya.",
+      "difficulty": "EASY",
+      "tag": "Definisi Kecelakaan Kerja",
+      "options": [
+        { "text": "A. Kejadian yang sudah direncanakan untuk menguji sistem", "isCorrect": false },
+        { "text": "B. Kejadian tidak terduga, tidak direncanakan, dan tidak diinginkan saat bekerja", "isCorrect": true },
+        { "text": "C. Penyakit yang timbul akibat usia lanjut pekerja", "isCorrect": false },
+        { "text": "D. Pelanggaran administratif terhadap kontrak kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU No 1 Tahun 1970, kecelakaan kerja adalah?",
+      "explanation": "UU No 1 Tahun 1970 mendefinisikan kecelakaan kerja sebagai kejadian tak terduga dan tidak dikehendaki yang mengacaukan proses kerja dan berpotensi menimbulkan kerugian korban manusia atau harta benda.",
+      "difficulty": "EASY",
+      "tag": "Definisi Kecelakaan Kerja",
+      "options": [
+        { "text": "A. Kejadian tak terduga yang mengacaukan proses kerja dan berpotensi menimbulkan kerugian", "isCorrect": true },
+        { "text": "B. Tindakan disengaja untuk menghentikan produksi", "isCorrect": false },
+        { "text": "C. Kerusakan alat yang sudah dijadwalkan", "isCorrect": false },
+        { "text": "D. Kelalaian yang tidak menimbulkan kerugian apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu ciri khas kecelakaan kerja adalah bersifat?",
+      "explanation": "Kecelakaan kerja bersifat tidak terduga dan tidak dikehendaki, sehingga membedakannya dari kejadian yang sengaja direncanakan.",
+      "difficulty": "EASY",
+      "tag": "Definisi Kecelakaan Kerja",
+      "options": [
+        { "text": "A. Terencana dan dikehendaki", "isCorrect": false },
+        { "text": "B. Tidak terduga dan tidak dikehendaki", "isCorrect": true },
+        { "text": "C. Selalu menimbulkan kematian", "isCorrect": false },
+        { "text": "D. Hanya terjadi di luar tempat kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kecelakaan kerja menurut UU No 1 Tahun 1970 berpotensi menimbulkan kerugian berupa?",
+      "explanation": "Kerugian akibat kecelakaan kerja dapat berupa korban manusia maupun kerugian harta benda.",
+      "difficulty": "EASY",
+      "tag": "Definisi Kecelakaan Kerja",
+      "options": [
+        { "text": "A. Hanya kerugian finansial perusahaan", "isCorrect": false },
+        { "text": "B. Korban manusia maupun harta benda", "isCorrect": true },
+        { "text": "C. Hanya kerusakan reputasi", "isCorrect": false },
+        { "text": "D. Tidak ada kerugian sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Investigasi kecelakaan kerja pada hakikatnya adalah rangkaian kegiatan untuk?",
+      "explanation": "Investigasi kecelakaan kerja dilakukan untuk mencari penyebab utama terjadinya kecelakaan dan menentukan tindakan perbaikan yang tepat setelah ditemukan fakta-fakta penyebabnya.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Mencari pihak yang dapat dihukum atas kecelakaan", "isCorrect": false },
+        { "text": "B. Mencari penyebab utama kecelakaan dan menentukan tindakan perbaikan", "isCorrect": true },
+        { "text": "C. Menutupi kejadian agar tidak diketahui publik", "isCorrect": false },
+        { "text": "D. Menghitung jumlah hari kerja yang hilang saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama investigasi kecelakaan kerja yang paling tepat adalah?",
+      "explanation": "Tujuan utama investigasi adalah menemukan bagaimana dan mengapa kecelakaan terjadi serta mencegah kecelakaan serupa terulang kembali.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Menentukan siapa yang bersalah dan memberi sanksi", "isCorrect": false },
+        { "text": "B. Mencegah kecelakaan terulang kembali", "isCorrect": true },
+        { "text": "C. Menaikkan premi asuransi perusahaan", "isCorrect": false },
+        { "text": "D. Menghentikan operasional perusahaan secara permanen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN merupakan tujuan investigasi kecelakaan kerja adalah?",
+      "explanation": "Tujuan investigasi mencakup menemukan fakta dan penyebab, mencegah terulang, menentukan tindakan perbaikan, dan memenuhi peraturan perundangan; mencari kambing hitam bukan tujuannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Menemukan bagaimana dan mengapa kecelakaan terjadi", "isCorrect": false },
+        { "text": "B. Menentukan tindakan perbaikan", "isCorrect": false },
+        { "text": "C. Mencari kambing hitam untuk disalahkan", "isCorrect": true },
+        { "text": "D. Memenuhi peraturan perundangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Investigasi kecelakaan kerja juga bertujuan untuk memenuhi?",
+      "explanation": "Salah satu tujuan investigasi adalah memenuhi peraturan perundangan, termasuk kewajiban pelaporan kecelakaan kerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Target produksi bulanan", "isCorrect": false },
+        { "text": "B. Peraturan perundangan", "isCorrect": true },
+        { "text": "C. Permintaan media massa", "isCorrect": false },
+        { "text": "D. Kuota lembur pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kapan investigasi kecelakaan kerja sebaiknya dilakukan?",
+      "explanation": "Investigasi sebaiknya dilakukan sesegera mungkin setelah kecelakaan untuk menghindari hilangnya bukti.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Beberapa bulan setelah kejadian", "isCorrect": false },
+        { "text": "B. Sesegera mungkin setelah terjadi kecelakaan", "isCorrect": true },
+        { "text": "C. Hanya setelah ada tuntutan hukum", "isCorrect": false },
+        { "text": "D. Saat audit tahunan saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu alasan investigasi dilakukan sesegera mungkin adalah?",
+      "explanation": "Investigasi dilakukan segera karena bukti dapat hilang akibat perubahan cuaca, relokasi barang bukti untuk penyelamatan korban, dan terbatasnya daya ingat korban serta saksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Agar perusahaan bisa segera menutup kasus", "isCorrect": false },
+        { "text": "B. Menghindari hilangnya bukti karena cuaca, relokasi barang, dan keterbatasan daya ingat saksi", "isCorrect": true },
+        { "text": "C. Agar pekerja segera dapat bekerja lembur", "isCorrect": false },
+        { "text": "D. Untuk menghemat biaya investigasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Daya ingat korban dan saksi yang terbatas menjadi alasan mengapa investigasi harus?",
+      "explanation": "Keterbatasan daya ingat korban dan saksi membuat investigasi perlu dilakukan secepat mungkin agar keterangan masih akurat.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Ditunda hingga kondisi tenang", "isCorrect": false },
+        { "text": "B. Dilakukan sesegera mungkin", "isCorrect": true },
+        { "text": "C. Diserahkan ke pihak ketiga setahun kemudian", "isCorrect": false },
+        { "text": "D. Dibatalkan jika tidak ada saksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap pertama dalam investigasi kecelakaan kerja adalah?",
+      "explanation": "Tahap pertama adalah tindakan tanggap darurat dan pengamanan awal, seperti pertolongan pertama, menghentikan pekerjaan berbahaya, dan mengamankan area.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Menyusun laporan akhir", "isCorrect": false },
+        { "text": "B. Tindakan tanggap darurat dan pengamanan awal", "isCorrect": true },
+        { "text": "C. Menentukan sanksi bagi pekerja", "isCorrect": false },
+        { "text": "D. Menghitung biaya kerugian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada tahap tanggap darurat investigasi, tindakan berikut dilakukan KECUALI?",
+      "explanation": "Tindakan tanggap darurat meliputi pertolongan pertama, menghentikan pekerjaan berbahaya, mengamankan area, dan menjaga barang bukti; menyusun rekomendasi perbaikan dilakukan pada tahap selanjutnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Memberikan pertolongan pertama pada korban", "isCorrect": false },
+        { "text": "B. Menghentikan pekerjaan berbahaya", "isCorrect": false },
+        { "text": "C. Menyusun rekomendasi tindakan perbaikan final", "isCorrect": true },
+        { "text": "D. Mengamankan area kecelakaan dan menjaga barang bukti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tugas tim investigasi kecelakaan kerja meliputi?",
+      "explanation": "Tim investigasi bertugas mengumpulkan bukti, melakukan wawancara, menganalisa penyebab, menyusun rekomendasi, dan membuat laporan investigasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Mengumpulkan bukti, wawancara, analisis penyebab, dan menyusun laporan", "isCorrect": true },
+        { "text": "B. Hanya memberi sanksi kepada korban", "isCorrect": false },
+        { "text": "C. Mengganti seluruh mesin yang rusak", "isCorrect": false },
+        { "text": "D. Menutup perusahaan untuk sementara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang umumnya menjadi anggota tim investigasi kecelakaan kerja adalah?",
+      "explanation": "Anggota tim investigasi biasanya terdiri dari ahli K3, supervisor, teknisi, tim P2K3, perwakilan pekerja, dan manajemen.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Hanya pihak kepolisian", "isCorrect": false },
+        { "text": "B. Ahli K3, supervisor, teknisi, P2K3, dan perwakilan pekerja", "isCorrect": true },
+        { "text": "C. Hanya korban kecelakaan", "isCorrect": false },
+        { "text": "D. Pihak asuransi saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan tahapan investigasi kecelakaan kerja yang benar adalah?",
+      "explanation": "Urutannya: tanggap darurat dan pengamanan awal, pembentukan tim, pengumpulan data, analisis penyebab, penyusunan rekomendasi, pelaporan, lalu monitoring dan tindak lanjut.",
+      "difficulty": "HARD",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Pelaporan, analisis, pengumpulan data, monitoring", "isCorrect": false },
+        { "text": "B. Tanggap darurat, pembentukan tim, pengumpulan data, analisis, rekomendasi, pelaporan, monitoring", "isCorrect": true },
+        { "text": "C. Analisis, tanggap darurat, monitoring, pelaporan", "isCorrect": false },
+        { "text": "D. Monitoring, pelaporan, pengumpulan data, tanggap darurat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah tindakan tanggap darurat, tahap selanjutnya dalam investigasi adalah?",
+      "explanation": "Setelah tanggap darurat, dibentuk tim investigasi yang akan mengumpulkan bukti dan menganalisis penyebab.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Pembentukan tim investigasi", "isCorrect": true },
+        { "text": "B. Penutupan kasus", "isCorrect": false },
+        { "text": "C. Pembayaran santunan", "isCorrect": false },
+        { "text": "D. Penggantian seluruh prosedur kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menjaga barang bukti pada area kecelakaan bertujuan untuk?",
+      "explanation": "Menjaga barang bukti penting agar analisis penyebab kecelakaan dapat dilakukan secara akurat berdasarkan kondisi nyata di lokasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Menambah beban kerja tim", "isCorrect": false },
+        { "text": "B. Memastikan analisis penyebab dilakukan berdasarkan fakta yang akurat", "isCorrect": true },
+        { "text": "C. Memperlambat proses produksi", "isCorrect": false },
+        { "text": "D. Menghindari pelaporan ke pemerintah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengumpulan data dan fakta dalam investigasi kecelakaan menggunakan pendekatan?",
+      "explanation": "Pengumpulan data menggunakan pendekatan 6M+1E, yaitu Man, Machine, Material, Method, Management, Measurement, dan Environment.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. 4P (Product, Price, Place, Promotion)", "isCorrect": false },
+        { "text": "B. 6M+1E (Man, Machine, Material, Method, Management, Measurement, Environment)", "isCorrect": true },
+        { "text": "C. SWOT", "isCorrect": false },
+        { "text": "D. 5S (Seiri, Seiton, Seiso, Seiketsu, Shitsuke)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam pendekatan 6M+1E, huruf 'E' merujuk pada?",
+      "explanation": "Pada 6M+1E, 'E' merujuk pada Environment (lingkungan kerja).",
+      "difficulty": "EASY",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Energy", "isCorrect": false },
+        { "text": "B. Environment (lingkungan)", "isCorrect": true },
+        { "text": "C. Efficiency", "isCorrect": false },
+        { "text": "D. Equipment", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor 'Man' dalam pendekatan 6M+1E berkaitan dengan?",
+      "explanation": "Faktor 'Man' berkaitan dengan manusia/pekerja, termasuk perilaku, kompetensi, dan kondisi fisik pekerja saat kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Mesin yang digunakan", "isCorrect": false },
+        { "text": "B. Faktor manusia/pekerja", "isCorrect": true },
+        { "text": "C. Bahan baku produksi", "isCorrect": false },
+        { "text": "D. Metode kerja tertulis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam 6M+1E, 'Method' berkaitan dengan?",
+      "explanation": "Faktor 'Method' berkaitan dengan metode atau cara kerja, termasuk prosedur dan SOP yang digunakan.",
+      "difficulty": "EASY",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Cara/metode kerja dan prosedur", "isCorrect": true },
+        { "text": "B. Suhu lingkungan kerja", "isCorrect": false },
+        { "text": "C. Jumlah pekerja shift", "isCorrect": false },
+        { "text": "D. Anggaran perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor 'Measurement' dalam 6M+1E berhubungan dengan?",
+      "explanation": "Faktor 'Measurement' berhubungan dengan pengukuran, kalibrasi alat, dan data parameter yang relevan dengan kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Pengukuran dan kalibrasi alat ukur", "isCorrect": true },
+        { "text": "B. Pelatihan manajemen", "isCorrect": false },
+        { "text": "C. Bahan kimia berbahaya", "isCorrect": false },
+        { "text": "D. Jenis APD yang dipakai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor 'Management' dalam pendekatan 6M+1E mencakup?",
+      "explanation": "Faktor 'Management' mencakup sistem manajemen, kebijakan, pengawasan, dan pelatihan K3 yang berpengaruh terhadap kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Kebijakan, pengawasan, dan sistem manajemen K3", "isCorrect": true },
+        { "text": "B. Warna cat dinding pabrik", "isCorrect": false },
+        { "text": "C. Merek mesin yang dibeli", "isCorrect": false },
+        { "text": "D. Lokasi geografis perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada 6M+1E, faktor yang mencakup peralatan/mesin produksi disebut?",
+      "explanation": "Faktor 'Machine' mencakup peralatan dan mesin produksi yang dapat menjadi penyebab kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Material", "isCorrect": false },
+        { "text": "B. Machine", "isCorrect": true },
+        { "text": "C. Method", "isCorrect": false },
+        { "text": "D. Management", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahan baku, material kerja, atau zat kimia yang terlibat dalam kecelakaan termasuk faktor?",
+      "explanation": "Bahan baku dan material kerja termasuk faktor 'Material' dalam pendekatan 6M+1E.",
+      "difficulty": "EASY",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Material", "isCorrect": true },
+        { "text": "B. Man", "isCorrect": false },
+        { "text": "C. Measurement", "isCorrect": false },
+        { "text": "D. Environment", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode 5 Whys Analysis digunakan untuk?",
+      "explanation": "Metode 5 Whys digunakan untuk menemukan akar penyebab (root cause) suatu kecelakaan dengan mengajukan pertanyaan 'Mengapa?' secara berulang.",
+      "difficulty": "EASY",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Menghitung biaya kecelakaan", "isCorrect": false },
+        { "text": "B. Menemukan akar penyebab dengan bertanya 'mengapa' berulang kali", "isCorrect": true },
+        { "text": "C. Mengukur tingkat kebisingan", "isCorrect": false },
+        { "text": "D. Menentukan jumlah korban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip dasar metode 5 Whys adalah?",
+      "explanation": "Prinsip 5 Whys adalah mengajukan pertanyaan 'mengapa' secara berulang dengan jawaban berbasis fakta sampai akar penyebab ditemukan.",
+      "difficulty": "EASY",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Mengajukan pertanyaan 'mengapa' berulang hingga root cause ditemukan", "isCorrect": true },
+        { "text": "B. Menjawab pertanyaan 'siapa' lima kali", "isCorrect": false },
+        { "text": "C. Menggambar lima cabang masalah", "isCorrect": false },
+        { "text": "D. Menghitung lima jenis kerugian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah awal dalam metode 5 Whys Analysis adalah?",
+      "explanation": "Langkah awal 5 Whys adalah menentukan masalah/insiden/accident yang akan dianalisis sebelum mengajukan pertanyaan 'mengapa'.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Menentukan masalah/insiden yang akan dianalisis", "isCorrect": true },
+        { "text": "B. Menyusun laporan akhir", "isCorrect": false },
+        { "text": "C. Menghukum pekerja yang lalai", "isCorrect": false },
+        { "text": "D. Mengganti mesin yang rusak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode 5 Whys, jawaban atas setiap pertanyaan 'mengapa' harus didasarkan pada?",
+      "explanation": "Jawaban dalam 5 Whys harus dituliskan berdasarkan fakta, bukan asumsi atau dugaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Opini pribadi pengawas", "isCorrect": false },
+        { "text": "B. Fakta yang ditemukan", "isCorrect": true },
+        { "text": "C. Asumsi manajemen", "isCorrect": false },
+        { "text": "D. Tekanan dari pihak luar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode Fishbone Diagram dikenal juga dengan nama?",
+      "explanation": "Fishbone Diagram dikenal juga sebagai Ishikawa Diagram, dinamai dari penciptanya.",
+      "difficulty": "EASY",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Pareto Diagram", "isCorrect": false },
+        { "text": "B. Ishikawa Diagram", "isCorrect": true },
+        { "text": "C. Gantt Chart", "isCorrect": false },
+        { "text": "D. Venn Diagram", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama Fishbone (Ishikawa) Diagram dalam investigasi kecelakaan adalah?",
+      "explanation": "Fishbone Diagram digunakan untuk mengidentifikasi berbagai faktor penyebab suatu kecelakaan secara sistematis.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Mengidentifikasi berbagai faktor penyebab kecelakaan secara sistematis", "isCorrect": true },
+        { "text": "B. Menghitung jam kerja yang hilang", "isCorrect": false },
+        { "text": "C. Menentukan urutan evakuasi", "isCorrect": false },
+        { "text": "D. Mengukur intensitas cahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fishbone Diagram sering dikombinasikan dengan kategori penyebab seperti?",
+      "explanation": "Fishbone Diagram umumnya mengelompokkan faktor penyebab sesuai kategori seperti 6M+1E (Man, Machine, Material, Method, Management, Measurement, Environment).",
+      "difficulty": "MEDIUM",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Kategori 6M+1E (Man, Machine, Material, dll.)", "isCorrect": true },
+        { "text": "B. Kategori warna pelangi", "isCorrect": false },
+        { "text": "C. Kategori abjad A-Z", "isCorrect": false },
+        { "text": "D. Kategori musim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Root Cause Analysis (RCA) bertujuan untuk?",
+      "explanation": "RCA bertujuan menemukan akar penyebab utama (root cause) suatu kecelakaan agar tindakan perbaikan tepat sasaran dan kecelakaan tidak terulang.",
+      "difficulty": "EASY",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Menemukan akar penyebab utama agar kecelakaan tidak terulang", "isCorrect": true },
+        { "text": "B. Menghukum pihak yang bertanggung jawab", "isCorrect": false },
+        { "text": "C. Mempercepat proses produksi", "isCorrect": false },
+        { "text": "D. Mengganti seluruh karyawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah pertama dalam Root Cause Analysis (RCA) adalah?",
+      "explanation": "Langkah pertama RCA adalah menentukan kejadian kecelakaan yang akan dianalisis sebelum mengumpulkan fakta dan menelusuri akar penyebab.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Menentukan tindakan perbaikan", "isCorrect": false },
+        { "text": "B. Menentukan kejadian kecelakaan yang akan dianalisis", "isCorrect": true },
+        { "text": "C. Monitoring dan evaluasi", "isCorrect": false },
+        { "text": "D. Menelusuri akar penyebab", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan langkah RCA yang benar adalah?",
+      "explanation": "Langkah RCA: menentukan kejadian, mengumpulkan fakta, mengidentifikasi penyebab langsung, menelusuri akar penyebab, menentukan tindakan perbaikan, lalu monitoring dan evaluasi.",
+      "difficulty": "HARD",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Tentukan kejadian, kumpulkan fakta, penyebab langsung, akar penyebab, tindakan perbaikan, monitoring", "isCorrect": true },
+        { "text": "B. Monitoring, tindakan perbaikan, akar penyebab, kumpulkan fakta", "isCorrect": false },
+        { "text": "C. Akar penyebab, tentukan kejadian, monitoring, fakta", "isCorrect": false },
+        { "text": "D. Tindakan perbaikan, monitoring, kejadian, fakta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam RCA, setelah mengidentifikasi penyebab langsung, langkah berikutnya adalah?",
+      "explanation": "Setelah penyebab langsung diidentifikasi, RCA menelusuri akar penyebab (root cause) yang lebih mendasar.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Menelusuri akar penyebab", "isCorrect": true },
+        { "text": "B. Menutup investigasi", "isCorrect": false },
+        { "text": "C. Membayar santunan", "isCorrect": false },
+        { "text": "D. Mengabaikan penyebab dasar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan antara penyebab langsung dan akar penyebab (root cause) adalah?",
+      "explanation": "Penyebab langsung adalah faktor yang langsung memicu kecelakaan, sedangkan akar penyebab adalah faktor mendasar yang bila diperbaiki dapat mencegah kecelakaan terulang.",
+      "difficulty": "HARD",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Keduanya identik dan tidak berbeda", "isCorrect": false },
+        { "text": "B. Penyebab langsung adalah pemicu permukaan, akar penyebab adalah faktor mendasar yang sebenarnya", "isCorrect": true },
+        { "text": "C. Akar penyebab selalu berupa kesalahan korban", "isCorrect": false },
+        { "text": "D. Penyebab langsung tidak perlu diperbaiki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode 5 Whys dapat dianggap sebagai salah satu teknik pelaksanaan dari?",
+      "explanation": "Metode 5 Whys merupakan salah satu teknik yang umum dipakai dalam Root Cause Analysis (RCA) untuk menelusuri akar penyebab.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Root Cause Analysis (RCA)", "isCorrect": true },
+        { "text": "B. Hot Work Permit", "isCorrect": false },
+        { "text": "C. Audit keuangan", "isCorrect": false },
+        { "text": "D. Inspeksi APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fault Tree Analysis (FTA) digunakan untuk?",
+      "explanation": "FTA digunakan untuk mengidentifikasi kombinasi penyebab yang dapat menyebabkan suatu kecelakaan atau kegagalan sistem.",
+      "difficulty": "EASY",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Mengukur kelembapan ruang kerja", "isCorrect": false },
+        { "text": "B. Mengidentifikasi kombinasi penyebab yang dapat menimbulkan kegagalan sistem", "isCorrect": true },
+        { "text": "C. Menghitung gaji pekerja", "isCorrect": false },
+        { "text": "D. Menentukan warna rambu K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Fault Tree Analysis, 'Top Event' adalah?",
+      "explanation": "Top Event adalah kejadian utama/puncak yang ingin dianalisis dalam diagram FTA.",
+      "difficulty": "MEDIUM",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Penyebab dasar paling kecil", "isCorrect": false },
+        { "text": "B. Kejadian utama/puncak yang ingin dianalisis", "isCorrect": true },
+        { "text": "C. Gerbang logika antar penyebab", "isCorrect": false },
+        { "text": "D. Rekomendasi perbaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam FTA, penyebab dasar atau root cause direpresentasikan oleh komponen?",
+      "explanation": "Basic Event dalam FTA merepresentasikan penyebab dasar/root cause yang tidak diuraikan lebih lanjut.",
+      "difficulty": "MEDIUM",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Top Event", "isCorrect": false },
+        { "text": "B. Intermediate Event", "isCorrect": false },
+        { "text": "C. Basic Event", "isCorrect": true },
+        { "text": "D. Logic Gate", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada FTA, OR Gate menunjukkan bahwa top event terjadi jika?",
+      "explanation": "Pada OR Gate, top event terjadi jika salah satu penyebab (input) terjadi.",
+      "difficulty": "HARD",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Seluruh penyebab terjadi bersamaan", "isCorrect": false },
+        { "text": "B. Salah satu penyebab terjadi", "isCorrect": true },
+        { "text": "C. Tidak ada penyebab yang terjadi", "isCorrect": false },
+        { "text": "D. Hanya penyebab terakhir yang terjadi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada FTA, AND Gate menunjukkan bahwa top event terjadi jika?",
+      "explanation": "Pada AND Gate, top event hanya terjadi jika seluruh penyebab (input) terjadi secara bersamaan.",
+      "difficulty": "HARD",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Seluruh penyebab terjadi secara bersamaan", "isCorrect": true },
+        { "text": "B. Salah satu penyebab terjadi", "isCorrect": false },
+        { "text": "C. Setengah penyebab terjadi", "isCorrect": false },
+        { "text": "D. Tidak ada penyebab terjadi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen FTA yang berfungsi menunjukkan hubungan logika antar penyebab adalah?",
+      "explanation": "Logic Gate (gerbang logika) menunjukkan hubungan logika antar penyebab, misalnya OR Gate dan AND Gate.",
+      "difficulty": "MEDIUM",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Top Event", "isCorrect": false },
+        { "text": "B. Basic Event", "isCorrect": false },
+        { "text": "C. Logic Gate", "isCorrect": true },
+        { "text": "D. Consequence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kejadian antara yang mendukung terjadinya top event dalam FTA disebut?",
+      "explanation": "Intermediate Event adalah kejadian antara yang menghubungkan basic event dengan top event dalam FTA.",
+      "difficulty": "MEDIUM",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Basic Event", "isCorrect": false },
+        { "text": "B. Intermediate Event", "isCorrect": true },
+        { "text": "C. Logic Gate", "isCorrect": false },
+        { "text": "D. End Event", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "FTA umumnya menggunakan logika analisis yang bersifat?",
+      "explanation": "FTA bersifat deduktif (top-down), yaitu dimulai dari top event lalu ditelusuri ke bawah menuju penyebab dasarnya.",
+      "difficulty": "HARD",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Deduktif (dari top event menuju penyebab dasar)", "isCorrect": true },
+        { "text": "B. Acak tanpa urutan", "isCorrect": false },
+        { "text": "C. Hanya berdasarkan tebakan", "isCorrect": false },
+        { "text": "D. Berdasarkan abjad penyebab", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Event Tree Analysis (ETA) berfokus pada analisis?",
+      "explanation": "ETA berfokus menganalisis rangkaian kejadian dan konsekuensi yang mungkin terjadi setelah suatu kejadian awal (initiating event), secara induktif (maju ke depan).",
+      "difficulty": "MEDIUM",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Hanya penyebab di masa lalu", "isCorrect": false },
+        { "text": "B. Rangkaian konsekuensi yang mungkin terjadi setelah kejadian awal", "isCorrect": true },
+        { "text": "C. Biaya kecelakaan saja", "isCorrect": false },
+        { "text": "D. Daftar nama korban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Titik awal analisis dalam Event Tree Analysis (ETA) disebut?",
+      "explanation": "Titik awal dalam ETA disebut initiating event (kejadian awal), yang kemudian dianalisis kemungkinan konsekuensinya.",
+      "difficulty": "MEDIUM",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Initiating event (kejadian awal)", "isCorrect": true },
+        { "text": "B. Basic event", "isCorrect": false },
+        { "text": "C. Final consequence", "isCorrect": false },
+        { "text": "D. Safeguard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara FTA dan ETA adalah?",
+      "explanation": "FTA bersifat deduktif menelusuri penyebab dari top event ke bawah, sedangkan ETA bersifat induktif menelusuri konsekuensi dari kejadian awal ke depan.",
+      "difficulty": "HARD",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. FTA dan ETA identik tanpa perbedaan", "isCorrect": false },
+        { "text": "B. FTA deduktif (mencari penyebab), ETA induktif (mencari konsekuensi)", "isCorrect": true },
+        { "text": "C. Keduanya hanya menghitung biaya", "isCorrect": false },
+        { "text": "D. FTA untuk korban, ETA untuk mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Event Tree Analysis, setiap cabang pohon biasanya menunjukkan kondisi?",
+      "explanation": "Setiap cabang dalam ETA umumnya menunjukkan kondisi berhasil/gagalnya suatu pengaman (safeguard), sehingga menghasilkan berbagai jalur konsekuensi.",
+      "difficulty": "HARD",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Berhasil atau gagalnya suatu pengaman (safeguard)", "isCorrect": true },
+        { "text": "B. Warna seragam pekerja", "isCorrect": false },
+        { "text": "C. Jumlah jam kerja", "isCorrect": false },
+        { "text": "D. Nama supervisor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil akhir dari Event Tree Analysis berupa?",
+      "explanation": "ETA menghasilkan berbagai skenario konsekuensi (outcome) beserta kemungkinannya, mulai dari kondisi aman hingga kecelakaan parah.",
+      "difficulty": "MEDIUM",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Hanya satu penyebab tunggal", "isCorrect": false },
+        { "text": "B. Berbagai skenario konsekuensi beserta kemungkinannya", "isCorrect": true },
+        { "text": "C. Daftar nama saksi", "isCorrect": false },
+        { "text": "D. Anggaran perbaikan saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Systematic Cause Analysis Technique (SCAT) digunakan untuk?",
+      "explanation": "SCAT digunakan untuk mengidentifikasi penyebab kecelakaan secara sistematis mulai dari penyebab langsung, penyebab dasar, hingga kelemahan pengendalian manajemen.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Mengidentifikasi penyebab kecelakaan secara sistematis dari penyebab langsung hingga kelemahan pengendalian", "isCorrect": true },
+        { "text": "B. Menghitung dosis radiasi", "isCorrect": false },
+        { "text": "C. Mengukur tekanan darah pekerja", "isCorrect": false },
+        { "text": "D. Menentukan harga jual produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Struktur SCAT terdiri dari lima elemen, salah satunya 'Loss' yang berarti?",
+      "explanation": "Dalam SCAT, 'Loss' berarti kerugian yang ditimbulkan oleh kecelakaan, baik pada manusia maupun harta benda.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Kerugian", "isCorrect": true },
+        { "text": "B. Pengawasan", "isCorrect": false },
+        { "text": "C. Pelatihan", "isCorrect": false },
+        { "text": "D. Pemeliharaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan struktur SCAT dari kerugian hingga akar pengendalian adalah?",
+      "explanation": "Struktur SCAT: Loss (kerugian), Incident (kejadian), Immediate Cause (penyebab langsung), Basic Cause (penyebab dasar), dan Lack of Control (kelemahan pengendalian).",
+      "difficulty": "HARD",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Loss, Incident, Immediate Cause, Basic Cause, Lack of Control", "isCorrect": true },
+        { "text": "B. Lack of Control, Loss, Incident, Basic Cause", "isCorrect": false },
+        { "text": "C. Incident, Loss, Basic Cause, Immediate Cause", "isCorrect": false },
+        { "text": "D. Basic Cause, Lack of Control, Loss, Incident", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam SCAT, 'Immediate Cause' merujuk pada?",
+      "explanation": "Immediate Cause dalam SCAT adalah penyebab langsung kecelakaan, biasanya berupa tindakan tidak aman (unsafe act) atau kondisi tidak aman (unsafe condition).",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Penyebab langsung (tindakan/kondisi tidak aman)", "isCorrect": true },
+        { "text": "B. Kelemahan manajemen tertinggi", "isCorrect": false },
+        { "text": "C. Kerugian harta benda", "isCorrect": false },
+        { "text": "D. Rekomendasi perbaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada SCAT, 'Lack of Control' menunjukkan?",
+      "explanation": "Lack of Control dalam SCAT menunjukkan kelemahan pengendalian manajemen yang menjadi akar paling mendasar dari rangkaian penyebab kecelakaan.",
+      "difficulty": "HARD",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Kelemahan pengendalian manajemen", "isCorrect": true },
+        { "text": "B. Jumlah korban jiwa", "isCorrect": false },
+        { "text": "C. Tingkat kebisingan area", "isCorrect": false },
+        { "text": "D. Harga peralatan baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "SCAT membantu investigator melihat penyebab kecelakaan secara berlapis dari penyebab langsung hingga?",
+      "explanation": "SCAT menelusuri penyebab berlapis sampai ke kelemahan pengendalian manajemen (lack of control), bukan berhenti pada penyebab permukaan.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Kelemahan sistem pengendalian manajemen", "isCorrect": true },
+        { "text": "B. Warna seragam korban", "isCorrect": false },
+        { "text": "C. Jadwal istirahat", "isCorrect": false },
+        { "text": "D. Lokasi kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Failure Mode and Effects Analysis (FMEA) berfokus pada?",
+      "explanation": "FMEA berfokus mengidentifikasi mode kegagalan (failure mode) suatu komponen/proses dan efeknya, lalu memprioritaskan risiko untuk dikendalikan.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Identifikasi mode kegagalan dan efeknya untuk memprioritaskan risiko", "isCorrect": true },
+        { "text": "B. Menghitung gaji lembur", "isCorrect": false },
+        { "text": "C. Menentukan menu kantin", "isCorrect": false },
+        { "text": "D. Mengukur suhu ruangan saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam FMEA, nilai prioritas risiko dihitung dengan rumus RPN, yaitu?",
+      "explanation": "RPN (Risk Priority Number) dihitung dengan mengalikan Severity x Occurrence x Detection.",
+      "difficulty": "HARD",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Severity + Occurrence + Detection", "isCorrect": false },
+        { "text": "B. Severity x Occurrence x Detection", "isCorrect": true },
+        { "text": "C. Severity - Occurrence - Detection", "isCorrect": false },
+        { "text": "D. Severity / Occurrence / Detection", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam FMEA, parameter 'Severity' menggambarkan?",
+      "explanation": "Severity dalam FMEA menggambarkan tingkat keparahan dampak/efek dari suatu mode kegagalan.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Tingkat keparahan dampak kegagalan", "isCorrect": true },
+        { "text": "B. Frekuensi kemunculan kegagalan", "isCorrect": false },
+        { "text": "C. Kemudahan mendeteksi kegagalan", "isCorrect": false },
+        { "text": "D. Biaya perbaikan kegagalan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam FMEA, parameter 'Occurrence' menggambarkan?",
+      "explanation": "Occurrence dalam FMEA menggambarkan frekuensi atau kemungkinan munculnya suatu mode kegagalan.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Frekuensi/kemungkinan munculnya kegagalan", "isCorrect": true },
+        { "text": "B. Keparahan dampak", "isCorrect": false },
+        { "text": "C. Kemudahan deteksi", "isCorrect": false },
+        { "text": "D. Lokasi kejadian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam FMEA, parameter 'Detection' menggambarkan?",
+      "explanation": "Detection dalam FMEA menggambarkan kemampuan/kemudahan sistem untuk mendeteksi suatu mode kegagalan sebelum berdampak.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Keparahan dampak kegagalan", "isCorrect": false },
+        { "text": "B. Frekuensi munculnya kegagalan", "isCorrect": false },
+        { "text": "C. Kemampuan mendeteksi kegagalan sebelum berdampak", "isCorrect": true },
+        { "text": "D. Jumlah pekerja yang terlibat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nilai RPN yang tinggi dalam FMEA menandakan?",
+      "explanation": "RPN yang tinggi menandakan mode kegagalan tersebut prioritas tinggi untuk segera dikendalikan karena risikonya besar.",
+      "difficulty": "HARD",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Risiko rendah yang bisa diabaikan", "isCorrect": false },
+        { "text": "B. Prioritas tinggi untuk segera dikendalikan", "isCorrect": true },
+        { "text": "C. Kegagalan yang tidak mungkin terjadi", "isCorrect": false },
+        { "text": "D. Biaya perbaikan yang murah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika suatu mode kegagalan memiliki Severity 8, Occurrence 5, dan Detection 4, berapa nilai RPN-nya?",
+      "explanation": "RPN = Severity x Occurrence x Detection = 8 x 5 x 4 = 160.",
+      "difficulty": "HARD",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. 17", "isCorrect": false },
+        { "text": "B. 160", "isCorrect": true },
+        { "text": "C. 40", "isCorrect": false },
+        { "text": "D. 320", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Skala penilaian Severity, Occurrence, dan Detection dalam FMEA umumnya menggunakan rentang?",
+      "explanation": "Parameter Severity, Occurrence, dan Detection dalam FMEA umumnya dinilai dengan skala 1 sampai 10.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. 1 sampai 10", "isCorrect": true },
+        { "text": "B. 0 sampai 1", "isCorrect": false },
+        { "text": "C. 1 sampai 100", "isCorrect": false },
+        { "text": "D. A sampai E", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "FMEA paling tepat dikategorikan sebagai metode analisis risiko yang bersifat?",
+      "explanation": "FMEA termasuk metode analisis kuantitatif/semi kuantitatif karena memberi nilai numerik (RPN) untuk memprioritaskan risiko kegagalan.",
+      "difficulty": "HARD",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Kualitatif murni tanpa angka", "isCorrect": false },
+        { "text": "B. Kuantitatif/semi kuantitatif (berbasis nilai numerik RPN)", "isCorrect": true },
+        { "text": "C. Tidak terstruktur", "isCorrect": false },
+        { "text": "D. Hanya berbasis opini", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Format laporan investigasi kecelakaan kerja di Indonesia mengacu pada?",
+      "explanation": "Format laporan investigasi kecelakaan kerja mengacu pada Permenaker No. 03/MEN Tahun 1998 tentang Tata Cara Pelaporan dan Pemeriksaan Kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Permenaker No. 03/MEN Tahun 1998", "isCorrect": true },
+        { "text": "B. Permenaker No. 5 Tahun 2018", "isCorrect": false },
+        { "text": "C. PP No. 50 Tahun 2012", "isCorrect": false },
+        { "text": "D. UU No. 13 Tahun 2003", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Permenaker No. 03/MEN Tahun 1998 mengatur tentang?",
+      "explanation": "Permenaker No. 03/MEN Tahun 1998 mengatur Tata Cara Pelaporan dan Pemeriksaan Kecelakaan Kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Tata cara pelaporan dan pemeriksaan kecelakaan", "isCorrect": true },
+        { "text": "B. Nilai ambang batas kebisingan", "isCorrect": false },
+        { "text": "C. Sistem manajemen K3", "isCorrect": false },
+        { "text": "D. Standar K3 perkantoran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk isi laporan investigasi kecelakaan kerja adalah?",
+      "explanation": "Isi laporan investigasi antara lain data umum, data korban, fakta yang didapat, uraian terjadinya kecelakaan, tipe kecelakaan, penyebab, dan tindakan lebih lanjut.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Data korban, fakta, uraian kejadian, penyebab, dan tindakan lanjut", "isCorrect": true },
+        { "text": "B. Hanya nama supervisor", "isCorrect": false },
+        { "text": "C. Hanya total kerugian finansial", "isCorrect": false },
+        { "text": "D. Daftar menu kantin perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian laporan investigasi yang menjelaskan kronologi kejadian disebut?",
+      "explanation": "Bagian 'Uraian Terjadinya Kecelakaan' menjelaskan kronologi/urutan bagaimana kecelakaan terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Data Umum", "isCorrect": false },
+        { "text": "B. Uraian Terjadinya Kecelakaan", "isCorrect": true },
+        { "text": "C. Data Korban", "isCorrect": false },
+        { "text": "D. Hal-hal Lain yang Perlu Dilaporkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rekomendasi tindakan perbaikan hasil investigasi disusun berdasarkan?",
+      "explanation": "Rekomendasi tindakan perbaikan disusun berdasarkan hirarki pengendalian: eliminasi, substitusi, engineering control, administrasi, dan APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Hirarki pengendalian risiko", "isCorrect": true },
+        { "text": "B. Urutan abjad nama korban", "isCorrect": false },
+        { "text": "C. Besar gaji pekerja", "isCorrect": false },
+        { "text": "D. Lokasi parkir kendaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan hirarki pengendalian dalam rekomendasi perbaikan investigasi yang benar adalah?",
+      "explanation": "Hirarki pengendalian: 01 Eliminasi, 02 Substitusi, 03 Engineering Control, 04 Administrasi, dan 05 Alat Pelindung Diri (APD).",
+      "difficulty": "HARD",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. APD, administrasi, engineering, substitusi, eliminasi", "isCorrect": false },
+        { "text": "B. Eliminasi, substitusi, engineering control, administrasi, APD", "isCorrect": true },
+        { "text": "C. Engineering, eliminasi, APD, substitusi, administrasi", "isCorrect": false },
+        { "text": "D. Substitusi, APD, eliminasi, administrasi, engineering", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam rekomendasi perbaikan, pemberian Alat Pelindung Diri (APD) berada pada posisi?",
+      "explanation": "APD berada pada posisi paling akhir/terbawah dalam hirarki pengendalian karena hanya melindungi individu tanpa menghilangkan sumber bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Paling atas (paling efektif)", "isCorrect": false },
+        { "text": "B. Paling akhir/terbawah", "isCorrect": true },
+        { "text": "C. Di atas eliminasi", "isCorrect": false },
+        { "text": "D. Di atas engineering control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap monitoring dan tindak lanjut dalam investigasi bertujuan untuk?",
+      "explanation": "Monitoring dan tindak lanjut memastikan rekomendasi dilaksanakan, menilai efektivitas tindakan korektif/preventif, dan mencegah kecelakaan berulang.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Memastikan rekomendasi dilaksanakan dan menilai efektivitasnya", "isCorrect": true },
+        { "text": "B. Menutup investigasi tanpa evaluasi", "isCorrect": false },
+        { "text": "C. Menghapus seluruh data kecelakaan", "isCorrect": false },
+        { "text": "D. Memberi sanksi kepada saksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat monitoring tindak lanjut investigasi adalah?",
+      "explanation": "Monitoring tindak lanjut bermanfaat untuk mengidentifikasi kelemahan pengendalian yang masih ada dan mengevaluasi peningkatan sistem K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Mengidentifikasi kelemahan pengendalian yang masih ada", "isCorrect": true },
+        { "text": "B. Menaikkan harga produk", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "D. Menyembunyikan data kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Monitoring tindak lanjut juga digunakan untuk menilai?",
+      "explanation": "Monitoring tindak lanjut menilai efektivitas tindakan korektif dan preventif serta kepatuhan terhadap SOP dan regulasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Efektivitas tindakan korektif dan preventif", "isCorrect": true },
+        { "text": "B. Jumlah jam lembur saja", "isCorrect": false },
+        { "text": "C. Selera makan pekerja", "isCorrect": false },
+        { "text": "D. Suhu udara luar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengurus perusahaan diwajibkan melaporkan tiap kecelakaan kerja kepada?",
+      "explanation": "Sesuai UU No 1 Tahun 1970, pengurus wajib melaporkan tiap kecelakaan kepada pejabat yang ditunjuk oleh Menteri Tenaga Kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Pejabat yang ditunjuk Menteri Tenaga Kerja", "isCorrect": true },
+        { "text": "B. Media massa lokal", "isCorrect": false },
+        { "text": "C. Pesaing perusahaan", "isCorrect": false },
+        { "text": "D. Pemegang saham asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemilihan metode analisis kecelakaan (5 Whys, FTA, ETA, dll.) sebaiknya disesuaikan dengan?",
+      "explanation": "Pemilihan metode analisis disesuaikan dengan kondisi kecelakaan dan prosedur perusahaan, karena tiap metode memiliki kelebihan untuk situasi yang berbeda.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Kondisi kecelakaan dan prosedur perusahaan", "isCorrect": true },
+        { "text": "B. Selera pribadi investigator semata", "isCorrect": false },
+        { "text": "C. Cuaca hari itu", "isCorrect": false },
+        { "text": "D. Warna seragam tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk metode analisis penyebab kecelakaan kerja, KECUALI?",
+      "explanation": "Metode analisis penyebab antara lain 5 Whys, Fishbone, FTA, ETA, SCAT, RCA, dan FMEA; sedangkan Permit to Work adalah sistem ijin kerja, bukan metode analisis penyebab.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Fault Tree Analysis (FTA)", "isCorrect": false },
+        { "text": "B. Permit to Work (Sistem Ijin Kerja)", "isCorrect": true },
+        { "text": "C. 5 Whys Analysis", "isCorrect": false },
+        { "text": "D. Fishbone Diagram", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah analisis penyebab selesai, tahap investigasi berikutnya adalah?",
+      "explanation": "Setelah analisis penyebab, tim menyusun rekomendasi tindakan perbaikan berdasarkan hirarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Menyusun rekomendasi tindakan perbaikan", "isCorrect": true },
+        { "text": "B. Mengulang tanggap darurat", "isCorrect": false },
+        { "text": "C. Membubarkan tim investigasi tanpa laporan", "isCorrect": false },
+        { "text": "D. Mengganti seluruh manajemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengumpulan fakta melalui wawancara saksi sebaiknya dilakukan dengan tujuan?",
+      "explanation": "Wawancara saksi bertujuan mendapatkan fakta objektif tentang kronologi kejadian, bukan untuk mencari pihak yang disalahkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Mendapatkan fakta objektif tentang kronologi kejadian", "isCorrect": true },
+        { "text": "B. Mencari pihak untuk dihukum", "isCorrect": false },
+        { "text": "C. Menakuti pekerja lain", "isCorrect": false },
+        { "text": "D. Memperpanjang waktu produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tindakan tidak aman (unsafe act) dan kondisi tidak aman (unsafe condition) umumnya tergolong sebagai?",
+      "explanation": "Unsafe act dan unsafe condition umumnya merupakan penyebab langsung (immediate cause) suatu kecelakaan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Penyebab langsung (immediate cause)", "isCorrect": true },
+        { "text": "B. Akar penyebab manajemen tertinggi", "isCorrect": false },
+        { "text": "C. Konsekuensi akhir", "isCorrect": false },
+        { "text": "D. Rekomendasi perbaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Investigasi kecelakaan yang baik berfokus pada perbaikan sistem, bukan menyalahkan individu, karena?",
+      "explanation": "Fokus pada perbaikan sistem mendorong pekerja jujur melaporkan fakta dan mencegah kecelakaan terulang, sedangkan menyalahkan individu justru menutupi akar penyebab sistemik.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Perbaikan sistem mencegah terulangnya kecelakaan dan mendorong keterbukaan pelaporan", "isCorrect": true },
+        { "text": "B. Individu selalu satu-satunya penyebab", "isCorrect": false },
+        { "text": "C. Sistem tidak pernah keliru", "isCorrect": false },
+        { "text": "D. Hukuman individu lebih murah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode investigasi yang menelusuri penyebab kecelakaan dengan diagram bercabang seperti tulang ikan adalah?",
+      "explanation": "Fishbone (Ishikawa) Diagram menggunakan bentuk diagram bercabang menyerupai tulang ikan untuk memetakan faktor penyebab.",
+      "difficulty": "EASY",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Fishbone Diagram", "isCorrect": true },
+        { "text": "B. Event Tree", "isCorrect": false },
+        { "text": "C. Bow-Tie", "isCorrect": false },
+        { "text": "D. Pareto", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode investigasi yang menggambarkan kombinasi penyebab dalam bentuk pohon dengan gerbang logika OR dan AND adalah?",
+      "explanation": "Fault Tree Analysis (FTA) menggambarkan kombinasi penyebab dalam struktur pohon dengan logic gate OR dan AND.",
+      "difficulty": "MEDIUM",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Fault Tree Analysis (FTA)", "isCorrect": true },
+        { "text": "B. 5 Whys", "isCorrect": false },
+        { "text": "C. SCAT", "isCorrect": false },
+        { "text": "D. Fishbone", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode yang berangkat dari kejadian awal lalu menelusuri kemungkinan rangkaian hasil ke depan adalah?",
+      "explanation": "Event Tree Analysis (ETA) berangkat dari initiating event (kejadian awal) dan menelusuri rangkaian konsekuensi ke depan secara induktif.",
+      "difficulty": "MEDIUM",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Event Tree Analysis (ETA)", "isCorrect": true },
+        { "text": "B. Fault Tree Analysis (FTA)", "isCorrect": false },
+        { "text": "C. RCA", "isCorrect": false },
+        { "text": "D. SCAT", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode investigasi yang berbasis nilai RPN untuk memprioritaskan mode kegagalan adalah?",
+      "explanation": "FMEA menggunakan RPN (Severity x Occurrence x Detection) untuk memprioritaskan mode kegagalan yang paling berisiko.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. FMEA (Failure Mode and Effects Analysis)", "isCorrect": true },
+        { "text": "B. Fishbone Diagram", "isCorrect": false },
+        { "text": "C. 5 Whys", "isCorrect": false },
+        { "text": "D. Event Tree", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode investigasi yang menelusuri rantai sebab dari kerugian, kejadian, penyebab langsung, penyebab dasar, hingga kelemahan kontrol adalah?",
+      "explanation": "SCAT (Systematic Cause Analysis Technique) menelusuri rantai Loss, Incident, Immediate Cause, Basic Cause, dan Lack of Control.",
+      "difficulty": "MEDIUM",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. SCAT (Systematic Cause Analysis Technique)", "isCorrect": true },
+        { "text": "B. FTA", "isCorrect": false },
+        { "text": "C. ETA", "isCorrect": false },
+        { "text": "D. JSA", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada tahap tanggap darurat, menghentikan pekerjaan berbahaya bertujuan untuk?",
+      "explanation": "Menghentikan pekerjaan berbahaya bertujuan mencegah kecelakaan lanjutan dan melindungi korban serta pekerja lain.",
+      "difficulty": "EASY",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Mencegah terjadinya kecelakaan lanjutan", "isCorrect": true },
+        { "text": "B. Menunda investigasi selamanya", "isCorrect": false },
+        { "text": "C. Menghapus barang bukti", "isCorrect": false },
+        { "text": "D. Mengurangi gaji pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Data umum dalam laporan investigasi kecelakaan biasanya memuat?",
+      "explanation": "Data umum laporan investigasi memuat informasi identitas perusahaan, lokasi, waktu kejadian, dan keterangan dasar lainnya.",
+      "difficulty": "EASY",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Identitas perusahaan, lokasi, dan waktu kejadian", "isCorrect": true },
+        { "text": "B. Resep makanan kantin", "isCorrect": false },
+        { "text": "C. Harga saham perusahaan", "isCorrect": false },
+        { "text": "D. Jadwal liburan karyawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian 'Tipe Kecelakaan' dalam laporan investigasi berfungsi untuk?",
+      "explanation": "Bagian 'Tipe Kecelakaan' mengklasifikasikan jenis kecelakaan (misalnya terjatuh, terjepit, terbakar) untuk keperluan analisis dan statistik.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Mengklasifikasikan jenis kecelakaan yang terjadi", "isCorrect": true },
+        { "text": "B. Menentukan gaji korban", "isCorrect": false },
+        { "text": "C. Menghitung pajak perusahaan", "isCorrect": false },
+        { "text": "D. Memilih warna seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi metode 5 Whys dan Fishbone sering dipakai bersama karena?",
+      "explanation": "Fishbone memetakan kategori faktor penyebab secara luas, lalu 5 Whys menggali setiap faktor sampai akar penyebabnya, sehingga keduanya saling melengkapi.",
+      "difficulty": "HARD",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Fishbone memetakan faktor luas, 5 Whys menggali sampai akar penyebab", "isCorrect": true },
+        { "text": "B. Keduanya menghitung biaya kecelakaan", "isCorrect": false },
+        { "text": "C. Keduanya hanya untuk mesin", "isCorrect": false },
+        { "text": "D. Keduanya menggantikan laporan resmi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa investigasi kecelakaan kerja penting bagi perbaikan berkelanjutan K3?",
+      "explanation": "Investigasi menemukan akar penyebab dan menghasilkan rekomendasi yang memperbaiki sistem K3 sehingga risiko kecelakaan serupa berkurang di masa depan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Karena menghasilkan rekomendasi perbaikan sistem yang mencegah kecelakaan serupa", "isCorrect": true },
+        { "text": "B. Karena menambah jumlah dokumen administratif", "isCorrect": false },
+        { "text": "C. Karena menaikkan target produksi", "isCorrect": false },
+        { "text": "D. Karena menghapus tanggung jawab manajemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan 6M+1E dalam pengumpulan data investigasi membantu memastikan bahwa?",
+      "explanation": "Pendekatan 6M+1E membantu memastikan seluruh kategori faktor penyebab (manusia, mesin, material, metode, manajemen, pengukuran, lingkungan) terinvestigasi secara menyeluruh.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Semua kategori faktor penyebab terinvestigasi secara menyeluruh", "isCorrect": true },
+        { "text": "B. Hanya faktor manusia yang diperiksa", "isCorrect": false },
+        { "text": "C. Investigasi selesai lebih cepat tanpa data", "isCorrect": false },
+        { "text": "D. Tidak perlu wawancara saksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam FTA, jika suatu top event memiliki dua basic event yang dihubungkan dengan AND Gate, maka pengendalian yang efektif adalah?",
+      "explanation": "Pada AND Gate kedua penyebab harus terjadi bersamaan, sehingga menghilangkan salah satu basic event saja sudah cukup untuk mencegah top event.",
+      "difficulty": "HARD",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Cukup menghilangkan salah satu basic event untuk mencegah top event", "isCorrect": true },
+        { "text": "B. Harus mengabaikan kedua penyebab", "isCorrect": false },
+        { "text": "C. Tidak ada pengendalian yang bisa dilakukan", "isCorrect": false },
+        { "text": "D. Menambah kedua penyebab agar seimbang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam ETA, keberhasilan safeguard pada cabang awal akan mengarahkan skenario ke?",
+      "explanation": "Jika safeguard berhasil, jalur ETA mengarah ke konsekuensi yang lebih ringan/aman; jika gagal, mengarah ke konsekuensi yang lebih parah.",
+      "difficulty": "HARD",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Konsekuensi yang lebih ringan/aman", "isCorrect": true },
+        { "text": "B. Konsekuensi paling parah", "isCorrect": false },
+        { "text": "C. Tidak ada konsekuensi sama sekali", "isCorrect": false },
+        { "text": "D. Penyebab dasar baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil investigasi yang tidak ditindaklanjuti dengan tindakan perbaikan akan menyebabkan?",
+      "explanation": "Tanpa tindak lanjut, akar penyebab tetap ada sehingga kecelakaan serupa berpotensi terulang kembali.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Kecelakaan serupa berpotensi terulang kembali", "isCorrect": true },
+        { "text": "B. Risiko otomatis hilang", "isCorrect": false },
+        { "text": "C. Produktivitas naik dengan sendirinya", "isCorrect": false },
+        { "text": "D. Sistem K3 langsung sempurna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk kecelakaan dengan sistem proses kompleks dan banyak komponen yang dapat gagal, metode analisis yang paling tepat adalah?",
+      "explanation": "FTA cocok untuk sistem kompleks karena dapat memetakan kombinasi banyak penyebab/komponen yang dapat gagal menuju satu top event.",
+      "difficulty": "HARD",
+      "tag": "Fault Tree & Event Tree Analysis",
+      "options": [
+        { "text": "A. Fault Tree Analysis (FTA)", "isCorrect": true },
+        { "text": "B. Wawancara tunggal", "isCorrect": false },
+        { "text": "C. Pengisian absensi", "isCorrect": false },
+        { "text": "D. Inspeksi APD saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam FMEA, jika dua mode kegagalan memiliki RPN sama tetapi salah satunya memiliki Severity lebih tinggi, prioritas sebaiknya diberikan pada?",
+      "explanation": "Mode kegagalan dengan Severity lebih tinggi sebaiknya diprioritaskan karena dampak keparahannya lebih serius meski RPN-nya sama.",
+      "difficulty": "HARD",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. Mode kegagalan dengan Severity lebih tinggi", "isCorrect": true },
+        { "text": "B. Mode kegagalan dengan Detection lebih rendah saja", "isCorrect": false },
+        { "text": "C. Diabaikan keduanya", "isCorrect": false },
+        { "text": "D. Mode kegagalan yang lebih murah diperbaiki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang waktu pelaksanaan investigasi kecelakaan kerja adalah?",
+      "explanation": "Investigasi dilakukan sesegera mungkin setelah kecelakaan dan setelah kondisi darurat ditangani, agar bukti dan keterangan masih valid.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Dilakukan sesegera mungkin setelah kondisi darurat ditangani", "isCorrect": true },
+        { "text": "B. Boleh ditunda hingga setahun", "isCorrect": false },
+        { "text": "C. Hanya dilakukan jika ada korban jiwa", "isCorrect": false },
+        { "text": "D. Dilakukan sebelum kecelakaan terjadi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat melibatkan perwakilan pekerja dalam tim investigasi adalah?",
+      "explanation": "Perwakilan pekerja memahami kondisi lapangan secara langsung, sehingga membantu mengungkap fakta dan penyebab yang akurat serta meningkatkan kepercayaan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tahapan Investigasi",
+      "options": [
+        { "text": "A. Membantu mengungkap fakta lapangan dan meningkatkan kepercayaan pekerja", "isCorrect": true },
+        { "text": "B. Mempercepat pemberian sanksi", "isCorrect": false },
+        { "text": "C. Mengurangi objektivitas data", "isCorrect": false },
+        { "text": "D. Menghindari pelaporan resmi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode RCA dianggap lebih unggul dari sekadar mencatat penyebab langsung karena?",
+      "explanation": "RCA menelusuri sampai akar penyebab, sehingga tindakan perbaikan menyasar sumber masalah dan lebih efektif mencegah kecelakaan terulang.",
+      "difficulty": "HARD",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Menyasar akar penyebab sehingga perbaikan lebih efektif mencegah pengulangan", "isCorrect": true },
+        { "text": "B. Hanya melihat gejala permukaan", "isCorrect": false },
+        { "text": "C. Tidak memerlukan data sama sekali", "isCorrect": false },
+        { "text": "D. Selalu menyalahkan korban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dokumentasi foto dan sketsa lokasi pada tahap pengumpulan data berguna untuk?",
+      "explanation": "Dokumentasi foto dan sketsa lokasi merekam kondisi nyata tempat kejadian sebagai bukti pendukung analisis penyebab.",
+      "difficulty": "EASY",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Merekam kondisi nyata lokasi sebagai bukti pendukung analisis", "isCorrect": true },
+        { "text": "B. Keperluan promosi perusahaan", "isCorrect": false },
+        { "text": "C. Menghias laporan saja", "isCorrect": false },
+        { "text": "D. Menggantikan wawancara saksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika investigasi menemukan akar penyebab berupa tidak adanya prosedur kerja aman, rekomendasi yang paling tepat menurut hirarki pengendalian adalah?",
+      "explanation": "Membuat dan menerapkan prosedur kerja aman termasuk pengendalian administratif yang menargetkan akar penyebab tersebut.",
+      "difficulty": "HARD",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Menyusun dan menerapkan prosedur kerja aman (pengendalian administratif)", "isCorrect": true },
+        { "text": "B. Memberi sanksi kepada korban", "isCorrect": false },
+        { "text": "C. Mengabaikan temuan", "isCorrect": false },
+        { "text": "D. Menambah jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Investigasi kecelakaan kerja yang efektif sebaiknya berbasis pada?",
+      "explanation": "Investigasi yang efektif berbasis fakta dan data objektif, bukan asumsi, agar penyebab dan rekomendasi tepat sasaran.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan Investigasi",
+      "options": [
+        { "text": "A. Fakta dan data objektif", "isCorrect": true },
+        { "text": "B. Asumsi dan dugaan", "isCorrect": false },
+        { "text": "C. Tekanan dari atasan", "isCorrect": false },
+        { "text": "D. Rumor antar pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam pendekatan 6M+1E, kondisi lantai licin di area kerja paling tepat dikelompokkan ke faktor?",
+      "explanation": "Lantai licin merupakan kondisi lingkungan kerja, sehingga termasuk faktor Environment dalam pendekatan 6M+1E.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengumpulan Data 6M+1E",
+      "options": [
+        { "text": "A. Environment (lingkungan)", "isCorrect": true },
+        { "text": "B. Management", "isCorrect": false },
+        { "text": "C. Measurement", "isCorrect": false },
+        { "text": "D. Material", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu output penting dari keseluruhan proses investigasi kecelakaan kerja adalah?",
+      "explanation": "Output penting investigasi adalah laporan investigasi yang memuat fakta, penyebab, dan rekomendasi tindakan perbaikan.",
+      "difficulty": "EASY",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Laporan investigasi berisi fakta, penyebab, dan rekomendasi perbaikan", "isCorrect": true },
+        { "text": "B. Daftar gaji seluruh pekerja", "isCorrect": false },
+        { "text": "C. Brosur pemasaran produk", "isCorrect": false },
+        { "text": "D. Jadwal cuti tahunan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode 5 Whys disebut '5 Whys' karena?",
+      "explanation": "Nama '5 Whys' berasal dari praktik umum mengajukan pertanyaan 'mengapa' sekitar lima kali untuk mencapai akar penyebab, meski jumlahnya bisa lebih atau kurang.",
+      "difficulty": "EASY",
+      "tag": "Metode 5 Whys, Fishbone & RCA",
+      "options": [
+        { "text": "A. Pertanyaan 'mengapa' umumnya diajukan sekitar lima kali hingga akar penyebab ditemukan", "isCorrect": true },
+        { "text": "B. Harus selalu tepat lima penyebab", "isCorrect": false },
+        { "text": "C. Hanya berlaku pada hari kelima", "isCorrect": false },
+        { "text": "D. Melibatkan lima orang investigator", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai hubungan SCAT dengan kelemahan manajemen adalah?",
+      "explanation": "SCAT secara eksplisit menelusuri sampai 'Lack of Control', menegaskan bahwa banyak kecelakaan berakar pada kelemahan pengendalian/sistem manajemen.",
+      "difficulty": "HARD",
+      "tag": "SCAT & FMEA",
+      "options": [
+        { "text": "A. SCAT menegaskan kecelakaan sering berakar pada kelemahan pengendalian manajemen", "isCorrect": true },
+        { "text": "B. SCAT mengabaikan peran manajemen", "isCorrect": false },
+        { "text": "C. SCAT hanya menilai cuaca", "isCorrect": false },
+        { "text": "D. SCAT tidak mengenal penyebab dasar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kecelakaan kerja sesuai Permenaker 03/1998 termasuk bagian dari kewajiban?",
+      "explanation": "Pelaporan dan pemeriksaan kecelakaan sesuai Permenaker 03/1998 merupakan kewajiban pengurus/perusahaan untuk memenuhi peraturan perundangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Pengurus/perusahaan untuk memenuhi peraturan perundangan", "isCorrect": true },
+        { "text": "B. Korban secara pribadi", "isCorrect": false },
+        { "text": "C. Pihak media", "isCorrect": false },
+        { "text": "D. Pelanggan perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari rangkaian investigasi, pelaporan, dan tindak lanjut kecelakaan kerja adalah?",
+      "explanation": "Tujuan akhir keseluruhan proses adalah mencegah kecelakaan terulang dan meningkatkan sistem keselamatan dan kesehatan kerja.",
+      "difficulty": "EASY",
+      "tag": "Laporan Investigasi & Tindak Lanjut",
+      "options": [
+        { "text": "A. Mencegah kecelakaan terulang dan meningkatkan sistem K3", "isCorrect": true },
+        { "text": "B. Menambah dokumen arsip semata", "isCorrect": false },
+        { "text": "C. Memberi hukuman maksimal pada korban", "isCorrect": false },
+        { "text": "D. Menutup perusahaan", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Definisi kecelakaan kerja menurut ILO", "back": "Kejadian yang tidak terduga, tidak direncanakan, dan tidak diinginkan yang terjadi saat seseorang menjalankan pekerjaannya.", "tag": "Definisi Kecelakaan Kerja" },
+    { "front": "Definisi kecelakaan kerja menurut UU No 1 Tahun 1970", "back": "Kejadian tak terduga dan tidak dikehendaki yang mengacaukan proses kerja serta berpotensi menimbulkan kerugian korban manusia atau harta benda.", "tag": "Definisi Kecelakaan Kerja" },
+    { "front": "Pengertian investigasi kecelakaan kerja", "back": "Rangkaian kegiatan untuk mencari penyebab utama suatu kecelakaan dan menentukan tindakan perbaikan yang tepat setelah ditemukan fakta penyebabnya.", "tag": "Definisi & Tujuan Investigasi" },
+    { "front": "Empat tujuan investigasi kecelakaan kerja", "back": "Menemukan bagaimana & mengapa kecelakaan terjadi, mencegah terulang, menentukan tindakan perbaikan, dan memenuhi peraturan perundangan.", "tag": "Definisi & Tujuan Investigasi" },
+    { "front": "Kapan investigasi dilakukan dan mengapa", "back": "Sesegera mungkin setelah kecelakaan agar bukti tidak hilang karena perubahan cuaca, relokasi barang bukti, dan keterbatasan daya ingat saksi.", "tag": "Definisi & Tujuan Investigasi" },
+    { "front": "Tahapan investigasi kecelakaan kerja", "back": "Tanggap darurat, pembentukan tim, pengumpulan data, analisis penyebab, penyusunan rekomendasi, pelaporan, lalu monitoring & tindak lanjut.", "tag": "Tahapan Investigasi" },
+    { "front": "Anggota tim investigasi", "back": "Ahli K3, supervisor, teknisi, tim P2K3, perwakilan pekerja, dan manajemen.", "tag": "Tahapan Investigasi" },
+    { "front": "Pendekatan 6M+1E", "back": "Man, Machine, Material, Method, Management, Measurement, dan Environment — kerangka pengumpulan data fakta kecelakaan.", "tag": "Pengumpulan Data 6M+1E" },
+    { "front": "Metode 5 Whys Analysis", "back": "Menemukan akar penyebab dengan bertanya 'mengapa' secara berulang berdasarkan fakta hingga root cause ditemukan.", "tag": "Metode 5 Whys, Fishbone & RCA" },
+    { "front": "Fishbone (Ishikawa) Diagram", "back": "Metode mengidentifikasi berbagai faktor penyebab kecelakaan secara sistematis dalam bentuk diagram menyerupai tulang ikan.", "tag": "Metode 5 Whys, Fishbone & RCA" },
+    { "front": "Root Cause Analysis (RCA)", "back": "Metode menemukan akar penyebab utama suatu kecelakaan agar tindakan perbaikan tepat sasaran dan kecelakaan tidak terulang.", "tag": "Metode 5 Whys, Fishbone & RCA" },
+    { "front": "Langkah RCA", "back": "Tentukan kejadian, kumpulkan fakta, identifikasi penyebab langsung, telusuri akar penyebab, tentukan tindakan perbaikan, monitoring & evaluasi.", "tag": "Metode 5 Whys, Fishbone & RCA" },
+    { "front": "Fault Tree Analysis (FTA)", "back": "Metode deduktif yang mengidentifikasi kombinasi penyebab yang dapat menimbulkan top event/kegagalan sistem.", "tag": "Fault Tree & Event Tree Analysis" },
+    { "front": "Komponen FTA", "back": "Top Event, Intermediate Event, Basic Event (root cause), dan Logic Gate (OR Gate & AND Gate).", "tag": "Fault Tree & Event Tree Analysis" },
+    { "front": "OR Gate vs AND Gate (FTA)", "back": "OR Gate: top event terjadi jika salah satu penyebab terjadi. AND Gate: top event terjadi jika seluruh penyebab terjadi bersamaan.", "tag": "Fault Tree & Event Tree Analysis" },
+    { "front": "Event Tree Analysis (ETA)", "back": "Metode induktif yang menelusuri rangkaian konsekuensi yang mungkin terjadi setelah suatu initiating event, tergantung berhasil/gagalnya safeguard.", "tag": "Fault Tree & Event Tree Analysis" },
+    { "front": "SCAT (Systematic Cause Analysis Technique)", "back": "Menelusuri penyebab kecelakaan secara berlapis: Loss, Incident, Immediate Cause, Basic Cause, dan Lack of Control.", "tag": "SCAT & FMEA" },
+    { "front": "FMEA (Failure Mode and Effects Analysis)", "back": "Mengidentifikasi mode kegagalan dan efeknya, lalu memprioritaskan risiko dengan RPN.", "tag": "SCAT & FMEA" },
+    { "front": "Rumus RPN dalam FMEA", "back": "RPN = Severity x Occurrence x Detection; nilai tinggi berarti prioritas tinggi untuk dikendalikan.", "tag": "SCAT & FMEA" },
+    { "front": "Format laporan investigasi & dasar hukum", "back": "Mengacu Permenaker No. 03/MEN Tahun 1998; isi: data umum, data korban, fakta, uraian kejadian, tipe kecelakaan, penyebab, tindakan lanjut.", "tag": "Laporan Investigasi & Tindak Lanjut" },
+    { "front": "Hirarki pengendalian rekomendasi perbaikan", "back": "Eliminasi, Substitusi, Engineering Control, Administrasi, dan Alat Pelindung Diri (APD).", "tag": "Laporan Investigasi & Tindak Lanjut" },
+    { "front": "Tujuan monitoring & tindak lanjut", "back": "Memastikan rekomendasi dilaksanakan, menilai efektivitas tindakan korektif/preventif, dan mencegah kecelakaan berulang.", "tag": "Laporan Investigasi & Tindak Lanjut" }
+  ],
+  "mindmap": [
+    { "id": "investigasi-kecelakaan-kerja", "label": "Investigasi Kecelakaan Kerja", "color": "#6366f1", "parent": null, "content": "Rangkaian kegiatan sistematis untuk menemukan fakta dan akar penyebab kecelakaan serta menentukan tindakan perbaikan agar tidak terulang." },
+
+    { "id": "definisi-kecelakaan", "label": "Definisi Kecelakaan Kerja", "color": "#8b5cf6", "parent": "investigasi-kecelakaan-kerja", "content": "Kecelakaan kerja adalah kejadian tak terduga dan tidak dikehendaki saat bekerja yang berpotensi menimbulkan kerugian." },
+    { "id": "def-ilo", "label": "Menurut ILO", "color": "#8b5cf6", "parent": "definisi-kecelakaan", "content": "Kejadian tidak terduga, tidak direncanakan, dan tidak diinginkan yang terjadi saat seseorang menjalankan pekerjaannya." },
+    { "id": "def-uu1-1970", "label": "Menurut UU No 1/1970", "color": "#8b5cf6", "parent": "definisi-kecelakaan", "content": "Kejadian tak terduga dan tidak dikehendaki yang mengacaukan proses kerja serta berpotensi merugikan manusia atau harta benda." },
+
+    { "id": "tujuan-investigasi", "label": "Definisi & Tujuan", "color": "#0ea5e9", "parent": "investigasi-kecelakaan-kerja", "content": "Investigasi mencari penyebab utama kecelakaan dan menentukan tindakan perbaikan yang tepat." },
+    { "id": "tuj-cegah-ulang", "label": "Mencegah Terulang", "color": "#0ea5e9", "parent": "tujuan-investigasi", "content": "Tujuan utama investigasi adalah mencegah kecelakaan serupa terjadi kembali di masa depan." },
+    { "id": "tuj-perbaikan", "label": "Tindakan Perbaikan", "color": "#0ea5e9", "parent": "tujuan-investigasi", "content": "Menentukan tindakan korektif dan preventif berdasarkan fakta dan penyebab yang ditemukan." },
+    { "id": "tuj-regulasi", "label": "Memenuhi Regulasi", "color": "#0ea5e9", "parent": "tujuan-investigasi", "content": "Memenuhi peraturan perundangan, termasuk kewajiban pelaporan kecelakaan kerja." },
+    { "id": "waktu-investigasi", "label": "Dilakukan Segera", "color": "#0ea5e9", "parent": "tujuan-investigasi", "content": "Dilakukan sesegera mungkin agar bukti tidak hilang akibat cuaca, relokasi barang bukti, dan keterbatasan daya ingat saksi." },
+
+    { "id": "tahapan", "label": "Tahapan Investigasi", "color": "#10b981", "parent": "investigasi-kecelakaan-kerja", "content": "Urutan langkah dari tanggap darurat hingga monitoring tindak lanjut." },
+    { "id": "tahap-darurat", "label": "Tanggap Darurat", "color": "#10b981", "parent": "tahapan", "content": "Pertolongan pertama, menghentikan pekerjaan berbahaya, mengamankan area, dan menjaga barang bukti." },
+    { "id": "tahap-tim", "label": "Pembentukan Tim", "color": "#10b981", "parent": "tahapan", "content": "Tim berisi ahli K3, supervisor, teknisi, P2K3, dan perwakilan pekerja untuk mengumpulkan bukti dan menganalisis." },
+    { "id": "tahap-analisis", "label": "Analisis Penyebab", "color": "#10b981", "parent": "tahapan", "content": "Menganalisis penyebab dengan metode seperti 5 Whys, Fishbone, FTA, ETA, SCAT, RCA, atau FMEA sesuai kondisi." },
+    { "id": "tahap-rekomendasi", "label": "Rekomendasi Perbaikan", "color": "#10b981", "parent": "tahapan", "content": "Menyusun rekomendasi berdasarkan hirarki pengendalian: eliminasi, substitusi, engineering, administrasi, APD." },
+
+    { "id": "data-6m1e", "label": "Pengumpulan Data 6M+1E", "color": "#f59e0b", "parent": "investigasi-kecelakaan-kerja", "content": "Kerangka pengumpulan fakta: Man, Machine, Material, Method, Management, Measurement, Environment." },
+    { "id": "data-man", "label": "Man", "color": "#f59e0b", "parent": "data-6m1e", "content": "Faktor manusia: perilaku, kompetensi, dan kondisi fisik pekerja yang terlibat." },
+    { "id": "data-machine", "label": "Machine", "color": "#f59e0b", "parent": "data-6m1e", "content": "Faktor mesin/peralatan produksi yang dapat berkontribusi pada kecelakaan." },
+    { "id": "data-method", "label": "Method", "color": "#f59e0b", "parent": "data-6m1e", "content": "Faktor metode/cara kerja, prosedur, dan SOP yang digunakan." },
+    { "id": "data-environment", "label": "Environment", "color": "#f59e0b", "parent": "data-6m1e", "content": "Faktor lingkungan kerja seperti pencahayaan, kebisingan, dan kondisi lantai." },
+    { "id": "data-measurement", "label": "Measurement", "color": "#f59e0b", "parent": "data-6m1e", "content": "Faktor pengukuran dan kalibrasi alat ukur yang relevan dengan kejadian." },
+
+    { "id": "metode-dasar", "label": "5 Whys, Fishbone & RCA", "color": "#ef4444", "parent": "investigasi-kecelakaan-kerja", "content": "Metode kualitatif untuk menelusuri akar penyebab kecelakaan." },
+    { "id": "m-5why", "label": "5 Whys", "color": "#ef4444", "parent": "metode-dasar", "content": "Bertanya 'mengapa' berulang berdasarkan fakta hingga ditemukan akar penyebab." },
+    { "id": "m-fishbone", "label": "Fishbone (Ishikawa)", "color": "#ef4444", "parent": "metode-dasar", "content": "Diagram tulang ikan untuk memetakan berbagai faktor penyebab secara sistematis, sering memakai kategori 6M+1E." },
+    { "id": "m-rca", "label": "Root Cause Analysis", "color": "#ef4444", "parent": "metode-dasar", "content": "Menelusuri dari penyebab langsung hingga akar penyebab utama agar perbaikan tepat sasaran." },
+
+    { "id": "metode-pohon", "label": "FTA & ETA", "color": "#ec4899", "parent": "investigasi-kecelakaan-kerja", "content": "Metode berbasis diagram pohon untuk menganalisis penyebab dan konsekuensi." },
+    { "id": "p-fta", "label": "Fault Tree Analysis", "color": "#ec4899", "parent": "metode-pohon", "content": "Deduktif: dari top event ditelusuri ke basic event melalui logic gate untuk menemukan kombinasi penyebab." },
+    { "id": "p-fta-gate", "label": "OR & AND Gate", "color": "#ec4899", "parent": "p-fta", "content": "OR Gate: top event terjadi jika salah satu penyebab terjadi. AND Gate: top event terjadi jika semua penyebab terjadi bersamaan." },
+    { "id": "p-eta", "label": "Event Tree Analysis", "color": "#ec4899", "parent": "metode-pohon", "content": "Induktif: dari initiating event ditelusuri rangkaian konsekuensi tergantung berhasil/gagalnya safeguard." },
+
+    { "id": "metode-scat-fmea", "label": "SCAT & FMEA", "color": "#14b8a6", "parent": "investigasi-kecelakaan-kerja", "content": "Metode sistematis dan kuantitatif untuk analisis penyebab dan prioritas risiko." },
+    { "id": "sf-scat", "label": "SCAT", "color": "#14b8a6", "parent": "metode-scat-fmea", "content": "Menelusuri Loss, Incident, Immediate Cause, Basic Cause, dan Lack of Control (kelemahan pengendalian manajemen)." },
+    { "id": "sf-fmea", "label": "FMEA", "color": "#14b8a6", "parent": "metode-scat-fmea", "content": "Mengidentifikasi mode kegagalan dan efeknya, lalu memprioritaskan dengan RPN." },
+    { "id": "sf-rpn", "label": "RPN", "color": "#14b8a6", "parent": "sf-fmea", "content": "Risk Priority Number = Severity x Occurrence x Detection; nilai tinggi berarti prioritas pengendalian tinggi." },
+
+    { "id": "laporan", "label": "Laporan & Tindak Lanjut", "color": "#8b5cf6", "parent": "investigasi-kecelakaan-kerja", "content": "Pelaporan hasil investigasi dan pemantauan pelaksanaan rekomendasi." },
+    { "id": "lap-permenaker", "label": "Permenaker 03/1998", "color": "#8b5cf6", "parent": "laporan", "content": "Dasar hukum format laporan: tata cara pelaporan dan pemeriksaan kecelakaan kerja." },
+    { "id": "lap-isi", "label": "Isi Laporan", "color": "#8b5cf6", "parent": "laporan", "content": "Data umum, data korban, fakta, uraian kejadian, tipe kecelakaan, penyebab, dan tindakan lebih lanjut." },
+    { "id": "lap-monitoring", "label": "Monitoring", "color": "#8b5cf6", "parent": "laporan", "content": "Memastikan rekomendasi dilaksanakan, menilai efektivitas tindakan korektif/preventif, dan mencegah pengulangan." }
+  ]
+}

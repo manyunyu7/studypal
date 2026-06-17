@@ -1,0 +1,1463 @@
+{
+  "topic": "Dasar Hukum dan Konsep K3",
+  "order": 1,
+  "description": "Dasar hukum dan konsep Keselamatan dan Kesehatan Kerja (K3) mencakup pengertian K3, landasan hukum di Indonesia, serta tujuan, persyaratan, dan kewajiban yang diatur dalam UU No. 1 Tahun 1970. Pemahaman ini menjadi fondasi penerapan K3 untuk melindungi tenaga kerja dan meningkatkan produktivitas.",
+  "subtopics": [
+    "Pengertian K3",
+    "Dasar Hukum K3 di Indonesia",
+    "Tujuan Keselamatan Kerja",
+    "Latar Belakang Pentingnya K3",
+    "Struktur 11 Bab UU No. 1 Tahun 1970",
+    "Istilah & Ruang Lingkup",
+    "Persyaratan Keselamatan Kerja",
+    "Kewajiban & Hak Tenaga Kerja",
+    "Kewajiban Pengurus & P2K3"
+  ],
+  "questions": [
+    {
+      "text": "Menurut PP No. 50 Tahun 2012 pasal 1 ayat 2, K3 didefinisikan sebagai?",
+      "explanation": "PP No. 50 Tahun 2012 mendefinisikan K3 sebagai segala kegiatan untuk menjamin dan melindungi keselamatan dan kesehatan tenaga kerja melalui upaya pencegahan kecelakaan kerja dan penyakit akibat kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengertian K3",
+      "options": [
+        { "text": "A. Upaya menyembuhkan pekerja yang sakit di tempat kerja", "isCorrect": false },
+        { "text": "B. Segala kegiatan untuk menjamin dan melindungi keselamatan dan kesehatan tenaga kerja melalui pencegahan kecelakaan dan penyakit akibat kerja", "isCorrect": true },
+        { "text": "C. Pemberian asuransi kepada tenaga kerja", "isCorrect": false },
+        { "text": "D. Pengawasan terhadap jam kerja karyawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peraturan yang menjadi acuan pengertian K3 dalam Sistem Manajemen K3 (SMK3) adalah?",
+      "explanation": "Pengertian K3 mengacu pada PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3).",
+      "difficulty": "EASY",
+      "tag": "Pengertian K3",
+      "options": [
+        { "text": "A. UU No. 13 Tahun 2003", "isCorrect": false },
+        { "text": "B. PP No. 50 Tahun 2012", "isCorrect": true },
+        { "text": "C. Permenaker No. 5 Tahun 2018", "isCorrect": false },
+        { "text": "D. Permenkes No. 48 Tahun 2016", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan K3 dalam konteks ketenagakerjaan adalah?",
+      "explanation": "K3 adalah singkatan dari Keselamatan dan Kesehatan Kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengertian K3",
+      "options": [
+        { "text": "A. Keamanan, Kebersihan, dan Ketertiban", "isCorrect": false },
+        { "text": "B. Keselamatan dan Kesehatan Kerja", "isCorrect": true },
+        { "text": "C. Kesejahteraan dan Keselamatan Karyawan", "isCorrect": false },
+        { "text": "D. Kebijakan Keselamatan Kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya pencegahan dalam definisi K3 ditujukan terhadap dua hal utama, yaitu?",
+      "explanation": "K3 menekankan pencegahan kecelakaan kerja dan penyakit akibat kerja (PAK) sebagai inti perlindungan tenaga kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengertian K3",
+      "options": [
+        { "text": "A. Kecelakaan kerja dan penyakit akibat kerja", "isCorrect": true },
+        { "text": "B. Kemiskinan dan pengangguran", "isCorrect": false },
+        { "text": "C. Kerusakan mesin dan kebakaran saja", "isCorrect": false },
+        { "text": "D. Pemogokan dan konflik kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Objek utama yang dilindungi dalam penerapan K3 adalah?",
+      "explanation": "K3 bertujuan menjamin dan melindungi keselamatan dan kesehatan tenaga kerja sebagai objek utama perlindungan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian K3",
+      "options": [
+        { "text": "A. Keuntungan perusahaan", "isCorrect": false },
+        { "text": "B. Tenaga kerja", "isCorrect": true },
+        { "text": "C. Pemilik modal", "isCorrect": false },
+        { "text": "D. Konsumen produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Undang-undang yang khusus mengatur tentang Keselamatan Kerja di Indonesia adalah?",
+      "explanation": "UU No. 1 Tahun 1970 adalah undang-undang yang khusus mengatur tentang Keselamatan Kerja di Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. UU No. 13 Tahun 2003", "isCorrect": false },
+        { "text": "B. UU No. 1 Tahun 1970", "isCorrect": true },
+        { "text": "C. UU No. 3 Tahun 1992", "isCorrect": false },
+        { "text": "D. UU No. 23 Tahun 1992", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Landasan konstitusional K3 yang menjamin hak setiap warga negara atas pekerjaan dan penghidupan yang layak terdapat dalam?",
+      "explanation": "UUD 1945 pasal 27 ayat 2 menjadi landasan konstitusional K3 yang menjamin hak warga negara atas pekerjaan dan penghidupan yang layak.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. UUD 1945 pasal 27 ayat 2", "isCorrect": true },
+        { "text": "B. UUD 1945 pasal 33 ayat 1", "isCorrect": false },
+        { "text": "C. UUD 1945 pasal 28 ayat 1", "isCorrect": false },
+        { "text": "D. UUD 1945 pasal 31 ayat 1", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Undang-undang yang mengatur tentang Ketenagakerjaan secara umum dan menjadi salah satu dasar hukum K3 adalah?",
+      "explanation": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan menjadi salah satu dasar hukum penyelenggaraan K3 di Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. UU No. 1 Tahun 1970", "isCorrect": false },
+        { "text": "B. UU No. 13 Tahun 2003", "isCorrect": true },
+        { "text": "C. UU No. 11 Tahun 2020", "isCorrect": false },
+        { "text": "D. UU No. 21 Tahun 2000", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peraturan Pemerintah yang mengatur tentang Penerapan Sistem Manajemen K3 (SMK3) adalah?",
+      "explanation": "PP No. 50 Tahun 2012 mengatur tentang penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3).",
+      "difficulty": "EASY",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. PP No. 50 Tahun 2012", "isCorrect": true },
+        { "text": "B. PP No. 7 Tahun 1973", "isCorrect": false },
+        { "text": "C. PP No. 11 Tahun 1979", "isCorrect": false },
+        { "text": "D. PP No. 44 Tahun 2015", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Permenaker No. 5 Tahun 2018 mengatur tentang?",
+      "explanation": "Permenaker No. 5 Tahun 2018 mengatur tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. K3 Lingkungan Kerja", "isCorrect": true },
+        { "text": "B. Sistem Manajemen K3", "isCorrect": false },
+        { "text": "C. Pelaporan Kecelakaan Kerja", "isCorrect": false },
+        { "text": "D. K3 Perkantoran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peraturan yang mengatur Standar K3 Perkantoran adalah?",
+      "explanation": "Permenkes RI No. 48 Tahun 2016 mengatur tentang Standar Keselamatan dan Kesehatan Kerja Perkantoran.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. Permenkes No. 70 Tahun 2016", "isCorrect": false },
+        { "text": "B. Permenkes No. 48 Tahun 2016", "isCorrect": true },
+        { "text": "C. Permenaker No. 5 Tahun 2018", "isCorrect": false },
+        { "text": "D. PP No. 50 Tahun 2012", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar internasional yang mengatur Sistem Manajemen Keselamatan dan Kesehatan Kerja (Occupational Health & Safety Management System) adalah?",
+      "explanation": "ISO 45001 adalah standar internasional tentang Occupational Health & Safety Management System (Sistem Manajemen K3).",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. ISO 9001", "isCorrect": false },
+        { "text": "B. ISO 14001", "isCorrect": false },
+        { "text": "C. ISO 45001", "isCorrect": true },
+        { "text": "D. ISO 27001", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar internasional ISO 45001 berkaitan dengan sistem manajemen di bidang?",
+      "explanation": "ISO 45001 berkaitan dengan sistem manajemen Keselamatan dan Kesehatan Kerja (Occupational Health & Safety).",
+      "difficulty": "EASY",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. Mutu produk", "isCorrect": false },
+        { "text": "B. Lingkungan hidup", "isCorrect": false },
+        { "text": "C. Keselamatan dan kesehatan kerja", "isCorrect": true },
+        { "text": "D. Keamanan informasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN merupakan dasar hukum K3 di Indonesia adalah?",
+      "explanation": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen bukan dasar hukum K3; dasar hukum K3 meliputi UUD 1945 ps 27(2), UU No. 1/1970, UU No. 13/2003, PP No. 50/2012, dan Permenaker No. 5/2018.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. UU No. 1 Tahun 1970", "isCorrect": false },
+        { "text": "B. PP No. 50 Tahun 2012", "isCorrect": false },
+        { "text": "C. UU No. 8 Tahun 1999 tentang Perlindungan Konsumen", "isCorrect": true },
+        { "text": "D. Permenaker No. 5 Tahun 2018", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Permenkes RI No. 48 Tahun 2016 secara khusus menetapkan standar K3 untuk lingkungan?",
+      "explanation": "Permenkes No. 48 Tahun 2016 menetapkan standar K3 untuk lingkungan perkantoran.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. Pertambangan", "isCorrect": false },
+        { "text": "B. Perkantoran", "isCorrect": true },
+        { "text": "C. Konstruksi", "isCorrect": false },
+        { "text": "D. Pelayaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan utama implementasi keselamatan kerja menurut UU No. 1 Tahun 1970 adalah perlindungan, yaitu?",
+      "explanation": "Tujuan perlindungan adalah melindungi keselamatan setiap tenaga kerja dan orang lain yang berada di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Melindungi keuntungan perusahaan saja", "isCorrect": false },
+        { "text": "B. Melindungi keselamatan setiap tenaga kerja dan orang lain di tempat kerja", "isCorrect": true },
+        { "text": "C. Melindungi mesin dari kerusakan", "isCorrect": false },
+        { "text": "D. Melindungi pemilik dari tuntutan hukum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan keselamatan kerja menurut UU No. 1 Tahun 1970 terkait sumber produksi adalah?",
+      "explanation": "Tujuan jaminan adalah menjamin setiap sumber produksi dapat digunakan secara aman dan efisien.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Memperbanyak jumlah sumber produksi", "isCorrect": false },
+        { "text": "B. Menjamin setiap sumber produksi dapat digunakan secara aman dan efisien", "isCorrect": true },
+        { "text": "C. Menjual sumber produksi yang tidak terpakai", "isCorrect": false },
+        { "text": "D. Mengurangi penggunaan sumber produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan keselamatan kerja menurut UU No. 1 Tahun 1970 berkaitan dengan kesejahteraan, yaitu?",
+      "explanation": "Tujuan produktivitas adalah meningkatkan kesejahteraan dan produktivitas kerja.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Meningkatkan kesejahteraan dan produktivitas kerja", "isCorrect": true },
+        { "text": "B. Menurunkan upah tenaga kerja", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah tenaga kerja", "isCorrect": false },
+        { "text": "D. Menambah jam lembur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tiga tujuan utama keselamatan kerja menurut UU No. 1 Tahun 1970 adalah?",
+      "explanation": "Tiga tujuan utama keselamatan kerja adalah perlindungan, jaminan (atas sumber produksi yang aman), dan produktivitas/kesejahteraan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Keuntungan, ekspansi, dan efisiensi", "isCorrect": false },
+        { "text": "B. Perlindungan, jaminan sumber produksi, dan produktivitas", "isCorrect": true },
+        { "text": "C. Hukuman, denda, dan sanksi", "isCorrect": false },
+        { "text": "D. Rekrutmen, pelatihan, dan promosi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan sumber produksi secara 'aman dan efisien' dalam tujuan K3 berarti?",
+      "explanation": "Aman dan efisien berarti sumber produksi (mesin, alat, bahan) digunakan tanpa menimbulkan kecelakaan sekaligus tidak boros/optimal.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Digunakan terus-menerus tanpa henti", "isCorrect": false },
+        { "text": "B. Digunakan tanpa menimbulkan kecelakaan sekaligus optimal/tidak boros", "isCorrect": true },
+        { "text": "C. Digunakan oleh sebanyak mungkin pekerja", "isCorrect": false },
+        { "text": "D. Disimpan agar tidak rusak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain tenaga kerja, perlindungan keselamatan kerja menurut UU No. 1 Tahun 1970 juga mencakup?",
+      "explanation": "Perlindungan ditujukan kepada keselamatan tenaga kerja dan orang lain yang berada di tempat kerja, misalnya tamu atau kontraktor.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Hanya pemilik perusahaan", "isCorrect": false },
+        { "text": "B. Orang lain yang berada di tempat kerja", "isCorrect": true },
+        { "text": "C. Hanya pengawas pemerintah", "isCorrect": false },
+        { "text": "D. Hanya pekerja tetap, bukan kontrak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut data ILO tahun 2013, jumlah pekerja yang mengalami penyakit akibat kerja setiap tahun adalah?",
+      "explanation": "Menurut ILO 2013, sekitar 160 juta pekerja mengalami penyakit akibat kerja setiap tahun.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang Pentingnya K3",
+      "options": [
+        { "text": "A. 16 juta pekerja", "isCorrect": false },
+        { "text": "B. 160 juta pekerja", "isCorrect": true },
+        { "text": "C. 1,6 juta pekerja", "isCorrect": false },
+        { "text": "D. 1,6 miliar pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ILO 2013, setiap 15 detik terjadi peristiwa berupa?",
+      "explanation": "Menurut ILO 2013, setiap 15 detik 1 pekerja meninggal akibat kecelakaan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang Pentingnya K3",
+      "options": [
+        { "text": "A. 1 pekerja meninggal akibat kecelakaan kerja", "isCorrect": true },
+        { "text": "B. 1 perusahaan bangkrut", "isCorrect": false },
+        { "text": "C. 1 mesin rusak", "isCorrect": false },
+        { "text": "D. 1 pekerja pensiun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Organisasi internasional yang menjadi rujukan data latar belakang pentingnya K3 adalah?",
+      "explanation": "ILO (International Labour Organization) menjadi rujukan data global terkait kecelakaan dan penyakit akibat kerja.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang Pentingnya K3",
+      "options": [
+        { "text": "A. WHO", "isCorrect": false },
+        { "text": "B. ILO (International Labour Organization)", "isCorrect": true },
+        { "text": "C. UNICEF", "isCorrect": false },
+        { "text": "D. UNESCO", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu dampak kecelakaan kerja terhadap organisasi yang menjadi latar belakang pentingnya K3 adalah?",
+      "explanation": "Kecelakaan kerja dapat menurunkan produktivitas kerja dan merusak nama baik organisasi/perusahaan.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang Pentingnya K3",
+      "options": [
+        { "text": "A. Penurunan produktivitas dan rusaknya nama baik organisasi", "isCorrect": true },
+        { "text": "B. Kenaikan harga saham", "isCorrect": false },
+        { "text": "C. Bertambahnya jumlah pelanggan", "isCorrect": false },
+        { "text": "D. Meningkatnya keuntungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kerugian akibat kecelakaan kerja yang menjadi latar belakang pentingnya K3 antara lain?",
+      "explanation": "Kerugian meliputi besarnya kerugian harta benda, biaya medis, dan biaya perbaikan peralatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang Pentingnya K3",
+      "options": [
+        { "text": "A. Kerugian harta benda, biaya medis, dan perbaikan peralatan", "isCorrect": true },
+        { "text": "B. Kenaikan pajak perusahaan", "isCorrect": false },
+        { "text": "C. Penurunan harga bahan baku", "isCorrect": false },
+        { "text": "D. Bertambahnya hari libur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa penerapan K3 dianggap penting di tempat kerja berdasarkan data ILO?",
+      "explanation": "K3 penting karena tingginya angka penyakit akibat kerja dan kematian akibat kecelakaan kerja, serta besarnya kerugian yang ditimbulkan.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang Pentingnya K3",
+      "options": [
+        { "text": "A. Karena diwajibkan oleh konsumen", "isCorrect": false },
+        { "text": "B. Karena tingginya angka PAK, kematian akibat kecelakaan, dan kerugian yang ditimbulkan", "isCorrect": true },
+        { "text": "C. Karena tren teknologi terbaru", "isCorrect": false },
+        { "text": "D. Karena menambah jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit yang timbul karena hubungan kerja atau yang disebabkan oleh pekerjaan/lingkungan kerja disebut?",
+      "explanation": "Penyakit Akibat Kerja (PAK) adalah penyakit yang disebabkan oleh pekerjaan atau lingkungan kerja, yang pencegahannya menjadi sasaran K3.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang Pentingnya K3",
+      "options": [
+        { "text": "A. Penyakit menular", "isCorrect": false },
+        { "text": "B. Penyakit Akibat Kerja (PAK)", "isCorrect": true },
+        { "text": "C. Penyakit keturunan", "isCorrect": false },
+        { "text": "D. Penyakit degeneratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja terdiri dari berapa Bab?",
+      "explanation": "UU No. 1 Tahun 1970 terdiri dari 11 Bab.",
+      "difficulty": "EASY",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. 9 Bab", "isCorrect": false },
+        { "text": "B. 10 Bab", "isCorrect": false },
+        { "text": "C. 11 Bab", "isCorrect": true },
+        { "text": "D. 12 Bab", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bab 1 dalam UU No. 1 Tahun 1970 membahas tentang?",
+      "explanation": "Bab 1 UU No. 1 Tahun 1970 membahas tentang Istilah-istilah (definisi).",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Ruang Lingkup", "isCorrect": false },
+        { "text": "B. Istilah-istilah", "isCorrect": true },
+        { "text": "C. Pengawasan", "isCorrect": false },
+        { "text": "D. Ketentuan Penutup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bab 2 UU No. 1 Tahun 1970 mengatur tentang?",
+      "explanation": "Bab 2 UU No. 1 Tahun 1970 mengatur tentang Ruang Lingkup berlakunya undang-undang.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Ruang Lingkup", "isCorrect": true },
+        { "text": "B. Pembinaan", "isCorrect": false },
+        { "text": "C. Kecelakaan", "isCorrect": false },
+        { "text": "D. Istilah-istilah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Syarat-syarat Keselamatan Kerja diatur dalam Bab berapa pada UU No. 1 Tahun 1970?",
+      "explanation": "Syarat-syarat Keselamatan Kerja diatur dalam Bab 3 UU No. 1 Tahun 1970.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Bab 2", "isCorrect": false },
+        { "text": "B. Bab 3", "isCorrect": true },
+        { "text": "C. Bab 4", "isCorrect": false },
+        { "text": "D. Bab 5", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bab 4 UU No. 1 Tahun 1970 membahas tentang?",
+      "explanation": "Bab 4 UU No. 1 Tahun 1970 membahas tentang Pengawasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Pengawasan", "isCorrect": true },
+        { "text": "B. Pembinaan", "isCorrect": false },
+        { "text": "C. P2K3", "isCorrect": false },
+        { "text": "D. Kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembinaan tenaga kerja diatur dalam Bab berapa pada UU No. 1 Tahun 1970?",
+      "explanation": "Pembinaan diatur dalam Bab 5 UU No. 1 Tahun 1970.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Bab 4", "isCorrect": false },
+        { "text": "B. Bab 5", "isCorrect": true },
+        { "text": "C. Bab 6", "isCorrect": false },
+        { "text": "D. Bab 7", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) diatur dalam Bab berapa UU No. 1 Tahun 1970?",
+      "explanation": "P2K3 diatur dalam Bab 6 UU No. 1 Tahun 1970.",
+      "difficulty": "HARD",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Bab 5", "isCorrect": false },
+        { "text": "B. Bab 6", "isCorrect": true },
+        { "text": "C. Bab 7", "isCorrect": false },
+        { "text": "D. Bab 8", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bab 7 UU No. 1 Tahun 1970 mengatur tentang?",
+      "explanation": "Bab 7 UU No. 1 Tahun 1970 mengatur tentang Kecelakaan (kewajiban melaporkan kecelakaan).",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Kecelakaan", "isCorrect": true },
+        { "text": "B. Pengawasan", "isCorrect": false },
+        { "text": "C. Pembinaan", "isCorrect": false },
+        { "text": "D. Ketentuan Penutup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewajiban dan Hak Tenaga Kerja diatur dalam Bab berapa UU No. 1 Tahun 1970?",
+      "explanation": "Kewajiban dan Hak Tenaga Kerja diatur dalam Bab 8 UU No. 1 Tahun 1970.",
+      "difficulty": "HARD",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Bab 7", "isCorrect": false },
+        { "text": "B. Bab 8", "isCorrect": true },
+        { "text": "C. Bab 9", "isCorrect": false },
+        { "text": "D. Bab 10", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bab 9 UU No. 1 Tahun 1970 mengatur tentang?",
+      "explanation": "Bab 9 mengatur Kewajiban bila Memasuki Tempat Kerja.",
+      "difficulty": "HARD",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Kewajiban bila Memasuki Tempat Kerja", "isCorrect": true },
+        { "text": "B. Kewajiban Pengurus", "isCorrect": false },
+        { "text": "C. Kecelakaan", "isCorrect": false },
+        { "text": "D. Pembinaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewajiban Pengurus diatur dalam Bab berapa UU No. 1 Tahun 1970?",
+      "explanation": "Kewajiban Pengurus diatur dalam Bab 10 UU No. 1 Tahun 1970.",
+      "difficulty": "HARD",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Bab 8", "isCorrect": false },
+        { "text": "B. Bab 9", "isCorrect": false },
+        { "text": "C. Bab 10", "isCorrect": true },
+        { "text": "D. Bab 11", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bab 11 UU No. 1 Tahun 1970 berisi tentang?",
+      "explanation": "Bab 11 berisi Ketentuan-ketentuan Penutup.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Ketentuan Penutup", "isCorrect": true },
+        { "text": "B. Istilah-istilah", "isCorrect": false },
+        { "text": "C. Ruang Lingkup", "isCorrect": false },
+        { "text": "D. Pengawasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bab 10 (Kewajiban Pengurus) UU No. 1 Tahun 1970 antara lain mewajibkan pengurus untuk?",
+      "explanation": "Kewajiban pengurus antara lain memasang syarat keselamatan kerja secara tertulis, memasang gambar keselamatan kerja, dan menyediakan APD.",
+      "difficulty": "HARD",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Menaikkan gaji pekerja", "isCorrect": false },
+        { "text": "B. Memasang syarat keselamatan tertulis, gambar keselamatan, dan menyediakan APD", "isCorrect": true },
+        { "text": "C. Mengurangi jam kerja", "isCorrect": false },
+        { "text": "D. Memberikan cuti tambahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Bab 1 (Istilah) UU No. 1 Tahun 1970, 'Tempat Kerja' didefinisikan sebagai?",
+      "explanation": "Tempat Kerja adalah tiap ruangan atau lapangan di mana tenaga kerja bekerja untuk keperluan suatu usaha dan terdapat sumber-sumber bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Tiap ruangan atau lapangan tempat tenaga kerja bekerja dan terdapat sumber bahaya", "isCorrect": true },
+        { "text": "B. Kantor pusat perusahaan saja", "isCorrect": false },
+        { "text": "C. Hanya pabrik dan gudang", "isCorrect": false },
+        { "text": "D. Lokasi yang ditetapkan pemerintah daerah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU No. 1 Tahun 1970, orang yang mempunyai tugas memimpin langsung suatu tempat kerja atau bagiannya yang berdiri sendiri disebut?",
+      "explanation": "Pengurus adalah orang yang mempunyai tugas memimpin langsung suatu tempat kerja atau bagiannya yang berdiri sendiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Pengusaha", "isCorrect": false },
+        { "text": "B. Pengurus", "isCorrect": true },
+        { "text": "C. Direktur", "isCorrect": false },
+        { "text": "D. Pegawai Pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Orang atau badan hukum yang menjalankan suatu usaha milik sendiri dan mempergunakan tempat kerja disebut?",
+      "explanation": "Pengusaha adalah orang atau badan hukum yang menjalankan suatu usaha milik sendiri dan untuk keperluan itu mempergunakan tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Pengurus", "isCorrect": false },
+        { "text": "B. Pengusaha", "isCorrect": true },
+        { "text": "C. Direktur", "isCorrect": false },
+        { "text": "D. Ahli Keselamatan Kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pejabat yang ditunjuk oleh Menteri Tenaga Kerja untuk melaksanakan UU No. 1 Tahun 1970 disebut?",
+      "explanation": "Direktur adalah pejabat yang ditunjuk oleh Menteri Tenaga Kerja untuk melaksanakan UU No. 1 Tahun 1970.",
+      "difficulty": "HARD",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Direktur", "isCorrect": true },
+        { "text": "B. Pengusaha", "isCorrect": false },
+        { "text": "C. Pengurus", "isCorrect": false },
+        { "text": "D. Pegawai Pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pegawai teknis berkeahlian khusus dari Departemen Tenaga Kerja yang mengawasi pelaksanaan UU No. 1 Tahun 1970 disebut?",
+      "explanation": "Pegawai Pengawas adalah pegawai teknis berkeahlian khusus dari Departemen Tenaga Kerja.",
+      "difficulty": "HARD",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Ahli Keselamatan Kerja", "isCorrect": false },
+        { "text": "B. Pegawai Pengawas", "isCorrect": true },
+        { "text": "C. Direktur", "isCorrect": false },
+        { "text": "D. Pengurus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tenaga teknis berkeahlian khusus dari LUAR Departemen Tenaga Kerja yang ditunjuk Menteri untuk mengawasi ditaatinya UU No. 1 Tahun 1970 disebut?",
+      "explanation": "Ahli Keselamatan Kerja adalah tenaga teknis berkeahlian khusus dari luar Departemen Tenaga Kerja yang ditunjuk Menteri untuk mengawasi ditaatinya UU No. 1 Tahun 1970.",
+      "difficulty": "HARD",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Pegawai Pengawas", "isCorrect": false },
+        { "text": "B. Direktur", "isCorrect": false },
+        { "text": "C. Ahli Keselamatan Kerja", "isCorrect": true },
+        { "text": "D. Pengusaha", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara Pegawai Pengawas dan Ahli Keselamatan Kerja menurut UU No. 1 Tahun 1970 terletak pada?",
+      "explanation": "Pegawai Pengawas berasal dari dalam Departemen Tenaga Kerja, sedangkan Ahli Keselamatan Kerja berasal dari luar Departemen Tenaga Kerja.",
+      "difficulty": "HARD",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Tingkat pendidikan", "isCorrect": false },
+        { "text": "B. Asal: dalam vs luar Departemen Tenaga Kerja", "isCorrect": true },
+        { "text": "C. Besarnya gaji", "isCorrect": false },
+        { "text": "D. Usia minimal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang lingkup berlakunya UU No. 1 Tahun 1970 mencakup tempat kerja yang berada di?",
+      "explanation": "Ruang lingkupnya adalah segala tempat kerja, baik di darat, di dalam tanah, di permukaan air, di dalam air, maupun di udara, dalam wilayah hukum RI.",
+      "difficulty": "MEDIUM",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Hanya di darat", "isCorrect": false },
+        { "text": "B. Darat, dalam tanah, permukaan air, dalam air, dan udara di wilayah hukum RI", "isCorrect": true },
+        { "text": "C. Hanya kawasan industri", "isCorrect": false },
+        { "text": "D. Hanya di perkotaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang lingkup UU No. 1 Tahun 1970 berlaku di seluruh tempat kerja yang berada dalam?",
+      "explanation": "UU No. 1 Tahun 1970 berlaku di tempat kerja yang berada di dalam wilayah kekuasaan hukum Republik Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Wilayah kekuasaan hukum Republik Indonesia", "isCorrect": true },
+        { "text": "B. Negara-negara ASEAN", "isCorrect": false },
+        { "text": "C. Kawasan ekonomi khusus saja", "isCorrect": false },
+        { "text": "D. Perusahaan asing saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unsur penting yang harus ada agar suatu lokasi dikategorikan sebagai 'tempat kerja' menurut UU No. 1 Tahun 1970 adalah adanya?",
+      "explanation": "Suatu lokasi disebut tempat kerja jika ada tenaga kerja yang bekerja untuk keperluan usaha dan terdapat sumber bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Banyak karyawan saja", "isCorrect": false },
+        { "text": "B. Tenaga kerja yang bekerja untuk usaha dan adanya sumber bahaya", "isCorrect": true },
+        { "text": "C. Bangunan permanen", "isCorrect": false },
+        { "text": "D. Izin usaha resmi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu persyaratan keselamatan kerja menurut UU No. 1 Tahun 1970 berkaitan dengan penanganan korban kecelakaan adalah?",
+      "explanation": "Salah satu persyaratan keselamatan kerja adalah penyediaan Pertolongan Pertama Pada Kecelakaan (P3K).",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Pertolongan Pertama Pada Kecelakaan (P3K)", "isCorrect": true },
+        { "text": "B. Pemberian bonus tahunan", "isCorrect": false },
+        { "text": "C. Penyediaan kantin", "isCorrect": false },
+        { "text": "D. Pengaturan jam istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemadaman kebakaran dan pencegahan ledakan termasuk dalam?",
+      "explanation": "Pemadaman kebakaran dan pencegahan ledakan termasuk persyaratan keselamatan kerja menurut UU No. 1 Tahun 1970.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Persyaratan keselamatan kerja", "isCorrect": true },
+        { "text": "B. Hak tenaga kerja", "isCorrect": false },
+        { "text": "C. Tugas P2K3 semata", "isCorrect": false },
+        { "text": "D. Ketentuan penutup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian APD kepada tenaga kerja merupakan bagian dari?",
+      "explanation": "Pemberian Alat Pelindung Diri (APD) merupakan salah satu persyaratan keselamatan kerja menurut UU No. 1 Tahun 1970.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Persyaratan keselamatan kerja", "isCorrect": true },
+        { "text": "B. Pembinaan administratif", "isCorrect": false },
+        { "text": "C. Sanksi pelanggaran", "isCorrect": false },
+        { "text": "D. Hak cuti pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian suhu, kelembaban, debu, asap, gas, radiasi, suara, dan getaran termasuk persyaratan keselamatan kerja yang bertujuan?",
+      "explanation": "Pengendalian faktor lingkungan kerja (suhu, debu, gas, radiasi, suara, getaran) bertujuan mencegah penyakit akibat kerja dan menjaga kesehatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Mempercepat produksi", "isCorrect": false },
+        { "text": "B. Mencegah penyakit akibat kerja dan menjaga kesehatan pekerja", "isCorrect": true },
+        { "text": "C. Mengurangi biaya listrik", "isCorrect": false },
+        { "text": "D. Menambah keuntungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyelamatan diri dan evakuasi dalam keadaan darurat termasuk dalam persyaratan keselamatan kerja yang berkaitan dengan?",
+      "explanation": "Penyelamatan diri dan evakuasi merupakan persyaratan keselamatan kerja untuk kesiapsiagaan menghadapi keadaan darurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Pelatihan produktivitas", "isCorrect": false },
+        { "text": "B. Kesiapsiagaan menghadapi keadaan darurat", "isCorrect": true },
+        { "text": "C. Pengaturan upah", "isCorrect": false },
+        { "text": "D. Audit keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerangan yang cukup serta suhu dan kelembapan udara yang baik di tempat kerja termasuk?",
+      "explanation": "Penerangan yang cukup serta suhu dan kelembapan yang baik termasuk persyaratan keselamatan kerja menurut UU No. 1 Tahun 1970.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Persyaratan keselamatan kerja", "isCorrect": true },
+        { "text": "B. Hak istimewa pengusaha", "isCorrect": false },
+        { "text": "C. Ketentuan penutup", "isCorrect": false },
+        { "text": "D. Tugas pegawai pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ventilasi udara yang baik dan memadai termasuk persyaratan keselamatan kerja karena berfungsi?",
+      "explanation": "Ventilasi yang baik berfungsi menjaga kualitas udara, mengurangi paparan debu/gas/uap berbahaya di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Menjaga kualitas udara dan mengurangi paparan debu/gas berbahaya", "isCorrect": true },
+        { "text": "B. Menghemat penggunaan AC", "isCorrect": false },
+        { "text": "C. Mempercantik ruangan", "isCorrect": false },
+        { "text": "D. Menambah jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencegahan terkena aliran listrik yang berbahaya merupakan persyaratan keselamatan kerja untuk mencegah?",
+      "explanation": "Pencegahan terkena aliran listrik berbahaya bertujuan mencegah kecelakaan akibat sengatan listrik (electrical hazard).",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Kebisingan", "isCorrect": false },
+        { "text": "B. Kecelakaan akibat sengatan listrik", "isCorrect": true },
+        { "text": "C. Pencemaran air", "isCorrect": false },
+        { "text": "D. Kebakaran hutan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyesuaian alat, cara, dan lingkungan kerja terhadap kemampuan pekerja merupakan persyaratan keselamatan kerja yang disebut?",
+      "explanation": "Ergonomi kerja adalah penyesuaian alat, cara, dan lingkungan kerja terhadap kemampuan pekerja, dan termasuk persyaratan keselamatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Higiene industri", "isCorrect": false },
+        { "text": "B. Ergonomi kerja", "isCorrect": true },
+        { "text": "C. Toksikologi", "isCorrect": false },
+        { "text": "D. Epidemiologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengamanan dan pemeliharaan bangunan serta pengamanan bongkar muat dan penyimpanan barang termasuk?",
+      "explanation": "Pengamanan bangunan, bongkar muat, dan penyimpanan barang termasuk persyaratan keselamatan kerja menurut UU No. 1 Tahun 1970.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Persyaratan keselamatan kerja", "isCorrect": true },
+        { "text": "B. Hak tenaga kerja", "isCorrect": false },
+        { "text": "C. Kewajiban tamu", "isCorrect": false },
+        { "text": "D. Tugas direktur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengamanan transportasi dan pengamanan pada pekerjaan dengan risiko tinggi termasuk dalam?",
+      "explanation": "Keduanya merupakan persyaratan keselamatan kerja menurut UU No. 1 Tahun 1970 untuk mencegah kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Persyaratan keselamatan kerja", "isCorrect": true },
+        { "text": "B. Sanksi administratif", "isCorrect": false },
+        { "text": "C. Hak pengusaha", "isCorrect": false },
+        { "text": "D. Pembinaan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencegahan dan pengendalian timbulnya Penyakit Akibat Kerja (PAK) dalam UU No. 1 Tahun 1970 termasuk?",
+      "explanation": "Pencegahan P.A.K (Penyakit Akibat Kerja) merupakan salah satu persyaratan keselamatan kerja.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Persyaratan keselamatan kerja", "isCorrect": true },
+        { "text": "B. Tugas konsumen", "isCorrect": false },
+        { "text": "C. Ketentuan penutup", "isCorrect": false },
+        { "text": "D. Hak cuti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kewajiban tenaga kerja menurut Bab 8 UU No. 1 Tahun 1970 adalah?",
+      "explanation": "Kewajiban tenaga kerja antara lain memakai alat-alat perlindungan diri (APD) yang diwajibkan.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Membayar denda keselamatan", "isCorrect": false },
+        { "text": "B. Memakai alat pelindung diri yang diwajibkan", "isCorrect": true },
+        { "text": "C. Menyediakan APD untuk pekerja lain", "isCorrect": false },
+        { "text": "D. Membentuk P2K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tenaga kerja wajib memberikan keterangan yang benar bila diminta oleh?",
+      "explanation": "Tenaga kerja wajib memberikan keterangan yang benar bila diminta oleh pegawai pengawas dan/atau ahli keselamatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Pegawai pengawas dan/atau ahli keselamatan kerja", "isCorrect": true },
+        { "text": "B. Rekan kerja", "isCorrect": false },
+        { "text": "C. Konsumen", "isCorrect": false },
+        { "text": "D. Media massa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu hak tenaga kerja menurut UU No. 1 Tahun 1970 adalah?",
+      "explanation": "Tenaga kerja berhak menyatakan keberatan bekerja apabila syarat keselamatan dan APD yang diwajibkan diragukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Menyatakan keberatan kerja bila syarat keselamatan dan APD diragukan", "isCorrect": true },
+        { "text": "B. Menolak diperiksa kesehatannya", "isCorrect": false },
+        { "text": "C. Mengubah peraturan perusahaan sendiri", "isCorrect": false },
+        { "text": "D. Mengganti pengurus perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tenaga kerja berhak meminta kepada pengurus agar dilaksanakannya?",
+      "explanation": "Tenaga kerja berhak meminta pengurus agar dilaksanakan semua syarat keselamatan dan kesehatan kerja yang diwajibkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Semua syarat keselamatan dan kesehatan kerja yang diwajibkan", "isCorrect": true },
+        { "text": "B. Kenaikan jabatan", "isCorrect": false },
+        { "text": "C. Pengurangan jam kerja", "isCorrect": false },
+        { "text": "D. Tambahan bonus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewajiban tenaga kerja untuk mentaati semua syarat keselamatan dan kesehatan kerja bertujuan untuk?",
+      "explanation": "Tenaga kerja wajib memenuhi dan mentaati syarat K3 yang diwajibkan demi keselamatan dirinya dan orang lain di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Keselamatan dirinya dan orang lain di tempat kerja", "isCorrect": true },
+        { "text": "B. Menambah upah", "isCorrect": false },
+        { "text": "C. Mempercepat promosi", "isCorrect": false },
+        { "text": "D. Menghindari pajak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila menyatakan keberatan untuk bekerja, alasan yang dibenarkan menurut UU No. 1 Tahun 1970 adalah?",
+      "explanation": "Tenaga kerja boleh menyatakan keberatan bekerja jika syarat keselamatan dan kesehatan kerja serta APD yang diwajibkan diragukan keberadaan/efektivitasnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Syarat K3 dan APD yang diwajibkan diragukan", "isCorrect": true },
+        { "text": "B. Upah dianggap kurang", "isCorrect": false },
+        { "text": "C. Tidak suka rekan kerja", "isCorrect": false },
+        { "text": "D. Cuaca sedang panas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Bab 9 UU No. 1 Tahun 1970, setiap orang yang akan memasuki tempat kerja diwajibkan untuk?",
+      "explanation": "Barangsiapa memasuki tempat kerja wajib mentaati semua petunjuk keselamatan kerja dan memakai APD yang diwajibkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Mentaati petunjuk keselamatan kerja dan memakai APD yang diwajibkan", "isCorrect": true },
+        { "text": "B. Membawa surat izin dari direktur", "isCorrect": false },
+        { "text": "C. Membayar tiket masuk", "isCorrect": false },
+        { "text": "D. Mendaftar sebagai pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewajiban memakai APD dan mentaati petunjuk keselamatan kerja saat memasuki tempat kerja berlaku untuk?",
+      "explanation": "Kewajiban tersebut berlaku bagi barangsiapa (siapa saja) yang akan memasuki tempat kerja, termasuk tamu dan kontraktor.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Siapa saja yang memasuki tempat kerja, termasuk tamu", "isCorrect": true },
+        { "text": "B. Hanya pekerja tetap", "isCorrect": false },
+        { "text": "C. Hanya pengurus", "isCorrect": false },
+        { "text": "D. Hanya pegawai pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk hak (bukan kewajiban) tenaga kerja menurut UU No. 1 Tahun 1970 adalah?",
+      "explanation": "Meminta pengurus melaksanakan syarat K3 dan menyatakan keberatan bekerja saat syarat K3 diragukan termasuk hak tenaga kerja.",
+      "difficulty": "HARD",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Memakai APD yang diwajibkan", "isCorrect": false },
+        { "text": "B. Meminta pengurus melaksanakan syarat K3 yang diwajibkan", "isCorrect": true },
+        { "text": "C. Memberikan keterangan yang benar", "isCorrect": false },
+        { "text": "D. Mentaati syarat K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Panitia Pembina Keselamatan dan Kesehatan Kerja dikenal dengan singkatan?",
+      "explanation": "Panitia Pembina Keselamatan dan Kesehatan Kerja disingkat P2K3.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. P3K", "isCorrect": false },
+        { "text": "B. P2K3", "isCorrect": true },
+        { "text": "C. SMK3", "isCorrect": false },
+        { "text": "D. K3L", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pihak yang berwenang membentuk P2K3 menurut UU No. 1 Tahun 1970 adalah?",
+      "explanation": "Menteri Tenaga Kerja berwenang membentuk Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3).",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Menteri Tenaga Kerja", "isCorrect": true },
+        { "text": "B. Konsumen", "isCorrect": false },
+        { "text": "C. Serikat pekerja sendiri", "isCorrect": false },
+        { "text": "D. Pemegang saham", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan pembentukan P2K3 menurut UU No. 1 Tahun 1970 adalah?",
+      "explanation": "P2K3 dibentuk untuk mengembangkan kerjasama, saling pengertian, dan partisipasi efektif antara pengusaha/pengurus dan tenaga kerja dalam bidang K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Mengembangkan kerjasama dan partisipasi efektif pengurus dan tenaga kerja di bidang K3", "isCorrect": true },
+        { "text": "B. Mengawasi keuangan perusahaan", "isCorrect": false },
+        { "text": "C. Menentukan besarnya upah", "isCorrect": false },
+        { "text": "D. Menangani urusan ekspor-impor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "P2K3 melibatkan partisipasi dari dua pihak utama, yaitu?",
+      "explanation": "P2K3 melibatkan kerjasama dan partisipasi efektif dari pengusaha/pengurus dan tenaga kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Pengusaha/pengurus dan tenaga kerja", "isCorrect": true },
+        { "text": "B. Konsumen dan pemasok", "isCorrect": false },
+        { "text": "C. Pemerintah daerah dan pusat", "isCorrect": false },
+        { "text": "D. Bank dan investor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kewajiban pengurus menurut Bab 10 UU No. 1 Tahun 1970 terkait penyampaian informasi K3 adalah?",
+      "explanation": "Pengurus wajib menempatkan/memasang syarat-syarat keselamatan kerja secara tertulis di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Memasang syarat keselamatan kerja secara tertulis di tempat kerja", "isCorrect": true },
+        { "text": "B. Membayar tunjangan keselamatan", "isCorrect": false },
+        { "text": "C. Menyembunyikan informasi bahaya", "isCorrect": false },
+        { "text": "D. Membentuk serikat pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengurus wajib memasang gambar keselamatan kerja di tempat yang?",
+      "explanation": "Pengurus wajib memasang gambar keselamatan kerja di tempat yang mudah terlihat oleh pekerja.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Mudah terlihat", "isCorrect": true },
+        { "text": "B. Tersembunyi", "isCorrect": false },
+        { "text": "C. Di ruang direktur saja", "isCorrect": false },
+        { "text": "D. Di gudang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewajiban pengurus menurut Bab 10 UU No. 1 Tahun 1970 terkait alat pelindung adalah?",
+      "explanation": "Pengurus wajib menyediakan APD bagi pekerja dan semua orang yang memasuki tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Menyediakan APD bagi pekerja dan semua orang yang memasuki tempat kerja", "isCorrect": true },
+        { "text": "B. Menjual APD kepada pekerja", "isCorrect": false },
+        { "text": "C. Menyewakan APD", "isCorrect": false },
+        { "text": "D. Membiarkan pekerja membeli APD sendiri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Bab 5 (Pembinaan) UU No. 1 Tahun 1970, pengurus wajib melakukan pembinaan kepada?",
+      "explanation": "Pengurus wajib melakukan pembinaan dan penjelasan kepada tenaga kerja baru tentang kondisi bahaya, pengamanan alat, APD, dan prosedur kerja aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Tenaga kerja baru di perusahaan", "isCorrect": true },
+        { "text": "B. Konsumen produk", "isCorrect": false },
+        { "text": "C. Pegawai pengawas", "isCorrect": false },
+        { "text": "D. Pemegang saham", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Materi pembinaan kepada tenaga kerja baru menurut Bab 5 UU No. 1 Tahun 1970 mencakup?",
+      "explanation": "Pembinaan mencakup kondisi bahaya, pengamanan alat, alat pelindung diri, dan prosedur kerja aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Kondisi bahaya, pengamanan alat, APD, dan prosedur kerja aman", "isCorrect": true },
+        { "text": "B. Sistem penggajian dan absensi", "isCorrect": false },
+        { "text": "C. Strategi pemasaran produk", "isCorrect": false },
+        { "text": "D. Cara mengoperasikan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Bab 4 (Pengawasan) UU No. 1 Tahun 1970, pengurus melakukan pengawasan antara lain berupa?",
+      "explanation": "Pengawasan mencakup pemeriksaan kesehatan badan, kesehatan mental, dan kemampuan fisik tenaga kerja, yang wajib dilakukan secara berkala.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Pemeriksaan kesehatan badan, mental, dan kemampuan fisik secara berkala", "isCorrect": true },
+        { "text": "B. Pemeriksaan rekening bank pekerja", "isCorrect": false },
+        { "text": "C. Pemeriksaan ijazah pendidikan", "isCorrect": false },
+        { "text": "D. Pemeriksaan status pernikahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan tenaga kerja menurut Bab 4 UU No. 1 Tahun 1970 wajib dilakukan secara?",
+      "explanation": "Pemeriksaan kesehatan wajib dilakukan secara berkala oleh pengurus.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Berkala", "isCorrect": true },
+        { "text": "B. Hanya sekali seumur hidup", "isCorrect": false },
+        { "text": "C. Hanya saat sakit", "isCorrect": false },
+        { "text": "D. Tidak wajib", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Bab 7 (Kecelakaan) UU No. 1 Tahun 1970, pengurus diwajibkan untuk?",
+      "explanation": "Pengurus wajib melaporkan tiap kecelakaan yang terjadi di tempat kerja yang dipimpinnya kepada pejabat yang ditunjuk Menteri Tenaga Kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Melaporkan tiap kecelakaan kepada pejabat yang ditunjuk Menteri Tenaga Kerja", "isCorrect": true },
+        { "text": "B. Menutupi kecelakaan agar nama baik terjaga", "isCorrect": false },
+        { "text": "C. Melaporkan hanya kecelakaan fatal", "isCorrect": false },
+        { "text": "D. Membayar denda ke konsumen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Laporan kecelakaan kerja menurut Bab 7 UU No. 1 Tahun 1970 ditujukan kepada?",
+      "explanation": "Laporan kecelakaan ditujukan kepada pejabat yang ditunjuk oleh Menteri Tenaga Kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Pejabat yang ditunjuk oleh Menteri Tenaga Kerja", "isCorrect": true },
+        { "text": "B. Konsumen", "isCorrect": false },
+        { "text": "C. Pemegang saham", "isCorrect": false },
+        { "text": "D. Media massa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelaksanaan ketentuan dalam pasal-pasal UU No. 1 Tahun 1970 (Bab 11) diatur lebih lanjut dengan?",
+      "explanation": "Bab 11 (Ketentuan Penutup) menyatakan pelaksanaan ketentuan diatur lebih lanjut dengan peraturan perundangan.",
+      "difficulty": "HARD",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Peraturan perundangan", "isCorrect": true },
+        { "text": "B. Kesepakatan lisan", "isCorrect": false },
+        { "text": "C. Surat edaran konsumen", "isCorrect": false },
+        { "text": "D. Adat kebiasaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembinaan dalam UU No. 1 Tahun 1970 terutama menjadi tanggung jawab?",
+      "explanation": "Pembinaan dan penjelasan K3 kepada tenaga kerja baru menjadi kewajiban pengurus.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Pengurus", "isCorrect": true },
+        { "text": "B. Tenaga kerja baru", "isCorrect": false },
+        { "text": "C. Konsumen", "isCorrect": false },
+        { "text": "D. Serikat pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "PP No. 50 Tahun 2012 yang menjadi acuan pengertian K3 secara khusus mengatur penerapan?",
+      "explanation": "PP No. 50 Tahun 2012 mengatur penerapan Sistem Manajemen K3 (SMK3) dan memuat definisi K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian K3",
+      "options": [
+        { "text": "A. Sistem Manajemen K3 (SMK3)", "isCorrect": true },
+        { "text": "B. Standar upah minimum", "isCorrect": false },
+        { "text": "C. Jaminan sosial", "isCorrect": false },
+        { "text": "D. Hubungan industrial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi K3 menurut PP No. 50 Tahun 2012 mencakup dua aspek yang dijamin dan dilindungi, yaitu?",
+      "explanation": "K3 menjamin dan melindungi keselamatan dan kesehatan tenaga kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengertian K3",
+      "options": [
+        { "text": "A. Keselamatan dan kesehatan tenaga kerja", "isCorrect": true },
+        { "text": "B. Keuangan dan aset perusahaan", "isCorrect": false },
+        { "text": "C. Produksi dan distribusi", "isCorrect": false },
+        { "text": "D. Pemasaran dan penjualan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang tepat tentang sifat penerapan K3 berdasarkan dasar hukumnya di Indonesia adalah?",
+      "explanation": "Penerapan K3 bersifat wajib karena diatur dalam undang-undang dan peraturan (UU No. 1/1970, PP No. 50/2012), bukan sekadar sukarela.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. Bersifat wajib karena diatur undang-undang dan peraturan", "isCorrect": true },
+        { "text": "B. Bersifat sukarela bagi perusahaan", "isCorrect": false },
+        { "text": "C. Hanya berlaku untuk BUMN", "isCorrect": false },
+        { "text": "D. Hanya berlaku untuk perusahaan asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan antara UU No. 1 Tahun 1970 dan PP No. 50 Tahun 2012 dalam kerangka hukum K3 adalah?",
+      "explanation": "UU No. 1 Tahun 1970 sebagai undang-undang dasar K3, sedangkan PP No. 50 Tahun 2012 sebagai peraturan pelaksana yang lebih rinci (SMK3).",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. UU 1/1970 sebagai dasar, PP 50/2012 sebagai peraturan pelaksana", "isCorrect": true },
+        { "text": "B. Keduanya saling bertentangan", "isCorrect": false },
+        { "text": "C. PP 50/2012 menghapus UU 1/1970", "isCorrect": false },
+        { "text": "D. Keduanya tidak berkaitan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan K3 yang menekankan pencegahan sebelum kecelakaan terjadi disebut pendekatan?",
+      "explanation": "Pencegahan kecelakaan dan PAK sebelum terjadi merupakan pendekatan proaktif/preventif yang menjadi inti filosofi K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian K3",
+      "options": [
+        { "text": "A. Reaktif", "isCorrect": false },
+        { "text": "B. Preventif/proaktif", "isCorrect": true },
+        { "text": "C. Korektif setelah kejadian", "isCorrect": false },
+        { "text": "D. Pasif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang paling tepat mengenai tujuan akhir penerapan K3 di tempat kerja?",
+      "explanation": "Tujuan akhir K3 adalah terciptanya tempat kerja yang aman, sehat, serta meningkatnya kesejahteraan dan produktivitas kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Terciptanya tempat kerja aman dan sehat serta produktivitas yang meningkat", "isCorrect": true },
+        { "text": "B. Mengurangi jumlah tenaga kerja", "isCorrect": false },
+        { "text": "C. Menambah jam lembur wajib", "isCorrect": false },
+        { "text": "D. Menghapus pengawasan pemerintah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan 'setiap sumber produksi digunakan secara aman dan efisien' menunjukkan bahwa K3 juga memperhatikan kepentingan?",
+      "explanation": "Selain melindungi pekerja, K3 juga menjaga kelangsungan produksi/aset perusahaan agar digunakan aman dan efisien.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Kelangsungan produksi dan aset perusahaan", "isCorrect": true },
+        { "text": "B. Kepentingan konsumen luar negeri", "isCorrect": false },
+        { "text": "C. Persaingan antar pekerja", "isCorrect": false },
+        { "text": "D. Pengurangan pajak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Data ILO tentang 160 juta PAK per tahun dan 1 kematian per 15 detik digunakan untuk menggambarkan?",
+      "explanation": "Data tersebut menggambarkan besarnya masalah kecelakaan dan penyakit akibat kerja secara global, sebagai latar belakang pentingnya K3.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang Pentingnya K3",
+      "options": [
+        { "text": "A. Besarnya masalah K3 secara global", "isCorrect": true },
+        { "text": "B. Pertumbuhan ekonomi dunia", "isCorrect": false },
+        { "text": "C. Jumlah perusahaan baru", "isCorrect": false },
+        { "text": "D. Tingkat pengangguran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain korban manusia, kecelakaan kerja juga menimbulkan kerugian dalam bentuk?",
+      "explanation": "Kecelakaan kerja menimbulkan kerugian harta benda, biaya medis, dan biaya perbaikan peralatan.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang Pentingnya K3",
+      "options": [
+        { "text": "A. Kerugian harta benda dan biaya perbaikan peralatan", "isCorrect": true },
+        { "text": "B. Penurunan harga saham pesaing", "isCorrect": false },
+        { "text": "C. Kenaikan ekspor", "isCorrect": false },
+        { "text": "D. Pengurangan inflasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan yang benar dari struktur Bab UU No. 1 Tahun 1970 untuk Bab 3, 4, dan 5 adalah?",
+      "explanation": "Bab 3 Syarat-syarat Keselamatan Kerja, Bab 4 Pengawasan, Bab 5 Pembinaan.",
+      "difficulty": "HARD",
+      "tag": "Struktur 11 Bab UU No. 1 Tahun 1970",
+      "options": [
+        { "text": "A. Syarat Keselamatan, Pengawasan, Pembinaan", "isCorrect": true },
+        { "text": "B. Pembinaan, Pengawasan, Syarat Keselamatan", "isCorrect": false },
+        { "text": "C. Pengawasan, Pembinaan, P2K3", "isCorrect": false },
+        { "text": "D. Kecelakaan, Pengawasan, Pembinaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan tentang istilah 'Direktur' dalam UU No. 1 Tahun 1970 yang benar adalah?",
+      "explanation": "Direktur adalah pejabat yang DITUNJUK oleh Menteri Tenaga Kerja untuk melaksanakan UU No. 1 Tahun 1970, bukan direktur perusahaan.",
+      "difficulty": "HARD",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Pejabat yang ditunjuk Menteri Tenaga Kerja untuk melaksanakan UU ini", "isCorrect": true },
+        { "text": "B. Direktur utama perusahaan", "isCorrect": false },
+        { "text": "C. Ketua serikat pekerja", "isCorrect": false },
+        { "text": "D. Pemilik saham mayoritas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian penerangan yang cukup di tempat kerja merupakan persyaratan keselamatan kerja yang bertujuan terutama untuk?",
+      "explanation": "Penerangan yang cukup mencegah kecelakaan dan kelelahan mata serta menunjang ketelitian pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Mencegah kecelakaan dan kelelahan mata", "isCorrect": true },
+        { "text": "B. Menghemat tagihan listrik", "isCorrect": false },
+        { "text": "C. Mempercantik bangunan", "isCorrect": false },
+        { "text": "D. Menambah jumlah karyawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeliharaan kebersihan, kesehatan, dan ketertiban di tempat kerja menurut UU No. 1 Tahun 1970 termasuk?",
+      "explanation": "Pemeliharaan kebersihan, kesehatan, dan ketertiban termasuk persyaratan keselamatan kerja.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Persyaratan keselamatan kerja", "isCorrect": true },
+        { "text": "B. Hak khusus pengusaha", "isCorrect": false },
+        { "text": "C. Tugas konsumen", "isCorrect": false },
+        { "text": "D. Ketentuan penutup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika seorang pekerja menemukan APD yang diwajibkan tidak tersedia atau diragukan keamanannya, tindakan yang sesuai haknya adalah?",
+      "explanation": "Pekerja berhak menyatakan keberatan bekerja apabila syarat K3 dan APD yang diwajibkan diragukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Menyatakan keberatan untuk bekerja", "isCorrect": true },
+        { "text": "B. Tetap bekerja tanpa melapor", "isCorrect": false },
+        { "text": "C. Mengundurkan diri", "isCorrect": false },
+        { "text": "D. Menuntut kenaikan gaji", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang kontraktor yang akan masuk ke area produksi pabrik, menurut UU No. 1 Tahun 1970 wajib?",
+      "explanation": "Barangsiapa memasuki tempat kerja wajib mentaati petunjuk keselamatan dan memakai APD yang diwajibkan, termasuk kontraktor.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban & Hak Tenaga Kerja",
+      "options": [
+        { "text": "A. Mentaati petunjuk keselamatan dan memakai APD yang diwajibkan", "isCorrect": true },
+        { "text": "B. Membayar biaya masuk", "isCorrect": false },
+        { "text": "C. Membawa APD perusahaannya sendiri tanpa ketentuan", "isCorrect": false },
+        { "text": "D. Tidak terikat aturan K3 pabrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang P2K3 adalah?",
+      "explanation": "P2K3 adalah wadah kerjasama K3 antara pengurus dan pekerja yang pembentukannya diwenangi oleh Menteri Tenaga Kerja untuk melancarkan usaha berproduksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Wadah kerjasama K3 antara pengurus dan pekerja", "isCorrect": true },
+        { "text": "B. Lembaga audit keuangan", "isCorrect": false },
+        { "text": "C. Serikat dagang internasional", "isCorrect": false },
+        { "text": "D. Tim pemasaran produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan dibentuknya P2K3 yang berkaitan dengan kelangsungan usaha adalah?",
+      "explanation": "P2K3 dibentuk dalam rangka melancarkan usaha berproduksi melalui kerjasama K3 yang efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Melancarkan usaha berproduksi melalui kerjasama K3", "isCorrect": true },
+        { "text": "B. Memperbesar keuntungan investor", "isCorrect": false },
+        { "text": "C. Menentukan harga jual produk", "isCorrect": false },
+        { "text": "D. Mengatur jadwal cuti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan kewajiban pengurus, BUKAN kewajiban tenaga kerja, menurut UU No. 1 Tahun 1970?",
+      "explanation": "Menyediakan APD bagi pekerja dan orang yang memasuki tempat kerja adalah kewajiban pengurus; memakai APD adalah kewajiban tenaga kerja.",
+      "difficulty": "HARD",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Memakai APD yang diwajibkan", "isCorrect": false },
+        { "text": "B. Menyediakan APD bagi pekerja dan orang yang memasuki tempat kerja", "isCorrect": true },
+        { "text": "C. Memberi keterangan benar kepada pengawas", "isCorrect": false },
+        { "text": "D. Mentaati syarat K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan mental tenaga kerja menurut Bab 4 UU No. 1 Tahun 1970 termasuk bagian dari?",
+      "explanation": "Pemeriksaan kesehatan mental termasuk bagian dari pengawasan kesehatan tenaga kerja oleh pengurus.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Pengawasan kesehatan tenaga kerja", "isCorrect": true },
+        { "text": "B. Pemberian sanksi", "isCorrect": false },
+        { "text": "C. Penilaian kinerja keuangan", "isCorrect": false },
+        { "text": "D. Pembagian bonus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu alasan pentingnya pembinaan K3 bagi tenaga kerja BARU adalah?",
+      "explanation": "Tenaga kerja baru belum mengenal kondisi bahaya dan prosedur kerja aman, sehingga pembinaan mencegah kecelakaan akibat ketidaktahuan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Agar mengenal kondisi bahaya dan prosedur kerja aman", "isCorrect": true },
+        { "text": "B. Agar segera mendapat promosi", "isCorrect": false },
+        { "text": "C. Agar gaji bertambah", "isCorrect": false },
+        { "text": "D. Agar bisa libur lebih banyak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengamanan pada pekerjaan yang risiko kecelakaannya tinggi termasuk persyaratan keselamatan kerja yang menunjukkan bahwa pengendalian harus?",
+      "explanation": "Pekerjaan berisiko tinggi memerlukan pengamanan khusus, menunjukkan pengendalian K3 harus disesuaikan dengan tingkat risiko pekerjaan.",
+      "difficulty": "HARD",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Disesuaikan dengan tingkat risiko pekerjaan", "isCorrect": true },
+        { "text": "B. Sama untuk semua pekerjaan", "isCorrect": false },
+        { "text": "C. Diabaikan jika biaya tinggi", "isCorrect": false },
+        { "text": "D. Hanya untuk pekerja senior", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan standar ISO 45001 di perusahaan menunjukkan bahwa K3 juga memiliki dimensi?",
+      "explanation": "ISO 45001 adalah standar internasional, menunjukkan K3 memiliki dimensi/pengakuan internasional dalam sistem manajemen K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum K3 di Indonesia",
+      "options": [
+        { "text": "A. Internasional", "isCorrect": true },
+        { "text": "B. Hanya lokal", "isCorrect": false },
+        { "text": "C. Hanya regional ASEAN", "isCorrect": false },
+        { "text": "D. Tidak resmi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertolongan Pertama Pada Kecelakaan (P3K) berbeda dengan P2K3 dalam hal?",
+      "explanation": "P3K adalah pertolongan pertama pada korban kecelakaan, sedangkan P2K3 adalah panitia/wadah kerjasama pembinaan K3 di perusahaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. P3K adalah pertolongan korban, P2K3 adalah panitia pembina K3", "isCorrect": true },
+        { "text": "B. Keduanya istilah yang sama", "isCorrect": false },
+        { "text": "C. P3K adalah panitia, P2K3 adalah obat", "isCorrect": false },
+        { "text": "D. Keduanya adalah jenis APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Filosofi dasar K3 yang tercermin dalam definisi PP No. 50 Tahun 2012 menempatkan manusia (tenaga kerja) sebagai?",
+      "explanation": "K3 menempatkan tenaga kerja sebagai subjek yang harus dijamin dan dilindungi keselamatan dan kesehatannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian K3",
+      "options": [
+        { "text": "A. Subjek yang dilindungi keselamatan dan kesehatannya", "isCorrect": true },
+        { "text": "B. Alat produksi yang dapat diganti", "isCorrect": false },
+        { "text": "C. Beban biaya perusahaan", "isCorrect": false },
+        { "text": "D. Objek pengawasan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika sebuah perusahaan tidak memasang syarat keselamatan kerja secara tertulis dan tidak menyediakan APD, maka perusahaan tersebut melanggar?",
+      "explanation": "Hal tersebut melanggar kewajiban pengurus dalam Bab 10 UU No. 1 Tahun 1970.",
+      "difficulty": "HARD",
+      "tag": "Kewajiban Pengurus & P2K3",
+      "options": [
+        { "text": "A. Kewajiban pengurus dalam Bab 10 UU No. 1 Tahun 1970", "isCorrect": true },
+        { "text": "B. Hak konsumen", "isCorrect": false },
+        { "text": "C. Ketentuan pajak", "isCorrect": false },
+        { "text": "D. Aturan lalu lintas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian debu, kotoran, asap, uap, dan gas di tempat kerja merupakan persyaratan keselamatan kerja yang termasuk dalam bidang?",
+      "explanation": "Pengendalian faktor kimia/fisika lingkungan kerja seperti debu, asap, dan gas termasuk bidang higiene industri sebagai persyaratan keselamatan kerja.",
+      "difficulty": "HARD",
+      "tag": "Persyaratan Keselamatan Kerja",
+      "options": [
+        { "text": "A. Higiene industri/pengendalian lingkungan kerja", "isCorrect": true },
+        { "text": "B. Manajemen keuangan", "isCorrect": false },
+        { "text": "C. Pemasaran", "isCorrect": false },
+        { "text": "D. Hubungan masyarakat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang BENAR mengenai ruang lingkup UU No. 1 Tahun 1970 adalah?",
+      "explanation": "UU No. 1 Tahun 1970 berlaku luas mencakup tempat kerja di darat, dalam tanah, permukaan air, dalam air, dan udara di wilayah hukum RI, tidak terbatas pada industri tertentu.",
+      "difficulty": "HARD",
+      "tag": "Istilah & Ruang Lingkup",
+      "options": [
+        { "text": "A. Berlaku luas pada semua tempat kerja di wilayah hukum RI", "isCorrect": true },
+        { "text": "B. Hanya berlaku untuk pabrik besar", "isCorrect": false },
+        { "text": "C. Hanya berlaku di darat", "isCorrect": false },
+        { "text": "D. Hanya berlaku untuk perusahaan negara", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Definisi K3 menurut PP No. 50 Tahun 2012", "back": "Segala kegiatan untuk menjamin dan melindungi keselamatan dan kesehatan tenaga kerja melalui upaya pencegahan kecelakaan kerja dan penyakit akibat kerja.", "tag": "Pengertian K3" },
+    { "front": "Singkatan K3", "back": "Keselamatan dan Kesehatan Kerja.", "tag": "Pengertian K3" },
+    { "front": "UU khusus tentang Keselamatan Kerja", "back": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja.", "tag": "Dasar Hukum K3 di Indonesia" },
+    { "front": "Landasan konstitusional K3", "back": "UUD 1945 pasal 27 ayat 2 (hak atas pekerjaan dan penghidupan yang layak).", "tag": "Dasar Hukum K3 di Indonesia" },
+    { "front": "PP No. 50 Tahun 2012 mengatur tentang", "back": "Penerapan Sistem Manajemen K3 (SMK3).", "tag": "Dasar Hukum K3 di Indonesia" },
+    { "front": "Permenaker No. 5 Tahun 2018 mengatur tentang", "back": "K3 Lingkungan Kerja.", "tag": "Dasar Hukum K3 di Indonesia" },
+    { "front": "Standar internasional Sistem Manajemen K3", "back": "ISO 45001 (Occupational Health & Safety Management System).", "tag": "Dasar Hukum K3 di Indonesia" },
+    { "front": "3 tujuan keselamatan kerja (UU No. 1/1970)", "back": "Perlindungan (tenaga kerja & orang lain), Jaminan (sumber produksi aman & efisien), Produktivitas (kesejahteraan & produktivitas).", "tag": "Tujuan Keselamatan Kerja" },
+    { "front": "Data ILO 2013 tentang PAK", "back": "160 juta pekerja mengalami penyakit akibat kerja setiap tahun.", "tag": "Latar Belakang Pentingnya K3" },
+    { "front": "Data ILO 2013 tentang kematian kerja", "back": "Setiap 15 detik, 1 pekerja meninggal akibat kecelakaan kerja.", "tag": "Latar Belakang Pentingnya K3" },
+    { "front": "Jumlah Bab UU No. 1 Tahun 1970", "back": "11 Bab (Istilah, Ruang Lingkup, Syarat Keselamatan, Pengawasan, Pembinaan, P2K3, Kecelakaan, Hak & Kewajiban Tenaga Kerja, Kewajiban Memasuki Tempat Kerja, Kewajiban Pengurus, Ketentuan Penutup).", "tag": "Struktur 11 Bab UU No. 1 Tahun 1970" },
+    { "front": "Bab 3 UU No. 1 Tahun 1970", "back": "Syarat-syarat Keselamatan Kerja.", "tag": "Struktur 11 Bab UU No. 1 Tahun 1970" },
+    { "front": "Definisi Tempat Kerja (UU No. 1/1970)", "back": "Tiap ruangan/lapangan di mana tenaga kerja bekerja untuk keperluan usaha dan terdapat sumber bahaya.", "tag": "Istilah & Ruang Lingkup" },
+    { "front": "Pengurus vs Pengusaha", "back": "Pengurus: memimpin langsung tempat kerja. Pengusaha: orang/badan hukum yang menjalankan usaha milik sendiri dan menggunakan tempat kerja.", "tag": "Istilah & Ruang Lingkup" },
+    { "front": "Pegawai Pengawas vs Ahli Keselamatan Kerja", "back": "Pegawai Pengawas: dari dalam Depnaker. Ahli Keselamatan Kerja: dari luar Depnaker, ditunjuk Menteri.", "tag": "Istilah & Ruang Lingkup" },
+    { "front": "Ruang lingkup UU No. 1 Tahun 1970", "back": "Semua tempat kerja di darat, dalam tanah, permukaan air, dalam air, dan udara di wilayah hukum RI.", "tag": "Istilah & Ruang Lingkup" },
+    { "front": "Contoh persyaratan keselamatan kerja (UU No. 1/1970)", "back": "P3K, pencegahan kecelakaan, pemberian APD, pemadaman kebakaran, evakuasi, pencegahan ledakan & PAK, penerangan & ventilasi, ergonomi.", "tag": "Persyaratan Keselamatan Kerja" },
+    { "front": "Kewajiban tenaga kerja (Bab 8)", "back": "Memakai APD, memberi keterangan benar, mentaati syarat K3 yang diwajibkan.", "tag": "Kewajiban & Hak Tenaga Kerja" },
+    { "front": "Hak tenaga kerja (Bab 8)", "back": "Meminta pengurus melaksanakan syarat K3 dan menyatakan keberatan kerja bila syarat K3/APD diragukan.", "tag": "Kewajiban & Hak Tenaga Kerja" },
+    { "front": "Kewajiban Pengurus (Bab 10)", "back": "Memasang syarat keselamatan tertulis, memasang gambar keselamatan di tempat mudah terlihat, dan menyediakan APD bagi semua orang yang memasuki tempat kerja.", "tag": "Kewajiban Pengurus & P2K3" },
+    { "front": "P2K3", "back": "Panitia Pembina Keselamatan dan Kesehatan Kerja; dibentuk dengan kewenangan Menteri untuk mengembangkan kerjasama K3 antara pengurus dan tenaga kerja.", "tag": "Kewajiban Pengurus & P2K3" }
+  ],
+  "mindmap": [
+    { "id": "dasar-hukum-konsep-k3", "label": "Dasar Hukum & Konsep K3", "color": "#6366f1", "parent": null, "content": "Fondasi K3 mencakup pengertian, dasar hukum, tujuan, persyaratan, serta hak dan kewajiban yang melindungi tenaga kerja dan meningkatkan produktivitas." },
+
+    { "id": "pengertian-k3", "label": "Pengertian K3", "color": "#8b5cf6", "parent": "dasar-hukum-konsep-k3", "content": "K3 adalah singkatan dari Keselamatan dan Kesehatan Kerja, fokus pada perlindungan tenaga kerja." },
+    { "id": "definisi-pp50", "label": "Definisi PP 50/2012", "color": "#8b5cf6", "parent": "pengertian-k3", "content": "Segala kegiatan untuk menjamin dan melindungi keselamatan dan kesehatan tenaga kerja melalui pencegahan kecelakaan dan PAK." },
+    { "id": "pencegahan-kk-pak", "label": "Pencegahan KK & PAK", "color": "#8b5cf6", "parent": "pengertian-k3", "content": "Inti K3 adalah mencegah Kecelakaan Kerja (KK) dan Penyakit Akibat Kerja (PAK) sebelum terjadi (preventif)." },
+
+    { "id": "dasar-hukum", "label": "Dasar Hukum di Indonesia", "color": "#0ea5e9", "parent": "dasar-hukum-konsep-k3", "content": "Penerapan K3 di Indonesia bersifat wajib dan diatur dalam berbagai peraturan perundangan." },
+    { "id": "uud-1945", "label": "UUD 1945 Ps 27(2)", "color": "#0ea5e9", "parent": "dasar-hukum", "content": "Landasan konstitusional yang menjamin hak atas pekerjaan dan penghidupan yang layak." },
+    { "id": "uu-1-1970", "label": "UU No. 1/1970", "color": "#0ea5e9", "parent": "dasar-hukum", "content": "Undang-undang khusus tentang Keselamatan Kerja yang menjadi acuan utama K3." },
+    { "id": "uu-13-2003", "label": "UU No. 13/2003", "color": "#0ea5e9", "parent": "dasar-hukum", "content": "Undang-undang tentang Ketenagakerjaan sebagai salah satu dasar hukum K3." },
+    { "id": "pp-50-2012", "label": "PP No. 50/2012", "color": "#0ea5e9", "parent": "dasar-hukum", "content": "Peraturan tentang penerapan Sistem Manajemen K3 (SMK3) dan memuat definisi K3." },
+    { "id": "permenaker-5-2018", "label": "Permenaker No. 5/2018", "color": "#0ea5e9", "parent": "dasar-hukum", "content": "Mengatur K3 Lingkungan Kerja, termasuk nilai ambang batas faktor bahaya." },
+    { "id": "iso-45001", "label": "ISO 45001", "color": "#0ea5e9", "parent": "dasar-hukum", "content": "Standar internasional Sistem Manajemen Keselamatan dan Kesehatan Kerja." },
+
+    { "id": "tujuan-k3", "label": "Tujuan Keselamatan Kerja", "color": "#10b981", "parent": "dasar-hukum-konsep-k3", "content": "Menurut UU No. 1/1970, K3 bertujuan melindungi, menjamin, dan meningkatkan produktivitas." },
+    { "id": "perlindungan", "label": "Perlindungan", "color": "#10b981", "parent": "tujuan-k3", "content": "Melindungi keselamatan setiap tenaga kerja dan orang lain di tempat kerja." },
+    { "id": "jaminan", "label": "Jaminan Sumber Produksi", "color": "#10b981", "parent": "tujuan-k3", "content": "Menjamin setiap sumber produksi dapat digunakan secara aman dan efisien." },
+    { "id": "produktivitas", "label": "Produktivitas", "color": "#10b981", "parent": "tujuan-k3", "content": "Meningkatkan kesejahteraan dan produktivitas kerja." },
+
+    { "id": "latar-belakang", "label": "Latar Belakang Pentingnya K3", "color": "#f59e0b", "parent": "dasar-hukum-konsep-k3", "content": "Data ILO menunjukkan tingginya angka kecelakaan dan penyakit akibat kerja secara global." },
+    { "id": "ilo-160juta", "label": "160 Juta PAK/Tahun", "color": "#f59e0b", "parent": "latar-belakang", "content": "Menurut ILO 2013, 160 juta pekerja mengalami penyakit akibat kerja setiap tahun." },
+    { "id": "ilo-15detik", "label": "1 Kematian/15 Detik", "color": "#f59e0b", "parent": "latar-belakang", "content": "Menurut ILO 2013, setiap 15 detik 1 pekerja meninggal akibat kecelakaan kerja." },
+    { "id": "kerugian", "label": "Kerugian", "color": "#f59e0b", "parent": "latar-belakang", "content": "Kecelakaan menimbulkan kerugian harta benda, biaya medis, perbaikan peralatan, dan menurunkan nama baik organisasi." },
+
+    { "id": "struktur-11-bab", "label": "Struktur 11 Bab UU 1/1970", "color": "#ef4444", "parent": "dasar-hukum-konsep-k3", "content": "UU No. 1 Tahun 1970 terdiri dari 11 Bab yang mengatur seluruh aspek keselamatan kerja." },
+    { "id": "bab-1-2", "label": "Bab 1-2: Istilah & Ruang Lingkup", "color": "#ef4444", "parent": "struktur-11-bab", "content": "Bab 1 berisi istilah-istilah (definisi); Bab 2 berisi ruang lingkup keberlakuan undang-undang." },
+    { "id": "bab-3-syarat", "label": "Bab 3: Syarat Keselamatan", "color": "#ef4444", "parent": "struktur-11-bab", "content": "Memuat persyaratan keselamatan kerja seperti P3K, APD, pemadaman kebakaran, dan evakuasi." },
+    { "id": "bab-4-5", "label": "Bab 4-5: Pengawasan & Pembinaan", "color": "#ef4444", "parent": "struktur-11-bab", "content": "Bab 4 mengatur pengawasan (pemeriksaan kesehatan berkala); Bab 5 mengatur pembinaan tenaga kerja baru." },
+    { "id": "bab-6-7", "label": "Bab 6-7: P2K3 & Kecelakaan", "color": "#ef4444", "parent": "struktur-11-bab", "content": "Bab 6 mengatur pembentukan P2K3; Bab 7 mengatur kewajiban melaporkan kecelakaan." },
+    { "id": "bab-8-11", "label": "Bab 8-11: Hak, Kewajiban & Penutup", "color": "#ef4444", "parent": "struktur-11-bab", "content": "Bab 8 hak & kewajiban tenaga kerja, Bab 9 kewajiban memasuki tempat kerja, Bab 10 kewajiban pengurus, Bab 11 ketentuan penutup." },
+
+    { "id": "istilah-lingkup", "label": "Istilah & Ruang Lingkup", "color": "#ec4899", "parent": "dasar-hukum-konsep-k3", "content": "Bab 1-2 mendefinisikan istilah kunci dan menetapkan tempat kerja yang tercakup." },
+    { "id": "tempat-kerja", "label": "Tempat Kerja", "color": "#ec4899", "parent": "istilah-lingkup", "content": "Tiap ruangan/lapangan tempat tenaga kerja bekerja untuk usaha dan terdapat sumber bahaya." },
+    { "id": "pengurus-pengusaha", "label": "Pengurus & Pengusaha", "color": "#ec4899", "parent": "istilah-lingkup", "content": "Pengurus memimpin langsung tempat kerja; pengusaha menjalankan usaha milik sendiri." },
+    { "id": "pengawas-ahli", "label": "Pengawas & Ahli K3", "color": "#ec4899", "parent": "istilah-lingkup", "content": "Pegawai Pengawas dari dalam Depnaker; Ahli Keselamatan Kerja dari luar Depnaker, ditunjuk Menteri." },
+    { "id": "lingkup-wilayah", "label": "Ruang Lingkup", "color": "#ec4899", "parent": "istilah-lingkup", "content": "Berlaku di darat, dalam tanah, permukaan/dalam air, dan udara di wilayah hukum RI." },
+
+    { "id": "persyaratan-kk", "label": "Persyaratan Keselamatan Kerja", "color": "#14b8a6", "parent": "dasar-hukum-konsep-k3", "content": "Bab 3 memuat daftar persyaratan untuk mencegah kecelakaan dan penyakit akibat kerja." },
+    { "id": "p3k-kebakaran", "label": "P3K & Pemadaman Kebakaran", "color": "#14b8a6", "parent": "persyaratan-kk", "content": "Penyediaan P3K, pencegahan kecelakaan, pemadaman kebakaran, pencegahan ledakan, dan evakuasi." },
+    { "id": "apd-pak", "label": "APD & Pencegahan PAK", "color": "#14b8a6", "parent": "persyaratan-kk", "content": "Pemberian APD serta pencegahan penyakit akibat kerja melalui pengendalian faktor lingkungan." },
+    { "id": "lingkungan-kerja", "label": "Lingkungan Kerja", "color": "#14b8a6", "parent": "persyaratan-kk", "content": "Pengendalian suhu, kelembaban, debu, gas, radiasi, suara, getaran; penerangan, ventilasi, dan ergonomi yang baik." },
+
+    { "id": "hak-kewajiban-tk", "label": "Hak & Kewajiban Tenaga Kerja", "color": "#8b5cf6", "parent": "dasar-hukum-konsep-k3", "content": "Bab 8-9 mengatur kewajiban dan hak tenaga kerja serta siapa saja yang memasuki tempat kerja." },
+    { "id": "kewajiban-tk", "label": "Kewajiban", "color": "#8b5cf6", "parent": "hak-kewajiban-tk", "content": "Memakai APD, memberi keterangan benar, dan mentaati syarat K3 yang diwajibkan." },
+    { "id": "hak-tk", "label": "Hak", "color": "#8b5cf6", "parent": "hak-kewajiban-tk", "content": "Meminta pengurus melaksanakan syarat K3 dan menyatakan keberatan kerja bila syarat K3/APD diragukan." },
+    { "id": "masuk-tempat-kerja", "label": "Memasuki Tempat Kerja", "color": "#8b5cf6", "parent": "hak-kewajiban-tk", "content": "Siapa saja (termasuk tamu/kontraktor) wajib mentaati petunjuk keselamatan dan memakai APD yang diwajibkan." },
+
+    { "id": "kewajiban-pengurus-p2k3", "label": "Kewajiban Pengurus & P2K3", "color": "#0ea5e9", "parent": "dasar-hukum-konsep-k3", "content": "Bab 4, 5, 6, 7, 10 mengatur kewajiban pengurus dan pembentukan P2K3." },
+    { "id": "kewajiban-pengurus", "label": "Kewajiban Pengurus", "color": "#0ea5e9", "parent": "kewajiban-pengurus-p2k3", "content": "Memasang syarat keselamatan tertulis, gambar keselamatan di tempat terlihat, dan menyediakan APD." },
+    { "id": "p2k3", "label": "P2K3", "color": "#0ea5e9", "parent": "kewajiban-pengurus-p2k3", "content": "Panitia Pembina K3, wadah kerjasama K3 antara pengurus dan tenaga kerja untuk melancarkan produksi." },
+    { "id": "pengawasan-pembinaan", "label": "Pengawasan & Pembinaan", "color": "#0ea5e9", "parent": "kewajiban-pengurus-p2k3", "content": "Pengawasan kesehatan berkala dan pembinaan tenaga kerja baru tentang bahaya, APD, dan prosedur kerja aman." },
+    { "id": "pelaporan-kecelakaan", "label": "Pelaporan Kecelakaan", "color": "#0ea5e9", "parent": "kewajiban-pengurus-p2k3", "content": "Pengurus wajib melaporkan tiap kecelakaan kepada pejabat yang ditunjuk Menteri Tenaga Kerja." }
+  ]
+}

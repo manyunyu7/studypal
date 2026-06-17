@@ -1,0 +1,1482 @@
+{
+  "topic": "Fasilitas Kebersihan",
+  "order": 3,
+  "description": "Fasilitas kebersihan adalah sarana yang wajib disediakan di setiap tempat kerja untuk menjaga higiene dan sanitasi pekerja, meliputi toilet beserta kelengkapannya, loker dan ruang ganti, tempat sampah, serta peralatan kebersihan. Penyediaannya diatur mengikuti persyaratan kebersihan dan kecukupan jumlah disesuaikan dengan banyaknya pekerja.",
+  "subtopics": [
+    "Persyaratan Toilet",
+    "Kelengkapan Toilet",
+    "Penempatan Toilet",
+    "Kecukupan Jamban",
+    "Toilet Area Konstruksi",
+    "Loker & Ruang Ganti",
+    "Tempat Sampah",
+    "Pembuangan Pembalut"
+  ],
+  "questions": [
+    {
+      "text": "Fasilitas kebersihan yang wajib disediakan pada setiap tempat kerja meliputi toilet, loker dan ruang ganti, tempat sampah, serta?",
+      "explanation": "Fasilitas kebersihan di tempat kerja meliputi toilet dan kelengkapannya, loker dan ruang ganti pakaian, tempat sampah, serta peralatan kebersihan.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Peralatan kebersihan", "isCorrect": true },
+        { "text": "B. Kantin makan", "isCorrect": false },
+        { "text": "C. Ruang ibadah", "isCorrect": false },
+        { "text": "D. Pos satpam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu persyaratan toilet di tempat kerja terkait kondisi kebersihan adalah?",
+      "explanation": "Toilet harus bersih dan tidak menimbulkan bau agar nyaman dan higienis digunakan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Berukuran sangat luas", "isCorrect": false },
+        { "text": "B. Bersih dan tidak menimbulkan bau", "isCorrect": true },
+        { "text": "C. Berwarna putih", "isCorrect": false },
+        { "text": "D. Berlantai keramik mahal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Terkait gangguan serangga, persyaratan toilet menyebutkan bahwa toilet harus?",
+      "explanation": "Toilet harus bebas dari lalat, nyamuk, atau serangga lainnya agar tidak menjadi sumber penularan penyakit.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Diberi pestисida setiap jam", "isCorrect": false },
+        { "text": "B. Tidak ada lalat, nyamuk atau serangga lainnya", "isCorrect": true },
+        { "text": "C. Dibiarkan terbuka agar serangga keluar", "isCorrect": false },
+        { "text": "D. Disemprot parfum kuat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Persyaratan toilet terkait pembuangan air adalah harus tersedia?",
+      "explanation": "Toilet harus dilengkapi saluran pembuangan air yang mengalir dengan baik agar tidak terjadi genangan.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Saluran pembuangan air yang mengalir dengan baik", "isCorrect": true },
+        { "text": "B. Bak penampung air kotor yang tidak mengalir", "isCorrect": false },
+        { "text": "C. Lubang resapan tanpa saluran", "isCorrect": false },
+        { "text": "D. Selokan terbuka di tengah ruang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Air yang harus tersedia di toilet tempat kerja adalah?",
+      "explanation": "Toilet harus menyediakan air bersih yang cukup untuk keperluan membilas dan kebersihan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Air hujan tampungan", "isCorrect": false },
+        { "text": "B. Air bersih", "isCorrect": true },
+        { "text": "C. Air sungai langsung", "isCorrect": false },
+        { "text": "D. Air bekas cucian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk menjaga privasi, persyaratan toilet menyebutkan toilet harus dilengkapi dengan?",
+      "explanation": "Toilet harus dilengkapi dengan pintu untuk menjamin privasi penggunanya.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Gorden tipis", "isCorrect": false },
+        { "text": "B. Pintu", "isCorrect": true },
+        { "text": "C. Tirai plastik", "isCorrect": false },
+        { "text": "D. Sekat terbuka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Terkait penerangan, persyaratan toilet menyebutkan toilet harus memiliki?",
+      "explanation": "Toilet harus memiliki penerangan yang cukup agar aman dan nyaman digunakan.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Penerangan yang cukup", "isCorrect": true },
+        { "text": "B. Lampu sorot terang", "isCorrect": false },
+        { "text": "C. Pencahayaan gelap agar hemat", "isCorrect": false },
+        { "text": "D. Lampu warna-warni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agar udara di dalam toilet tetap sehat, persyaratan toilet menyebutkan harus memiliki?",
+      "explanation": "Toilet harus memiliki sirkulasi udara yang baik untuk mencegah bau dan kelembapan berlebih.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. AC bertekanan tinggi", "isCorrect": false },
+        { "text": "B. Sirkulasi udara yang baik", "isCorrect": true },
+        { "text": "C. Ruang tertutup rapat tanpa ventilasi", "isCorrect": false },
+        { "text": "D. Kipas angin yang dimatikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seberapa sering toilet di tempat kerja harus dibersihkan?",
+      "explanation": "Toilet harus dibersihkan setiap hari secara periodik untuk menjaga kebersihan dan higiene.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Setiap minggu sekali", "isCorrect": false },
+        { "text": "B. Setiap hari secara periodik", "isCorrect": true },
+        { "text": "C. Sebulan sekali", "isCorrect": false },
+        { "text": "D. Hanya saat kotor parah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Terkait ketersediaan waktu pakai, persyaratan toilet menyebutkan toilet harus?",
+      "explanation": "Toilet harus dapat digunakan selama jam kerja sehingga pekerja dapat mengaksesnya kapan pun dibutuhkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Hanya dibuka saat istirahat", "isCorrect": false },
+        { "text": "B. Dapat digunakan selama jam kerja", "isCorrect": true },
+        { "text": "C. Dikunci selama jam produksi", "isCorrect": false },
+        { "text": "D. Dibuka hanya pagi hari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN termasuk persyaratan toilet di tempat kerja?",
+      "explanation": "Persyaratan toilet mencakup bersih, bebas serangga, ada saluran air, air bersih, berpintu, penerangan cukup, sirkulasi udara baik, dibersihkan tiap hari, dan dapat dipakai selama jam kerja; lantai dari marmer bukan persyaratan.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Tersedia air bersih", "isCorrect": false },
+        { "text": "B. Memiliki sirkulasi udara yang baik", "isCorrect": false },
+        { "text": "C. Lantai harus terbuat dari marmer mahal", "isCorrect": true },
+        { "text": "D. Dibersihkan setiap hari secara periodik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kelengkapan fasilitas toilet yang digunakan untuk buang air adalah?",
+      "explanation": "Jamban merupakan kelengkapan utama toilet sebagai sarana buang air pekerja.",
+      "difficulty": "EASY",
+      "tag": "Kelengkapan Toilet",
+      "options": [
+        { "text": "A. Jamban", "isCorrect": true },
+        { "text": "B. Cermin", "isCorrect": false },
+        { "text": "C. Pengering tangan", "isCorrect": false },
+        { "text": "D. Pengharum ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain jamban, kelengkapan toilet harus menyediakan air bersih dalam jumlah?",
+      "explanation": "Toilet harus dilengkapi air bersih yang cukup untuk keperluan membilas dan menjaga kebersihan.",
+      "difficulty": "EASY",
+      "tag": "Kelengkapan Toilet",
+      "options": [
+        { "text": "A. Seadanya", "isCorrect": false },
+        { "text": "B. Yang cukup", "isCorrect": true },
+        { "text": "C. Sangat sedikit untuk hemat", "isCorrect": false },
+        { "text": "D. Hanya pada jam tertentu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelengkapan toilet yang berfungsi untuk membersihkan setelah buang air disebut?",
+      "explanation": "Alat pembilas merupakan kelengkapan toilet yang digunakan untuk membersihkan diri setelah buang air.",
+      "difficulty": "EASY",
+      "tag": "Kelengkapan Toilet",
+      "options": [
+        { "text": "A. Tempat sampah", "isCorrect": false },
+        { "text": "B. Alat pembilas", "isCorrect": true },
+        { "text": "C. Loker", "isCorrect": false },
+        { "text": "D. Peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk menjaga kebersihan, toilet harus dilengkapi sarana pembuangan berupa?",
+      "explanation": "Tempat sampah termasuk kelengkapan toilet untuk membuang sampah agar toilet tetap bersih.",
+      "difficulty": "EASY",
+      "tag": "Kelengkapan Toilet",
+      "options": [
+        { "text": "A. Tempat sampah", "isCorrect": true },
+        { "text": "B. Rak buku", "isCorrect": false },
+        { "text": "C. Meja kerja", "isCorrect": false },
+        { "text": "D. Lemari arsip", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelengkapan toilet untuk menjaga higiene tangan pekerja meliputi?",
+      "explanation": "Toilet harus menyediakan tempat cuci tangan dan sabun agar pekerja dapat menjaga kebersihan tangan.",
+      "difficulty": "EASY",
+      "tag": "Kelengkapan Toilet",
+      "options": [
+        { "text": "A. Hanya keran air", "isCorrect": false },
+        { "text": "B. Tempat cuci tangan dan sabun", "isCorrect": true },
+        { "text": "C. Tisu basah saja", "isCorrect": false },
+        { "text": "D. Handuk umum bersama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah rangkaian yang merupakan kelengkapan fasilitas toilet?",
+      "explanation": "Kelengkapan toilet meliputi jamban, air bersih yang cukup, alat pembilas, tempat sampah, serta tempat cuci tangan dan sabun.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelengkapan Toilet",
+      "options": [
+        { "text": "A. Jamban, air bersih, alat pembilas, tempat sampah, cuci tangan dan sabun", "isCorrect": true },
+        { "text": "B. Jamban, televisi, sofa, dan AC", "isCorrect": false },
+        { "text": "C. Loker, meja, kursi, dan rak", "isCorrect": false },
+        { "text": "D. Hanya jamban dan air saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN termasuk kelengkapan wajib fasilitas toilet?",
+      "explanation": "Kelengkapan toilet adalah jamban, air bersih cukup, alat pembilas, tempat sampah, serta tempat cuci tangan dan sabun; mesin minuman bukan kelengkapan toilet.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelengkapan Toilet",
+      "options": [
+        { "text": "A. Tempat cuci tangan dan sabun", "isCorrect": false },
+        { "text": "B. Alat pembilas", "isCorrect": false },
+        { "text": "C. Mesin penjual minuman otomatis", "isCorrect": true },
+        { "text": "D. Tempat sampah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penempatan toilet di tempat kerja harus terpisah antara?",
+      "explanation": "Penempatan toilet harus terpisah antara laki-laki, perempuan, dan penyandang cacat serta diberi tanda yang jelas.",
+      "difficulty": "EASY",
+      "tag": "Penempatan Toilet",
+      "options": [
+        { "text": "A. Manajer dan staf", "isCorrect": false },
+        { "text": "B. Laki-laki, perempuan, dan penyandang cacat", "isCorrect": true },
+        { "text": "C. Pekerja tetap dan kontrak", "isCorrect": false },
+        { "text": "D. Shift pagi dan malam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain dipisahkan, toilet laki-laki, perempuan, dan penyandang cacat harus diberi?",
+      "explanation": "Toilet yang terpisah harus diberi tanda yang jelas agar mudah dikenali penggunanya.",
+      "difficulty": "EASY",
+      "tag": "Penempatan Toilet",
+      "options": [
+        { "text": "A. Nomor antrian", "isCorrect": false },
+        { "text": "B. Tanda yang jelas", "isCorrect": true },
+        { "text": "C. Kunci khusus", "isCorrect": false },
+        { "text": "D. Kamera pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada toilet laki-laki, selain jamban juga harus disediakan?",
+      "explanation": "Dalam hal toilet laki-laki, harus disediakan peturasan (urinoir) sebagai kelengkapan tambahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Penempatan Toilet",
+      "options": [
+        { "text": "A. Bak mandi besar", "isCorrect": false },
+        { "text": "B. Peturasan", "isCorrect": true },
+        { "text": "C. Ruang ganti tambahan", "isCorrect": false },
+        { "text": "D. Tempat tidur istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyediaan toilet khusus penyandang cacat menunjukkan prinsip fasilitas yang bersifat?",
+      "explanation": "Penempatan toilet terpisah untuk penyandang cacat dengan tanda jelas menunjukkan prinsip aksesibilitas dan inklusif bagi semua pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Penempatan Toilet",
+      "options": [
+        { "text": "A. Inklusif dan aksesibel", "isCorrect": true },
+        { "text": "B. Eksklusif untuk manajemen", "isCorrect": false },
+        { "text": "C. Sementara saja", "isCorrect": false },
+        { "text": "D. Opsional dan boleh diabaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk jumlah pekerja 1-15 orang, berapa jumlah jamban minimal yang harus disediakan?",
+      "explanation": "Berdasarkan kecukupan jamban, 1 jamban disediakan untuk 1-15 orang pekerja.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 1 jamban", "isCorrect": true },
+        { "text": "B. 2 jamban", "isCorrect": false },
+        { "text": "C. 3 jamban", "isCorrect": false },
+        { "text": "D. 4 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah jamban yang harus disediakan untuk 25 pekerja?",
+      "explanation": "Jumlah 25 pekerja berada pada rentang 16-30 orang, sehingga membutuhkan 2 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 1 jamban", "isCorrect": false },
+        { "text": "B. 2 jamban", "isCorrect": true },
+        { "text": "C. 3 jamban", "isCorrect": false },
+        { "text": "D. 4 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah jamban minimal untuk 40 orang pekerja?",
+      "explanation": "Jumlah 40 pekerja berada pada rentang 31-45 orang, sehingga membutuhkan 3 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 2 jamban", "isCorrect": false },
+        { "text": "B. 3 jamban", "isCorrect": true },
+        { "text": "C. 4 jamban", "isCorrect": false },
+        { "text": "D. 5 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah tempat kerja memiliki 55 pekerja. Berapa jamban minimal yang harus disediakan?",
+      "explanation": "Jumlah 55 pekerja berada pada rentang 46-60 orang, sehingga membutuhkan 4 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 3 jamban", "isCorrect": false },
+        { "text": "B. 4 jamban", "isCorrect": true },
+        { "text": "C. 5 jamban", "isCorrect": false },
+        { "text": "D. 6 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah jamban minimal untuk 70 pekerja?",
+      "explanation": "Jumlah 70 pekerja berada pada rentang 61-80 orang, sehingga membutuhkan 5 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 4 jamban", "isCorrect": false },
+        { "text": "B. 5 jamban", "isCorrect": true },
+        { "text": "C. 6 jamban", "isCorrect": false },
+        { "text": "D. 7 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah pabrik mempekerjakan 95 orang. Berapa jamban minimal yang harus disediakan?",
+      "explanation": "Jumlah 95 pekerja berada pada rentang 81-100 orang, sehingga membutuhkan 6 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 5 jamban", "isCorrect": false },
+        { "text": "B. 6 jamban", "isCorrect": true },
+        { "text": "C. 7 jamban", "isCorrect": false },
+        { "text": "D. 8 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk rentang jumlah pekerja berapakah disediakan tepat 2 jamban?",
+      "explanation": "2 jamban disediakan untuk jumlah pekerja 16-30 orang.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 1-15 orang", "isCorrect": false },
+        { "text": "B. 16-30 orang", "isCorrect": true },
+        { "text": "C. 31-45 orang", "isCorrect": false },
+        { "text": "D. 46-60 orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rentang jumlah pekerja yang membutuhkan 5 jamban adalah?",
+      "explanation": "5 jamban disediakan untuk jumlah pekerja 61-80 orang.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 46-60 orang", "isCorrect": false },
+        { "text": "B. 61-80 orang", "isCorrect": true },
+        { "text": "C. 81-100 orang", "isCorrect": false },
+        { "text": "D. 31-45 orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk jumlah pekerja 81-100 orang, berapa jamban minimal yang disediakan?",
+      "explanation": "Rentang 81-100 orang membutuhkan 6 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 5 jamban", "isCorrect": false },
+        { "text": "B. 6 jamban", "isCorrect": true },
+        { "text": "C. 7 jamban", "isCorrect": false },
+        { "text": "D. 4 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah melebihi 100 pekerja, penambahan jamban dilakukan setiap penambahan berapa orang?",
+      "explanation": "Setelah 100 orang, setiap penambahan 40 orang harus ditambahkan 1 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. Setiap 20 orang", "isCorrect": false },
+        { "text": "B. Setiap 40 orang", "isCorrect": true },
+        { "text": "C. Setiap 50 orang", "isCorrect": false },
+        { "text": "D. Setiap 100 orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah perusahaan memiliki 140 pekerja. Berapa jumlah jamban minimal yang harus disediakan?",
+      "explanation": "Untuk 100 orang disediakan 6 jamban; tambahan 40 orang (menjadi 140) menambah 1 jamban sehingga total 7 jamban.",
+      "difficulty": "HARD",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 6 jamban", "isCorrect": false },
+        { "text": "B. 7 jamban", "isCorrect": true },
+        { "text": "C. 8 jamban", "isCorrect": false },
+        { "text": "D. 9 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah pabrik mempekerjakan 180 orang. Berapa jamban minimal yang harus disediakan?",
+      "explanation": "100 orang = 6 jamban; sisa 80 orang berarti tambahan 2 x 40 orang = 2 jamban, sehingga total 8 jamban.",
+      "difficulty": "HARD",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 7 jamban", "isCorrect": false },
+        { "text": "B. 8 jamban", "isCorrect": true },
+        { "text": "C. 9 jamban", "isCorrect": false },
+        { "text": "D. 10 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jamban minimal untuk 220 pekerja tetap?",
+      "explanation": "100 orang = 6 jamban; sisa 120 orang = 3 x 40 orang = 3 jamban tambahan, sehingga total 9 jamban.",
+      "difficulty": "HARD",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 8 jamban", "isCorrect": false },
+        { "text": "B. 9 jamban", "isCorrect": true },
+        { "text": "C. 10 jamban", "isCorrect": false },
+        { "text": "D. 11 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah jamban minimal untuk 10 pekerja?",
+      "explanation": "Jumlah 10 pekerja berada pada rentang 1-15 orang, sehingga cukup 1 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 1 jamban", "isCorrect": true },
+        { "text": "B. 2 jamban", "isCorrect": false },
+        { "text": "C. 3 jamban", "isCorrect": false },
+        { "text": "D. 0 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah jamban minimal untuk 30 pekerja?",
+      "explanation": "Jumlah 30 pekerja berada pada batas atas rentang 16-30 orang, sehingga membutuhkan 2 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 1 jamban", "isCorrect": false },
+        { "text": "B. 2 jamban", "isCorrect": true },
+        { "text": "C. 3 jamban", "isCorrect": false },
+        { "text": "D. 4 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah jamban minimal untuk 60 pekerja?",
+      "explanation": "Jumlah 60 pekerja berada pada batas atas rentang 46-60 orang, sehingga membutuhkan 4 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 3 jamban", "isCorrect": false },
+        { "text": "B. 4 jamban", "isCorrect": true },
+        { "text": "C. 5 jamban", "isCorrect": false },
+        { "text": "D. 6 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah jamban minimal untuk 80 pekerja?",
+      "explanation": "Jumlah 80 pekerja berada pada batas atas rentang 61-80 orang, sehingga membutuhkan 5 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 4 jamban", "isCorrect": false },
+        { "text": "B. 5 jamban", "isCorrect": true },
+        { "text": "C. 6 jamban", "isCorrect": false },
+        { "text": "D. 7 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah kantor memiliki 100 pekerja. Berapa jamban minimal yang harus disediakan?",
+      "explanation": "Jumlah 100 pekerja berada pada batas atas rentang 81-100 orang, sehingga membutuhkan 6 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 5 jamban", "isCorrect": false },
+        { "text": "B. 6 jamban", "isCorrect": true },
+        { "text": "C. 7 jamban", "isCorrect": false },
+        { "text": "D. 8 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jamban minimal untuk 120 pekerja tetap?",
+      "explanation": "100 orang = 6 jamban; tambahan 20 orang masih dalam satu kelompok tambahan 40 orang, sehingga ditambah 1 jamban menjadi 7 jamban.",
+      "difficulty": "HARD",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 6 jamban", "isCorrect": false },
+        { "text": "B. 7 jamban", "isCorrect": true },
+        { "text": "C. 8 jamban", "isCorrect": false },
+        { "text": "D. 9 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jamban minimal untuk 160 pekerja tetap?",
+      "explanation": "100 orang = 6 jamban; sisa 60 orang = 2 x 40 orang dibulatkan = 2 jamban tambahan, sehingga total 8 jamban.",
+      "difficulty": "HARD",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 7 jamban", "isCorrect": false },
+        { "text": "B. 8 jamban", "isCorrect": true },
+        { "text": "C. 9 jamban", "isCorrect": false },
+        { "text": "D. 10 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk jumlah pekerja 31-45 orang, berapa jamban yang disediakan?",
+      "explanation": "Rentang 31-45 orang membutuhkan 3 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 2 jamban", "isCorrect": false },
+        { "text": "B. 3 jamban", "isCorrect": true },
+        { "text": "C. 4 jamban", "isCorrect": false },
+        { "text": "D. 5 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk jumlah pekerja 46-60 orang, berapa jamban yang disediakan?",
+      "explanation": "Rentang 46-60 orang membutuhkan 4 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 3 jamban", "isCorrect": false },
+        { "text": "B. 4 jamban", "isCorrect": true },
+        { "text": "C. 5 jamban", "isCorrect": false },
+        { "text": "D. 6 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang petugas K3 menghitung kebutuhan jamban untuk 200 pekerja tetap. Berapa hasilnya?",
+      "explanation": "100 orang = 6 jamban; sisa 100 orang = 2 x 40 (80 orang) ditambah sisa 20 dibulatkan jadi 3 x 40, namun perhitungan praktis: tiap 40 tambahan +1, sehingga 100 orang tambahan menambah 3 jamban menjadi total 9 jamban.",
+      "difficulty": "HARD",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 8 jamban", "isCorrect": false },
+        { "text": "B. 9 jamban", "isCorrect": true },
+        { "text": "C. 10 jamban", "isCorrect": false },
+        { "text": "D. 7 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip dasar pengaturan kecukupan jamban adalah jumlahnya disesuaikan dengan?",
+      "explanation": "Kecukupan jamban disesuaikan dengan jumlah pekerja agar fasilitas memadai bagi seluruh pengguna.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. Luas bangunan", "isCorrect": false },
+        { "text": "B. Jumlah pekerja", "isCorrect": true },
+        { "text": "C. Anggaran perusahaan", "isCorrect": false },
+        { "text": "D. Jumlah lantai gedung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada area konstruksi atau tempat kerja sementara, 1 jamban disediakan untuk berapa orang?",
+      "explanation": "Di area konstruksi atau tempat kerja sementara, 1 jamban disediakan untuk 1-19 orang.",
+      "difficulty": "MEDIUM",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1-15 orang", "isCorrect": false },
+        { "text": "B. 1-19 orang", "isCorrect": true },
+        { "text": "C. 1-20 orang", "isCorrect": false },
+        { "text": "D. 1-30 orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi, untuk jumlah pekerja 20-199 orang, berapa rasio jamban dan peturasan yang disediakan?",
+      "explanation": "Pada area konstruksi dengan 20-199 orang, disediakan 1 jamban dan 1 peturasan untuk setiap 40 orang.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban dan 1 peturasan setiap 40 orang", "isCorrect": true },
+        { "text": "B. 1 jamban dan 1 peturasan setiap 50 orang", "isCorrect": false },
+        { "text": "C. 1 jamban setiap 19 orang", "isCorrect": false },
+        { "text": "D. 1 jamban setiap 15 orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan jumlah pekerja 200 orang atau lebih, berapa rasio jamban dan peturasan?",
+      "explanation": "Pada area konstruksi dengan 200 orang ke atas, disediakan 1 jamban dan 1 peturasan untuk setiap 50 orang.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban dan 1 peturasan setiap 40 orang", "isCorrect": false },
+        { "text": "B. 1 jamban dan 1 peturasan setiap 50 orang", "isCorrect": true },
+        { "text": "C. 1 jamban setiap 19 orang", "isCorrect": false },
+        { "text": "D. 1 jamban dan 1 peturasan setiap 100 orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 15 pekerja, berapa jamban minimal yang disediakan?",
+      "explanation": "Jumlah 15 pekerja berada pada rentang 1-19 orang, sehingga cukup 1 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban", "isCorrect": true },
+        { "text": "B. 2 jamban", "isCorrect": false },
+        { "text": "C. 3 jamban", "isCorrect": false },
+        { "text": "D. 4 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 80 pekerja, berapa jamban dan peturasan yang disediakan?",
+      "explanation": "Pada rentang 20-199 orang, 1 jamban dan 1 peturasan per 40 orang; 80 / 40 = 2, sehingga 2 jamban dan 2 peturasan.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban dan 1 peturasan", "isCorrect": false },
+        { "text": "B. 2 jamban dan 2 peturasan", "isCorrect": true },
+        { "text": "C. 3 jamban dan 3 peturasan", "isCorrect": false },
+        { "text": "D. 4 jamban dan 4 peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 120 pekerja, berapa jamban dan peturasan yang disediakan?",
+      "explanation": "Pada rentang 20-199 orang, 1 jamban dan 1 peturasan per 40 orang; 120 / 40 = 3, sehingga 3 jamban dan 3 peturasan.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 2 jamban dan 2 peturasan", "isCorrect": false },
+        { "text": "B. 3 jamban dan 3 peturasan", "isCorrect": true },
+        { "text": "C. 4 jamban dan 4 peturasan", "isCorrect": false },
+        { "text": "D. 1 jamban dan 1 peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 250 pekerja, berapa jamban dan peturasan yang disediakan?",
+      "explanation": "Karena 250 orang termasuk kategori 200 ke atas, rasionya 1 jamban dan 1 peturasan per 50 orang; 250 / 50 = 5, sehingga 5 jamban dan 5 peturasan.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 4 jamban dan 4 peturasan", "isCorrect": false },
+        { "text": "B. 5 jamban dan 5 peturasan", "isCorrect": true },
+        { "text": "C. 6 jamban dan 6 peturasan", "isCorrect": false },
+        { "text": "D. 7 jamban dan 7 peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 40 pekerja, berapa jamban dan peturasan yang disediakan?",
+      "explanation": "Pada rentang 20-199 orang, 1 jamban dan 1 peturasan per 40 orang; 40 / 40 = 1, sehingga 1 jamban dan 1 peturasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban dan 1 peturasan", "isCorrect": true },
+        { "text": "B. 2 jamban dan 2 peturasan", "isCorrect": false },
+        { "text": "C. 3 jamban dan 3 peturasan", "isCorrect": false },
+        { "text": "D. 1 jamban tanpa peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 300 pekerja, berapa jamban dan peturasan yang disediakan?",
+      "explanation": "Untuk 200 ke atas, rasio 1 jamban dan 1 peturasan per 50 orang; 300 / 50 = 6, sehingga 6 jamban dan 6 peturasan.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 5 jamban dan 5 peturasan", "isCorrect": false },
+        { "text": "B. 6 jamban dan 6 peturasan", "isCorrect": true },
+        { "text": "C. 7 jamban dan 7 peturasan", "isCorrect": false },
+        { "text": "D. 8 jamban dan 8 peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aturan kecukupan jamban di area konstruksi berbeda dengan tempat kerja tetap karena sifat tempat kerja konstruksi yang?",
+      "explanation": "Area konstruksi merupakan tempat kerja sementara, sehingga aturan kecukupan jambannya diatur tersendiri dan berbeda dari tempat kerja permanen.",
+      "difficulty": "MEDIUM",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. Permanen dan menetap", "isCorrect": false },
+        { "text": "B. Sementara", "isCorrect": true },
+        { "text": "C. Berada di dalam gedung", "isCorrect": false },
+        { "text": "D. Tertutup penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 19 pekerja, berapa jamban minimal yang disediakan?",
+      "explanation": "Jumlah 19 pekerja masih dalam rentang 1-19 orang, sehingga cukup 1 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban", "isCorrect": true },
+        { "text": "B. 2 jamban", "isCorrect": false },
+        { "text": "C. 3 jamban", "isCorrect": false },
+        { "text": "D. 4 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 199 pekerja, rasio jamban yang digunakan adalah?",
+      "explanation": "Jumlah 199 orang masih dalam rentang 20-199 orang, sehingga rasionya 1 jamban dan 1 peturasan per 40 orang.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban dan 1 peturasan per 40 orang", "isCorrect": true },
+        { "text": "B. 1 jamban dan 1 peturasan per 50 orang", "isCorrect": false },
+        { "text": "C. 1 jamban per 19 orang", "isCorrect": false },
+        { "text": "D. 1 jamban per 15 orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang ganti pakaian harus disediakan terutama jika pekerja menggunakan pakaian kerja?",
+      "explanation": "Ruang ganti wajib disediakan jika pekerja menggunakan pakaian kerja hanya selama bekerja, agar mereka dapat berganti pakaian.",
+      "difficulty": "MEDIUM",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Sepanjang waktu termasuk di rumah", "isCorrect": false },
+        { "text": "B. Hanya selama bekerja", "isCorrect": true },
+        { "text": "C. Hanya saat istirahat", "isCorrect": false },
+        { "text": "D. Tidak pernah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang ganti pakaian di tempat kerja harus dalam kondisi?",
+      "explanation": "Ruang ganti pakaian harus bersih agar higienis dan nyaman digunakan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Bersih", "isCorrect": true },
+        { "text": "B. Gelap", "isCorrect": false },
+        { "text": "C. Lembap", "isCorrect": false },
+        { "text": "D. Sempit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang ganti pakaian harus terpisah antara?",
+      "explanation": "Ruang ganti pakaian harus terpisah antara laki-laki dan perempuan untuk menjaga privasi.",
+      "difficulty": "EASY",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Staf dan manajer", "isCorrect": false },
+        { "text": "B. Laki-laki dan perempuan", "isCorrect": true },
+        { "text": "C. Shift pagi dan sore", "isCorrect": false },
+        { "text": "D. Pekerja baru dan lama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemakaian ruang ganti pakaian harus diatur agar?",
+      "explanation": "Pemakaian ruang ganti harus diatur agar tidak berdesakan sehingga pekerja nyaman dan tetap menjaga privasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Selalu penuh dan cepat", "isCorrect": false },
+        { "text": "B. Tidak berdesakan", "isCorrect": true },
+        { "text": "C. Bergiliran setahun sekali", "isCorrect": false },
+        { "text": "D. Digunakan bersama-sama campur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempat menyimpan pakaian yang harus disediakan untuk setiap pekerja di ruang ganti disebut?",
+      "explanation": "Loker adalah tempat menyimpan pakaian yang disediakan untuk setiap pekerja di ruang ganti.",
+      "difficulty": "EASY",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Loker", "isCorrect": true },
+        { "text": "B. Jamban", "isCorrect": false },
+        { "text": "C. Peturasan", "isCorrect": false },
+        { "text": "D. Tempat sampah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Loker yang disediakan untuk pekerja harus terjamin?",
+      "explanation": "Loker untuk menyimpan pakaian setiap pekerja harus terjamin keamanannya agar barang pekerja aman.",
+      "difficulty": "EASY",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Keindahannya", "isCorrect": false },
+        { "text": "B. Keamanannya", "isCorrect": true },
+        { "text": "C. Warnanya", "isCorrect": false },
+        { "text": "D. Ukurannya yang seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah loker yang idealnya disediakan dalam ruang ganti?",
+      "explanation": "Loker harus disediakan untuk setiap pekerja agar masing-masing memiliki tempat penyimpanan yang aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Satu loker untuk semua pekerja", "isCorrect": false },
+        { "text": "B. Satu loker untuk setiap pekerja", "isCorrect": true },
+        { "text": "C. Satu loker untuk setiap divisi", "isCorrect": false },
+        { "text": "D. Loker hanya untuk pekerja tetap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama penyediaan ruang ganti dan loker yang aman bagi pekerja adalah?",
+      "explanation": "Ruang ganti yang bersih dan terpisah serta loker yang aman bertujuan menjaga higiene, privasi, dan keamanan barang pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Menjaga higiene, privasi, dan keamanan barang pekerja", "isCorrect": true },
+        { "text": "B. Menambah luas gedung", "isCorrect": false },
+        { "text": "C. Mengganti fungsi toilet", "isCorrect": false },
+        { "text": "D. Sebagai gudang penyimpanan bahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempat sampah di tempat kerja minimal harus dipisahkan dan diberi label untuk kategori?",
+      "explanation": "Tempat sampah harus terpisah dan diberi label untuk sampah organik, non-organik, dan bahan berbahaya (B3).",
+      "difficulty": "MEDIUM",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Basah dan kering saja", "isCorrect": false },
+        { "text": "B. Organik, non-organik, dan bahan berbahaya (B3)", "isCorrect": true },
+        { "text": "C. Besar dan kecil", "isCorrect": false },
+        { "text": "D. Plastik dan logam saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain dipisahkan, tempat sampah harus diberi?",
+      "explanation": "Tempat sampah harus diberi label sesuai jenisnya agar pemilahan sampah berjalan benar.",
+      "difficulty": "EASY",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Label", "isCorrect": true },
+        { "text": "B. Nomor urut", "isCorrect": false },
+        { "text": "C. Gembok", "isCorrect": false },
+        { "text": "D. Roda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempat sampah harus dilengkapi dengan penutup dan terbuat dari bahan yang?",
+      "explanation": "Tempat sampah harus dilengkapi penutup dan terbuat dari bahan kedap air agar tidak bocor dan tidak menimbulkan bau.",
+      "difficulty": "EASY",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Mudah berkarat", "isCorrect": false },
+        { "text": "B. Kedap air", "isCorrect": true },
+        { "text": "C. Berpori", "isCorrect": false },
+        { "text": "D. Mudah terbakar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat tempat sampah adalah tidak menjadi?",
+      "explanation": "Tempat sampah harus dirancang agar tidak menjadi sarang lalat atau binatang serangga lain.",
+      "difficulty": "EASY",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Sarang lalat atau serangga lain", "isCorrect": true },
+        { "text": "B. Tempat parkir kendaraan", "isCorrect": false },
+        { "text": "C. Sumber air bersih", "isCorrect": false },
+        { "text": "D. Loker tambahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Label B3 pada tempat sampah menandakan sampah jenis?",
+      "explanation": "Label B3 menandakan sampah bahan berbahaya dan beracun yang harus dipisahkan dari sampah organik dan non-organik.",
+      "difficulty": "MEDIUM",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Bahan berbahaya dan beracun", "isCorrect": true },
+        { "text": "B. Bahan biasa dan basah", "isCorrect": false },
+        { "text": "C. Bahan bangunan bekas", "isCorrect": false },
+        { "text": "D. Bahan baku berlebih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh sampah yang dimasukkan ke tempat sampah berlabel organik adalah?",
+      "explanation": "Sampah organik adalah sampah yang mudah terurai seperti sisa makanan dan daun, sehingga dipisahkan dari non-organik dan B3.",
+      "difficulty": "MEDIUM",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Sisa makanan dan daun", "isCorrect": true },
+        { "text": "B. Botol plastik dan kaleng", "isCorrect": false },
+        { "text": "C. Baterai bekas", "isCorrect": false },
+        { "text": "D. Oli bekas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penutup pada tempat sampah berfungsi untuk?",
+      "explanation": "Penutup tempat sampah berfungsi mencegah bau menyebar dan menghindarkan tempat sampah menjadi sarang lalat atau serangga.",
+      "difficulty": "MEDIUM",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Memperindah ruangan saja", "isCorrect": false },
+        { "text": "B. Mencegah bau dan sarang serangga", "isCorrect": true },
+        { "text": "C. Menambah berat tempat sampah", "isCorrect": false },
+        { "text": "D. Mempersulit pembuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan syarat minimal tempat sampah?",
+      "explanation": "Syarat tempat sampah adalah terpisah berlabel (organik/non-organik/B3), berpenutup, kedap air, dan tidak jadi sarang serangga; dibiarkan terbuka justru melanggar syarat.",
+      "difficulty": "MEDIUM",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Terpisah dan diberi label", "isCorrect": false },
+        { "text": "B. Dilengkapi penutup", "isCorrect": false },
+        { "text": "C. Dibiarkan terbuka tanpa tutup", "isCorrect": true },
+        { "text": "D. Terbuat dari bahan kedap air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempat pembuangan pembalut harus disediakan khusus pada?",
+      "explanation": "Tempat pembuangan pembalut harus disediakan pada toilet perempuan dengan persyaratan khusus.",
+      "difficulty": "EASY",
+      "tag": "Pembuangan Pembalut",
+      "options": [
+        { "text": "A. Toilet laki-laki", "isCorrect": false },
+        { "text": "B. Toilet perempuan", "isCorrect": true },
+        { "text": "C. Ruang ganti laki-laki", "isCorrect": false },
+        { "text": "D. Gudang penyimpanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempat pembuangan pembalut harus terbuat dari bahan yang?",
+      "explanation": "Tempat pembuangan pembalut harus terbuat dari bahan kedap cairan agar tidak bocor dan higienis.",
+      "difficulty": "MEDIUM",
+      "tag": "Pembuangan Pembalut",
+      "options": [
+        { "text": "A. Kedap cairan", "isCorrect": true },
+        { "text": "B. Berpori", "isCorrect": false },
+        { "text": "C. Kertas tipis", "isCorrect": false },
+        { "text": "D. Kain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempat pembuangan pembalut harus dilengkapi dengan?",
+      "explanation": "Tempat pembuangan pembalut harus dilengkapi dengan penutup untuk menjaga higiene dan mencegah bau.",
+      "difficulty": "EASY",
+      "tag": "Pembuangan Pembalut",
+      "options": [
+        { "text": "A. Penutup", "isCorrect": true },
+        { "text": "B. Gembok", "isCorrect": false },
+        { "text": "C. Lampu", "isCorrect": false },
+        { "text": "D. Kran air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempat pembuangan pembalut harus diberi?",
+      "explanation": "Tempat pembuangan pembalut harus diberi label yang jelas agar mudah dikenali dan digunakan dengan benar.",
+      "difficulty": "EASY",
+      "tag": "Pembuangan Pembalut",
+      "options": [
+        { "text": "A. Label yang jelas", "isCorrect": true },
+        { "text": "B. Nomor seri", "isCorrect": false },
+        { "text": "C. Tirai", "isCorrect": false },
+        { "text": "D. Roda dorong", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seberapa sering tempat pembuangan pembalut harus dibersihkan?",
+      "explanation": "Tempat pembuangan pembalut harus dibersihkan setiap hari untuk menjaga higiene toilet perempuan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pembuangan Pembalut",
+      "options": [
+        { "text": "A. Setiap hari", "isCorrect": true },
+        { "text": "B. Setiap minggu", "isCorrect": false },
+        { "text": "C. Setiap bulan", "isCorrect": false },
+        { "text": "D. Saat penuh saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah rangkaian persyaratan tempat pembuangan pembalut yang benar?",
+      "explanation": "Tempat pembuangan pembalut harus kedap cairan, berpenutup, berlabel jelas, dan dibersihkan setiap hari.",
+      "difficulty": "HARD",
+      "tag": "Pembuangan Pembalut",
+      "options": [
+        { "text": "A. Kedap cairan, berpenutup, berlabel, dibersihkan setiap hari", "isCorrect": true },
+        { "text": "B. Terbuka, tanpa label, dibersihkan sebulan sekali", "isCorrect": false },
+        { "text": "C. Dari kertas, tanpa tutup, dibersihkan setahun sekali", "isCorrect": false },
+        { "text": "D. Berpori, berlabel, dibersihkan saat penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa tempat pembuangan pembalut harus kedap cairan dan berpenutup?",
+      "explanation": "Sifat kedap cairan dan berpenutup mencegah kebocoran, bau, dan risiko higiene di toilet perempuan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pembuangan Pembalut",
+      "options": [
+        { "text": "A. Untuk mencegah kebocoran, bau, dan menjaga higiene", "isCorrect": true },
+        { "text": "B. Agar terlihat mahal", "isCorrect": false },
+        { "text": "C. Agar mudah dipindah-pindah", "isCorrect": false },
+        { "text": "D. Agar bisa menampung air bersih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Persyaratan toilet yang menyebut harus tersedia air bersih bertujuan utama untuk?",
+      "explanation": "Ketersediaan air bersih bertujuan menjaga higiene pekerja saat membilas dan mencuci sehingga mencegah penyebaran penyakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Menjaga higiene dan mencegah penyebaran penyakit", "isCorrect": true },
+        { "text": "B. Menambah estetika ruang", "isCorrect": false },
+        { "text": "C. Menghemat biaya operasional", "isCorrect": false },
+        { "text": "D. Mendinginkan ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan toilet harus bebas dari lalat dan nyamuk adalah untuk mencegah?",
+      "explanation": "Toilet yang bebas serangga mencegah penularan penyakit yang dibawa oleh lalat dan nyamuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Penularan penyakit oleh serangga", "isCorrect": true },
+        { "text": "B. Kebisingan", "isCorrect": false },
+        { "text": "C. Kekurangan air", "isCorrect": false },
+        { "text": "D. Pencahayaan berlebih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peralatan kebersihan termasuk dalam kategori fasilitas?",
+      "explanation": "Peralatan kebersihan termasuk salah satu fasilitas kebersihan yang wajib disediakan di tempat kerja selain toilet, loker, dan tempat sampah.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Fasilitas kebersihan", "isCorrect": true },
+        { "text": "B. Fasilitas produksi", "isCorrect": false },
+        { "text": "C. Fasilitas transportasi", "isCorrect": false },
+        { "text": "D. Fasilitas keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah perusahaan dengan 50 pekerja perempuan dan 50 pekerja laki-laki. Total minimal jamban yang harus disediakan untuk 100 orang adalah?",
+      "explanation": "Total 100 pekerja berada pada rentang 81-100 orang sehingga membutuhkan 6 jamban (penghitungan berdasarkan jumlah total pekerja).",
+      "difficulty": "HARD",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 5 jamban", "isCorrect": false },
+        { "text": "B. 6 jamban", "isCorrect": true },
+        { "text": "C. 4 jamban", "isCorrect": false },
+        { "text": "D. 8 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemisahan tempat sampah organik, non-organik, dan B3 mendukung penerapan prinsip?",
+      "explanation": "Pemisahan tempat sampah berdasarkan jenis mendukung pengelolaan dan pemilahan sampah yang benar di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Pemilahan dan pengelolaan sampah", "isCorrect": true },
+        { "text": "B. Penghematan listrik", "isCorrect": false },
+        { "text": "C. Pengaturan ventilasi", "isCorrect": false },
+        { "text": "D. Pemisahan loker", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi, peturasan mulai diwajibkan bersama jamban ketika jumlah pekerja mencapai?",
+      "explanation": "Pada area konstruksi, 1 jamban cukup untuk 1-19 orang; peturasan mulai diwajibkan bersama jamban pada rentang 20-199 orang ke atas.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 20 orang atau lebih", "isCorrect": true },
+        { "text": "B. 10 orang atau lebih", "isCorrect": false },
+        { "text": "C. 5 orang atau lebih", "isCorrect": false },
+        { "text": "D. 100 orang atau lebih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jamban minimal untuk 16 pekerja tetap?",
+      "explanation": "Jumlah 16 pekerja masuk batas bawah rentang 16-30 orang, sehingga membutuhkan 2 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 1 jamban", "isCorrect": false },
+        { "text": "B. 2 jamban", "isCorrect": true },
+        { "text": "C. 3 jamban", "isCorrect": false },
+        { "text": "D. 4 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jamban minimal untuk 46 pekerja tetap?",
+      "explanation": "Jumlah 46 pekerja masuk batas bawah rentang 46-60 orang, sehingga membutuhkan 4 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 3 jamban", "isCorrect": false },
+        { "text": "B. 4 jamban", "isCorrect": true },
+        { "text": "C. 5 jamban", "isCorrect": false },
+        { "text": "D. 2 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jamban minimal untuk 61 pekerja tetap?",
+      "explanation": "Jumlah 61 pekerja masuk batas bawah rentang 61-80 orang, sehingga membutuhkan 5 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 4 jamban", "isCorrect": false },
+        { "text": "B. 5 jamban", "isCorrect": true },
+        { "text": "C. 6 jamban", "isCorrect": false },
+        { "text": "D. 3 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jamban minimal untuk 81 pekerja tetap?",
+      "explanation": "Jumlah 81 pekerja masuk batas bawah rentang 81-100 orang, sehingga membutuhkan 6 jamban.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 5 jamban", "isCorrect": false },
+        { "text": "B. 6 jamban", "isCorrect": true },
+        { "text": "C. 7 jamban", "isCorrect": false },
+        { "text": "D. 4 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 60 pekerja, berapa jamban dan peturasan yang disediakan?",
+      "explanation": "Pada rentang 20-199 orang, 1 jamban dan 1 peturasan per 40 orang; 60 / 40 dibulatkan ke atas = 2, sehingga 2 jamban dan 2 peturasan.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban dan 1 peturasan", "isCorrect": false },
+        { "text": "B. 2 jamban dan 2 peturasan", "isCorrect": true },
+        { "text": "C. 3 jamban dan 3 peturasan", "isCorrect": false },
+        { "text": "D. 4 jamban dan 4 peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 400 pekerja, berapa jamban dan peturasan yang disediakan?",
+      "explanation": "Untuk 200 ke atas, rasio 1 jamban dan 1 peturasan per 50 orang; 400 / 50 = 8, sehingga 8 jamban dan 8 peturasan.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 7 jamban dan 7 peturasan", "isCorrect": false },
+        { "text": "B. 8 jamban dan 8 peturasan", "isCorrect": true },
+        { "text": "C. 9 jamban dan 9 peturasan", "isCorrect": false },
+        { "text": "D. 6 jamban dan 6 peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa penempatan toilet harus diberi tanda yang jelas?",
+      "explanation": "Tanda yang jelas membantu pekerja mengenali toilet sesuai peruntukan (laki-laki, perempuan, penyandang cacat) agar tertib dan menjaga privasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Penempatan Toilet",
+      "options": [
+        { "text": "A. Agar pekerja mengenali toilet sesuai peruntukannya", "isCorrect": true },
+        { "text": "B. Agar toilet terlihat ramai", "isCorrect": false },
+        { "text": "C. Agar mudah dikunci", "isCorrect": false },
+        { "text": "D. Agar bisa dijadikan gudang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peturasan (urinoir) pada toilet umumnya diperuntukkan bagi pekerja?",
+      "explanation": "Peturasan disediakan pada toilet laki-laki sebagai sarana buang air kecil tambahan selain jamban.",
+      "difficulty": "EASY",
+      "tag": "Penempatan Toilet",
+      "options": [
+        { "text": "A. Perempuan", "isCorrect": false },
+        { "text": "B. Laki-laki", "isCorrect": true },
+        { "text": "C. Penyandang cacat saja", "isCorrect": false },
+        { "text": "D. Tamu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang ganti yang bersih dan terpisah merupakan bagian dari penerapan?",
+      "explanation": "Ruang ganti yang bersih dan terpisah merupakan bagian dari penerapan higiene dan sanitasi fasilitas kebersihan di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Higiene dan sanitasi tempat kerja", "isCorrect": true },
+        { "text": "B. Sistem produksi", "isCorrect": false },
+        { "text": "C. Manajemen keuangan", "isCorrect": false },
+        { "text": "D. Pengelolaan logistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk 1-19 orang di area konstruksi, apakah peturasan wajib disediakan bersama jamban?",
+      "explanation": "Pada rentang 1-19 orang di area konstruksi cukup disediakan 1 jamban, peturasan belum diwajibkan bersamanya.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. Tidak wajib, cukup 1 jamban", "isCorrect": true },
+        { "text": "B. Wajib 1 peturasan", "isCorrect": false },
+        { "text": "C. Wajib 2 peturasan", "isCorrect": false },
+        { "text": "D. Wajib 3 peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sampah berlabel non-organik di tempat kerja contohnya adalah?",
+      "explanation": "Sampah non-organik adalah sampah yang sulit terurai seperti botol plastik, kaleng, dan kertas, dipisahkan dari organik dan B3.",
+      "difficulty": "MEDIUM",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Botol plastik dan kaleng", "isCorrect": true },
+        { "text": "B. Sisa sayuran", "isCorrect": false },
+        { "text": "C. Oli bekas", "isCorrect": false },
+        { "text": "D. Sisa nasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah pabrik garmen mempekerjakan 130 orang. Berapa jamban minimal yang harus disediakan?",
+      "explanation": "100 orang = 6 jamban; tambahan 30 orang masih dalam satu kelompok tambahan 40 orang, sehingga ditambah 1 jamban menjadi 7 jamban.",
+      "difficulty": "HARD",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 6 jamban", "isCorrect": false },
+        { "text": "B. 7 jamban", "isCorrect": true },
+        { "text": "C. 8 jamban", "isCorrect": false },
+        { "text": "D. 9 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa loker untuk setiap pekerja harus terjamin keamanannya?",
+      "explanation": "Loker yang aman melindungi pakaian dan barang pribadi pekerja dari kehilangan atau kerusakan selama bekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Melindungi barang pribadi pekerja dari kehilangan", "isCorrect": true },
+        { "text": "B. Menambah dekorasi ruangan", "isCorrect": false },
+        { "text": "C. Sebagai tempat sampah cadangan", "isCorrect": false },
+        { "text": "D. Untuk menyimpan bahan produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu alasan toilet harus memiliki sirkulasi udara yang baik adalah untuk?",
+      "explanation": "Sirkulasi udara yang baik mengurangi bau, kelembapan, dan pertumbuhan mikroorganisme di dalam toilet.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Mengurangi bau dan kelembapan", "isCorrect": true },
+        { "text": "B. Menambah kebisingan", "isCorrect": false },
+        { "text": "C. Mempercepat korosi pipa", "isCorrect": false },
+        { "text": "D. Menaikkan suhu ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemisahan ruang ganti antara laki-laki dan perempuan terutama bertujuan menjaga?",
+      "explanation": "Pemisahan ruang ganti antara laki-laki dan perempuan bertujuan menjaga privasi dan kenyamanan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Loker & Ruang Ganti",
+      "options": [
+        { "text": "A. Privasi dan kenyamanan pekerja", "isCorrect": true },
+        { "text": "B. Efisiensi listrik", "isCorrect": false },
+        { "text": "C. Luas gudang", "isCorrect": false },
+        { "text": "D. Kecepatan produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 35 pekerja, rasio jamban dan peturasan yang disediakan adalah?",
+      "explanation": "Pada rentang 20-199 orang, 1 jamban dan 1 peturasan per 40 orang; 35 orang masih dalam satu kelompok 40, sehingga 1 jamban dan 1 peturasan.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban dan 1 peturasan", "isCorrect": true },
+        { "text": "B. 2 jamban dan 2 peturasan", "isCorrect": false },
+        { "text": "C. 3 jamban dan 3 peturasan", "isCorrect": false },
+        { "text": "D. 1 jamban tanpa peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempat sampah yang terbuat dari bahan kedap air dimaksudkan agar?",
+      "explanation": "Bahan kedap air mencegah cairan sampah merembes keluar sehingga tidak mencemari lingkungan dan tidak menimbulkan bau.",
+      "difficulty": "MEDIUM",
+      "tag": "Tempat Sampah",
+      "options": [
+        { "text": "A. Cairan sampah tidak merembes keluar", "isCorrect": true },
+        { "text": "B. Sampah cepat membusuk", "isCorrect": false },
+        { "text": "C. Tempat sampah lebih ringan", "isCorrect": false },
+        { "text": "D. Mudah terbakar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Toilet yang dibersihkan setiap hari secara periodik bertujuan utama untuk?",
+      "explanation": "Pembersihan harian menjaga toilet tetap higienis, bebas bau, dan mencegah berkembangnya kuman serta serangga.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Menjaga higiene dan mencegah kuman", "isCorrect": true },
+        { "text": "B. Menghemat air", "isCorrect": false },
+        { "text": "C. Menambah jumlah jamban", "isCorrect": false },
+        { "text": "D. Mempercepat antrian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah perusahaan tetap memiliki 240 pekerja. Berapa jamban minimal yang harus disediakan?",
+      "explanation": "100 orang = 6 jamban; sisa 140 orang dibagi 40 menghasilkan tambahan 4 jamban (dibulatkan ke atas), sehingga total 10 jamban.",
+      "difficulty": "HARD",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 9 jamban", "isCorrect": false },
+        { "text": "B. 10 jamban", "isCorrect": true },
+        { "text": "C. 11 jamban", "isCorrect": false },
+        { "text": "D. 8 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang perbedaan aturan kecukupan jamban tempat kerja tetap dan area konstruksi?",
+      "explanation": "Pada tempat kerja tetap 1 jamban untuk 1-15 orang, sedangkan di area konstruksi 1 jamban untuk 1-19 orang; aturannya memang berbeda.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. Tetap: 1 jamban/1-15 orang; konstruksi: 1 jamban/1-19 orang", "isCorrect": true },
+        { "text": "B. Keduanya 1 jamban untuk 1-15 orang", "isCorrect": false },
+        { "text": "C. Keduanya 1 jamban untuk 1-19 orang", "isCorrect": false },
+        { "text": "D. Konstruksi tidak memerlukan jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyediaan tempat cuci tangan dan sabun di toilet mendukung perilaku?",
+      "explanation": "Tempat cuci tangan dan sabun mendukung perilaku cuci tangan yang higienis untuk mencegah penyebaran penyakit.",
+      "difficulty": "EASY",
+      "tag": "Kelengkapan Toilet",
+      "options": [
+        { "text": "A. Cuci tangan yang higienis", "isCorrect": true },
+        { "text": "B. Membuang sampah sembarangan", "isCorrect": false },
+        { "text": "C. Menghemat air berlebihan", "isCorrect": false },
+        { "text": "D. Merokok di toilet", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 500 pekerja, berapa jamban dan peturasan yang disediakan?",
+      "explanation": "Untuk 200 ke atas, rasio 1 jamban dan 1 peturasan per 50 orang; 500 / 50 = 10, sehingga 10 jamban dan 10 peturasan.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 9 jamban dan 9 peturasan", "isCorrect": false },
+        { "text": "B. 10 jamban dan 10 peturasan", "isCorrect": true },
+        { "text": "C. 11 jamban dan 11 peturasan", "isCorrect": false },
+        { "text": "D. 8 jamban dan 8 peturasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Persyaratan tempat pembuangan pembalut yang dibersihkan setiap hari bertujuan untuk?",
+      "explanation": "Pembersihan harian tempat pembuangan pembalut menjaga higiene dan mencegah bau serta penyebaran kuman di toilet perempuan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pembuangan Pembalut",
+      "options": [
+        { "text": "A. Menjaga higiene dan mencegah bau", "isCorrect": true },
+        { "text": "B. Menghemat tempat", "isCorrect": false },
+        { "text": "C. Menambah kapasitas sampah", "isCorrect": false },
+        { "text": "D. Mengganti fungsi tempat sampah B3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan urutan benar fasilitas kebersihan di tempat kerja?",
+      "explanation": "Fasilitas kebersihan meliputi toilet dan kelengkapannya, loker dan ruang ganti pakaian, tempat sampah, serta peralatan kebersihan.",
+      "difficulty": "MEDIUM",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Toilet, loker dan ruang ganti, tempat sampah, peralatan kebersihan", "isCorrect": true },
+        { "text": "B. Kantin, parkir, gudang, kantor", "isCorrect": false },
+        { "text": "C. Mesin, alat, bahan, produk", "isCorrect": false },
+        { "text": "D. Ventilasi, pencahayaan, suhu, kelembapan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jamban minimal untuk 45 pekerja tetap?",
+      "explanation": "Jumlah 45 pekerja berada pada batas atas rentang 31-45 orang, sehingga membutuhkan 3 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 2 jamban", "isCorrect": false },
+        { "text": "B. 3 jamban", "isCorrect": true },
+        { "text": "C. 4 jamban", "isCorrect": false },
+        { "text": "D. 5 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jamban minimal untuk 31 pekerja tetap?",
+      "explanation": "Jumlah 31 pekerja berada pada batas bawah rentang 31-45 orang, sehingga membutuhkan 3 jamban.",
+      "difficulty": "EASY",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. 2 jamban", "isCorrect": false },
+        { "text": "B. 3 jamban", "isCorrect": true },
+        { "text": "C. 4 jamban", "isCorrect": false },
+        { "text": "D. 1 jamban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di area konstruksi dengan 200 pekerja, rasio jamban yang digunakan adalah?",
+      "explanation": "Jumlah 200 orang masuk kategori 200 ke atas, sehingga rasionya 1 jamban dan 1 peturasan per 50 orang.",
+      "difficulty": "HARD",
+      "tag": "Toilet Area Konstruksi",
+      "options": [
+        { "text": "A. 1 jamban dan 1 peturasan per 50 orang", "isCorrect": true },
+        { "text": "B. 1 jamban dan 1 peturasan per 40 orang", "isCorrect": false },
+        { "text": "C. 1 jamban per 19 orang", "isCorrect": false },
+        { "text": "D. 1 jamban per 15 orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu peralatan yang termasuk peralatan kebersihan di tempat kerja contohnya?",
+      "explanation": "Peralatan kebersihan mencakup alat seperti sapu, pel, dan tempat sampah yang digunakan untuk menjaga kebersihan tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Persyaratan Toilet",
+      "options": [
+        { "text": "A. Sapu dan alat pel", "isCorrect": true },
+        { "text": "B. Mesin bubut", "isCorrect": false },
+        { "text": "C. Komputer kantor", "isCorrect": false },
+        { "text": "D. Forklift", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa jumlah jamban harus ditambah seiring bertambahnya pekerja?",
+      "explanation": "Penambahan jamban menjaga rasio fasilitas tetap memadai agar tidak terjadi antrian panjang dan tetap higienis bagi seluruh pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kecukupan Jamban",
+      "options": [
+        { "text": "A. Agar fasilitas tetap memadai dan higienis bagi semua pekerja", "isCorrect": true },
+        { "text": "B. Agar gedung terlihat besar", "isCorrect": false },
+        { "text": "C. Agar biaya membengkak", "isCorrect": false },
+        { "text": "D. Agar pekerja jarang ke toilet", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa saja fasilitas kebersihan yang wajib di tempat kerja?", "back": "Toilet dan kelengkapannya, loker dan ruang ganti pakaian, tempat sampah, serta peralatan kebersihan.", "tag": "Persyaratan Toilet" },
+    { "front": "Sebutkan persyaratan utama toilet di tempat kerja.", "back": "Bersih dan tidak bau, bebas serangga, ada saluran air mengalir, air bersih, berpintu, penerangan cukup, sirkulasi udara baik, dibersihkan tiap hari, dapat dipakai selama jam kerja.", "tag": "Persyaratan Toilet" },
+    { "front": "Apa saja kelengkapan fasilitas toilet?", "back": "Jamban, air bersih yang cukup, alat pembilas, tempat sampah, serta tempat cuci tangan dan sabun.", "tag": "Kelengkapan Toilet" },
+    { "front": "Penempatan toilet harus terpisah antara siapa saja?", "back": "Laki-laki, perempuan, dan penyandang cacat, serta diberi tanda yang jelas.", "tag": "Penempatan Toilet" },
+    { "front": "Apa yang harus disediakan tambahan pada toilet laki-laki?", "back": "Peturasan (urinoir).", "tag": "Penempatan Toilet" },
+    { "front": "Kecukupan jamban: 1-15 orang?", "back": "1 jamban.", "tag": "Kecukupan Jamban" },
+    { "front": "Kecukupan jamban: 16-30 orang?", "back": "2 jamban.", "tag": "Kecukupan Jamban" },
+    { "front": "Kecukupan jamban: 31-45 orang?", "back": "3 jamban.", "tag": "Kecukupan Jamban" },
+    { "front": "Kecukupan jamban: 46-60 orang?", "back": "4 jamban.", "tag": "Kecukupan Jamban" },
+    { "front": "Kecukupan jamban: 61-80 orang?", "back": "5 jamban.", "tag": "Kecukupan Jamban" },
+    { "front": "Kecukupan jamban: 81-100 orang?", "back": "6 jamban.", "tag": "Kecukupan Jamban" },
+    { "front": "Setelah 100 pekerja, kapan jamban ditambah?", "back": "Setiap penambahan 40 orang ditambahkan 1 jamban.", "tag": "Kecukupan Jamban" },
+    { "front": "Area konstruksi: berapa orang untuk 1 jamban?", "back": "1 jamban untuk 1-19 orang.", "tag": "Toilet Area Konstruksi" },
+    { "front": "Area konstruksi 20-199 orang: rasionya?", "back": "1 jamban dan 1 peturasan untuk setiap 40 orang.", "tag": "Toilet Area Konstruksi" },
+    { "front": "Area konstruksi 200 orang ke atas: rasionya?", "back": "1 jamban dan 1 peturasan untuk setiap 50 orang.", "tag": "Toilet Area Konstruksi" },
+    { "front": "Kapan ruang ganti pakaian wajib disediakan?", "back": "Jika pekerja menggunakan pakaian kerja hanya selama bekerja; ruang ganti harus bersih, terpisah laki-laki/perempuan, dan tidak berdesakan.", "tag": "Loker & Ruang Ganti" },
+    { "front": "Apa syarat loker pekerja?", "back": "Disediakan untuk setiap pekerja dan terjamin keamanannya.", "tag": "Loker & Ruang Ganti" },
+    { "front": "Bagaimana pemisahan tempat sampah minimal?", "back": "Terpisah dan diberi label untuk sampah organik, non-organik, dan bahan berbahaya (B3).", "tag": "Tempat Sampah" },
+    { "front": "Apa syarat fisik tempat sampah?", "back": "Dilengkapi penutup, terbuat dari bahan kedap air, dan tidak menjadi sarang lalat atau serangga lain.", "tag": "Tempat Sampah" },
+    { "front": "Apa persyaratan tempat pembuangan pembalut?", "back": "Disediakan di toilet perempuan; terbuat dari bahan kedap cairan, berpenutup, berlabel jelas, dan dibersihkan setiap hari.", "tag": "Pembuangan Pembalut" }
+  ],
+  "mindmap": [
+    { "id": "fasilitas-kebersihan", "label": "Fasilitas Kebersihan", "color": "#6366f1", "parent": null, "content": "Sarana wajib di tiap tempat kerja: toilet, loker dan ruang ganti, tempat sampah, dan peralatan kebersihan untuk menjaga higiene dan sanitasi pekerja." },
+
+    { "id": "persyaratan-toilet", "label": "Persyaratan Toilet", "color": "#8b5cf6", "parent": "fasilitas-kebersihan", "content": "Kumpulan syarat agar toilet tempat kerja layak, higienis, dan nyaman digunakan pekerja." },
+    { "id": "pt-bersih", "label": "Bersih & Tidak Bau", "color": "#8b5cf6", "parent": "persyaratan-toilet", "content": "Toilet harus bersih dan tidak menimbulkan bau agar nyaman dipakai." },
+    { "id": "pt-bebas-serangga", "label": "Bebas Serangga", "color": "#8b5cf6", "parent": "persyaratan-toilet", "content": "Tidak ada lalat, nyamuk, atau serangga lain untuk mencegah penularan penyakit." },
+    { "id": "pt-air", "label": "Air Bersih & Saluran", "color": "#8b5cf6", "parent": "persyaratan-toilet", "content": "Tersedia air bersih dan saluran pembuangan air yang mengalir dengan baik." },
+    { "id": "pt-fisik", "label": "Pintu, Penerangan, Udara", "color": "#8b5cf6", "parent": "persyaratan-toilet", "content": "Dilengkapi pintu, penerangan cukup, dan sirkulasi udara yang baik." },
+    { "id": "pt-rawat", "label": "Dibersihkan & Tersedia", "color": "#8b5cf6", "parent": "persyaratan-toilet", "content": "Dibersihkan setiap hari secara periodik dan dapat digunakan selama jam kerja." },
+
+    { "id": "kelengkapan-toilet", "label": "Kelengkapan Toilet", "color": "#0ea5e9", "parent": "fasilitas-kebersihan", "content": "Komponen yang harus ada di dalam fasilitas toilet agar berfungsi penuh." },
+    { "id": "kt-jamban", "label": "Jamban", "color": "#0ea5e9", "parent": "kelengkapan-toilet", "content": "Sarana buang air utama bagi pekerja." },
+    { "id": "kt-air", "label": "Air Bersih Cukup", "color": "#0ea5e9", "parent": "kelengkapan-toilet", "content": "Air bersih dalam jumlah cukup untuk membilas dan menjaga kebersihan." },
+    { "id": "kt-pembilas", "label": "Alat Pembilas", "color": "#0ea5e9", "parent": "kelengkapan-toilet", "content": "Alat untuk membersihkan diri setelah buang air." },
+    { "id": "kt-sampah", "label": "Tempat Sampah", "color": "#0ea5e9", "parent": "kelengkapan-toilet", "content": "Wadah pembuangan sampah agar toilet tetap bersih." },
+    { "id": "kt-cuci-tangan", "label": "Cuci Tangan & Sabun", "color": "#0ea5e9", "parent": "kelengkapan-toilet", "content": "Tempat cuci tangan dan sabun untuk menjaga higiene tangan pekerja." },
+
+    { "id": "penempatan-toilet", "label": "Penempatan Toilet", "color": "#10b981", "parent": "fasilitas-kebersihan", "content": "Pengaturan posisi dan pemisahan toilet sesuai kelompok pengguna." },
+    { "id": "pn-terpisah", "label": "Terpisah Gender & Difabel", "color": "#10b981", "parent": "penempatan-toilet", "content": "Toilet terpisah untuk laki-laki, perempuan, dan penyandang cacat." },
+    { "id": "pn-tanda", "label": "Tanda Jelas", "color": "#10b981", "parent": "penempatan-toilet", "content": "Setiap toilet diberi tanda yang jelas sesuai peruntukannya." },
+    { "id": "pn-peturasan", "label": "Peturasan Laki-laki", "color": "#10b981", "parent": "penempatan-toilet", "content": "Toilet laki-laki harus menyediakan peturasan (urinoir)." },
+
+    { "id": "kecukupan-jamban", "label": "Kecukupan Jamban", "color": "#f59e0b", "parent": "fasilitas-kebersihan", "content": "Jumlah jamban disesuaikan dengan jumlah pekerja di tempat kerja tetap." },
+    { "id": "kj-1-15", "label": "1-15 org = 1", "color": "#f59e0b", "parent": "kecukupan-jamban", "content": "1 jamban untuk 1-15 orang pekerja." },
+    { "id": "kj-16-30", "label": "16-30 org = 2", "color": "#f59e0b", "parent": "kecukupan-jamban", "content": "2 jamban untuk 16-30 orang pekerja." },
+    { "id": "kj-31-45", "label": "31-45 org = 3", "color": "#f59e0b", "parent": "kecukupan-jamban", "content": "3 jamban untuk 31-45 orang pekerja." },
+    { "id": "kj-46-60", "label": "46-60 org = 4", "color": "#f59e0b", "parent": "kecukupan-jamban", "content": "4 jamban untuk 46-60 orang pekerja." },
+    { "id": "kj-61-80", "label": "61-80 org = 5", "color": "#f59e0b", "parent": "kecukupan-jamban", "content": "5 jamban untuk 61-80 orang pekerja." },
+    { "id": "kj-81-100", "label": "81-100 org = 6", "color": "#f59e0b", "parent": "kecukupan-jamban", "content": "6 jamban untuk 81-100 orang pekerja." },
+    { "id": "kj-tambahan", "label": "+1 tiap 40 org", "color": "#f59e0b", "parent": "kecukupan-jamban", "content": "Setelah 100 orang, setiap penambahan 40 orang ditambahkan 1 jamban." },
+
+    { "id": "toilet-konstruksi", "label": "Toilet Area Konstruksi", "color": "#ef4444", "parent": "fasilitas-kebersihan", "content": "Aturan kecukupan jamban khusus untuk area konstruksi atau tempat kerja sementara." },
+    { "id": "tk-1-19", "label": "1-19 org = 1 jamban", "color": "#ef4444", "parent": "toilet-konstruksi", "content": "1 jamban untuk 1-19 orang di area konstruksi." },
+    { "id": "tk-20-199", "label": "20-199 org: per 40", "color": "#ef4444", "parent": "toilet-konstruksi", "content": "1 jamban dan 1 peturasan untuk setiap 40 orang pada rentang 20-199 orang." },
+    { "id": "tk-200", "label": "≥200 org: per 50", "color": "#ef4444", "parent": "toilet-konstruksi", "content": "1 jamban dan 1 peturasan untuk setiap 50 orang mulai 200 orang ke atas." },
+
+    { "id": "loker-ruang-ganti", "label": "Loker & Ruang Ganti", "color": "#ec4899", "parent": "fasilitas-kebersihan", "content": "Fasilitas berganti pakaian dan menyimpan barang pribadi pekerja." },
+    { "id": "lr-syarat-ruang", "label": "Ruang Ganti Bersih", "color": "#ec4899", "parent": "loker-ruang-ganti", "content": "Wajib jika pakaian kerja hanya dipakai saat bekerja; ruang harus bersih dan diatur tak berdesakan." },
+    { "id": "lr-terpisah", "label": "Terpisah Gender", "color": "#ec4899", "parent": "loker-ruang-ganti", "content": "Ruang ganti terpisah antara laki-laki dan perempuan untuk privasi." },
+    { "id": "lr-loker", "label": "Loker Aman per Pekerja", "color": "#ec4899", "parent": "loker-ruang-ganti", "content": "Tersedia loker untuk setiap pekerja yang terjamin keamanannya." },
+
+    { "id": "tempat-sampah", "label": "Tempat Sampah", "color": "#14b8a6", "parent": "fasilitas-kebersihan", "content": "Wadah pembuangan sampah dengan syarat pemilahan dan higiene." },
+    { "id": "ts-pisah-label", "label": "Pisah & Berlabel", "color": "#14b8a6", "parent": "tempat-sampah", "content": "Terpisah dan diberi label organik, non-organik, dan B3." },
+    { "id": "ts-tutup-kedap", "label": "Bertutup & Kedap Air", "color": "#14b8a6", "parent": "tempat-sampah", "content": "Dilengkapi penutup dan terbuat dari bahan kedap air." },
+    { "id": "ts-bebas-lalat", "label": "Bukan Sarang Lalat", "color": "#14b8a6", "parent": "tempat-sampah", "content": "Dirancang agar tidak menjadi sarang lalat atau serangga lain." },
+
+    { "id": "pembuangan-pembalut", "label": "Pembuangan Pembalut", "color": "#8b5cf6", "parent": "fasilitas-kebersihan", "content": "Sarana khusus pembuangan pembalut di toilet perempuan." },
+    { "id": "pp-lokasi", "label": "Di Toilet Perempuan", "color": "#8b5cf6", "parent": "pembuangan-pembalut", "content": "Disediakan khusus pada toilet perempuan." },
+    { "id": "pp-kedap", "label": "Kedap Cairan & Bertutup", "color": "#8b5cf6", "parent": "pembuangan-pembalut", "content": "Terbuat dari bahan kedap cairan dan dilengkapi penutup." },
+    { "id": "pp-label-bersih", "label": "Berlabel & Dibersihkan Harian", "color": "#8b5cf6", "parent": "pembuangan-pembalut", "content": "Diberi label jelas dan dibersihkan setiap hari." }
+  ]
+}

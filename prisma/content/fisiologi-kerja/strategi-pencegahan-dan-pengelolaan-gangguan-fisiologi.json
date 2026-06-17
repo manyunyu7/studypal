@@ -1,0 +1,1460 @@
+{
+  "topic": "Strategi Pencegahan dan Pengelolaan Gangguan Fisiologi Terkait Kerja",
+  "order": 6,
+  "description": "Gangguan fisiologi terkait kerja adalah kondisi yang mempengaruhi fungsi tubuh akibat faktor lingkungan, aktivitas, dan karakteristik individu pekerja. Strategi pencegahan dan pengelolaan yang dirancang sistematis bertujuan meningkatkan kesehatan dan keselamatan kerja serta produktivitas. Pendekatan ini mencakup istirahat kerja, rotasi, ergonomi, manajemen beban kerja dan kelelahan, serta gizi kerja.",
+  "subtopics": [
+    "Definisi Gangguan Fisiologi",
+    "Faktor yang Mempengaruhi",
+    "Strategi Pencegahan",
+    "Istirahat & Rotasi Kerja",
+    "Ergonomi & Pengaturan Lingkungan",
+    "Manajemen Beban Kerja & Kelelahan",
+    "Gizi Kerja",
+    "Strategi Pengelolaan",
+    "Implementasi & Evaluasi"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan gangguan fisiologi terkait kerja?",
+      "explanation": "Gangguan fisiologi adalah kondisi yang mempengaruhi fungsi tubuh dan dapat dipengaruhi oleh faktor lingkungan kerja, misalnya kelelahan, stres, dan gangguan tidur.",
+      "difficulty": "EASY",
+      "tag": "Definisi Gangguan Fisiologi",
+      "options": [
+        { "text": "A. Penyakit menular yang ditularkan antar pekerja", "isCorrect": false },
+        { "text": "B. Kondisi yang mempengaruhi fungsi tubuh dan dipengaruhi faktor kerja", "isCorrect": true },
+        { "text": "C. Kerusakan mesin di tempat kerja", "isCorrect": false },
+        { "text": "D. Konflik antar pekerja dalam organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang merupakan contoh gangguan fisiologi terkait kerja?",
+      "explanation": "Contoh gangguan fisiologi terkait kerja meliputi kelelahan, stres, gangguan tidur, dan gangguan pernapasan.",
+      "difficulty": "EASY",
+      "tag": "Definisi Gangguan Fisiologi",
+      "options": [
+        { "text": "A. Kelelahan dan gangguan tidur", "isCorrect": true },
+        { "text": "B. Kenaikan gaji pekerja", "isCorrect": false },
+        { "text": "C. Rotasi shift administratif", "isCorrect": false },
+        { "text": "D. Perubahan struktur organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan fisiologi terkait kerja dapat dipengaruhi oleh tiga kelompok faktor utama, yaitu?",
+      "explanation": "Faktor yang mempengaruhi gangguan fisiologi terkait kerja adalah lingkungan kerja, aktivitas kerja, dan individu.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Cuaca, ekonomi, dan politik", "isCorrect": false },
+        { "text": "B. Lingkungan kerja, aktivitas kerja, dan individu", "isCorrect": true },
+        { "text": "C. Gaji, jabatan, dan masa kerja", "isCorrect": false },
+        { "text": "D. Teknologi, alat, dan bahan baku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor lingkungan kerja yang dapat memicu gangguan fisiologi meliputi?",
+      "explanation": "Faktor lingkungan kerja mencakup suhu, kelembaban, pencahayaan, dan kebisingan yang dapat mempengaruhi fungsi tubuh pekerja.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Suhu, kelembaban, pencahayaan, dan kebisingan", "isCorrect": true },
+        { "text": "B. Jumlah pekerja dan luas ruangan saja", "isCorrect": false },
+        { "text": "C. Warna seragam dan logo perusahaan", "isCorrect": false },
+        { "text": "D. Jam masuk dan jam pulang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor individu yang mempengaruhi terjadinya gangguan fisiologi terkait kerja adalah?",
+      "explanation": "Faktor individu meliputi usia, jenis kelamin, dan kondisi kesehatan yang memengaruhi kerentanan pekerja terhadap gangguan fisiologi.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Merek alat pelindung diri", "isCorrect": false },
+        { "text": "B. Usia, jenis kelamin, dan kondisi kesehatan", "isCorrect": true },
+        { "text": "C. Lokasi kantor pusat perusahaan", "isCorrect": false },
+        { "text": "D. Jenis produk yang dihasilkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas kerja yang dapat memicu gangguan fisiologi mencakup aspek?",
+      "explanation": "Aktivitas kerja yang mempengaruhi gangguan fisiologi mencakup aspek fisik, mental, dan emosi.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Fisik, mental, dan emosi", "isCorrect": true },
+        { "text": "B. Hanya aspek fisik saja", "isCorrect": false },
+        { "text": "C. Hanya aspek finansial", "isCorrect": false },
+        { "text": "D. Hanya aspek hukum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk strategi pencegahan gangguan fisiologi terkait kerja?",
+      "explanation": "Strategi pencegahan meliputi penggunaan APD, pengaturan lingkungan kerja, istirahat cukup, dan aktivitas fisik teratur.",
+      "difficulty": "EASY",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Memperbanyak lembur tanpa istirahat", "isCorrect": false },
+        { "text": "B. Penggunaan APD dan pengaturan lingkungan kerja", "isCorrect": true },
+        { "text": "C. Mengabaikan keluhan pekerja", "isCorrect": false },
+        { "text": "D. Menghilangkan jadwal istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan Alat Pelindung Diri (APD) dalam strategi pencegahan bertujuan untuk?",
+      "explanation": "APD seperti masker, sarung tangan, dan kacamata pelindung digunakan untuk mengurangi dampak faktor lingkungan kerja terhadap tubuh.",
+      "difficulty": "EASY",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Mengurangi dampak faktor lingkungan kerja", "isCorrect": true },
+        { "text": "B. Meningkatkan kecepatan produksi mesin", "isCorrect": false },
+        { "text": "C. Menambah jumlah pekerja", "isCorrect": false },
+        { "text": "D. Menggantikan pemeriksaan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh APD yang digunakan untuk mencegah paparan faktor lingkungan kerja adalah?",
+      "explanation": "Masker, sarung tangan, dan kacamata pelindung adalah contoh APD yang mengurangi paparan faktor lingkungan kerja.",
+      "difficulty": "EASY",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Masker, sarung tangan, dan kacamata pelindung", "isCorrect": true },
+        { "text": "B. Komputer, printer, dan telepon", "isCorrect": false },
+        { "text": "C. Meja, kursi, dan lemari", "isCorrect": false },
+        { "text": "D. Mobil, motor, dan sepeda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan lingkungan kerja yang nyaman sebagai strategi pencegahan mencakup pengaturan?",
+      "explanation": "Pengaturan lingkungan kerja yang nyaman meliputi pengaturan suhu, kelembaban, dan pencahayaan untuk mengurangi dampak faktor lingkungan.",
+      "difficulty": "EASY",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Suhu, kelembaban, dan pencahayaan", "isCorrect": true },
+        { "text": "B. Harga produk dan margin keuntungan", "isCorrect": false },
+        { "text": "C. Jumlah cabang perusahaan", "isCorrect": false },
+        { "text": "D. Nama-nama departemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Melakukan aktivitas fisik yang teratur dalam strategi pencegahan bermanfaat untuk?",
+      "explanation": "Aktivitas fisik teratur meningkatkan kebugaran dan kapasitas kerja sehingga mengurangi risiko gangguan fisiologi seperti kelelahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Menurunkan kebugaran pekerja", "isCorrect": false },
+        { "text": "B. Mengurangi risiko gangguan fisiologi dan kelelahan", "isCorrect": true },
+        { "text": "C. Menambah beban kerja statis", "isCorrect": false },
+        { "text": "D. Memperlambat metabolisme tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa istirahat kerja yang cukup penting dalam pencegahan gangguan fisiologi?",
+      "explanation": "Istirahat cukup memberi waktu pemulihan otot dan tubuh sehingga mencegah akumulasi kelelahan akibat aktivitas kerja.",
+      "difficulty": "EASY",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Untuk mengurangi jumlah produksi", "isCorrect": false },
+        { "text": "B. Memberi waktu pemulihan dan mencegah akumulasi kelelahan", "isCorrect": true },
+        { "text": "C. Untuk memperpanjang jam kerja", "isCorrect": false },
+        { "text": "D. Agar pekerja tidak digaji penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ILO, besaran rest allowance (kelonggaran istirahat) dari waktu kerja umumnya berada pada rentang?",
+      "explanation": "ILO merekomendasikan rest allowance sekitar 11%-20% dari waktu kerja untuk memulihkan kelelahan fisiologis.",
+      "difficulty": "HARD",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. 1%-5%", "isCorrect": false },
+        { "text": "B. 11%-20%", "isCorrect": true },
+        { "text": "C. 40%-50%", "isCorrect": false },
+        { "text": "D. 60%-70%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rotasi pekerjaan (job rotation) terutama efektif untuk mengurangi dampak pada jenis kerja?",
+      "explanation": "Rotasi pekerjaan tiap interval tertentu efektif mengurangi beban kerja statis dan gerakan berulang yang menyebabkan kelelahan lokal.",
+      "difficulty": "MEDIUM",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Kerja statis dan gerakan berulang", "isCorrect": true },
+        { "text": "B. Kerja administratif tanpa fisik", "isCorrect": false },
+        { "text": "C. Kerja yang sudah otomatis penuh", "isCorrect": false },
+        { "text": "D. Kerja tanpa kontak dengan alat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk kerja statis, rotasi pekerjaan disarankan dilakukan dengan interval sekitar?",
+      "explanation": "Pada kerja statis disarankan rotasi tiap sekitar 30 menit untuk mencegah kelelahan otot akibat kontraksi isometrik berkepanjangan.",
+      "difficulty": "HARD",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Setiap 8 jam", "isCorrect": false },
+        { "text": "B. Setiap 30 menit", "isCorrect": true },
+        { "text": "C. Setiap 1 minggu", "isCorrect": false },
+        { "text": "D. Setiap 1 bulan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat utama rotasi kerja terhadap sistem muskuloskeletal pekerja adalah?",
+      "explanation": "Rotasi kerja mendistribusikan beban ke kelompok otot berbeda sehingga mencegah cumulative trauma disorders pada satu area tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Menambah beban pada satu kelompok otot", "isCorrect": false },
+        { "text": "B. Mendistribusikan beban dan mencegah cumulative trauma disorders", "isCorrect": true },
+        { "text": "C. Menghilangkan kebutuhan istirahat", "isCorrect": false },
+        { "text": "D. Meningkatkan paparan kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan istirahat pendek yang sering (micro break) dibanding istirahat panjang sekaligus pada kerja repetitif bertujuan?",
+      "explanation": "Micro break yang sering memberi pemulihan berkala sebelum kelelahan terakumulasi sehingga lebih efektif mencegah fatigue pada kerja repetitif.",
+      "difficulty": "HARD",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Memberi pemulihan berkala sebelum kelelahan terakumulasi", "isCorrect": true },
+        { "text": "B. Mengurangi total waktu kerja menjadi setengah", "isCorrect": false },
+        { "text": "C. Menghilangkan produktivitas pekerja", "isCorrect": false },
+        { "text": "D. Memperberat beban kerja statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan work-rest cycle (siklus kerja-istirahat) biasanya didasarkan pada indikator fisiologis berupa?",
+      "explanation": "Work-rest cycle ditetapkan berdasarkan beban kerja fisiologis seperti denyut jantung (%CVL) dan tingkat metabolik kerja.",
+      "difficulty": "HARD",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Jumlah karyawan dalam ruangan", "isCorrect": false },
+        { "text": "B. Beban kerja fisiologis seperti denyut jantung dan metabolik", "isCorrect": true },
+        { "text": "C. Harga jual produk", "isCorrect": false },
+        { "text": "D. Warna dinding ruang kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa pengertian ergonomi dalam konteks pencegahan gangguan fisiologi terkait kerja?",
+      "explanation": "Ergonomi adalah ilmu menyesuaikan pekerjaan, alat, dan lingkungan dengan kemampuan dan keterbatasan tubuh pekerja agar aman dan nyaman.",
+      "difficulty": "EASY",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Ilmu menyesuaikan pekerjaan dan alat dengan kemampuan tubuh pekerja", "isCorrect": true },
+        { "text": "B. Ilmu tentang pemasaran produk", "isCorrect": false },
+        { "text": "C. Ilmu tentang perakitan mesin", "isCorrect": false },
+        { "text": "D. Ilmu tentang akuntansi biaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan postur kerja dengan sudut sendi netral dapat menurunkan beban statis hingga sekitar?",
+      "explanation": "Menurut ISO 11226:2020, postur kerja dengan sudut sendi netral menurunkan beban statis hingga sekitar 40% dan mencegah cumulative trauma disorders.",
+      "difficulty": "HARD",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. 5%", "isCorrect": false },
+        { "text": "B. 40%", "isCorrect": true },
+        { "text": "C. 80%", "isCorrect": false },
+        { "text": "D. 95%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip ergonomi dalam mengatur stasiun kerja menganjurkan agar?",
+      "explanation": "Prinsip ergonomi menganjurkan penyesuaian alat dan stasiun kerja agar pekerja bekerja dalam postur netral dan nyaman.",
+      "difficulty": "MEDIUM",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Pekerja menyesuaikan diri sepenuhnya dengan alat yang kaku", "isCorrect": false },
+        { "text": "B. Alat dan stasiun kerja disesuaikan agar postur netral dan nyaman", "isCorrect": true },
+        { "text": "C. Stasiun kerja dibuat seragam tanpa penyesuaian", "isCorrect": false },
+        { "text": "D. Postur kerja dibiarkan apa adanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan pencahayaan yang sesuai pada lingkungan kerja bertujuan mencegah gangguan?",
+      "explanation": "Pencahayaan yang memadai mencegah kelelahan mata dan gangguan penglihatan serta menjaga ritme sirkadian pekerja.",
+      "difficulty": "EASY",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Gangguan pendengaran", "isCorrect": false },
+        { "text": "B. Kelelahan mata dan gangguan penglihatan", "isCorrect": true },
+        { "text": "C. Gangguan pencernaan", "isCorrect": false },
+        { "text": "D. Gangguan peredaran darah kaki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan suhu dan kelembaban lingkungan kerja yang baik bertujuan mencegah?",
+      "explanation": "Pengaturan suhu dan kelembaban yang baik mencegah stres panas atau dingin serta dehidrasi pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Stres panas/dingin dan dehidrasi", "isCorrect": true },
+        { "text": "B. Gangguan pendengaran akibat bising", "isCorrect": false },
+        { "text": "C. Penurunan kualitas produk semata", "isCorrect": false },
+        { "text": "D. Kerusakan dokumen kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian kebisingan di lingkungan kerja sebagai bagian pengaturan lingkungan bertujuan mencegah?",
+      "explanation": "Pengendalian kebisingan mencegah gangguan pendengaran dan kelelahan akibat paparan bising berkepanjangan.",
+      "difficulty": "EASY",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Gangguan pendengaran dan kelelahan akibat bising", "isCorrect": true },
+        { "text": "B. Gangguan penglihatan", "isCorrect": false },
+        { "text": "C. Dehidrasi kulit", "isCorrect": false },
+        { "text": "D. Keracunan bahan kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Desain kerja dinamis lebih dianjurkan dibanding kerja statis karena?",
+      "explanation": "Desain kerja dinamis memungkinkan aliran darah otot lebih lancar sehingga kelelahan otot lebih lambat dibanding kerja statis isometrik.",
+      "difficulty": "HARD",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Menghambat aliran darah otot", "isCorrect": false },
+        { "text": "B. Memperlancar aliran darah otot dan memperlambat kelelahan", "isCorrect": true },
+        { "text": "C. Menambah kontraksi isometrik berkepanjangan", "isCorrect": false },
+        { "text": "D. Meningkatkan beban statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penataan tata letak alat dan material agar berada dalam jangkauan normal pekerja bertujuan?",
+      "explanation": "Penataan dalam jangkauan normal mengurangi gerakan menjangkau dan membungkuk yang membebani otot serta meningkatkan efisiensi.",
+      "difficulty": "MEDIUM",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Mengurangi gerakan menjangkau dan membungkuk yang membebani otot", "isCorrect": true },
+        { "text": "B. Menambah jarak tempuh pekerja", "isCorrect": false },
+        { "text": "C. Memperbanyak gerakan berulang", "isCorrect": false },
+        { "text": "D. Meningkatkan paparan getaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan ergonomi partisipatif dalam pencegahan gangguan fisiologi menekankan?",
+      "explanation": "Ergonomi partisipatif melibatkan pekerja dalam mengidentifikasi masalah dan merancang solusi sehingga intervensi lebih sesuai dan diterima.",
+      "difficulty": "HARD",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Keputusan sepenuhnya oleh manajemen tanpa pekerja", "isCorrect": false },
+        { "text": "B. Pelibatan pekerja dalam identifikasi masalah dan solusi", "isCorrect": true },
+        { "text": "C. Penghapusan peran ahli ergonomi", "isCorrect": false },
+        { "text": "D. Penggunaan alat tanpa evaluasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan beban kerja fisiologis pada pekerja?",
+      "explanation": "Beban kerja fisiologis adalah besarnya tuntutan kerja terhadap sistem tubuh, tercermin dari respons seperti denyut jantung dan konsumsi oksigen.",
+      "difficulty": "MEDIUM",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Jumlah uang yang dibayarkan ke pekerja", "isCorrect": false },
+        { "text": "B. Tuntutan kerja terhadap sistem tubuh seperti denyut jantung dan VO2", "isCorrect": true },
+        { "text": "C. Berat fisik mesin yang dipakai", "isCorrect": false },
+        { "text": "D. Jumlah dokumen yang diproses", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu penyebab utama muscular fatigue (kelelahan otot) akibat kerja adalah?",
+      "explanation": "Akumulasi asam laktat, penurunan pH, dan deplesi glikogen merupakan penyebab muscular fatigue saat bekerja.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Akumulasi asam laktat dan deplesi glikogen", "isCorrect": true },
+        { "text": "B. Peningkatan kadar oksigen otot", "isCorrect": false },
+        { "text": "C. Penurunan suhu tubuh drastis", "isCorrect": false },
+        { "text": "D. Bertambahnya cadangan glikogen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kapasitas kerja dapat menurun sekitar berapa persen setelah 1 jam kerja statis?",
+      "explanation": "Menurut ACSM 2021, kapasitas kerja dapat menurun 15-30% setelah 1 jam kerja statis akibat kelelahan otot.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. 1-2%", "isCorrect": false },
+        { "text": "B. 15-30%", "isCorrect": true },
+        { "text": "C. 70-80%", "isCorrect": false },
+        { "text": "D. 90-100%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode sederhana untuk menilai kelelahan otot tanpa alat khusus dapat menggunakan?",
+      "explanation": "Selain electromyography (EMG), kelelahan otot dapat dinilai dengan metode sederhana seperti handgrip endurance time.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Handgrip endurance time", "isCorrect": true },
+        { "text": "B. Pengukuran tinggi badan", "isCorrect": false },
+        { "text": "C. Tes warna seragam", "isCorrect": false },
+        { "text": "D. Penghitungan jumlah lembur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Evaluasi kelelahan otot menggunakan electromyography (EMG) ditandai dengan indikator?",
+      "explanation": "Pada EMG, kelelahan otot ditandai dengan penurunan median frequency sinyal otot.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Kenaikan tekanan darah saja", "isCorrect": false },
+        { "text": "B. Penurunan median frequency sinyal otot", "isCorrect": true },
+        { "text": "C. Penurunan suhu tubuh", "isCorrect": false },
+        { "text": "D. Kenaikan kadar gula darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja kardiovaskular pekerja dapat diukur dengan parameter?",
+      "explanation": "Beban kerja kardiovaskular diukur dengan %CVL (Cardiovascular Load) berdasarkan denyut jantung kerja, istirahat, dan maksimal.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. %CVL (Cardiovascular Load)", "isCorrect": true },
+        { "text": "B. Indeks massa tubuh saja", "isCorrect": false },
+        { "text": "C. Kadar kolesterol", "isCorrect": false },
+        { "text": "D. Jumlah langkah harian saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ACGIH, nilai %CVL di bawah berapa persen dianggap aman untuk kerja 8 jam?",
+      "explanation": "Menurut ACGIH 2024, %CVL <30% tergolong aman untuk kerja 8 jam tanpa risiko kelelahan berlebih.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. <30%", "isCorrect": true },
+        { "text": "B. <60%", "isCorrect": false },
+        { "text": "C. <80%", "isCorrect": false },
+        { "text": "D. <95%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika %CVL pekerja berada pada rentang 30-40%, maka tindakan manajemen yang dianjurkan adalah?",
+      "explanation": "Menurut ACGIH, %CVL 30-40% membutuhkan istirahat sekitar 50% dari waktu kerja untuk mencegah kelelahan.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Menambah jam kerja tanpa istirahat", "isCorrect": false },
+        { "text": "B. Memberi istirahat sekitar 50% dari waktu kerja", "isCorrect": true },
+        { "text": "C. Mengabaikan dan melanjutkan kerja", "isCorrect": false },
+        { "text": "D. Menambah beban kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rumus %CVL dihitung dengan membandingkan denyut jantung kerja dan istirahat terhadap?",
+      "explanation": "%CVL = (HR kerja - HR istirahat)/(HRmax - HR istirahat) x 100%, sehingga pembandingnya adalah selisih HRmax dan HR istirahat.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. HRmax dikurangi HR istirahat", "isCorrect": true },
+        { "text": "B. Berat badan dikali tinggi", "isCorrect": false },
+        { "text": "C. Tekanan darah sistolik saja", "isCorrect": false },
+        { "text": "D. Jumlah jam tidur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Denyut jantung maksimal (HRmax) seseorang dapat diestimasi dengan formula?",
+      "explanation": "HRmax diestimasi dengan formula 220 dikurangi umur (dalam tahun).",
+      "difficulty": "MEDIUM",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. 100 + umur", "isCorrect": false },
+        { "text": "B. 220 - umur", "isCorrect": true },
+        { "text": "C. umur x 2", "isCorrect": false },
+        { "text": "D. 180 + umur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manajemen kelelahan (fatigue management) yang baik bertujuan untuk?",
+      "explanation": "Manajemen kelelahan bertujuan mengatur beban dan pemulihan agar kelelahan tidak terakumulasi menjadi fatigue kronis yang berbahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Memaksa pekerja bekerja terus tanpa jeda", "isCorrect": false },
+        { "text": "B. Mengatur beban dan pemulihan agar kelelahan tidak terakumulasi", "isCorrect": true },
+        { "text": "C. Menghapus seluruh waktu istirahat", "isCorrect": false },
+        { "text": "D. Menambah shift malam tanpa batas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan shift kerja yang baik untuk mencegah kelelahan sebaiknya memperhatikan?",
+      "explanation": "Pengaturan shift perlu memperhatikan ritme sirkadian, durasi shift, dan jeda pemulihan antar shift untuk mencegah kelelahan dan gangguan tidur.",
+      "difficulty": "MEDIUM",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Ritme sirkadian dan jeda pemulihan antar shift", "isCorrect": true },
+        { "text": "B. Warna seragam tiap shift", "isCorrect": false },
+        { "text": "C. Jumlah huruf nama pekerja", "isCorrect": false },
+        { "text": "D. Posisi parkir kendaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian beban kerja mental dapat dilakukan dengan instrumen?",
+      "explanation": "Beban kerja mental sering dinilai menggunakan instrumen NASA-TLX yang mengukur dimensi tuntutan mental, fisik, dan temporal.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Sound Level Meter", "isCorrect": false },
+        { "text": "B. NASA-TLX", "isCorrect": true },
+        { "text": "C. Termometer ruang", "isCorrect": false },
+        { "text": "D. Luxmeter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan VO2max rendah akan mencapai %CVL 40% pada beban kerja yang?",
+      "explanation": "Pekerja dengan VO2max rendah mencapai %CVL 40% pada beban lebih ringan (sekitar 3,5 kkal/menit) dibanding pekerja bugar.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Lebih ringan dibanding pekerja bugar", "isCorrect": true },
+        { "text": "B. Lebih berat dibanding pekerja bugar", "isCorrect": false },
+        { "text": "C. Sama persis dengan pekerja bugar", "isCorrect": false },
+        { "text": "D. Tidak terpengaruh kebugaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan gizi kerja?",
+      "explanation": "Gizi kerja adalah pemenuhan kebutuhan zat gizi pekerja sesuai jenis dan beban pekerjaannya untuk menjaga kesehatan dan produktivitas.",
+      "difficulty": "EASY",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Pemenuhan zat gizi sesuai jenis dan beban kerja", "isCorrect": true },
+        { "text": "B. Pemberian seragam kerja", "isCorrect": false },
+        { "text": "C. Pengaturan jam istirahat saja", "isCorrect": false },
+        { "text": "D. Penghitungan gaji pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber energi utama yang dibutuhkan pekerja dengan beban kerja fisik berat berasal dari?",
+      "explanation": "Karbohidrat menjadi sumber energi utama yang cepat tersedia untuk kerja fisik berat melalui pembentukan glikogen dan ATP.",
+      "difficulty": "MEDIUM",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Karbohidrat", "isCorrect": true },
+        { "text": "B. Vitamin saja", "isCorrect": false },
+        { "text": "C. Air mineral saja", "isCorrect": false },
+        { "text": "D. Serat saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian asupan gizi pekerja sebaiknya disesuaikan dengan?",
+      "explanation": "Kebutuhan kalori dan gizi pekerja disesuaikan dengan kategori beban kerja (ringan, sedang, berat) agar energi cukup dan tidak berlebih.",
+      "difficulty": "MEDIUM",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Kategori beban kerja ringan, sedang, atau berat", "isCorrect": true },
+        { "text": "B. Selera pribadi atasan", "isCorrect": false },
+        { "text": "C. Jarak rumah ke kantor", "isCorrect": false },
+        { "text": "D. Jumlah teman kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan beban kerja berat membutuhkan asupan kalori yang?",
+      "explanation": "Beban kerja berat menuntut pengeluaran energi lebih besar sehingga membutuhkan asupan kalori lebih tinggi dibanding kerja ringan.",
+      "difficulty": "EASY",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Lebih tinggi dibanding kerja ringan", "isCorrect": true },
+        { "text": "B. Lebih rendah dibanding kerja ringan", "isCorrect": false },
+        { "text": "C. Sama dengan saat tidur", "isCorrect": false },
+        { "text": "D. Nol kalori", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kecukupan cairan (hidrasi) pada pekerja terutama penting untuk mencegah?",
+      "explanation": "Hidrasi yang cukup mencegah dehidrasi dan gangguan termoregulasi, khususnya pada lingkungan kerja panas.",
+      "difficulty": "EASY",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Dehidrasi dan gangguan termoregulasi", "isCorrect": true },
+        { "text": "B. Gangguan pendengaran", "isCorrect": false },
+        { "text": "C. Penurunan pencahayaan", "isCorrect": false },
+        { "text": "D. Kerusakan mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian makan di tempat kerja (kantin) yang dikelola dengan baik bermanfaat untuk?",
+      "explanation": "Penyediaan makan bergizi di tempat kerja menjaga asupan energi pekerja sehingga produktivitas terjaga dan kelelahan berkurang.",
+      "difficulty": "MEDIUM",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Menjaga asupan energi dan produktivitas pekerja", "isCorrect": true },
+        { "text": "B. Mengurangi waktu istirahat menjadi nol", "isCorrect": false },
+        { "text": "C. Menghapus kebutuhan air minum", "isCorrect": false },
+        { "text": "D. Menambah kebisingan ruang kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsumsi makanan tinggi gula sederhana berlebihan sebelum kerja fisik berat dapat menyebabkan?",
+      "explanation": "Lonjakan gula darah diikuti penurunan cepat (reactive hypoglycemia) dapat menimbulkan rasa lemas saat kerja fisik berat.",
+      "difficulty": "HARD",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Energi stabil sepanjang hari", "isCorrect": false },
+        { "text": "B. Lonjakan lalu penurunan gula darah yang menimbulkan lemas", "isCorrect": true },
+        { "text": "C. Peningkatan kapasitas paru", "isCorrect": false },
+        { "text": "D. Penurunan denyut jantung permanen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Zat gizi yang berperan penting dalam pembentukan dan pemeliharaan jaringan otot pekerja adalah?",
+      "explanation": "Protein berperan penting dalam pembentukan dan pemeliharaan jaringan otot serta pemulihan setelah kerja fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Protein", "isCorrect": true },
+        { "text": "B. Hanya air", "isCorrect": false },
+        { "text": "C. Hanya serat", "isCorrect": false },
+        { "text": "D. Hanya garam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerja di lingkungan panas, penggantian elektrolit yang hilang melalui keringat penting untuk mencegah?",
+      "explanation": "Penggantian elektrolit (natrium, kalium) mencegah kram otot dan gangguan keseimbangan cairan akibat keringat berlebih.",
+      "difficulty": "HARD",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Kram otot dan gangguan keseimbangan cairan", "isCorrect": true },
+        { "text": "B. Gangguan penglihatan", "isCorrect": false },
+        { "text": "C. Kerusakan saraf pendengaran", "isCorrect": false },
+        { "text": "D. Peningkatan kapasitas paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah strategi pengelolaan gangguan fisiologi yang berfokus pada faktor psikologis?",
+      "explanation": "Mengidentifikasi dan mengelola stres serta menggunakan teknik relaksasi merupakan strategi pengelolaan yang berfokus pada faktor psikologis.",
+      "difficulty": "EASY",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Mengganti seluruh mesin pabrik", "isCorrect": false },
+        { "text": "B. Mengidentifikasi dan mengelola stres serta teknik relaksasi", "isCorrect": true },
+        { "text": "C. Menambah jam lembur", "isCorrect": false },
+        { "text": "D. Menghapus pemeriksaan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teknik relaksasi yang dianjurkan untuk mengelola stres kerja antara lain?",
+      "explanation": "Teknik relaksasi seperti meditasi dan yoga dianjurkan untuk membantu pekerja mengelola stres kerja.",
+      "difficulty": "EASY",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Meditasi dan yoga", "isCorrect": true },
+        { "text": "B. Lembur tanpa henti", "isCorrect": false },
+        { "text": "C. Mengabaikan keluhan", "isCorrect": false },
+        { "text": "D. Menambah beban kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan secara teratur dalam strategi pengelolaan bertujuan untuk?",
+      "explanation": "Pemeriksaan kesehatan teratur membantu deteksi dini gangguan fisiologi sehingga dapat ditangani sebelum memberat.",
+      "difficulty": "EASY",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Deteksi dini gangguan fisiologi", "isCorrect": true },
+        { "text": "B. Menambah biaya tanpa manfaat", "isCorrect": false },
+        { "text": "C. Mempercepat produksi", "isCorrect": false },
+        { "text": "D. Mengganti fungsi APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan obat-obatan dalam strategi pengelolaan gangguan fisiologi sebaiknya?",
+      "explanation": "Penggunaan obat hanya dilakukan bila diperlukan dan idealnya sesuai indikasi medis, bukan sebagai pengganti pencegahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Dilakukan bila diperlukan sesuai indikasi", "isCorrect": true },
+        { "text": "B. Diberikan kepada semua pekerja tiap hari", "isCorrect": false },
+        { "text": "C. Menggantikan seluruh pencegahan", "isCorrect": false },
+        { "text": "D. Tanpa pertimbangan medis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Program Employee Assistance Program (EAP) dalam pengelolaan gangguan fisiologi terkait kerja berfokus pada?",
+      "explanation": "EAP memberi dukungan konseling dan psikologis bagi pekerja untuk membantu mengatasi stres dan masalah yang memengaruhi kesehatan.",
+      "difficulty": "HARD",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Dukungan konseling dan psikologis pekerja", "isCorrect": true },
+        { "text": "B. Pengaturan harga jual produk", "isCorrect": false },
+        { "text": "C. Penambahan mesin produksi", "isCorrect": false },
+        { "text": "D. Pembagian seragam baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manajemen waktu yang baik membantu pengelolaan gangguan fisiologi karena?",
+      "explanation": "Manajemen waktu mengurangi tekanan deadline dan beban berlebih sehingga menurunkan stres kerja serta kelelahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Mengurangi tekanan deadline dan beban berlebih", "isCorrect": true },
+        { "text": "B. Menambah jam kerja efektif tanpa batas", "isCorrect": false },
+        { "text": "C. Menghapus waktu istirahat", "isCorrect": false },
+        { "text": "D. Memperberat tuntutan kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dukungan sosial di tempat kerja berperan dalam pengelolaan gangguan fisiologi dengan cara?",
+      "explanation": "Dukungan sosial dari rekan dan atasan dapat menjadi penyangga (buffer) terhadap stres kerja sehingga menurunkan dampak fisiologisnya.",
+      "difficulty": "HARD",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Menjadi penyangga terhadap stres kerja", "isCorrect": true },
+        { "text": "B. Meningkatkan kebisingan ruang", "isCorrect": false },
+        { "text": "C. Menambah beban fisik", "isCorrect": false },
+        { "text": "D. Menggantikan istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah pertama dalam implementasi strategi pencegahan dan pengelolaan gangguan fisiologi adalah?",
+      "explanation": "Langkah pertama adalah mengidentifikasi kebutuhan dan prioritas, termasuk jenis gangguan dan faktor yang mempengaruhinya.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Langsung membeli alat tanpa analisis", "isCorrect": false },
+        { "text": "B. Mengidentifikasi kebutuhan dan prioritas", "isCorrect": true },
+        { "text": "C. Mengevaluasi hasil sebelum bertindak", "isCorrect": false },
+        { "text": "D. Menutup tempat kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan tahapan implementasi strategi yang benar adalah?",
+      "explanation": "Tahapan yang benar adalah identifikasi kebutuhan, pengembangan rencana aksi, implementasi, lalu evaluasi hasil.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Identifikasi - rencana aksi - implementasi - evaluasi", "isCorrect": true },
+        { "text": "B. Evaluasi - identifikasi - implementasi - rencana", "isCorrect": false },
+        { "text": "C. Implementasi - evaluasi - identifikasi - rencana", "isCorrect": false },
+        { "text": "D. Rencana - evaluasi - identifikasi - implementasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam tahap pengembangan rencana aksi, hal yang perlu ditentukan adalah?",
+      "explanation": "Pada tahap rencana aksi perlu ditentukan sasaran/target yang ingin dicapai serta sumber daya yang diperlukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Sasaran/target dan sumber daya yang diperlukan", "isCorrect": true },
+        { "text": "B. Nama merek seragam", "isCorrect": false },
+        { "text": "C. Warna logo perusahaan", "isCorrect": false },
+        { "text": "D. Jumlah meja di kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam tahap implementasi strategi, hal penting yang harus dipastikan adalah?",
+      "explanation": "Pada tahap implementasi penting memastikan semua pihak terkait terlibat serta melakukan monitoring terhadap pelaksanaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Keterlibatan semua pihak terkait dan monitoring", "isCorrect": true },
+        { "text": "B. Hanya satu orang yang bertanggung jawab tanpa monitoring", "isCorrect": false },
+        { "text": "C. Mengabaikan masukan pekerja", "isCorrect": false },
+        { "text": "D. Menunda seluruh kegiatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan tahap evaluasi hasil dalam implementasi strategi adalah?",
+      "explanation": "Evaluasi hasil bertujuan menilai keberhasilan, mengidentifikasi kelemahan dan kekuatan, lalu melakukan perbaikan strategi bila perlu.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Menilai hasil dan melakukan perbaikan strategi bila perlu", "isCorrect": true },
+        { "text": "B. Menghentikan seluruh program selamanya", "isCorrect": false },
+        { "text": "C. Mengabaikan kelemahan yang ada", "isCorrect": false },
+        { "text": "D. Mengganti seluruh pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siklus PDCA (Plan-Do-Check-Act) dalam implementasi strategi K3 menggambarkan bahwa perbaikan bersifat?",
+      "explanation": "Siklus PDCA menggambarkan perbaikan berkelanjutan (continuous improvement) yang berulang untuk menyempurnakan strategi.",
+      "difficulty": "HARD",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Berkelanjutan dan berulang", "isCorrect": true },
+        { "text": "B. Sekali jalan dan berhenti", "isCorrect": false },
+        { "text": "C. Tidak perlu evaluasi", "isCorrect": false },
+        { "text": "D. Hanya dilakukan saat audit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator keberhasilan strategi pencegahan gangguan fisiologi dapat dilihat dari?",
+      "explanation": "Keberhasilan strategi tercermin dari menurunnya angka keluhan, penyakit akibat kerja, dan kecelakaan serta meningkatnya produktivitas.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Menurunnya keluhan dan PAK serta naiknya produktivitas", "isCorrect": true },
+        { "text": "B. Bertambahnya kasus kelelahan", "isCorrect": false },
+        { "text": "C. Meningkatnya absensi sakit", "isCorrect": false },
+        { "text": "D. Berkurangnya jumlah istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat merancang strategi pencegahan dan pengelolaan gangguan fisiologi antara lain?",
+      "explanation": "Manfaatnya meliputi peningkatan kesehatan dan keselamatan kerja, penurunan risiko gangguan, peningkatan produktivitas, dan penurunan biaya.",
+      "difficulty": "EASY",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Meningkatkan K3 dan produktivitas serta menekan biaya", "isCorrect": true },
+        { "text": "B. Menambah biaya kesehatan tanpa manfaat", "isCorrect": false },
+        { "text": "C. Memperbanyak kecelakaan kerja", "isCorrect": false },
+        { "text": "D. Menurunkan kualitas kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan pengendalian risiko yang paling efektif menurut hierarki pengendalian adalah?",
+      "explanation": "Eliminasi sumber bahaya adalah pengendalian paling efektif, baru kemudian substitusi, rekayasa teknik, administratif, dan APD.",
+      "difficulty": "HARD",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Eliminasi sumber bahaya", "isCorrect": true },
+        { "text": "B. Penggunaan APD saja", "isCorrect": false },
+        { "text": "C. Pengendalian administratif saja", "isCorrect": false },
+        { "text": "D. Membiarkan bahaya tetap ada", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam hierarki pengendalian, APD menempati posisi sebagai pengendalian?",
+      "explanation": "APD merupakan pengendalian terakhir (paling bawah) dalam hierarki dan digunakan ketika pengendalian lain belum memadai.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Pengendalian terakhir/paling bawah dalam hierarki", "isCorrect": true },
+        { "text": "B. Pengendalian pertama dan utama", "isCorrect": false },
+        { "text": "C. Pengganti eliminasi", "isCorrect": false },
+        { "text": "D. Tidak termasuk hierarki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rekayasa teknik (engineering control) dalam pencegahan gangguan fisiologi misalnya?",
+      "explanation": "Rekayasa teknik misalnya pemasangan ventilasi, peredam bising, atau alat bantu angkat untuk mengurangi pajanan dan beban kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Pemasangan ventilasi dan alat bantu angkat", "isCorrect": true },
+        { "text": "B. Pemberian sanksi pekerja", "isCorrect": false },
+        { "text": "C. Pembagian seragam", "isCorrect": false },
+        { "text": "D. Pengurangan gaji", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian administratif untuk mencegah gangguan fisiologi misalnya?",
+      "explanation": "Pengendalian administratif misalnya pengaturan jadwal kerja-istirahat, rotasi pekerjaan, dan pelatihan kerja aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Pengaturan jadwal kerja-istirahat dan rotasi", "isCorrect": true },
+        { "text": "B. Pemasangan mesin baru", "isCorrect": false },
+        { "text": "C. Penggantian bahan baku", "isCorrect": false },
+        { "text": "D. Eliminasi sumber bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang hubungan kebugaran (VO2max) dengan ketahanan kerja?",
+      "explanation": "Pekerja dengan VO2max tinggi memiliki kapasitas kerja aerobik lebih besar sehingga lebih tahan terhadap beban kerja sebelum lelah.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. VO2max tinggi meningkatkan ketahanan terhadap beban kerja", "isCorrect": true },
+        { "text": "B. VO2max tidak berhubungan dengan ketahanan kerja", "isCorrect": false },
+        { "text": "C. VO2max tinggi mempercepat kelelahan", "isCorrect": false },
+        { "text": "D. VO2max hanya berlaku untuk atlet", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peregangan (stretching) di sela kerja bermanfaat untuk mencegah?",
+      "explanation": "Peregangan di sela kerja membantu melemaskan otot dan mencegah ketegangan serta kekakuan akibat postur statis atau gerakan berulang.",
+      "difficulty": "EASY",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Ketegangan dan kekakuan otot", "isCorrect": true },
+        { "text": "B. Gangguan pendengaran", "isCorrect": false },
+        { "text": "C. Keracunan bahan kimia", "isCorrect": false },
+        { "text": "D. Kerusakan mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa identifikasi prioritas penting sebelum menyusun strategi pencegahan?",
+      "explanation": "Identifikasi prioritas memastikan sumber daya terbatas difokuskan pada gangguan fisiologi yang paling berisiko dan mendesak.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Agar sumber daya difokuskan pada risiko paling mendesak", "isCorrect": true },
+        { "text": "B. Agar program selesai tanpa hasil", "isCorrect": false },
+        { "text": "C. Agar biaya membengkak", "isCorrect": false },
+        { "text": "D. Agar pekerja diabaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian air minum yang mudah diakses di area kerja panas merupakan bentuk strategi?",
+      "explanation": "Penyediaan air minum mudah diakses adalah strategi pencegahan dehidrasi sekaligus bagian dari gizi kerja pada lingkungan panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Pencegahan dehidrasi pada lingkungan panas", "isCorrect": true },
+        { "text": "B. Pengendalian kebisingan", "isCorrect": false },
+        { "text": "C. Pengaturan pencahayaan", "isCorrect": false },
+        { "text": "D. Manajemen dokumen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelelahan kronis (chronic fatigue) akibat kerja yang tidak dikelola dapat berdampak pada?",
+      "explanation": "Kelelahan kronis dapat menurunkan konsentrasi, meningkatkan risiko kecelakaan, serta memicu gangguan kesehatan jangka panjang.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Penurunan konsentrasi dan peningkatan risiko kecelakaan", "isCorrect": true },
+        { "text": "B. Peningkatan kebugaran otot", "isCorrect": false },
+        { "text": "C. Perbaikan kualitas tidur", "isCorrect": false },
+        { "text": "D. Penurunan beban kerja otomatis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelatihan dan edukasi K3 bagi pekerja termasuk dalam strategi karena?",
+      "explanation": "Edukasi meningkatkan kesadaran dan keterampilan pekerja menerapkan postur aman, penggunaan APD, dan pola kerja sehat.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Meningkatkan kesadaran dan keterampilan kerja aman", "isCorrect": true },
+        { "text": "B. Mengurangi pengetahuan pekerja", "isCorrect": false },
+        { "text": "C. Menambah risiko kecelakaan", "isCorrect": false },
+        { "text": "D. Menghapus kebutuhan APD selamanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang bekerja dengan %CVL >40% dianggap berisiko sehingga waktu kerjanya sebaiknya?",
+      "explanation": "Menurut ACGIH, %CVL >40% berisiko fatigue akut sehingga waktu kerja sebaiknya dibatasi kurang dari 1 jam.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Dibatasi kurang dari 1 jam", "isCorrect": true },
+        { "text": "B. Diperpanjang hingga 12 jam", "isCorrect": false },
+        { "text": "C. Tidak perlu dibatasi", "isCorrect": false },
+        { "text": "D. Diberi beban tambahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyesuaian beban angkat manual sesuai kemampuan pekerja merupakan penerapan prinsip?",
+      "explanation": "Menyesuaikan beban angkat dengan kemampuan tubuh adalah penerapan prinsip ergonomi untuk mencegah cedera muskuloskeletal.",
+      "difficulty": "MEDIUM",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Ergonomi", "isCorrect": true },
+        { "text": "B. Akuntansi", "isCorrect": false },
+        { "text": "C. Pemasaran", "isCorrect": false },
+        { "text": "D. Hukum perdata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari seluruh strategi pencegahan dan pengelolaan gangguan fisiologi terkait kerja adalah?",
+      "explanation": "Tujuan akhirnya adalah meningkatkan kesehatan dan keselamatan kerja sehingga pekerja sehat dan produktivitas meningkat.",
+      "difficulty": "EASY",
+      "tag": "Definisi Gangguan Fisiologi",
+      "options": [
+        { "text": "A. Meningkatkan kesehatan dan keselamatan kerja", "isCorrect": true },
+        { "text": "B. Menambah jam lembur pekerja", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "D. Menaikkan harga produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja yang tidak dikelola dapat memicu respons fisiologis berupa?",
+      "explanation": "Stres kerja dapat meningkatkan tekanan darah, denyut jantung, dan laju pernapasan sebagai respons fisiologis tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Peningkatan tekanan darah dan denyut jantung", "isCorrect": true },
+        { "text": "B. Penurunan seluruh fungsi tubuh permanen", "isCorrect": false },
+        { "text": "C. Tidak ada respons fisiologis", "isCorrect": false },
+        { "text": "D. Peningkatan kapasitas paru permanen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi faktor lingkungan, aktivitas, dan individu pada gangguan fisiologi menunjukkan bahwa pendekatan strategi sebaiknya bersifat?",
+      "explanation": "Karena penyebabnya multifaktor, strategi sebaiknya bersifat komprehensif dan menyasar berbagai faktor secara terpadu.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Komprehensif dan terpadu", "isCorrect": true },
+        { "text": "B. Tunggal dan sempit", "isCorrect": false },
+        { "text": "C. Hanya menyasar individu", "isCorrect": false },
+        { "text": "D. Mengabaikan lingkungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyediaan kursi kerja yang dapat diatur ketinggiannya (adjustable) merupakan contoh penerapan?",
+      "explanation": "Kursi yang dapat diatur memungkinkan postur netral bagi beragam ukuran tubuh, sehingga merupakan penerapan ergonomi.",
+      "difficulty": "EASY",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Ergonomi stasiun kerja", "isCorrect": true },
+        { "text": "B. Pengendalian kebisingan", "isCorrect": false },
+        { "text": "C. Manajemen gizi", "isCorrect": false },
+        { "text": "D. Pengelolaan stres", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unit motor slow-twitch tipe I dominan berperan pada kerja yang bersifat?",
+      "explanation": "Unit motor slow-twitch tipe I dominan pada kerja endurance dengan kapasitas aerobik tinggi dan tahan lama.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Endurance/daya tahan", "isCorrect": true },
+        { "text": "B. Sangat berat durasi sangat pendek", "isCorrect": false },
+        { "text": "C. Tanpa aktivitas otot", "isCorrect": false },
+        { "text": "D. Hanya saat tidur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan ventilasi yang memadai di tempat kerja membantu mencegah gangguan fisiologi karena?",
+      "explanation": "Ventilasi memadai mencegah akumulasi gas berbahaya dan panas, menjaga kualitas udara serta termoregulasi pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. Mencegah akumulasi gas berbahaya dan panas", "isCorrect": true },
+        { "text": "B. Menambah kebisingan ruang", "isCorrect": false },
+        { "text": "C. Menurunkan pencahayaan", "isCorrect": false },
+        { "text": "D. Memperberat beban angkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Monitoring denyut jantung real-time pada pekerja di lingkungan panas terutama berguna untuk?",
+      "explanation": "Monitoring HR real-time membantu manajemen heat stress dengan menetapkan kapan pekerja perlu istirahat sebelum overload.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Manajemen heat stress dan penentuan waktu istirahat", "isCorrect": true },
+        { "text": "B. Menghitung gaji pekerja", "isCorrect": false },
+        { "text": "C. Mengatur warna seragam", "isCorrect": false },
+        { "text": "D. Menambah beban kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seleksi fit to work (kelayakan kerja) sebagai strategi pencegahan biasanya mempertimbangkan?",
+      "explanation": "Fit to work mempertimbangkan kapasitas fisik dan kebugaran pekerja, misalnya melalui tes seperti YMCA Step Test.",
+      "difficulty": "HARD",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Kapasitas fisik dan kebugaran pekerja", "isCorrect": true },
+        { "text": "B. Jumlah teman kerja", "isCorrect": false },
+        { "text": "C. Warna pakaian harian", "isCorrect": false },
+        { "text": "D. Jarak rumah ke pasar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kerja isometrik (statis) menyebabkan kelelahan lebih cepat dibanding kerja dinamis?",
+      "explanation": "Pada kontraksi isometrik aliran darah ke otot terhambat sehingga suplai oksigen menurun dan kelelahan terjadi lebih cepat.",
+      "difficulty": "HARD",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Aliran darah ke otot terhambat sehingga suplai oksigen menurun", "isCorrect": true },
+        { "text": "B. Otot mendapat oksigen berlebih", "isCorrect": false },
+        { "text": "C. Otot tidak bekerja sama sekali", "isCorrect": false },
+        { "text": "D. Suhu otot turun drastis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencatatan dan pelaporan keluhan pekerja secara rutin berguna dalam tahap?",
+      "explanation": "Pencatatan keluhan rutin mendukung tahap identifikasi kebutuhan dan evaluasi efektivitas strategi yang berjalan.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Identifikasi kebutuhan dan evaluasi", "isCorrect": true },
+        { "text": "B. Penghapusan program", "isCorrect": false },
+        { "text": "C. Penambahan beban kerja", "isCorrect": false },
+        { "text": "D. Pengurangan istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan pola makan teratur dengan jeda saat istirahat kerja bertujuan?",
+      "explanation": "Makan teratur saat istirahat menjaga ketersediaan energi (glukosa) sehingga kelelahan dan penurunan konsentrasi dapat dicegah.",
+      "difficulty": "MEDIUM",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Menjaga ketersediaan energi dan mencegah kelelahan", "isCorrect": true },
+        { "text": "B. Menambah beban kerja statis", "isCorrect": false },
+        { "text": "C. Mengurangi waktu tidur", "isCorrect": false },
+        { "text": "D. Menambah paparan bising", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan rotasi kerja dan istirahat termasuk pengendalian jenis?",
+      "explanation": "Rotasi kerja dan pengaturan istirahat termasuk pengendalian administratif karena mengatur cara dan waktu kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Administratif", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Substitusi bahan", "isCorrect": false },
+        { "text": "D. APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat ekonomi dari penerapan strategi pencegahan gangguan fisiologi adalah?",
+      "explanation": "Strategi pencegahan menurunkan biaya kesehatan dan kecelakaan kerja serta meningkatkan efisiensi, sehingga bermanfaat secara ekonomi.",
+      "difficulty": "EASY",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Menurunkan biaya kesehatan dan kecelakaan kerja", "isCorrect": true },
+        { "text": "B. Menaikkan biaya pengobatan", "isCorrect": false },
+        { "text": "C. Menambah hari hilang kerja", "isCorrect": false },
+        { "text": "D. Menurunkan produktivitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan berkala (medical check-up) berperan dalam pencegahan dengan cara?",
+      "explanation": "Pemeriksaan berkala mendeteksi perubahan status kesehatan pekerja secara dini sehingga intervensi dapat dilakukan tepat waktu.",
+      "difficulty": "EASY",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Mendeteksi perubahan kesehatan secara dini", "isCorrect": true },
+        { "text": "B. Mengganti fungsi APD", "isCorrect": false },
+        { "text": "C. Menambah beban kerja", "isCorrect": false },
+        { "text": "D. Menghapus istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor individu seperti kondisi kesehatan kronis (misalnya hipertensi) pada pekerja perlu diperhatikan karena?",
+      "explanation": "Kondisi kronis meningkatkan kerentanan terhadap beban kerja sehingga butuh penyesuaian tugas dan pengawasan kesehatan lebih ketat.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Meningkatkan kerentanan dan butuh penyesuaian tugas", "isCorrect": true },
+        { "text": "B. Tidak berpengaruh pada beban kerja", "isCorrect": false },
+        { "text": "C. Menghapus kebutuhan pemeriksaan", "isCorrect": false },
+        { "text": "D. Membuat pekerja kebal lelah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Substitusi sebagai strategi pencegahan gangguan fisiologi misalnya?",
+      "explanation": "Substitusi mengganti proses, bahan, atau alat berisiko tinggi dengan yang lebih aman, misalnya alat angkat manual menjadi alat mekanis.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Mengganti alat angkat manual dengan alat mekanis", "isCorrect": true },
+        { "text": "B. Membiarkan proses lama yang berbahaya", "isCorrect": false },
+        { "text": "C. Menambah beban manual", "isCorrect": false },
+        { "text": "D. Menghapus pelatihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penurunan konsentrasi dan reaksi lambat akibat kelelahan dapat meningkatkan risiko?",
+      "explanation": "Kelelahan menurunkan konsentrasi dan memperlambat reaksi sehingga meningkatkan risiko kecelakaan dan kesalahan kerja.",
+      "difficulty": "EASY",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Kecelakaan dan kesalahan kerja", "isCorrect": true },
+        { "text": "B. Peningkatan kualitas kerja", "isCorrect": false },
+        { "text": "C. Penurunan beban otomatis", "isCorrect": false },
+        { "text": "D. Peningkatan kapasitas paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyusunan kebutuhan kalori pekerja sebaiknya juga memperhitungkan?",
+      "explanation": "Kebutuhan kalori memperhitungkan metabolisme basal ditambah energi aktivitas kerja sesuai kategori beban kerjanya.",
+      "difficulty": "HARD",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Metabolisme basal ditambah energi aktivitas kerja", "isCorrect": true },
+        { "text": "B. Hanya jumlah teman makan", "isCorrect": false },
+        { "text": "C. Warna makanan saja", "isCorrect": false },
+        { "text": "D. Jarak kantin saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa strategi pencegahan lebih diutamakan dibanding pengelolaan setelah gangguan terjadi?",
+      "explanation": "Pencegahan lebih efektif dan ekonomis karena mencegah gangguan sebelum terjadi, sedangkan pengelolaan menangani setelah dampak muncul.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Lebih efektif dan ekonomis karena mencegah sebelum terjadi", "isCorrect": true },
+        { "text": "B. Lebih mahal dan tidak berguna", "isCorrect": false },
+        { "text": "C. Hanya untuk pekerja tertentu", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh pada produktivitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komitmen manajemen puncak dalam implementasi strategi K3 penting karena?",
+      "explanation": "Komitmen manajemen memastikan ketersediaan sumber daya, kebijakan, dan dukungan untuk keberhasilan implementasi strategi.",
+      "difficulty": "HARD",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Memastikan sumber daya dan kebijakan pendukung tersedia", "isCorrect": true },
+        { "text": "B. Tidak diperlukan dalam K3", "isCorrect": false },
+        { "text": "C. Menghambat pelaksanaan", "isCorrect": false },
+        { "text": "D. Menambah beban pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyediaan area istirahat yang nyaman (rest area) bagi pekerja berperan dalam?",
+      "explanation": "Area istirahat nyaman mendukung pemulihan fisik dan mental sehingga efektif mengurangi akumulasi kelelahan.",
+      "difficulty": "EASY",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Mendukung pemulihan dan mengurangi kelelahan", "isCorrect": true },
+        { "text": "B. Menambah jam kerja", "isCorrect": false },
+        { "text": "C. Meningkatkan kebisingan", "isCorrect": false },
+        { "text": "D. Mengurangi gizi pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko ergonomi pada postur kerja dapat menggunakan metode?",
+      "explanation": "Metode seperti RULA dan REBA digunakan untuk menilai risiko postur kerja terhadap gangguan muskuloskeletal.",
+      "difficulty": "HARD",
+      "tag": "Ergonomi & Pengaturan Lingkungan",
+      "options": [
+        { "text": "A. RULA dan REBA", "isCorrect": true },
+        { "text": "B. Luxmeter dan termometer", "isCorrect": false },
+        { "text": "C. NAB kebisingan", "isCorrect": false },
+        { "text": "D. Indeks massa tubuh saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Akumulasi gerakan berulang tanpa pemulihan dalam jangka panjang dapat menyebabkan?",
+      "explanation": "Gerakan berulang tanpa pemulihan dapat menimbulkan cumulative trauma disorders (CTD) atau gangguan muskuloskeletal kronis.",
+      "difficulty": "MEDIUM",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Cumulative trauma disorders (CTD)", "isCorrect": true },
+        { "text": "B. Peningkatan kebugaran permanen", "isCorrect": false },
+        { "text": "C. Penurunan kebutuhan istirahat", "isCorrect": false },
+        { "text": "D. Peningkatan kapasitas paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Strategi gizi kerja untuk pekerja shift malam perlu memperhatikan?",
+      "explanation": "Pekerja shift malam perlu pengaturan waktu dan jenis makan yang sesuai ritme sirkadian agar tidak mengganggu pencernaan dan energi.",
+      "difficulty": "HARD",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Waktu dan jenis makan sesuai ritme sirkadian", "isCorrect": true },
+        { "text": "B. Menghilangkan makan sepenuhnya", "isCorrect": false },
+        { "text": "C. Hanya minuman berenergi tinggi gula", "isCorrect": false },
+        { "text": "D. Makan sebanyak mungkin tanpa aturan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Evaluasi strategi yang menunjukkan kelemahan sebaiknya ditindaklanjuti dengan?",
+      "explanation": "Kelemahan hasil evaluasi ditindaklanjuti dengan perbaikan dan penyesuaian strategi agar lebih efektif pada siklus berikutnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Perbaikan dan penyesuaian strategi", "isCorrect": true },
+        { "text": "B. Menghentikan seluruh program", "isCorrect": false },
+        { "text": "C. Mengabaikan temuan", "isCorrect": false },
+        { "text": "D. Menyalahkan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan pengelolaan gangguan fisiologi melalui pendekatan medis?",
+      "explanation": "Pemberian obat sesuai indikasi dan terapi medis merupakan pengelolaan melalui pendekatan medis terhadap gangguan fisiologi.",
+      "difficulty": "EASY",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Pemberian obat sesuai indikasi medis", "isCorrect": true },
+        { "text": "B. Penggantian seragam", "isCorrect": false },
+        { "text": "C. Pengaturan pencahayaan", "isCorrect": false },
+        { "text": "D. Pemasangan peredam bising", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja yang melebihi kapasitas individu secara terus-menerus disebut kondisi?",
+      "explanation": "Beban kerja yang melebihi kapasitas individu secara terus-menerus disebut overload, yang memicu kelelahan dan gangguan fisiologi.",
+      "difficulty": "MEDIUM",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Overload (kelebihan beban)", "isCorrect": true },
+        { "text": "B. Underload tanpa risiko", "isCorrect": false },
+        { "text": "C. Kondisi seimbang ideal", "isCorrect": false },
+        { "text": "D. Istirahat penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan rest allowance pada perhitungan waktu kerja bertujuan?",
+      "explanation": "Rest allowance menambahkan waktu istirahat ke dalam perhitungan kerja agar pemulihan kelelahan fisiologis terjamin.",
+      "difficulty": "HARD",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Menjamin waktu pemulihan kelelahan dalam perhitungan kerja", "isCorrect": true },
+        { "text": "B. Menambah output tanpa istirahat", "isCorrect": false },
+        { "text": "C. Menghapus jeda kerja", "isCorrect": false },
+        { "text": "D. Memperpanjang shift", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi strategi pencegahan paling ideal untuk gangguan muskuloskeletal akibat angkat-angkut adalah?",
+      "explanation": "Kombinasi alat bantu mekanis (rekayasa), pelatihan teknik angkat aman (administratif), dan istirahat memberi perlindungan paling menyeluruh.",
+      "difficulty": "HARD",
+      "tag": "Strategi Pencegahan",
+      "options": [
+        { "text": "A. Alat bantu mekanis, pelatihan teknik angkat, dan istirahat", "isCorrect": true },
+        { "text": "B. Hanya menambah jam kerja", "isCorrect": false },
+        { "text": "C. Hanya mengganti seragam", "isCorrect": false },
+        { "text": "D. Membiarkan pekerja mengangkat sendiri tanpa alat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama integrasi gizi kerja ke dalam program K3 adalah?",
+      "explanation": "Integrasi gizi kerja memastikan pekerja memiliki energi cukup sehingga daya tahan, kewaspadaan, dan produktivitas terjaga.",
+      "difficulty": "MEDIUM",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Menjamin energi cukup untuk daya tahan dan produktivitas", "isCorrect": true },
+        { "text": "B. Mengganti fungsi pemeriksaan kesehatan", "isCorrect": false },
+        { "text": "C. Menghapus istirahat kerja", "isCorrect": false },
+        { "text": "D. Menambah kebisingan kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang tepat tentang hubungan beban kerja dan kelelahan adalah?",
+      "explanation": "Semakin tinggi beban kerja relatif terhadap kapasitas, semakin cepat kelelahan muncul tanpa pemulihan yang memadai.",
+      "difficulty": "EASY",
+      "tag": "Manajemen Beban Kerja & Kelelahan",
+      "options": [
+        { "text": "A. Beban kerja tinggi tanpa pemulihan mempercepat kelelahan", "isCorrect": true },
+        { "text": "B. Beban kerja tidak berhubungan dengan kelelahan", "isCorrect": false },
+        { "text": "C. Beban tinggi mengurangi kelelahan", "isCorrect": false },
+        { "text": "D. Kelelahan hanya karena usia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan strategi pencegahan dan pengelolaan gangguan fisiologi sebaiknya didokumentasikan agar?",
+      "explanation": "Dokumentasi memudahkan pemantauan, evaluasi, dan perbaikan berkelanjutan serta menjadi bukti penerapan program K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Memudahkan pemantauan, evaluasi, dan perbaikan", "isCorrect": true },
+        { "text": "B. Menambah pekerjaan tanpa guna", "isCorrect": false },
+        { "text": "C. Menghapus tanggung jawab manajemen", "isCorrect": false },
+        { "text": "D. Mengurangi transparansi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan jadwal kerja agar tidak melebihi batas jam kerja normal merupakan upaya mencegah?",
+      "explanation": "Membatasi jam kerja mencegah akumulasi kelelahan dan menjaga keseimbangan kerja-istirahat pekerja.",
+      "difficulty": "EASY",
+      "tag": "Istirahat & Rotasi Kerja",
+      "options": [
+        { "text": "A. Akumulasi kelelahan akibat kerja berlebih", "isCorrect": true },
+        { "text": "B. Peningkatan produktivitas tanpa batas", "isCorrect": false },
+        { "text": "C. Penurunan kualitas tidur permanen", "isCorrect": false },
+        { "text": "D. Kerusakan mesin produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang paling tepat tentang peran individu dalam strategi pengelolaan?",
+      "explanation": "Pekerja perlu aktif menjaga pola hidup sehat, mengelola stres, dan mematuhi prosedur kerja aman sebagai bagian dari pengelolaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi Pengelolaan",
+      "options": [
+        { "text": "A. Pekerja aktif menjaga pola hidup sehat dan prosedur aman", "isCorrect": true },
+        { "text": "B. Pekerja pasif dan tidak terlibat", "isCorrect": false },
+        { "text": "C. Pekerja hanya menunggu perintah", "isCorrect": false },
+        { "text": "D. Pekerja mengabaikan kesehatannya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran beban kerja sebelum merancang strategi penting agar?",
+      "explanation": "Pengukuran beban kerja memberi data objektif sehingga strategi yang dirancang tepat sasaran sesuai tingkat risiko nyata.",
+      "difficulty": "MEDIUM",
+      "tag": "Implementasi & Evaluasi",
+      "options": [
+        { "text": "A. Strategi tepat sasaran sesuai tingkat risiko nyata", "isCorrect": true },
+        { "text": "B. Strategi dibuat tanpa dasar data", "isCorrect": false },
+        { "text": "C. Biaya membengkak tanpa hasil", "isCorrect": false },
+        { "text": "D. Pekerja diabaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian suplemen atau tambahan gizi pada pekerja sebaiknya didasarkan pada?",
+      "explanation": "Pemberian suplemen sebaiknya berdasarkan kebutuhan nyata dan kondisi kesehatan pekerja, bukan sekadar pemberian massal.",
+      "difficulty": "HARD",
+      "tag": "Gizi Kerja",
+      "options": [
+        { "text": "A. Kebutuhan nyata dan kondisi kesehatan pekerja", "isCorrect": true },
+        { "text": "B. Selera atasan", "isCorrect": false },
+        { "text": "C. Harga termurah saja", "isCorrect": false },
+        { "text": "D. Tanpa pertimbangan apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara umum, strategi pencegahan dan pengelolaan gangguan fisiologi yang efektif bersifat?",
+      "explanation": "Strategi efektif bersifat terencana, sistematis, partisipatif, dan dievaluasi secara berkelanjutan agar memberi hasil optimal.",
+      "difficulty": "EASY",
+      "tag": "Definisi Gangguan Fisiologi",
+      "options": [
+        { "text": "A. Terencana, sistematis, dan dievaluasi berkelanjutan", "isCorrect": true },
+        { "text": "B. Spontan tanpa perencanaan", "isCorrect": false },
+        { "text": "C. Sekali jalan tanpa evaluasi", "isCorrect": false },
+        { "text": "D. Hanya saat terjadi kecelakaan", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa itu gangguan fisiologi terkait kerja?", "back": "Kondisi yang mempengaruhi fungsi tubuh akibat faktor kerja, contoh: kelelahan, stres, gangguan tidur, dan gangguan pernapasan.", "tag": "Definisi Gangguan Fisiologi" },
+    { "front": "Tiga kelompok faktor penyebab gangguan fisiologi terkait kerja", "back": "Lingkungan kerja (suhu, kelembaban, pencahayaan, kebisingan), aktivitas kerja (fisik, mental, emosi), dan individu (usia, jenis kelamin, kondisi kesehatan).", "tag": "Faktor yang Mempengaruhi" },
+    { "front": "Empat strategi pencegahan utama", "back": "Penggunaan APD, pengaturan lingkungan kerja nyaman, istirahat cukup, dan aktivitas fisik teratur.", "tag": "Strategi Pencegahan" },
+    { "front": "Hierarki pengendalian risiko (urut paling efektif)", "back": "Eliminasi, substitusi, rekayasa teknik, pengendalian administratif, lalu APD sebagai pertahanan terakhir.", "tag": "Strategi Pencegahan" },
+    { "front": "Besaran rest allowance menurut ILO", "back": "Sekitar 11%-20% dari waktu kerja untuk memulihkan kelelahan fisiologis.", "tag": "Istirahat & Rotasi Kerja" },
+    { "front": "Interval rotasi kerja untuk kerja statis", "back": "Disarankan rotasi tiap sekitar 30 menit untuk mencegah kelelahan otot akibat kontraksi isometrik.", "tag": "Istirahat & Rotasi Kerja" },
+    { "front": "Manfaat rotasi kerja", "back": "Mendistribusikan beban ke kelompok otot berbeda sehingga mencegah cumulative trauma disorders.", "tag": "Istirahat & Rotasi Kerja" },
+    { "front": "Pengertian ergonomi", "back": "Ilmu menyesuaikan pekerjaan, alat, dan lingkungan dengan kemampuan serta keterbatasan tubuh pekerja.", "tag": "Ergonomi & Pengaturan Lingkungan" },
+    { "front": "Efek postur sudut sendi netral", "back": "Menurunkan beban statis hingga sekitar 40% dan mencegah cumulative trauma disorders (ISO 11226:2020).", "tag": "Ergonomi & Pengaturan Lingkungan" },
+    { "front": "Metode penilaian risiko postur kerja", "back": "RULA dan REBA digunakan untuk menilai risiko postur terhadap gangguan muskuloskeletal.", "tag": "Ergonomi & Pengaturan Lingkungan" },
+    { "front": "Penyebab muscular fatigue saat kerja", "back": "Akumulasi asam laktat, penurunan pH, dan deplesi glikogen; kapasitas kerja turun 15-30% setelah 1 jam kerja statis.", "tag": "Manajemen Beban Kerja & Kelelahan" },
+    { "front": "Rumus %CVL (Cardiovascular Load)", "back": "%CVL = (HR kerja - HR istirahat) / (HRmax - HR istirahat) x 100%. HRmax ≈ 220 - umur.", "tag": "Manajemen Beban Kerja & Kelelahan" },
+    { "front": "Ambang %CVL menurut ACGIH", "back": "<30% aman 8 jam; 30-40% perlu istirahat ~50%; >40% berisiko fatigue akut, kerja <1 jam.", "tag": "Manajemen Beban Kerja & Kelelahan" },
+    { "front": "Cara menilai kelelahan otot", "back": "EMG dengan indikator penurunan median frequency, atau metode sederhana handgrip endurance time.", "tag": "Manajemen Beban Kerja & Kelelahan" },
+    { "front": "Apa itu gizi kerja?", "back": "Pemenuhan kebutuhan zat gizi pekerja sesuai jenis dan beban kerja untuk menjaga kesehatan dan produktivitas.", "tag": "Gizi Kerja" },
+    { "front": "Sumber energi utama kerja fisik berat", "back": "Karbohidrat sebagai sumber energi cepat melalui glikogen dan ATP; protein untuk pemeliharaan otot.", "tag": "Gizi Kerja" },
+    { "front": "Pentingnya hidrasi & elektrolit pada kerja panas", "back": "Mencegah dehidrasi, gangguan termoregulasi, dan kram otot akibat keringat berlebih.", "tag": "Gizi Kerja" },
+    { "front": "Strategi pengelolaan gangguan fisiologi", "back": "Mengelola stres, teknik relaksasi (meditasi, yoga), obat sesuai indikasi, dan pemeriksaan kesehatan rutin.", "tag": "Strategi Pengelolaan" },
+    { "front": "Empat tahap implementasi strategi", "back": "Identifikasi kebutuhan & prioritas, pengembangan rencana aksi, implementasi, dan evaluasi hasil.", "tag": "Implementasi & Evaluasi" },
+    { "front": "Manfaat merancang strategi pencegahan & pengelolaan", "back": "Meningkatkan K3, mengurangi risiko gangguan fisiologi, menaikkan produktivitas, dan menekan biaya kesehatan & kecelakaan.", "tag": "Implementasi & Evaluasi" }
+  ],
+  "mindmap": [
+    { "id": "strategi-gangguan-fisiologi", "label": "Strategi Pencegahan & Pengelolaan Gangguan Fisiologi", "color": "#6366f1", "parent": null, "content": "Pendekatan sistematis untuk mencegah dan mengelola gangguan fisiologi terkait kerja demi meningkatkan K3 dan produktivitas." },
+
+    { "id": "definisi", "label": "Definisi Gangguan Fisiologi", "color": "#8b5cf6", "parent": "strategi-gangguan-fisiologi", "content": "Kondisi yang mempengaruhi fungsi tubuh dan dipengaruhi faktor kerja." },
+    { "id": "def-contoh", "label": "Contoh Gangguan", "color": "#8b5cf6", "parent": "definisi", "content": "Kelelahan, stres, gangguan tidur, dan gangguan pernapasan." },
+    { "id": "def-tujuan", "label": "Tujuan Akhir", "color": "#8b5cf6", "parent": "definisi", "content": "Meningkatkan kesehatan dan keselamatan kerja serta produktivitas." },
+
+    { "id": "faktor", "label": "Faktor yang Mempengaruhi", "color": "#0ea5e9", "parent": "strategi-gangguan-fisiologi", "content": "Penyebab gangguan fisiologi bersifat multifaktor sehingga butuh pendekatan terpadu." },
+    { "id": "faktor-lingkungan", "label": "Lingkungan Kerja", "color": "#0ea5e9", "parent": "faktor", "content": "Suhu, kelembaban, pencahayaan, dan kebisingan di tempat kerja." },
+    { "id": "faktor-aktivitas", "label": "Aktivitas Kerja", "color": "#0ea5e9", "parent": "faktor", "content": "Aspek fisik, mental, dan emosi dari tuntutan pekerjaan." },
+    { "id": "faktor-individu", "label": "Individu", "color": "#0ea5e9", "parent": "faktor", "content": "Usia, jenis kelamin, dan kondisi kesehatan pekerja." },
+
+    { "id": "pencegahan", "label": "Strategi Pencegahan", "color": "#10b981", "parent": "strategi-gangguan-fisiologi", "content": "Upaya proaktif menekan risiko sebelum gangguan terjadi; lebih efektif dan ekonomis." },
+    { "id": "cegah-apd", "label": "Penggunaan APD", "color": "#10b981", "parent": "pencegahan", "content": "Masker, sarung tangan, dan kacamata pelindung mengurangi dampak faktor lingkungan." },
+    { "id": "cegah-hierarki", "label": "Hierarki Pengendalian", "color": "#10b981", "parent": "pencegahan", "content": "Eliminasi, substitusi, rekayasa teknik, administratif, lalu APD sebagai pertahanan terakhir." },
+    { "id": "cegah-aktivitas-fisik", "label": "Aktivitas Fisik & Edukasi", "color": "#10b981", "parent": "pencegahan", "content": "Olahraga teratur dan pelatihan K3 meningkatkan kebugaran serta kesadaran kerja aman." },
+    { "id": "cegah-fittowork", "label": "Seleksi Fit to Work", "color": "#10b981", "parent": "pencegahan", "content": "Menilai kapasitas fisik dan kebugaran pekerja, misalnya melalui YMCA Step Test." },
+
+    { "id": "istirahat-rotasi", "label": "Istirahat & Rotasi Kerja", "color": "#f59e0b", "parent": "strategi-gangguan-fisiologi", "content": "Pengaturan jeda dan pergantian tugas untuk memulihkan kelelahan fisiologis." },
+    { "id": "rest-allowance", "label": "Rest Allowance ILO", "color": "#f59e0b", "parent": "istirahat-rotasi", "content": "Sekitar 11%-20% dari waktu kerja untuk pemulihan kelelahan." },
+    { "id": "rotasi-30menit", "label": "Rotasi Kerja Statis", "color": "#f59e0b", "parent": "istirahat-rotasi", "content": "Rotasi tiap sekitar 30 menit pada kerja statis mencegah kelelahan otot isometrik." },
+    { "id": "micro-break", "label": "Micro Break & Peregangan", "color": "#f59e0b", "parent": "istirahat-rotasi", "content": "Istirahat pendek berkala dan peregangan mencegah ketegangan otot pada kerja repetitif." },
+    { "id": "work-rest-cycle", "label": "Work-Rest Cycle", "color": "#f59e0b", "parent": "istirahat-rotasi", "content": "Siklus kerja-istirahat ditetapkan berdasarkan beban fisiologis seperti denyut jantung." },
+
+    { "id": "ergonomi", "label": "Ergonomi & Lingkungan", "color": "#ef4444", "parent": "strategi-gangguan-fisiologi", "content": "Menyesuaikan pekerjaan, alat, dan lingkungan dengan kemampuan tubuh pekerja." },
+    { "id": "ergo-postur", "label": "Postur Netral", "color": "#ef4444", "parent": "ergonomi", "content": "Sudut sendi netral menurunkan beban statis hingga 40% dan mencegah CTD (ISO 11226:2020)." },
+    { "id": "ergo-stasiun", "label": "Desain Stasiun Kerja", "color": "#ef4444", "parent": "ergonomi", "content": "Alat dan kursi adjustable serta tata letak dalam jangkauan normal mengurangi beban otot." },
+    { "id": "ergo-lingkungan", "label": "Pengaturan Lingkungan", "color": "#ef4444", "parent": "ergonomi", "content": "Mengatur suhu, kelembaban, pencahayaan, ventilasi, dan kebisingan agar nyaman." },
+    { "id": "ergo-rula-reba", "label": "Penilaian RULA & REBA", "color": "#ef4444", "parent": "ergonomi", "content": "Metode menilai risiko postur kerja terhadap gangguan muskuloskeletal." },
+
+    { "id": "beban-kelelahan", "label": "Manajemen Beban Kerja & Kelelahan", "color": "#ec4899", "parent": "strategi-gangguan-fisiologi", "content": "Mengatur beban dan pemulihan agar kelelahan tidak terakumulasi menjadi fatigue kronis." },
+    { "id": "beban-cvl", "label": "%CVL & ACGIH", "color": "#ec4899", "parent": "beban-kelelahan", "content": "%CVL <30% aman 8 jam; 30-40% perlu istirahat 50%; >40% kerja <1 jam (ACGIH 2024)." },
+    { "id": "beban-fatigue", "label": "Muscular Fatigue", "color": "#ec4899", "parent": "beban-kelelahan", "content": "Akibat akumulasi asam laktat dan deplesi glikogen; kapasitas turun 15-30% setelah 1 jam kerja statis." },
+    { "id": "beban-emg", "label": "Evaluasi Kelelahan", "color": "#ec4899", "parent": "beban-kelelahan", "content": "EMG (penurunan median frequency) atau handgrip endurance time; beban mental via NASA-TLX." },
+    { "id": "beban-shift", "label": "Pengaturan Shift", "color": "#ec4899", "parent": "beban-kelelahan", "content": "Memperhatikan ritme sirkadian dan jeda pemulihan antar shift untuk mencegah kelelahan." },
+
+    { "id": "gizi", "label": "Gizi Kerja", "color": "#14b8a6", "parent": "strategi-gangguan-fisiologi", "content": "Pemenuhan zat gizi sesuai jenis dan beban kerja untuk menjaga energi dan produktivitas." },
+    { "id": "gizi-energi", "label": "Sumber Energi", "color": "#14b8a6", "parent": "gizi", "content": "Karbohidrat sumber energi utama kerja fisik berat; protein untuk pemeliharaan otot." },
+    { "id": "gizi-kalori", "label": "Kebutuhan Kalori", "color": "#14b8a6", "parent": "gizi", "content": "Disesuaikan dengan kategori beban kerja: metabolisme basal ditambah energi aktivitas." },
+    { "id": "gizi-hidrasi", "label": "Hidrasi & Elektrolit", "color": "#14b8a6", "parent": "gizi", "content": "Mencegah dehidrasi, gangguan termoregulasi, dan kram otot pada lingkungan panas." },
+
+    { "id": "pengelolaan", "label": "Strategi Pengelolaan", "color": "#8b5cf6", "parent": "strategi-gangguan-fisiologi", "content": "Penanganan setelah gangguan muncul melalui pendekatan psikologis dan medis." },
+    { "id": "kelola-stres", "label": "Manajemen Stres", "color": "#8b5cf6", "parent": "pengelolaan", "content": "Teknik relaksasi (meditasi, yoga), manajemen waktu, dan dukungan sosial." },
+    { "id": "kelola-medis", "label": "Pendekatan Medis", "color": "#8b5cf6", "parent": "pengelolaan", "content": "Obat sesuai indikasi dan pemeriksaan kesehatan rutin untuk deteksi dini." },
+    { "id": "kelola-eap", "label": "Employee Assistance Program", "color": "#8b5cf6", "parent": "pengelolaan", "content": "Dukungan konseling dan psikologis bagi pekerja yang mengalami tekanan." },
+
+    { "id": "implementasi", "label": "Implementasi & Evaluasi", "color": "#0ea5e9", "parent": "strategi-gangguan-fisiologi", "content": "Penerapan strategi secara bertahap dengan perbaikan berkelanjutan (PDCA)." },
+    { "id": "impl-identifikasi", "label": "Identifikasi Kebutuhan", "color": "#0ea5e9", "parent": "implementasi", "content": "Menentukan jenis gangguan, faktor penyebab, dan prioritas yang perlu diatasi." },
+    { "id": "impl-rencana", "label": "Rencana Aksi", "color": "#0ea5e9", "parent": "implementasi", "content": "Menetapkan sasaran/target dan mengidentifikasi sumber daya yang diperlukan." },
+    { "id": "impl-pelaksanaan", "label": "Pelaksanaan", "color": "#0ea5e9", "parent": "implementasi", "content": "Melibatkan semua pihak terkait disertai monitoring pelaksanaan." },
+    { "id": "impl-evaluasi", "label": "Evaluasi & Perbaikan", "color": "#0ea5e9", "parent": "implementasi", "content": "Menilai hasil, mengidentifikasi kelemahan, lalu memperbaiki strategi (continuous improvement)." }
+  ]
+}

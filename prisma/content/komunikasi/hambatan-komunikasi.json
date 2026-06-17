@@ -1,0 +1,1482 @@
+{
+  "topic": "Hambatan Komunikasi",
+  "order": 3,
+  "description": "Hambatan komunikasi adalah segala bentuk intervensi atau gangguan yang menghalangi salah satu elemen komunikasi sehingga pesan tidak diterima sebagaimana mestinya. Menurut Shannon & Weaver (1949), gangguan ini membuat proses komunikasi tidak berlangsung efektif. Hambatan dikelompokkan menjadi jenis teknis, fisik, psikologis, budaya, dan semantik.",
+  "subtopics": [
+    "Pengertian Hambatan Komunikasi",
+    "Hambatan Teknis",
+    "Hambatan Fisik",
+    "Hambatan Psikologis",
+    "Hambatan Budaya",
+    "Hambatan Semantik",
+    "Cara Mengatasi Hambatan",
+    "Komunikasi Efektif"
+  ],
+  "questions": [
+    {
+      "text": "Menurut Shannon & Weaver (1949), hambatan komunikasi terjadi jika terdapat intervensi yang mengganggu salah satu elemen komunikasi, sehingga komunikasi menjadi?",
+      "explanation": "Shannon & Weaver (1949) menyatakan hambatan terjadi bila ada intervensi pada salah satu elemen komunikasi sehingga proses tidak dapat berlangsung secara efektif.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Lebih cepat selesai", "isCorrect": false },
+        { "text": "B. Tidak dapat berlangsung secara efektif", "isCorrect": true },
+        { "text": "C. Lebih jelas dimengerti", "isCorrect": false },
+        { "text": "D. Bertambah formal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tokoh yang mengemukakan teori dasar tentang gangguan (noise) dalam proses komunikasi pada tahun 1949 adalah?",
+      "explanation": "Claude Shannon dan Warren Weaver (1949) mengembangkan model komunikasi yang memperkenalkan konsep noise/gangguan dalam proses komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Harold Lasswell", "isCorrect": false },
+        { "text": "B. Joseph A. DeVito", "isCorrect": false },
+        { "text": "C. Shannon & Weaver", "isCorrect": true },
+        { "text": "D. Wilbur Schramm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah lain yang umum dipakai untuk menyebut hambatan atau gangguan dalam komunikasi adalah?",
+      "explanation": "Dalam teori komunikasi, hambatan/gangguan sering disebut dengan istilah noise, yaitu segala sesuatu yang mengganggu penyampaian dan penerimaan pesan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Feedback", "isCorrect": false },
+        { "text": "B. Noise", "isCorrect": true },
+        { "text": "C. Channel", "isCorrect": false },
+        { "text": "D. Encoder", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan komunikasi pada dasarnya muncul karena adanya gangguan pada salah satu?",
+      "explanation": "Hambatan komunikasi terjadi ketika salah satu elemen komunikasi (pengirim, pesan, saluran, penerima, atau umpan balik) terganggu oleh intervensi.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Warna pakaian komunikator", "isCorrect": false },
+        { "text": "B. Elemen komunikasi", "isCorrect": true },
+        { "text": "C. Jumlah peserta rapat", "isCorrect": false },
+        { "text": "D. Waktu istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN termasuk lima jenis hambatan komunikasi menurut materi?",
+      "explanation": "Lima jenis hambatan komunikasi yang dibahas adalah teknis, psikologis, fisik, budaya, dan semantik; 'hambatan finansial' bukan termasuk klasifikasi tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan teknis", "isCorrect": false },
+        { "text": "B. Hambatan finansial", "isCorrect": true },
+        { "text": "C. Hambatan semantik", "isCorrect": false },
+        { "text": "D. Hambatan budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lima jenis hambatan komunikasi yang dikenal terdiri atas teknis, psikologis, fisik, budaya, dan?",
+      "explanation": "Jenis hambatan komunikasi meliputi teknis, psikologis, fisik, budaya, dan semantik.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Semantik", "isCorrect": true },
+        { "text": "B. Geografis", "isCorrect": false },
+        { "text": "C. Politis", "isCorrect": false },
+        { "text": "D. Religius", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dampak utama dari adanya hambatan komunikasi terhadap pesan yang disampaikan adalah?",
+      "explanation": "Hambatan menyebabkan pesan tidak sampai dengan utuh atau terdistorsi, sehingga makna yang diterima berbeda dari yang dimaksud pengirim.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Pesan diterima lebih sempurna", "isCorrect": false },
+        { "text": "B. Pesan terdistorsi atau tidak utuh diterima", "isCorrect": true },
+        { "text": "C. Pesan menjadi lebih panjang", "isCorrect": false },
+        { "text": "D. Pesan tidak membutuhkan umpan balik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep noise dalam model komunikasi Shannon & Weaver paling tepat diartikan sebagai?",
+      "explanation": "Noise adalah segala bentuk gangguan yang masuk ke dalam saluran komunikasi dan mengubah atau mengganggu pesan yang ditransmisikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Umpan balik dari penerima", "isCorrect": false },
+        { "text": "B. Gangguan yang mengganggu transmisi pesan", "isCorrect": true },
+        { "text": "C. Media yang dipakai mengirim pesan", "isCorrect": false },
+        { "text": "D. Identitas pengirim pesan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memahami jenis-jenis hambatan komunikasi penting bagi praktisi K3 karena?",
+      "explanation": "Dengan mengenali jenis hambatan, komunikator dapat memilih strategi yang tepat agar pesan keselamatan tersampaikan dengan efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Agar bisa memperbanyak hambatan", "isCorrect": false },
+        { "text": "B. Agar dapat memilih strategi mengatasi yang tepat", "isCorrect": true },
+        { "text": "C. Agar pesan tidak perlu disampaikan", "isCorrect": false },
+        { "text": "D. Agar komunikasi menjadi satu arah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi dikatakan efektif apabila pesan yang diterima penerima?",
+      "explanation": "Komunikasi efektif terjadi bila makna pesan yang diterima penerima sesuai dengan yang dimaksudkan oleh pengirim.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Berbeda jauh dari maksud pengirim", "isCorrect": false },
+        { "text": "B. Sesuai dengan maksud pengirim", "isCorrect": true },
+        { "text": "C. Tidak perlu dipahami", "isCorrect": false },
+        { "text": "D. Selalu lebih panjang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan teknis dalam komunikasi terjadi jika?",
+      "explanation": "Hambatan teknis terjadi bila salah satu alat yang digunakan dalam berkomunikasi mengalami gangguan, sehingga informasi yang ditransmisi melalui saluran mengalami kerusakan.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Penerima sedang berduka", "isCorrect": false },
+        { "text": "B. Alat yang digunakan mengalami gangguan", "isCorrect": true },
+        { "text": "C. Perbedaan budaya antar komunikator", "isCorrect": false },
+        { "text": "D. Penggunaan kata yang ambigu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang merupakan contoh hambatan teknis dalam komunikasi adalah?",
+      "explanation": "Gangguan jaringan provider serta gangguan pada stasiun TV/Radio merupakan contoh hambatan teknis karena melibatkan kerusakan alat/saluran.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Prasangka buruk terhadap pembicara", "isCorrect": false },
+        { "text": "B. Gangguan jaringan provider telekomunikasi", "isCorrect": true },
+        { "text": "C. Perbedaan bahasa daerah", "isCorrect": false },
+        { "text": "D. Tuli pada salah satu pendengar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat siaran televisi mengalami gambar pecah dan suara hilang akibat kerusakan pemancar, ini termasuk hambatan?",
+      "explanation": "Kerusakan pada pemancar/stasiun TV yang mengganggu transmisi sinyal merupakan contoh hambatan teknis.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Hambatan teknis", "isCorrect": true },
+        { "text": "B. Hambatan psikologis", "isCorrect": false },
+        { "text": "C. Hambatan budaya", "isCorrect": false },
+        { "text": "D. Hambatan semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada hambatan teknis, kerusakan informasi terjadi ketika pesan ditransmisikan melalui?",
+      "explanation": "Pada hambatan teknis, informasi yang ditransmisi melalui saluran (channel) mengalami kerusakan akibat gangguan alat.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Pikiran penerima", "isCorrect": false },
+        { "text": "B. Saluran (channel)", "isCorrect": true },
+        { "text": "C. Budaya pengirim", "isCorrect": false },
+        { "text": "D. Emosi komunikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Panggilan telepon yang terputus-putus karena sinyal lemah merupakan contoh hambatan?",
+      "explanation": "Sinyal lemah yang membuat panggilan terputus berhubungan dengan gangguan pada alat/saluran komunikasi, yaitu hambatan teknis.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Semantik", "isCorrect": false },
+        { "text": "B. Teknis", "isCorrect": true },
+        { "text": "C. Budaya", "isCorrect": false },
+        { "text": "D. Psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Email penting yang gagal terkirim karena server down termasuk dalam kategori hambatan?",
+      "explanation": "Kegagalan pengiriman email akibat server bermasalah adalah gangguan pada alat/sistem komunikasi sehingga termasuk hambatan teknis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Hambatan budaya", "isCorrect": false },
+        { "text": "B. Hambatan fisik", "isCorrect": false },
+        { "text": "C. Hambatan teknis", "isCorrect": true },
+        { "text": "D. Hambatan semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada model Shannon & Weaver, hambatan teknis paling erat berkaitan dengan elemen?",
+      "explanation": "Hambatan teknis berkaitan dengan saluran/transmitter (channel) tempat sinyal dialirkan, karena gangguan terjadi pada alat dan saluran.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Konteks", "isCorrect": false },
+        { "text": "B. Saluran/transmitter", "isCorrect": true },
+        { "text": "C. Niat pengirim", "isCorrect": false },
+        { "text": "D. Latar budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Microphone yang mati saat presentasi sehingga suara pembicara tidak terdengar adalah contoh hambatan?",
+      "explanation": "Kerusakan/gangguan pada alat bantu komunikasi seperti microphone termasuk hambatan teknis.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Teknis", "isCorrect": true },
+        { "text": "B. Fisik", "isCorrect": false },
+        { "text": "C. Psikologis", "isCorrect": false },
+        { "text": "D. Budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Solusi paling tepat untuk mengatasi hambatan teknis dalam komunikasi adalah?",
+      "explanation": "Karena hambatan teknis bersumber dari alat/saluran, solusinya adalah memastikan peralatan berfungsi baik dan menyediakan saluran cadangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Mengubah norma budaya penerima", "isCorrect": false },
+        { "text": "B. Memastikan alat berfungsi baik dan menyiapkan saluran cadangan", "isCorrect": true },
+        { "text": "C. Menyederhanakan emosi pengirim", "isCorrect": false },
+        { "text": "D. Mengganti bahasa daerah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Video conference yang tersendat karena bandwidth internet rendah menggambarkan hambatan?",
+      "explanation": "Bandwidth rendah yang mengganggu transmisi video adalah gangguan pada saluran/alat komunikasi, sehingga termasuk hambatan teknis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": false },
+        { "text": "B. Teknis", "isCorrect": true },
+        { "text": "C. Semantik", "isCorrect": false },
+        { "text": "D. Budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan fisik dalam komunikasi menurut materi disebabkan terutama oleh?",
+      "explanation": "Hambatan fisik disebabkan karena kondisi geografis, misalnya jarak yang jauh dan ketiadaan sarana penghubung.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Kondisi geografis", "isCorrect": true },
+        { "text": "B. Perbedaan agama", "isCorrect": false },
+        { "text": "C. Kesalahan tata bahasa", "isCorrect": false },
+        { "text": "D. Emosi yang tidak stabil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tidak adanya sarana kantor pos atau jalur transportasi di suatu daerah terpencil merupakan contoh hambatan?",
+      "explanation": "Ketiadaan sarana kantor pos dan jalur transportasi terkait kondisi geografis, sehingga termasuk hambatan fisik.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Hambatan semantik", "isCorrect": false },
+        { "text": "B. Hambatan fisik", "isCorrect": true },
+        { "text": "C. Hambatan budaya", "isCorrect": false },
+        { "text": "D. Hambatan teknis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain kondisi geografis, hambatan fisik juga dapat diartikan sebagai gangguan yang berkaitan dengan?",
+      "explanation": "Rintangan fisik juga bisa diartikan karena adanya gangguan fungsi tubuh, misalnya tidak berfungsinya salah satu pancaindra.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Gangguan fungsi tubuh/pancaindra", "isCorrect": true },
+        { "text": "B. Perbedaan nilai budaya", "isCorrect": false },
+        { "text": "C. Kerusakan jaringan internet", "isCorrect": false },
+        { "text": "D. Pemilihan kata yang ambigu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang tidak dapat mendengar karena tuli sehingga sulit menerima pesan lisan termasuk hambatan?",
+      "explanation": "Tidak berfungsinya pancaindra (pendengaran) merupakan gangguan fungsi tubuh yang tergolong hambatan fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Hambatan psikologis", "isCorrect": false },
+        { "text": "B. Hambatan fisik", "isCorrect": true },
+        { "text": "C. Hambatan teknis", "isCorrect": false },
+        { "text": "D. Hambatan semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jarak yang sangat jauh antara pengirim dan penerima pesan di daerah pegunungan tanpa akses jalan termasuk hambatan?",
+      "explanation": "Jarak dan kondisi geografis yang menyulitkan penyampaian pesan termasuk hambatan fisik.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Fisik", "isCorrect": true },
+        { "text": "B. Budaya", "isCorrect": false },
+        { "text": "C. Semantik", "isCorrect": false },
+        { "text": "D. Psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan contoh hambatan fisik berupa gangguan fungsi pancaindra?",
+      "explanation": "Kebutaan yang menghalangi seseorang membaca pesan tertulis merupakan gangguan fungsi pancaindra, tergolong hambatan fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Kebutaan yang menghalangi membaca pesan tertulis", "isCorrect": true },
+        { "text": "B. Salah memahami kata bermakna ganda", "isCorrect": false },
+        { "text": "C. Provider telepon yang gangguan", "isCorrect": false },
+        { "text": "D. Perbedaan adat istiadat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara hambatan fisik dan hambatan teknis adalah?",
+      "explanation": "Hambatan fisik bersumber dari kondisi geografis atau fungsi tubuh, sedangkan hambatan teknis bersumber dari gangguan alat/saluran komunikasi.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Keduanya sama persis", "isCorrect": false },
+        { "text": "B. Fisik dari geografis/fungsi tubuh, teknis dari gangguan alat", "isCorrect": true },
+        { "text": "C. Fisik selalu dari emosi, teknis dari bahasa", "isCorrect": false },
+        { "text": "D. Fisik dari budaya, teknis dari prasangka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Banjir besar yang memutus jalur transportasi sehingga surat tidak dapat dikirim merupakan contoh hambatan?",
+      "explanation": "Terputusnya jalur transportasi akibat kondisi geografis/alam termasuk hambatan fisik.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Fisik", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Semantik", "isCorrect": false },
+        { "text": "D. Budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara mengatasi hambatan fisik yang disebabkan gangguan pancaindra dapat dilakukan dengan?",
+      "explanation": "Hambatan fisik akibat gangguan pancaindra dapat diatasi dengan media alternatif, misalnya bahasa isyarat untuk tunarungu atau huruf Braille untuk tunanetra.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Menambah istilah teknis", "isCorrect": false },
+        { "text": "B. Menggunakan media alternatif seperti isyarat atau Braille", "isCorrect": true },
+        { "text": "C. Mengabaikan penerima", "isCorrect": false },
+        { "text": "D. Mempercepat tempo bicara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan psikologis dalam komunikasi terjadi karena adanya gangguan yang disebabkan oleh?",
+      "explanation": "Hambatan psikologis terjadi karena adanya gangguan yang disebabkan oleh persoalan dalam diri individu.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Kondisi geografis", "isCorrect": false },
+        { "text": "B. Persoalan dalam diri individu", "isCorrect": true },
+        { "text": "C. Kerusakan alat komunikasi", "isCorrect": false },
+        { "text": "D. Perbedaan struktur bahasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut yang merupakan contoh hambatan psikologis?",
+      "explanation": "Situasi berduka dan gangguan kejiwaan adalah contoh persoalan dalam diri individu yang tergolong hambatan psikologis.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Situasi berduka atau gangguan kejiwaan", "isCorrect": true },
+        { "text": "B. Server email yang down", "isCorrect": false },
+        { "text": "C. Jarak antar kota yang jauh", "isCorrect": false },
+        { "text": "D. Perbedaan dialek daerah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang sedang sangat marah sehingga tidak mampu mencerna pesan dengan baik mengalami hambatan?",
+      "explanation": "Emosi seperti marah adalah persoalan dalam diri individu, sehingga tergolong hambatan psikologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Fisik", "isCorrect": false },
+        { "text": "D. Semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prasangka buruk terhadap pembicara yang membuat pendengar menolak pesan termasuk hambatan?",
+      "explanation": "Prasangka adalah kondisi psikologis dalam diri penerima yang menghambat penerimaan pesan, tergolong hambatan psikologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Hambatan teknis", "isCorrect": false },
+        { "text": "B. Hambatan budaya", "isCorrect": false },
+        { "text": "C. Hambatan psikologis", "isCorrect": true },
+        { "text": "D. Hambatan fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja yang dilanda kecemasan berat sehingga sulit fokus saat diberi instruksi mengalami hambatan?",
+      "explanation": "Kecemasan adalah gangguan dalam diri individu, sehingga merupakan hambatan psikologis.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": true },
+        { "text": "B. Semantik", "isCorrect": false },
+        { "text": "C. Teknis", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan psikologis berbeda dengan hambatan fisik karena hambatan psikologis berasal dari?",
+      "explanation": "Hambatan psikologis bersumber dari kondisi internal/mental individu, sedangkan hambatan fisik bersumber dari geografis atau fungsi tubuh.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Kondisi geografis lingkungan", "isCorrect": false },
+        { "text": "B. Kondisi internal/mental individu", "isCorrect": true },
+        { "text": "C. Gangguan alat komunikasi", "isCorrect": false },
+        { "text": "D. Kesalahan tata bahasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rasa rendah diri yang membuat seseorang takut bertanya pada atasannya merupakan hambatan?",
+      "explanation": "Rasa rendah diri dan takut adalah kondisi psikologis dalam diri individu, sehingga termasuk hambatan psikologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": true },
+        { "text": "B. Budaya", "isCorrect": false },
+        { "text": "C. Teknis", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara yang tepat untuk mengurangi hambatan psikologis dalam komunikasi adalah?",
+      "explanation": "Hambatan psikologis dapat dikurangi dengan membangun empati, kepercayaan, dan suasana yang nyaman agar penerima terbuka terhadap pesan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Memperbesar volume suara", "isCorrect": false },
+        { "text": "B. Membangun empati dan suasana yang nyaman", "isCorrect": true },
+        { "text": "C. Memperbanyak istilah teknis", "isCorrect": false },
+        { "text": "D. Mengganti saluran komunikasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres berat yang dialami penerima sehingga ia salah menafsirkan maksud pesan termasuk hambatan?",
+      "explanation": "Stres adalah persoalan dalam diri individu yang mengganggu pemahaman pesan, tergolong hambatan psikologis.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": true },
+        { "text": "B. Fisik", "isCorrect": false },
+        { "text": "C. Teknis", "isCorrect": false },
+        { "text": "D. Semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sikap apatis atau tidak peduli dari penerima terhadap pesan keselamatan tergolong hambatan?",
+      "explanation": "Apatis adalah sikap mental/psikologis dalam diri individu yang menghambat penerimaan pesan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Teknis", "isCorrect": false },
+        { "text": "B. Psikologis", "isCorrect": true },
+        { "text": "C. Budaya", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan budaya dalam komunikasi terjadi disebabkan adanya perbedaan?",
+      "explanation": "Hambatan budaya terjadi disebabkan adanya perbedaan norma, kebiasaan, dan nilai-nilai yang dianut oleh pihak yang terlibat dalam komunikasi.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Alat komunikasi yang dipakai", "isCorrect": false },
+        { "text": "B. Norma, kebiasaan, dan nilai-nilai", "isCorrect": true },
+        { "text": "C. Kondisi geografis", "isCorrect": false },
+        { "text": "D. Emosi individu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan kebiasaan menyapa antara dua suku yang menyebabkan salah paham termasuk hambatan?",
+      "explanation": "Perbedaan kebiasaan dan norma antarbudaya yang menimbulkan salah paham tergolong hambatan budaya.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Budaya", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Psikologis", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tiga unsur yang menjadi sumber hambatan budaya adalah norma, kebiasaan, dan?",
+      "explanation": "Hambatan budaya bersumber dari perbedaan norma, kebiasaan, serta nilai-nilai yang dianut.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Nilai-nilai", "isCorrect": true },
+        { "text": "B. Alat komunikasi", "isCorrect": false },
+        { "text": "C. Jarak geografis", "isCorrect": false },
+        { "text": "D. Frekuensi suara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gestur jempol yang berarti positif di satu budaya tetapi dianggap menghina di budaya lain merupakan contoh hambatan?",
+      "explanation": "Perbedaan makna gestur antarbudaya adalah perbedaan nilai/kebiasaan, sehingga termasuk hambatan budaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Hambatan teknis", "isCorrect": false },
+        { "text": "B. Hambatan budaya", "isCorrect": true },
+        { "text": "C. Hambatan fisik", "isCorrect": false },
+        { "text": "D. Hambatan psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pihak yang terlibat dalam hambatan budaya mengalami kesulitan komunikasi karena masing-masing menganut?",
+      "explanation": "Hambatan budaya muncul karena masing-masing pihak menganut norma, kebiasaan, dan nilai yang berbeda.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Sistem norma dan nilai yang berbeda", "isCorrect": true },
+        { "text": "B. Alat komunikasi yang sama", "isCorrect": false },
+        { "text": "C. Frekuensi bunyi yang sama", "isCorrect": false },
+        { "text": "D. Lokasi geografis yang sama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan etika kontak mata, di mana satu budaya menganggapnya sopan dan budaya lain tidak sopan, termasuk hambatan?",
+      "explanation": "Perbedaan etika/kebiasaan antarbudaya seperti kontak mata tergolong hambatan budaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Budaya", "isCorrect": true },
+        { "text": "B. Semantik", "isCorrect": false },
+        { "text": "C. Teknis", "isCorrect": false },
+        { "text": "D. Psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara efektif mengatasi hambatan budaya dalam komunikasi adalah?",
+      "explanation": "Hambatan budaya diatasi dengan meningkatkan kesadaran lintas budaya (cultural awareness), saling menghormati perbedaan, dan menyesuaikan gaya komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Memaksakan satu budaya pada semua orang", "isCorrect": false },
+        { "text": "B. Meningkatkan kesadaran lintas budaya dan saling menghormati", "isCorrect": true },
+        { "text": "C. Mengabaikan latar belakang penerima", "isCorrect": false },
+        { "text": "D. Menggunakan istilah yang rumit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan budaya dan hambatan semantik dapat saling berkaitan ketika?",
+      "explanation": "Keduanya berkaitan ketika latar belakang budaya yang berbeda menyebabkan salah persepsi terhadap simbol/kata, sehingga muncul hambatan semantik.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Alat komunikasi rusak", "isCorrect": false },
+        { "text": "B. Latar budaya menimbulkan salah persepsi terhadap simbol bahasa", "isCorrect": true },
+        { "text": "C. Jaringan internet terputus", "isCorrect": false },
+        { "text": "D. Pendengar mengalami tuli", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan nilai keagamaan yang membuat suatu lelucon dianggap tidak pantas oleh satu pihak adalah contoh hambatan?",
+      "explanation": "Perbedaan nilai (termasuk nilai keagamaan) antarpihak yang menghambat pemahaman pesan tergolong hambatan budaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Budaya", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Fisik", "isCorrect": false },
+        { "text": "D. Psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan semantik dalam komunikasi disebabkan karena kesalahan pada?",
+      "explanation": "Hambatan semantik adalah gangguan komunikasi yang disebabkan karena kesalahan pada bahasa yang digunakan.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Bahasa yang digunakan", "isCorrect": true },
+        { "text": "B. Alat komunikasi", "isCorrect": false },
+        { "text": "C. Kondisi geografis", "isCorrect": false },
+        { "text": "D. Emosi individu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Struktur bahasa yang digunakan komunikator membingungkan penerima merupakan contoh hambatan?",
+      "explanation": "Struktur bahasa yang membingungkan adalah kesalahan pada bahasa, sehingga tergolong hambatan semantik.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Semantik", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Fisik", "isCorrect": false },
+        { "text": "D. Psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kata 'jangan' yang dalam bahasa Jawa berarti makanan, tetapi dalam bahasa Indonesia berarti larangan, adalah contoh hambatan?",
+      "explanation": "Perbedaan makna kata akibat latar belakang bahasa/budaya yang menimbulkan salah persepsi terhadap simbol bahasa tergolong hambatan semantik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Hambatan teknis", "isCorrect": false },
+        { "text": "B. Hambatan semantik", "isCorrect": true },
+        { "text": "C. Hambatan fisik", "isCorrect": false },
+        { "text": "D. Hambatan psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan istilah teknis yang tidak dimengerti audiens awam dapat menimbulkan hambatan?",
+      "explanation": "Istilah yang tidak dipahami menyebabkan kesalahan pemahaman bahasa, sehingga termasuk hambatan semantik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Semantik", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Budaya", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan semantik berhubungan langsung dengan kesalahan pemahaman pada?",
+      "explanation": "Hambatan semantik berkaitan dengan kesalahan dalam memahami kata atau simbol bahasa yang digunakan.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Kata atau simbol bahasa", "isCorrect": true },
+        { "text": "B. Sinyal jaringan", "isCorrect": false },
+        { "text": "C. Jarak geografis", "isCorrect": false },
+        { "text": "D. Suasana hati penerima", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kata yang memiliki makna ganda (ambigu) sehingga ditafsirkan berbeda oleh penerima menimbulkan hambatan?",
+      "explanation": "Kata bermakna ganda yang menimbulkan salah tafsir adalah persoalan bahasa, sehingga tergolong hambatan semantik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Semantik", "isCorrect": true },
+        { "text": "B. Fisik", "isCorrect": false },
+        { "text": "C. Teknis", "isCorrect": false },
+        { "text": "D. Psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Latar belakang budaya yang berbeda dapat menyebabkan hambatan semantik karena?",
+      "explanation": "Latar belakang budaya yang berbeda dapat menyebabkan salah persepsi terhadap simbol bahasa yang digunakan, sehingga menimbulkan hambatan semantik.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Menyebabkan salah persepsi terhadap simbol bahasa", "isCorrect": true },
+        { "text": "B. Merusak alat komunikasi", "isCorrect": false },
+        { "text": "C. Memutus jalur transportasi", "isCorrect": false },
+        { "text": "D. Mematikan pancaindra", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Solusi yang tepat untuk mengatasi hambatan semantik adalah?",
+      "explanation": "Hambatan semantik diatasi dengan menggunakan bahasa yang jelas, sederhana, dan menghindari kata bermakna ganda agar pesan dipahami sama.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Menambah jumlah istilah asing", "isCorrect": false },
+        { "text": "B. Menggunakan bahasa jelas, sederhana, dan tidak ambigu", "isCorrect": true },
+        { "text": "C. Mempercepat tempo bicara", "isCorrect": false },
+        { "text": "D. Mengganti alat komunikasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan atau jargon internal perusahaan yang tidak dipahami pekerja baru dapat menimbulkan hambatan?",
+      "explanation": "Jargon/singkatan yang tidak dipahami merupakan kesalahan pemahaman bahasa, sehingga termasuk hambatan semantik.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Semantik", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Fisik", "isCorrect": false },
+        { "text": "D. Budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kalimat instruksi keselamatan yang bertele-tele dan berstruktur rumit berpotensi menimbulkan hambatan?",
+      "explanation": "Struktur bahasa yang rumit membingungkan penerima dan tergolong hambatan semantik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Semantik", "isCorrect": true },
+        { "text": "B. Psikologis", "isCorrect": false },
+        { "text": "C. Teknis", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara umum mengatasi hambatan komunikasi adalah menggunakan bahasa yang?",
+      "explanation": "Menggunakan bahasa yang jelas dan sederhana membantu mengurangi hambatan, terutama hambatan semantik.",
+      "difficulty": "EASY",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Berbelit dan penuh istilah asing", "isCorrect": false },
+        { "text": "B. Jelas dan sederhana", "isCorrect": true },
+        { "text": "C. Sangat teknis", "isCorrect": false },
+        { "text": "D. Ambigu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mendengarkan secara aktif (active listening) merupakan keterampilan untuk mengatasi hambatan karena?",
+      "explanation": "Mendengarkan aktif memastikan penerima benar-benar memahami pesan dan dapat memberi umpan balik, sehingga mengurangi kesalahpahaman.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Membuat pembicara berbicara lebih cepat", "isCorrect": false },
+        { "text": "B. Memastikan pesan benar-benar dipahami penerima", "isCorrect": true },
+        { "text": "C. Menghilangkan kebutuhan umpan balik", "isCorrect": false },
+        { "text": "D. Memperbanyak gangguan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memberikan umpan balik (feedback) berguna untuk mengatasi hambatan komunikasi karena?",
+      "explanation": "Umpan balik memungkinkan pengirim mengetahui apakah pesan diterima dengan benar dan mengoreksi bila terjadi kesalahpahaman.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Memastikan pesan diterima dengan benar dan bisa dikoreksi", "isCorrect": true },
+        { "text": "B. Menambah jarak antar komunikator", "isCorrect": false },
+        { "text": "C. Membuat pesan lebih ambigu", "isCorrect": false },
+        { "text": "D. Mematikan saluran komunikasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk mengatasi hambatan psikologis, komunikator sebaiknya?",
+      "explanation": "Membangun empati dan rasa percaya membantu penerima merasa nyaman dan terbuka, sehingga hambatan psikologis berkurang.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Bersikap mengancam", "isCorrect": false },
+        { "text": "B. Membangun empati dan kepercayaan", "isCorrect": true },
+        { "text": "C. Mengabaikan kondisi penerima", "isCorrect": false },
+        { "text": "D. Menambah jargon teknis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memilih saluran komunikasi yang andal dan menyediakan cadangan adalah cara mengatasi hambatan?",
+      "explanation": "Saluran yang andal dan cadangan menangani gangguan alat/transmisi, yaitu hambatan teknis.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Hambatan semantik", "isCorrect": false },
+        { "text": "B. Hambatan teknis", "isCorrect": true },
+        { "text": "C. Hambatan budaya", "isCorrect": false },
+        { "text": "D. Hambatan psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memahami audiens sebelum menyampaikan pesan membantu mengatasi hambatan karena?",
+      "explanation": "Dengan memahami audiens, komunikator dapat menyesuaikan bahasa, gaya, dan media sehingga pesan lebih mudah diterima.",
+      "difficulty": "EASY",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Pesan dapat disesuaikan dengan audiens", "isCorrect": true },
+        { "text": "B. Pesan menjadi lebih ambigu", "isCorrect": false },
+        { "text": "C. Umpan balik tidak diperlukan", "isCorrect": false },
+        { "text": "D. Saluran menjadi rusak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengulangi atau melakukan repetisi pesan penting dapat mengatasi hambatan dengan cara?",
+      "explanation": "Repetisi/pengulangan memperkuat pesan dan mengurangi risiko kehilangan informasi akibat gangguan.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Memastikan pesan tetap tersampaikan meski ada gangguan", "isCorrect": true },
+        { "text": "B. Membuat pesan tidak terdengar", "isCorrect": false },
+        { "text": "C. Menghapus umpan balik", "isCorrect": false },
+        { "text": "D. Menambah noise", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menyesuaikan gaya komunikasi dengan latar belakang budaya penerima bertujuan mengatasi hambatan?",
+      "explanation": "Menyesuaikan gaya dengan budaya penerima mengurangi salah paham akibat perbedaan norma/nilai, yaitu hambatan budaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Hambatan budaya", "isCorrect": true },
+        { "text": "B. Hambatan teknis", "isCorrect": false },
+        { "text": "C. Hambatan fisik", "isCorrect": false },
+        { "text": "D. Hambatan semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memilih waktu dan tempat yang tenang untuk berkomunikasi merupakan cara mengatasi hambatan?",
+      "explanation": "Lingkungan yang tenang mengurangi gangguan suara dan kebisingan, yang sebagian masuk gangguan fisik/lingkungan dalam komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Hambatan fisik/lingkungan", "isCorrect": true },
+        { "text": "B. Hambatan semantik", "isCorrect": false },
+        { "text": "C. Hambatan budaya", "isCorrect": false },
+        { "text": "D. Hambatan psikologis murni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konfirmasi pemahaman dengan meminta penerima mengulang pesan inti berguna untuk?",
+      "explanation": "Meminta penerima mengulang pesan memastikan tidak ada distorsi makna dan mengoreksi kesalahpahaman lebih awal.",
+      "difficulty": "EASY",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Memastikan pesan dipahami dengan benar", "isCorrect": true },
+        { "text": "B. Memperpanjang waktu rapat saja", "isCorrect": false },
+        { "text": "C. Menambah hambatan teknis", "isCorrect": false },
+        { "text": "D. Menghapus umpan balik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Strategi mengatasi hambatan komunikasi yang paling tepat adalah dengan?",
+      "explanation": "Strategi terbaik adalah mengidentifikasi jenis hambatan terlebih dahulu, lalu menerapkan solusi spesifik sesuai sumber gangguannya.",
+      "difficulty": "HARD",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Menerapkan satu solusi untuk semua hambatan", "isCorrect": false },
+        { "text": "B. Mengidentifikasi jenis hambatan lalu memberi solusi spesifik", "isCorrect": true },
+        { "text": "C. Mengabaikan semua hambatan", "isCorrect": false },
+        { "text": "D. Memperbanyak istilah teknis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif tercapai apabila terdapat kesamaan makna antara?",
+      "explanation": "Komunikasi efektif terjadi bila ada kesamaan makna pesan antara pengirim dan penerima.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Dua alat komunikasi", "isCorrect": false },
+        { "text": "B. Pengirim dan penerima", "isCorrect": true },
+        { "text": "C. Dua saluran berbeda", "isCorrect": false },
+        { "text": "D. Dua noise yang berbeda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu ciri komunikasi efektif adalah penyampaian pesan menggunakan bahasa yang?",
+      "explanation": "Komunikasi efektif menggunakan bahasa yang jelas dan sederhana agar pesan mudah dipahami oleh penerima.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Rumit dan teknis", "isCorrect": false },
+        { "text": "B. Jelas dan sederhana", "isCorrect": true },
+        { "text": "C. Berbelit-belit", "isCorrect": false },
+        { "text": "D. Ambigu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Adanya umpan balik (feedback) dalam komunikasi efektif berfungsi untuk?",
+      "explanation": "Umpan balik memungkinkan pengirim mengetahui sejauh mana pesan diterima dan dipahami, sehingga komunikasi menjadi dua arah dan efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Mengetahui pesan diterima dan dipahami", "isCorrect": true },
+        { "text": "B. Memperbesar hambatan", "isCorrect": false },
+        { "text": "C. Mengurangi pemahaman", "isCorrect": false },
+        { "text": "D. Mematikan saluran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan manfaat dari komunikasi yang efektif?",
+      "explanation": "Komunikasi efektif memungkinkan kolaborasi yang baik, hubungan yang harmonis, serta pengambilan keputusan yang cepat dan tepat.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Kolaborasi yang efektif dan keputusan yang tepat", "isCorrect": true },
+        { "text": "B. Bertambahnya kesalahpahaman", "isCorrect": false },
+        { "text": "C. Munculnya banyak noise", "isCorrect": false },
+        { "text": "D. Hubungan yang renggang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif berkaitan erat dengan upaya menghindari atau meminimalkan?",
+      "explanation": "Komunikasi efektif menuntut komunikator menghindari gangguan dan hambatan agar pesan tersampaikan utuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Umpan balik", "isCorrect": false },
+        { "text": "B. Gangguan dan hambatan", "isCorrect": true },
+        { "text": "C. Kejelasan pesan", "isCorrect": false },
+        { "text": "D. Empati", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Empati dalam komunikasi efektif berarti komunikator mampu?",
+      "explanation": "Empati berarti memahami kondisi, perasaan, dan sudut pandang penerima, sehingga pesan dapat disampaikan secara tepat dan diterima dengan baik.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Memahami kondisi dan perasaan penerima", "isCorrect": true },
+        { "text": "B. Mengabaikan perasaan penerima", "isCorrect": false },
+        { "text": "C. Memaksakan kehendak", "isCorrect": false },
+        { "text": "D. Menambah hambatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif menjadi penting dalam K3 terutama untuk?",
+      "explanation": "Dalam K3, komunikasi efektif penting agar pesan keselamatan tersampaikan jelas, mencegah kecelakaan, dan membangun budaya keselamatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Menyampaikan pesan keselamatan dengan jelas dan mencegah kecelakaan", "isCorrect": true },
+        { "text": "B. Memperbanyak prosedur yang membingungkan", "isCorrect": false },
+        { "text": "C. Mengurangi kesadaran pekerja", "isCorrect": false },
+        { "text": "D. Menambah risiko bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi dua arah dianggap lebih efektif daripada satu arah karena?",
+      "explanation": "Komunikasi dua arah memungkinkan adanya umpan balik dan klarifikasi, sehingga kesalahpahaman dapat segera dikoreksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Memungkinkan umpan balik dan klarifikasi", "isCorrect": true },
+        { "text": "B. Tidak membutuhkan pemahaman", "isCorrect": false },
+        { "text": "C. Lebih banyak gangguan", "isCorrect": false },
+        { "text": "D. Menghilangkan pesan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memberikan umpan balik yang konstruktif berarti umpan balik yang bersifat?",
+      "explanation": "Umpan balik konstruktif bersifat membangun dan membantu perbaikan, bukan menjatuhkan atau menyalahkan.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Membangun dan membantu perbaikan", "isCorrect": true },
+        { "text": "B. Menjatuhkan dan menyalahkan", "isCorrect": false },
+        { "text": "C. Mengabaikan masalah", "isCorrect": false },
+        { "text": "D. Penuh prasangka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif berperan dalam membangun hubungan yang baik karena?",
+      "explanation": "Komunikasi efektif menumbuhkan saling pengertian dan kepercayaan sehingga hubungan antarpihak menjadi lebih baik.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Menumbuhkan saling pengertian dan kepercayaan", "isCorrect": true },
+        { "text": "B. Menambah konflik", "isCorrect": false },
+        { "text": "C. Memperbesar prasangka", "isCorrect": false },
+        { "text": "D. Mengurangi kerja sama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan antara hambatan komunikasi dan komunikasi efektif dapat digambarkan sebagai?",
+      "explanation": "Semakin banyak hambatan yang tidak diatasi, semakin rendah efektivitas komunikasi; sebaliknya mengatasi hambatan meningkatkan efektivitas.",
+      "difficulty": "HARD",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Tidak saling berhubungan", "isCorrect": false },
+        { "text": "B. Berbanding terbalik: makin banyak hambatan, makin rendah efektivitas", "isCorrect": true },
+        { "text": "C. Berbanding lurus: makin banyak hambatan makin efektif", "isCorrect": false },
+        { "text": "D. Hambatan meningkatkan efektivitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang supervisor menyampaikan instruksi K3 melalui radio HT yang penuh statis sehingga pekerja salah dengar. Ini paling tepat disebut hambatan?",
+      "explanation": "Statis/gangguan pada radio HT adalah gangguan alat/saluran, sehingga tergolong hambatan teknis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Teknis", "isCorrect": true },
+        { "text": "B. Semantik", "isCorrect": false },
+        { "text": "C. Budaya", "isCorrect": false },
+        { "text": "D. Psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja asing yang tidak memahami rambu peringatan berbahasa Indonesia mengalami hambatan?",
+      "explanation": "Ketidakpahaman terhadap bahasa rambu adalah kesalahan pemahaman bahasa, sehingga termasuk hambatan semantik (terkait latar budaya bahasa).",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Hambatan teknis", "isCorrect": false },
+        { "text": "B. Hambatan semantik", "isCorrect": true },
+        { "text": "C. Hambatan fisik", "isCorrect": false },
+        { "text": "D. Hambatan psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang trauma setelah kecelakaan kerja sehingga sulit menerima arahan baru mengalami hambatan?",
+      "explanation": "Trauma adalah kondisi psikologis dalam diri individu, sehingga merupakan hambatan psikologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Budaya", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lokasi kerja di area sangat bising sehingga instruksi lisan tidak terdengar jelas merupakan contoh gangguan yang tergolong hambatan?",
+      "explanation": "Gangguan suara/bising di lingkungan kerja merupakan gangguan fisik lingkungan yang menghalangi penyampaian pesan, tergolong hambatan fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Fisik", "isCorrect": true },
+        { "text": "B. Semantik", "isCorrect": false },
+        { "text": "C. Budaya", "isCorrect": false },
+        { "text": "D. Teknis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dua perusahaan dari negara berbeda gagal bernegosiasi karena perbedaan etika bisnis dan kebiasaan. Ini termasuk hambatan?",
+      "explanation": "Perbedaan etika bisnis dan kebiasaan antarnegara merupakan perbedaan norma/nilai budaya, sehingga termasuk hambatan budaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Budaya", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Fisik", "isCorrect": false },
+        { "text": "D. Semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam proses komunikasi, hambatan dapat muncul pada tahap encoding ketika?",
+      "explanation": "Pada tahap encoding, hambatan muncul bila pengirim salah memilih kata atau simbol untuk menyandikan pesan, sering berkaitan dengan hambatan semantik.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Pengirim salah memilih kata/simbol untuk pesannya", "isCorrect": true },
+        { "text": "B. Jaringan internet mati total", "isCorrect": false },
+        { "text": "C. Penerima berada di lokasi terpencil", "isCorrect": false },
+        { "text": "D. Alat perekam rusak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu alasan hambatan komunikasi perlu segera diidentifikasi di tempat kerja adalah?",
+      "explanation": "Identifikasi hambatan penting agar pesan keselamatan tidak terdistorsi, sehingga risiko kecelakaan akibat salah paham dapat dicegah.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Mencegah salah paham yang dapat memicu kecelakaan", "isCorrect": true },
+        { "text": "B. Memperlambat penyampaian instruksi", "isCorrect": false },
+        { "text": "C. Menambah jumlah noise", "isCorrect": false },
+        { "text": "D. Mengurangi keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketika penerima sedang sangat lelah secara mental sehingga tidak fokus mendengarkan, hambatan ini tergolong?",
+      "explanation": "Kelelahan mental yang mengurangi fokus penerima adalah persoalan dalam diri individu, sehingga termasuk hambatan psikologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Budaya", "isCorrect": false },
+        { "text": "D. Semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi nonverbal yang lebih jujur daripada verbal dapat membantu mengatasi hambatan ketika?",
+      "explanation": "Pesan nonverbal seperti ekspresi dan gestur dapat memperjelas atau melengkapi pesan verbal yang ambigu, sehingga mengurangi kesalahpahaman.",
+      "difficulty": "HARD",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Pesan verbal kurang jelas dan perlu diperkuat", "isCorrect": true },
+        { "text": "B. Alat komunikasi rusak total", "isCorrect": false },
+        { "text": "C. Penerima berada di lokasi terpencil", "isCorrect": false },
+        { "text": "D. Jaringan internet mati", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan keselamatan yang ditulis dengan banyak istilah asing tanpa penjelasan paling tepat diatasi dengan?",
+      "explanation": "Menyederhanakan bahasa dan menjelaskan istilah mengurangi hambatan semantik, sehingga pesan dipahami semua pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Menambah lebih banyak istilah asing", "isCorrect": false },
+        { "text": "B. Menyederhanakan bahasa dan menjelaskan istilah", "isCorrect": true },
+        { "text": "C. Memperbesar volume suara", "isCorrect": false },
+        { "text": "D. Mengganti perangkat keras", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan jenis hambatan dan contohnya yang TEPAT?",
+      "explanation": "Gangguan jaringan provider adalah contoh klasik hambatan teknis karena melibatkan gangguan pada alat/saluran komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Teknis – gangguan jaringan provider", "isCorrect": true },
+        { "text": "B. Semantik – jarak geografis jauh", "isCorrect": false },
+        { "text": "C. Fisik – kata bermakna ganda", "isCorrect": false },
+        { "text": "D. Budaya – sinyal HP lemah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan budaya sebagian besar dapat dikurangi melalui sikap?",
+      "explanation": "Sikap toleransi dan saling menghormati perbedaan norma serta nilai membantu mengurangi hambatan budaya.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Toleransi dan saling menghormati perbedaan", "isCorrect": true },
+        { "text": "B. Memaksakan kehendak sendiri", "isCorrect": false },
+        { "text": "C. Mengabaikan latar belakang orang lain", "isCorrect": false },
+        { "text": "D. Memperbanyak prasangka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang BENAR mengenai hambatan semantik adalah?",
+      "explanation": "Hambatan semantik terkait kesalahan pada bahasa, misalnya kata bermakna ganda atau perbedaan makna kata akibat latar budaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Berkaitan dengan kesalahan pada bahasa yang digunakan", "isCorrect": true },
+        { "text": "B. Selalu disebabkan kerusakan alat", "isCorrect": false },
+        { "text": "C. Hanya terjadi karena jarak", "isCorrect": false },
+        { "text": "D. Tidak berkaitan dengan makna kata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apabila seorang pekerja menolak nasihat keselamatan karena meragukan kredibilitas pemberi pesan, hambatan ini termasuk?",
+      "explanation": "Keraguan/prasangka terhadap sumber pesan adalah kondisi psikologis penerima, sehingga tergolong hambatan psikologis.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Semantik", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan langkah paling awal dalam mengatasi hambatan komunikasi?",
+      "explanation": "Langkah awal adalah mengenali/mengidentifikasi jenis hambatan yang terjadi sebelum memilih solusi yang sesuai.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Mengidentifikasi jenis hambatan yang terjadi", "isCorrect": true },
+        { "text": "B. Mengganti seluruh tim", "isCorrect": false },
+        { "text": "C. Menghentikan komunikasi", "isCorrect": false },
+        { "text": "D. Menambah istilah teknis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan fisik berupa gangguan fungsi tubuh dapat dibedakan dari hambatan psikologis karena hambatan fisik bersifat?",
+      "explanation": "Hambatan fisik berupa gangguan fungsi tubuh bersifat fisiologis/jasmaniah (misalnya tuli, buta), sedangkan psikologis bersifat mental/kejiwaan.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Jasmaniah/fisiologis pada fungsi tubuh", "isCorrect": true },
+        { "text": "B. Murni masalah bahasa", "isCorrect": false },
+        { "text": "C. Murni kerusakan alat", "isCorrect": false },
+        { "text": "D. Murni perbedaan nilai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan media visual seperti gambar dan simbol pada rambu K3 dapat membantu mengatasi hambatan?",
+      "explanation": "Media visual membantu pekerja yang berbeda bahasa memahami pesan, sehingga mengurangi hambatan semantik/bahasa.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Hambatan semantik/bahasa", "isCorrect": true },
+        { "text": "B. Hambatan teknis murni", "isCorrect": false },
+        { "text": "C. Hambatan psikologis murni", "isCorrect": false },
+        { "text": "D. Hambatan finansial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif dapat membantu mempercepat dan menepatkan?",
+      "explanation": "Salah satu manfaat komunikasi efektif adalah pengambilan keputusan yang cepat dan tepat karena informasi tersampaikan dengan jelas.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Pengambilan keputusan", "isCorrect": true },
+        { "text": "B. Munculnya konflik", "isCorrect": false },
+        { "text": "C. Bertambahnya noise", "isCorrect": false },
+        { "text": "D. Kesalahpahaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suatu pesan yang sama dapat ditafsirkan berbeda oleh dua orang dengan latar belakang berbeda. Fenomena ini paling kuat menggambarkan hubungan antara?",
+      "explanation": "Perbedaan tafsir akibat latar belakang berbeda menunjukkan keterkaitan antara hambatan budaya dan hambatan semantik dalam pemaknaan pesan.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Hambatan budaya dan hambatan semantik", "isCorrect": true },
+        { "text": "B. Hambatan teknis dan hambatan fisik", "isCorrect": false },
+        { "text": "C. Umpan balik dan saluran", "isCorrect": false },
+        { "text": "D. Encoder dan decoder yang identik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berkomunikasi langsung tatap muka dapat mengurangi hambatan teknis karena?",
+      "explanation": "Tatap muka tidak bergantung pada perantara alat/saluran elektronik, sehingga mengurangi risiko gangguan teknis.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Tidak bergantung pada perantara alat/saluran elektronik", "isCorrect": true },
+        { "text": "B. Menghilangkan kebutuhan bahasa", "isCorrect": false },
+        { "text": "C. Menambah jarak geografis", "isCorrect": false },
+        { "text": "D. Memperbanyak prasangka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang BENAR tentang hubungan kelima jenis hambatan komunikasi?",
+      "explanation": "Dalam praktik, beberapa jenis hambatan dapat terjadi bersamaan dan saling memperkuat, misalnya budaya dan semantik atau fisik dan teknis.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hanya satu jenis hambatan boleh terjadi sekaligus", "isCorrect": false },
+        { "text": "B. Beberapa jenis hambatan dapat terjadi bersamaan dan saling memperkuat", "isCorrect": true },
+        { "text": "C. Hambatan tidak pernah saling berkaitan", "isCorrect": false },
+        { "text": "D. Semua hambatan hanya berasal dari alat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang penerima yang berasal dari daerah dengan dialek berbeda salah memahami perintah karena beda makna kata daerah. Ini contoh hambatan?",
+      "explanation": "Beda makna kata akibat dialek/bahasa daerah menimbulkan salah persepsi terhadap simbol bahasa, sehingga termasuk hambatan semantik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Semantik",
+      "options": [
+        { "text": "A. Semantik", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Fisik", "isCorrect": false },
+        { "text": "D. Psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suasana kerja yang penuh ketegangan dan saling curiga antar rekan paling banyak menimbulkan hambatan?",
+      "explanation": "Ketegangan dan kecurigaan adalah kondisi emosional/psikologis yang menghambat keterbukaan komunikasi, tergolong hambatan psikologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Semantik", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyediaan penerjemah atau papan informasi multibahasa di tempat kerja dengan pekerja lintas negara bertujuan mengatasi hambatan?",
+      "explanation": "Penerjemah dan papan multibahasa mengatasi perbedaan bahasa dan latar budaya, mengurangi hambatan semantik dan budaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Hambatan semantik dan budaya", "isCorrect": true },
+        { "text": "B. Hambatan teknis murni", "isCorrect": false },
+        { "text": "C. Hambatan fisik geografis", "isCorrect": false },
+        { "text": "D. Hambatan finansial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep noise dalam komunikasi tidak selalu berupa suara, melainkan dapat berupa?",
+      "explanation": "Noise dalam komunikasi adalah segala bentuk gangguan, bisa berupa gangguan fisik, teknis, psikologis, budaya, maupun semantik, tidak terbatas suara.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Segala bentuk gangguan pada elemen komunikasi", "isCorrect": true },
+        { "text": "B. Hanya suara bising", "isCorrect": false },
+        { "text": "C. Hanya kerusakan alat", "isCorrect": false },
+        { "text": "D. Hanya jarak geografis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan keterampilan komunikasi efektif untuk meminimalkan hambatan?",
+      "explanation": "Mendengarkan aktif, bahasa jelas, memahami audiens, memberi umpan balik konstruktif, dan menghindari gangguan adalah keterampilan komunikasi efektif.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Mendengarkan aktif dan memberi umpan balik konstruktif", "isCorrect": true },
+        { "text": "B. Mengabaikan audiens", "isCorrect": false },
+        { "text": "C. Menggunakan bahasa ambigu", "isCorrect": false },
+        { "text": "D. Menambah gangguan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan paling tepat tentang hambatan teknis adalah?",
+      "explanation": "Hambatan teknis terjadi karena gangguan pada alat sehingga informasi yang ditransmisi melalui saluran mengalami kerusakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Gangguan pada alat membuat informasi di saluran rusak", "isCorrect": true },
+        { "text": "B. Selalu disebabkan emosi", "isCorrect": false },
+        { "text": "C. Hanya akibat perbedaan nilai", "isCorrect": false },
+        { "text": "D. Tidak melibatkan saluran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja tunanetra membutuhkan instruksi keselamatan dalam bentuk audio atau Braille. Kebutuhan ini muncul karena hambatan?",
+      "explanation": "Tunanetra adalah gangguan fungsi pancaindra (penglihatan), sehingga termasuk hambatan fisik yang memerlukan media alternatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Fisik",
+      "options": [
+        { "text": "A. Fisik", "isCorrect": true },
+        { "text": "B. Semantik", "isCorrect": false },
+        { "text": "C. Teknis", "isCorrect": false },
+        { "text": "D. Budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam K3, gabungan upaya menyederhanakan bahasa, memakai visual, dan memberi umpan balik bertujuan akhir untuk mencapai?",
+      "explanation": "Semua upaya mengatasi hambatan bermuara pada tercapainya komunikasi efektif sehingga pesan keselamatan dipahami dengan benar.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Komunikasi yang efektif", "isCorrect": true },
+        { "text": "B. Komunikasi yang penuh noise", "isCorrect": false },
+        { "text": "C. Komunikasi satu arah saja", "isCorrect": false },
+        { "text": "D. Komunikasi tanpa umpan balik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketika hujan badai memutus aliran listrik dan jaringan internet di kantor sehingga rapat daring batal, kombinasi hambatan yang muncul adalah?",
+      "explanation": "Pemutusan listrik/internet adalah gangguan alat/saluran (teknis), sedangkan kondisi alam badai termasuk faktor fisik/lingkungan; keduanya bisa terjadi bersamaan.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Teknis",
+      "options": [
+        { "text": "A. Teknis dan fisik", "isCorrect": true },
+        { "text": "B. Semantik dan budaya", "isCorrect": false },
+        { "text": "C. Psikologis dan semantik", "isCorrect": false },
+        { "text": "D. Budaya dan teknis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inti dari pengertian hambatan komunikasi adalah adanya sesuatu yang membuat pesan?",
+      "explanation": "Inti hambatan komunikasi adalah adanya gangguan yang membuat pesan tidak sampai atau tidak dipahami sebagaimana mestinya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Tidak sampai atau tidak dipahami sebagaimana mestinya", "isCorrect": true },
+        { "text": "B. Lebih cepat dipahami", "isCorrect": false },
+        { "text": "C. Selalu lebih jelas", "isCorrect": false },
+        { "text": "D. Tidak membutuhkan saluran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh hambatan budaya yang berkaitan dengan kebiasaan, bukan nilai atau norma?",
+      "explanation": "Kebiasaan menyapa dengan cara tertentu (misalnya membungkuk) yang tidak dipahami pihak lain merupakan contoh hambatan budaya berbasis kebiasaan.",
+      "difficulty": "HARD",
+      "tag": "Hambatan Budaya",
+      "options": [
+        { "text": "A. Kebiasaan menyapa dengan membungkuk yang asing bagi pihak lain", "isCorrect": true },
+        { "text": "B. Server email yang mati", "isCorrect": false },
+        { "text": "C. Sinyal HP yang lemah", "isCorrect": false },
+        { "text": "D. Kata bermakna ganda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan keselamatan yang disampaikan saat pekerja terburu-buru ingin pulang sehingga tidak diperhatikan, paling tepat dikategorikan hambatan?",
+      "explanation": "Kondisi terburu-buru/tidak fokus penerima adalah faktor mental dalam diri individu, sehingga tergolong hambatan psikologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Psikologis",
+      "options": [
+        { "text": "A. Psikologis", "isCorrect": true },
+        { "text": "B. Teknis", "isCorrect": false },
+        { "text": "C. Semantik", "isCorrect": false },
+        { "text": "D. Budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa penting menyesuaikan media komunikasi (lisan, tulisan, visual) dengan situasi penerima?",
+      "explanation": "Pemilihan media yang sesuai dengan kondisi penerima dan situasi membantu mengatasi berbagai hambatan dan memastikan pesan diterima.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Agar pesan sesuai kondisi penerima dan mengatasi hambatan", "isCorrect": true },
+        { "text": "B. Agar pesan menjadi lebih ambigu", "isCorrect": false },
+        { "text": "C. Agar tidak perlu umpan balik", "isCorrect": false },
+        { "text": "D. Agar muncul lebih banyak noise", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan komunikasi yang dibahas dalam materi seluruhnya mengacu pada teori dasar yang dirumuskan oleh?",
+      "explanation": "Materi hambatan komunikasi mengacu pada teori dasar Shannon & Weaver (1949) tentang gangguan dalam proses komunikasi.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Shannon & Weaver", "isCorrect": true },
+        { "text": "B. Aristoteles", "isCorrect": false },
+        { "text": "C. DeVito", "isCorrect": false },
+        { "text": "D. Maslow", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang manajer menggunakan bahasa kiasan rumit dalam memo, sehingga staf bingung mengartikannya. Hambatan ini diatasi dengan?",
+      "explanation": "Kiasan rumit menimbulkan hambatan semantik; solusinya menggunakan kalimat lugas dan langsung agar makna jelas.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Mengatasi Hambatan",
+      "options": [
+        { "text": "A. Menggunakan kalimat lugas dan langsung", "isCorrect": true },
+        { "text": "B. Menambah lebih banyak kiasan", "isCorrect": false },
+        { "text": "C. Mengganti perangkat komputer", "isCorrect": false },
+        { "text": "D. Memperpanjang memo", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang paling tepat tentang manfaat memahami hambatan komunikasi bagi seorang ahli K3 adalah?",
+      "explanation": "Dengan memahami hambatan, ahli K3 dapat merancang komunikasi keselamatan yang lebih efektif dan menurunkan risiko kecelakaan akibat salah paham.",
+      "difficulty": "HARD",
+      "tag": "Komunikasi Efektif",
+      "options": [
+        { "text": "A. Dapat merancang komunikasi K3 yang efektif dan menekan risiko salah paham", "isCorrect": true },
+        { "text": "B. Dapat memperbanyak prosedur yang membingungkan", "isCorrect": false },
+        { "text": "C. Dapat mengabaikan umpan balik pekerja", "isCorrect": false },
+        { "text": "D. Dapat menambah gangguan di tempat kerja", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Definisi hambatan komunikasi (Shannon & Weaver, 1949)", "back": "Hambatan terjadi jika ada intervensi yang mengganggu salah satu elemen komunikasi, sehingga proses komunikasi tidak berlangsung efektif.", "tag": "Pengertian Hambatan Komunikasi" },
+    { "front": "Istilah lain hambatan komunikasi", "back": "Noise, yaitu segala bentuk gangguan yang mengganggu penyampaian dan penerimaan pesan.", "tag": "Pengertian Hambatan Komunikasi" },
+    { "front": "Lima jenis hambatan komunikasi", "back": "Teknis, fisik, psikologis, budaya, dan semantik.", "tag": "Pengertian Hambatan Komunikasi" },
+    { "front": "Hambatan teknis", "back": "Terjadi jika alat yang digunakan untuk berkomunikasi terganggu, sehingga informasi yang ditransmisi melalui saluran rusak. Contoh: gangguan jaringan provider, stasiun TV/Radio.", "tag": "Hambatan Teknis" },
+    { "front": "Contoh hambatan teknis", "back": "Sinyal HP lemah, server email down, microphone mati, video conference tersendat, pemancar TV rusak.", "tag": "Hambatan Teknis" },
+    { "front": "Hambatan fisik", "back": "Disebabkan kondisi geografis (jarak, tiadanya sarana pos/transportasi) atau gangguan fungsi tubuh (tidak berfungsinya salah satu pancaindra).", "tag": "Hambatan Fisik" },
+    { "front": "Contoh hambatan fisik", "back": "Daerah terpencil tanpa jalur transportasi, jarak yang jauh, tuli atau buta yang menghalangi penerimaan pesan.", "tag": "Hambatan Fisik" },
+    { "front": "Hambatan psikologis", "back": "Terjadi karena gangguan akibat persoalan dalam diri individu. Contoh: situasi berduka, gangguan kejiwaan, emosi, prasangka, stres.", "tag": "Hambatan Psikologis" },
+    { "front": "Contoh hambatan psikologis", "back": "Marah, cemas, prasangka buruk, trauma, takut bertanya pada atasan, kelelahan mental.", "tag": "Hambatan Psikologis" },
+    { "front": "Hambatan budaya", "back": "Terjadi karena perbedaan norma, kebiasaan, dan nilai-nilai yang dianut pihak yang terlibat dalam komunikasi.", "tag": "Hambatan Budaya" },
+    { "front": "Contoh hambatan budaya", "back": "Perbedaan cara menyapa antar suku, makna gestur berbeda antar negara, perbedaan etika kontak mata, perbedaan nilai keagamaan.", "tag": "Hambatan Budaya" },
+    { "front": "Hambatan semantik", "back": "Gangguan komunikasi akibat kesalahan pada bahasa yang digunakan, misalnya struktur bahasa membingungkan atau salah persepsi terhadap simbol bahasa.", "tag": "Hambatan Semantik" },
+    { "front": "Contoh klasik hambatan semantik", "back": "Kata 'jangan' dalam bahasa Jawa berarti makanan, dalam bahasa Indonesia berarti larangan; kata bermakna ganda; jargon teknis.", "tag": "Hambatan Semantik" },
+    { "front": "Beda hambatan fisik vs teknis", "back": "Fisik bersumber dari geografis/fungsi tubuh; teknis bersumber dari gangguan alat/saluran komunikasi.", "tag": "Hambatan Fisik" },
+    { "front": "Beda hambatan psikologis vs fisik", "back": "Psikologis dari kondisi mental/kejiwaan individu; fisik dari geografis atau gangguan fungsi tubuh (jasmaniah).", "tag": "Hambatan Psikologis" },
+    { "front": "Cara mengatasi hambatan teknis", "back": "Memastikan alat berfungsi baik, menyiapkan saluran cadangan, atau berkomunikasi tatap muka langsung.", "tag": "Cara Mengatasi Hambatan" },
+    { "front": "Cara mengatasi hambatan semantik", "back": "Gunakan bahasa jelas, sederhana, hindari kata ambigu, jelaskan istilah, manfaatkan media visual.", "tag": "Cara Mengatasi Hambatan" },
+    { "front": "Cara mengatasi hambatan psikologis", "back": "Bangun empati, kepercayaan, dan suasana nyaman agar penerima terbuka terhadap pesan.", "tag": "Cara Mengatasi Hambatan" },
+    { "front": "Cara mengatasi hambatan budaya", "back": "Tingkatkan kesadaran lintas budaya, saling menghormati perbedaan, dan sesuaikan gaya komunikasi.", "tag": "Cara Mengatasi Hambatan" },
+    { "front": "Ciri komunikasi efektif", "back": "Pesan jelas dan sederhana, ada umpan balik, dua arah, empati, dan minim gangguan; tercapai kesamaan makna antara pengirim dan penerima.", "tag": "Komunikasi Efektif" },
+    { "front": "Manfaat komunikasi efektif", "back": "Kolaborasi efektif, membangun hubungan baik, serta pengambilan keputusan yang cepat dan tepat.", "tag": "Komunikasi Efektif" },
+    { "front": "Langkah awal mengatasi hambatan", "back": "Identifikasi dulu jenis hambatan yang terjadi, lalu terapkan solusi spesifik sesuai sumbernya.", "tag": "Cara Mengatasi Hambatan" }
+  ],
+  "mindmap": [
+    { "id": "hambatan-komunikasi", "label": "Hambatan Komunikasi", "color": "#6366f1", "parent": null, "content": "Intervensi yang mengganggu salah satu elemen komunikasi sehingga proses tidak berlangsung efektif (Shannon & Weaver, 1949). Sering disebut noise." },
+    { "id": "pengertian", "label": "Pengertian", "color": "#8b5cf6", "parent": "hambatan-komunikasi", "content": "Hambatan/noise adalah gangguan pada elemen komunikasi yang membuat pesan tidak sampai atau tidak dipahami sebagaimana mestinya." },
+    { "id": "teori-shannon-weaver", "label": "Teori Shannon & Weaver", "color": "#8b5cf6", "parent": "pengertian", "content": "Tahun 1949 memperkenalkan konsep noise dalam model komunikasi sebagai gangguan transmisi pesan." },
+    { "id": "konsep-noise", "label": "Konsep Noise", "color": "#8b5cf6", "parent": "pengertian", "content": "Noise adalah segala bentuk gangguan pada elemen komunikasi, tidak terbatas pada suara bising saja." },
+    { "id": "lima-jenis", "label": "Lima Jenis Hambatan", "color": "#8b5cf6", "parent": "pengertian", "content": "Teknis, fisik, psikologis, budaya, dan semantik; beberapa jenis bisa terjadi bersamaan dan saling memperkuat." },
+    { "id": "teknis", "label": "Hambatan Teknis", "color": "#0ea5e9", "parent": "hambatan-komunikasi", "content": "Terjadi jika alat komunikasi terganggu sehingga informasi yang ditransmisi melalui saluran mengalami kerusakan." },
+    { "id": "teknis-contoh", "label": "Contoh Teknis", "color": "#0ea5e9", "parent": "teknis", "content": "Gangguan jaringan provider, stasiun TV/Radio, server email down, microphone mati, video conference tersendat." },
+    { "id": "teknis-sumber", "label": "Sumber Gangguan", "color": "#0ea5e9", "parent": "teknis", "content": "Berasal dari alat dan saluran (channel) komunikasi yang rusak atau bermasalah." },
+    { "id": "teknis-solusi", "label": "Solusi Teknis", "color": "#0ea5e9", "parent": "teknis", "content": "Memastikan alat berfungsi baik, menyiapkan saluran cadangan, atau berkomunikasi tatap muka." },
+    { "id": "fisik", "label": "Hambatan Fisik", "color": "#10b981", "parent": "hambatan-komunikasi", "content": "Disebabkan kondisi geografis maupun gangguan fungsi tubuh yang menghalangi penyampaian pesan." },
+    { "id": "fisik-geografis", "label": "Faktor Geografis", "color": "#10b981", "parent": "fisik", "content": "Jarak jauh, tiadanya sarana kantor pos atau jalur transportasi, bencana yang memutus akses." },
+    { "id": "fisik-pancaindra", "label": "Gangguan Pancaindra", "color": "#10b981", "parent": "fisik", "content": "Tidak berfungsinya salah satu pancaindra, misalnya tuli atau buta, sehingga sulit menerima pesan." },
+    { "id": "fisik-solusi", "label": "Solusi Fisik", "color": "#10b981", "parent": "fisik", "content": "Gunakan media alternatif seperti bahasa isyarat, Braille, atau pilih lokasi yang tenang." },
+    { "id": "psikologis", "label": "Hambatan Psikologis", "color": "#f59e0b", "parent": "hambatan-komunikasi", "content": "Terjadi karena gangguan akibat persoalan dalam diri individu (kondisi mental/kejiwaan)." },
+    { "id": "psikologis-contoh", "label": "Contoh Psikologis", "color": "#f59e0b", "parent": "psikologis", "content": "Situasi berduka, gangguan kejiwaan, emosi marah, cemas, prasangka, stres, trauma." },
+    { "id": "psikologis-dampak", "label": "Dampak", "color": "#f59e0b", "parent": "psikologis", "content": "Penerima sulit fokus, salah menafsirkan pesan, atau menolak pesan karena prasangka." },
+    { "id": "psikologis-solusi", "label": "Solusi Psikologis", "color": "#f59e0b", "parent": "psikologis", "content": "Membangun empati, kepercayaan, dan suasana nyaman agar penerima terbuka." },
+    { "id": "budaya", "label": "Hambatan Budaya", "color": "#ef4444", "parent": "hambatan-komunikasi", "content": "Terjadi karena perbedaan norma, kebiasaan, dan nilai-nilai pihak yang terlibat." },
+    { "id": "budaya-norma", "label": "Norma & Nilai", "color": "#ef4444", "parent": "budaya", "content": "Perbedaan aturan dan nilai yang dianut membuat pemahaman pesan berbeda antarpihak." },
+    { "id": "budaya-kebiasaan", "label": "Kebiasaan", "color": "#ef4444", "parent": "budaya", "content": "Perbedaan kebiasaan seperti cara menyapa, gestur, atau kontak mata bisa menimbulkan salah paham." },
+    { "id": "budaya-solusi", "label": "Solusi Budaya", "color": "#ef4444", "parent": "budaya", "content": "Tingkatkan kesadaran lintas budaya, saling menghormati, dan sesuaikan gaya komunikasi." },
+    { "id": "semantik", "label": "Hambatan Semantik", "color": "#ec4899", "parent": "hambatan-komunikasi", "content": "Gangguan komunikasi akibat kesalahan pada bahasa yang digunakan." },
+    { "id": "semantik-struktur", "label": "Struktur Bahasa", "color": "#ec4899", "parent": "semantik", "content": "Struktur bahasa yang membingungkan atau kalimat rumit membuat penerima salah paham." },
+    { "id": "semantik-makna", "label": "Salah Persepsi Simbol", "color": "#ec4899", "parent": "semantik", "content": "Latar budaya berbeda menyebabkan salah persepsi terhadap simbol bahasa, contoh 'jangan' (Jawa=makanan, Indonesia=larangan)." },
+    { "id": "semantik-jargon", "label": "Jargon & Ambiguitas", "color": "#ec4899", "parent": "semantik", "content": "Istilah teknis, singkatan internal, dan kata bermakna ganda menyulitkan pemahaman." },
+    { "id": "semantik-solusi", "label": "Solusi Semantik", "color": "#ec4899", "parent": "semantik", "content": "Gunakan bahasa jelas, sederhana, hindari ambiguitas, jelaskan istilah, dan manfaatkan visual." },
+    { "id": "mengatasi", "label": "Cara Mengatasi", "color": "#14b8a6", "parent": "hambatan-komunikasi", "content": "Identifikasi jenis hambatan lalu terapkan solusi spesifik sesuai sumber gangguannya." },
+    { "id": "mengatasi-bahasa", "label": "Bahasa Jelas", "color": "#14b8a6", "parent": "mengatasi", "content": "Menggunakan bahasa yang jelas dan sederhana untuk mengurangi salah paham." },
+    { "id": "mengatasi-listening", "label": "Mendengar Aktif", "color": "#14b8a6", "parent": "mengatasi", "content": "Mendengarkan secara aktif memastikan pesan benar-benar dipahami penerima." },
+    { "id": "mengatasi-feedback", "label": "Umpan Balik", "color": "#14b8a6", "parent": "mengatasi", "content": "Memberi dan meminta umpan balik untuk memastikan pesan diterima dengan benar." },
+    { "id": "mengatasi-media", "label": "Pilih Media Tepat", "color": "#14b8a6", "parent": "mengatasi", "content": "Sesuaikan media lisan, tulisan, atau visual dengan kondisi penerima dan situasi." },
+    { "id": "efektif", "label": "Komunikasi Efektif", "color": "#8b5cf6", "parent": "hambatan-komunikasi", "content": "Tercapai bila ada kesamaan makna antara pengirim dan penerima setelah hambatan diminimalkan." },
+    { "id": "efektif-ciri", "label": "Ciri Efektif", "color": "#8b5cf6", "parent": "efektif", "content": "Pesan jelas, dua arah, ada umpan balik, empati, dan minim gangguan." },
+    { "id": "efektif-manfaat", "label": "Manfaat", "color": "#8b5cf6", "parent": "efektif", "content": "Kolaborasi efektif, hubungan baik, dan pengambilan keputusan yang cepat dan tepat." },
+    { "id": "efektif-k3", "label": "Peran dalam K3", "color": "#8b5cf6", "parent": "efektif", "content": "Memastikan pesan keselamatan tersampaikan jelas untuk mencegah kecelakaan akibat salah paham." }
+  ]
+}

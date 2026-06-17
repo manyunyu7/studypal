@@ -1,0 +1,1442 @@
+{
+  "topic": "Hakikat & Unsur Negara",
+  "order": 2,
+  "description": "Materi ini membahas keberadaan warga negara dalam konteks negara, hakikat atau esensi negara, serta unsur-unsur pembentuk negara. Dibahas pula pengertian negara menurut para ahli, sifat negara, tujuan negara, dan fungsi negara.",
+  "subtopics": [
+    "Warga Negara dalam Konteks Negara",
+    "Pengertian Negara Menurut Ahli",
+    "Hakikat & Esensi Negara",
+    "Unsur Konstitutif & Montevideo 1933",
+    "Pendalaman Unsur Negara",
+    "Sifat Negara",
+    "Tujuan Negara",
+    "Fungsi Negara"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan warga negara dalam konteks negara?",
+      "explanation": "Warga negara dalam konteks negara adalah keberadaan warga negara di dalam negara atau hubungan warga negara dengan negara.",
+      "difficulty": "EASY",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. Hanya orang asing yang tinggal di suatu negara", "isCorrect": false },
+        { "text": "B. Keberadaan dan hubungan warga negara dengan negaranya", "isCorrect": true },
+        { "text": "C. Pejabat pemerintah yang berkuasa", "isCorrect": false },
+        { "text": "D. Penduduk yang tinggal sementara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keberadaan warga negara bagi negara sering dianalogikan seperti?",
+      "explanation": "Warga negara bagi negara dianalogikan seperti SDM bagi organisasi, di mana SDM menentukan keberhasilan organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. SDM bagi organisasi", "isCorrect": true },
+        { "text": "B. Modal bagi perusahaan", "isCorrect": false },
+        { "text": "C. Mesin bagi pabrik", "isCorrect": false },
+        { "text": "D. Bahan baku bagi produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara tanpa dukungan perspektif dan komitmen warga negara akan?",
+      "explanation": "Negara tanpa dukungan dan komitmen warga negara menjadi kendala yang dapat mengganggu eksistensi negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. Menjadi lebih kuat", "isCorrect": false },
+        { "text": "B. Terganggu eksistensinya", "isCorrect": true },
+        { "text": "C. Tetap stabil selamanya", "isCorrect": false },
+        { "text": "D. Menjadi negara adidaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berbicara tentang negara pada hakikatnya tidak terlepas dari keberadaan?",
+      "explanation": "Berbicara tentang negara tidak terlepas dari keberadaan warga negara, dan sebaliknya warga negara juga tidak terlepas dari sistem dalam negara.",
+      "difficulty": "EASY",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. Warga negara", "isCorrect": true },
+        { "text": "B. Perusahaan asing", "isCorrect": false },
+        { "text": "C. Organisasi internasional", "isCorrect": false },
+        { "text": "D. Lembaga swadaya masyarakat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Cogan & Derricott dalam Winarno, kewarganegaraan menghubungkan dua hal yaitu?",
+      "explanation": "Menurut Cogan & Derricott, kewarganegaraan adalah hubungan antara warga negara dengan negara, mencakup identitas, hak, kewajiban, partisipasi politik, dan penerimaan nilai bersama.",
+      "difficulty": "MEDIUM",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. Rakyat dan presiden", "isCorrect": false },
+        { "text": "B. Warga negara dan negara", "isCorrect": true },
+        { "text": "C. Individu dan masyarakat", "isCorrect": false },
+        { "text": "D. Pemerintah dan parlemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu unsur kewarganegaraan menurut Cogan & Derricott adalah partisipasi dalam?",
+      "explanation": "Unsur kewarganegaraan mencakup identitas, hak, kewajiban, partisipasi dalam politik, dan penerimaan nilai bersama.",
+      "difficulty": "MEDIUM",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. Ekonomi", "isCorrect": false },
+        { "text": "B. Politik", "isCorrect": true },
+        { "text": "C. Olahraga", "isCorrect": false },
+        { "text": "D. Kesenian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Roger H. Soltau, negara adalah?",
+      "explanation": "Menurut Roger H. Soltau, negara adalah alat atau wewenang yang mengatur atau mengendalikan persoalan bersama atas nama masyarakat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Alat yang mengatur persoalan bersama atas nama masyarakat", "isCorrect": true },
+        { "text": "B. Kumpulan keluarga yang menetap di satu wilayah", "isCorrect": false },
+        { "text": "C. Organisasi keagamaan terbesar", "isCorrect": false },
+        { "text": "D. Perserikatan dagang antarbangsa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Harold J. Laski, negara adalah suatu masyarakat yang diintegrasikan karena memiliki wewenang yang bersifat?",
+      "explanation": "Menurut Harold J. Laski, negara adalah masyarakat yang diintegrasikan karena memiliki wewenang yang bersifat memaksa dan secara sah lebih berkuasa daripada individu atau kelompok.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Sukarela", "isCorrect": false },
+        { "text": "B. Memaksa", "isCorrect": true },
+        { "text": "C. Sementara", "isCorrect": false },
+        { "text": "D. Terbatas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Robert M. MacIver, negara adalah asosiasi yang menyelenggarakan penertiban dalam masyarakat berdasarkan?",
+      "explanation": "Menurut MacIver, negara adalah asosiasi yang menyelenggarakan penertiban dalam masyarakat di suatu wilayah berdasarkan sistem hukum yang diselenggarakan pemerintah yang diberi kekuasaan memaksa.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Sistem hukum yang diselenggarakan pemerintah", "isCorrect": true },
+        { "text": "B. Kesepakatan adat istiadat", "isCorrect": false },
+        { "text": "C. Perjanjian dagang antarwilayah", "isCorrect": false },
+        { "text": "D. Kekuasaan agama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Miriam Budiardjo, negara adalah suatu daerah yang penduduknya diperintah oleh sejumlah pejabat dan berhasil menuntut?",
+      "explanation": "Menurut Miriam Budiardjo, negara adalah daerah yang penduduknya diperintah pejabat dan berhasil menuntut kepatuhan pada peraturan perundang-undangan melalui kontrol kekuasaan yang sah.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Pajak yang tinggi dari rakyat", "isCorrect": false },
+        { "text": "B. Kepatuhan pada peraturan melalui kontrol kekuasaan yang sah", "isCorrect": true },
+        { "text": "C. Wajib militer bagi seluruh penduduk", "isCorrect": false },
+        { "text": "D. Pengakuan dari seluruh negara dunia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut R. Djokosoetono, negara adalah suatu organisasi manusia atau kumpulan manusia yang berada di bawah?",
+      "explanation": "Menurut R. Djokosoetono, negara adalah organisasi manusia atau kumpulan manusia yang berada di bawah suatu pemerintahan yang sama.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Suatu pemerintahan yang sama", "isCorrect": true },
+        { "text": "B. Satu agama yang sama", "isCorrect": false },
+        { "text": "C. Satu bahasa yang sama", "isCorrect": false },
+        { "text": "D. Satu keturunan yang sama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Soenarko, negara adalah organisasi masyarakat yang memiliki daerah tertentu di mana kekuasaan negara berlaku sepenuhnya sebagai?",
+      "explanation": "Menurut Soenarko, negara adalah organisasi masyarakat yang memiliki daerah tertentu di mana kekuasaan negara berlaku sepenuhnya sebagai sebuah kedaulatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Sebuah kedaulatan", "isCorrect": true },
+        { "text": "B. Sebuah kewajiban", "isCorrect": false },
+        { "text": "C. Sebuah perjanjian", "isCorrect": false },
+        { "text": "D. Sebuah pengakuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut M. Solly Lubis, negara adalah?",
+      "explanation": "Menurut M. Solly Lubis, negara adalah suatu bentuk pergaulan manusia atau suatu komunitas.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Suatu bentuk pergaulan manusia atau komunitas", "isCorrect": true },
+        { "text": "B. Alat penindas rakyat", "isCorrect": false },
+        { "text": "C. Lembaga keuangan negara", "isCorrect": false },
+        { "text": "D. Perserikatan militer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Miriam Budiardjo, negara merupakan integrasi dari kekuasaan?",
+      "explanation": "Menurut Budiardjo (2017), negara merupakan integrasi dari kekuasaan politik, organisasi pokok kekuasaan politik, dan alat masyarakat untuk mengatur hubungan antarmanusia.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Ekonomi", "isCorrect": false },
+        { "text": "B. Politik", "isCorrect": true },
+        { "text": "C. Militer", "isCorrect": false },
+        { "text": "D. Keagamaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Budiardjo, negara adalah organisasi yang dalam suatu wilayah dapat memaksakan kekuasaan secara?",
+      "explanation": "Menurut Budiardjo, negara adalah organisasi yang dalam suatu wilayah dapat memaksakan kekuasaan secara sah terhadap semua golongan kekuasaan lain dan menetapkan tujuan bersama.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Sah", "isCorrect": true },
+        { "text": "B. Paksa tanpa aturan", "isCorrect": false },
+        { "text": "C. Sukarela", "isCorrect": false },
+        { "text": "D. Sementara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Humprey Wadlock (dalam Thontowi dan Iskandar), negara adalah suatu lembaga atau wadah di mana manusia?",
+      "explanation": "Menurut Humprey Wadlock, negara adalah lembaga atau wadah di mana manusia mencapai tujuan-tujuannya dan dapat melaksanakan kegiatannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Mencapai tujuan dan melaksanakan kegiatannya", "isCorrect": true },
+        { "text": "B. Memenuhi kebutuhan ekonomi semata", "isCorrect": false },
+        { "text": "C. Mengejar kekuasaan pribadi", "isCorrect": false },
+        { "text": "D. Menghindari kewajiban sosial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber utama yang banyak digunakan untuk pengertian negara menurut para ahli dalam materi ini adalah karya?",
+      "explanation": "Banyak pengertian negara dalam materi ini bersumber dari karya Miriam Budiardjo (2017) berjudul Dasar-dasar Ilmu Politik.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Miriam Budiardjo", "isCorrect": true },
+        { "text": "B. John Locke", "isCorrect": false },
+        { "text": "C. Montesquieu", "isCorrect": false },
+        { "text": "D. Aristoteles", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa hakikat atau esensi dari negara?",
+      "explanation": "Hakikat atau esensi negara adalah suatu organisasi, baik dalam arti statis maupun dinamis, untuk melaksanakan kegiatan pelaksanaan kekuasaan oleh badan negara guna mencapai tujuan negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Hakikat & Esensi Negara",
+      "options": [
+        { "text": "A. Suatu kumpulan keluarga", "isCorrect": false },
+        { "text": "B. Suatu organisasi untuk melaksanakan kekuasaan demi mencapai tujuan negara", "isCorrect": true },
+        { "text": "C. Suatu perkumpulan dagang", "isCorrect": false },
+        { "text": "D. Suatu lembaga keagamaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hakikat negara sebagai organisasi dipahami dalam dua arti, yaitu?",
+      "explanation": "Hakikat negara dipahami sebagai organisasi baik dalam arti statis maupun dinamis untuk melaksanakan kegiatan kekuasaan.",
+      "difficulty": "HARD",
+      "tag": "Hakikat & Esensi Negara",
+      "options": [
+        { "text": "A. Statis dan dinamis", "isCorrect": true },
+        { "text": "B. Lama dan baru", "isCorrect": false },
+        { "text": "C. Besar dan kecil", "isCorrect": false },
+        { "text": "D. Resmi dan tidak resmi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelaksanaan kekuasaan dalam hakikat negara dilakukan oleh?",
+      "explanation": "Pelaksanaan kekuasaan dalam hakikat negara dilakukan oleh badan-badan negara atau administrasi negara untuk mencapai tujuan negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Hakikat & Esensi Negara",
+      "options": [
+        { "text": "A. Badan-badan negara atau administrasi negara", "isCorrect": true },
+        { "text": "B. Organisasi swasta", "isCorrect": false },
+        { "text": "C. Perusahaan multinasional", "isCorrect": false },
+        { "text": "D. Lembaga adat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut hakikat negara, organisasi lazimnya dipahami sebagai alat untuk?",
+      "explanation": "Organisasi lazimnya dipahami sebagai alat untuk mengurusi kepentingan bersama, bukan untuk memenuhi kebutuhan khusus segolongan orang.",
+      "difficulty": "MEDIUM",
+      "tag": "Hakikat & Esensi Negara",
+      "options": [
+        { "text": "A. Mengurusi kepentingan bersama", "isCorrect": true },
+        { "text": "B. Memenuhi kebutuhan satu golongan", "isCorrect": false },
+        { "text": "C. Memperkaya penguasa", "isCorrect": false },
+        { "text": "D. Menghimpun kekuatan militer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut John Locke (dalam Ujang Charda), tujuan negara ialah?",
+      "explanation": "Menurut John Locke, tujuan negara ialah kebaikan untuk umat manusia.",
+      "difficulty": "MEDIUM",
+      "tag": "Hakikat & Esensi Negara",
+      "options": [
+        { "text": "A. Kekuasaan penguasa", "isCorrect": false },
+        { "text": "B. Kebaikan untuk umat manusia", "isCorrect": true },
+        { "text": "C. Penguasaan wilayah seluas-luasnya", "isCorrect": false },
+        { "text": "D. Kekayaan negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendapat tentang hakikat negara sebagai organisasi statis maupun dinamis dikemukakan oleh?",
+      "explanation": "Hakikat negara sebagai organisasi statis dan dinamis dikemukakan oleh Sukarna (dalam Ujang Charda S., 2018).",
+      "difficulty": "HARD",
+      "tag": "Hakikat & Esensi Negara",
+      "options": [
+        { "text": "A. Sukarna", "isCorrect": true },
+        { "text": "B. Soltau", "isCorrect": false },
+        { "text": "C. Laski", "isCorrect": false },
+        { "text": "D. MacIver", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah unsur konstitutif (pembentuk) negara menurut konsep ilmu politik?",
+      "explanation": "Unsur konstitutif negara menurut konsep ilmu politik ada empat: penduduk, daerah/wilayah, pemerintah yang berdaulat, dan pengakuan negara lain.",
+      "difficulty": "EASY",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Dua unsur", "isCorrect": false },
+        { "text": "B. Tiga unsur", "isCorrect": false },
+        { "text": "C. Empat unsur", "isCorrect": true },
+        { "text": "D. Lima unsur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk unsur konstitutif pembentuk negara, kecuali?",
+      "explanation": "Unsur pembentuk negara adalah penduduk, wilayah, pemerintah yang berdaulat, dan pengakuan negara lain. Bahasa nasional bukan unsur konstitutif.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Penduduk", "isCorrect": false },
+        { "text": "B. Wilayah", "isCorrect": false },
+        { "text": "C. Bahasa nasional", "isCorrect": true },
+        { "text": "D. Pemerintah yang berdaulat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unsur penduduk, wilayah, dan pemerintah berdaulat termasuk unsur negara yang bersifat?",
+      "explanation": "Penduduk, wilayah, dan pemerintah berdaulat termasuk unsur konstitutif, yaitu unsur yang mutlak harus ada agar suatu negara dapat berdiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Konstitutif", "isCorrect": true },
+        { "text": "B. Deklaratif", "isCorrect": false },
+        { "text": "C. Tambahan", "isCorrect": false },
+        { "text": "D. Pelengkap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengakuan dari negara lain termasuk unsur negara yang bersifat?",
+      "explanation": "Pengakuan dari negara lain termasuk unsur deklaratif, yaitu unsur yang melengkapi/menerangkan keberadaan negara, bukan syarat mutlak berdirinya negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Konstitutif", "isCorrect": false },
+        { "text": "B. Deklaratif", "isCorrect": true },
+        { "text": "C. Mutlak", "isCorrect": false },
+        { "text": "D. Primer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konvensi yang mengatur unsur-unsur negara menurut pandangan hukum internasional diselenggarakan pada tahun?",
+      "explanation": "Konvensi Montevideo tahun 1933 mengatur unsur-unsur negara menurut hukum internasional, diselenggarakan oleh negara-negara Pan-Amerika.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. 1648", "isCorrect": false },
+        { "text": "B. 1933", "isCorrect": true },
+        { "text": "C. 1945", "isCorrect": false },
+        { "text": "D. 1949", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konvensi Montevideo 1933 diselenggarakan oleh negara-negara?",
+      "explanation": "Konvensi Montevideo 1933 diselenggarakan oleh negara-negara Pan-Amerika di Kota Montevideo.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Pan-Amerika", "isCorrect": true },
+        { "text": "B. Eropa Barat", "isCorrect": false },
+        { "text": "C. Asia Tenggara", "isCorrect": false },
+        { "text": "D. Afrika Utara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konvensi Montevideo 1933 diselenggarakan di kota?",
+      "explanation": "Konvensi tahun 1933 tersebut diselenggarakan di Kota Montevideo, sehingga dinamakan Konvensi Montevideo.",
+      "difficulty": "EASY",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Montevideo", "isCorrect": true },
+        { "text": "B. Westphalia", "isCorrect": false },
+        { "text": "C. Den Haag", "isCorrect": false },
+        { "text": "D. Jenewa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu unsur negara menurut Konvensi Montevideo 1933 adalah penduduk yang?",
+      "explanation": "Menurut Konvensi Montevideo 1933, salah satu unsur negara adalah penduduk yang tetap (a permanent population).",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Berpindah-pindah", "isCorrect": false },
+        { "text": "B. Tetap", "isCorrect": true },
+        { "text": "C. Berasal dari satu suku", "isCorrect": false },
+        { "text": "D. Beragama sama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Konvensi Montevideo 1933, unsur wilayah harus berupa wilayah yang?",
+      "explanation": "Menurut Konvensi Montevideo 1933, salah satu unsur negara adalah wilayah tertentu (a defined territory).",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Tertentu (defined territory)", "isCorrect": true },
+        { "text": "B. Tidak berbatas", "isCorrect": false },
+        { "text": "C. Selalu berubah", "isCorrect": false },
+        { "text": "D. Hanya daratan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unsur keempat negara menurut Konvensi Montevideo 1933 adalah kemampuan?",
+      "explanation": "Unsur keempat menurut Konvensi Montevideo 1933 adalah kemampuan mengadakan hubungan dengan negara lain (capacity to enter into relations with other states).",
+      "difficulty": "HARD",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Mengadakan hubungan dengan negara lain", "isCorrect": true },
+        { "text": "B. Mencetak mata uang sendiri", "isCorrect": false },
+        { "text": "C. Membangun angkatan perang", "isCorrect": false },
+        { "text": "D. Memungut pajak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unsur 'pemerintah' menurut Konvensi Montevideo 1933 sejajar dengan unsur konstitutif berupa?",
+      "explanation": "Unsur 'pemerintah' (a government) dalam Konvensi Montevideo 1933 sejajar dengan unsur pemerintah yang berdaulat dalam konsep ilmu politik.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Pemerintah yang berdaulat", "isCorrect": true },
+        { "text": "B. Pengakuan negara lain", "isCorrect": false },
+        { "text": "C. Penduduk tetap", "isCorrect": false },
+        { "text": "D. Wilayah tertentu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembagian unsur negara menjadi konstitutif dan deklaratif dalam materi ini dikutip dari karya?",
+      "explanation": "Pembagian dan penjelasan unsur negara menurut hukum internasional dikutip dari Ujang Charda S. (2018, hlm. 111-114).",
+      "difficulty": "HARD",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Ujang Charda S.", "isCorrect": true },
+        { "text": "B. Ani Sri Rahayu", "isCorrect": false },
+        { "text": "C. Winarno", "isCorrect": false },
+        { "text": "D. Sudiyono", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UUD 1945 Pasal 26 ayat (2), penduduk adalah?",
+      "explanation": "Menurut UUD 1945 Pasal 26 ayat (2), penduduk adalah warga negara Indonesia dan orang asing yang bertempat tinggal di Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Hanya warga negara Indonesia", "isCorrect": false },
+        { "text": "B. WNI dan orang asing yang bertempat tinggal di Indonesia", "isCorrect": true },
+        { "text": "C. Hanya orang asing", "isCorrect": false },
+        { "text": "D. Hanya wisatawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan UUD 1945, penduduk Indonesia meliputi?",
+      "explanation": "Penduduk Indonesia meliputi WNI (Warga Negara Indonesia) dan WNA (Warga Negara Asing) yang bertempat tinggal di Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. WNI dan WNA", "isCorrect": true },
+        { "text": "B. Hanya WNI", "isCorrect": false },
+        { "text": "C. Hanya WNA", "isCorrect": false },
+        { "text": "D. Hanya pejabat negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara penduduk dan bukan penduduk terletak pada?",
+      "explanation": "Penduduk bertempat tinggal di wilayah negara dalam jangka waktu yang cukup lama, sedangkan bukan penduduk hanya untuk sementara waktu (jangka pendek).",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Lama tidaknya bertempat tinggal di wilayah negara", "isCorrect": true },
+        { "text": "B. Jenis pekerjaannya", "isCorrect": false },
+        { "text": "C. Agama yang dianut", "isCorrect": false },
+        { "text": "D. Tingkat pendidikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh kelompok yang termasuk bukan penduduk adalah?",
+      "explanation": "Bukan penduduk adalah mereka yang berada di wilayah negara untuk sementara waktu, misalnya para wisatawan.",
+      "difficulty": "EASY",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Wisatawan", "isCorrect": true },
+        { "text": "B. Warga negara asli", "isCorrect": false },
+        { "text": "C. Pejabat pemerintah", "isCorrect": false },
+        { "text": "D. Penduduk asli daerah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penduduk yang mempunyai status kewarganegaraan dari wilayah negara yang bersangkutan dinamakan?",
+      "explanation": "Penduduk yang memiliki status kewarganegaraan dari wilayah negara yang bersangkutan dinamakan warga negara.",
+      "difficulty": "EASY",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Warga negara", "isCorrect": true },
+        { "text": "B. Warga negara asing", "isCorrect": false },
+        { "text": "C. Wisatawan", "isCorrect": false },
+        { "text": "D. Imigran gelap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penduduk yang menetap karena suatu pekerjaan namun bukan warga negara setempat dinamakan?",
+      "explanation": "Penduduk yang menetap disebabkan oleh suatu pekerjaan tetapi tidak berkewarganegaraan setempat dinamakan warga negara asing (WNA).",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Warga negara", "isCorrect": false },
+        { "text": "B. Warga negara asing", "isCorrect": true },
+        { "text": "C. Penduduk asli", "isCorrect": false },
+        { "text": "D. Pejabat negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut hukum internasional, batas wilayah suatu negara dapat ditentukan melalui?",
+      "explanation": "Batas wilayah negara menurut hukum internasional dapat ditentukan melalui perjanjian dengan negara yang berbatasan dan keadaan alam.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Perjanjian dengan negara berbatasan dan keadaan alam", "isCorrect": true },
+        { "text": "B. Keputusan presiden saja", "isCorrect": false },
+        { "text": "C. Kekuatan militer semata", "isCorrect": false },
+        { "text": "D. Jumlah penduduk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Wilayah negara dalam hukum internasional terdiri atas wilayah darat, laut, udara, dan wilayah?",
+      "explanation": "Wilayah negara menurut hukum internasional terdiri atas wilayah darat, wilayah laut, wilayah udara, dan wilayah konvensional (ekstrateritorial).",
+      "difficulty": "HARD",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Konvensional", "isCorrect": true },
+        { "text": "B. Industrial", "isCorrect": false },
+        { "text": "C. Komersial", "isCorrect": false },
+        { "text": "D. Tradisional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam arti sempit, pemerintah adalah?",
+      "explanation": "Dalam arti sempit, pemerintah adalah kepala negara (eksekutif).",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Kepala negara (eksekutif)", "isCorrect": true },
+        { "text": "B. Seluruh lembaga negara", "isCorrect": false },
+        { "text": "C. Lembaga yudikatif saja", "isCorrect": false },
+        { "text": "D. Lembaga legislatif saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam arti luas, pemerintah mencakup keseluruhan alat perlengkapan negara, yaitu?",
+      "explanation": "Dalam arti luas, pemerintah adalah keseluruhan alat perlengkapan negara, yaitu legislatif, eksekutif, dan yudikatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Legislatif, eksekutif, dan yudikatif", "isCorrect": true },
+        { "text": "B. Presiden dan wakil presiden", "isCorrect": false },
+        { "text": "C. TNI dan Polri", "isCorrect": false },
+        { "text": "D. DPR dan DPD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kedaulatan pemerintah ke dalam berarti pemerintah memiliki?",
+      "explanation": "Kedaulatan ke dalam berarti pemerintah memiliki kewenangan tertinggi dalam mengatur dan menjalankan organisasi negara sesuai peraturan perundangan yang berlaku.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Kewenangan tertinggi mengatur organisasi negara", "isCorrect": true },
+        { "text": "B. Hak mencampuri urusan negara lain", "isCorrect": false },
+        { "text": "C. Kewajiban tunduk pada negara lain", "isCorrect": false },
+        { "text": "D. Larangan membuat undang-undang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kedaulatan pemerintah ke luar berarti pemerintah?",
+      "explanation": "Kedaulatan ke luar berarti pemerintah berkuasa bebas, tidak terikat dan tidak tunduk kepada kekuasaan lain serta tidak mencampuri urusan negara lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Tunduk pada negara adidaya", "isCorrect": false },
+        { "text": "B. Berkuasa bebas dan tidak tunduk pada kekuasaan lain", "isCorrect": true },
+        { "text": "C. Wajib mengikuti kebijakan negara tetangga", "isCorrect": false },
+        { "text": "D. Mencampuri urusan negara lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pengakuan dari negara lain menjadi syarat penting bagi suatu negara?",
+      "explanation": "Pengakuan dari negara lain menjadi syarat penting untuk melakukan hubungan internasional.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Untuk melakukan hubungan internasional", "isCorrect": true },
+        { "text": "B. Untuk membentuk pemerintahan", "isCorrect": false },
+        { "text": "C. Untuk menentukan jumlah penduduk", "isCorrect": false },
+        { "text": "D. Untuk menetapkan batas wilayah darat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengakuan dari negara lain yang bersifat resmi melalui hubungan kedutaan disebut pengakuan?",
+      "explanation": "Pengakuan yang bersifat resmi melalui hubungan kedutaan dan keterwakilan disebut pengakuan diplomatik.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Diplomatik", "isCorrect": true },
+        { "text": "B. De facto", "isCorrect": false },
+        { "text": "C. Sementara", "isCorrect": false },
+        { "text": "D. Sepihak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengakuan terhadap kenyataan adanya suatu negara berdasarkan fakta terpenuhinya unsur konstitutif disebut pengakuan?",
+      "explanation": "Pengakuan de facto adalah pengakuan atas kenyataan adanya suatu negara berdasarkan fakta terpenuhinya unsur konstitutif, sebelum pengakuan de jure (resmi secara hukum).",
+      "difficulty": "HARD",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. De facto", "isCorrect": true },
+        { "text": "B. De jure", "isCorrect": false },
+        { "text": "C. Konstitutif", "isCorrect": false },
+        { "text": "D. Mutlak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengakuan resmi menurut hukum internasional yang bersifat tetap terhadap suatu negara disebut pengakuan?",
+      "explanation": "Pengakuan de jure adalah pengakuan resmi secara hukum internasional yang bersifat tetap terhadap berdirinya suatu negara.",
+      "difficulty": "HARD",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. De facto", "isCorrect": false },
+        { "text": "B. De jure", "isCorrect": true },
+        { "text": "C. Sementara", "isCorrect": false },
+        { "text": "D. Sepihak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah sifat negara menurut Miriam Budiardjo?",
+      "explanation": "Menurut Miriam Budiardjo, negara memiliki tiga sifat, yaitu memaksa, monopoli, dan mencakup semua.",
+      "difficulty": "EASY",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Dua sifat", "isCorrect": false },
+        { "text": "B. Tiga sifat", "isCorrect": true },
+        { "text": "C. Empat sifat", "isCorrect": false },
+        { "text": "D. Lima sifat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk sifat negara menurut Miriam Budiardjo, kecuali?",
+      "explanation": "Sifat negara menurut Budiardjo adalah memaksa, monopoli, dan mencakup semua. Sukarela bukan sifat negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Memaksa", "isCorrect": false },
+        { "text": "B. Monopoli", "isCorrect": false },
+        { "text": "C. Sukarela", "isCorrect": true },
+        { "text": "D. Mencakup semua", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sifat memaksa pada negara berarti negara memiliki?",
+      "explanation": "Sifat memaksa berarti negara memiliki hak atau kewenangan untuk memaksakan berbagai peraturan yang dibuat agar ditaati oleh seluruh warganya.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Hak memaksakan peraturan agar ditaati seluruh warganya", "isCorrect": true },
+        { "text": "B. Hak menghapus seluruh hukum", "isCorrect": false },
+        { "text": "C. Kewajiban tunduk pada warganya", "isCorrect": false },
+        { "text": "D. Hak menyerahkan kekuasaan pada swasta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat negara yang digunakan untuk mewujudkan sifat memaksa antara lain?",
+      "explanation": "Sifat memaksa diwujudkan melalui alat negara seperti tentara, polisi, hakim, jaksa, dan sebagainya yang dapat memberi sanksi tegas.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Tentara, polisi, hakim, dan jaksa", "isCorrect": true },
+        { "text": "B. Perusahaan swasta", "isCorrect": false },
+        { "text": "C. Organisasi keagamaan", "isCorrect": false },
+        { "text": "D. Lembaga adat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sifat monopoli pada negara berarti negara memiliki?",
+      "explanation": "Sifat monopoli menunjukkan hak atau kewenangan negara untuk mengelola atau menentukan sesuatu tindakan tanpa adanya kewenangan yang sama di pihak lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Hak mengelola sesuatu tanpa kewenangan sama di pihak lain", "isCorrect": true },
+        { "text": "B. Hak menghapus semua peraturan", "isCorrect": false },
+        { "text": "C. Hak menyerahkan kekuasaan pada rakyat", "isCorrect": false },
+        { "text": "D. Hak tunduk pada negara lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh penerapan sifat monopoli negara di Indonesia adalah penetapan tujuan masyarakat yang dirumuskan dalam?",
+      "explanation": "Contoh sifat monopoli adalah menetapkan tujuan masyarakat, di Indonesia dirumuskan dalam Alinea IV Pembukaan UUD 1945.",
+      "difficulty": "HARD",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Alinea IV Pembukaan UUD 1945", "isCorrect": true },
+        { "text": "B. Alinea I Pembukaan UUD 1945", "isCorrect": false },
+        { "text": "C. Batang Tubuh UUD 1945", "isCorrect": false },
+        { "text": "D. Sumpah Pemuda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak monopoli negara atas sumber daya alam berlaku terhadap SDA yang?",
+      "explanation": "Negara memiliki hak monopoli pengelolaan sumber daya alam yang menguasai hajat hidup masyarakat.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Menguasai hajat hidup masyarakat", "isCorrect": true },
+        { "text": "B. Dimiliki perusahaan asing", "isCorrect": false },
+        { "text": "C. Bersifat pribadi", "isCorrect": false },
+        { "text": "D. Tidak bernilai ekonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara juga memiliki hak monopoli atas pengelolaan sarana?",
+      "explanation": "Negara memiliki hak monopoli pengelolaan sarana kekerasan untuk kepentingan negara, misalnya melalui militer dan kepolisian.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Kekerasan untuk kepentingan negara", "isCorrect": true },
+        { "text": "B. Hiburan rakyat", "isCorrect": false },
+        { "text": "C. Perdagangan bebas", "isCorrect": false },
+        { "text": "D. Pendidikan swasta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sifat mencakup semua pada negara berarti kekuasaan negara berlaku bagi?",
+      "explanation": "Sifat mencakup semua berarti kekuasaan negara berlaku bagi semua orang di wilayah negara yang bersangkutan tanpa kecuali.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Semua orang di wilayah negara tersebut", "isCorrect": true },
+        { "text": "B. Hanya pejabat negara", "isCorrect": false },
+        { "text": "C. Hanya warga negara asli", "isCorrect": false },
+        { "text": "D. Hanya golongan tertentu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Implikasi dari sifat mencakup semua adalah tidak ada warga masyarakat yang dapat?",
+      "explanation": "Karena sifat mencakup semua, tidak ada warga masyarakat yang dapat mengecualikan dirinya dari pengaruh kekuasaan negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Mengecualikan diri dari pengaruh kekuasaan negara", "isCorrect": true },
+        { "text": "B. Membayar pajak", "isCorrect": false },
+        { "text": "C. Mengikuti pemilu", "isCorrect": false },
+        { "text": "D. Menaati undang-undang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peraturan yang dibuat negara, sesuai sifat mencakup semua, pada prinsipnya berlaku bagi?",
+      "explanation": "Peraturan yang dibuat negara pada prinsipnya berlaku bagi setiap orang di wilayah negara itu tanpa kecuali.",
+      "difficulty": "EASY",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Setiap orang di wilayah negara tanpa kecuali", "isCorrect": true },
+        { "text": "B. Hanya orang dewasa", "isCorrect": false },
+        { "text": "C. Hanya pejabat tinggi", "isCorrect": false },
+        { "text": "D. Hanya warga negara asli", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber yang dijadikan rujukan untuk ketiga sifat negara dalam materi ini adalah?",
+      "explanation": "Ketiga sifat negara (memaksa, monopoli, mencakup semua) dalam materi ini bersumber dari Miriam Budiardjo (2017).",
+      "difficulty": "EASY",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Miriam Budiardjo", "isCorrect": true },
+        { "text": "B. John Locke", "isCorrect": false },
+        { "text": "C. Friedman", "isCorrect": false },
+        { "text": "D. Soltau", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut tinjauan tujuan negara, negara dipandang sebagai asosiasi yang hidup dan bekerja sama untuk?",
+      "explanation": "Negara dipandang sebagai asosiasi yang hidup dan bekerja sama untuk mengejar beberapa tujuan bersama.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Mengejar beberapa tujuan bersama", "isCorrect": true },
+        { "text": "B. Memperkaya penguasa", "isCorrect": false },
+        { "text": "C. Menaklukkan negara lain", "isCorrect": false },
+        { "text": "D. Menghimpun kekuatan militer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Soltau, tujuan negara adalah memungkinkan rakyatnya?",
+      "explanation": "Menurut Soltau, tujuan negara adalah memungkinkan rakyatnya berkembang serta menyelenggarakan daya ciptanya sebebas mungkin.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Berkembang dan menyelenggarakan daya ciptanya sebebas mungkin", "isCorrect": true },
+        { "text": "B. Tunduk pada penguasa", "isCorrect": false },
+        { "text": "C. Membayar pajak setinggi-tingginya", "isCorrect": false },
+        { "text": "D. Mengikuti wajib militer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Laski, tujuan negara adalah menciptakan keadaan di mana rakyat dapat?",
+      "explanation": "Menurut Laski, tujuan negara adalah menciptakan keadaan di mana rakyat dapat mencapai keinginan-keinginan mereka secara maksimal.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Mencapai keinginan mereka secara maksimal", "isCorrect": true },
+        { "text": "B. Tunduk pada hukum asing", "isCorrect": false },
+        { "text": "C. Membatasi kebebasan individu", "isCorrect": false },
+        { "text": "D. Menghindari pembangunan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan negara Republik Indonesia tercantum dalam?",
+      "explanation": "Tujuan negara RI tercantum dalam Alinea IV Pembukaan UUD 1945.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Alinea IV Pembukaan UUD 1945", "isCorrect": true },
+        { "text": "B. Sumpah Pemuda", "isCorrect": false },
+        { "text": "C. Proklamasi Kemerdekaan", "isCorrect": false },
+        { "text": "D. Batang Tubuh UUD 1945 Pasal 1", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah tujuan negara RI yang dirumuskan dalam Pembukaan UUD 1945?",
+      "explanation": "Tujuan negara RI dalam Pembukaan UUD 1945 ada empat: melindungi segenap bangsa, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Tiga tujuan", "isCorrect": false },
+        { "text": "B. Empat tujuan", "isCorrect": true },
+        { "text": "C. Lima tujuan", "isCorrect": false },
+        { "text": "D. Enam tujuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan negara RI yang berbunyi 'melindungi segenap bangsa Indonesia dan seluruh...' adalah?",
+      "explanation": "Tujuan negara RI yang pertama adalah melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Tumpah darah Indonesia", "isCorrect": true },
+        { "text": "B. Kekayaan negara", "isCorrect": false },
+        { "text": "C. Penguasa negara", "isCorrect": false },
+        { "text": "D. Wilayah asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan negara RI yang berkaitan dengan kesejahteraan rakyat adalah?",
+      "explanation": "Salah satu tujuan negara RI adalah memajukan kesejahteraan umum.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Memajukan kesejahteraan umum", "isCorrect": true },
+        { "text": "B. Memperkuat angkatan perang", "isCorrect": false },
+        { "text": "C. Menaklukkan negara lain", "isCorrect": false },
+        { "text": "D. Menghapus pemerintahan daerah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan negara RI di bidang pendidikan dirumuskan sebagai?",
+      "explanation": "Tujuan negara RI di bidang pendidikan adalah mencerdaskan kehidupan bangsa.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Mencerdaskan kehidupan bangsa", "isCorrect": true },
+        { "text": "B. Mewajibkan kuliah bagi semua", "isCorrect": false },
+        { "text": "C. Menghapus buta huruf saja", "isCorrect": false },
+        { "text": "D. Membatasi akses sekolah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan negara RI dalam konteks hubungan internasional adalah ikut melaksanakan ketertiban dunia yang berdasarkan?",
+      "explanation": "Tujuan negara RI yang keempat adalah ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Kemerdekaan, perdamaian abadi, dan keadilan sosial", "isCorrect": true },
+        { "text": "B. Kekuasaan dan dominasi militer", "isCorrect": false },
+        { "text": "C. Persaingan ekonomi global", "isCorrect": false },
+        { "text": "D. Perluasan wilayah negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pandangan tujuan negara menurut Soltau dan Laski dalam materi ini bersumber dari karya?",
+      "explanation": "Pandangan tujuan negara menurut Soltau dan Laski dalam materi ini bersumber dari Miriam Budiardjo (2017, hlm. 54-55).",
+      "difficulty": "HARD",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Miriam Budiardjo", "isCorrect": true },
+        { "text": "B. Friedman", "isCorrect": false },
+        { "text": "C. Ujang Charda", "isCorrect": false },
+        { "text": "D. Winarno", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah fungsi negara menurut Friedman (dalam Ujang Charda)?",
+      "explanation": "Menurut Friedman, negara memiliki empat fungsi: provider, regulator, entrepreneur, dan umpire.",
+      "difficulty": "EASY",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Dua fungsi", "isCorrect": false },
+        { "text": "B. Tiga fungsi", "isCorrect": false },
+        { "text": "C. Empat fungsi", "isCorrect": true },
+        { "text": "D. Lima fungsi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi negara sebagai provider berarti negara?",
+      "explanation": "Sebagai provider, negara bertanggung jawab dan menjamin standar minimum kehidupan secara keseluruhan serta memberikan jaminan sosial.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Menjamin standar minimum kehidupan dan jaminan sosial", "isCorrect": true },
+        { "text": "B. Membuat seluruh peraturan negara", "isCorrect": false },
+        { "text": "C. Menjalankan sektor ekonomi melalui BUMN", "isCorrect": false },
+        { "text": "D. Menjadi wasit antar pelaku ekonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi negara sebagai regulator berarti negara?",
+      "explanation": "Sebagai regulator, negara mengadakan aturan kehidupan bernegara.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Mengadakan aturan kehidupan bernegara", "isCorrect": true },
+        { "text": "B. Memberikan jaminan sosial", "isCorrect": false },
+        { "text": "C. Menjalankan BUMN", "isCorrect": false },
+        { "text": "D. Menetapkan standar persaingan adil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi negara sebagai entrepreneur berarti negara?",
+      "explanation": "Sebagai entrepreneur, negara menjalankan sektor ekonomi melalui BUMN/daerah dan menciptakan suasana kondusif bagi berkembangnya bidang usaha.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Menjalankan sektor ekonomi melalui BUMN/daerah", "isCorrect": true },
+        { "text": "B. Membuat undang-undang", "isCorrect": false },
+        { "text": "C. Memberikan jaminan kesehatan", "isCorrect": false },
+        { "text": "D. Mengadili sengketa rakyat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi negara sebagai umpire (wasit) berarti negara?",
+      "explanation": "Sebagai umpire, negara menetapkan standar-standar yang adil bagi pihak yang bergerak di sektor ekonomi, terutama antara sektor negara dan sektor swasta.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Menetapkan standar adil bagi pelaku sektor ekonomi", "isCorrect": true },
+        { "text": "B. Menjalankan seluruh perusahaan negara", "isCorrect": false },
+        { "text": "C. Memberikan bantuan sosial", "isCorrect": false },
+        { "text": "D. Membentuk angkatan bersenjata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi negara sebagai umpire terutama mengatur keadilan antara sektor negara dengan sektor?",
+      "explanation": "Sebagai umpire, negara menetapkan standar adil terutama antara sektor negara dan sektor swasta atau antarbidang usaha tertentu.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Swasta", "isCorrect": true },
+        { "text": "B. Militer", "isCorrect": false },
+        { "text": "C. Keagamaan", "isCorrect": false },
+        { "text": "D. Pendidikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep empat fungsi negara (provider, regulator, entrepreneur, umpire) dikemukakan oleh?",
+      "explanation": "Empat fungsi negara tersebut dikemukakan oleh Friedman (dalam Ujang Charda, 2018, hlm. 116).",
+      "difficulty": "HARD",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Friedman", "isCorrect": true },
+        { "text": "B. Budiardjo", "isCorrect": false },
+        { "text": "C. Soltau", "isCorrect": false },
+        { "text": "D. Laski", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi negara yang berkaitan dengan pemberian jaminan sosial bagi rakyat adalah fungsi?",
+      "explanation": "Fungsi provider berkaitan dengan tanggung jawab negara menjamin standar minimum kehidupan dan memberikan jaminan sosial.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Provider", "isCorrect": true },
+        { "text": "B. Regulator", "isCorrect": false },
+        { "text": "C. Entrepreneur", "isCorrect": false },
+        { "text": "D. Umpire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi negara yang berkaitan dengan pembuatan peraturan perundang-undangan adalah fungsi?",
+      "explanation": "Fungsi regulator berkaitan dengan pembuatan aturan kehidupan bernegara, termasuk peraturan perundang-undangan.",
+      "difficulty": "EASY",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Regulator", "isCorrect": true },
+        { "text": "B. Provider", "isCorrect": false },
+        { "text": "C. Entrepreneur", "isCorrect": false },
+        { "text": "D. Umpire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara menjalankan BUMN sebagai perwujudan fungsi?",
+      "explanation": "Menjalankan BUMN/daerah merupakan perwujudan fungsi entrepreneur, yaitu negara sebagai pelaku ekonomi.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Entrepreneur", "isCorrect": true },
+        { "text": "B. Regulator", "isCorrect": false },
+        { "text": "C. Provider", "isCorrect": false },
+        { "text": "D. Umpire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan warga negara dengan negara menurut materi ini bersifat saling?",
+      "explanation": "Hubungan warga negara dengan negara bersifat saling terkait; berbicara negara tidak lepas dari warga negara, dan sebaliknya warga negara tidak lepas dari sistem dalam negara.",
+      "difficulty": "EASY",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. Terkait", "isCorrect": true },
+        { "text": "B. Bertentangan", "isCorrect": false },
+        { "text": "C. Terpisah", "isCorrect": false },
+        { "text": "D. Tidak berhubungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara modern atau negara kebangsaan dikenal dengan istilah?",
+      "explanation": "Negara modern atau negara kebangsaan dikenal dengan istilah nation-state, di mana konsep warga negara (citizen) menjadi penting.",
+      "difficulty": "MEDIUM",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. Nation-state", "isCorrect": true },
+        { "text": "B. City-state", "isCorrect": false },
+        { "text": "C. Welfare state", "isCorrect": false },
+        { "text": "D. Police state", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi negara dari Budiardjo yang menekankan kemampuan memaksakan kekuasaan secara sah menunjukkan bahwa negara memiliki?",
+      "explanation": "Definisi tersebut menunjukkan negara memiliki kewenangan/kekuasaan yang sah untuk mengatur dan memaksa golongan kekuasaan lain di wilayahnya.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Kewenangan sah mengatur dan memaksa di wilayahnya", "isCorrect": true },
+        { "text": "B. Hak menyerahkan kedaulatan", "isCorrect": false },
+        { "text": "C. Kewajiban tunduk pada warga", "isCorrect": false },
+        { "text": "D. Larangan membuat aturan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unsur deklaratif berbeda dengan unsur konstitutif karena unsur deklaratif sifatnya?",
+      "explanation": "Unsur deklaratif (pengakuan negara lain) bersifat menerangkan/melengkapi, bukan syarat mutlak berdirinya negara seperti unsur konstitutif.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Melengkapi, bukan syarat mutlak", "isCorrect": true },
+        { "text": "B. Wajib ada lebih dulu", "isCorrect": false },
+        { "text": "C. Lebih penting dari penduduk", "isCorrect": false },
+        { "text": "D. Menentukan jumlah wilayah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika suatu wilayah memiliki penduduk tetap, wilayah tertentu, dan pemerintah, tetapi belum diakui negara lain, maka secara konstitutif wilayah tersebut?",
+      "explanation": "Secara konstitutif, negara sudah terbentuk bila memenuhi unsur penduduk, wilayah, dan pemerintah berdaulat; pengakuan negara lain (deklaratif) bersifat melengkapi.",
+      "difficulty": "HARD",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Sudah memenuhi unsur konstitutif negara", "isCorrect": true },
+        { "text": "B. Belum bisa disebut sebagai entitas negara", "isCorrect": false },
+        { "text": "C. Kehilangan seluruh penduduknya", "isCorrect": false },
+        { "text": "D. Otomatis menjadi bagian negara lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Wilayah laut suatu negara termasuk dalam pembagian wilayah negara menurut?",
+      "explanation": "Wilayah laut termasuk pembagian wilayah negara menurut hukum internasional, di samping wilayah darat, udara, dan konvensional.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Hukum internasional", "isCorrect": true },
+        { "text": "B. Hukum adat", "isCorrect": false },
+        { "text": "C. Hukum dagang", "isCorrect": false },
+        { "text": "D. Hukum keluarga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang turis yang berlibur dua minggu di Indonesia secara hukum dikategorikan sebagai?",
+      "explanation": "Turis yang berada sementara (jangka pendek) dikategorikan sebagai bukan penduduk, sesuai pembedaan penduduk dan bukan penduduk.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Bukan penduduk", "isCorrect": true },
+        { "text": "B. Penduduk tetap", "isCorrect": false },
+        { "text": "C. Warga negara", "isCorrect": false },
+        { "text": "D. Pejabat negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang ekspatriat asing yang bekerja dan menetap lama di Indonesia namun tetap berkewarganegaraan asing termasuk?",
+      "explanation": "Ekspatriat yang menetap lama karena pekerjaan tetapi tetap berkewarganegaraan asing termasuk penduduk berstatus warga negara asing (WNA).",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Penduduk berstatus WNA", "isCorrect": true },
+        { "text": "B. Bukan penduduk", "isCorrect": false },
+        { "text": "C. Warga negara Indonesia", "isCorrect": false },
+        { "text": "D. Wisatawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemerintah yang tidak tunduk dan tidak terikat pada kekuasaan negara lain menunjukkan kedaulatan?",
+      "explanation": "Pemerintah yang tidak tunduk dan tidak terikat pada kekuasaan lain menunjukkan kedaulatan ke luar.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Ke luar", "isCorrect": true },
+        { "text": "B. Ke dalam", "isCorrect": false },
+        { "text": "C. Sementara", "isCorrect": false },
+        { "text": "D. Terbatas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara yang berhak mengatur seluruh urusan dalam negeri tanpa campur tangan negara lain menjalankan kedaulatan?",
+      "explanation": "Negara yang berkuasa penuh mengatur urusan dalam negeri sesuai peraturan perundangan menjalankan kedaulatan ke dalam.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. Ke dalam", "isCorrect": true },
+        { "text": "B. Ke luar", "isCorrect": false },
+        { "text": "C. Internasional", "isCorrect": false },
+        { "text": "D. Bersama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sifat memaksa pada negara diperlukan agar peraturan negara dapat?",
+      "explanation": "Sifat memaksa diperlukan agar peraturan yang dibuat negara dapat ditaati oleh seluruh warganya, didukung sanksi tegas.",
+      "difficulty": "EASY",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Ditaati oleh seluruh warganya", "isCorrect": true },
+        { "text": "B. Diabaikan oleh masyarakat", "isCorrect": false },
+        { "text": "C. Berlaku hanya bagi pejabat", "isCorrect": false },
+        { "text": "D. Dihapus sewaktu-waktu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hakim dan jaksa sebagai alat negara berfungsi mendukung sifat memaksa negara dalam hal?",
+      "explanation": "Hakim dan jaksa mendukung sifat memaksa dengan menegakkan hukum dan memberikan sanksi tegas terhadap pelanggaran peraturan.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Penegakan hukum dan pemberian sanksi tegas", "isCorrect": true },
+        { "text": "B. Pengelolaan ekonomi negara", "isCorrect": false },
+        { "text": "C. Penyusunan anggaran negara", "isCorrect": false },
+        { "text": "D. Penyelenggaraan pendidikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan bahwa kekuasaan negara berlaku bagi semua orang tanpa kecuali merupakan penjabaran sifat?",
+      "explanation": "Pernyataan tersebut merupakan penjabaran sifat mencakup semua (all-embracing).",
+      "difficulty": "EASY",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Mencakup semua", "isCorrect": true },
+        { "text": "B. Memaksa", "isCorrect": false },
+        { "text": "C. Monopoli", "isCorrect": false },
+        { "text": "D. Deklaratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara menetapkan tujuan masyarakat dan menguasai SDA penting tanpa pihak lain memiliki kewenangan sama. Ini adalah sifat?",
+      "explanation": "Menetapkan tujuan masyarakat dan menguasai SDA penting tanpa kewenangan sama di pihak lain merupakan penerapan sifat monopoli.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Monopoli", "isCorrect": true },
+        { "text": "B. Memaksa", "isCorrect": false },
+        { "text": "C. Mencakup semua", "isCorrect": false },
+        { "text": "D. Deklaratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan negara menurut Soltau menekankan pada kebebasan rakyat untuk?",
+      "explanation": "Menurut Soltau, tujuan negara menekankan agar rakyat dapat berkembang dan menyelenggarakan daya ciptanya sebebas mungkin.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Menyelenggarakan daya ciptanya sebebas mungkin", "isCorrect": true },
+        { "text": "B. Membayar pajak", "isCorrect": false },
+        { "text": "C. Mengikuti wajib militer", "isCorrect": false },
+        { "text": "D. Tunduk tanpa syarat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan negara RI 'ikut melaksanakan ketertiban dunia' mencerminkan peran Indonesia dalam?",
+      "explanation": "Tujuan ini mencerminkan peran Indonesia dalam hubungan/percaturan internasional demi perdamaian dunia.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Negara",
+      "options": [
+        { "text": "A. Hubungan internasional dan perdamaian dunia", "isCorrect": true },
+        { "text": "B. Ekonomi domestik saja", "isCorrect": false },
+        { "text": "C. Politik dalam negeri saja", "isCorrect": false },
+        { "text": "D. Pertahanan tertutup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Program bantuan sosial dan jaminan kesehatan pemerintah merupakan perwujudan fungsi negara sebagai?",
+      "explanation": "Bantuan sosial dan jaminan kesehatan merupakan perwujudan fungsi provider, yaitu negara menjamin standar minimum kehidupan dan jaminan sosial.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Provider", "isCorrect": true },
+        { "text": "B. Regulator", "isCorrect": false },
+        { "text": "C. Entrepreneur", "isCorrect": false },
+        { "text": "D. Umpire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara membuat undang-undang dan peraturan untuk menertibkan kehidupan bernegara. Ini fungsi?",
+      "explanation": "Membuat undang-undang dan aturan kehidupan bernegara merupakan fungsi regulator.",
+      "difficulty": "EASY",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Regulator", "isCorrect": true },
+        { "text": "B. Provider", "isCorrect": false },
+        { "text": "C. Entrepreneur", "isCorrect": false },
+        { "text": "D. Umpire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara menjadi wasit yang adil dalam persaingan antara perusahaan negara dan swasta. Ini fungsi?",
+      "explanation": "Menjadi wasit yang adil bagi pelaku ekonomi, terutama antara sektor negara dan swasta, merupakan fungsi umpire.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Umpire", "isCorrect": true },
+        { "text": "B. Provider", "isCorrect": false },
+        { "text": "C. Regulator", "isCorrect": false },
+        { "text": "D. Entrepreneur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara menciptakan suasana kondusif bagi berkembangnya bidang usaha merupakan bagian dari fungsi?",
+      "explanation": "Menciptakan suasana kondusif bagi berkembangnya bidang usaha merupakan bagian fungsi entrepreneur.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Entrepreneur", "isCorrect": true },
+        { "text": "B. Provider", "isCorrect": false },
+        { "text": "C. Regulator", "isCorrect": false },
+        { "text": "D. Umpire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan bahwa 'tujuan negara ialah kebaikan untuk umat manusia' lebih menekankan dimensi negara sebagai?",
+      "explanation": "Pernyataan John Locke ini menekankan negara sebagai sarana untuk mencapai kebaikan dan kesejahteraan umat manusia, bukan alat kekuasaan semata.",
+      "difficulty": "HARD",
+      "tag": "Hakikat & Esensi Negara",
+      "options": [
+        { "text": "A. Sarana mencapai kebaikan umat manusia", "isCorrect": true },
+        { "text": "B. Alat penindas rakyat", "isCorrect": false },
+        { "text": "C. Lembaga keagamaan", "isCorrect": false },
+        { "text": "D. Organisasi militer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Esensi negara sebagai organisasi 'untuk mengurusi kepentingan bersama' menegaskan bahwa negara bukan untuk?",
+      "explanation": "Esensi ini menegaskan organisasi negara untuk kepentingan bersama, bukan untuk memenuhi kebutuhan khusus segolongan orang.",
+      "difficulty": "MEDIUM",
+      "tag": "Hakikat & Esensi Negara",
+      "options": [
+        { "text": "A. Memenuhi kebutuhan khusus segolongan orang", "isCorrect": true },
+        { "text": "B. Mengurus kepentingan umum", "isCorrect": false },
+        { "text": "C. Mencapai tujuan negara", "isCorrect": false },
+        { "text": "D. Menjalankan administrasi negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep warga negara dalam arti negara modern (nation-state) di Eropa mulai dikenal sejak perjanjian?",
+      "explanation": "Konsep warga negara dalam arti negara modern/nation-state dikenal sejak Perjanjian Westphalia 1648 di Eropa.",
+      "difficulty": "HARD",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. Westphalia 1648", "isCorrect": true },
+        { "text": "B. Montevideo 1933", "isCorrect": false },
+        { "text": "C. Versailles 1919", "isCorrect": false },
+        { "text": "D. Den Haag 1899", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi negara menurut MacIver menekankan adanya pemerintah yang diberi kekuasaan?",
+      "explanation": "Menurut MacIver, negara diselenggarakan oleh pemerintah yang untuk maksud penertiban tersebut diberi kekuasaan memaksa.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Negara Menurut Ahli",
+      "options": [
+        { "text": "A. Memaksa", "isCorrect": true },
+        { "text": "B. Terbatas", "isCorrect": false },
+        { "text": "C. Sukarela", "isCorrect": false },
+        { "text": "D. Sementara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unsur konstitutif negara menurut konsep ilmu politik yang TIDAK termasuk unsur menurut Konvensi Montevideo secara persis sama penyebutannya adalah?",
+      "explanation": "Konsep ilmu politik menyebut 'pengakuan negara lain' sebagai unsur, sedangkan Montevideo menyebut 'kemampuan mengadakan hubungan dengan negara lain'; keduanya berkaitan dengan dimensi eksternal/deklaratif.",
+      "difficulty": "HARD",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Pengakuan negara lain", "isCorrect": true },
+        { "text": "B. Penduduk", "isCorrect": false },
+        { "text": "C. Wilayah", "isCorrect": false },
+        { "text": "D. Pemerintah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penegasan bahwa peraturan negara berlaku tanpa kecuali bagi semua orang di wilayahnya menunjukkan negara bersifat?",
+      "explanation": "Penegasan tersebut menunjukkan sifat mencakup semua, di mana semua orang tunduk pada kekuasaan negara tanpa kecuali.",
+      "difficulty": "MEDIUM",
+      "tag": "Sifat Negara",
+      "options": [
+        { "text": "A. Mencakup semua", "isCorrect": true },
+        { "text": "B. Monopoli", "isCorrect": false },
+        { "text": "C. Deklaratif", "isCorrect": false },
+        { "text": "D. Konstitutif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber utama untuk konsep penduduk dalam materi unsur negara ini adalah pasal dalam?",
+      "explanation": "Konsep penduduk dirujuk dari UUD 1945 Pasal 26 ayat (2), yaitu WNI dan orang asing yang bertempat tinggal di Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Pendalaman Unsur Negara",
+      "options": [
+        { "text": "A. UUD 1945 Pasal 26 ayat (2)", "isCorrect": true },
+        { "text": "B. UUD 1945 Pasal 1 ayat (1)", "isCorrect": false },
+        { "text": "C. UU No. 12 Tahun 2006 Pasal 4", "isCorrect": false },
+        { "text": "D. Pancasila sila kelima", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keseluruhan empat unsur (penduduk, wilayah, pemerintah berdaulat, pengakuan) jika dipenuhi menjadikan suatu entitas dapat disebut?",
+      "explanation": "Apabila keempat unsur terpenuhi, suatu entitas dapat disebut negara secara penuh, baik secara konstitutif maupun deklaratif.",
+      "difficulty": "EASY",
+      "tag": "Unsur Konstitutif & Montevideo 1933",
+      "options": [
+        { "text": "A. Negara", "isCorrect": true },
+        { "text": "B. Organisasi sosial", "isCorrect": false },
+        { "text": "C. Perusahaan", "isCorrect": false },
+        { "text": "D. Lembaga adat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berbicara tentang warga negara biasanya juga terkait dengan masalah pemerintahan dan lembaga-lembaga negara seperti?",
+      "explanation": "Berbicara warga negara biasanya terkait dengan pemerintahan dan lembaga negara seperti DPR, pengadilan, dan kepresidenan.",
+      "difficulty": "MEDIUM",
+      "tag": "Warga Negara dalam Konteks Negara",
+      "options": [
+        { "text": "A. DPR, pengadilan, dan kepresidenan", "isCorrect": true },
+        { "text": "B. Perusahaan swasta dan koperasi", "isCorrect": false },
+        { "text": "C. Organisasi keagamaan", "isCorrect": false },
+        { "text": "D. Lembaga pendidikan tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara menetapkan standar adil dan menjadi penengah agar tidak terjadi persaingan tidak sehat. Fungsi ini paling tepat disebut?",
+      "explanation": "Menetapkan standar adil dan menjadi penengah persaingan ekonomi adalah fungsi umpire (wasit).",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Negara",
+      "options": [
+        { "text": "A. Umpire", "isCorrect": true },
+        { "text": "B. Provider", "isCorrect": false },
+        { "text": "C. Regulator", "isCorrect": false },
+        { "text": "D. Entrepreneur", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Warga negara dalam konteks negara", "back": "Keberadaan warga negara di dalam negara atau hubungan warga negara dengan negara; dianalogikan seperti SDM bagi organisasi.", "tag": "Warga Negara dalam Konteks Negara" },
+    { "front": "Negara menurut Roger H. Soltau", "back": "Alat atau wewenang yang mengatur/mengendalikan persoalan bersama atas nama masyarakat.", "tag": "Pengertian Negara Menurut Ahli" },
+    { "front": "Negara menurut Harold J. Laski", "back": "Masyarakat yang diintegrasikan karena memiliki wewenang yang bersifat memaksa dan secara sah lebih berkuasa daripada individu/kelompok.", "tag": "Pengertian Negara Menurut Ahli" },
+    { "front": "Negara menurut Robert M. MacIver", "back": "Asosiasi yang menyelenggarakan penertiban dalam masyarakat di suatu wilayah berdasarkan sistem hukum oleh pemerintah yang diberi kekuasaan memaksa.", "tag": "Pengertian Negara Menurut Ahli" },
+    { "front": "Negara menurut Miriam Budiardjo", "back": "Daerah yang penduduknya diperintah sejumlah pejabat dan berhasil menuntut kepatuhan pada peraturan melalui kontrol kekuasaan yang sah.", "tag": "Pengertian Negara Menurut Ahli" },
+    { "front": "Hakikat/esensi negara", "back": "Organisasi (statis maupun dinamis) untuk melaksanakan kekuasaan oleh badan negara guna mencapai tujuan negara (Sukarna).", "tag": "Hakikat & Esensi Negara" },
+    { "front": "Tujuan negara menurut John Locke", "back": "Kebaikan untuk umat manusia.", "tag": "Hakikat & Esensi Negara" },
+    { "front": "Unsur konstitutif negara", "back": "Penduduk, daerah/wilayah, dan pemerintah yang berdaulat — syarat mutlak berdirinya negara.", "tag": "Unsur Konstitutif & Montevideo 1933" },
+    { "front": "Unsur deklaratif negara", "back": "Pengakuan dari negara lain — bersifat melengkapi, bukan syarat mutlak.", "tag": "Unsur Konstitutif & Montevideo 1933" },
+    { "front": "Konvensi Montevideo 1933", "back": "Konvensi negara-negara Pan-Amerika yang menetapkan unsur negara: penduduk tetap, wilayah tertentu, pemerintah, dan kemampuan berhubungan dengan negara lain.", "tag": "Unsur Konstitutif & Montevideo 1933" },
+    { "front": "Penduduk (UUD 1945 Pasal 26 ayat 2)", "back": "Warga negara Indonesia dan orang asing yang bertempat tinggal di Indonesia (meliputi WNI dan WNA).", "tag": "Pendalaman Unsur Negara" },
+    { "front": "Penduduk vs bukan penduduk", "back": "Penduduk tinggal dalam jangka lama; bukan penduduk tinggal sementara (jangka pendek), misalnya wisatawan.", "tag": "Pendalaman Unsur Negara" },
+    { "front": "Wilayah negara (hukum internasional)", "back": "Terdiri atas wilayah darat, laut, udara, dan wilayah konvensional; batas ditentukan lewat perjanjian dan keadaan alam.", "tag": "Pendalaman Unsur Negara" },
+    { "front": "Pemerintah arti sempit vs luas", "back": "Sempit: kepala negara (eksekutif). Luas: keseluruhan alat negara — legislatif, eksekutif, yudikatif.", "tag": "Pendalaman Unsur Negara" },
+    { "front": "Kedaulatan ke dalam vs ke luar", "back": "Ke dalam: kewenangan tertinggi mengatur negara. Ke luar: bebas, tidak tunduk pada kekuasaan lain.", "tag": "Pendalaman Unsur Negara" },
+    { "front": "Sifat negara (Miriam Budiardjo)", "back": "Memaksa, monopoli, dan mencakup semua.", "tag": "Sifat Negara" },
+    { "front": "Sifat memaksa", "back": "Negara berhak memaksakan peraturan agar ditaati seluruh warga, didukung tentara, polisi, hakim, jaksa, dan sanksi tegas.", "tag": "Sifat Negara" },
+    { "front": "Sifat monopoli", "back": "Negara berwenang mengelola/menentukan tindakan tanpa kewenangan sama di pihak lain (mis. menetapkan tujuan masyarakat, SDA, sarana kekerasan).", "tag": "Sifat Negara" },
+    { "front": "Sifat mencakup semua", "back": "Kekuasaan negara berlaku bagi semua orang di wilayahnya tanpa kecuali; tak ada yang bisa mengecualikan diri.", "tag": "Sifat Negara" },
+    { "front": "Tujuan negara RI (Pembukaan UUD 1945)", "back": "Melindungi segenap bangsa, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia.", "tag": "Tujuan Negara" },
+    { "front": "Tujuan negara menurut Soltau & Laski", "back": "Soltau: rakyat berkembang & berkreasi sebebas mungkin. Laski: rakyat mencapai keinginannya secara maksimal.", "tag": "Tujuan Negara" },
+    { "front": "Fungsi negara (Friedman)", "back": "Provider (jaminan sosial), Regulator (aturan), Entrepreneur (BUMN), Umpire (wasit/standar adil ekonomi).", "tag": "Fungsi Negara" }
+  ],
+  "mindmap": [
+    { "id": "hakikat-unsur-negara", "label": "Hakikat & Unsur Negara", "color": "#6366f1", "parent": null, "content": "Materi tentang keberadaan warga negara dalam konteks negara, hakikat negara, unsur pembentuk, sifat, tujuan, dan fungsi negara." },
+
+    { "id": "warga-negara-konteks", "label": "Warga Negara dalam Konteks Negara", "color": "#8b5cf6", "parent": "hakikat-unsur-negara", "content": "Keberadaan dan hubungan warga negara dengan negaranya; saling terkait dan tidak terpisahkan." },
+    { "id": "wn-analogi-sdm", "label": "Analogi SDM", "color": "#8b5cf6", "parent": "warga-negara-konteks", "content": "Warga negara bagi negara seperti SDM bagi organisasi; SDM menentukan keberhasilan organisasi." },
+    { "id": "wn-eksistensi", "label": "Eksistensi Negara", "color": "#8b5cf6", "parent": "warga-negara-konteks", "content": "Tanpa perspektif & komitmen warga negara, eksistensi negara dapat terganggu." },
+    { "id": "wn-nation-state", "label": "Nation-State", "color": "#8b5cf6", "parent": "warga-negara-konteks", "content": "Konsep warga negara modern dikenal sejak Perjanjian Westphalia 1648 di Eropa." },
+
+    { "id": "pengertian-ahli", "label": "Pengertian Negara Menurut Ahli", "color": "#0ea5e9", "parent": "hakikat-unsur-negara", "content": "Berbagai definisi negara dari para ahli, banyak bersumber dari Miriam Budiardjo (2017)." },
+    { "id": "pa-soltau", "label": "Soltau", "color": "#0ea5e9", "parent": "pengertian-ahli", "content": "Negara adalah alat/wewenang yang mengatur persoalan bersama atas nama masyarakat." },
+    { "id": "pa-laski", "label": "Laski", "color": "#0ea5e9", "parent": "pengertian-ahli", "content": "Negara adalah masyarakat terintegrasi dengan wewenang memaksa yang sah lebih berkuasa dari individu/kelompok." },
+    { "id": "pa-maciver", "label": "MacIver", "color": "#0ea5e9", "parent": "pengertian-ahli", "content": "Negara adalah asosiasi penyelenggara penertiban berdasarkan sistem hukum oleh pemerintah berkuasa memaksa." },
+    { "id": "pa-budiardjo", "label": "Budiardjo", "color": "#0ea5e9", "parent": "pengertian-ahli", "content": "Negara adalah daerah yang penduduknya diperintah pejabat dan patuh pada peraturan melalui kekuasaan yang sah." },
+
+    { "id": "hakikat-esensi", "label": "Hakikat & Esensi Negara", "color": "#10b981", "parent": "hakikat-unsur-negara", "content": "Negara sebagai organisasi (statis & dinamis) untuk melaksanakan kekuasaan demi mencapai tujuan negara." },
+    { "id": "he-organisasi", "label": "Organisasi Kepentingan Bersama", "color": "#10b981", "parent": "hakikat-esensi", "content": "Negara adalah alat untuk mengurusi kepentingan bersama, bukan kebutuhan khusus segolongan orang." },
+    { "id": "he-locke", "label": "John Locke", "color": "#10b981", "parent": "hakikat-esensi", "content": "Tujuan negara ialah kebaikan untuk umat manusia." },
+
+    { "id": "unsur-montevideo", "label": "Unsur & Montevideo 1933", "color": "#f59e0b", "parent": "hakikat-unsur-negara", "content": "Unsur konstitutif (mutlak) dan deklaratif (pengakuan), serta unsur negara menurut Konvensi Montevideo 1933." },
+    { "id": "um-konstitutif", "label": "Unsur Konstitutif", "color": "#f59e0b", "parent": "unsur-montevideo", "content": "Penduduk, wilayah, dan pemerintah berdaulat — syarat mutlak berdirinya negara." },
+    { "id": "um-deklaratif", "label": "Unsur Deklaratif", "color": "#f59e0b", "parent": "unsur-montevideo", "content": "Pengakuan dari negara lain; melengkapi, bukan syarat mutlak berdirinya negara." },
+    { "id": "um-montevideo", "label": "Konvensi Montevideo 1933", "color": "#f59e0b", "parent": "unsur-montevideo", "content": "Konvensi Pan-Amerika: penduduk tetap, wilayah tertentu, pemerintah, dan kemampuan berhubungan dengan negara lain." },
+
+    { "id": "pendalaman-unsur", "label": "Pendalaman Unsur Negara", "color": "#ef4444", "parent": "hakikat-unsur-negara", "content": "Penjelasan rinci unsur penduduk, wilayah, pemerintah berdaulat, dan pengakuan." },
+    { "id": "pu-penduduk", "label": "Penduduk", "color": "#ef4444", "parent": "pendalaman-unsur", "content": "WNI dan orang asing yang bertempat tinggal di Indonesia (UUD 1945 Pasal 26 ayat 2)." },
+    { "id": "pu-penduduk-bukan", "label": "Penduduk vs Bukan", "color": "#ef4444", "parent": "pu-penduduk", "content": "Penduduk tinggal lama; bukan penduduk tinggal sementara, misalnya wisatawan." },
+    { "id": "pu-wilayah", "label": "Wilayah", "color": "#ef4444", "parent": "pendalaman-unsur", "content": "Terdiri atas darat, laut, udara, dan konvensional; batas via perjanjian & keadaan alam." },
+    { "id": "pu-pemerintah", "label": "Pemerintah Berdaulat", "color": "#ef4444", "parent": "pendalaman-unsur", "content": "Arti sempit eksekutif; arti luas legislatif-eksekutif-yudikatif; berdaulat ke dalam & ke luar." },
+    { "id": "pu-pengakuan", "label": "Pengakuan", "color": "#ef4444", "parent": "pendalaman-unsur", "content": "Pengakuan negara lain (diplomatik) penting untuk hubungan internasional; ada de facto & de jure." },
+
+    { "id": "sifat-negara", "label": "Sifat Negara", "color": "#ec4899", "parent": "hakikat-unsur-negara", "content": "Tiga sifat negara menurut Miriam Budiardjo: memaksa, monopoli, mencakup semua." },
+    { "id": "sn-memaksa", "label": "Memaksa", "color": "#ec4899", "parent": "sifat-negara", "content": "Negara berhak memaksakan peraturan agar ditaati, didukung tentara, polisi, hakim, jaksa, & sanksi tegas." },
+    { "id": "sn-monopoli", "label": "Monopoli", "color": "#ec4899", "parent": "sifat-negara", "content": "Kewenangan mengelola tanpa pihak lain: tujuan masyarakat, SDA penting, sarana kekerasan." },
+    { "id": "sn-mencakup", "label": "Mencakup Semua", "color": "#ec4899", "parent": "sifat-negara", "content": "Kekuasaan negara berlaku bagi semua orang di wilayahnya tanpa kecuali." },
+
+    { "id": "tujuan-negara", "label": "Tujuan Negara", "color": "#14b8a6", "parent": "hakikat-unsur-negara", "content": "Tujuan negara secara umum (Soltau, Laski) dan tujuan negara RI dalam Pembukaan UUD 1945." },
+    { "id": "tn-umum", "label": "Tujuan Umum", "color": "#14b8a6", "parent": "tujuan-negara", "content": "Soltau: rakyat berkembang & berkreasi bebas. Laski: rakyat mencapai keinginannya maksimal." },
+    { "id": "tn-ri", "label": "Tujuan Negara RI", "color": "#14b8a6", "parent": "tujuan-negara", "content": "Melindungi bangsa, memajukan kesejahteraan umum, mencerdaskan bangsa, ikut menjaga ketertiban dunia." },
+
+    { "id": "fungsi-negara", "label": "Fungsi Negara", "color": "#8b5cf6", "parent": "hakikat-unsur-negara", "content": "Empat fungsi negara menurut Friedman: provider, regulator, entrepreneur, umpire." },
+    { "id": "fn-provider", "label": "Provider", "color": "#8b5cf6", "parent": "fungsi-negara", "content": "Menjamin standar minimum kehidupan dan memberikan jaminan sosial." },
+    { "id": "fn-regulator", "label": "Regulator", "color": "#8b5cf6", "parent": "fungsi-negara", "content": "Mengadakan aturan kehidupan bernegara." },
+    { "id": "fn-entrepreneur", "label": "Entrepreneur", "color": "#8b5cf6", "parent": "fungsi-negara", "content": "Menjalankan sektor ekonomi via BUMN/daerah & menciptakan suasana kondusif usaha." },
+    { "id": "fn-umpire", "label": "Umpire", "color": "#8b5cf6", "parent": "fungsi-negara", "content": "Menetapkan standar adil bagi pelaku ekonomi, terutama antara sektor negara & swasta." }
+  ]
+}

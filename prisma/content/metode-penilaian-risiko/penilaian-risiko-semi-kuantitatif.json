@@ -1,0 +1,1530 @@
+{
+  "topic": "Identifikasi Bahaya dan Penilaian Risiko Semi Kuantitatif",
+  "order": 6,
+  "description": "Penilaian risiko semi kuantitatif menggabungkan pendekatan kualitatif dan kuantitatif dengan memberi skor pada faktor probabilitas, paparan, dan konsekuensi untuk memperoleh tingkat risiko. Hasil skor digunakan untuk mengkategorikan, memprioritaskan, dan merekomendasikan tindakan pengendalian bahaya di industri.",
+  "subtopics": [
+    "Pengertian Penilaian Risiko Semi Kuantitatif",
+    "Identifikasi Bahaya di Industri",
+    "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+    "Perhitungan & Kategorisasi Tingkat Risiko",
+    "Analisis & Rekomendasi Pengendalian",
+    "Penyusunan Makalah & Presentasi Case Method"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan penilaian risiko semi kuantitatif?",
+      "explanation": "Penilaian risiko semi kuantitatif menggabungkan pendekatan kualitatif dan kuantitatif dengan memberi nilai/skor pada faktor risiko lalu mengolahnya menjadi tingkat risiko.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Penilaian yang hanya menggunakan kata sifat seperti tinggi-rendah tanpa angka", "isCorrect": false },
+        { "text": "B. Penilaian yang menggabungkan deskripsi kualitatif dengan pemberian nilai/skor numerik", "isCorrect": true },
+        { "text": "C. Penilaian yang sepenuhnya menggunakan rumus statistik probabilitas murni", "isCorrect": false },
+        { "text": "D. Penilaian yang hanya mengandalkan intuisi pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko semi kuantitatif berada di antara dua pendekatan, yaitu?",
+      "explanation": "Semi kuantitatif merupakan jembatan antara pendekatan kualitatif (deskriptif) dan kuantitatif (numerik penuh).",
+      "difficulty": "EASY",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Kualitatif dan kuantitatif", "isCorrect": true },
+        { "text": "B. Reaktif dan proaktif", "isCorrect": false },
+        { "text": "C. Internal dan eksternal", "isCorrect": false },
+        { "text": "D. Statis dan dinamis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada metode penilaian risiko kualitatif, tingkat risiko dinyatakan dengan?",
+      "explanation": "Metode kualitatif menyatakan risiko dengan kategori deskriptif seperti rendah, sedang, dan tinggi tanpa nilai numerik.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Angka pasti dalam rupiah", "isCorrect": false },
+        { "text": "B. Kategori deskriptif seperti rendah, sedang, tinggi", "isCorrect": true },
+        { "text": "C. Probabilitas statistik per tahun", "isCorrect": false },
+        { "text": "D. Frekuensi kejadian per jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko kuantitatif penuh memerlukan?",
+      "explanation": "Metode kuantitatif memerlukan data numerik yang akurat seperti frekuensi statistik, probabilitas, dan nilai konsekuensi terukur.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Penilaian subjektif tanpa data", "isCorrect": false },
+        { "text": "B. Data numerik dan statistik yang akurat", "isCorrect": true },
+        { "text": "C. Hanya pendapat pekerja", "isCorrect": false },
+        { "text": "D. Foto kondisi tidak aman saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kelebihan metode semi kuantitatif dibanding kualitatif murni adalah?",
+      "explanation": "Pemberian skor numerik membuat prioritas risiko lebih objektif dan mudah dibandingkan/diurutkan daripada deskripsi kata semata.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Tidak memerlukan data sama sekali", "isCorrect": false },
+        { "text": "B. Prioritas risiko lebih objektif dan dapat diperingkat dengan angka", "isCorrect": true },
+        { "text": "C. Menghilangkan kebutuhan pengendalian", "isCorrect": false },
+        { "text": "D. Selalu menghasilkan risiko rendah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko (risk) dalam konteks K3 secara umum didefinisikan sebagai?",
+      "explanation": "Risiko adalah kombinasi antara kemungkinan terjadinya suatu kejadian berbahaya dengan tingkat keparahan/konsekuensinya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Sumber yang berpotensi menimbulkan cedera", "isCorrect": false },
+        { "text": "B. Kombinasi kemungkinan kejadian dan tingkat keparahan konsekuensinya", "isCorrect": true },
+        { "text": "C. Jumlah pekerja di area kerja", "isCorrect": false },
+        { "text": "D. Biaya produksi per unit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara bahaya (hazard) dan risiko (risk) adalah?",
+      "explanation": "Bahaya adalah sumber/potensi menimbulkan kerugian, sedangkan risiko adalah kemungkinan dan keparahan kerugian yang ditimbulkan bahaya tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Keduanya sama dan dapat dipertukarkan", "isCorrect": false },
+        { "text": "B. Bahaya adalah sumber potensi kerugian, risiko adalah kemungkinan dan keparahannya", "isCorrect": true },
+        { "text": "C. Bahaya selalu lebih besar dari risiko", "isCorrect": false },
+        { "text": "D. Risiko hanya ada pada mesin, bahaya hanya pada manusia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahapan manajemen risiko secara umum dimulai dengan?",
+      "explanation": "Manajemen risiko diawali dengan identifikasi bahaya, lalu analisis/penilaian risiko, evaluasi, dan pengendalian risiko.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Pengendalian risiko", "isCorrect": false },
+        { "text": "B. Identifikasi bahaya", "isCorrect": true },
+        { "text": "C. Penutupan ijin kerja", "isCorrect": false },
+        { "text": "D. Evaluasi biaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah identifikasi bahaya, tahap berikutnya dalam manajemen risiko adalah?",
+      "explanation": "Urutan: identifikasi bahaya, analisis/penilaian risiko (assessment), evaluasi risiko, lalu pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Penilaian (assessment) risiko", "isCorrect": true },
+        { "text": "B. Penutupan laporan", "isCorrect": false },
+        { "text": "C. Pemecatan pekerja", "isCorrect": false },
+        { "text": "D. Pembuatan poster", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko semi kuantitatif paling tepat digunakan ketika?",
+      "explanation": "Metode semi kuantitatif cocok ketika data kuantitatif penuh tidak tersedia namun diperlukan prioritas risiko yang lebih objektif daripada kualitatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Data statistik lengkap dan akurat tersedia", "isCorrect": false },
+        { "text": "B. Data kuantitatif penuh terbatas namun perlu prioritas yang lebih objektif", "isCorrect": true },
+        { "text": "C. Tidak ada bahaya sama sekali", "isCorrect": false },
+        { "text": "D. Hanya untuk pekerjaan kantor tanpa risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama penilaian risiko adalah?",
+      "explanation": "Penilaian risiko bertujuan menentukan tingkat risiko sehingga dapat diprioritaskan dan dikendalikan secara tepat.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Menghukum pekerja yang lalai", "isCorrect": false },
+        { "text": "B. Menentukan tingkat risiko untuk diprioritaskan dan dikendalikan", "isCorrect": true },
+        { "text": "C. Meningkatkan jumlah produksi", "isCorrect": false },
+        { "text": "D. Mengurangi jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya (hazard) di tempat kerja didefinisikan sebagai?",
+      "explanation": "Bahaya adalah segala sesuatu (sumber, situasi, atau aktivitas) yang berpotensi menimbulkan cedera atau kerugian.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Kejadian yang sudah pasti terjadi", "isCorrect": false },
+        { "text": "B. Sumber atau situasi yang berpotensi menimbulkan cedera/kerugian", "isCorrect": true },
+        { "text": "C. Biaya kompensasi kecelakaan", "isCorrect": false },
+        { "text": "D. Hasil akhir penilaian risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya yang berasal dari mesin bising, getaran, dan radiasi termasuk jenis bahaya?",
+      "explanation": "Kebisingan, getaran, suhu ekstrem, dan radiasi termasuk kelompok bahaya fisik (physical hazard).",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Bahaya kimia", "isCorrect": false },
+        { "text": "B. Bahaya fisik", "isCorrect": true },
+        { "text": "C. Bahaya biologi", "isCorrect": false },
+        { "text": "D. Bahaya psikososial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan terhadap bakteri, virus, dan jamur di tempat kerja termasuk bahaya?",
+      "explanation": "Mikroorganisme seperti bakteri, virus, dan jamur termasuk kelompok bahaya biologi.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Bahaya fisik", "isCorrect": false },
+        { "text": "B. Bahaya kimia", "isCorrect": false },
+        { "text": "C. Bahaya biologi", "isCorrect": true },
+        { "text": "D. Bahaya ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Postur kerja janggal, gerakan berulang, dan pengangkatan beban berlebih termasuk bahaya?",
+      "explanation": "Postur janggal, gerakan repetitif, dan beban berlebih merupakan bahaya ergonomi yang berhubungan dengan kesesuaian kerja dengan tubuh manusia.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Bahaya ergonomi", "isCorrect": true },
+        { "text": "B. Bahaya kimia", "isCorrect": false },
+        { "text": "C. Bahaya biologi", "isCorrect": false },
+        { "text": "D. Bahaya mekanik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja, beban kerja berlebih, dan konflik di tempat kerja termasuk bahaya?",
+      "explanation": "Stres, beban kerja berlebih, dan konflik termasuk bahaya psikososial yang memengaruhi kesehatan mental pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Bahaya fisik", "isCorrect": false },
+        { "text": "B. Bahaya psikososial", "isCorrect": true },
+        { "text": "C. Bahaya kimia", "isCorrect": false },
+        { "text": "D. Bahaya listrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan gas beracun, uap pelarut, dan debu kimia termasuk jenis bahaya?",
+      "explanation": "Gas beracun, uap pelarut, debu, dan cairan korosif termasuk kelompok bahaya kimia.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Bahaya kimia", "isCorrect": true },
+        { "text": "B. Bahaya fisik", "isCorrect": false },
+        { "text": "C. Bahaya biologi", "isCorrect": false },
+        { "text": "D. Bahaya ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi tidak aman (unsafe condition) adalah?",
+      "explanation": "Kondisi tidak aman adalah keadaan lingkungan/peralatan kerja yang berpotensi menimbulkan kecelakaan, misalnya lantai licin atau mesin tanpa pelindung.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Perilaku pekerja yang melanggar prosedur", "isCorrect": false },
+        { "text": "B. Keadaan lingkungan/peralatan yang berpotensi menimbulkan kecelakaan", "isCorrect": true },
+        { "text": "C. Hasil akhir penilaian risiko", "isCorrect": false },
+        { "text": "D. Jadwal kerja yang padat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tindakan tidak aman (unsafe act) adalah?",
+      "explanation": "Tindakan tidak aman adalah perilaku/tindakan pekerja yang menyimpang dari prosedur aman, misalnya tidak memakai APD atau bekerja tanpa ijin.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Perilaku pekerja yang menyimpang dari prosedur aman", "isCorrect": true },
+        { "text": "B. Lantai yang licin", "isCorrect": false },
+        { "text": "C. Pencahayaan yang kurang", "isCorrect": false },
+        { "text": "D. Mesin tanpa pelindung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu metode identifikasi bahaya dengan menguraikan pekerjaan menjadi langkah-langkah adalah?",
+      "explanation": "JSA (Job Safety Analysis) menguraikan pekerjaan menjadi langkah-langkah, mengidentifikasi bahaya tiap langkah, lalu menentukan pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. JSA (Job Safety Analysis)", "isCorrect": true },
+        { "text": "B. Audiometri", "isCorrect": false },
+        { "text": "C. Spirometri", "isCorrect": false },
+        { "text": "D. Kalibrasi alat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode identifikasi bahaya yang menggunakan guide word pada parameter proses adalah?",
+      "explanation": "HAZOP menggunakan guide word (mis. NO, MORE, LESS) terhadap parameter proses untuk menganalisis penyimpangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. JSA", "isCorrect": false },
+        { "text": "B. HAZOP", "isCorrect": true },
+        { "text": "C. Audiometri", "isCorrect": false },
+        { "text": "D. Noise mapping", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HIRADC merupakan singkatan dari?",
+      "explanation": "HIRADC = Hazard Identification, Risk Assessment and Determining Control, yaitu identifikasi bahaya, penilaian risiko, dan penentuan pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Hazard Identification, Risk Assessment and Determining Control", "isCorrect": true },
+        { "text": "B. Hazard Inspection, Risk Audit and Daily Control", "isCorrect": false },
+        { "text": "C. Health Improvement, Risk Analysis and Disease Control", "isCorrect": false },
+        { "text": "D. Hazard Index, Rating Assessment and Direct Command", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam identifikasi bahaya, langkah pertama yang dilakukan adalah?",
+      "explanation": "Langkah awal identifikasi bahaya adalah mengamati/menginventarisasi aktivitas dan area kerja untuk menemukan sumber bahaya.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Menghitung skor risiko", "isCorrect": false },
+        { "text": "B. Mengamati aktivitas dan area kerja untuk menemukan sumber bahaya", "isCorrect": true },
+        { "text": "C. Menutup ijin kerja", "isCorrect": false },
+        { "text": "D. Membeli APD baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya yang ditimbulkan oleh listrik bertegangan, kabel terkelupas, dan korsleting termasuk?",
+      "explanation": "Listrik bertegangan, kabel terkelupas, dan korsleting termasuk bahaya listrik (electrical hazard).",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Bahaya listrik", "isCorrect": true },
+        { "text": "B. Bahaya biologi", "isCorrect": false },
+        { "text": "C. Bahaya ergonomi", "isCorrect": false },
+        { "text": "D. Bahaya psikososial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya terjepit, terpotong, dan terbentur bagian mesin bergerak termasuk jenis bahaya?",
+      "explanation": "Terjepit, terpotong, dan terbentur bagian mesin bergerak termasuk bahaya mekanik (mechanical hazard).",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Bahaya kimia", "isCorrect": false },
+        { "text": "B. Bahaya mekanik", "isCorrect": true },
+        { "text": "C. Bahaya biologi", "isCorrect": false },
+        { "text": "D. Bahaya psikososial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber informasi identifikasi bahaya dapat diperoleh dari, kecuali?",
+      "explanation": "Identifikasi bahaya bersumber dari observasi lapangan, data kecelakaan, MSDS, dan wawancara; warna seragam pekerja bukan sumber identifikasi bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Observasi lapangan", "isCorrect": false },
+        { "text": "B. Data kecelakaan terdahulu", "isCorrect": false },
+        { "text": "C. Warna seragam pekerja", "isCorrect": true },
+        { "text": "D. Lembar data keselamatan bahan (MSDS)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya yang baik harus mempertimbangkan kondisi operasi?",
+      "explanation": "Identifikasi bahaya harus mencakup kondisi normal, abnormal, dan keadaan darurat agar bahaya tidak terlewat.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Hanya kondisi normal", "isCorrect": false },
+        { "text": "B. Normal, abnormal, dan keadaan darurat", "isCorrect": true },
+        { "text": "C. Hanya saat istirahat", "isCorrect": false },
+        { "text": "D. Hanya saat shift malam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada metode Fine, faktor yang dinilai untuk menghitung risiko adalah?",
+      "explanation": "Metode William T. Fine menilai tiga faktor: Consequence (konsekuensi), Exposure (paparan), dan Probability (probabilitas).",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Konsekuensi, paparan, dan probabilitas", "isCorrect": true },
+        { "text": "B. Biaya, waktu, dan mutu", "isCorrect": false },
+        { "text": "C. Suhu, kelembapan, dan tekanan", "isCorrect": false },
+        { "text": "D. Frekuensi, amplitudo, dan periode", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rumus tingkat risiko menurut metode William T. Fine adalah?",
+      "explanation": "Metode Fine: Risk = Consequence × Exposure × Probability (R = C × E × P).",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Risk = Consequence + Exposure + Probability", "isCorrect": false },
+        { "text": "B. Risk = Consequence × Exposure × Probability", "isCorrect": true },
+        { "text": "C. Risk = Consequence ÷ Exposure ÷ Probability", "isCorrect": false },
+        { "text": "D. Risk = Consequence − Exposure − Probability", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode Fine, faktor Consequence (konsekuensi) menggambarkan?",
+      "explanation": "Consequence menggambarkan tingkat keparahan akibat/kerugian yang ditimbulkan bila kejadian terjadi.",
+      "difficulty": "EASY",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Seberapa sering pekerja terpapar", "isCorrect": false },
+        { "text": "B. Tingkat keparahan akibat/kerugian bila kejadian terjadi", "isCorrect": true },
+        { "text": "C. Kemungkinan kejadian terjadi", "isCorrect": false },
+        { "text": "D. Jumlah pekerja di area kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode Fine, faktor Exposure (paparan) menggambarkan?",
+      "explanation": "Exposure menggambarkan frekuensi/seberapa sering pekerja terpapar atau berada pada situasi berbahaya tersebut.",
+      "difficulty": "EASY",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Frekuensi/seberapa sering terpapar situasi berbahaya", "isCorrect": true },
+        { "text": "B. Tingkat keparahan cedera", "isCorrect": false },
+        { "text": "C. Biaya pengendalian", "isCorrect": false },
+        { "text": "D. Jenis APD yang dipakai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode Fine, faktor Probability (probabilitas) menggambarkan?",
+      "explanation": "Probability menggambarkan kemungkinan/peluang bahwa kejadian berbahaya benar-benar menimbulkan kerugian saat paparan terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Tingkat keparahan akhir", "isCorrect": false },
+        { "text": "B. Kemungkinan kejadian menimbulkan kerugian saat paparan terjadi", "isCorrect": true },
+        { "text": "C. Lama waktu pemulihan", "isCorrect": false },
+        { "text": "D. Jumlah mesin di pabrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada penilaian risiko semi kuantitatif, masing-masing faktor diberi?",
+      "explanation": "Setiap faktor (konsekuensi, paparan, probabilitas) diberi nilai/skor sesuai skala tertentu, lalu diolah menjadi tingkat risiko.",
+      "difficulty": "EASY",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Warna acak", "isCorrect": false },
+        { "text": "B. Nilai/skor sesuai skala tertentu", "isCorrect": true },
+        { "text": "C. Nomor urut pekerja", "isCorrect": false },
+        { "text": "D. Tanggal kejadian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode Fine, semakin tinggi nilai Consequence berarti?",
+      "explanation": "Nilai Consequence yang lebih tinggi menunjukkan keparahan/akibat yang lebih besar, misalnya dari cedera ringan hingga fatal/bencana.",
+      "difficulty": "EASY",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Akibat/keparahan yang ditimbulkan semakin besar", "isCorrect": true },
+        { "text": "B. Pekerja semakin jarang terpapar", "isCorrect": false },
+        { "text": "C. Risiko semakin rendah", "isCorrect": false },
+        { "text": "D. Biaya pengendalian semakin murah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada skala Exposure metode Fine, paparan yang terjadi terus-menerus (continuously) diberi nilai?",
+      "explanation": "Paparan terus-menerus (continuously) diberi skor tertinggi pada skala Exposure, sedangkan paparan sangat jarang diberi skor terendah.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Skor terendah", "isCorrect": false },
+        { "text": "B. Skor tertinggi", "isCorrect": true },
+        { "text": "C. Nol", "isCorrect": false },
+        { "text": "D. Skor negatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko semi kuantitatif sering menggunakan matriks dua dimensi yaitu?",
+      "explanation": "Matriks risiko umumnya menyilangkan likelihood (kemungkinan) dengan severity/consequence (keparahan) untuk menentukan tingkat risiko.",
+      "difficulty": "EASY",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Likelihood (kemungkinan) dan severity (keparahan)", "isCorrect": true },
+        { "text": "B. Suhu dan tekanan", "isCorrect": false },
+        { "text": "C. Biaya dan waktu", "isCorrect": false },
+        { "text": "D. Jumlah pekerja dan jumlah mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam matriks risiko 5×5, sumbu likelihood biasanya berisi kategori dari?",
+      "explanation": "Sumbu likelihood matriks 5×5 umumnya bertingkat dari sangat jarang (rare) hingga hampir pasti (almost certain).",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Sangat jarang hingga hampir pasti", "isCorrect": true },
+        { "text": "B. Merah hingga hijau", "isCorrect": false },
+        { "text": "C. Pagi hingga malam", "isCorrect": false },
+        { "text": "D. Murah hingga mahal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam matriks risiko, sumbu severity (konsekuensi) biasanya bertingkat dari?",
+      "explanation": "Sumbu severity umumnya dari tidak signifikan/ringan (insignificant) hingga katastropik/bencana (catastrophic).",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Tidak signifikan hingga katastropik", "isCorrect": true },
+        { "text": "B. Hijau hingga biru", "isCorrect": false },
+        { "text": "C. Cepat hingga lambat", "isCorrect": false },
+        { "text": "D. Kecil hingga besar ukuran ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian skor pada penilaian semi kuantitatif sebaiknya didasarkan pada?",
+      "explanation": "Skor sebaiknya didasarkan pada kriteria/skala yang telah ditetapkan dan disepakati agar konsisten dan dapat ditelusuri.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Perasaan saat itu", "isCorrect": false },
+        { "text": "B. Kriteria/skala yang telah ditetapkan dan disepakati", "isCorrect": true },
+        { "text": "C. Urutan abjad nama pekerja", "isCorrect": false },
+        { "text": "D. Warna favorit penilai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada metode Fine, faktor paparan yang terjadi 'kadang-kadang/sekali sehari' dinilai dibanding paparan terus-menerus akan?",
+      "explanation": "Paparan yang lebih jarang mendapat skor lebih rendah daripada paparan terus-menerus, sehingga menurunkan tingkat risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Mendapat skor lebih rendah", "isCorrect": true },
+        { "text": "B. Mendapat skor lebih tinggi", "isCorrect": false },
+        { "text": "C. Selalu sama dengan konsekuensi", "isCorrect": false },
+        { "text": "D. Tidak diberi skor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode Fine, kejadian dengan konsekuensi 'catastrophe' (banyak korban/kerugian sangat besar) diberi skor?",
+      "explanation": "Konsekuensi katastropik (banyak korban/kerugian sangat besar) diberi skor konsekuensi tertinggi pada skala Fine.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Terendah", "isCorrect": false },
+        { "text": "B. Tertinggi", "isCorrect": true },
+        { "text": "C. Nol", "isCorrect": false },
+        { "text": "D. Negatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Skala penilaian likelihood/probabilitas dalam metode semi kuantitatif umumnya berupa?",
+      "explanation": "Skala likelihood biasanya berupa tingkatan/peringkat numerik (misal 1 sampai 5 atau nilai Fine) yang mencerminkan peluang kejadian.",
+      "difficulty": "EASY",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Tingkatan numerik yang mencerminkan peluang kejadian", "isCorrect": true },
+        { "text": "B. Hanya satu nilai tetap untuk semua bahaya", "isCorrect": false },
+        { "text": "C. Nama hari kerja", "isCorrect": false },
+        { "text": "D. Kode warna seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada penilaian semi kuantitatif, agar penilaian objektif, pemberian skor sebaiknya dilakukan oleh?",
+      "explanation": "Pemberian skor sebaiknya melibatkan tim/orang yang kompeten dan memahami proses kerja agar lebih objektif dan akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Satu orang tanpa pengetahuan proses", "isCorrect": false },
+        { "text": "B. Tim/orang kompeten yang memahami proses kerja", "isCorrect": true },
+        { "text": "C. Pengunjung yang baru datang", "isCorrect": false },
+        { "text": "D. Mesin secara otomatis tanpa data", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode Fine, jika sebuah pekerjaan memiliki C = 5, E = 6, dan P = 3, maka nilai risikonya adalah?",
+      "explanation": "Risk = C × E × P = 5 × 6 × 3 = 90.",
+      "difficulty": "HARD",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. 14", "isCorrect": false },
+        { "text": "B. 90", "isCorrect": true },
+        { "text": "C. 45", "isCorrect": false },
+        { "text": "D. 30", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks risiko, jika likelihood diberi nilai 4 dan severity diberi nilai 5, maka skor risiko (perkalian) adalah?",
+      "explanation": "Skor risiko = likelihood × severity = 4 × 5 = 20.",
+      "difficulty": "MEDIUM",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. 9", "isCorrect": false },
+        { "text": "B. 20", "isCorrect": true },
+        { "text": "C. 1", "isCorrect": false },
+        { "text": "D. 25", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode Fine, nilai risiko yang sangat tinggi menandakan tindakan yang harus diambil adalah?",
+      "explanation": "Nilai risiko sangat tinggi pada metode Fine menuntut penghentian aktivitas dan perbaikan segera sebelum pekerjaan dilanjutkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Diabaikan karena masih aman", "isCorrect": false },
+        { "text": "B. Hentikan aktivitas dan lakukan perbaikan segera", "isCorrect": true },
+        { "text": "C. Cukup dicatat tanpa tindakan", "isCorrect": false },
+        { "text": "D. Tunggu hingga ada kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah skor risiko dihitung, langkah berikutnya adalah?",
+      "explanation": "Skor risiko yang diperoleh kemudian dikategorikan ke dalam tingkat risiko (mis. rendah, sedang, tinggi, ekstrem) untuk menentukan prioritas.",
+      "difficulty": "EASY",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Mengkategorikan skor ke dalam tingkat risiko", "isCorrect": true },
+        { "text": "B. Langsung menutup laporan", "isCorrect": false },
+        { "text": "C. Menghapus data bahaya", "isCorrect": false },
+        { "text": "D. Mengganti seluruh pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tingkat risiko hasil kategorisasi digunakan terutama untuk?",
+      "explanation": "Kategorisasi tingkat risiko digunakan untuk memprioritaskan bahaya mana yang harus dikendalikan lebih dahulu.",
+      "difficulty": "EASY",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Memprioritaskan pengendalian bahaya", "isCorrect": true },
+        { "text": "B. Menghitung gaji pekerja", "isCorrect": false },
+        { "text": "C. Menentukan jam istirahat", "isCorrect": false },
+        { "text": "D. Memilih warna seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks risiko, kategori risiko ekstrem/tinggi biasanya diberi kode warna?",
+      "explanation": "Risiko ekstrem/tinggi umumnya diberi warna merah, sedang warna kuning, dan rendah warna hijau pada matriks risiko.",
+      "difficulty": "EASY",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Merah", "isCorrect": true },
+        { "text": "B. Hijau", "isCorrect": false },
+        { "text": "C. Putih", "isCorrect": false },
+        { "text": "D. Biru muda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks risiko, kategori risiko rendah biasanya diberi kode warna?",
+      "explanation": "Risiko rendah umumnya diberi warna hijau, menandakan masih dapat diterima dengan pemantauan rutin.",
+      "difficulty": "EASY",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Merah", "isCorrect": false },
+        { "text": "B. Hijau", "isCorrect": true },
+        { "text": "C. Hitam", "isCorrect": false },
+        { "text": "D. Ungu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko yang masih dapat ditoleransi setelah pengendalian disebut risiko?",
+      "explanation": "Risiko sisa setelah pengendalian diterapkan disebut risiko residual (residual risk).",
+      "difficulty": "MEDIUM",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Risiko awal", "isCorrect": false },
+        { "text": "B. Risiko residual", "isCorrect": true },
+        { "text": "C. Risiko nol", "isCorrect": false },
+        { "text": "D. Risiko maksimum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko yang dinilai sebelum diterapkan pengendalian apa pun disebut risiko?",
+      "explanation": "Risiko sebelum pengendalian disebut risiko awal/murni (initial atau inherent risk).",
+      "difficulty": "MEDIUM",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Risiko awal/murni (inherent)", "isCorrect": true },
+        { "text": "B. Risiko residual", "isCorrect": false },
+        { "text": "C. Risiko terkendali", "isCorrect": false },
+        { "text": "D. Risiko hilang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode Fine, jika C = 1 (cedera ringan), E = 1 (jarang), P = 1 (hampir tidak mungkin), maka nilai risiko adalah?",
+      "explanation": "Risk = 1 × 1 × 1 = 1, menandakan tingkat risiko sangat rendah.",
+      "difficulty": "MEDIUM",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. 0", "isCorrect": false },
+        { "text": "B. 1", "isCorrect": true },
+        { "text": "C. 3", "isCorrect": false },
+        { "text": "D. 100", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika dua bahaya memiliki skor risiko 60 dan 200, maka yang harus diprioritaskan untuk dikendalikan adalah?",
+      "explanation": "Skor risiko lebih tinggi (200) menunjukkan risiko lebih besar sehingga harus diprioritaskan untuk dikendalikan terlebih dahulu.",
+      "difficulty": "EASY",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Bahaya dengan skor 60", "isCorrect": false },
+        { "text": "B. Bahaya dengan skor 200", "isCorrect": true },
+        { "text": "C. Keduanya tidak perlu", "isCorrect": false },
+        { "text": "D. Tidak dapat ditentukan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada metode Fine, faktor pertimbangan biaya (cost factor) digunakan saat menghitung?",
+      "explanation": "Metode Fine memiliki rumus justifikasi pengendalian yang mempertimbangkan faktor biaya dan derajat koreksi untuk menilai kelayakan tindakan pengendalian.",
+      "difficulty": "HARD",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Justifikasi/kelayakan tindakan pengendalian", "isCorrect": true },
+        { "text": "B. Jumlah pekerja masuk kerja", "isCorrect": false },
+        { "text": "C. Frekuensi audiometri", "isCorrect": false },
+        { "text": "D. Warna peta risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep ALARP dalam penilaian risiko berarti?",
+      "explanation": "ALARP (As Low As Reasonably Practicable) berarti risiko diturunkan serendah mungkin yang masih wajar secara praktis dan biaya.",
+      "difficulty": "HARD",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Risiko dibiarkan setinggi mungkin", "isCorrect": false },
+        { "text": "B. Risiko diturunkan serendah mungkin yang masih wajar secara praktis", "isCorrect": true },
+        { "text": "C. Risiko diabaikan jika murah", "isCorrect": false },
+        { "text": "D. Risiko dipindahkan ke pekerja lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tingkat risiko yang berada pada kategori 'dapat diterima' (acceptable) berarti?",
+      "explanation": "Risiko yang dapat diterima cukup dikelola dengan pemantauan rutin dan prosedur normal tanpa tindakan tambahan mendesak.",
+      "difficulty": "MEDIUM",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Harus dihentikan total", "isCorrect": false },
+        { "text": "B. Cukup dikelola dengan pemantauan rutin", "isCorrect": true },
+        { "text": "C. Selalu menimbulkan kematian", "isCorrect": false },
+        { "text": "D. Tidak boleh dicatat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam metode Fine, urutan tindakan berdasarkan tingkat risiko dari rendah ke tinggi adalah?",
+      "explanation": "Semakin tinggi nilai risiko Fine, semakin mendesak tindakannya: dari pemantauan, perlu perhatian, perlu perbaikan, hingga penghentian aktivitas segera.",
+      "difficulty": "HARD",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Pemantauan, perhatian, perbaikan, hentikan segera", "isCorrect": true },
+        { "text": "B. Hentikan segera, perbaikan, perhatian, pemantauan", "isCorrect": false },
+        { "text": "C. Tidak ada tindakan apa pun di semua tingkat", "isCorrect": false },
+        { "text": "D. Selalu langsung hentikan untuk semua tingkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks 5×5, skor risiko 1 (likelihood 1 × severity 1) termasuk kategori?",
+      "explanation": "Skor 1 berada di sudut terendah matriks, termasuk kategori risiko rendah (low).",
+      "difficulty": "MEDIUM",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Risiko rendah", "isCorrect": true },
+        { "text": "B. Risiko ekstrem", "isCorrect": false },
+        { "text": "C. Risiko tinggi", "isCorrect": false },
+        { "text": "D. Risiko sedang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan kategorisasi tingkat risiko menjadi rendah, sedang, tinggi, dan ekstrem adalah?",
+      "explanation": "Kategorisasi memudahkan komunikasi, pengambilan keputusan, dan penentuan prioritas serta jenis tindakan pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Memudahkan keputusan dan prioritas pengendalian", "isCorrect": true },
+        { "text": "B. Memperumit laporan", "isCorrect": false },
+        { "text": "C. Menambah biaya tanpa manfaat", "isCorrect": false },
+        { "text": "D. Menyembunyikan bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah tingkat risiko diketahui, langkah analisis berikutnya adalah?",
+      "explanation": "Setelah tingkat risiko diketahui, dilakukan analisis dan penyusunan rekomendasi tindakan pengendalian sesuai prioritas.",
+      "difficulty": "EASY",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Menyusun rekomendasi tindakan pengendalian", "isCorrect": true },
+        { "text": "B. Menghapus seluruh data", "isCorrect": false },
+        { "text": "C. Mengganti seluruh mesin tanpa analisis", "isCorrect": false },
+        { "text": "D. Membubarkan tim K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hierarki pengendalian risiko dari yang paling efektif ke paling kurang efektif adalah?",
+      "explanation": "Hierarki: Eliminasi, Substitusi, Pengendalian rekayasa (engineering), Pengendalian administratif, lalu APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. APD, administratif, rekayasa, substitusi, eliminasi", "isCorrect": false },
+        { "text": "B. Eliminasi, substitusi, rekayasa, administratif, APD", "isCorrect": true },
+        { "text": "C. Rekayasa, eliminasi, APD, substitusi, administratif", "isCorrect": false },
+        { "text": "D. Substitusi, APD, eliminasi, rekayasa, administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menghilangkan sumber bahaya sepenuhnya dari proses kerja termasuk pengendalian?",
+      "explanation": "Menghilangkan total sumber bahaya adalah eliminasi, tingkat pengendalian yang paling efektif.",
+      "difficulty": "EASY",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": true },
+        { "text": "B. APD", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengganti bahan kimia berbahaya dengan bahan yang lebih aman termasuk pengendalian?",
+      "explanation": "Mengganti sumber bahaya dengan yang lebih rendah risikonya adalah pengendalian substitusi.",
+      "difficulty": "EASY",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Substitusi", "isCorrect": true },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memasang pelindung mesin (machine guarding) dan sistem ventilasi termasuk pengendalian?",
+      "explanation": "Pelindung mesin dan ventilasi mengubah kondisi fisik untuk mengurangi bahaya, termasuk pengendalian rekayasa (engineering).",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Pengendalian rekayasa (engineering)", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Membuat SOP, jadwal rotasi kerja, dan pelatihan keselamatan termasuk pengendalian?",
+      "explanation": "SOP, rotasi kerja, rambu, dan pelatihan mengatur cara/waktu kerja sehingga termasuk pengendalian administratif.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Pengendalian administratif", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Rekayasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian helm, sarung tangan, dan kacamata pelindung termasuk pengendalian?",
+      "explanation": "Helm, sarung tangan, dan kacamata adalah APD yang berada di posisi paling bawah hierarki pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. APD (Alat Pelindung Diri)", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Rekayasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alasan APD ditempatkan paling akhir dalam hierarki pengendalian adalah?",
+      "explanation": "APD hanya melindungi individu tanpa mengurangi sumber bahaya, dan efektivitasnya tergantung kedisiplinan pemakaian.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Karena hanya melindungi individu tanpa mengurangi sumber bahaya", "isCorrect": true },
+        { "text": "B. Karena paling mahal", "isCorrect": false },
+        { "text": "C. Karena menghilangkan bahaya sepenuhnya", "isCorrect": false },
+        { "text": "D. Karena tidak diperlukan sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rekomendasi pengendalian yang baik sebaiknya bersifat?",
+      "explanation": "Rekomendasi sebaiknya spesifik, realistis, dapat dilaksanakan, dan sesuai dengan tingkat risiko yang dinilai.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Spesifik, realistis, dan dapat dilaksanakan", "isCorrect": true },
+        { "text": "B. Umum dan tidak terukur", "isCorrect": false },
+        { "text": "C. Mustahil dilakukan", "isCorrect": false },
+        { "text": "D. Tidak berkaitan dengan bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah pengendalian diterapkan, perlu dilakukan?",
+      "explanation": "Setelah pengendalian, dilakukan evaluasi/pemantauan ulang untuk memastikan risiko residual sudah dapat diterima dan pengendalian efektif.",
+      "difficulty": "EASY",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Evaluasi dan pemantauan ulang efektivitas pengendalian", "isCorrect": true },
+        { "text": "B. Penghapusan dokumen", "isCorrect": false },
+        { "text": "C. Penghentian seluruh produksi selamanya", "isCorrect": false },
+        { "text": "D. Tidak ada tindak lanjut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada penilaian semi kuantitatif, pengendalian yang efektif akan menurunkan?",
+      "explanation": "Pengendalian efektif menurunkan skor risiko (umumnya melalui penurunan likelihood dan/atau consequence), menghasilkan risiko residual lebih rendah.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Skor risiko menjadi risiko residual yang lebih rendah", "isCorrect": true },
+        { "text": "B. Jumlah pekerja", "isCorrect": false },
+        { "text": "C. Tinggi gedung", "isCorrect": false },
+        { "text": "D. Warna lantai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian administratif yang mengatur lama pekerja berada di area bahaya bertujuan menurunkan faktor?",
+      "explanation": "Membatasi durasi/seringnya pekerja di area bahaya terutama menurunkan faktor paparan (exposure).",
+      "difficulty": "HARD",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Faktor paparan (exposure)", "isCorrect": true },
+        { "text": "B. Konsekuensi cedera", "isCorrect": false },
+        { "text": "C. Warna peta", "isCorrect": false },
+        { "text": "D. Biaya seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi beberapa lapis pengendalian (engineering + administratif + APD) disebut pendekatan?",
+      "explanation": "Penggunaan beberapa lapis pengendalian sekaligus disebut pendekatan berlapis/defense in depth untuk menutup celah satu pengendalian.",
+      "difficulty": "HARD",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Pendekatan pengendalian berlapis (defense in depth)", "isCorrect": true },
+        { "text": "B. Pendekatan tunggal", "isCorrect": false },
+        { "text": "C. Pendekatan tanpa pengendalian", "isCorrect": false },
+        { "text": "D. Pendekatan acak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam analisis hasil penilaian risiko, bahaya dengan kategori ekstrem sebaiknya?",
+      "explanation": "Bahaya ekstrem perlu pengendalian segera dan tidak boleh dilanjutkan sampai risiko diturunkan ke tingkat yang dapat diterima.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Ditangani segera sebelum pekerjaan dilanjutkan", "isCorrect": true },
+        { "text": "B. Diabaikan", "isCorrect": false },
+        { "text": "C. Dijadwalkan tahun depan", "isCorrect": false },
+        { "text": "D. Dicatat tanpa tindakan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rekomendasi pengendalian dalam laporan Case Method sebaiknya mengacu pada?",
+      "explanation": "Rekomendasi pengendalian sebaiknya mengikuti hierarki pengendalian dan disesuaikan dengan tingkat risiko yang ditemukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Hierarki pengendalian dan tingkat risiko", "isCorrect": true },
+        { "text": "B. Selera pribadi penulis", "isCorrect": false },
+        { "text": "C. Warna sampul makalah", "isCorrect": false },
+        { "text": "D. Jumlah halaman maksimal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memilih pengendalian dengan hanya memberi APD pada risiko ekstrem umumnya dianggap?",
+      "explanation": "Mengandalkan APD saja pada risiko ekstrem kurang memadai karena APD berada di bawah hierarki; sebaiknya dikombinasikan dengan pengendalian yang lebih tinggi.",
+      "difficulty": "HARD",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Kurang memadai dan perlu dikombinasikan pengendalian lebih tinggi", "isCorrect": true },
+        { "text": "B. Sudah paling efektif", "isCorrect": false },
+        { "text": "C. Menghilangkan seluruh bahaya", "isCorrect": false },
+        { "text": "D. Tidak perlu pengendalian lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Judul Case Method (CM) yang dilaksanakan mahasiswa di industri pada topik ini adalah?",
+      "explanation": "Judul CM yang dilaksanakan adalah 'Identifikasi Bahaya dan Penilaian Risiko Semi Kuantitatif' di industri.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Identifikasi Bahaya dan Penilaian Risiko Semi Kuantitatif", "isCorrect": true },
+        { "text": "B. Penyusunan Formulir Ijin Kerja", "isCorrect": false },
+        { "text": "C. Pengukuran Kebisingan Lingkungan", "isCorrect": false },
+        { "text": "D. Analisis Iklim Kerja Panas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian Case Method (CM) didasarkan pada?",
+      "explanation": "Penilaian CM didasarkan pada makalah yang dikumpulkan secara berkelompok, serta presentasi dan tanya jawab.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Makalah kelompok, presentasi, serta pertanyaan dan jawaban", "isCorrect": true },
+        { "text": "B. Kehadiran semata", "isCorrect": false },
+        { "text": "C. Nilai ujian tertulis individu", "isCorrect": false },
+        { "text": "D. Jumlah foto yang diunggah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian Pendahuluan dalam makalah Case Method memuat?",
+      "explanation": "Pendahuluan memuat latar belakang, tujuan, dan manfaat penulisan makalah.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Latar belakang, tujuan, dan manfaat", "isCorrect": true },
+        { "text": "B. Daftar pustaka saja", "isCorrect": false },
+        { "text": "C. Hanya kesimpulan", "isCorrect": false },
+        { "text": "D. Notulensi diskusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan susunan makalah Case Method yang benar adalah?",
+      "explanation": "Susunan makalah: Cover, Daftar Isi, Pendahuluan, Tinjauan Pustaka, Hasil dan Pembahasan, Kesimpulan dan Saran, lalu Daftar Pustaka.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Cover, Daftar Isi, Pendahuluan, Tinjauan Pustaka, Hasil dan Pembahasan, Kesimpulan dan Saran, Daftar Pustaka", "isCorrect": true },
+        { "text": "B. Kesimpulan, Pendahuluan, Cover, Daftar Pustaka", "isCorrect": false },
+        { "text": "C. Daftar Pustaka, Cover, Pembahasan, Pendahuluan", "isCorrect": false },
+        { "text": "D. Hasil, Cover, Saran, Tinjauan Pustaka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada bagian Hasil dan Pembahasan makalah CM, yang dibahas antara lain?",
+      "explanation": "Hasil dan Pembahasan memuat gambaran umum lokasi, hasil identifikasi bahaya dan penilaian risiko semi kuantitatif, serta analisis dan rekomendasi pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Gambaran lokasi, hasil identifikasi & penilaian risiko, analisis & rekomendasi pengendalian", "isCorrect": true },
+        { "text": "B. Hanya daftar nama anggota", "isCorrect": false },
+        { "text": "C. Hanya cover dan daftar isi", "isCorrect": false },
+        { "text": "D. Hanya jadwal kuliah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Total waktu presentasi setiap kelompok pada praktik presentasi hasil CM adalah?",
+      "explanation": "Total waktu presentasi setiap kelompok adalah 15 menit, dengan tanya jawab 10 menit.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. 5 menit", "isCorrect": false },
+        { "text": "B. 15 menit", "isCorrect": true },
+        { "text": "C. 30 menit", "isCorrect": false },
+        { "text": "D. 60 menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Waktu tanya jawab pada presentasi hasil Case Method setiap kelompok adalah?",
+      "explanation": "Tanya jawab dialokasikan 10 menit setelah presentasi 15 menit per kelompok.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. 10 menit", "isCorrect": true },
+        { "text": "B. 2 menit", "isCorrect": false },
+        { "text": "C. 25 menit", "isCorrect": false },
+        { "text": "D. 45 menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan kelompok yang melakukan presentasi hasil CM adalah?",
+      "explanation": "Presentasi dilakukan secara berkelompok urut dari kelompok 4, 3, 2, dan 1.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Kelompok 4, 3, 2, 1", "isCorrect": true },
+        { "text": "B. Kelompok 1, 2, 3, 4", "isCorrect": false },
+        { "text": "C. Acak", "isCorrect": false },
+        { "text": "D. Hanya kelompok 1", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Laporan Case Method dikumpulkan lengkap dengan?",
+      "explanation": "Laporan CM dikumpulkan lengkap dengan notulensi diskusi yang mencatat presentasi, pertanyaan, dan jawaban.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Notulensi diskusi", "isCorrect": true },
+        { "text": "B. Daftar belanja", "isCorrect": false },
+        { "text": "C. Foto liburan", "isCorrect": false },
+        { "text": "D. Jadwal ujian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa yang mencatat hasil presentasi, pertanyaan, dan jawaban dalam laporan CM?",
+      "explanation": "Koordinator masing-masing kelompok mencatat hasil presentasi, pertanyaan, dan jawaban di dalam laporan CM.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Koordinator masing-masing kelompok", "isCorrect": true },
+        { "text": "B. Petugas kebersihan", "isCorrect": false },
+        { "text": "C. Tamu undangan", "isCorrect": false },
+        { "text": "D. Tidak ada yang mencatat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jadwal pelaksanaan CM tiap kelas akan dibagikan oleh?",
+      "explanation": "Jadwal CM tiap kelas akan dishare oleh tim laboratorium K3.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Tim laboratorium K3", "isCorrect": true },
+        { "text": "B. Mahasiswa secara mandiri", "isCorrect": false },
+        { "text": "C. Pihak industri", "isCorrect": false },
+        { "text": "D. Orang tua mahasiswa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian makalah yang berisi teori-teori pendukung penilaian risiko semi kuantitatif adalah?",
+      "explanation": "Tinjauan Pustaka berisi teori-teori pendukung, termasuk konsep penilaian risiko semi kuantitatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Tinjauan Pustaka", "isCorrect": true },
+        { "text": "B. Cover", "isCorrect": false },
+        { "text": "C. Daftar Isi", "isCorrect": false },
+        { "text": "D. Kesimpulan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mahasiswa wajib mengikuti Case Method?",
+      "explanation": "Mahasiswa wajib mengikuti CM sesuai jadwal yang ditentukan, dan penilaian berdasarkan makalah kelompok.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Sesuai jadwal yang ditentukan", "isCorrect": true },
+        { "text": "B. Kapan saja sesuka hati", "isCorrect": false },
+        { "text": "C. Tanpa kehadiran", "isCorrect": false },
+        { "text": "D. Hanya bila ingin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya dalam penilaian semi kuantitatif sebaiknya dilakukan?",
+      "explanation": "Identifikasi bahaya sebaiknya dilakukan menyeluruh pada setiap aktivitas/tahapan pekerjaan agar tidak ada bahaya yang terlewat sebelum diberi skor.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Menyeluruh pada setiap aktivitas/tahapan pekerjaan", "isCorrect": true },
+        { "text": "B. Hanya pada satu mesin saja", "isCorrect": false },
+        { "text": "C. Hanya saat ada inspeksi", "isCorrect": false },
+        { "text": "D. Setelah terjadi kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada metode Fine, jika nilai Probability menunjukkan kejadian 'sangat mungkin terjadi', maka skornya cenderung?",
+      "explanation": "Probabilitas kejadian yang sangat mungkin terjadi mendapat skor tinggi, sehingga menaikkan tingkat risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Tinggi", "isCorrect": true },
+        { "text": "B. Nol", "isCorrect": false },
+        { "text": "C. Negatif", "isCorrect": false },
+        { "text": "D. Selalu satu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila skor konsekuensi naik sedangkan paparan dan probabilitas tetap, maka nilai risiko Fine akan?",
+      "explanation": "Karena R = C × E × P, menaikkan salah satu faktor (C) dengan faktor lain tetap akan menaikkan nilai risiko total.",
+      "difficulty": "HARD",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Naik", "isCorrect": true },
+        { "text": "B. Turun", "isCorrect": false },
+        { "text": "C. Tetap", "isCorrect": false },
+        { "text": "D. Menjadi nol", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kelemahan penilaian risiko semi kuantitatif adalah?",
+      "explanation": "Pemberian skor masih mengandung unsur subjektivitas penilai, sehingga hasil dapat berbeda antar penilai bila kriteria tidak baku.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Masih ada unsur subjektivitas dalam pemberian skor", "isCorrect": true },
+        { "text": "B. Tidak dapat menghasilkan angka", "isCorrect": false },
+        { "text": "C. Tidak bisa membandingkan risiko", "isCorrect": false },
+        { "text": "D. Selalu memerlukan superkomputer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam matriks risiko, kategori risiko sedang (moderate) umumnya diberi warna?",
+      "explanation": "Risiko sedang umumnya diberi warna kuning, di antara hijau (rendah) dan merah (tinggi/ekstrem).",
+      "difficulty": "EASY",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Kuning", "isCorrect": true },
+        { "text": "B. Hijau", "isCorrect": false },
+        { "text": "C. Merah", "isCorrect": false },
+        { "text": "D. Hitam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko semi kuantitatif menghasilkan nilai risiko yang dapat?",
+      "explanation": "Hasil skor risiko dapat diperingkat/diurutkan sehingga prioritas pengendalian dapat ditetapkan secara objektif.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Diperingkat untuk menentukan prioritas pengendalian", "isCorrect": true },
+        { "text": "B. Diabaikan begitu saja", "isCorrect": false },
+        { "text": "C. Hanya digunakan untuk hiasan", "isCorrect": false },
+        { "text": "D. Mengganti kebutuhan APD selamanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut termasuk faktor yang dinilai pada metode semi kuantitatif Fine, kecuali?",
+      "explanation": "Faktor yang dinilai pada metode Fine adalah konsekuensi, paparan, dan probabilitas; warna seragam bukan faktor penilaian.",
+      "difficulty": "EASY",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Konsekuensi", "isCorrect": false },
+        { "text": "B. Paparan", "isCorrect": false },
+        { "text": "C. Warna seragam pekerja", "isCorrect": true },
+        { "text": "D. Probabilitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada metode Fine, jika C = 15 (fatal/satu kematian), E = 3 (kadang-kadang), dan P = 6 (sangat mungkin), maka nilai risikonya adalah?",
+      "explanation": "Risk = C × E × P = 15 × 3 × 6 = 270.",
+      "difficulty": "HARD",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. 24", "isCorrect": false },
+        { "text": "B. 270", "isCorrect": true },
+        { "text": "C. 90", "isCorrect": false },
+        { "text": "D. 45", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tinjauan pustaka pada makalah CM penilaian risiko semi kuantitatif sebaiknya memuat konsep?",
+      "explanation": "Tinjauan pustaka memuat konsep identifikasi bahaya, penilaian risiko (likelihood, exposure, consequence), dan hierarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Konsep identifikasi bahaya, penilaian risiko, dan hierarki pengendalian", "isCorrect": true },
+        { "text": "B. Resep masakan", "isCorrect": false },
+        { "text": "C. Sejarah kampus", "isCorrect": false },
+        { "text": "D. Daftar harga saham", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya yang hanya melihat kondisi tanpa mempertimbangkan tindakan pekerja akan?",
+      "explanation": "Mengabaikan tindakan tidak aman (unsafe act) membuat identifikasi tidak lengkap, sehingga sebagian sumber bahaya tidak terdeteksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Tidak lengkap karena melewatkan tindakan tidak aman", "isCorrect": true },
+        { "text": "B. Lebih akurat", "isCorrect": false },
+        { "text": "C. Menghilangkan seluruh risiko", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada penilaian risiko, dua bahaya bisa memiliki tingkat risiko sama meskipun konsekuensi dan kemungkinannya berbeda karena?",
+      "explanation": "Karena tingkat risiko adalah hasil perkalian/kombinasi, kombinasi konsekuensi tinggi-kemungkinan rendah bisa setara dengan konsekuensi rendah-kemungkinan tinggi.",
+      "difficulty": "HARD",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Hasil kombinasi/perkalian faktornya bisa menghasilkan nilai sama", "isCorrect": true },
+        { "text": "B. Semua bahaya selalu sama persis", "isCorrect": false },
+        { "text": "C. Tingkat risiko tidak pernah dihitung", "isCorrect": false },
+        { "text": "D. Konsekuensi tidak berpengaruh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian risiko yang menargetkan penurunan keparahan (consequence) misalnya?",
+      "explanation": "Penurunan keparahan misalnya pemasangan sistem tanggap darurat, alarm, dan emergency stop yang membatasi dampak bila kejadian terjadi.",
+      "difficulty": "HARD",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Sistem tanggap darurat, alarm, dan emergency stop", "isCorrect": true },
+        { "text": "B. Mengubah warna dinding", "isCorrect": false },
+        { "text": "C. Menambah jam istirahat", "isCorrect": false },
+        { "text": "D. Mengganti logo perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Format makalah CM mengharuskan adanya Daftar Pustaka yang berfungsi untuk?",
+      "explanation": "Daftar Pustaka mencantumkan sumber rujukan yang digunakan agar makalah dapat dipertanggungjawabkan dan ditelusuri.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Mencantumkan sumber rujukan yang digunakan", "isCorrect": true },
+        { "text": "B. Menambah jumlah halaman saja", "isCorrect": false },
+        { "text": "C. Menggantikan kesimpulan", "isCorrect": false },
+        { "text": "D. Menyembunyikan sumber", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam penilaian risiko semi kuantitatif, langkah yang benar setelah identifikasi bahaya dan sebelum rekomendasi pengendalian adalah?",
+      "explanation": "Setelah identifikasi bahaya, dilakukan penilaian risiko (pemberian skor dan perhitungan tingkat risiko) sebelum menyusun rekomendasi pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Penilaian risiko (skor dan perhitungan tingkat risiko)", "isCorrect": true },
+        { "text": "B. Penutupan ijin kerja", "isCorrect": false },
+        { "text": "C. Pemeriksaan audiometri", "isCorrect": false },
+        { "text": "D. Pengukuran suhu ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Skala konsekuensi yang membedakan 'cedera ringan (P3K)', 'cedera serius', dan 'kematian' menunjukkan bahwa konsekuensi dinilai berdasarkan?",
+      "explanation": "Konsekuensi dinilai berdasarkan tingkat keparahan dampak terhadap manusia (dan dapat pula properti/lingkungan), dari ringan hingga fatal.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Tingkat keparahan dampak", "isCorrect": true },
+        { "text": "B. Warna lantai", "isCorrect": false },
+        { "text": "C. Jumlah mesin", "isCorrect": false },
+        { "text": "D. Lama istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat membuat peta/tabel hasil penilaian risiko semi kuantitatif adalah?",
+      "explanation": "Tabel/peta risiko memudahkan komunikasi hasil, memantau perubahan risiko, dan mendokumentasikan prioritas pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Memudahkan komunikasi dan dokumentasi prioritas pengendalian", "isCorrect": true },
+        { "text": "B. Menambah kebisingan", "isCorrect": false },
+        { "text": "C. Menghapus kebutuhan inspeksi", "isCorrect": false },
+        { "text": "D. Mengganti SOP", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada metode Fine, perbedaan utama dengan matriks kualitatif sederhana adalah metode Fine?",
+      "explanation": "Metode Fine menambahkan faktor paparan (exposure) selain konsekuensi dan probabilitas, sehingga lebih rinci dari matriks dua dimensi biasa.",
+      "difficulty": "HARD",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Menambahkan faktor paparan (exposure) selain konsekuensi dan probabilitas", "isCorrect": true },
+        { "text": "B. Tidak menggunakan angka", "isCorrect": false },
+        { "text": "C. Hanya menilai konsekuensi", "isCorrect": false },
+        { "text": "D. Mengabaikan probabilitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari rangkaian identifikasi bahaya dan penilaian risiko semi kuantitatif di industri adalah?",
+      "explanation": "Tujuan akhirnya adalah mengendalikan risiko sehingga kecelakaan dan penyakit akibat kerja dapat dicegah/diminimalkan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Mengendalikan risiko untuk mencegah kecelakaan dan PAK", "isCorrect": true },
+        { "text": "B. Menambah jumlah bahaya", "isCorrect": false },
+        { "text": "C. Memperbanyak dokumen tanpa tujuan", "isCorrect": false },
+        { "text": "D. Mengurangi gaji pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila hasil penilaian menunjukkan risiko sedang yang belum dapat diturunkan ke rendah, tindakan yang tepat adalah?",
+      "explanation": "Risiko sedang ditangani dengan menetapkan pengendalian terjadwal dan pemantauan berkala hingga risiko dapat ditekan ke tingkat yang dapat diterima.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Menetapkan pengendalian terjadwal dan pemantauan berkala", "isCorrect": true },
+        { "text": "B. Menghentikan pemantauan", "isCorrect": false },
+        { "text": "C. Menaikkan risiko menjadi tinggi", "isCorrect": false },
+        { "text": "D. Mengabaikan sepenuhnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas observasi kondisi dan tindakan tidak aman berperan dalam penilaian risiko sebagai dasar untuk?",
+      "explanation": "Observasi kondisi dan tindakan tidak aman menjadi dasar identifikasi bahaya sebelum dilakukan penilaian dan pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Identifikasi bahaya", "isCorrect": true },
+        { "text": "B. Penutupan ijin kerja", "isCorrect": false },
+        { "text": "C. Penyusunan gaji", "isCorrect": false },
+        { "text": "D. Pemilihan warna seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko semi kuantitatif lebih disukai daripada kuantitatif penuh dalam praktik lapangan karena?",
+      "explanation": "Semi kuantitatif lebih praktis dan cepat diterapkan saat data lengkap untuk metode kuantitatif penuh sulit/biaya tinggi diperoleh.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Lebih praktis dan cepat ketika data lengkap sulit diperoleh", "isCorrect": true },
+        { "text": "B. Karena tidak memerlukan identifikasi bahaya", "isCorrect": false },
+        { "text": "C. Karena menghasilkan risiko nol", "isCorrect": false },
+        { "text": "D. Karena tanpa skor sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada metode Fine, jika nilai risiko sebuah aktivitas berada pada kategori 'risiko substansial perlu perbaikan', tindakan yang sesuai adalah?",
+      "explanation": "Kategori risiko substansial menuntut perbaikan/pengendalian dalam waktu yang ditentukan, tidak harus menghentikan total tetapi tidak boleh diabaikan.",
+      "difficulty": "HARD",
+      "tag": "Perhitungan & Kategorisasi Tingkat Risiko",
+      "options": [
+        { "text": "A. Lakukan perbaikan dalam waktu yang ditentukan", "isCorrect": true },
+        { "text": "B. Abaikan selamanya", "isCorrect": false },
+        { "text": "C. Tambah jam kerja", "isCorrect": false },
+        { "text": "D. Hapus laporan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen 'Determining Control' pada HIRADC sejalan dengan tahap penilaian risiko semi kuantitatif berupa?",
+      "explanation": "Determining Control sejalan dengan tahap penentuan/rekomendasi tindakan pengendalian berdasarkan hierarki dan tingkat risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Penentuan/rekomendasi tindakan pengendalian", "isCorrect": true },
+        { "text": "B. Identifikasi bahaya awal", "isCorrect": false },
+        { "text": "C. Pengukuran kebisingan", "isCorrect": false },
+        { "text": "D. Penjadwalan presentasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam menilai risiko semi kuantitatif, gambaran umum lokasi di makalah CM berguna untuk?",
+      "explanation": "Gambaran umum lokasi memberi konteks proses kerja sehingga identifikasi bahaya dan penilaian risiko relevan dengan kondisi nyata industri.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Memberi konteks proses kerja agar penilaian relevan", "isCorrect": true },
+        { "text": "B. Menambah jumlah kata tanpa makna", "isCorrect": false },
+        { "text": "C. Menggantikan rekomendasi", "isCorrect": false },
+        { "text": "D. Menghapus daftar pustaka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang hubungan paparan (exposure) dan tingkat risiko pada metode Fine?",
+      "explanation": "Karena risiko = C × E × P, semakin sering paparan (E lebih besar), tingkat risiko cenderung lebih tinggi bila faktor lain tetap.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Semakin sering paparan, tingkat risiko cenderung lebih tinggi", "isCorrect": true },
+        { "text": "B. Paparan tidak memengaruhi risiko", "isCorrect": false },
+        { "text": "C. Paparan tinggi selalu menurunkan risiko", "isCorrect": false },
+        { "text": "D. Paparan hanya untuk kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip penting agar penilaian risiko semi kuantitatif konsisten antar penilai adalah?",
+      "explanation": "Penggunaan kriteria skala yang baku dan terdokumentasi membuat penilaian lebih konsisten meskipun dilakukan oleh penilai berbeda.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Menggunakan kriteria skala baku yang terdokumentasi", "isCorrect": true },
+        { "text": "B. Menilai berdasarkan suasana hati", "isCorrect": false },
+        { "text": "C. Mengubah skala setiap kali menilai", "isCorrect": false },
+        { "text": "D. Tidak mencatat dasar penilaian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya jatuh dari ketinggian pada pekerjaan pembersihan kaca gedung bertingkat, bila dinilai semi kuantitatif, umumnya memiliki konsekuensi?",
+      "explanation": "Jatuh dari ketinggian berpotensi fatal sehingga skor konsekuensinya tinggi, menjadikan tingkat risikonya cenderung besar.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Tinggi karena berpotensi fatal", "isCorrect": true },
+        { "text": "B. Selalu nol", "isCorrect": false },
+        { "text": "C. Tidak relevan", "isCorrect": false },
+        { "text": "D. Selalu ringan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rekomendasi pengendalian untuk bahaya jatuh dari ketinggian yang paling tepat dari hierarki adalah?",
+      "explanation": "Untuk bahaya jatuh, kombinasi rekayasa (pagar pengaman, platform) lebih tinggi daripada hanya mengandalkan APD seperti body harness, sehingga diutamakan.",
+      "difficulty": "HARD",
+      "tag": "Analisis & Rekomendasi Pengendalian",
+      "options": [
+        { "text": "A. Pengendalian rekayasa seperti pagar/platform, didukung APD body harness", "isCorrect": true },
+        { "text": "B. Hanya memberi nasihat lisan", "isCorrect": false },
+        { "text": "C. Membiarkan tanpa pengaman", "isCorrect": false },
+        { "text": "D. Mengganti warna gedung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam penilaian risiko semi kuantitatif, faktor paparan untuk pekerja yang hanya sesekali masuk area berbahaya akan menurunkan?",
+      "explanation": "Paparan yang jarang menurunkan skor exposure, yang pada gilirannya menurunkan nilai/tingkat risiko keseluruhan.",
+      "difficulty": "MEDIUM",
+      "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)",
+      "options": [
+        { "text": "A. Skor exposure dan tingkat risiko keseluruhan", "isCorrect": true },
+        { "text": "B. Nilai konsekuensi menjadi nol", "isCorrect": false },
+        { "text": "C. Jumlah halaman makalah", "isCorrect": false },
+        { "text": "D. Warna matriks", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko semi kuantitatif perlu ditinjau ulang (review) secara berkala karena?",
+      "explanation": "Kondisi kerja, proses, dan bahaya dapat berubah, sehingga penilaian risiko perlu ditinjau ulang agar tetap relevan dan akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Penilaian Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Kondisi kerja dan bahaya dapat berubah seiring waktu", "isCorrect": true },
+        { "text": "B. Untuk menghapus seluruh data", "isCorrect": false },
+        { "text": "C. Agar risiko selalu nol", "isCorrect": false },
+        { "text": "D. Agar laporan lebih tebal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada presentasi hasil CM, penilaian praktik didasarkan pada laporan CM, presentasi, serta?",
+      "explanation": "Penilaian praktik presentasi didasarkan pada laporan CM, presentasi, serta pertanyaan dan jawaban selama diskusi.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Makalah & Presentasi Case Method",
+      "options": [
+        { "text": "A. Pertanyaan dan jawaban", "isCorrect": true },
+        { "text": "B. Jumlah peserta hadir", "isCorrect": false },
+        { "text": "C. Lama perjalanan ke industri", "isCorrect": false },
+        { "text": "D. Cuaca saat presentasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hubungan identifikasi bahaya dan penilaian risiko adalah?",
+      "explanation": "Identifikasi bahaya adalah langkah awal yang menjadi masukan bagi penilaian risiko; tanpa identifikasi yang lengkap, penilaian risiko menjadi tidak akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya di Industri",
+      "options": [
+        { "text": "A. Identifikasi bahaya menjadi masukan bagi penilaian risiko", "isCorrect": true },
+        { "text": "B. Penilaian risiko dilakukan sebelum identifikasi bahaya", "isCorrect": false },
+        { "text": "C. Keduanya tidak berhubungan", "isCorrect": false },
+        { "text": "D. Identifikasi bahaya menggantikan pengendalian", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Penilaian Risiko Semi Kuantitatif", "back": "Pendekatan yang menggabungkan kualitatif dan kuantitatif dengan memberi nilai/skor pada faktor risiko (probabilitas, paparan, konsekuensi) lalu mengolahnya menjadi tingkat risiko.", "tag": "Pengertian Penilaian Risiko Semi Kuantitatif" },
+    { "front": "Kualitatif vs Kuantitatif vs Semi Kuantitatif", "back": "Kualitatif = kategori deskriptif (rendah/sedang/tinggi); Kuantitatif = data numerik/statistik akurat; Semi kuantitatif = skor numerik di antara keduanya.", "tag": "Pengertian Penilaian Risiko Semi Kuantitatif" },
+    { "front": "Bahaya vs Risiko", "back": "Bahaya (hazard) = sumber/potensi menimbulkan kerugian; Risiko (risk) = kombinasi kemungkinan dan keparahan kerugian dari bahaya tersebut.", "tag": "Pengertian Penilaian Risiko Semi Kuantitatif" },
+    { "front": "Tahapan Manajemen Risiko", "back": "Identifikasi bahaya, penilaian (assessment) risiko, evaluasi risiko, lalu pengendalian dan pemantauan.", "tag": "Pengertian Penilaian Risiko Semi Kuantitatif" },
+    { "front": "Jenis Bahaya di Industri", "back": "Fisik, kimia, biologi, ergonomi, psikososial, mekanik, dan listrik.", "tag": "Identifikasi Bahaya di Industri" },
+    { "front": "Unsafe Condition vs Unsafe Act", "back": "Kondisi tidak aman = keadaan lingkungan/peralatan berbahaya; Tindakan tidak aman = perilaku pekerja menyimpang dari prosedur aman.", "tag": "Identifikasi Bahaya di Industri" },
+    { "front": "Metode Identifikasi Bahaya", "back": "Antara lain JSA (uraian langkah kerja), HAZOP (guide word proses), dan HIRADC (identifikasi-penilaian-pengendalian).", "tag": "Identifikasi Bahaya di Industri" },
+    { "front": "Kondisi Operasi dalam Identifikasi Bahaya", "back": "Harus mencakup kondisi normal, abnormal, dan keadaan darurat agar bahaya tidak terlewat.", "tag": "Identifikasi Bahaya di Industri" },
+    { "front": "Rumus Metode William T. Fine", "back": "Risk = Consequence × Exposure × Probability (R = C × E × P).", "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)" },
+    { "front": "Consequence (Konsekuensi)", "back": "Tingkat keparahan akibat/kerugian bila kejadian terjadi; makin parah, skor makin tinggi (cedera ringan hingga katastropik).", "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)" },
+    { "front": "Exposure (Paparan)", "back": "Frekuensi/seberapa sering pekerja terpapar situasi berbahaya; paparan terus-menerus diberi skor tertinggi.", "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)" },
+    { "front": "Probability (Probabilitas)", "back": "Kemungkinan kejadian berbahaya benar-benar menimbulkan kerugian saat paparan terjadi; makin mungkin, skor makin tinggi.", "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)" },
+    { "front": "Matriks Risiko (Likelihood × Severity)", "back": "Matriks dua dimensi (umumnya 5×5) menyilangkan kemungkinan (sangat jarang–hampir pasti) dengan keparahan (tidak signifikan–katastropik).", "tag": "Skala & Skor (Probabilitas, Paparan, Konsekuensi)" },
+    { "front": "Kategori Tingkat Risiko", "back": "Skor risiko dikategorikan menjadi rendah (hijau), sedang (kuning), tinggi, dan ekstrem (merah) untuk menentukan prioritas.", "tag": "Perhitungan & Kategorisasi Tingkat Risiko" },
+    { "front": "Risiko Awal vs Risiko Residual", "back": "Risiko awal/inherent = sebelum pengendalian; Risiko residual = sisa setelah pengendalian diterapkan.", "tag": "Perhitungan & Kategorisasi Tingkat Risiko" },
+    { "front": "ALARP", "back": "As Low As Reasonably Practicable — risiko diturunkan serendah mungkin yang masih wajar secara praktis dan biaya.", "tag": "Perhitungan & Kategorisasi Tingkat Risiko" },
+    { "front": "Prioritas Pengendalian", "back": "Bahaya dengan skor risiko lebih tinggi diprioritaskan; risiko ekstrem ditangani segera sebelum pekerjaan dilanjutkan.", "tag": "Perhitungan & Kategorisasi Tingkat Risiko" },
+    { "front": "Hierarki Pengendalian", "back": "Eliminasi, Substitusi, Pengendalian rekayasa (engineering), Pengendalian administratif, lalu APD — dari paling efektif ke paling kurang efektif.", "tag": "Analisis & Rekomendasi Pengendalian" },
+    { "front": "Mengapa APD Paling Akhir", "back": "APD hanya melindungi individu tanpa mengurangi sumber bahaya dan bergantung pada kedisiplinan pemakaian.", "tag": "Analisis & Rekomendasi Pengendalian" },
+    { "front": "Evaluasi Setelah Pengendalian", "back": "Setelah pengendalian, dilakukan pemantauan ulang untuk memastikan risiko residual dapat diterima dan pengendalian efektif.", "tag": "Analisis & Rekomendasi Pengendalian" },
+    { "front": "Susunan Makalah Case Method (CM)", "back": "Cover, Daftar Isi, Pendahuluan (latar belakang, tujuan, manfaat), Tinjauan Pustaka, Hasil dan Pembahasan, Kesimpulan dan Saran, Daftar Pustaka.", "tag": "Penyusunan Makalah & Presentasi Case Method" },
+    { "front": "Ketentuan Presentasi CM", "back": "Presentasi tiap kelompok 15 menit, tanya jawab 10 menit, urut kelompok 4-3-2-1; laporan dilengkapi notulensi diskusi.", "tag": "Penyusunan Makalah & Presentasi Case Method" }
+  ],
+  "mindmap": [
+    { "id": "root", "label": "Penilaian Risiko Semi Kuantitatif", "color": "#6366f1", "parent": null, "content": "Identifikasi Bahaya dan Penilaian Risiko Semi Kuantitatif — menggabungkan pendekatan kualitatif dan kuantitatif dengan skor pada probabilitas, paparan, dan konsekuensi untuk menentukan dan memprioritaskan tingkat risiko serta pengendaliannya." },
+    { "id": "konsep", "label": "Konsep & Pengertian", "color": "#8b5cf6", "parent": "root", "content": "Dasar metode semi kuantitatif dan kedudukannya dalam manajemen risiko." },
+    { "id": "konsep-def", "label": "Definisi Semi Kuantitatif", "color": "#8b5cf6", "parent": "konsep", "content": "Menggabungkan deskripsi kualitatif dengan pemberian nilai/skor numerik pada faktor risiko, lalu mengolahnya menjadi tingkat risiko." },
+    { "id": "konsep-banding", "label": "Kualitatif vs Kuantitatif", "color": "#8b5cf6", "parent": "konsep", "content": "Kualitatif = kategori deskriptif (rendah/sedang/tinggi); Kuantitatif = data numerik/statistik akurat; Semi kuantitatif berada di antara keduanya." },
+    { "id": "konsep-hazard-risk", "label": "Bahaya vs Risiko", "color": "#8b5cf6", "parent": "konsep", "content": "Bahaya = sumber/potensi menimbulkan kerugian; Risiko = kombinasi kemungkinan dan keparahan kerugian dari bahaya tersebut." },
+    { "id": "konsep-manajemen", "label": "Tahapan Manajemen Risiko", "color": "#8b5cf6", "parent": "konsep", "content": "Identifikasi bahaya, penilaian (assessment) risiko, evaluasi risiko, lalu pengendalian dan pemantauan." },
+    { "id": "konsep-kelebihan", "label": "Kelebihan & Kelemahan", "color": "#8b5cf6", "parent": "konsep", "content": "Kelebihan: prioritas lebih objektif dan praktis. Kelemahan: masih ada subjektivitas dalam pemberian skor sehingga perlu kriteria baku." },
+    { "id": "identifikasi", "label": "Identifikasi Bahaya", "color": "#0ea5e9", "parent": "root", "content": "Langkah awal: mengamati aktivitas/area kerja untuk menemukan sumber bahaya pada kondisi normal, abnormal, dan darurat." },
+    { "id": "id-jenis", "label": "Jenis Bahaya", "color": "#0ea5e9", "parent": "identifikasi", "content": "Fisik (bising, getaran, radiasi), kimia (gas/uap/debu), biologi (bakteri/virus/jamur), ergonomi (postur/repetitif), psikososial (stres), mekanik, dan listrik." },
+    { "id": "id-unsafe", "label": "Unsafe Condition & Act", "color": "#0ea5e9", "parent": "identifikasi", "content": "Kondisi tidak aman = keadaan lingkungan/peralatan berbahaya; Tindakan tidak aman = perilaku pekerja menyimpang dari prosedur aman." },
+    { "id": "id-metode", "label": "Metode Identifikasi", "color": "#0ea5e9", "parent": "identifikasi", "content": "Antara lain JSA (uraian langkah kerja), HAZOP (guide word parameter proses), dan HIRADC (identifikasi-penilaian-pengendalian)." },
+    { "id": "id-sumber", "label": "Sumber Informasi", "color": "#0ea5e9", "parent": "identifikasi", "content": "Observasi lapangan, data kecelakaan terdahulu, MSDS/SDS, wawancara pekerja, dan inspeksi rutin." },
+    { "id": "skor", "label": "Skala & Skor", "color": "#10b981", "parent": "root", "content": "Pemberian nilai pada faktor risiko berdasarkan kriteria/skala yang telah ditetapkan dan disepakati agar konsisten." },
+    { "id": "skor-fine", "label": "Metode William T. Fine", "color": "#10b981", "parent": "skor", "content": "Risk = Consequence × Exposure × Probability (R = C × E × P), menambahkan faktor paparan dibanding matriks dua dimensi biasa." },
+    { "id": "skor-c", "label": "Consequence", "color": "#10b981", "parent": "skor-fine", "content": "Tingkat keparahan akibat bila kejadian terjadi; dari cedera ringan (P3K) hingga katastropik/banyak korban, makin parah skor makin tinggi." },
+    { "id": "skor-e", "label": "Exposure", "color": "#10b981", "parent": "skor-fine", "content": "Frekuensi/seberapa sering pekerja terpapar situasi berbahaya; paparan terus-menerus diberi skor tertinggi, sangat jarang skor terendah." },
+    { "id": "skor-p", "label": "Probability", "color": "#10b981", "parent": "skor-fine", "content": "Kemungkinan kejadian berbahaya benar-benar menimbulkan kerugian saat paparan terjadi; makin mungkin, skor makin tinggi." },
+    { "id": "skor-matriks", "label": "Matriks Risiko", "color": "#10b981", "parent": "skor", "content": "Matriks dua dimensi (umumnya 5×5) menyilangkan likelihood (sangat jarang–hampir pasti) dengan severity (tidak signifikan–katastropik)." },
+    { "id": "skor-konsisten", "label": "Konsistensi Penilaian", "color": "#10b981", "parent": "skor", "content": "Gunakan kriteria skala baku yang terdokumentasi dan tim kompeten agar penilaian konsisten antar penilai." },
+    { "id": "hitung", "label": "Perhitungan & Kategorisasi", "color": "#f59e0b", "parent": "root", "content": "Mengolah skor menjadi nilai risiko lalu mengkategorikan tingkat risiko untuk menentukan prioritas pengendalian." },
+    { "id": "hitung-rumus", "label": "Perhitungan Skor", "color": "#f59e0b", "parent": "hitung", "content": "Fine: kalikan C × E × P. Matriks: kalikan likelihood × severity. Contoh Fine C=5, E=6, P=3 → R = 90." },
+    { "id": "hitung-kategori", "label": "Kategori Risiko", "color": "#f59e0b", "parent": "hitung", "content": "Skor dikelompokkan: rendah (hijau), sedang (kuning), tinggi, dan ekstrem (merah)." },
+    { "id": "hitung-prioritas", "label": "Prioritas", "color": "#f59e0b", "parent": "hitung", "content": "Skor risiko lebih tinggi diprioritaskan untuk dikendalikan lebih dahulu; risiko ekstrem ditangani segera sebelum pekerjaan dilanjutkan." },
+    { "id": "hitung-residual", "label": "Risiko Awal & Residual", "color": "#f59e0b", "parent": "hitung", "content": "Risiko awal/inherent dinilai sebelum pengendalian; risiko residual adalah sisa risiko setelah pengendalian diterapkan." },
+    { "id": "hitung-alarp", "label": "ALARP", "color": "#f59e0b", "parent": "hitung", "content": "As Low As Reasonably Practicable — risiko diturunkan serendah mungkin yang masih wajar secara praktis dan biaya." },
+    { "id": "kendali", "label": "Analisis & Pengendalian", "color": "#ef4444", "parent": "root", "content": "Menyusun rekomendasi tindakan pengendalian berdasarkan hierarki dan tingkat risiko, lalu mengevaluasi efektivitasnya." },
+    { "id": "kendali-hirarki", "label": "Hierarki Pengendalian", "color": "#ef4444", "parent": "kendali", "content": "Urut dari paling efektif: Eliminasi, Substitusi, Pengendalian rekayasa (engineering), Pengendalian administratif, lalu APD." },
+    { "id": "kendali-eliminasi", "label": "Eliminasi & Substitusi", "color": "#ef4444", "parent": "kendali-hirarki", "content": "Eliminasi = menghilangkan total sumber bahaya (paling efektif). Substitusi = mengganti sumber bahaya dengan yang lebih aman." },
+    { "id": "kendali-engineering", "label": "Rekayasa & Administratif", "color": "#ef4444", "parent": "kendali-hirarki", "content": "Rekayasa = pelindung mesin, ventilasi, isolasi. Administratif = SOP, rotasi kerja, rambu, pelatihan." },
+    { "id": "kendali-apd", "label": "APD", "color": "#ef4444", "parent": "kendali-hirarki", "content": "Posisi paling akhir karena hanya melindungi individu tanpa mengurangi sumber bahaya; bergantung kedisiplinan pemakaian." },
+    { "id": "kendali-rekomendasi", "label": "Rekomendasi", "color": "#ef4444", "parent": "kendali", "content": "Rekomendasi sebaiknya spesifik, realistis, dapat dilaksanakan, mengacu hierarki dan sesuai tingkat risiko." },
+    { "id": "kendali-evaluasi", "label": "Evaluasi & Pemantauan", "color": "#ef4444", "parent": "kendali", "content": "Setelah pengendalian, pantau ulang efektivitas dan risiko residual; tinjau berkala karena kondisi kerja dapat berubah." },
+    { "id": "cm", "label": "Case Method (CM)", "color": "#ec4899", "parent": "root", "content": "Mahasiswa melaksanakan CM di industri dengan judul Identifikasi Bahaya dan Penilaian Risiko Semi Kuantitatif; jadwal dishare tim lab K3." },
+    { "id": "cm-makalah", "label": "Susunan Makalah", "color": "#ec4899", "parent": "cm", "content": "Cover, Daftar Isi, Pendahuluan (latar belakang, tujuan, manfaat), Tinjauan Pustaka, Hasil dan Pembahasan, Kesimpulan dan Saran, Daftar Pustaka." },
+    { "id": "cm-pembahasan", "label": "Hasil & Pembahasan", "color": "#ec4899", "parent": "cm-makalah", "content": "Memuat gambaran umum lokasi, hasil identifikasi bahaya dan penilaian risiko semi kuantitatif, serta analisis dan rekomendasi pengendalian." },
+    { "id": "cm-presentasi", "label": "Presentasi", "color": "#ec4899", "parent": "cm", "content": "Presentasi tiap kelompok 15 menit, tanya jawab 10 menit, urut kelompok 4-3-2-1." },
+    { "id": "cm-penilaian", "label": "Penilaian", "color": "#ec4899", "parent": "cm", "content": "Berdasarkan laporan CM, presentasi, serta pertanyaan dan jawaban; koordinator kelompok mencatat dan melengkapi notulensi diskusi." }
+  ]
+}

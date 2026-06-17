@@ -1,0 +1,10 @@
+{
+  "subject": "Keselamatan Kerja",
+  "description": "Mata kuliah yang membahas dasar hukum dan konsep keselamatan kerja (K3), teori penyebab kecelakaan, serta metode identifikasi, analisis, dan pengendalian risiko di tempat kerja. Mencakup pendekatan praktis seperti JSA/JSO, HAZOP, HIRADC, sistem ijin kerja, dan investigasi kecelakaan kerja. Tujuannya membekali mahasiswa untuk mencegah kecelakaan dan penyakit akibat kerja secara sistematis dan proaktif.",
+  "icon": "🦺",
+  "order": 4,
+  "semester": {
+    "name": "Semester 2",
+    "year": "2025/2026"
+  }
+}

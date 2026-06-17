@@ -1,0 +1,10 @@
+{
+  "subject": "Higiene Faktor Fisika",
+  "description": "Mempelajari faktor fisika di lingkungan kerja (kebisingan, getaran, iklim kerja, pencahayaan, radiasi) serta pengendaliannya.",
+  "icon": "🔊",
+  "order": 1,
+  "semester": {
+    "name": "Semester 2",
+    "year": "2025/2026"
+  }
+}

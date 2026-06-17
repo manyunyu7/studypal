@@ -1,0 +1,1455 @@
+{
+  "topic": "Tanda Vital sebagai Indikator Kesehatan Kerja",
+  "order": 2,
+  "description": "Tanda vital merupakan indikator status kesehatan pekerja yang mudah diukur, cepat, dan berbiaya rendah. Lima komponen utamanya (tekanan darah, nadi, pernapasan, suhu, serta status gizi) berguna untuk mendeteksi dini kondisi akut maupun risiko kronis. Bila terintegrasi dengan program pencegahan, pemeriksaan ini menjadi fondasi penurunan penyakit akibat kerja (PAK).",
+  "subtopics": [
+    "Konsep Tanda Vital sebagai Indikator",
+    "Lima Komponen Tanda Vital",
+    "Tekanan Darah & Kardiovaskular",
+    "Nadi & Respirasi Jantung-Paru",
+    "Suhu Tubuh, Heat Stress & Infeksi",
+    "Status Gizi & Sindrom Metabolik",
+    "Integrasi dengan Program Pencegahan"
+  ],
+  "questions": [
+    {
+      "text": "Apa fungsi utama pemeriksaan kesehatan kerja dasar/tanda vital pada pekerja?",
+      "explanation": "Tanda vital berfungsi sebagai indikator sederhana namun penting untuk memantau status kesehatan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Indikator sederhana untuk memantau status kesehatan pekerja", "isCorrect": true },
+        { "text": "B. Mengukur produktivitas mesin", "isCorrect": false },
+        { "text": "C. Menentukan gaji pekerja", "isCorrect": false },
+        { "text": "D. Menilai kualitas produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pemeriksaan tanda vital cocok digunakan sebagai skrining rutin di tempat kerja?",
+      "explanation": "Tanda vital mudah diukur, cepat, biaya rendah, dan mudah dilatih sehingga ideal untuk skrining rutin.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Memerlukan alat sangat mahal", "isCorrect": false },
+        { "text": "B. Mudah diukur, cepat, biaya rendah, dan mudah dilatih", "isCorrect": true },
+        { "text": "C. Hanya bisa dilakukan dokter spesialis", "isCorrect": false },
+        { "text": "D. Membutuhkan waktu berjam-jam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital secara rutin membantu mendeteksi hal berikut, kecuali?",
+      "explanation": "Tanda vital berguna mendeteksi kondisi akut dan risiko kronis, bukan menilai kualitas pencahayaan ruang kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Hipertensi", "isCorrect": false },
+        { "text": "B. Gangguan pernapasan", "isCorrect": false },
+        { "text": "C. Tingkat pencahayaan ruang kerja", "isCorrect": true },
+        { "text": "D. Demam/inflamasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda vital memberikan gambaran kondisi apa pada seseorang?",
+      "explanation": "Tanda vital memberikan gambaran kondisi fisiologis seseorang.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Kondisi fisiologis", "isCorrect": true },
+        { "text": "B. Kondisi keuangan", "isCorrect": false },
+        { "text": "C. Tingkat pendidikan", "isCorrect": false },
+        { "text": "D. Status pernikahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa status gizi sederhana (IMT dan lingkar perut) ditambahkan dalam pemeriksaan tanda vital pekerja?",
+      "explanation": "Status gizi sederhana penting untuk memantau risiko sindrom metabolik pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Untuk menilai kecepatan kerja", "isCorrect": false },
+        { "text": "B. Untuk memantau risiko sindrom metabolik", "isCorrect": true },
+        { "text": "C. Untuk menentukan jam istirahat", "isCorrect": false },
+        { "text": "D. Untuk menghitung upah lembur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perubahan awal kondisi kesehatan yang dideteksi tanda vital berpotensi mengganggu dua hal utama, yaitu?",
+      "explanation": "Perubahan kondisi kesehatan berpotensi mengganggu produktivitas dan keselamatan kerja.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Produktivitas dan keselamatan kerja", "isCorrect": true },
+        { "text": "B. Cuaca dan iklim", "isCorrect": false },
+        { "text": "C. Harga bahan baku", "isCorrect": false },
+        { "text": "D. Jadwal libur nasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain pemeriksaan kesehatan kerja, pemeriksaan tanda vital juga digunakan untuk kegiatan apa di industri?",
+      "explanation": "Pemeriksaan tanda vital juga digunakan untuk Medical Check Up (MCU) pada pekerja di industri.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Audit keuangan", "isCorrect": false },
+        { "text": "B. Medical Check Up (MCU)", "isCorrect": true },
+        { "text": "C. Pelatihan keterampilan", "isCorrect": false },
+        { "text": "D. Survei kepuasan pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda vital disebut berguna mendeteksi kondisi akut serta risiko kronis. Contoh risiko kronis yang dimaksud adalah?",
+      "explanation": "Risiko kronis yang dapat dideteksi tanda vital antara lain hipertensi dan gangguan metabolik.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Luka sayat akut", "isCorrect": false },
+        { "text": "B. Hipertensi dan gangguan metabolik", "isCorrect": true },
+        { "text": "C. Patah tulang akibat jatuh", "isCorrect": false },
+        { "text": "D. Keracunan makanan mendadak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah komponen utama tanda vital yang dibahas sebagai indikator status kesehatan pekerja?",
+      "explanation": "Lima komponen utama tanda vital: tekanan darah, nadi, pernapasan, suhu tubuh, serta IMT dan lingkar perut.",
+      "difficulty": "EASY",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Tiga", "isCorrect": false },
+        { "text": "B. Empat", "isCorrect": false },
+        { "text": "C. Lima", "isCorrect": true },
+        { "text": "D. Tujuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen tanda vital yang menunjukkan fungsi sistem kardiovaskular adalah?",
+      "explanation": "Tekanan darah menunjukkan fungsi sistem kardiovaskular.",
+      "difficulty": "EASY",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Tekanan darah", "isCorrect": true },
+        { "text": "B. Suhu tubuh", "isCorrect": false },
+        { "text": "C. Frekuensi pernapasan", "isCorrect": false },
+        { "text": "D. Lingkar perut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen tanda vital yang menggambarkan frekuensi dan ritme jantung adalah?",
+      "explanation": "Frekuensi nadi menggambarkan frekuensi dan ritme jantung.",
+      "difficulty": "EASY",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Suhu tubuh", "isCorrect": false },
+        { "text": "B. Frekuensi nadi", "isCorrect": true },
+        { "text": "C. Tekanan darah", "isCorrect": false },
+        { "text": "D. IMT", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan sebagai komponen tanda vital mencerminkan fungsi sistem?",
+      "explanation": "Frekuensi pernapasan mencerminkan fungsi sistem respirasi.",
+      "difficulty": "EASY",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Pencernaan", "isCorrect": false },
+        { "text": "B. Respirasi", "isCorrect": true },
+        { "text": "C. Saraf pusat", "isCorrect": false },
+        { "text": "D. Kemih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu tubuh sebagai komponen tanda vital terutama merupakan indikator adanya?",
+      "explanation": "Suhu tubuh menjadi indikator adanya infeksi atau gangguan metabolisme.",
+      "difficulty": "EASY",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Infeksi atau gangguan metabolisme", "isCorrect": true },
+        { "text": "B. Gangguan penglihatan", "isCorrect": false },
+        { "text": "C. Kerusakan gigi", "isCorrect": false },
+        { "text": "D. Gangguan pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Parameter tambahan yang digunakan untuk menilai status gizi pekerja terutama yang berisiko obesitas adalah?",
+      "explanation": "Indeks Massa Tubuh (IMT) dan lingkar perut digunakan untuk menilai status gizi pekerja.",
+      "difficulty": "EASY",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. IMT dan lingkar perut", "isCorrect": true },
+        { "text": "B. Tinggi badan saja", "isCorrect": false },
+        { "text": "C. Warna kulit", "isCorrect": false },
+        { "text": "D. Golongan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah lima komponen utama tanda vital, kecuali?",
+      "explanation": "Lima komponennya adalah tekanan darah, nadi, pernapasan, suhu, serta IMT/lingkar perut; kadar gula darah bukan termasuk komponen tanda vital dasar.",
+      "difficulty": "MEDIUM",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Tekanan darah", "isCorrect": false },
+        { "text": "B. Frekuensi nadi", "isCorrect": false },
+        { "text": "C. Kadar gula darah", "isCorrect": true },
+        { "text": "D. Suhu tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "IMT pekerja diukur sebagai komponen tambahan tanda vital untuk menilai?",
+      "explanation": "IMT dan lingkar perut menilai status gizi pekerja, terutama yang berisiko obesitas.",
+      "difficulty": "EASY",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Status gizi", "isCorrect": true },
+        { "text": "B. Fungsi ginjal", "isCorrect": false },
+        { "text": "C. Ketajaman penglihatan", "isCorrect": false },
+        { "text": "D. Kapasitas paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Irama nadi yang tidak teratur pada komponen tanda vital paling menggambarkan masalah pada organ?",
+      "explanation": "Frekuensi dan irama nadi menggambarkan kerja jantung, sehingga irama tidak teratur menunjukkan masalah jantung.",
+      "difficulty": "MEDIUM",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Paru", "isCorrect": false },
+        { "text": "B. Jantung", "isCorrect": true },
+        { "text": "C. Hati", "isCorrect": false },
+        { "text": "D. Lambung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor risiko utama penyakit jantung dan stroke yang dapat dideteksi melalui pemeriksaan tekanan darah adalah?",
+      "explanation": "Hipertensi merupakan faktor risiko utama penyakit jantung dan stroke.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Hipotensi", "isCorrect": false },
+        { "text": "B. Hipertensi", "isCorrect": true },
+        { "text": "C. Anemia", "isCorrect": false },
+        { "text": "D. Demam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa nilai tekanan darah normal pada orang dewasa secara umum?",
+      "explanation": "Tekanan darah normal dewasa berkisar 90/60 mmHg hingga 120/80 mmHg.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. 120/80 mmHg", "isCorrect": true },
+        { "text": "B. 160/100 mmHg", "isCorrect": false },
+        { "text": "C. 70/40 mmHg", "isCorrect": false },
+        { "text": "D. 200/120 mmHg", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan darah di bawah nilai normal disebut?",
+      "explanation": "Tekanan darah di bawah normal disebut hipotensi, sedangkan di atas normal disebut hipertensi.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Hipertensi", "isCorrect": false },
+        { "text": "B. Hipotensi", "isCorrect": true },
+        { "text": "C. Takikardia", "isCorrect": false },
+        { "text": "D. Bradikardia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat pemeriksaan tekanan darah rutin pada pekerja dengan hipertensi adalah memungkinkan?",
+      "explanation": "Pemeriksaan tekanan darah rutin memungkinkan deteksi dini sehingga pekerja dapat diarahkan mengubah gaya hidup, mendapat pengobatan, atau penyesuaian penempatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Deteksi dini dan intervensi gaya hidup/pengobatan", "isCorrect": true },
+        { "text": "B. Peningkatan gaji otomatis", "isCorrect": false },
+        { "text": "C. Pengurangan jam kerja semua pekerja", "isCorrect": false },
+        { "text": "D. Penggantian seluruh mesin produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut studi White et al. (2022), program pemeriksaan tekanan darah tahunan di perusahaan manufaktur menurunkan insiden serangan jantung sebesar?",
+      "explanation": "Studi White et al. (2022) menunjukkan penurunan insiden serangan jantung sebesar 15% dalam lima tahun.",
+      "difficulty": "HARD",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. 5% dalam lima tahun", "isCorrect": false },
+        { "text": "B. 15% dalam lima tahun", "isCorrect": true },
+        { "text": "C. 30% dalam dua tahun", "isCorrect": false },
+        { "text": "D. 50% dalam satu tahun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hipertensi menjadi faktor risiko utama untuk dua penyakit berikut?",
+      "explanation": "Hipertensi merupakan faktor risiko utama penyakit jantung dan stroke.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Penyakit jantung dan stroke", "isCorrect": true },
+        { "text": "B. Katarak dan glaukoma", "isCorrect": false },
+        { "text": "C. Asma dan bronkitis", "isCorrect": false },
+        { "text": "D. Anemia dan leukemia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah deteksi dini hipertensi, salah satu tindak lanjut bagi pekerja menurut materi adalah?",
+      "explanation": "Pekerja dapat diarahkan mengubah gaya hidup, mendapatkan pengobatan, atau disesuaikan penempatan kerjanya.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Penyesuaian penempatan kerja", "isCorrect": true },
+        { "text": "B. Pemberhentian langsung", "isCorrect": false },
+        { "text": "C. Penambahan beban kerja", "isCorrect": false },
+        { "text": "D. Pengabaian hasil pemeriksaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan darah merupakan komponen tanda vital yang menjadi indikator fungsi sistem?",
+      "explanation": "Tekanan darah merupakan indikator fungsi kardiovaskular.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Kardiovaskular", "isCorrect": true },
+        { "text": "B. Pencernaan", "isCorrect": false },
+        { "text": "C. Endokrin", "isCorrect": false },
+        { "text": "D. Limfatik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan tekanan darah 130/85 mmHg yang berulang sebaiknya?",
+      "explanation": "Tekanan darah di atas normal mengindikasikan risiko hipertensi sehingga perlu pemantauan dan tindak lanjut (edukasi gaya hidup/pengobatan).",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Diabaikan karena masih wajar", "isCorrect": false },
+        { "text": "B. Dipantau dan diberi tindak lanjut gaya hidup/medis", "isCorrect": true },
+        { "text": "C. Diberi jam kerja lebih panjang", "isCorrect": false },
+        { "text": "D. Langsung dipensiunkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deteksi dini hipertensi melalui tanda vital termasuk dalam upaya pencegahan?",
+      "explanation": "Deteksi dini dan penanganan segera terhadap kelainan termasuk pencegahan sekunder.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Pencegahan primer", "isCorrect": false },
+        { "text": "B. Pencegahan sekunder", "isCorrect": true },
+        { "text": "C. Pencegahan tersier", "isCorrect": false },
+        { "text": "D. Rehabilitasi total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir deteksi dini hipertensi melalui pemeriksaan tekanan darah rutin adalah mencegah?",
+      "explanation": "Pengobatan hipertensi dini bertujuan mencegah komplikasi seperti stroke dan serangan jantung.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Stroke dan serangan jantung", "isCorrect": true },
+        { "text": "B. Patah tulang", "isCorrect": false },
+        { "text": "C. Gangguan pendengaran", "isCorrect": false },
+        { "text": "D. Karies gigi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi nadi yang tidak teratur dapat menjadi tanda awal dari?",
+      "explanation": "Frekuensi nadi yang tidak teratur dapat menjadi tanda awal aritmia.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Aritmia", "isCorrect": true },
+        { "text": "B. Katarak", "isCorrect": false },
+        { "text": "C. Stunting", "isCorrect": false },
+        { "text": "D. Dermatitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa frekuensi nadi normal pada orang dewasa?",
+      "explanation": "Frekuensi nadi normal pada orang dewasa adalah 60-100 kali per menit.",
+      "difficulty": "EASY",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. 30-50 kali/menit", "isCorrect": false },
+        { "text": "B. 60-100 kali/menit", "isCorrect": true },
+        { "text": "C. 100-140 kali/menit", "isCorrect": false },
+        { "text": "D. 140-180 kali/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan yang meningkat (takipnea) bisa menandakan adanya gangguan pada organ?",
+      "explanation": "Frekuensi pernapasan yang meningkat bisa menandakan adanya gangguan paru-paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Paru-paru", "isCorrect": true },
+        { "text": "B. Ginjal", "isCorrect": false },
+        { "text": "C. Hati", "isCorrect": false },
+        { "text": "D. Pankreas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa frekuensi pernapasan normal pada orang dewasa?",
+      "explanation": "Frekuensi pernapasan normal pada orang dewasa adalah 12-20 kali per menit.",
+      "difficulty": "EASY",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. 5-10 kali/menit", "isCorrect": false },
+        { "text": "B. 12-20 kali/menit", "isCorrect": true },
+        { "text": "C. 25-35 kali/menit", "isCorrect": false },
+        { "text": "D. 40-50 kali/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja tambang yang mengalami takipnea (pernapasan cepat) sebaiknya segera dirujuk untuk pemeriksaan?",
+      "explanation": "Pekerja tambang dengan takipnea dapat segera dirujuk untuk pemeriksaan fungsi paru lebih lanjut.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Fungsi paru lebih lanjut", "isCorrect": true },
+        { "text": "B. Ketajaman penglihatan", "isCorrect": false },
+        { "text": "C. Fungsi ginjal", "isCorrect": false },
+        { "text": "D. Golongan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deteksi dini takipnea pada pekerja tambang membantu mengendalikan risiko penyakit?",
+      "explanation": "Rujukan dini fungsi paru pada pekerja tambang bertujuan mengendalikan risiko pneumokoniosis sejak dini.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Pneumokoniosis", "isCorrect": true },
+        { "text": "B. Karies gigi", "isCorrect": false },
+        { "text": "C. Katarak", "isCorrect": false },
+        { "text": "D. Stunting", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan nadi dan respirasi rutin memberikan kesempatan untuk?",
+      "explanation": "Pemeriksaan rutin memberikan kesempatan intervensi medis lebih awal.",
+      "difficulty": "EASY",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Intervensi medis lebih awal", "isCorrect": true },
+        { "text": "B. Penundaan pengobatan", "isCorrect": false },
+        { "text": "C. Peningkatan beban kerja", "isCorrect": false },
+        { "text": "D. Pengurangan upah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi nadi pekerja yang mencapai 110 kali/menit saat istirahat termasuk kategori?",
+      "explanation": "Nadi normal dewasa 60-100 kali/menit; di atas 100 kali/menit disebut takikardia.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Bradikardia", "isCorrect": false },
+        { "text": "B. Normal", "isCorrect": false },
+        { "text": "C. Takikardia", "isCorrect": true },
+        { "text": "D. Hipotensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi nadi 50 kali/menit pada orang dewasa termasuk kategori?",
+      "explanation": "Nadi di bawah 60 kali/menit disebut bradikardia.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Takikardia", "isCorrect": false },
+        { "text": "B. Bradikardia", "isCorrect": true },
+        { "text": "C. Normal", "isCorrect": false },
+        { "text": "D. Hipertermia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan 24 kali/menit pada orang dewasa termasuk kategori?",
+      "explanation": "Pernapasan dewasa di atas 20 kali/menit disebut takipnea.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Normal", "isCorrect": false },
+        { "text": "B. Bradipnea", "isCorrect": false },
+        { "text": "C. Takipnea", "isCorrect": true },
+        { "text": "D. Apnea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan nadi dan respirasi terutama berperan dalam deteksi dini penyakit?",
+      "explanation": "Pemeriksaan nadi dan respirasi berperan dalam deteksi dini penyakit jantung dan paru.",
+      "difficulty": "EASY",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Jantung dan paru", "isCorrect": true },
+        { "text": "B. Ginjal dan hati", "isCorrect": false },
+        { "text": "C. Kulit dan mata", "isCorrect": false },
+        { "text": "D. Tulang dan sendi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi takipnea dengan peningkatan suhu tubuh pada pekerja kemungkinan menandakan?",
+      "explanation": "Pekerja dengan takipnea dan suhu tubuh meningkat dapat menandakan infeksi pernapasan akibat kerja.",
+      "difficulty": "HARD",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Infeksi pernapasan", "isCorrect": true },
+        { "text": "B. Hipotermia", "isCorrect": false },
+        { "text": "C. Dehidrasi ringan saja", "isCorrect": false },
+        { "text": "D. Obesitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerja di lingkungan panas seperti industri baja, pemeriksaan suhu tubuh rutin bertujuan mencegah?",
+      "explanation": "Pada pekerja di lingkungan panas, pemeriksaan suhu tubuh rutin dapat mencegah heat stress yang berpotensi fatal.",
+      "difficulty": "MEDIUM",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Heat stress", "isCorrect": true },
+        { "text": "B. Hipotermia", "isCorrect": false },
+        { "text": "C. Katarak", "isCorrect": false },
+        { "text": "D. Anemia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa rentang suhu tubuh normal manusia?",
+      "explanation": "Suhu tubuh normal sekitar 36,5-37,5 derajat Celsius.",
+      "difficulty": "EASY",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. 34,0-35,0 derajat C", "isCorrect": false },
+        { "text": "B. 36,5-37,5 derajat C", "isCorrect": true },
+        { "text": "C. 38,0-39,0 derajat C", "isCorrect": false },
+        { "text": "D. 39,5-40,5 derajat C", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerja di lingkungan dengan risiko infeksi tinggi (mis. rumah sakit), pengukuran suhu tubuh membantu deteksi dini?",
+      "explanation": "Pengukuran suhu tubuh membantu deteksi dini demam sebagai gejala awal penyakit menular.",
+      "difficulty": "MEDIUM",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Demam sebagai gejala penyakit menular", "isCorrect": true },
+        { "text": "B. Hipertensi", "isCorrect": false },
+        { "text": "C. Obesitas", "isCorrect": false },
+        { "text": "D. Aritmia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan status gizi rendah cenderung memiliki suhu tubuh rendah karena?",
+      "explanation": "Pekerja dengan status gizi rendah memiliki suhu tubuh rendah karena metabolisme rendah.",
+      "difficulty": "MEDIUM",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Metabolisme rendah", "isCorrect": true },
+        { "text": "B. Tekanan darah tinggi", "isCorrect": false },
+        { "text": "C. Nadi cepat", "isCorrect": false },
+        { "text": "D. Saturasi oksigen tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan status gizi berlebih/obesitas cenderung memiliki suhu badan lebih tinggi karena?",
+      "explanation": "Pekerja dengan status gizi berlebih/obesitas memiliki suhu badan lebih tinggi karena metabolisme meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Metabolisme meningkat", "isCorrect": true },
+        { "text": "B. Metabolisme menurun", "isCorrect": false },
+        { "text": "C. Nadi melambat", "isCorrect": false },
+        { "text": "D. Tekanan darah turun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu tubuh di atas 37,5 derajat Celsius umumnya diinterpretasikan sebagai?",
+      "explanation": "Suhu tubuh di atas 37,5 derajat C disebut hipertermia/demam.",
+      "difficulty": "EASY",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Hipotermia", "isCorrect": false },
+        { "text": "B. Hipertermia/demam", "isCorrect": true },
+        { "text": "C. Normal", "isCorrect": false },
+        { "text": "D. Bradikardia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Status gizi yang didapat melalui tinggi dan berat badan memengaruhi tinggi rendahnya?",
+      "explanation": "Status gizi yang didapat melalui tinggi dan berat badan memengaruhi tinggi rendahnya suhu badan.",
+      "difficulty": "MEDIUM",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Suhu badan", "isCorrect": true },
+        { "text": "B. Saturasi oksigen", "isCorrect": false },
+        { "text": "C. Frekuensi nadi", "isCorrect": false },
+        { "text": "D. Tekanan diastolik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lingkungan kerja yang paling berisiko menyebabkan heat stress adalah?",
+      "explanation": "Lingkungan panas seperti industri baja atau konstruksi berisiko menyebabkan heat stress.",
+      "difficulty": "EASY",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Industri baja atau konstruksi", "isCorrect": true },
+        { "text": "B. Ruang ber-AC", "isCorrect": false },
+        { "text": "C. Kantor administrasi", "isCorrect": false },
+        { "text": "D. Perpustakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan suhu bermanfaat untuk mengetahui rentang suhu badan pekerja guna menentukan?",
+      "explanation": "Pemeriksaan suhu bermanfaat untuk menentukan tindakan keperawatan dan menegakkan diagnosis.",
+      "difficulty": "MEDIUM",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Tindakan keperawatan dan menegakkan diagnosis", "isCorrect": true },
+        { "text": "B. Besaran gaji pekerja", "isCorrect": false },
+        { "text": "C. Jenis seragam kerja", "isCorrect": false },
+        { "text": "D. Jadwal libur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Heat stress yang tidak ditangani pada pekerja di lingkungan panas berpotensi?",
+      "explanation": "Pemeriksaan suhu rutin dapat mencegah heat stress yang berpotensi fatal.",
+      "difficulty": "MEDIUM",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Fatal", "isCorrect": true },
+        { "text": "B. Tidak berbahaya", "isCorrect": false },
+        { "text": "C. Menurunkan suhu tubuh", "isCorrect": false },
+        { "text": "D. Meningkatkan saturasi oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran status gizi melalui IMT dan lingkar perut bertujuan mendeteksi risiko?",
+      "explanation": "Status gizi pekerja melalui IMT dan lingkar perut mendeteksi risiko sindrom metabolik.",
+      "difficulty": "EASY",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Sindrom metabolik", "isCorrect": true },
+        { "text": "B. Gangguan pendengaran", "isCorrect": false },
+        { "text": "C. Katarak", "isCorrect": false },
+        { "text": "D. Patah tulang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Obesitas dan lingkar perut besar merupakan prediktor kuat untuk penyakit berikut, kecuali?",
+      "explanation": "Obesitas dan lingkar perut besar merupakan prediktor kuat untuk diabetes, hipertensi, dan penyakit jantung; bukan untuk katarak.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Diabetes", "isCorrect": false },
+        { "text": "B. Hipertensi", "isCorrect": false },
+        { "text": "C. Katarak", "isCorrect": true },
+        { "text": "D. Penyakit jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan IMT dalam pemeriksaan status gizi adalah?",
+      "explanation": "IMT adalah Indeks Massa Tubuh, dihitung dari berat badan dibagi kuadrat tinggi badan.",
+      "difficulty": "EASY",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Indeks Massa Tubuh", "isCorrect": true },
+        { "text": "B. Indeks Metabolisme Total", "isCorrect": false },
+        { "text": "C. Indikator Mutu Tenaga", "isCorrect": false },
+        { "text": "D. Indeks Mineral Tulang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Program pemantauan status gizi di perusahaan mencakup hal berikut, kecuali?",
+      "explanation": "Program pemantauan status gizi mencakup intervensi gizi, promosi aktivitas fisik, dan perbaikan pola makan di kantin; bukan penambahan jam lembur.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Intervensi gizi", "isCorrect": false },
+        { "text": "B. Promosi aktivitas fisik", "isCorrect": false },
+        { "text": "C. Penambahan jam lembur", "isCorrect": true },
+        { "text": "D. Perbaikan pola makan di kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut studi Sutanto & Rahmawati (2023), integrasi program gizi dengan pemeriksaan berkala menurunkan prevalensi obesitas pekerja sebesar?",
+      "explanation": "Studi Sutanto & Rahmawati (2023) menunjukkan penurunan prevalensi obesitas pekerja sebesar 12% dalam tiga tahun.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. 12% dalam tiga tahun", "isCorrect": true },
+        { "text": "B. 30% dalam satu tahun", "isCorrect": false },
+        { "text": "C. 50% dalam lima tahun", "isCorrect": false },
+        { "text": "D. 5% dalam sepuluh tahun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lingkar perut besar pada pekerja merupakan prediktor kuat sindrom metabolik karena berkaitan dengan?",
+      "explanation": "Obesitas dan lingkar perut besar merupakan prediktor kuat untuk diabetes, hipertensi, dan penyakit jantung.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Diabetes, hipertensi, dan penyakit jantung", "isCorrect": true },
+        { "text": "B. Gangguan pendengaran", "isCorrect": false },
+        { "text": "C. Penyakit kulit", "isCorrect": false },
+        { "text": "D. Gangguan penglihatan warna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tinggi dan berat badan, selain menilai status gizi, juga berkaitan dengan?",
+      "explanation": "Pemeriksaan tinggi dan berat badan berkaitan dengan onset obat dan fase absorbsi obat maupun status gizi pekerja.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Onset obat dan fase absorbsi obat", "isCorrect": true },
+        { "text": "B. Warna seragam kerja", "isCorrect": false },
+        { "text": "C. Jadwal shift malam", "isCorrect": false },
+        { "text": "D. Kapasitas mesin produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Status gizi pekerja terutama dipantau untuk mencegah?",
+      "explanation": "Pengukuran status gizi mendeteksi risiko sindrom metabolik, sehingga berperan dalam pencegahannya.",
+      "difficulty": "EASY",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Sindrom metabolik", "isCorrect": true },
+        { "text": "B. Heat stroke", "isCorrect": false },
+        { "text": "C. Gangguan pendengaran", "isCorrect": false },
+        { "text": "D. Cedera mata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu intervensi status gizi di tempat kerja yang dilakukan melalui kantin adalah?",
+      "explanation": "Program pemantauan status gizi mencakup perbaikan pola makan di kantin.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Perbaikan pola makan di kantin", "isCorrect": true },
+        { "text": "B. Penutupan kantin", "isCorrect": false },
+        { "text": "C. Penambahan menu cepat saji", "isCorrect": false },
+        { "text": "D. Pelarangan istirahat makan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agar efektif, pemeriksaan kesehatan kerja tidak boleh berhenti hanya pada pengukuran, melainkan harus?",
+      "explanation": "Pemeriksaan kesehatan kerja harus terintegrasi dengan program pencegahan komprehensif.",
+      "difficulty": "MEDIUM",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Terintegrasi dengan program pencegahan komprehensif", "isCorrect": true },
+        { "text": "B. Berhenti pada pencatatan angka", "isCorrect": false },
+        { "text": "C. Dilakukan sekali seumur hidup", "isCorrect": false },
+        { "text": "D. Hanya untuk manajer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut termasuk komponen program pencegahan komprehensif yang diintegrasikan dengan pemeriksaan kesehatan, kecuali?",
+      "explanation": "Integrasi mencakup promosi kesehatan, program ergonomi, pemeriksaan lingkungan kerja, dan kampanye gaya hidup sehat; bukan pengurangan upah pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Promosi kesehatan di tempat kerja", "isCorrect": false },
+        { "text": "B. Program ergonomi", "isCorrect": false },
+        { "text": "C. Pengurangan upah pekerja", "isCorrect": true },
+        { "text": "D. Kampanye gaya hidup sehat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Program ergonomi yang diintegrasikan dengan pemeriksaan kesehatan terutama bertujuan mencegah gangguan?",
+      "explanation": "Program ergonomi bertujuan mencegah gangguan muskuloskeletal.",
+      "difficulty": "EASY",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Muskuloskeletal", "isCorrect": true },
+        { "text": "B. Pendengaran", "isCorrect": false },
+        { "text": "C. Penglihatan", "isCorrect": false },
+        { "text": "D. Pencernaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah workplace health promotion dalam program pencegahan berarti?",
+      "explanation": "Workplace health promotion adalah promosi kesehatan di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Promosi kesehatan di tempat kerja", "isCorrect": true },
+        { "text": "B. Promosi produk perusahaan", "isCorrect": false },
+        { "text": "C. Rekrutmen pekerja baru", "isCorrect": false },
+        { "text": "D. Promosi jabatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan lingkungan kerja dalam integrasi program pencegahan bertujuan menilai paparan?",
+      "explanation": "Pemeriksaan lingkungan kerja menilai paparan bising, debu, atau zat kimia.",
+      "difficulty": "MEDIUM",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Bising, debu, atau zat kimia", "isCorrect": true },
+        { "text": "B. Harga saham perusahaan", "isCorrect": false },
+        { "text": "C. Jumlah pelanggan", "isCorrect": false },
+        { "text": "D. Kualitas kemasan produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh kampanye gaya hidup sehat yang diintegrasikan dengan pemeriksaan kesehatan adalah?",
+      "explanation": "Kampanye gaya hidup sehat misalnya senam bersama, stop merokok, dan pemeriksaan gizi.",
+      "difficulty": "EASY",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Senam bersama dan stop merokok", "isCorrect": true },
+        { "text": "B. Penambahan jam kerja", "isCorrect": false },
+        { "text": "C. Pembatasan minum air", "isCorrect": false },
+        { "text": "D. Pengurangan waktu istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat utama mengintegrasikan pemeriksaan kesehatan dengan program pencegahan adalah?",
+      "explanation": "Integrasi meningkatkan dampak pemeriksaan terhadap penurunan angka PAK.",
+      "difficulty": "MEDIUM",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Penurunan angka PAK", "isCorrect": true },
+        { "text": "B. Peningkatan biaya pengobatan", "isCorrect": false },
+        { "text": "C. Penurunan produktivitas", "isCorrect": false },
+        { "text": "D. Peningkatan absensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan PAK dalam konteks kesehatan kerja adalah?",
+      "explanation": "PAK adalah Penyakit Akibat Kerja.",
+      "difficulty": "EASY",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Penyakit Akibat Kerja", "isCorrect": true },
+        { "text": "B. Pemeriksaan Anggota Karyawan", "isCorrect": false },
+        { "text": "C. Program Asuransi Kesehatan", "isCorrect": false },
+        { "text": "D. Pelatihan Aktivitas Kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan MCU yang menggunakan pemeriksaan tanda vital di industri adalah?",
+      "explanation": "MCU adalah Medical Check Up.",
+      "difficulty": "EASY",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Medical Check Up", "isCorrect": true },
+        { "text": "B. Medical Care Unit", "isCorrect": false },
+        { "text": "C. Manufacturing Control Unit", "isCorrect": false },
+        { "text": "D. Maintenance Check Up", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nilai tekanan darah 120/80 mmHg pada pekerja diinterpretasikan sebagai?",
+      "explanation": "Tekanan darah 120/80 mmHg berada pada batas atas normal dewasa.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Normal", "isCorrect": true },
+        { "text": "B. Hipotensi berat", "isCorrect": false },
+        { "text": "C. Hipertensi stage 2", "isCorrect": false },
+        { "text": "D. Krisis hipertensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen tanda vital yang paling cepat berubah saat pekerja melakukan aktivitas fisik berat adalah?",
+      "explanation": "Frekuensi nadi meningkat saat aktivitas fisik berat sebagai respons kebutuhan oksigen tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Frekuensi nadi", "isCorrect": true },
+        { "text": "B. IMT", "isCorrect": false },
+        { "text": "C. Lingkar perut", "isCorrect": false },
+        { "text": "D. Tinggi badan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan hipertensi, obesitas, dan takikardia secara kombinasi berisiko tinggi terhadap?",
+      "explanation": "Kombinasi hipertensi, obesitas, dan takikardia berisiko tinggi penyakit jantung koroner.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Penyakit jantung koroner", "isCorrect": true },
+        { "text": "B. Katarak", "isCorrect": false },
+        { "text": "C. Stunting", "isCorrect": false },
+        { "text": "D. Hipotermia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis kombinasi beberapa tanda vital dianggap lebih bermanfaat dibanding parameter tunggal karena?",
+      "explanation": "Analisis kombinasi memberikan gambaran risiko yang lebih holistik dibanding parameter tunggal.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Memberikan gambaran risiko holistik", "isCorrect": true },
+        { "text": "B. Lebih murah", "isCorrect": false },
+        { "text": "C. Lebih cepat selesai", "isCorrect": false },
+        { "text": "D. Tidak memerlukan alat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saturasi oksigen (SpO2) normal yang diukur dengan pulse oximeter adalah?",
+      "explanation": "Kadar SpO2 normal dengan pulse oximeter adalah 95-100%.",
+      "difficulty": "EASY",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. 70-80%", "isCorrect": false },
+        { "text": "B. 80-90%", "isCorrect": false },
+        { "text": "C. 95-100%", "isCorrect": true },
+        { "text": "D. 50-60%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi kadar oksigen darah yang sangat rendah dan berbahaya disebut?",
+      "explanation": "Kadar oksigen sangat rendah disebut hipoksemia, yang dapat merusak jantung, otak, dan ginjal.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Hipoksemia", "isCorrect": true },
+        { "text": "B. Hipertensi", "isCorrect": false },
+        { "text": "C. Hipertermia", "isCorrect": false },
+        { "text": "D. Hipoglikemia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu tubuh di bawah 35 derajat Celsius diinterpretasikan sebagai?",
+      "explanation": "Suhu tubuh di bawah 35 derajat C disebut hipotermia.",
+      "difficulty": "EASY",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Hipotermia", "isCorrect": true },
+        { "text": "B. Hipertermia", "isCorrect": false },
+        { "text": "C. Demam", "isCorrect": false },
+        { "text": "D. Normal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital sebagai deteksi dini gangguan respirasi akibat paparan debu industri berhubungan dengan penyakit?",
+      "explanation": "Gangguan respirasi akibat paparan debu industri antara lain asma akibat kerja, pneumokoniosis, dan COPD.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Asma akibat kerja dan pneumokoniosis", "isCorrect": true },
+        { "text": "B. Katarak dan glaukoma", "isCorrect": false },
+        { "text": "C. Karies dan periodontitis", "isCorrect": false },
+        { "text": "D. Anemia dan leukemia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Studi White et al. (2022) tentang program tekanan darah dilakukan pada jenis perusahaan?",
+      "explanation": "Studi White et al. (2022) dilakukan di perusahaan manufaktur.",
+      "difficulty": "HARD",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Perusahaan manufaktur", "isCorrect": true },
+        { "text": "B. Perusahaan asuransi", "isCorrect": false },
+        { "text": "C. Perusahaan perbankan", "isCorrect": false },
+        { "text": "D. Perusahaan retail", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital memberikan gambaran kondisi fisiologis yang berguna bagi keputusan manajemen seperti?",
+      "explanation": "Deteksi dini melalui tanda vital dapat menjadi dasar penyesuaian penempatan kerja pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Penyesuaian penempatan kerja", "isCorrect": true },
+        { "text": "B. Penentuan warna logo perusahaan", "isCorrect": false },
+        { "text": "C. Pemilihan vendor bahan baku", "isCorrect": false },
+        { "text": "D. Desain kemasan produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang mengalami takikardia disertai pusing dan lemas sebaiknya?",
+      "explanation": "Tanda vital abnormal yang disertai keluhan klinis perlu intervensi medis lebih awal/rujukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Dievaluasi medis lebih lanjut", "isCorrect": true },
+        { "text": "B. Diberi tugas tambahan", "isCorrect": false },
+        { "text": "C. Diabaikan", "isCorrect": false },
+        { "text": "D. Dipindah ke area panas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu tubuh sebagai tanda vital sangat penting bagi pekerja di lingkungan?",
+      "explanation": "Suhu tubuh penting bagi pekerja di lingkungan panas (heat stress) dan lingkungan risiko infeksi tinggi.",
+      "difficulty": "EASY",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Panas dan berisiko infeksi tinggi", "isCorrect": true },
+        { "text": "B. Sejuk dan bebas risiko", "isCorrect": false },
+        { "text": "C. Kantor administratif biasa", "isCorrect": false },
+        { "text": "D. Ruang arsip dokumen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi nadi sebagai tanda vital paling tepat menggambarkan dua hal, yaitu frekuensi dan?",
+      "explanation": "Frekuensi nadi menggambarkan frekuensi dan ritme/irama jantung.",
+      "difficulty": "EASY",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Ritme jantung", "isCorrect": true },
+        { "text": "B. Suhu tubuh", "isCorrect": false },
+        { "text": "C. Kadar gula", "isCorrect": false },
+        { "text": "D. Status gizi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital berbiaya rendah menjadi keunggulan terutama bagi?",
+      "explanation": "Karena mudah, cepat, dan biaya rendah, tanda vital ideal untuk skrining rutin termasuk di perusahaan dengan sumber daya terbatas.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Skrining rutin pekerja secara luas", "isCorrect": true },
+        { "text": "B. Penelitian laboratorium genetik", "isCorrect": false },
+        { "text": "C. Operasi bedah jantung", "isCorrect": false },
+        { "text": "D. Pencitraan MRI", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda vital yang paling tepat untuk memantau risiko sindrom metabolik adalah?",
+      "explanation": "IMT dan lingkar perut (status gizi) ditambahkan untuk memantau risiko sindrom metabolik.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. IMT dan lingkar perut", "isCorrect": true },
+        { "text": "B. Suhu aksila", "isCorrect": false },
+        { "text": "C. Frekuensi pernapasan", "isCorrect": false },
+        { "text": "D. Saturasi oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan suhu tubuh 38 derajat Celsius di industri panas cenderung mengalami?",
+      "explanation": "Pekerja dengan suhu tinggi di industri panas cenderung dehidrasi akibat heat stress.",
+      "difficulty": "MEDIUM",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Dehidrasi", "isCorrect": true },
+        { "text": "B. Hipotermia", "isCorrect": false },
+        { "text": "C. Bradikardia", "isCorrect": false },
+        { "text": "D. Penurunan metabolisme", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang tekanan darah sebagai tanda vital adalah?",
+      "explanation": "Tekanan darah menunjukkan fungsi sistem kardiovaskular dan menjadi dasar deteksi dini hipertensi.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Menunjukkan fungsi sistem kardiovaskular", "isCorrect": true },
+        { "text": "B. Menunjukkan fungsi pendengaran", "isCorrect": false },
+        { "text": "C. Menunjukkan kadar oksigen darah", "isCorrect": false },
+        { "text": "D. Menunjukkan status gizi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa frekuensi pernapasan penting dipantau pada pekerja yang terpapar gas kimia?",
+      "explanation": "Frekuensi pernapasan yang meningkat dapat menandakan gangguan paru akibat paparan debu/gas kimia.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Dapat menandakan gangguan paru akibat paparan", "isCorrect": true },
+        { "text": "B. Menentukan gaji pekerja", "isCorrect": false },
+        { "text": "C. Mengukur kekuatan otot", "isCorrect": false },
+        { "text": "D. Menilai ketajaman mata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran lingkar perut pada pekerja merupakan bagian dari penilaian?",
+      "explanation": "Lingkar perut termasuk parameter status gizi untuk menilai risiko sindrom metabolik.",
+      "difficulty": "EASY",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Status gizi", "isCorrect": true },
+        { "text": "B. Fungsi paru", "isCorrect": false },
+        { "text": "C. Tekanan darah", "isCorrect": false },
+        { "text": "D. Suhu inti tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda vital disebut sebagai pintu gerbang deteksi dini karena?",
+      "explanation": "Tanda vital membantu mendeteksi perubahan awal kondisi kesehatan yang berpotensi mengganggu produktivitas dan keselamatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Mendeteksi perubahan awal kondisi kesehatan", "isCorrect": true },
+        { "text": "B. Mengobati penyakit secara langsung", "isCorrect": false },
+        { "text": "C. Menggantikan rawat inap", "isCorrect": false },
+        { "text": "D. Menghitung produktivitas mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Studi Sutanto & Rahmawati (2023) menekankan integrasi program gizi dengan?",
+      "explanation": "Studi Sutanto & Rahmawati (2023) mengintegrasikan program gizi dengan pemeriksaan berkala.",
+      "difficulty": "HARD",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Pemeriksaan berkala", "isCorrect": true },
+        { "text": "B. Audit keuangan", "isCorrect": false },
+        { "text": "C. Pelatihan keselamatan kebakaran", "isCorrect": false },
+        { "text": "D. Survei kepuasan pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir integrasi pemeriksaan tanda vital dengan program pencegahan komprehensif adalah?",
+      "explanation": "Integrasi bertujuan meningkatkan dampak pemeriksaan terhadap penurunan angka PAK.",
+      "difficulty": "MEDIUM",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Meningkatkan dampak penurunan angka PAK", "isCorrect": true },
+        { "text": "B. Menambah beban administrasi semata", "isCorrect": false },
+        { "text": "C. Mengganti dokter dengan mesin", "isCorrect": false },
+        { "text": "D. Menaikkan harga produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hipertensi yang dideteksi dini melalui tanda vital sering dikaitkan dengan paparan kerja berupa?",
+      "explanation": "Hipertensi akibat kerja sering dikaitkan dengan stres dan paparan kebisingan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Stres dan paparan kebisingan", "isCorrect": true },
+        { "text": "B. Paparan sinar matahari ringan", "isCorrect": false },
+        { "text": "C. Asupan air berlebih", "isCorrect": false },
+        { "text": "D. Kelembapan rendah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan frekuensi pernapasan 10 kali/menit termasuk kategori?",
+      "explanation": "Pernapasan dewasa di bawah 12 kali/menit disebut bradipnea.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Takipnea", "isCorrect": false },
+        { "text": "B. Bradipnea", "isCorrect": true },
+        { "text": "C. Normal", "isCorrect": false },
+        { "text": "D. Hiperpnea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mana yang merupakan dampak non-auditori dari paparan kebisingan yang dapat terlihat pada tanda vital?",
+      "explanation": "Paparan kebisingan dapat memicu hipertensi (peningkatan tekanan darah) sebagai dampak non-auditori.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Peningkatan tekanan darah", "isCorrect": true },
+        { "text": "B. Penurunan suhu tubuh", "isCorrect": false },
+        { "text": "C. Peningkatan saturasi oksigen", "isCorrect": false },
+        { "text": "D. Penurunan IMT", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital bersifat sederhana namun bermakna karena dapat dilakukan oleh?",
+      "explanation": "Tanda vital mudah dilatih sehingga dapat dilakukan tenaga kesehatan kerja seperti perawat dan petugas K3, tidak selalu dokter spesialis.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Tenaga kesehatan kerja yang terlatih", "isCorrect": true },
+        { "text": "B. Hanya dokter spesialis jantung", "isCorrect": false },
+        { "text": "C. Hanya peneliti universitas", "isCorrect": false },
+        { "text": "D. Hanya direktur perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda vital yang paling mencerminkan respon tubuh terhadap infeksi adalah?",
+      "explanation": "Suhu tubuh meningkat (demam) merupakan indikator adanya infeksi.",
+      "difficulty": "EASY",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Suhu tubuh", "isCorrect": true },
+        { "text": "B. Lingkar perut", "isCorrect": false },
+        { "text": "C. IMT", "isCorrect": false },
+        { "text": "D. Tinggi badan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat pemeriksaan tanda vital sebagai indikator kesehatan kerja paling tepat digambarkan sebagai?",
+      "explanation": "Tanda vital adalah indikator sederhana, cepat, dan murah untuk memantau status kesehatan dan mendeteksi dini gangguan.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Alat deteksi dini status kesehatan pekerja", "isCorrect": true },
+        { "text": "B. Alat penilai kualitas produk", "isCorrect": false },
+        { "text": "C. Alat audit keuangan", "isCorrect": false },
+        { "text": "D. Alat pengukur kebisingan mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja kantor dengan IMT tinggi dan lingkar perut besar paling tepat diarahkan ke program?",
+      "explanation": "Program pemantauan status gizi mencakup intervensi gizi, promosi aktivitas fisik, dan perbaikan pola makan.",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Intervensi gizi dan aktivitas fisik", "isCorrect": true },
+        { "text": "B. Penambahan jam lembur", "isCorrect": false },
+        { "text": "C. Pindah ke area bising", "isCorrect": false },
+        { "text": "D. Pengurangan istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan yang meningkat pada pekerja sering menjadi tanda awal penyakit?",
+      "explanation": "Perubahan frekuensi pernapasan sering menjadi tanda awal PPOK atau asma akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. PPOK atau asma akibat kerja", "isCorrect": true },
+        { "text": "B. Katarak", "isCorrect": false },
+        { "text": "C. Dermatitis", "isCorrect": false },
+        { "text": "D. Karies gigi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda vital manakah yang paling tepat menggambarkan fungsi sistem respirasi?",
+      "explanation": "Frekuensi pernapasan mencerminkan fungsi sistem respirasi.",
+      "difficulty": "EASY",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Frekuensi pernapasan", "isCorrect": true },
+        { "text": "B. Tekanan darah", "isCorrect": false },
+        { "text": "C. IMT", "isCorrect": false },
+        { "text": "D. Lingkar perut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai integrasi pemeriksaan kesehatan kerja adalah?",
+      "explanation": "Pemeriksaan kesehatan harus terintegrasi dengan promosi kesehatan, ergonomi, pemeriksaan lingkungan, dan kampanye gaya hidup sehat.",
+      "difficulty": "MEDIUM",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Harus dipadukan dengan promosi kesehatan dan ergonomi", "isCorrect": true },
+        { "text": "B. Cukup mencatat angka tanpa tindak lanjut", "isCorrect": false },
+        { "text": "C. Hanya berlaku untuk pekerja baru", "isCorrect": false },
+        { "text": "D. Tidak perlu pemeriksaan lingkungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan darah pekerja yang sedikit di atas normal sering ditafsirkan sebagai tanda?",
+      "explanation": "Tekanan darah sedikit di atas normal dapat menandakan stres kerja kronis atau risiko hipertensi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Stres kerja kronis/risiko hipertensi", "isCorrect": true },
+        { "text": "B. Hipotermia", "isCorrect": false },
+        { "text": "C. Anemia berat", "isCorrect": false },
+        { "text": "D. Status gizi buruk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerja rumah sakit, peran utama pengukuran suhu tubuh rutin adalah?",
+      "explanation": "Pada lingkungan risiko infeksi tinggi seperti rumah sakit, suhu tubuh membantu deteksi dini demam sebagai gejala penyakit menular.",
+      "difficulty": "MEDIUM",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Deteksi dini gejala penyakit menular", "isCorrect": true },
+        { "text": "B. Mengukur tekanan darah", "isCorrect": false },
+        { "text": "C. Menilai status gizi", "isCorrect": false },
+        { "text": "D. Mengukur saturasi oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lima komponen utama tanda vital secara berurutan menggambarkan fungsi kardiovaskular, jantung, respirasi, metabolisme/infeksi, dan?",
+      "explanation": "Komponen kelima adalah IMT/lingkar perut yang menggambarkan status gizi.",
+      "difficulty": "MEDIUM",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Status gizi", "isCorrect": true },
+        { "text": "B. Fungsi pendengaran", "isCorrect": false },
+        { "text": "C. Fungsi penglihatan", "isCorrect": false },
+        { "text": "D. Kekuatan otot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi nadi tidak teratur dan keluhan jantung berdebar paling mengarah ke kondisi?",
+      "explanation": "Frekuensi nadi yang tidak teratur dapat menjadi tanda awal aritmia.",
+      "difficulty": "HARD",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Aritmia", "isCorrect": true },
+        { "text": "B. Hipotermia", "isCorrect": false },
+        { "text": "C. Sindrom metabolik murni", "isCorrect": false },
+        { "text": "D. Heat stress", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemantauan tanda vital secara berkala memungkinkan pekerja dengan kelainan ringan untuk?",
+      "explanation": "Pemeriksaan berkala memungkinkan intervensi medis sejak dini sebelum berkembang menjadi penyakit kronis.",
+      "difficulty": "MEDIUM",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Mendapat intervensi medis sejak dini", "isCorrect": true },
+        { "text": "B. Diberhentikan dari pekerjaan", "isCorrect": false },
+        { "text": "C. Dipindah tanpa pemeriksaan", "isCorrect": false },
+        { "text": "D. Dibebani tugas tambahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah parameter tanda vital yang dinyatakan dalam satuan mmHg?",
+      "explanation": "Tekanan darah dinyatakan dalam mmHg (milimeter air raksa), misalnya 120/80 mmHg.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Tekanan darah", "isCorrect": true },
+        { "text": "B. Suhu tubuh", "isCorrect": false },
+        { "text": "C. Frekuensi nadi", "isCorrect": false },
+        { "text": "D. IMT", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Parameter tanda vital yang dinyatakan dalam satuan kali per menit adalah?",
+      "explanation": "Frekuensi nadi dan pernapasan dinyatakan dalam kali per menit.",
+      "difficulty": "EASY",
+      "tag": "Lima Komponen Tanda Vital",
+      "options": [
+        { "text": "A. Frekuensi nadi dan pernapasan", "isCorrect": true },
+        { "text": "B. Tekanan darah", "isCorrect": false },
+        { "text": "C. Suhu tubuh", "isCorrect": false },
+        { "text": "D. Lingkar perut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Parameter status gizi IMT dihitung dengan satuan?",
+      "explanation": "IMT dinyatakan dalam kg/m2 (berat badan dibagi kuadrat tinggi badan).",
+      "difficulty": "MEDIUM",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. kg/m2", "isCorrect": true },
+        { "text": "B. mmHg", "isCorrect": false },
+        { "text": "C. derajat Celsius", "isCorrect": false },
+        { "text": "D. kali/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja shift malam dengan beban kerja mental tinggi paling berisiko mengalami perubahan tanda vital berupa?",
+      "explanation": "Tekanan darah cenderung meningkat pada pekerja shift malam dan beban kerja mental tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Darah & Kardiovaskular",
+      "options": [
+        { "text": "A. Peningkatan tekanan darah", "isCorrect": true },
+        { "text": "B. Penurunan suhu di bawah 35 derajat", "isCorrect": false },
+        { "text": "C. Penurunan IMT drastis", "isCorrect": false },
+        { "text": "D. Peningkatan saturasi oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang biaya pemeriksaan tanda vital?",
+      "explanation": "Tanda vital berbiaya rendah, sehingga ekonomis untuk diterapkan secara rutin dan luas.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tanda Vital sebagai Indikator",
+      "options": [
+        { "text": "A. Berbiaya rendah", "isCorrect": true },
+        { "text": "B. Sangat mahal", "isCorrect": false },
+        { "text": "C. Memerlukan rumah sakit besar", "isCorrect": false },
+        { "text": "D. Hanya untuk perusahaan multinasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran status gizi sederhana ditambahkan ke pemeriksaan tanda vital terutama untuk pekerja yang berisiko?",
+      "explanation": "IMT dan lingkar perut ditambahkan untuk memantau pekerja yang berisiko obesitas/sindrom metabolik.",
+      "difficulty": "EASY",
+      "tag": "Status Gizi & Sindrom Metabolik",
+      "options": [
+        { "text": "A. Obesitas", "isCorrect": true },
+        { "text": "B. Hipotermia", "isCorrect": false },
+        { "text": "C. Gangguan pendengaran", "isCorrect": false },
+        { "text": "D. Cedera mata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah kombinasi tanda vital yang paling mengarah ke infeksi pernapasan akibat kerja?",
+      "explanation": "Takipnea disertai peningkatan suhu tubuh mengarah ke infeksi pernapasan akibat kerja.",
+      "difficulty": "HARD",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Takipnea + suhu tubuh meningkat", "isCorrect": true },
+        { "text": "B. Bradikardia + suhu rendah", "isCorrect": false },
+        { "text": "C. IMT tinggi + nadi normal", "isCorrect": false },
+        { "text": "D. Tekanan darah rendah + SpO2 tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda vital yang menjadi indikator paling langsung untuk memantau pekerja terhadap heat stress adalah?",
+      "explanation": "Suhu tubuh meningkat pada pekerja yang terpapar panas, sehingga menjadi indikator langsung heat stress.",
+      "difficulty": "EASY",
+      "tag": "Suhu Tubuh, Heat Stress & Infeksi",
+      "options": [
+        { "text": "A. Suhu tubuh", "isCorrect": true },
+        { "text": "B. Lingkar perut", "isCorrect": false },
+        { "text": "C. IMT", "isCorrect": false },
+        { "text": "D. Tekanan diastolik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan integrasi pemeriksaan dengan program ergonomi, promosi kesehatan, dan kampanye gaya hidup adalah membuat pemeriksaan menjadi?",
+      "explanation": "Integrasi menjadikan pemeriksaan tidak berhenti pada pengukuran melainkan bagian dari pencegahan komprehensif yang berdampak menurunkan PAK.",
+      "difficulty": "MEDIUM",
+      "tag": "Integrasi dengan Program Pencegahan",
+      "options": [
+        { "text": "A. Bagian dari pencegahan komprehensif", "isCorrect": true },
+        { "text": "B. Kegiatan seremonial saja", "isCorrect": false },
+        { "text": "C. Pengganti produksi", "isCorrect": false },
+        { "text": "D. Aktivitas tanpa tindak lanjut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang frekuensi nadi normal dan abnormal pada dewasa adalah?",
+      "explanation": "Nadi normal 60-100 kali/menit; di atas 100 takikardia, di bawah 60 bradikardia.",
+      "difficulty": "MEDIUM",
+      "tag": "Nadi & Respirasi Jantung-Paru",
+      "options": [
+        { "text": "A. Normal 60-100; >100 takikardia; <60 bradikardia", "isCorrect": true },
+        { "text": "B. Normal 100-140; >140 takikardia", "isCorrect": false },
+        { "text": "C. Normal 30-50; <30 takikardia", "isCorrect": false },
+        { "text": "D. Normal 12-20; >20 bradikardia", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Fungsi tanda vital pada pekerja", "back": "Indikator sederhana, cepat, dan murah untuk memantau status kesehatan serta mendeteksi dini gangguan akut dan risiko kronis.", "tag": "Konsep Tanda Vital sebagai Indikator" },
+    { "front": "Lima komponen tanda vital", "back": "Tekanan darah, frekuensi nadi, frekuensi pernapasan, suhu tubuh, serta IMT dan lingkar perut (status gizi).", "tag": "Lima Komponen Tanda Vital" },
+    { "front": "Tekanan darah menunjukkan fungsi sistem apa?", "back": "Sistem kardiovaskular.", "tag": "Lima Komponen Tanda Vital" },
+    { "front": "Nilai tekanan darah normal dewasa", "back": "Sekitar 90/60 hingga 120/80 mmHg.", "tag": "Tekanan Darah & Kardiovaskular" },
+    { "front": "Frekuensi nadi normal dewasa", "back": "60-100 kali per menit.", "tag": "Nadi & Respirasi Jantung-Paru" },
+    { "front": "Frekuensi pernapasan normal dewasa", "back": "12-20 kali per menit.", "tag": "Nadi & Respirasi Jantung-Paru" },
+    { "front": "Suhu tubuh normal", "back": "36,5-37,5 derajat Celsius; >37,5 hipertermia/demam, <35 hipotermia.", "tag": "Suhu Tubuh, Heat Stress & Infeksi" },
+    { "front": "Saturasi oksigen (SpO2) normal", "back": "95-100% dengan pulse oximeter.", "tag": "Nadi & Respirasi Jantung-Paru" },
+    { "front": "Hipertensi adalah faktor risiko utama?", "back": "Penyakit jantung dan stroke.", "tag": "Tekanan Darah & Kardiovaskular" },
+    { "front": "Takikardia dan bradikardia", "back": "Takikardia = nadi >100x/menit; bradikardia = nadi <60x/menit.", "tag": "Nadi & Respirasi Jantung-Paru" },
+    { "front": "Takipnea dan bradipnea", "back": "Takipnea = napas >20x/menit; bradipnea = napas <12x/menit.", "tag": "Nadi & Respirasi Jantung-Paru" },
+    { "front": "Nadi tidak teratur menandakan?", "back": "Tanda awal aritmia.", "tag": "Nadi & Respirasi Jantung-Paru" },
+    { "front": "Suhu tubuh sebagai indikator", "back": "Indikator adanya infeksi atau gangguan metabolisme, serta deteksi heat stress.", "tag": "Suhu Tubuh, Heat Stress & Infeksi" },
+    { "front": "Status gizi dipantau dengan?", "back": "IMT (kg/m2) dan lingkar perut, untuk deteksi risiko sindrom metabolik.", "tag": "Status Gizi & Sindrom Metabolik" },
+    { "front": "Prediktor kuat sindrom metabolik", "back": "Obesitas dan lingkar perut besar; berisiko diabetes, hipertensi, dan penyakit jantung.", "tag": "Status Gizi & Sindrom Metabolik" },
+    { "front": "Status gizi rendah vs obesitas terhadap suhu", "back": "Gizi rendah -> suhu rendah (metabolisme rendah); obesitas -> suhu lebih tinggi (metabolisme meningkat).", "tag": "Suhu Tubuh, Heat Stress & Infeksi" },
+    { "front": "Studi White et al. (2022)", "back": "Pemeriksaan tekanan darah tahunan di perusahaan manufaktur menurunkan serangan jantung 15% dalam 5 tahun.", "tag": "Tekanan Darah & Kardiovaskular" },
+    { "front": "Studi Sutanto & Rahmawati (2023)", "back": "Integrasi program gizi dengan pemeriksaan berkala menurunkan obesitas pekerja 12% dalam 3 tahun.", "tag": "Status Gizi & Sindrom Metabolik" },
+    { "front": "Integrasi pemeriksaan dengan program pencegahan", "back": "Promosi kesehatan, program ergonomi, pemeriksaan lingkungan kerja, dan kampanye gaya hidup sehat -> menurunkan PAK.", "tag": "Integrasi dengan Program Pencegahan" },
+    { "front": "Kombinasi tanda vital berisiko tinggi", "back": "Hipertensi + obesitas + takikardia -> risiko penyakit jantung koroner; takipnea + suhu meningkat -> infeksi pernapasan.", "tag": "Konsep Tanda Vital sebagai Indikator" }
+  ],
+  "mindmap": [
+    { "id": "tanda-vital", "label": "Tanda Vital sebagai Indikator", "color": "#6366f1", "parent": null, "content": "Tanda vital adalah indikator status kesehatan pekerja yang mudah, cepat, dan murah untuk deteksi dini gangguan." },
+    { "id": "konsep", "label": "Konsep Indikator", "color": "#8b5cf6", "parent": "tanda-vital", "content": "Tanda vital memberikan gambaran kondisi fisiologis dan mendeteksi perubahan awal kesehatan." },
+    { "id": "konsep-murah", "label": "Mudah & Murah", "color": "#8b5cf6", "parent": "konsep", "content": "Mudah diukur, cepat, biaya rendah, dan mudah dilatih sehingga ideal untuk skrining rutin." },
+    { "id": "konsep-deteksi", "label": "Deteksi Dini", "color": "#8b5cf6", "parent": "konsep", "content": "Mendeteksi kondisi akut serta risiko kronis seperti hipertensi dan gangguan metabolik." },
+    { "id": "konsep-mcu", "label": "Untuk MCU", "color": "#8b5cf6", "parent": "konsep", "content": "Digunakan sebagai bagian Medical Check Up (MCU) pekerja di industri." },
+    { "id": "komponen", "label": "Lima Komponen", "color": "#0ea5e9", "parent": "tanda-vital", "content": "Lima komponen utama tanda vital pekerja sebagai indikator status kesehatan." },
+    { "id": "komp-td", "label": "Tekanan Darah", "color": "#0ea5e9", "parent": "komponen", "content": "Menunjukkan fungsi sistem kardiovaskular; normal 90/60-120/80 mmHg." },
+    { "id": "komp-nadi", "label": "Frekuensi Nadi", "color": "#0ea5e9", "parent": "komponen", "content": "Menggambarkan frekuensi dan ritme jantung; normal 60-100x/menit." },
+    { "id": "komp-napas", "label": "Frekuensi Pernapasan", "color": "#0ea5e9", "parent": "komponen", "content": "Mencerminkan fungsi sistem respirasi; normal 12-20x/menit." },
+    { "id": "komp-suhu", "label": "Suhu Tubuh", "color": "#0ea5e9", "parent": "komponen", "content": "Indikator infeksi atau gangguan metabolisme; normal 36,5-37,5 derajat C." },
+    { "id": "komp-gizi", "label": "IMT & Lingkar Perut", "color": "#0ea5e9", "parent": "komponen", "content": "Parameter tambahan menilai status gizi dan risiko obesitas." },
+    { "id": "td", "label": "Tekanan Darah & Kardiovaskular", "color": "#10b981", "parent": "tanda-vital", "content": "Pemeriksaan tekanan darah mencegah penyakit kardiovaskular melalui deteksi dini hipertensi." },
+    { "id": "td-hipertensi", "label": "Hipertensi", "color": "#10b981", "parent": "td", "content": "Faktor risiko utama penyakit jantung dan stroke yang dapat dideteksi dini." },
+    { "id": "td-tindak", "label": "Tindak Lanjut", "color": "#10b981", "parent": "td", "content": "Deteksi dini mengarahkan perubahan gaya hidup, pengobatan, atau penyesuaian penempatan kerja." },
+    { "id": "td-studi", "label": "Studi White 2022", "color": "#10b981", "parent": "td", "content": "Pemeriksaan TD tahunan menurunkan serangan jantung 15% dalam 5 tahun di manufaktur." },
+    { "id": "nadi-napas", "label": "Nadi & Respirasi Jantung-Paru", "color": "#f59e0b", "parent": "tanda-vital", "content": "Pemeriksaan nadi dan respirasi untuk deteksi dini penyakit jantung dan paru." },
+    { "id": "nn-aritmia", "label": "Aritmia", "color": "#f59e0b", "parent": "nadi-napas", "content": "Frekuensi nadi tidak teratur dapat menjadi tanda awal aritmia." },
+    { "id": "nn-takipnea", "label": "Takipnea", "color": "#f59e0b", "parent": "nadi-napas", "content": "Frekuensi pernapasan meningkat menandakan gangguan paru; pekerja tambang dirujuk pemeriksaan fungsi paru." },
+    { "id": "nn-pneumo", "label": "Cegah Pneumokoniosis", "color": "#f59e0b", "parent": "nadi-napas", "content": "Rujukan dini fungsi paru mengendalikan risiko pneumokoniosis pada pekerja tambang." },
+    { "id": "nn-spo2", "label": "Saturasi Oksigen", "color": "#f59e0b", "parent": "nadi-napas", "content": "SpO2 normal 95-100%; di bawahnya disebut hipoksemia." },
+    { "id": "suhu", "label": "Suhu, Heat Stress & Infeksi", "color": "#ef4444", "parent": "tanda-vital", "content": "Pemeriksaan suhu mencegah heat stress dan mendeteksi infeksi." },
+    { "id": "suhu-heat", "label": "Heat Stress", "color": "#ef4444", "parent": "suhu", "content": "Pekerja di industri baja/konstruksi berisiko heat stress yang berpotensi fatal." },
+    { "id": "suhu-infeksi", "label": "Deteksi Infeksi", "color": "#ef4444", "parent": "suhu", "content": "Pada lingkungan risiko tinggi (RS), suhu membantu deteksi dini demam penyakit menular." },
+    { "id": "suhu-gizi", "label": "Pengaruh Gizi", "color": "#ef4444", "parent": "suhu", "content": "Gizi rendah -> suhu rendah; obesitas -> suhu lebih tinggi karena metabolisme." },
+    { "id": "suhu-interpretasi", "label": "Interpretasi Suhu", "color": "#ef4444", "parent": "suhu", "content": "Hipotermia <35 derajat C; normal 36,5-37,5; hipertermia/demam >37,5 derajat C." },
+    { "id": "gizi", "label": "Status Gizi & Sindrom Metabolik", "color": "#ec4899", "parent": "tanda-vital", "content": "Pengukuran IMT dan lingkar perut mencegah sindrom metabolik." },
+    { "id": "gizi-imt", "label": "IMT", "color": "#ec4899", "parent": "gizi", "content": "Indeks Massa Tubuh (kg/m2) menilai status gizi pekerja dewasa." },
+    { "id": "gizi-lingkar", "label": "Lingkar Perut", "color": "#ec4899", "parent": "gizi", "content": "Lingkar perut besar adalah prediktor kuat diabetes, hipertensi, dan penyakit jantung." },
+    { "id": "gizi-program", "label": "Program Gizi", "color": "#ec4899", "parent": "gizi", "content": "Intervensi gizi, promosi aktivitas fisik, dan perbaikan pola makan di kantin." },
+    { "id": "gizi-studi", "label": "Studi Sutanto 2023", "color": "#ec4899", "parent": "gizi", "content": "Integrasi program gizi dengan pemeriksaan berkala menurunkan obesitas 12% dalam 3 tahun." },
+    { "id": "integrasi", "label": "Integrasi Pencegahan", "color": "#14b8a6", "parent": "tanda-vital", "content": "Pemeriksaan harus terintegrasi dengan program pencegahan komprehensif agar menurunkan PAK." },
+    { "id": "int-promosi", "label": "Promosi Kesehatan", "color": "#14b8a6", "parent": "integrasi", "content": "Workplace health promotion di tempat kerja." },
+    { "id": "int-ergonomi", "label": "Program Ergonomi", "color": "#14b8a6", "parent": "integrasi", "content": "Mencegah gangguan muskuloskeletal." },
+    { "id": "int-lingkungan", "label": "Pemeriksaan Lingkungan", "color": "#14b8a6", "parent": "integrasi", "content": "Menilai paparan bising, debu, atau zat kimia di tempat kerja." },
+    { "id": "int-gayahidup", "label": "Kampanye Gaya Hidup", "color": "#14b8a6", "parent": "integrasi", "content": "Senam bersama, stop merokok, dan pemeriksaan gizi." }
+  ]
+}

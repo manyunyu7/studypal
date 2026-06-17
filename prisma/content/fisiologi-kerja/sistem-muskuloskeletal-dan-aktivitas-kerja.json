@@ -1,0 +1,1381 @@
+{
+  "topic": "Sistem Muskuloskeletal dan Aktivitas Kerja",
+  "order": 1,
+  "description": "Sistem muskuloskeletal terdiri dari otot, tulang, dan jaringan ikat yang bekerja sama memungkinkan gerakan dan menopang tubuh saat bekerja. Pemahaman fisiologi otot rangka, beban kerja, dan kelelahan otot penting untuk mencegah cedera muskuloskeletal akibat kerja (MSDs).",
+  "subtopics": [
+    "Definisi & Komponen",
+    "Fungsi Sistem Muskuloskeletal",
+    "Fisiologi Otot Rangka",
+    "Jenis Kontraksi & Unit Motor",
+    "Kelelahan Otot & EMG",
+    "Faktor Risiko Kerja",
+    "Cedera & MSDs",
+    "Pencegahan & Intervensi K3"
+  ],
+  "questions": [
+    {
+      "text": "Sistem muskuloskeletal terdiri dari komponen utama berupa?",
+      "explanation": "Sistem muskuloskeletal tersusun atas otot, tulang, dan jaringan ikat yang bekerja sama memungkinkan gerakan dan menopang tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Otot, tulang, dan jaringan ikat", "isCorrect": true },
+        { "text": "B. Jantung, paru, dan ginjal", "isCorrect": false },
+        { "text": "C. Otak dan saraf tepi", "isCorrect": false },
+        { "text": "D. Darah dan pembuluh darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jaringan yang dapat berkontraksi dan berelaksasi untuk memungkinkan gerakan adalah?",
+      "explanation": "Otot adalah jaringan yang dapat berkontraksi dan berelaksasi sehingga memungkinkan gerakan tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Tulang", "isCorrect": false },
+        { "text": "B. Otot", "isCorrect": true },
+        { "text": "C. Ligamen", "isCorrect": false },
+        { "text": "D. Tendon", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan jenisnya, terdapat tiga macam otot pada tubuh manusia, yaitu?",
+      "explanation": "Tiga jenis otot adalah otot lurik (rangka), otot polos, dan otot jantung.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Otot keras, otot lunak, dan otot sedang", "isCorrect": false },
+        { "text": "B. Otot lurik, otot polos, dan otot jantung", "isCorrect": true },
+        { "text": "C. Otot tangan, otot kaki, dan otot perut", "isCorrect": false },
+        { "text": "D. Otot besar, otot kecil, dan otot mikro", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Struktur keras dan kaku yang berfungsi sebagai penopang tubuh dan tempat melekatnya otot adalah?",
+      "explanation": "Tulang adalah struktur keras dan kaku yang menopang tubuh sekaligus menjadi tempat melekatnya otot.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Tulang", "isCorrect": true },
+        { "text": "B. Otot polos", "isCorrect": false },
+        { "text": "C. Fascia", "isCorrect": false },
+        { "text": "D. Kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jaringan ikat yang menghubungkan otot dengan tulang disebut?",
+      "explanation": "Tendon adalah jaringan ikat yang menghubungkan otot dengan tulang, sedangkan ligamen menghubungkan tulang dengan tulang.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Ligamen", "isCorrect": false },
+        { "text": "B. Tendon", "isCorrect": true },
+        { "text": "C. Kartilago", "isCorrect": false },
+        { "text": "D. Fascia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jaringan ikat yang menghubungkan tulang dengan tulang pada sendi adalah?",
+      "explanation": "Ligamen adalah jaringan ikat yang menghubungkan tulang dengan tulang dan menstabilkan sendi.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Tendon", "isCorrect": false },
+        { "text": "B. Ligamen", "isCorrect": true },
+        { "text": "C. Otot rangka", "isCorrect": false },
+        { "text": "D. Saraf", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk jaringan ikat pada sistem muskuloskeletal adalah?",
+      "explanation": "Jaringan ikat pada sistem muskuloskeletal meliputi ligamen, tendon, dan fascia.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Ligamen, tendon, dan fascia", "isCorrect": true },
+        { "text": "B. Arteri, vena, dan kapiler", "isCorrect": false },
+        { "text": "C. Neuron dan akson", "isCorrect": false },
+        { "text": "D. Alveolus dan bronkus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu fungsi utama sistem muskuloskeletal adalah?",
+      "explanation": "Fungsi sistem muskuloskeletal antara lain menggerakkan tubuh, menopang tubuh, melindungi organ internal, dan mengatur postur.",
+      "difficulty": "EASY",
+      "tag": "Fungsi Sistem Muskuloskeletal",
+      "options": [
+        { "text": "A. Memompa darah ke seluruh tubuh", "isCorrect": false },
+        { "text": "B. Menggerakkan dan menopang tubuh", "isCorrect": true },
+        { "text": "C. Mengatur kadar gula darah", "isCorrect": false },
+        { "text": "D. Menyaring darah dari racun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain menggerakkan dan menopang tubuh, sistem muskuloskeletal juga berfungsi untuk?",
+      "explanation": "Sistem muskuloskeletal juga melindungi organ internal (misalnya tulang rusuk melindungi jantung dan paru) serta mengatur postur tubuh.",
+      "difficulty": "EASY",
+      "tag": "Fungsi Sistem Muskuloskeletal",
+      "options": [
+        { "text": "A. Memproduksi hormon insulin", "isCorrect": false },
+        { "text": "B. Melindungi organ internal", "isCorrect": true },
+        { "text": "C. Mencerna makanan", "isCorrect": false },
+        { "text": "D. Mengatur ritme sirkadian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kemampuan tubuh mempertahankan posisi tegak dan stabil saat bekerja merupakan fungsi muskuloskeletal dalam hal?",
+      "explanation": "Mengatur postur tubuh adalah salah satu fungsi sistem muskuloskeletal yang penting agar pekerja dapat mempertahankan posisi stabil.",
+      "difficulty": "EASY",
+      "tag": "Fungsi Sistem Muskuloskeletal",
+      "options": [
+        { "text": "A. Mengatur postur tubuh", "isCorrect": true },
+        { "text": "B. Mengatur suhu tubuh", "isCorrect": false },
+        { "text": "C. Mengatur tekanan darah", "isCorrect": false },
+        { "text": "D. Mengatur kadar oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tulang rusuk dan tengkorak menjalankan fungsi muskuloskeletal berupa?",
+      "explanation": "Tulang rusuk melindungi jantung dan paru, sedangkan tengkorak melindungi otak, menjalankan fungsi melindungi organ internal.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Sistem Muskuloskeletal",
+      "options": [
+        { "text": "A. Menggerakkan tubuh", "isCorrect": false },
+        { "text": "B. Melindungi organ internal", "isCorrect": true },
+        { "text": "C. Memproduksi enzim", "isCorrect": false },
+        { "text": "D. Mengeluarkan keringat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam aktivitas kerja fisik, sistem otot rangka berperan sebagai?",
+      "explanation": "Sistem otot rangka merupakan efektor utama dalam aktivitas kerja fisik yang mengubah energi kimia menjadi kerja mekanis.",
+      "difficulty": "MEDIUM",
+      "tag": "Fisiologi Otot Rangka",
+      "options": [
+        { "text": "A. Reseptor sensorik utama", "isCorrect": false },
+        { "text": "B. Efektor utama kerja fisik", "isCorrect": true },
+        { "text": "C. Pusat pengatur emosi", "isCorrect": false },
+        { "text": "D. Penyaring zat sisa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot rangka mengubah energi kimia menjadi kerja mekanis dengan menggunakan sumber energi berupa?",
+      "explanation": "Otot rangka mengubah energi kimia ATP menjadi kerja mekanis melalui mekanisme kontraksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Fisiologi Otot Rangka",
+      "options": [
+        { "text": "A. ATP (adenosin trifosfat)", "isCorrect": true },
+        { "text": "B. DNA", "isCorrect": false },
+        { "text": "C. Hemoglobin", "isCorrect": false },
+        { "text": "D. Insulin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mekanisme kontraksi otot rangka pada tingkat molekuler terjadi melalui interaksi antara?",
+      "explanation": "Kontraksi otot terjadi melalui mekanisme sliding filament, yaitu interaksi antara filamen aktin dan miosin.",
+      "difficulty": "HARD",
+      "tag": "Fisiologi Otot Rangka",
+      "options": [
+        { "text": "A. Glukosa dan glikogen", "isCorrect": false },
+        { "text": "B. Aktin dan miosin", "isCorrect": true },
+        { "text": "C. Natrium dan kalium", "isCorrect": false },
+        { "text": "D. Kolagen dan elastin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori yang menjelaskan pemendekan otot saat kontraksi melalui pergeseran filamen disebut?",
+      "explanation": "Teori sliding filament menjelaskan bahwa otot memendek karena filamen aktin bergeser menyusup di antara filamen miosin.",
+      "difficulty": "HARD",
+      "tag": "Fisiologi Otot Rangka",
+      "options": [
+        { "text": "A. Teori sliding filament", "isCorrect": true },
+        { "text": "B. Teori difusi pasif", "isCorrect": false },
+        { "text": "C. Teori osmosis", "isCorrect": false },
+        { "text": "D. Teori homeostasis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kontraksi otot di mana otot memendek dengan tegangan yang relatif konstan disebut kontraksi?",
+      "explanation": "Kontraksi isotonik dinamis adalah kontraksi di mana otot memendek dengan tegangan konstan, dominan pada manual handling.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Isometrik", "isCorrect": false },
+        { "text": "B. Isotonik", "isCorrect": true },
+        { "text": "C. Statis", "isCorrect": false },
+        { "text": "D. Eksentrik murni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kontraksi otot di mana otot tegang tanpa terjadi perubahan panjang otot disebut kontraksi?",
+      "explanation": "Kontraksi isometrik statis adalah kontraksi di mana otot tegang tanpa perubahan panjang, terjadi pada postur statis.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Isotonik", "isCorrect": false },
+        { "text": "B. Isometrik", "isCorrect": true },
+        { "text": "C. Dinamis", "isCorrect": false },
+        { "text": "D. Konsentrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jenis kontraksi otot yang dominan terjadi pada aktivitas manual handling (mengangkat, menarik, mendorong) adalah?",
+      "explanation": "Kontraksi isotonik dinamis dominan pada manual handling karena otot memendek sambil menggerakkan beban.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Isotonik dinamis", "isCorrect": true },
+        { "text": "B. Isometrik statis", "isCorrect": false },
+        { "text": "C. Kontraksi polos", "isCorrect": false },
+        { "text": "D. Kontraksi jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Postur kerja statis yang dipertahankan lama dominan menggunakan kontraksi?",
+      "explanation": "Postur statis didominasi kontraksi isometrik yang menyebabkan fatigue lebih cepat akibat terhambatnya aliran darah.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Isometrik statis", "isCorrect": true },
+        { "text": "B. Isotonik dinamis", "isCorrect": false },
+        { "text": "C. Kontraksi otot polos", "isCorrect": false },
+        { "text": "D. Kontraksi refleks", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kontraksi isometrik statis menyebabkan kelelahan otot lebih cepat dibanding kontraksi dinamis?",
+      "explanation": "Pada kontraksi isometrik, otot terus tegang sehingga menekan pembuluh darah dan menghambat aliran darah yang membawa oksigen.",
+      "difficulty": "HARD",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Karena otot tidak menggunakan ATP", "isCorrect": false },
+        { "text": "B. Karena aliran darah ke otot terhambat", "isCorrect": true },
+        { "text": "C. Karena otot tidak menghasilkan tegangan", "isCorrect": false },
+        { "text": "D. Karena suhu otot menurun drastis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unit motor slow-twitch (tipe I) memiliki karakteristik?",
+      "explanation": "Unit motor slow-twitch tipe I dominan pada kerja endurance dengan kapasitas aerobik tinggi dan tahan lelah.",
+      "difficulty": "HARD",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Cepat lelah dan untuk kerja berat singkat", "isCorrect": false },
+        { "text": "B. Tahan lama dan untuk kerja endurance dengan kapasitas aerobik tinggi", "isCorrect": true },
+        { "text": "C. Hanya aktif saat tidur", "isCorrect": false },
+        { "text": "D. Tidak menggunakan oksigen sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unit motor fast-twitch (tipe IIx) paling cocok untuk jenis kerja?",
+      "explanation": "Unit motor fast-twitch tipe IIx dipakai untuk kerja berat dengan durasi pendek dan menghasilkan tenaga besar.",
+      "difficulty": "HARD",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Kerja berat durasi pendek", "isCorrect": true },
+        { "text": "B. Kerja ringan durasi sangat lama", "isCorrect": false },
+        { "text": "C. Kerja mental tanpa gerakan", "isCorrect": false },
+        { "text": "D. Kerja saat istirahat total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Serabut otot tipe I (slow-twitch) bergantung terutama pada metabolisme?",
+      "explanation": "Serabut slow-twitch tipe I memiliki kapasitas aerobik tinggi sehingga bergantung pada metabolisme aerobik (memakai oksigen).",
+      "difficulty": "HARD",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Aerobik", "isCorrect": true },
+        { "text": "B. Anaerobik murni", "isCorrect": false },
+        { "text": "C. Fotosintesis", "isCorrect": false },
+        { "text": "D. Fermentasi alkohol", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu penyebab utama kelelahan otot (muscular fatigue) saat kerja adalah?",
+      "explanation": "Akumulasi asam laktat, penurunan pH, dan deplesi glikogen menjadi penyebab muscular fatigue.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Peningkatan kadar oksigen berlebih", "isCorrect": false },
+        { "text": "B. Akumulasi asam laktat dan deplesi glikogen", "isCorrect": true },
+        { "text": "C. Peningkatan jumlah ATP berlebih", "isCorrect": false },
+        { "text": "D. Penurunan suhu inti tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Akumulasi asam laktat pada otot yang lelah menyebabkan perubahan pada lingkungan otot berupa?",
+      "explanation": "Akumulasi asam laktat menyebabkan penurunan pH (suasana lebih asam) yang berkontribusi pada kelelahan otot.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Penurunan pH (lebih asam)", "isCorrect": true },
+        { "text": "B. Peningkatan pH (lebih basa)", "isCorrect": false },
+        { "text": "C. pH tetap netral", "isCorrect": false },
+        { "text": "D. Hilangnya seluruh cairan otot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut data fisiologi kerja, kapasitas kerja dapat menurun sekitar berapa persen setelah 1 jam kerja statis?",
+      "explanation": "Kapasitas kerja menurun 15-30% setelah 1 jam kerja statis akibat akumulasi metabolit dan kelelahan otot.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. 1-5%", "isCorrect": false },
+        { "text": "B. 15-30%", "isCorrect": true },
+        { "text": "C. 50-70%", "isCorrect": false },
+        { "text": "D. 80-90%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deplesi cadangan energi yang berkontribusi pada kelelahan otot terutama berupa penurunan?",
+      "explanation": "Deplesi glikogen (cadangan karbohidrat otot) merupakan salah satu penyebab kelelahan otot saat kerja berkepanjangan.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Glikogen", "isCorrect": true },
+        { "text": "B. Kolagen", "isCorrect": false },
+        { "text": "C. Melanin", "isCorrect": false },
+        { "text": "D. Keratin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode pengukuran aktivitas listrik otot untuk mengevaluasi kelelahan otot disebut?",
+      "explanation": "Electromyography (EMG) digunakan untuk mengevaluasi kelelahan otot dengan merekam aktivitas listrik otot.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. EKG (elektrokardiografi)", "isCorrect": false },
+        { "text": "B. EMG (elektromiografi)", "isCorrect": true },
+        { "text": "C. EEG (elektroensefalografi)", "isCorrect": false },
+        { "text": "D. Spirometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pemeriksaan EMG, indikator yang menunjukkan terjadinya kelelahan otot adalah?",
+      "explanation": "Kelelahan otot pada EMG ditandai dengan penurunan median frequency dari sinyal listrik otot.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Penurunan median frequency", "isCorrect": true },
+        { "text": "B. Peningkatan suhu kulit", "isCorrect": false },
+        { "text": "C. Penurunan tekanan darah", "isCorrect": false },
+        { "text": "D. Peningkatan kadar oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode sederhana selain EMG yang dapat dipakai untuk menilai kelelahan otot tangan adalah?",
+      "explanation": "Handgrip endurance time (waktu daya tahan genggaman) adalah metode sederhana untuk menilai kelelahan otot.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Handgrip endurance time", "isCorrect": true },
+        { "text": "B. Tes buta warna", "isCorrect": false },
+        { "text": "C. Tes pendengaran", "isCorrect": false },
+        { "text": "D. Tes spirometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "EMG merekam jenis sinyal apa dari otot?",
+      "explanation": "EMG merekam aktivitas listrik (sinyal elektrik) yang dihasilkan otot saat berkontraksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Sinyal listrik otot", "isCorrect": true },
+        { "text": "B. Suhu otot", "isCorrect": false },
+        { "text": "C. Tekanan darah otot", "isCorrect": false },
+        { "text": "D. Gelombang suara otot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas kerja yang melibatkan gerakan fisik seperti angkat, tarik, dan dorong terutama mempengaruhi?",
+      "explanation": "Gerakan fisik seperti angkat, tarik, dan dorong terutama mempengaruhi otot dan tulang pada sistem muskuloskeletal.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Sistem pencernaan", "isCorrect": false },
+        { "text": "B. Sistem muskuloskeletal", "isCorrect": true },
+        { "text": "C. Sistem ekskresi", "isCorrect": false },
+        { "text": "D. Sistem reproduksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Postur kerja yang tidak nyaman dalam waktu lama dapat menyebabkan?",
+      "explanation": "Postur kerja yang tidak nyaman menyebabkan ketegangan pada otot dan sendi serta meningkatkan risiko cedera.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Ketegangan pada otot dan sendi", "isCorrect": true },
+        { "text": "B. Peningkatan kapasitas paru", "isCorrect": false },
+        { "text": "C. Penurunan kadar gula darah", "isCorrect": false },
+        { "text": "D. Peningkatan ketajaman penglihatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor risiko kerja yang berkaitan dengan pekerjaan repetitif (berulang) dapat menyebabkan?",
+      "explanation": "Gerakan berulang menyebabkan ketegangan pada otot dan sendi yang bila berlangsung lama dapat menimbulkan cumulative trauma.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Ketegangan otot dan sendi akibat akumulasi", "isCorrect": true },
+        { "text": "B. Peningkatan elastisitas tulang", "isCorrect": false },
+        { "text": "C. Penurunan beban otot", "isCorrect": false },
+        { "text": "D. Hilangnya rasa lelah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut termasuk faktor yang mempengaruhi sistem muskuloskeletal saat bekerja, KECUALI?",
+      "explanation": "Faktor yang mempengaruhi muskuloskeletal antara lain postur kerja, beban kerja, gerakan berulang, dan waktu kerja; ketajaman pendengaran bukan termasuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Postur kerja", "isCorrect": false },
+        { "text": "B. Ketajaman pendengaran", "isCorrect": true },
+        { "text": "C. Beban kerja", "isCorrect": false },
+        { "text": "D. Gerakan berulang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Waktu kerja yang terlalu lama tanpa istirahat dapat menyebabkan?",
+      "explanation": "Waktu kerja yang lama dapat menyebabkan kelelahan pada otot dan sendi.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Kelelahan otot dan sendi", "isCorrect": true },
+        { "text": "B. Peningkatan massa otot", "isCorrect": false },
+        { "text": "C. Peningkatan kepadatan tulang", "isCorrect": false },
+        { "text": "D. Penurunan suhu tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja yang berat melebihi kemampuan tubuh paling berisiko menyebabkan?",
+      "explanation": "Beban kerja yang berat dapat menyebabkan cedera pada otot dan sendi.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Cedera pada otot dan sendi", "isCorrect": true },
+        { "text": "B. Peningkatan tajam penglihatan", "isCorrect": false },
+        { "text": "C. Peningkatan fungsi ginjal", "isCorrect": false },
+        { "text": "D. Penurunan denyut jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor individu yang dapat mempengaruhi kerentanan sistem muskuloskeletal terhadap cedera kerja meliputi?",
+      "explanation": "Faktor individu seperti usia, jenis kelamin, dan kondisi kesehatan dapat mempengaruhi kerentanan sistem muskuloskeletal.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Usia, jenis kelamin, dan kondisi kesehatan", "isCorrect": true },
+        { "text": "B. Warna baju kerja", "isCorrect": false },
+        { "text": "C. Merek alat kerja", "isCorrect": false },
+        { "text": "D. Jarak kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan alat kerja yang tidak sesuai (tidak ergonomis) dapat?",
+      "explanation": "Penggunaan alat yang tidak tepat dapat mempengaruhi sistem muskuloskeletal dan meningkatkan risiko cedera.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Meningkatkan risiko cedera muskuloskeletal", "isCorrect": true },
+        { "text": "B. Menghilangkan semua risiko kerja", "isCorrect": false },
+        { "text": "C. Meningkatkan kapasitas aerobik", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah analisis untuk memahami pengaruh aktivitas kerja terhadap muskuloskeletal antara lain?",
+      "explanation": "Analisis meliputi mengidentifikasi tugas fisik, menganalisis postur tubuh, mengukur beban, dan mengidentifikasi faktor risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Mengidentifikasi tugas fisik, postur, dan beban kerja", "isCorrect": true },
+        { "text": "B. Mengukur kadar gula darah harian", "isCorrect": false },
+        { "text": "C. Menghitung jumlah karyawan baru", "isCorrect": false },
+        { "text": "D. Menilai warna dinding ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cedera otot pada konteks aktivitas kerja umumnya terjadi karena?",
+      "explanation": "Cedera otot terjadi karena ketegangan (strain) atau robekan pada otot akibat beban atau gerakan berlebih.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Ketegangan atau robekan pada otot", "isCorrect": true },
+        { "text": "B. Infeksi virus pada otot", "isCorrect": false },
+        { "text": "C. Kekurangan vitamin A", "isCorrect": false },
+        { "text": "D. Paparan sinar matahari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cedera sendi pada pekerja umumnya terjadi karena ketegangan atau robekan pada?",
+      "explanation": "Cedera sendi terjadi karena ketegangan atau robekan pada ligamen atau tendon di sekitar sendi.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Ligamen atau tendon", "isCorrect": true },
+        { "text": "B. Pembuluh darah arteri", "isCorrect": false },
+        { "text": "C. Saraf optik", "isCorrect": false },
+        { "text": "D. Kelenjar keringat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketegangan otot (muscle strain) saat bekerja sering disebabkan oleh?",
+      "explanation": "Ketegangan otot terjadi karena postur kerja yang tidak nyaman atau beban kerja yang berat.",
+      "difficulty": "EASY",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Postur kerja tidak nyaman atau beban berat", "isCorrect": true },
+        { "text": "B. Tidur yang berlebihan", "isCorrect": false },
+        { "text": "C. Minum air yang cukup", "isCorrect": false },
+        { "text": "D. Suhu ruangan yang sejuk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelelahan otot saat bekerja terutama dipicu oleh?",
+      "explanation": "Kelelahan otot terjadi karena waktu kerja yang lama atau gerakan berulang yang terus-menerus.",
+      "difficulty": "EASY",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Waktu kerja lama atau gerakan berulang", "isCorrect": true },
+        { "text": "B. Istirahat yang terlalu sering", "isCorrect": false },
+        { "text": "C. Penggunaan alat ergonomis", "isCorrect": false },
+        { "text": "D. Pencahayaan yang baik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan muskuloskeletal akibat kerja yang berkembang secara bertahap akibat pajanan berulang dikenal dengan istilah?",
+      "explanation": "Cumulative trauma disorders (CTD) atau MSDs adalah gangguan muskuloskeletal yang berkembang bertahap akibat pajanan berulang.",
+      "difficulty": "HARD",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Cumulative trauma disorders (CTD)", "isCorrect": true },
+        { "text": "B. Acute coronary syndrome", "isCorrect": false },
+        { "text": "C. Chronic kidney disease", "isCorrect": false },
+        { "text": "D. Heat stroke", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan MSDs dalam konteks K3 merujuk pada?",
+      "explanation": "MSDs (Musculoskeletal Disorders) adalah gangguan pada sistem otot rangka akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Musculoskeletal Disorders", "isCorrect": true },
+        { "text": "B. Mental Stress Disorders", "isCorrect": false },
+        { "text": "C. Metabolic Syndrome Disease", "isCorrect": false },
+        { "text": "D. Multiple Sclerosis Disease", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh keluhan MSDs yang sering dialami pekerja dengan postur duduk lama dan gerakan berulang adalah?",
+      "explanation": "Nyeri punggung bawah (low back pain) dan nyeri leher/bahu adalah keluhan MSDs umum pada pekerja postur statis dan repetitif.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Nyeri punggung bawah dan nyeri leher", "isCorrect": true },
+        { "text": "B. Demam tinggi mendadak", "isCorrect": false },
+        { "text": "C. Gangguan penglihatan warna", "isCorrect": false },
+        { "text": "D. Penurunan pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko cedera muskuloskeletal pada pekerja paling tinggi bila terdapat kombinasi?",
+      "explanation": "Risiko cedera meningkat bila ada kombinasi aktivitas berulang, posisi kerja tidak nyaman, dan beban kerja berat.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Aktivitas berulang, posisi tidak nyaman, dan beban berat", "isCorrect": true },
+        { "text": "B. Istirahat cukup dan postur netral", "isCorrect": false },
+        { "text": "C. Alat ergonomis dan rotasi kerja", "isCorrect": false },
+        { "text": "D. Beban ringan dan gerakan bervariasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara mencegah cedera muskuloskeletal di tempat kerja adalah?",
+      "explanation": "Pencegahan cedera dilakukan dengan mengatur postur kerja yang nyaman, menggunakan alat sesuai, istirahat cukup, dan peregangan.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Mengatur postur kerja yang nyaman", "isCorrect": true },
+        { "text": "B. Memperpanjang jam kerja tanpa istirahat", "isCorrect": false },
+        { "text": "C. Mengabaikan keluhan nyeri", "isCorrect": false },
+        { "text": "D. Mengangkat beban dengan punggung membungkuk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Melakukan peregangan (stretching) secara teratur saat bekerja bermanfaat untuk?",
+      "explanation": "Peregangan membantu mencegah ketegangan pada otot dan sendi serta mengurangi risiko cedera.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Mencegah ketegangan otot dan sendi", "isCorrect": true },
+        { "text": "B. Meningkatkan kebisingan ruangan", "isCorrect": false },
+        { "text": "C. Menambah beban kerja", "isCorrect": false },
+        { "text": "D. Menurunkan kualitas tidur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan alat kerja yang ergonomis dan sesuai bertujuan untuk?",
+      "explanation": "Menggunakan alat yang sesuai membantu mencegah beban kerja berat berlebih pada otot dan sendi.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Mencegah beban kerja berat berlebih pada otot", "isCorrect": true },
+        { "text": "B. Meningkatkan paparan bahan kimia", "isCorrect": false },
+        { "text": "C. Memperberat tugas fisik", "isCorrect": false },
+        { "text": "D. Menambah durasi kerja statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengambil istirahat yang cukup di sela pekerjaan bertujuan untuk?",
+      "explanation": "Istirahat yang cukup mencegah kelelahan pada otot dan sendi sehingga menurunkan risiko cedera.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Mencegah kelelahan otot dan sendi", "isCorrect": true },
+        { "text": "B. Meningkatkan akumulasi asam laktat", "isCorrect": false },
+        { "text": "C. Memperburuk postur kerja", "isCorrect": false },
+        { "text": "D. Menambah beban statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Intervensi K3 untuk mengurangi beban kerja statis pada postur yang dipertahankan lama adalah?",
+      "explanation": "Desain kerja dinamis dan rotasi pekerjaan tiap 30 menit untuk kerja statis dapat mengurangi beban statis.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Rotasi pekerjaan tiap 30 menit untuk kerja statis", "isCorrect": true },
+        { "text": "B. Mempertahankan satu postur sepanjang shift", "isCorrect": false },
+        { "text": "C. Menghilangkan semua waktu istirahat", "isCorrect": false },
+        { "text": "D. Menambah durasi kontraksi isometrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ILO, rest allowance (kelonggaran istirahat) yang dianjurkan berkisar?",
+      "explanation": "ILO menganjurkan penerapan rest allowance sebesar 11%-20% dari waktu kerja untuk pemulihan.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. 11%-20% dari waktu kerja", "isCorrect": true },
+        { "text": "B. 50%-60% dari waktu kerja", "isCorrect": false },
+        { "text": "C. 1%-2% dari waktu kerja", "isCorrect": false },
+        { "text": "D. 80%-90% dari waktu kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Postur kerja dengan sudut sendi netral menurut ISO 11226:2020 dapat menurunkan beban statis hingga sekitar?",
+      "explanation": "Postur kerja dengan sudut sendi netral menurunkan beban statis hingga 40% dan mencegah cumulative trauma disorders.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. 40%", "isCorrect": true },
+        { "text": "B. 5%", "isCorrect": false },
+        { "text": "C. 90%", "isCorrect": false },
+        { "text": "D. 100%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar internasional yang mengatur evaluasi postur kerja statis untuk mencegah MSDs adalah?",
+      "explanation": "ISO 11226:2020 mengatur evaluasi postur kerja statis dan penetapan sudut sendi netral.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. ISO 11226:2020", "isCorrect": true },
+        { "text": "B. ISO 9001:2015", "isCorrect": false },
+        { "text": "C. ISO 14001:2015", "isCorrect": false },
+        { "text": "D. ISO 27001:2022", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan desain kerja dinamis (dynamic work design) sebagai intervensi K3 bertujuan untuk?",
+      "explanation": "Desain kerja dinamis mengurangi pajanan kontraksi isometrik statis sehingga memperlambat timbulnya kelelahan otot.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Mengurangi pajanan kontraksi statis dan kelelahan otot", "isCorrect": true },
+        { "text": "B. Menambah durasi postur statis", "isCorrect": false },
+        { "text": "C. Meniadakan rotasi pekerjaan", "isCorrect": false },
+        { "text": "D. Memperbesar beban angkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat utama memahami hubungan antara sistem muskuloskeletal dan aktivitas kerja adalah?",
+      "explanation": "Memahami hubungan ini penting untuk mencegah cedera dan meningkatkan kinerja serta kenyamanan kerja.",
+      "difficulty": "EASY",
+      "tag": "Fungsi Sistem Muskuloskeletal",
+      "options": [
+        { "text": "A. Mencegah cedera dan meningkatkan kinerja kerja", "isCorrect": true },
+        { "text": "B. Menambah biaya produksi", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "D. Memperlambat semua proses kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot jantung (kardiak) berbeda dari otot rangka karena bersifat?",
+      "explanation": "Otot jantung bekerja secara involunter (tidak sadar) dan berkontraksi terus-menerus, berbeda dengan otot rangka yang volunter.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Bekerja di luar kesadaran (involunter)", "isCorrect": true },
+        { "text": "B. Hanya aktif saat berolahraga", "isCorrect": false },
+        { "text": "C. Melekat pada tulang", "isCorrect": false },
+        { "text": "D. Dikendalikan sepenuhnya secara sadar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot polos pada tubuh manusia umumnya ditemukan di?",
+      "explanation": "Otot polos ditemukan pada dinding organ dalam seperti saluran pencernaan dan pembuluh darah, bekerja involunter.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Dinding organ dalam dan pembuluh darah", "isCorrect": true },
+        { "text": "B. Hanya pada lengan dan kaki", "isCorrect": false },
+        { "text": "C. Hanya pada jantung", "isCorrect": false },
+        { "text": "D. Hanya pada tengkorak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot yang melekat pada tulang dan bekerja secara sadar (volunter) untuk menghasilkan gerakan kerja adalah?",
+      "explanation": "Otot lurik (otot rangka) melekat pada tulang dan bekerja secara volunter untuk menghasilkan gerakan tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Otot lurik (rangka)", "isCorrect": true },
+        { "text": "B. Otot polos", "isCorrect": false },
+        { "text": "C. Otot jantung", "isCorrect": false },
+        { "text": "D. Otot pernapasan otomatis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai kontraksi isotonik adalah?",
+      "explanation": "Pada kontraksi isotonik, otot mengalami perubahan panjang (memendek) dengan tegangan relatif konstan saat menggerakkan beban.",
+      "difficulty": "HARD",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Panjang otot berubah dengan tegangan relatif konstan", "isCorrect": true },
+        { "text": "B. Panjang otot tetap dan tegangan berubah", "isCorrect": false },
+        { "text": "C. Otot tidak menghasilkan gaya", "isCorrect": false },
+        { "text": "D. Otot hanya aktif saat tidur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai kontraksi isometrik adalah?",
+      "explanation": "Pada kontraksi isometrik, otot menghasilkan tegangan namun panjang otot tetap (tidak ada gerakan sendi).",
+      "difficulty": "HARD",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Otot menghasilkan tegangan tanpa perubahan panjang", "isCorrect": true },
+        { "text": "B. Otot memendek dengan cepat", "isCorrect": false },
+        { "text": "C. Otot memanjang dengan beban", "isCorrect": false },
+        { "text": "D. Otot tidak menggunakan energi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang mengangkat dan memindahkan kardus secara berulang sepanjang shift terutama membebani jenis kerja otot?",
+      "explanation": "Mengangkat dan memindahkan beban adalah kerja dinamis isotonik karena otot memendek sambil menggerakkan beban.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Dinamis isotonik", "isCorrect": true },
+        { "text": "B. Statis isometrik murni", "isCorrect": false },
+        { "text": "C. Tidak ada kerja otot", "isCorrect": false },
+        { "text": "D. Kerja otot polos saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang menahan postur membungkuk dalam waktu lama tanpa bergerak terutama membebani jenis kerja otot?",
+      "explanation": "Menahan postur membungkuk lama tanpa gerakan adalah kerja statis isometrik yang cepat menimbulkan kelelahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Statis isometrik", "isCorrect": true },
+        { "text": "B. Dinamis isotonik", "isCorrect": false },
+        { "text": "C. Kerja aerobik ringan", "isCorrect": false },
+        { "text": "D. Kerja otot jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas kerja yang melibatkan banyak kontraksi isometrik statis sebaiknya dikurangi karena?",
+      "explanation": "Kontraksi isometrik statis menghambat aliran darah ke otot sehingga lebih cepat menimbulkan kelelahan dan risiko MSDs.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Lebih cepat menimbulkan kelelahan dan risiko MSDs", "isCorrect": true },
+        { "text": "B. Meningkatkan aliran darah ke otot", "isCorrect": false },
+        { "text": "C. Menghilangkan kebutuhan istirahat", "isCorrect": false },
+        { "text": "D. Membuat otot tidak pernah lelah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Energi mekanis pada otot dihasilkan dari konversi energi kimia. Proses ini menjadikan otot sebagai?",
+      "explanation": "Otot mengubah energi kimia ATP menjadi kerja mekanis, sehingga otot berperan sebagai pengubah energi (transduser energi).",
+      "difficulty": "MEDIUM",
+      "tag": "Fisiologi Otot Rangka",
+      "options": [
+        { "text": "A. Pengubah energi kimia menjadi mekanis", "isCorrect": true },
+        { "text": "B. Penyimpan oksigen utama", "isCorrect": false },
+        { "text": "C. Penghasil hormon", "isCorrect": false },
+        { "text": "D. Penyaring darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat kebutuhan energi otot melampaui suplai oksigen, otot menghasilkan energi secara anaerobik yang menghasilkan?",
+      "explanation": "Metabolisme anaerobik pada otot menghasilkan asam laktat yang terakumulasi dan memicu kelelahan otot.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Asam laktat", "isCorrect": true },
+        { "text": "B. Oksigen murni", "isCorrect": false },
+        { "text": "C. Glukosa berlebih", "isCorrect": false },
+        { "text": "D. Vitamin D", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator fisiologis yang menurun pada sinyal EMG seiring berkembangnya kelelahan otot adalah median frequency. Hal ini terjadi karena?",
+      "explanation": "Penurunan median frequency mencerminkan perlambatan konduksi serabut otot dan perubahan rekrutmen unit motor saat lelah.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Perlambatan konduksi serabut otot saat lelah", "isCorrect": true },
+        { "text": "B. Otot berhenti menghasilkan listrik", "isCorrect": false },
+        { "text": "C. Suhu kulit meningkat tajam", "isCorrect": false },
+        { "text": "D. Tekanan darah turun drastis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama mengukur kelelahan otot dengan EMG di tempat kerja adalah?",
+      "explanation": "Pengukuran EMG bertujuan mengevaluasi tingkat pembebanan otot dan kelelahan untuk dasar perbaikan desain kerja (intervensi K3).",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Mengevaluasi pembebanan dan kelelahan otot untuk perbaikan kerja", "isCorrect": true },
+        { "text": "B. Mengukur kadar gula darah", "isCorrect": false },
+        { "text": "C. Menentukan tingkat kebisingan", "isCorrect": false },
+        { "text": "D. Mengukur suhu ruangan kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tendon berperan penting dalam gerakan kerja karena?",
+      "explanation": "Tendon meneruskan gaya kontraksi otot ke tulang sehingga menghasilkan gerakan pada sendi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Meneruskan gaya otot ke tulang untuk gerakan", "isCorrect": true },
+        { "text": "B. Menghasilkan sel darah merah", "isCorrect": false },
+        { "text": "C. Mengatur suhu tubuh", "isCorrect": false },
+        { "text": "D. Menyimpan lemak tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fascia dalam sistem muskuloskeletal berfungsi sebagai?",
+      "explanation": "Fascia adalah jaringan ikat yang membungkus dan memberikan dukungan serta kekuatan pada otot dan struktur sekitarnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Jaringan pembungkus yang memberi dukungan dan kekuatan", "isCorrect": true },
+        { "text": "B. Pemompa darah ke otot", "isCorrect": false },
+        { "text": "C. Penghasil hormon pertumbuhan", "isCorrect": false },
+        { "text": "D. Pengatur frekuensi napas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk mengangkat beban berat dengan aman dan mengurangi risiko cedera punggung, teknik yang dianjurkan adalah?",
+      "explanation": "Mengangkat beban dengan menekuk lutut dan menjaga punggung tegak (memakai otot tungkai) menurunkan beban pada tulang belakang.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Menekuk lutut dan menjaga punggung tegak", "isCorrect": true },
+        { "text": "B. Membungkukkan punggung dan kaki lurus", "isCorrect": false },
+        { "text": "C. Memutar pinggang saat mengangkat", "isCorrect": false },
+        { "text": "D. Menahan napas dan menyentak beban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seleksi fit to work untuk pekerjaan fisik berat sebaiknya mempertimbangkan kondisi muskuloskeletal pekerja karena?",
+      "explanation": "Kondisi muskuloskeletal individu mempengaruhi kerentanan cedera, sehingga seleksi fit to work membantu mencegah cedera akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Mempengaruhi kerentanan terhadap cedera kerja", "isCorrect": true },
+        { "text": "B. Menentukan warna seragam", "isCorrect": false },
+        { "text": "C. Mengatur jam kantin", "isCorrect": false },
+        { "text": "D. Tidak ada hubungannya dengan cedera", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan berkala pada pekerja terkait muskuloskeletal bermanfaat untuk?",
+      "explanation": "Pemeriksaan berkala membantu deteksi dini keluhan dan gangguan muskuloskeletal sehingga dapat ditangani lebih awal.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Deteksi dini gangguan muskuloskeletal", "isCorrect": true },
+        { "text": "B. Menambah beban kerja", "isCorrect": false },
+        { "text": "C. Mengurangi waktu istirahat", "isCorrect": false },
+        { "text": "D. Menghapus catatan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang TIDAK benar mengenai pencegahan cedera muskuloskeletal adalah?",
+      "explanation": "Mempertahankan postur statis sepanjang hari justru meningkatkan beban dan risiko MSDs, bukan mencegahnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Mempertahankan satu postur statis sepanjang hari mencegah cedera", "isCorrect": true },
+        { "text": "B. Melakukan peregangan teratur mengurangi ketegangan", "isCorrect": false },
+        { "text": "C. Menggunakan alat ergonomis mengurangi beban otot", "isCorrect": false },
+        { "text": "D. Istirahat cukup mencegah kelelahan otot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rotasi pekerjaan (job rotation) efektif menurunkan risiko MSDs karena?",
+      "explanation": "Rotasi pekerjaan membagi beban ke kelompok otot yang berbeda dan mencegah pembebanan berlebih pada otot yang sama secara terus-menerus.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Membagi beban ke kelompok otot yang berbeda", "isCorrect": true },
+        { "text": "B. Menambah durasi pembebanan satu otot", "isCorrect": false },
+        { "text": "C. Menghilangkan kebutuhan istirahat", "isCorrect": false },
+        { "text": "D. Meningkatkan kontraksi isometrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor pekerjaan (work-related) yang menjadi penyebab utama MSDs meliputi postur janggal, gaya berlebih, dan?",
+      "explanation": "Faktor utama MSDs mencakup postur janggal (awkward posture), gaya/force berlebih, dan gerakan repetitif.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Gerakan repetitif", "isCorrect": true },
+        { "text": "B. Suhu udara yang sejuk", "isCorrect": false },
+        { "text": "C. Pencahayaan yang baik", "isCorrect": false },
+        { "text": "D. Kebisingan rendah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Getaran mekanis pada alat kerja (hand-arm vibration) dapat memperberat keluhan muskuloskeletal karena?",
+      "explanation": "Getaran mekanis pada tangan-lengan dapat memicu gangguan otot, saraf, dan pembuluh darah perifer, memperberat keluhan muskuloskeletal.",
+      "difficulty": "HARD",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Memicu gangguan otot, saraf, dan pembuluh darah perifer", "isCorrect": true },
+        { "text": "B. Meningkatkan kebugaran otot", "isCorrect": false },
+        { "text": "C. Mempercepat pemulihan", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh pada otot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengidentifikasi tugas-tugas fisik (angkat, tarik, dorong) dalam analisis ergonomi bertujuan untuk?",
+      "explanation": "Identifikasi tugas fisik membantu memahami bagaimana sistem muskuloskeletal terbebani sehingga risiko dapat dikendalikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Memahami pembebanan muskuloskeletal agar risiko dikendalikan", "isCorrect": true },
+        { "text": "B. Menentukan jam makan siang", "isCorrect": false },
+        { "text": "C. Menghitung biaya listrik", "isCorrect": false },
+        { "text": "D. Memilih warna lantai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengukur beban kerja fisik membantu memahami bahwa beban yang berat dapat?",
+      "explanation": "Mengukur beban membantu memahami bahwa beban kerja yang berat dapat mempengaruhi (membebani) otot dan tulang.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Mempengaruhi otot dan tulang", "isCorrect": true },
+        { "text": "B. Memperbaiki penglihatan", "isCorrect": false },
+        { "text": "C. Menambah kadar oksigen darah", "isCorrect": false },
+        { "text": "D. Mengurangi denyut jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hubungan kontraksi statis dan aliran darah otot adalah?",
+      "explanation": "Kontraksi statis yang dipertahankan menekan pembuluh darah dan menurunkan aliran darah, mempercepat kelelahan otot.",
+      "difficulty": "HARD",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Kontraksi statis menurunkan aliran darah otot", "isCorrect": true },
+        { "text": "B. Kontraksi statis meningkatkan aliran darah otot", "isCorrect": false },
+        { "text": "C. Aliran darah tidak dipengaruhi kontraksi", "isCorrect": false },
+        { "text": "D. Kontraksi statis menghentikan metabolisme", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemulihan dari kelelahan otot setelah kerja fisik terjadi melalui?",
+      "explanation": "Pemulihan terjadi melalui istirahat dan suplai oksigen yang cukup untuk membersihkan asam laktat dan mengisi ulang cadangan energi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Istirahat dan suplai oksigen yang cukup", "isCorrect": true },
+        { "text": "B. Penambahan kontraksi isometrik", "isCorrect": false },
+        { "text": "C. Peningkatan beban kerja", "isCorrect": false },
+        { "text": "D. Penurunan asupan cairan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tulang pada sistem muskuloskeletal juga berperan dalam pembentukan sel darah yang terjadi di?",
+      "explanation": "Sumsum tulang (bone marrow) di dalam tulang berperan dalam pembentukan sel darah (hematopoiesis).",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi Sistem Muskuloskeletal",
+      "options": [
+        { "text": "A. Sumsum tulang", "isCorrect": true },
+        { "text": "B. Tendon", "isCorrect": false },
+        { "text": "C. Ligamen", "isCorrect": false },
+        { "text": "D. Fascia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sendi (joint) memungkinkan gerakan kerja karena merupakan tempat?",
+      "explanation": "Sendi adalah tempat pertemuan dua tulang atau lebih yang memungkinkan terjadinya gerakan tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Pertemuan dua tulang atau lebih", "isCorrect": true },
+        { "text": "B. Penyimpanan oksigen", "isCorrect": false },
+        { "text": "C. Produksi hormon", "isCorrect": false },
+        { "text": "D. Penyaringan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kerja otot dinamis (isotonik) lebih dianjurkan dibanding kerja statis berkepanjangan dalam desain ergonomi karena?",
+      "explanation": "Kerja dinamis memungkinkan otot berkontraksi dan relaksasi bergantian sehingga aliran darah tetap lancar dan kelelahan lebih lambat.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Aliran darah tetap lancar sehingga kelelahan lebih lambat", "isCorrect": true },
+        { "text": "B. Tidak membutuhkan energi sama sekali", "isCorrect": false },
+        { "text": "C. Menghentikan suplai oksigen ke otot", "isCorrect": false },
+        { "text": "D. Membuat otot tidak pernah berkontraksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nilai normal kapasitas kerja menurun signifikan pada kerja statis. Hal ini menjadi dasar penerapan?",
+      "explanation": "Penurunan kapasitas kerja pada kerja statis menjadi dasar penerapan work-rest cycle (siklus kerja-istirahat) dan rotasi pekerjaan.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Work-rest cycle dan rotasi pekerjaan", "isCorrect": true },
+        { "text": "B. Penghapusan waktu istirahat", "isCorrect": false },
+        { "text": "C. Penambahan jam lembur", "isCorrect": false },
+        { "text": "D. Pembatasan minum air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu indikator beban kerja fisik berlebih pada otot yang dapat diamati secara klinis adalah?",
+      "explanation": "Nyeri otot, pegal, dan penurunan kekuatan genggaman merupakan indikator klinis beban kerja otot berlebih dan kelelahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Nyeri otot, pegal, dan penurunan kekuatan genggaman", "isCorrect": true },
+        { "text": "B. Peningkatan ketajaman penglihatan", "isCorrect": false },
+        { "text": "C. Peningkatan kemampuan pendengaran", "isCorrect": false },
+        { "text": "D. Penurunan suhu lingkungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja kantor yang mengetik berjam-jam berisiko mengalami MSDs pada tangan/pergelangan berupa?",
+      "explanation": "Gerakan repetitif mengetik dapat menyebabkan carpal tunnel syndrome (CTS) dan keluhan tendinitis pada pergelangan tangan.",
+      "difficulty": "HARD",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Carpal tunnel syndrome", "isCorrect": true },
+        { "text": "B. Heat stroke", "isCorrect": false },
+        { "text": "C. Hipertensi mendadak", "isCorrect": false },
+        { "text": "D. Gangguan penglihatan warna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk menilai risiko postur kerja secara cepat di lapangan, sering digunakan metode penilaian seperti?",
+      "explanation": "Metode RULA dan REBA adalah alat penilaian risiko postur kerja yang umum digunakan untuk mendeteksi risiko MSDs.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. RULA dan REBA", "isCorrect": true },
+        { "text": "B. EKG dan spirometri", "isCorrect": false },
+        { "text": "C. Audiometri dan lux meter", "isCorrect": false },
+        { "text": "D. Tes IQ dan EQ", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat unit motor direkrut untuk menghasilkan tenaga lebih besar, tubuh umumnya merekrut serabut otot dengan pola?",
+      "explanation": "Sesuai prinsip ukuran (size principle), serabut slow-twitch direkrut lebih dulu, baru fast-twitch saat dibutuhkan tenaga lebih besar.",
+      "difficulty": "HARD",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Slow-twitch dulu, lalu fast-twitch saat butuh tenaga besar", "isCorrect": true },
+        { "text": "B. Fast-twitch dulu pada beban ringan", "isCorrect": false },
+        { "text": "C. Tidak ada urutan rekrutmen", "isCorrect": false },
+        { "text": "D. Hanya otot jantung yang direkrut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat akhir penerapan strategi pencegahan MSDs di tempat kerja adalah?",
+      "explanation": "Pencegahan MSDs menurunkan angka cedera, meningkatkan kenyamanan, produktivitas kerja, dan menekan biaya kesehatan.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Menurunkan cedera dan meningkatkan produktivitas", "isCorrect": true },
+        { "text": "B. Menambah angka kecelakaan kerja", "isCorrect": false },
+        { "text": "C. Meningkatkan biaya kesehatan", "isCorrect": false },
+        { "text": "D. Menurunkan kenyamanan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot rangka tersusun atas unit kontraktil terkecil yang berulang disebut?",
+      "explanation": "Sarkomer adalah unit kontraktil terkecil otot rangka, tempat terjadinya interaksi aktin dan miosin.",
+      "difficulty": "HARD",
+      "tag": "Fisiologi Otot Rangka",
+      "options": [
+        { "text": "A. Sarkomer", "isCorrect": true },
+        { "text": "B. Nefron", "isCorrect": false },
+        { "text": "C. Alveolus", "isCorrect": false },
+        { "text": "D. Neuron", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Satu unit motor (motor unit) terdiri dari?",
+      "explanation": "Satu unit motor terdiri dari satu neuron motorik beserta semua serabut otot yang dipersarafinya.",
+      "difficulty": "HARD",
+      "tag": "Jenis Kontraksi & Unit Motor",
+      "options": [
+        { "text": "A. Satu neuron motorik dan serabut otot yang dipersarafinya", "isCorrect": true },
+        { "text": "B. Satu tulang dan satu sendi", "isCorrect": false },
+        { "text": "C. Satu ligamen dan satu tendon", "isCorrect": false },
+        { "text": "D. Satu pembuluh darah dan satu saraf sensorik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber energi cepat (instan) untuk kontraksi otot pada detik-detik awal kerja berat adalah sistem?",
+      "explanation": "Sistem fosfagen (ATP-PC/kreatin fosfat) menyediakan energi instan untuk kontraksi otot pada detik awal kerja berat.",
+      "difficulty": "HARD",
+      "tag": "Fisiologi Otot Rangka",
+      "options": [
+        { "text": "A. Fosfagen (ATP-PC)", "isCorrect": true },
+        { "text": "B. Sistem saraf otonom", "isCorrect": false },
+        { "text": "C. Sistem limfatik", "isCorrect": false },
+        { "text": "D. Sistem ekskresi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengatur posisi kerja agar nyaman dan menggunakan kursi/meja yang sesuai termasuk upaya?",
+      "explanation": "Mengatur posisi kerja yang nyaman dengan peralatan sesuai adalah upaya pengaturan ergonomi untuk mencegah cedera muskuloskeletal.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Pengaturan ergonomi tempat kerja", "isCorrect": true },
+        { "text": "B. Penambahan kebisingan", "isCorrect": false },
+        { "text": "C. Pengurangan pencahayaan", "isCorrect": false },
+        { "text": "D. Peningkatan suhu ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang bekerja dengan tangan terangkat di atas kepala dalam waktu lama berisiko mengalami keluhan pada?",
+      "explanation": "Bekerja dengan tangan terangkat di atas kepala (overhead work) membebani otot bahu secara statis dan berisiko keluhan bahu/leher.",
+      "difficulty": "MEDIUM",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. Otot bahu dan leher", "isCorrect": true },
+        { "text": "B. Otot betis", "isCorrect": false },
+        { "text": "C. Otot wajah", "isCorrect": false },
+        { "text": "D. Otot jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai hubungan beban statis dan postur sendi netral adalah?",
+      "explanation": "Postur dengan sudut sendi netral menurunkan beban statis pada otot dan jaringan, sehingga risiko cedera berkurang.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Sudut sendi netral menurunkan beban statis", "isCorrect": true },
+        { "text": "B. Sudut sendi ekstrem menurunkan beban statis", "isCorrect": false },
+        { "text": "C. Postur tidak mempengaruhi beban", "isCorrect": false },
+        { "text": "D. Beban statis selalu nol pada semua postur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahapan implementasi strategi pencegahan gangguan muskuloskeletal diawali dengan?",
+      "explanation": "Implementasi strategi diawali dengan mengidentifikasi kebutuhan dan prioritas, yaitu mengenali jenis gangguan dan faktor risikonya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Mengidentifikasi kebutuhan dan prioritas", "isCorrect": true },
+        { "text": "B. Mengevaluasi hasil akhir", "isCorrect": false },
+        { "text": "C. Membubarkan tim K3", "isCorrect": false },
+        { "text": "D. Menghentikan semua pekerjaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Evaluasi pada akhir siklus strategi pencegahan MSDs bertujuan untuk?",
+      "explanation": "Evaluasi bertujuan menilai hasil implementasi, mengidentifikasi kekuatan/kelemahan, dan melakukan perbaikan strategi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Menilai hasil dan melakukan perbaikan strategi", "isCorrect": true },
+        { "text": "B. Menambah beban kerja pekerja", "isCorrect": false },
+        { "text": "C. Menghapus data kesehatan", "isCorrect": false },
+        { "text": "D. Mengabaikan keluhan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot rangka, otot polos, dan otot jantung memiliki persamaan dalam hal?",
+      "explanation": "Ketiga jenis otot memiliki persamaan yaitu kemampuan berkontraksi dan berelaksasi untuk menghasilkan gerakan/kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Komponen",
+      "options": [
+        { "text": "A. Kemampuan berkontraksi dan berelaksasi", "isCorrect": true },
+        { "text": "B. Sama-sama dikendalikan secara sadar", "isCorrect": false },
+        { "text": "C. Sama-sama melekat pada tulang", "isCorrect": false },
+        { "text": "D. Sama-sama hanya ada di lengan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemulihan yang tidak adekuat (kurang istirahat) pada otot yang bekerja berulang dapat berkembang menjadi?",
+      "explanation": "Tanpa pemulihan adekuat, mikrotrauma berulang terakumulasi menjadi cumulative trauma disorders / MSDs kronis.",
+      "difficulty": "HARD",
+      "tag": "Cedera & MSDs",
+      "options": [
+        { "text": "A. MSDs kronis akibat akumulasi mikrotrauma", "isCorrect": true },
+        { "text": "B. Peningkatan kapasitas aerobik permanen", "isCorrect": false },
+        { "text": "C. Penguatan tulang yang cepat", "isCorrect": false },
+        { "text": "D. Hilangnya kebutuhan oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran beban kerja fisik melalui konsumsi energi otot dapat dipakai untuk menetapkan?",
+      "explanation": "Pengukuran konsumsi energi otot membantu menetapkan klasifikasi beban kerja (ringan, sedang, berat) dan kebutuhan istirahat.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Klasifikasi beban kerja dan kebutuhan istirahat", "isCorrect": true },
+        { "text": "B. Warna seragam kerja", "isCorrect": false },
+        { "text": "C. Tingkat pencahayaan ideal", "isCorrect": false },
+        { "text": "D. Jenis musik di tempat kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas peregangan dan latihan penguatan otot inti (core) bermanfaat bagi pekerja karena?",
+      "explanation": "Penguatan otot inti dan peregangan meningkatkan stabilitas postur dan toleransi otot terhadap beban, menurunkan risiko MSDs.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Meningkatkan stabilitas postur dan toleransi beban otot", "isCorrect": true },
+        { "text": "B. Menurunkan kekuatan otot secara permanen", "isCorrect": false },
+        { "text": "C. Meningkatkan risiko cedera punggung", "isCorrect": false },
+        { "text": "D. Menghilangkan kebutuhan istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan antara intensitas kerja otot dan durasi yang bisa ditahan adalah?",
+      "explanation": "Semakin tinggi intensitas/persen kekuatan maksimal yang dipakai, semakin singkat durasi yang dapat ditahan sebelum lelah.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Otot & EMG",
+      "options": [
+        { "text": "A. Makin tinggi intensitas, makin singkat durasi yang dapat ditahan", "isCorrect": true },
+        { "text": "B. Intensitas tinggi dapat ditahan tak terbatas", "isCorrect": false },
+        { "text": "C. Durasi tidak dipengaruhi intensitas", "isCorrect": false },
+        { "text": "D. Intensitas rendah cepat melelahkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan menganalisis postur tubuh saat bekerja adalah?",
+      "explanation": "Analisis postur bertujuan mengetahui postur tidak tepat yang dapat membebani otot dan tulang sehingga dapat diperbaiki.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko Kerja",
+      "options": [
+        { "text": "A. Mengetahui postur tidak tepat yang membebani otot dan tulang", "isCorrect": true },
+        { "text": "B. Mengukur tingkat kebisingan", "isCorrect": false },
+        { "text": "C. Menilai kualitas udara", "isCorrect": false },
+        { "text": "D. Menentukan jam istirahat makan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi penggunaan ear plug bukan termasuk APD untuk muskuloskeletal. APD yang relevan untuk pekerjaan angkat berat adalah?",
+      "explanation": "Sabuk penyangga punggung (back support belt) dan sarung tangan adalah contoh APD/alat bantu yang relevan untuk pekerjaan angkat berat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Sabuk penyangga punggung dan sarung tangan", "isCorrect": true },
+        { "text": "B. Ear plug dan ear muff", "isCorrect": false },
+        { "text": "C. Kacamata las", "isCorrect": false },
+        { "text": "D. Masker debu saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat bantu mekanis seperti hand pallet, conveyor, atau hoist crane dalam pengendalian MSDs berfungsi untuk?",
+      "explanation": "Alat bantu mekanis mengurangi beban manual handling pada otot pekerja sehingga menurunkan risiko cedera muskuloskeletal.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Intervensi K3",
+      "options": [
+        { "text": "A. Mengurangi beban manual handling pada otot pekerja", "isCorrect": true },
+        { "text": "B. Menambah beban angkat manual", "isCorrect": false },
+        { "text": "C. Meningkatkan gerakan repetitif", "isCorrect": false },
+        { "text": "D. Memperburuk postur kerja", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa itu sistem muskuloskeletal?", "back": "Sistem yang terdiri dari otot, tulang, dan jaringan ikat yang bekerja sama untuk memungkinkan gerakan dan menopang tubuh.", "tag": "Definisi & Komponen" },
+    { "front": "Tiga jenis otot pada tubuh manusia", "back": "Otot lurik (rangka), otot polos, dan otot jantung.", "tag": "Definisi & Komponen" },
+    { "front": "Beda tendon dan ligamen", "back": "Tendon menghubungkan otot ke tulang; ligamen menghubungkan tulang ke tulang.", "tag": "Definisi & Komponen" },
+    { "front": "Empat fungsi sistem muskuloskeletal", "back": "Menggerakkan tubuh, menopang tubuh, melindungi organ internal, dan mengatur postur.", "tag": "Fungsi Sistem Muskuloskeletal" },
+    { "front": "Sumber energi kontraksi otot", "back": "ATP (adenosin trifosfat), yang diubah menjadi kerja mekanis melalui mekanisme sliding filament aktin-miosin.", "tag": "Fisiologi Otot Rangka" },
+    { "front": "Teori sliding filament", "back": "Otot memendek karena filamen aktin bergeser menyusup di antara filamen miosin saat kontraksi.", "tag": "Fisiologi Otot Rangka" },
+    { "front": "Sarkomer", "back": "Unit kontraktil terkecil otot rangka, tempat interaksi aktin dan miosin.", "tag": "Fisiologi Otot Rangka" },
+    { "front": "Kontraksi isotonik vs isometrik", "back": "Isotonik: otot memendek dengan tegangan konstan (manual handling). Isometrik: otot tegang tanpa perubahan panjang (postur statis).", "tag": "Jenis Kontraksi & Unit Motor" },
+    { "front": "Mengapa kerja statis cepat melelahkan?", "back": "Kontraksi isometrik menekan pembuluh darah dan menghambat aliran darah pembawa oksigen ke otot.", "tag": "Jenis Kontraksi & Unit Motor" },
+    { "front": "Unit motor slow-twitch (tipe I)", "back": "Dominan untuk kerja endurance, kapasitas aerobik tinggi, tahan lelah.", "tag": "Jenis Kontraksi & Unit Motor" },
+    { "front": "Unit motor fast-twitch (tipe IIx)", "back": "Untuk kerja berat durasi pendek, menghasilkan tenaga besar, cepat lelah.", "tag": "Jenis Kontraksi & Unit Motor" },
+    { "front": "Penyebab muscular fatigue", "back": "Akumulasi asam laktat, penurunan pH, dan deplesi glikogen; kapasitas kerja turun 15-30% setelah 1 jam kerja statis.", "tag": "Kelelahan Otot & EMG" },
+    { "front": "Apa itu EMG?", "back": "Electromyography, merekam aktivitas listrik otot; kelelahan ditandai penurunan median frequency.", "tag": "Kelelahan Otot & EMG" },
+    { "front": "Metode sederhana ukur kelelahan otot", "back": "Handgrip endurance time (waktu daya tahan genggaman).", "tag": "Kelelahan Otot & EMG" },
+    { "front": "Faktor risiko MSDs akibat kerja", "back": "Postur janggal, gaya/beban berlebih, gerakan repetitif, dan durasi kerja lama; diperberat getaran.", "tag": "Faktor Risiko Kerja" },
+    { "front": "Apa itu MSDs?", "back": "Musculoskeletal Disorders, gangguan otot rangka akibat kerja yang berkembang bertahap (cumulative trauma disorders).", "tag": "Cedera & MSDs" },
+    { "front": "Empat dampak kerja pada muskuloskeletal", "back": "Cedera otot, cedera sendi, ketegangan otot, dan kelelahan otot.", "tag": "Cedera & MSDs" },
+    { "front": "Rest allowance menurut ILO", "back": "11%-20% dari waktu kerja untuk pemulihan otot.", "tag": "Pencegahan & Intervensi K3" },
+    { "front": "Manfaat postur sendi netral", "back": "Menurunkan beban statis hingga 40% dan mencegah cumulative trauma disorders (ISO 11226:2020).", "tag": "Pencegahan & Intervensi K3" },
+    { "front": "Cara mencegah cedera muskuloskeletal", "back": "Postur netral, alat ergonomis, istirahat cukup, peregangan, rotasi pekerjaan tiap 30 menit untuk kerja statis.", "tag": "Pencegahan & Intervensi K3" },
+    { "front": "Metode penilaian risiko postur kerja", "back": "RULA dan REBA digunakan untuk menilai risiko postur kerja terhadap MSDs.", "tag": "Pencegahan & Intervensi K3" }
+  ],
+  "mindmap": [
+    { "id": "muskuloskeletal", "label": "Sistem Muskuloskeletal & Aktivitas Kerja", "color": "#6366f1", "parent": null, "content": "Sistem otot, tulang, dan jaringan ikat yang memungkinkan gerakan dan menopang tubuh, sangat penting dalam aktivitas kerja fisik." },
+
+    { "id": "komponen", "label": "Definisi & Komponen", "color": "#8b5cf6", "parent": "muskuloskeletal", "content": "Tersusun atas otot, tulang, dan jaringan ikat yang bekerja sama menghasilkan gerakan." },
+    { "id": "otot", "label": "Otot", "color": "#8b5cf6", "parent": "komponen", "content": "Jaringan yang berkontraksi dan berelaksasi; tiga jenis: otot lurik, polos, dan jantung." },
+    { "id": "tulang", "label": "Tulang", "color": "#8b5cf6", "parent": "komponen", "content": "Struktur keras penopang tubuh, tempat melekatnya otot, dan tempat pembentukan sel darah di sumsum." },
+    { "id": "jaringan-ikat", "label": "Jaringan Ikat", "color": "#8b5cf6", "parent": "komponen", "content": "Meliputi ligamen, tendon, dan fascia yang menghubungkan serta menguatkan struktur." },
+    { "id": "tendon-ligamen", "label": "Tendon & Ligamen", "color": "#8b5cf6", "parent": "jaringan-ikat", "content": "Tendon menghubungkan otot ke tulang; ligamen menghubungkan tulang ke tulang." },
+
+    { "id": "fungsi", "label": "Fungsi", "color": "#0ea5e9", "parent": "muskuloskeletal", "content": "Empat fungsi utama sistem muskuloskeletal dalam tubuh dan kerja." },
+    { "id": "gerak", "label": "Menggerakkan Tubuh", "color": "#0ea5e9", "parent": "fungsi", "content": "Otot rangka melekat pada tulang dan menghasilkan gerakan saat bekerja." },
+    { "id": "topang", "label": "Menopang Tubuh", "color": "#0ea5e9", "parent": "fungsi", "content": "Rangka memberi struktur dan menopang berat tubuh." },
+    { "id": "lindungi", "label": "Melindungi Organ", "color": "#0ea5e9", "parent": "fungsi", "content": "Tulang rusuk melindungi jantung-paru, tengkorak melindungi otak." },
+    { "id": "postur", "label": "Mengatur Postur", "color": "#0ea5e9", "parent": "fungsi", "content": "Menjaga posisi tubuh tegak dan stabil saat bekerja." },
+
+    { "id": "fisiologi", "label": "Fisiologi Otot Rangka", "color": "#10b981", "parent": "muskuloskeletal", "content": "Efektor utama kerja fisik yang mengubah energi kimia ATP menjadi kerja mekanis." },
+    { "id": "atp", "label": "Energi ATP", "color": "#10b981", "parent": "fisiologi", "content": "ATP menjadi sumber energi kontraksi; sistem fosfagen menyediakan energi instan di awal kerja." },
+    { "id": "sliding", "label": "Sliding Filament", "color": "#10b981", "parent": "fisiologi", "content": "Kontraksi terjadi melalui interaksi aktin-miosin yang menggeser filamen dalam sarkomer." },
+    { "id": "sarkomer", "label": "Sarkomer", "color": "#10b981", "parent": "fisiologi", "content": "Unit kontraktil terkecil otot rangka tempat aktin dan miosin berinteraksi." },
+
+    { "id": "kontraksi", "label": "Jenis Kontraksi & Unit Motor", "color": "#f59e0b", "parent": "muskuloskeletal", "content": "Klasifikasi kerja otot berdasarkan jenis kontraksi dan tipe unit motor." },
+    { "id": "isotonik", "label": "Isotonik Dinamis", "color": "#f59e0b", "parent": "kontraksi", "content": "Otot memendek dengan tegangan konstan, dominan pada manual handling." },
+    { "id": "isometrik", "label": "Isometrik Statis", "color": "#f59e0b", "parent": "kontraksi", "content": "Otot tegang tanpa perubahan panjang pada postur statis; cepat lelah karena aliran darah terhambat." },
+    { "id": "slow-twitch", "label": "Slow-twitch (Tipe I)", "color": "#f59e0b", "parent": "kontraksi", "content": "Dominan untuk kerja endurance, kapasitas aerobik tinggi, tahan lelah." },
+    { "id": "fast-twitch", "label": "Fast-twitch (Tipe IIx)", "color": "#f59e0b", "parent": "kontraksi", "content": "Untuk kerja berat durasi pendek dengan tenaga besar, cepat lelah." },
+
+    { "id": "kelelahan", "label": "Kelelahan Otot & EMG", "color": "#ef4444", "parent": "muskuloskeletal", "content": "Penurunan kapasitas kerja otot dan cara mengevaluasinya." },
+    { "id": "penyebab-fatigue", "label": "Penyebab Fatigue", "color": "#ef4444", "parent": "kelelahan", "content": "Akumulasi asam laktat, penurunan pH, dan deplesi glikogen; kapasitas turun 15-30% setelah 1 jam kerja statis." },
+    { "id": "emg", "label": "EMG", "color": "#ef4444", "parent": "kelelahan", "content": "Merekam aktivitas listrik otot; kelelahan ditandai penurunan median frequency." },
+    { "id": "handgrip", "label": "Handgrip Endurance", "color": "#ef4444", "parent": "kelelahan", "content": "Metode sederhana menilai kelelahan otot melalui waktu daya tahan genggaman." },
+
+    { "id": "risiko", "label": "Faktor Risiko & MSDs", "color": "#ec4899", "parent": "muskuloskeletal", "content": "Faktor kerja dan individu yang membebani muskuloskeletal serta cedera yang ditimbulkan." },
+    { "id": "faktor-kerja", "label": "Faktor Kerja", "color": "#ec4899", "parent": "risiko", "content": "Postur janggal, beban berat, gerakan repetitif, dan waktu kerja lama." },
+    { "id": "faktor-individu", "label": "Faktor Individu", "color": "#ec4899", "parent": "risiko", "content": "Usia, jenis kelamin, dan kondisi kesehatan mempengaruhi kerentanan cedera." },
+    { "id": "msds", "label": "MSDs / CTD", "color": "#ec4899", "parent": "risiko", "content": "Gangguan muskuloskeletal akibat kerja yang berkembang bertahap, misalnya nyeri punggung dan carpal tunnel syndrome." },
+    { "id": "cedera", "label": "Jenis Cedera", "color": "#ec4899", "parent": "risiko", "content": "Cedera otot, cedera sendi (ligamen/tendon), ketegangan otot, dan kelelahan otot." },
+
+    { "id": "pencegahan", "label": "Pencegahan & Intervensi K3", "color": "#14b8a6", "parent": "muskuloskeletal", "content": "Upaya mencegah cedera muskuloskeletal dan meningkatkan kenyamanan kerja." },
+    { "id": "postur-netral", "label": "Postur Sendi Netral", "color": "#14b8a6", "parent": "pencegahan", "content": "Sudut sendi netral menurunkan beban statis hingga 40% (ISO 11226:2020)." },
+    { "id": "rotasi", "label": "Rotasi & Work-Rest", "color": "#14b8a6", "parent": "pencegahan", "content": "Rotasi pekerjaan tiap 30 menit untuk kerja statis dan penerapan siklus kerja-istirahat." },
+    { "id": "rest-allowance", "label": "Rest Allowance ILO", "color": "#14b8a6", "parent": "pencegahan", "content": "ILO menganjurkan kelonggaran istirahat 11%-20% dari waktu kerja." },
+    { "id": "alat-ergonomis", "label": "Alat Ergonomis", "color": "#14b8a6", "parent": "pencegahan", "content": "Penggunaan alat sesuai dan alat bantu mekanis mengurangi beban manual handling." },
+    { "id": "peregangan", "label": "Peregangan & Latihan", "color": "#14b8a6", "parent": "pencegahan", "content": "Peregangan dan penguatan otot inti menurunkan ketegangan dan risiko MSDs." },
+    { "id": "penilaian", "label": "Penilaian RULA/REBA", "color": "#14b8a6", "parent": "pencegahan", "content": "Metode RULA dan REBA menilai risiko postur kerja terhadap MSDs." }
+  ]
+}

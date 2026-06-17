@@ -1,0 +1,1586 @@
+{
+  "topic": "Kebutuhan Udara",
+  "order": 4,
+  "description": "Kebutuhan udara yang bersih dan sehat harus dipenuhi di setiap tempat kerja melalui pengaturan Kualitas Udara Dalam Ruangan (KUDR), ventilasi, dan ruang udara. KUDR ditentukan oleh suhu, kelembapan, kadar oksigen, dan kadar kontaminan udara, sedangkan ventilasi serta volume ruang udara per pekerja menjamin sirkulasi yang sehat.",
+  "subtopics": [
+    "KUDR: Suhu",
+    "KUDR: Kelembapan",
+    "KUDR: Oksigen",
+    "KUDR: Kontaminan",
+    "Ventilasi: Jenis",
+    "Ventilasi: LEV & Komponen",
+    "Prinsip Ventilasi",
+    "Ruang Udara"
+  ],
+  "questions": [
+    {
+      "text": "Kualitas Udara Dalam Ruangan (KUDR) yang sehat dan bersih ditentukan oleh empat parameter utama, yaitu?",
+      "explanation": "KUDR ditentukan oleh suhu, kelembaban, kadar oksigen, dan kadar kontaminan udara.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Suhu, kelembaban, kadar oksigen, dan kadar kontaminan udara", "isCorrect": true },
+        { "text": "B. Suhu, tekanan, warna, dan bau", "isCorrect": false },
+        { "text": "C. Cahaya, bising, getaran, dan radiasi", "isCorrect": false },
+        { "text": "D. Volume, luas lantai, tinggi, dan jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa rentang suhu kering yang nyaman untuk dipertahankan di ruang kerja menurut ketentuan KUDR?",
+      "explanation": "Suhu kering yang nyaman adalah 23 derajat C hingga 26 derajat C.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. 18 - 22 derajat C", "isCorrect": false },
+        { "text": "B. 23 - 26 derajat C", "isCorrect": true },
+        { "text": "C. 27 - 30 derajat C", "isCorrect": false },
+        { "text": "D. 30 - 35 derajat C", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada suhu kering nyaman 23-26 derajat C, kelembaban relatif yang dipersyaratkan adalah?",
+      "explanation": "Suhu kering 23-26 derajat C harus disertai kelembaban 40% - 60%.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. 20% - 40%", "isCorrect": false },
+        { "text": "B. 40% - 60%", "isCorrect": true },
+        { "text": "C. 60% - 80%", "isCorrect": false },
+        { "text": "D. 10% - 30%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan suhu antar ruangan sebaiknya tidak melebihi?",
+      "explanation": "Perbedaan suhu antar ruangan tidak boleh melebihi 5 derajat C agar tubuh tidak mengalami kejut termal saat berpindah ruang.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. 2 derajat C", "isCorrect": false },
+        { "text": "B. 5 derajat C", "isCorrect": true },
+        { "text": "C. 8 derajat C", "isCorrect": false },
+        { "text": "D. 10 derajat C", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu udara di tempat kerja berkaitan dengan keseimbangan panas tubuh yang disebut?",
+      "explanation": "Suhu udara berkaitan dengan keseimbangan panas tubuh atau heat balance, bukan sekadar kenyamanan.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Heat balance (keseimbangan panas)", "isCorrect": true },
+        { "text": "B. Sound balance", "isCorrect": false },
+        { "text": "C. Water balance", "isCorrect": false },
+        { "text": "D. Oxygen balance", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mekanisme pertukaran panas tubuh meliputi radiasi, konveksi, konduksi, dan?",
+      "explanation": "Tubuh membuang panas melalui radiasi, konveksi, konduksi, dan evaporasi (keringat).",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Difusi", "isCorrect": false },
+        { "text": "B. Evaporasi (keringat)", "isCorrect": true },
+        { "text": "C. Filtrasi", "isCorrect": false },
+        { "text": "D. Sublimasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan fisiologis akibat suhu tinggi yang ditandai dengan peningkatan denyut nadi disebut?",
+      "explanation": "Heat Strain adalah tekanan fisiologis akibat suhu tinggi yang ditandai peningkatan denyut nadi.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Cold Stress", "isCorrect": false },
+        { "text": "B. Heat Strain", "isCorrect": true },
+        { "text": "C. Wind Chill", "isCorrect": false },
+        { "text": "D. Heat Index", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penurunan ketangkasan jari dan risiko hipotermia pada suhu ekstrem rendah merupakan dampak dari?",
+      "explanation": "Cold Stress menyebabkan penurunan ketangkasan jari dan risiko hipotermia pada suhu ekstrem rendah.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Heat Strain", "isCorrect": false },
+        { "text": "B. Cold Stress", "isCorrect": true },
+        { "text": "C. Heat Cramp", "isCorrect": false },
+        { "text": "D. Heat Stroke", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu udara yang terlalu tinggi di tempat kerja dapat menyebabkan?",
+      "explanation": "Suhu terlalu tinggi menyebabkan penurunan konsentrasi, kelelahan, dan dehidrasi.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Penurunan konsentrasi, kelelahan, dan dehidrasi", "isCorrect": true },
+        { "text": "B. Peningkatan ketajaman penglihatan", "isCorrect": false },
+        { "text": "C. Pendinginan tubuh berlebihan", "isCorrect": false },
+        { "text": "D. Penurunan denyut nadi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu udara yang terlalu rendah di tempat kerja terutama dapat mengganggu?",
+      "explanation": "Suhu terlalu rendah dapat mengganggu ketangkasan manual (manual dexterity) pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Ketangkasan manual pekerja", "isCorrect": true },
+        { "text": "B. Kadar oksigen darah", "isCorrect": false },
+        { "text": "C. Tekanan udara ruangan", "isCorrect": false },
+        { "text": "D. Kelembaban kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu udara yang tidak terkendali di tempat kerja dapat menyebabkan?",
+      "explanation": "Suhu udara yang tidak terkendali dapat menyebabkan stres termal (thermal stress).",
+      "difficulty": "EASY",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Stres termal", "isCorrect": true },
+        { "text": "B. Defisiensi oksigen", "isCorrect": false },
+        { "text": "C. Short circuiting", "isCorrect": false },
+        { "text": "D. Overcrowding", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mekanisme pembuangan panas tubuh berupa pelepasan panas ke benda yang bersentuhan langsung disebut?",
+      "explanation": "Konduksi adalah perpindahan panas melalui kontak langsung dengan benda, salah satu mekanisme heat balance.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Radiasi", "isCorrect": false },
+        { "text": "B. Konveksi", "isCorrect": false },
+        { "text": "C. Konduksi", "isCorrect": true },
+        { "text": "D. Evaporasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelembapan udara didefinisikan sebagai?",
+      "explanation": "Kelembapan adalah jumlah uap air yang dikandung udara dibandingkan jumlah maksimal uap air yang dapat ditampung pada suhu tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. Jumlah uap air dalam udara dibandingkan jumlah maksimal yang dapat ditampung pada suhu tersebut", "isCorrect": true },
+        { "text": "B. Jumlah oksigen yang larut dalam udara", "isCorrect": false },
+        { "text": "C. Tekanan udara pada suhu kamar", "isCorrect": false },
+        { "text": "D. Kecepatan aliran udara per detik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar kelembapan relatif (Relative Humidity) yang dipersyaratkan untuk ruang kerja adalah?",
+      "explanation": "Standar kelembapan relatif yang sehat adalah 40% hingga 60%.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. 10% - 30%", "isCorrect": false },
+        { "text": "B. 40% - 60%", "isCorrect": true },
+        { "text": "C. 60% - 80%", "isCorrect": false },
+        { "text": "D. 70% - 90%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika kelembapan relatif kurang dari 40% (kondisi kering), salah satu dampaknya adalah?",
+      "explanation": "RH < 40% membuat udara 'menghisap' kelembapan tubuh sehingga menyebabkan iritasi mata, tenggorokan kering, kulit gatal, dan listrik statis.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. Iritasi mata, tenggorokan kering, dan listrik statis", "isCorrect": true },
+        { "text": "B. Pertumbuhan jamur yang pesat", "isCorrect": false },
+        { "text": "C. Keringat sulit menguap", "isCorrect": false },
+        { "text": "D. Risiko ledakan meningkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi udara kering (RH < 40%) terutama berisiko menyebabkan iritasi mata pada?",
+      "explanation": "Udara kering meningkatkan iritasi mata terutama pada pengguna lensa kontak.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. Pengguna lensa kontak", "isCorrect": true },
+        { "text": "B. Pekerja shift malam", "isCorrect": false },
+        { "text": "C. Pekerja confined space", "isCorrect": false },
+        { "text": "D. Operator forklift", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara yang terlalu kering (RH < 40%) dapat meningkatkan gangguan pada peralatan elektronik berupa?",
+      "explanation": "Udara kering meningkatkan listrik statis pada peralatan elektronik.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. Listrik statis", "isCorrect": true },
+        { "text": "B. Korsleting akibat air", "isCorrect": false },
+        { "text": "C. Karat berlebih", "isCorrect": false },
+        { "text": "D. Pertumbuhan jamur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika kelembapan relatif lebih dari 60% (kondisi lembap), dampak yang terjadi pada tubuh adalah?",
+      "explanation": "RH > 60% menghambat penguapan keringat sehingga tubuh terasa sangat gerah.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. Menghambat penguapan keringat (tubuh terasa gerah)", "isCorrect": true },
+        { "text": "B. Kulit menjadi kering dan gatal", "isCorrect": false },
+        { "text": "C. Listrik statis meningkat", "isCorrect": false },
+        { "text": "D. Iritasi tenggorokan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelembapan udara yang tinggi (RH > 60%) menjadi media yang baik bagi?",
+      "explanation": "RH > 60% menjadi media pertumbuhan mikroorganisme serta memacu pertumbuhan jamur (mold) dan tungau debu.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. Pertumbuhan mikroorganisme, jamur, dan tungau debu", "isCorrect": true },
+        { "text": "B. Pembentukan listrik statis", "isCorrect": false },
+        { "text": "C. Peningkatan kadar oksigen", "isCorrect": false },
+        { "text": "D. Penurunan kadar CO2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jamur (mold) yang menjadi pemicu utama alergi dalam ruangan mulai tumbuh pesat pada kelembapan relatif di atas?",
+      "explanation": "Jamur (mold) mulai tumbuh pesat pada RH di atas 70%.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. RH di atas 50%", "isCorrect": false },
+        { "text": "B. RH di atas 60%", "isCorrect": false },
+        { "text": "C. RH di atas 70%", "isCorrect": true },
+        { "text": "D. RH di atas 90%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan RH dalam standar kelembapan udara dalam ruangan adalah?",
+      "explanation": "RH adalah Relative Humidity atau kelembapan relatif.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. Relative Humidity (kelembapan relatif)", "isCorrect": true },
+        { "text": "B. Room Heat", "isCorrect": false },
+        { "text": "C. Respiratory Hazard", "isCorrect": false },
+        { "text": "D. Radiant Heat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kadar oksigen di udara atmosfer dalam kondisi normal adalah sekitar?",
+      "explanation": "Udara atmosfer normal mengandung sekitar 20,9% oksigen.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. 16,5%", "isCorrect": false },
+        { "text": "B. 19,5%", "isCorrect": false },
+        { "text": "C. 20,9%", "isCorrect": true },
+        { "text": "D. 23,5%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kadar oksigen minimal yang diperbolehkan di tempat kerja adalah?",
+      "explanation": "Kadar oksigen minimal adalah 19,5%, di bawah itu terjadi Oxygen Deficiency.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. 16,0%", "isCorrect": false },
+        { "text": "B. 18,0%", "isCorrect": false },
+        { "text": "C. 19,5%", "isCorrect": true },
+        { "text": "D. 20,9%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kadar oksigen maksimal yang diperbolehkan di tempat kerja adalah?",
+      "explanation": "Kadar oksigen maksimal adalah 23,5%, di atas itu terjadi Oxygen Enrichment.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. 21,0%", "isCorrect": false },
+        { "text": "B. 23,5%", "isCorrect": true },
+        { "text": "C. 25,0%", "isCorrect": false },
+        { "text": "D. 30,0%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rentang kadar oksigen yang aman di tempat kerja berdasarkan KUDR adalah?",
+      "explanation": "Kadar oksigen aman berada pada rentang 19,5% (minimal) hingga 23,5% (maksimal).",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. 16,0% - 20,9%", "isCorrect": false },
+        { "text": "B. 19,5% - 23,5%", "isCorrect": true },
+        { "text": "C. 20,9% - 25,0%", "isCorrect": false },
+        { "text": "D. 18,0% - 21,0%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi kadar oksigen kurang dari 19,5% disebut?",
+      "explanation": "Kadar oksigen < 19,5% disebut Oxygen Deficiency (defisiensi oksigen).",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Oxygen Enrichment", "isCorrect": false },
+        { "text": "B. Oxygen Deficiency", "isCorrect": true },
+        { "text": "C. Oxygen Saturation", "isCorrect": false },
+        { "text": "D. Oxygen Balance", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu penyebab Oxygen Deficiency (defisiensi oksigen) di tempat kerja adalah?",
+      "explanation": "Oxygen Deficiency terjadi karena proses oksidasi (pengaratan), pembusukan organik, atau penggantian oleh gas lain seperti nitrogen atau CO2.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Proses oksidasi/pengaratan dan pembusukan organik", "isCorrect": true },
+        { "text": "B. Penambahan ventilasi alami", "isCorrect": false },
+        { "text": "C. Penurunan suhu ruangan", "isCorrect": false },
+        { "text": "D. Penurunan kelembapan udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Defisiensi oksigen paling berbahaya dan dapat menyebabkan kematian mendadak terutama di lokasi?",
+      "explanation": "Pada ruang terbatas (confined space), defisiensi oksigen dapat menyebabkan kematian mendadak.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Ruang terbatas (confined space)", "isCorrect": true },
+        { "text": "B. Ruang terbuka berventilasi", "isCorrect": false },
+        { "text": "C. Halaman pabrik", "isCorrect": false },
+        { "text": "D. Atap gedung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala awal yang dialami pekerja saat mengalami defisiensi oksigen adalah?",
+      "explanation": "Pada defisiensi oksigen, pekerja mengalami sesak napas dan pusing.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Sesak napas dan pusing", "isCorrect": true },
+        { "text": "B. Kulit kering dan gatal", "isCorrect": false },
+        { "text": "C. Iritasi mata", "isCorrect": false },
+        { "text": "D. Listrik statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi kadar oksigen lebih dari 23,5% disebut?",
+      "explanation": "Kadar oksigen > 23,5% disebut Oxygen Enrichment (pengayaan oksigen).",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Oxygen Deficiency", "isCorrect": false },
+        { "text": "B. Oxygen Enrichment", "isCorrect": true },
+        { "text": "C. Oxygen Depletion", "isCorrect": false },
+        { "text": "D. Oxygen Toxicity", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya utama dari kondisi Oxygen Enrichment (kadar oksigen > 23,5%) adalah?",
+      "explanation": "Oxygen Enrichment meningkatkan risiko kebakaran dan ledakan secara drastis karena benda yang sulit terbakar menjadi sangat mudah terbakar.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Meningkatkan risiko kebakaran dan ledakan secara drastis", "isCorrect": true },
+        { "text": "B. Menyebabkan defisiensi oksigen", "isCorrect": false },
+        { "text": "C. Menurunkan suhu ruangan", "isCorrect": false },
+        { "text": "D. Menambah kelembapan udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan jangka panjang oksigen berlebih (Oxygen Enrichment) dapat menyebabkan kerusakan paru berupa?",
+      "explanation": "Paparan jangka panjang dapat menyebabkan iritasi saluran pernapasan, batuk, nyeri dada, dan edema paru.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Edema paru (penumpukan cairan di paru)", "isCorrect": true },
+        { "text": "B. Hipotermia", "isCorrect": false },
+        { "text": "C. Defisiensi oksigen", "isCorrect": false },
+        { "text": "D. Tinnitus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan jangka pendek oksigen pada konsentrasi sangat tinggi dapat menyebabkan gejala pada sistem saraf pusat berupa?",
+      "explanation": "Paparan jangka pendek oksigen sangat tinggi dapat menyebabkan kedutan otot, pusing, gangguan penglihatan, hingga kejang menyerupai epilepsi.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Kedutan otot dan kejang menyerupai epilepsi", "isCorrect": true },
+        { "text": "B. Iritasi mata akibat udara kering", "isCorrect": false },
+        { "text": "C. Pertumbuhan jamur di kulit", "isCorrect": false },
+        { "text": "D. Listrik statis pada tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Oksigen merupakan parameter kritis di KUDR terutama karena merupakan kebutuhan absolut untuk?",
+      "explanation": "Oksigen merupakan kebutuhan absolut untuk metabolisme tubuh dan keselamatan nyawa di area berventilasi terbatas.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Metabolisme tubuh", "isCorrect": true },
+        { "text": "B. Penguapan keringat", "isCorrect": false },
+        { "text": "C. Pertumbuhan jamur", "isCorrect": false },
+        { "text": "D. Penurunan listrik statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gas yang sering digunakan sebagai proksi (indikator) kecukupan ventilasi dalam ruangan adalah?",
+      "explanation": "Kadar karbon dioksida (CO2) sering digunakan sebagai proksi indikator kecukupan ventilasi.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Karbon dioksida (CO2)", "isCorrect": true },
+        { "text": "B. Nitrogen (N2)", "isCorrect": false },
+        { "text": "C. Argon (Ar)", "isCorrect": false },
+        { "text": "D. Hidrogen (H2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kadar CO2 yang melebihi berapa ppm menandakan suplai udara segar/ventilasi kurang?",
+      "explanation": "Jika CO2 melebihi 1.000 ppm, itu tandanya suplai udara segar (ventilasi) kurang.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. 500 ppm", "isCorrect": false },
+        { "text": "B. 1.000 ppm", "isCorrect": true },
+        { "text": "C. 2.500 ppm", "isCorrect": false },
+        { "text": "D. 5.000 ppm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Batas konsentrasi CO2 yang dianggap sebagai batas bahaya toksik adalah?",
+      "explanation": "Batas bahaya toksik CO2 adalah 5.000 ppm, sedangkan 1.000 ppm baru menandakan ventilasi kurang.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. 1.000 ppm", "isCorrect": false },
+        { "text": "B. 2.000 ppm", "isCorrect": false },
+        { "text": "C. 5.000 ppm", "isCorrect": true },
+        { "text": "D. 10.000 ppm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai kadar CO2 1.000 ppm dan 5.000 ppm adalah?",
+      "explanation": "CO2 > 1.000 ppm menandakan ventilasi kurang meskipun belum mencapai batas bahaya toksik 5.000 ppm.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. 1.000 ppm tanda ventilasi kurang, 5.000 ppm batas bahaya toksik", "isCorrect": true },
+        { "text": "B. 1.000 ppm batas toksik, 5.000 ppm tanda ventilasi kurang", "isCorrect": false },
+        { "text": "C. Keduanya batas toksik mematikan", "isCorrect": false },
+        { "text": "D. Keduanya masih dalam kondisi aman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gas CO (karbon monoksida) sebagai kontaminan udara dalam ruangan umumnya berasal dari?",
+      "explanation": "Gas CO biasanya berasal dari asap kendaraan.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Asap kendaraan", "isCorrect": true },
+        { "text": "B. Cat dan furnitur", "isCorrect": false },
+        { "text": "C. Proses pengelasan", "isCorrect": false },
+        { "text": "D. Pernapasan manusia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gas NO2 sebagai kontaminan udara di tempat kerja umumnya berasal dari?",
+      "explanation": "Gas NO2 umumnya berasal dari proses pengelasan.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Proses pengelasan", "isCorrect": true },
+        { "text": "B. Asap kendaraan", "isCorrect": false },
+        { "text": "C. Pernapasan manusia", "isCorrect": false },
+        { "text": "D. Penguapan keringat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "VOC (Volatile Organic Compounds) sebagai kontaminan udara dalam ruangan umumnya berasal dari?",
+      "explanation": "VOC berasal dari cat atau furnitur.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Cat dan furnitur", "isCorrect": true },
+        { "text": "B. Asap kendaraan", "isCorrect": false },
+        { "text": "C. Proses pengelasan", "isCorrect": false },
+        { "text": "D. Pengaratan logam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Debu respirabel yang berbahaya karena dapat masuk hingga ke alveoli paru disebut?",
+      "explanation": "Debu respirabel PM2.5 dapat masuk hingga ke alveoli paru.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. PM2.5", "isCorrect": true },
+        { "text": "B. PM100", "isCorrect": false },
+        { "text": "C. CO2", "isCorrect": false },
+        { "text": "D. VOC", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Debu respirabel PM2.5 berbahaya karena dapat masuk hingga ke bagian paru yaitu?",
+      "explanation": "PM2.5 bisa masuk hingga ke alveoli paru, tempat pertukaran gas.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Alveoli paru", "isCorrect": true },
+        { "text": "B. Rongga hidung", "isCorrect": false },
+        { "text": "C. Tenggorokan atas", "isCorrect": false },
+        { "text": "D. Trakea bagian luar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kontaminan udara disebut parameter KUDR yang paling dinamis?",
+      "explanation": "Kontaminan udara paling dinamis karena sangat bergantung pada aktivitas di dalam ruangan.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Karena sangat bergantung pada aktivitas di dalam ruangan", "isCorrect": true },
+        { "text": "B. Karena selalu tetap sepanjang hari", "isCorrect": false },
+        { "text": "C. Karena hanya dipengaruhi cuaca luar", "isCorrect": false },
+        { "text": "D. Karena tidak bisa diukur sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran kadar kontaminan kimia dan biologi di udara bertujuan memastikan konsentrasinya berada di bawah?",
+      "explanation": "Pengukuran kontaminan dilakukan untuk memastikan konsentrasi berada di bawah Nilai Ambang Batas (NAB).",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Nilai Ambang Batas (NAB)", "isCorrect": true },
+        { "text": "B. Capture Velocity", "isCorrect": false },
+        { "text": "C. Air Balance", "isCorrect": false },
+        { "text": "D. Heat Index", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang termasuk polutan biologi sebagai kontaminan udara dalam ruangan adalah?",
+      "explanation": "Polutan biologi mencakup mikroba, sedangkan polutan kimia mencakup debu, uap kimia, dan gas beracun.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Mikroba", "isCorrect": true },
+        { "text": "B. Karbon dioksida", "isCorrect": false },
+        { "text": "C. VOC dari cat", "isCorrect": false },
+        { "text": "D. Gas CO dari kendaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi ventilasi yang tepat adalah?",
+      "explanation": "Ventilasi adalah proses penyediaan, pengaliran, dan pengeluaran udara ke dan dari dalam ruangan secara paksa atau alami.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Proses penyediaan, pengaliran, dan pengeluaran udara ke dan dari ruangan secara paksa atau alami", "isCorrect": true },
+        { "text": "B. Proses memanaskan udara ruangan", "isCorrect": false },
+        { "text": "C. Proses menyaring cahaya matahari", "isCorrect": false },
+        { "text": "D. Proses mengukur tingkat kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu fungsi utama ventilasi terkait penyediaan oksigen adalah memastikan kadar O2 tetap pada rentang?",
+      "explanation": "Ventilasi memastikan kadar O2 tetap di rentang 19,5% - 23,5%.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. 19,5% - 23,5%", "isCorrect": true },
+        { "text": "B. 16,0% - 20,9%", "isCorrect": false },
+        { "text": "C. 20,9% - 25,0%", "isCorrect": false },
+        { "text": "D. 10,0% - 19,5%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jenis ventilasi yang mengandalkan perbedaan tekanan udara dan suhu antara dalam dan luar ruangan disebut?",
+      "explanation": "Ventilasi alami mengandalkan perbedaan tekanan udara dan suhu melalui jendela, pintu, atau lubang angin (louvres).",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Ventilasi alami (natural ventilation)", "isCorrect": true },
+        { "text": "B. Ventilasi LEV", "isCorrect": false },
+        { "text": "C. Ventilasi dilusi", "isCorrect": false },
+        { "text": "D. Ventilasi buatan paksa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelebihan ventilasi alami (natural ventilation) adalah?",
+      "explanation": "Ventilasi alami tidak memerlukan biaya operasional.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Tanpa biaya operasional", "isCorrect": true },
+        { "text": "B. Mudah dikontrol", "isCorrect": false },
+        { "text": "C. Efektif untuk polutan tinggi", "isCorrect": false },
+        { "text": "D. Tidak bergantung cuaca", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kekurangan ventilasi alami (natural ventilation) adalah?",
+      "explanation": "Ventilasi alami sulit dikontrol, sangat bergantung cuaca, dan tidak efektif untuk area dengan polutan tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Sulit dikontrol dan tidak efektif untuk polutan tinggi", "isCorrect": true },
+        { "text": "B. Memerlukan biaya operasional besar", "isCorrect": false },
+        { "text": "C. Memerlukan listrik tegangan tinggi", "isCorrect": false },
+        { "text": "D. Membutuhkan exhaust fan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lubang angin pada bangunan untuk ventilasi alami sering disebut dengan istilah?",
+      "explanation": "Lubang angin pada ventilasi alami disebut louvres.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Louvres", "isCorrect": true },
+        { "text": "B. Ducting", "isCorrect": false },
+        { "text": "C. Stack", "isCorrect": false },
+        { "text": "D. Hood", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jenis ventilasi yang mengalirkan udara segar untuk mengencerkan konsentrasi kontaminan hingga di bawah NAB disebut?",
+      "explanation": "Ventilasi umum/dilusi (general/dilution ventilation) mengencerkan konsentrasi kontaminan hingga di bawah NAB.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Ventilasi umum/dilusi", "isCorrect": true },
+        { "text": "B. Ventilasi alami", "isCorrect": false },
+        { "text": "C. Local Exhaust Ventilation", "isCorrect": false },
+        { "text": "D. Ventilasi tekanan negatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ventilasi umum/dilusi paling tepat digunakan jika kontaminan memiliki?",
+      "explanation": "Ventilasi dilusi digunakan jika kontaminan memiliki toksisitas rendah dan sumbernya tersebar merata.",
+      "difficulty": "HARD",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Toksisitas rendah dan sumber tersebar merata", "isCorrect": true },
+        { "text": "B. Toksisitas tinggi dan sumber terpusat", "isCorrect": false },
+        { "text": "C. Bentuk gas mudah meledak", "isCorrect": false },
+        { "text": "D. Konsentrasi yang tidak terukur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peralatan yang biasa digunakan pada ventilasi umum/dilusi adalah?",
+      "explanation": "Ventilasi umum/dilusi biasanya menggunakan exhaust fan di dinding atau atap.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Exhaust fan di dinding atau atap", "isCorrect": true },
+        { "text": "B. Hood penangkap di sumber", "isCorrect": false },
+        { "text": "C. Cyclone filter", "isCorrect": false },
+        { "text": "D. Lux meter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem ventilasi yang menangkap kontaminan langsung di sumbernya sebelum sempat terhirup pekerja disebut?",
+      "explanation": "Local Exhaust Ventilation (LEV) menangkap kontaminan langsung di sumber sebelum menyebar.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Local Exhaust Ventilation (LEV)", "isCorrect": true },
+        { "text": "B. Ventilasi dilusi", "isCorrect": false },
+        { "text": "C. Ventilasi alami", "isCorrect": false },
+        { "text": "D. Natural draft", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepanjangan dari singkatan LEV pada sistem ventilasi lokal adalah?",
+      "explanation": "LEV adalah Local Exhaust Ventilation, yaitu ventilasi pembuangan lokal.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Local Exhaust Ventilation", "isCorrect": true },
+        { "text": "B. Low Energy Ventilation", "isCorrect": false },
+        { "text": "C. Linear Exhaust Vent", "isCorrect": false },
+        { "text": "D. Local Enrichment Volume", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen LEV yang berfungsi sebagai tempat masuknya udara terkontaminasi disebut?",
+      "explanation": "Hood (tudung) adalah komponen LEV tempat masuknya udara terkontaminasi.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Hood (tudung)", "isCorrect": true },
+        { "text": "B. Ducting", "isCorrect": false },
+        { "text": "C. Stack", "isCorrect": false },
+        { "text": "D. Fan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen LEV yang berupa pipa/saluran penyalur udara disebut?",
+      "explanation": "Ducting (saluran) adalah pipa penyalur udara pada sistem LEV.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Ducting (saluran)", "isCorrect": true },
+        { "text": "B. Hood", "isCorrect": false },
+        { "text": "C. Air cleaner", "isCorrect": false },
+        { "text": "D. Stack", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen LEV yang berfungsi sebagai pembersih/filter udara (misalnya Cyclone atau Bag Filter) disebut?",
+      "explanation": "Air Cleaner (filter) adalah pembersih udara pada LEV, contohnya Cyclone atau Bag Filter.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Air Cleaner (filter)", "isCorrect": true },
+        { "text": "B. Hood", "isCorrect": false },
+        { "text": "C. Fan", "isCorrect": false },
+        { "text": "D. Stack", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen LEV yang berfungsi sebagai penggerak udara disebut?",
+      "explanation": "Fan (blower) adalah penggerak udara pada sistem LEV.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Fan (blower)", "isCorrect": true },
+        { "text": "B. Hood", "isCorrect": false },
+        { "text": "C. Ducting", "isCorrect": false },
+        { "text": "D. Air cleaner", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen LEV berupa cerobong yang membuang udara bersih ke atmosfer disebut?",
+      "explanation": "Stack (cerobong) berfungsi membuang udara bersih ke atmosfer setelah disaring.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Stack (cerobong)", "isCorrect": true },
+        { "text": "B. Hood", "isCorrect": false },
+        { "text": "C. Fan", "isCorrect": false },
+        { "text": "D. Air cleaner", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan aliran udara yang benar pada komponen sistem LEV adalah?",
+      "explanation": "Urutan LEV: Hood (penangkap) - Ducting (saluran) - Air Cleaner (filter) - Fan (penggerak) - Stack (cerobong).",
+      "difficulty": "HARD",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Hood - Ducting - Air Cleaner - Fan - Stack", "isCorrect": true },
+        { "text": "B. Stack - Fan - Air Cleaner - Ducting - Hood", "isCorrect": false },
+        { "text": "C. Hood - Fan - Ducting - Stack - Air Cleaner", "isCorrect": false },
+        { "text": "D. Fan - Hood - Ducting - Air Cleaner - Stack", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada sistem LEV, komponen apa yang berada paling akhir dalam urutan aliran udara?",
+      "explanation": "Stack (cerobong) berada paling akhir, sebagai pembuangan udara bersih ke atmosfer.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Stack (cerobong)", "isCorrect": true },
+        { "text": "B. Hood (tudung)", "isCorrect": false },
+        { "text": "C. Ducting (saluran)", "isCorrect": false },
+        { "text": "D. Air cleaner (filter)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada sistem LEV, komponen apa yang berada paling awal menangkap kontaminan?",
+      "explanation": "Hood (tudung) berada paling awal sebagai tempat masuknya udara terkontaminasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Hood (tudung)", "isCorrect": true },
+        { "text": "B. Stack (cerobong)", "isCorrect": false },
+        { "text": "C. Fan (blower)", "isCorrect": false },
+        { "text": "D. Air cleaner (filter)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cyclone dan Bag Filter merupakan contoh dari komponen LEV yang berupa?",
+      "explanation": "Cyclone dan Bag Filter adalah contoh Air Cleaner (pembersih udara) pada sistem LEV.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Air Cleaner (pembersih udara)", "isCorrect": true },
+        { "text": "B. Hood", "isCorrect": false },
+        { "text": "C. Stack", "isCorrect": false },
+        { "text": "D. Fan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada sistem LEV, komponen Fan (blower) berada di antara komponen?",
+      "explanation": "Pada urutan Hood-Ducting-Air Cleaner-Fan-Stack, Fan berada antara Air Cleaner dan Stack.",
+      "difficulty": "HARD",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Air Cleaner dan Stack", "isCorrect": true },
+        { "text": "B. Hood dan Ducting", "isCorrect": false },
+        { "text": "C. Ducting dan Air Cleaner", "isCorrect": false },
+        { "text": "D. Stack dan atmosfer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip ventilasi yang menyatakan volume udara yang dipindahkan per satuan waktu disebut?",
+      "explanation": "Laju Aliran Udara (Q) adalah volume udara yang dipindahkan per satuan waktu, dengan satuan m3/detik.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Laju Aliran Udara (Q)", "isCorrect": true },
+        { "text": "B. Capture Velocity", "isCorrect": false },
+        { "text": "C. Air Balance", "isCorrect": false },
+        { "text": "D. Short Circuiting", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Satuan untuk Laju Aliran Udara (Q) dalam perancangan ventilasi adalah?",
+      "explanation": "Laju Aliran Udara (Q) dinyatakan dalam satuan m3/detik (meter kubik per detik).",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. m3/detik", "isCorrect": true },
+        { "text": "B. dB", "isCorrect": false },
+        { "text": "C. ppm", "isCorrect": false },
+        { "text": "D. lux", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kecepatan udara di depan hood yang diperlukan untuk menarik kontaminan masuk ke sistem disebut?",
+      "explanation": "Capture Velocity adalah kecepatan udara di depan hood yang diperlukan untuk menarik kontaminan masuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Capture Velocity", "isCorrect": true },
+        { "text": "B. Laju Aliran Udara (Q)", "isCorrect": false },
+        { "text": "C. Air Balance", "isCorrect": false },
+        { "text": "D. Wind Chill", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip Air Balance dalam ventilasi menyatakan bahwa?",
+      "explanation": "Air Balance menyatakan jumlah udara yang dikeluarkan (exhaust) harus sama dengan jumlah udara yang dimasukkan (make-up air).",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Udara exhaust harus sama dengan udara make-up air", "isCorrect": true },
+        { "text": "B. Udara masuk harus dua kali udara keluar", "isCorrect": false },
+        { "text": "C. Udara keluar harus selalu lebih besar dari udara masuk", "isCorrect": false },
+        { "text": "D. Tidak ada udara yang boleh keluar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika udara exhaust dan make-up air tidak seimbang, ruangan akan mengalami?",
+      "explanation": "Jika tidak seimbang, ruangan akan mengalami tekanan negatif atau positif yang ekstrem.",
+      "difficulty": "HARD",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Tekanan negatif atau positif yang ekstrem", "isCorrect": true },
+        { "text": "B. Peningkatan kadar oksigen otomatis", "isCorrect": false },
+        { "text": "C. Penurunan suhu drastis", "isCorrect": false },
+        { "text": "D. Penambahan volume ruang udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara dalam Air Balance yang dimasukkan untuk menggantikan udara yang dikeluarkan disebut?",
+      "explanation": "Make-up air adalah udara pengganti yang dimasukkan untuk menyeimbangkan udara exhaust.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Make-up air", "isCorrect": true },
+        { "text": "B. Exhaust air", "isCorrect": false },
+        { "text": "C. Capture air", "isCorrect": false },
+        { "text": "D. Stack air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi di mana udara segar masuk langsung keluar lagi melalui exhaust terdekat tanpa membilas ruangan disebut?",
+      "explanation": "Short Circuiting adalah kondisi udara segar masuk langsung keluar lewat exhaust terdekat tanpa membilas ruangan, dan harus dihindari.",
+      "difficulty": "HARD",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Short Circuiting", "isCorrect": true },
+        { "text": "B. Air Balance", "isCorrect": false },
+        { "text": "C. Capture Velocity", "isCorrect": false },
+        { "text": "D. Make-up air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip zona pernapasan (breathing zone) dalam ventilasi menyatakan bahwa polutan harus?",
+      "explanation": "Ventilasi harus memastikan polutan ditarik menjauhi muka pekerja, bukan melewati muka pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Ditarik menjauhi muka pekerja, bukan melewati muka pekerja", "isCorrect": true },
+        { "text": "B. Diarahkan langsung melewati muka pekerja", "isCorrect": false },
+        { "text": "C. Dibiarkan menumpuk di ruangan", "isCorrect": false },
+        { "text": "D. Dialirkan ke saluran air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Terkait penempatan intake (saluran udara masuk), prinsip yang benar adalah?",
+      "explanation": "Saluran udara masuk tidak boleh diletakkan di dekat tempat pembuangan limbah atau parkiran kendaraan agar tidak menarik udara kotor.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Tidak diletakkan dekat pembuangan limbah atau parkiran kendaraan", "isCorrect": true },
+        { "text": "B. Diletakkan tepat di atas knalpot kendaraan", "isCorrect": false },
+        { "text": "C. Diletakkan di dekat tempat sampah", "isCorrect": false },
+        { "text": "D. Diletakkan di saluran pembuangan limbah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem ventilasi buatan harus dibersihkan secara berkala minimal setiap?",
+      "explanation": "Ventilasi buatan harus dibersihkan secara berkala minimal 3 bulan sekali atau sesuai peraturan perundangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. 1 bulan sekali", "isCorrect": false },
+        { "text": "B. 3 bulan sekali", "isCorrect": true },
+        { "text": "C. 6 bulan sekali", "isCorrect": false },
+        { "text": "D. 1 tahun sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi ventilasi dalam mengencerkan atau mengeluarkan debu, gas, dan uap berbahaya disebut?",
+      "explanation": "Salah satu fungsi utama ventilasi adalah Kontrol Kontaminan, yaitu mengencerkan atau mengeluarkan debu, gas, dan uap berbahaya.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Kontrol Kontaminan", "isCorrect": true },
+        { "text": "B. Kontrol Cahaya", "isCorrect": false },
+        { "text": "C. Kontrol Suara", "isCorrect": false },
+        { "text": "D. Kontrol Getaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ventilasi yang berfungsi mencegah akumulasi uap air yang memicu jamur menjalankan fungsi?",
+      "explanation": "Salah satu fungsi ventilasi adalah Kontrol Kelembapan, yaitu mencegah akumulasi uap air pemicu jamur.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Kontrol Kelembapan", "isCorrect": true },
+        { "text": "B. Kontrol Oksigen", "isCorrect": false },
+        { "text": "C. Kontrol Tekanan", "isCorrect": false },
+        { "text": "D. Kontrol Bising", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Volume udara bersih minimal yang harus tersedia bagi setiap pekerja dalam suatu ruangan adalah?",
+      "explanation": "Setiap pekerja harus memiliki ruang udara minimal 10 m3.",
+      "difficulty": "EASY",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. 5 m3", "isCorrect": false },
+        { "text": "B. 10 m3", "isCorrect": true },
+        { "text": "C. 15 m3", "isCorrect": false },
+        { "text": "D. 20 m3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang udara bagi pekerja diukur berdasarkan?",
+      "explanation": "Ruang udara bukan sekadar luas lantai (m2), melainkan volume total udara bersih (m3).",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Volume total (m3)", "isCorrect": true },
+        { "text": "B. Luas lantai saja (m2)", "isCorrect": false },
+        { "text": "C. Panjang ruangan (m)", "isCorrect": false },
+        { "text": "D. Tinggi langit-langit saja (m)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tinggi tempat kerja yang diukur dari lantai sampai langit-langit paling sedikit adalah?",
+      "explanation": "Tinggi tempat kerja dari lantai sampai langit-langit paling sedikit 3 m.",
+      "difficulty": "EASY",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. 2 m", "isCorrect": false },
+        { "text": "B. 3 m", "isCorrect": true },
+        { "text": "C. 4 m", "isCorrect": false },
+        { "text": "D. 5 m", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat menghitung volume ruang udara, tinggi ruangan yang melebihi berapa meter tidak diperhitungkan?",
+      "explanation": "Tinggi ruangan yang melebihi 4 meter tidak diperhitungkan dalam rumus kepadatan karena udara di atasnya tidak ikut bersirkulasi efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. 2 meter", "isCorrect": false },
+        { "text": "B. 3 meter", "isCorrect": false },
+        { "text": "C. 4 meter", "isCorrect": true },
+        { "text": "D. 6 meter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa tinggi ruangan di atas 4 meter tidak diperhitungkan dalam rumus kepadatan ruang udara?",
+      "explanation": "Karena udara di atas ketinggian 4 meter biasanya tidak ikut bersirkulasi secara efektif di zona pernapasan pekerja.",
+      "difficulty": "HARD",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Udara di atasnya tidak ikut bersirkulasi efektif di zona pernapasan", "isCorrect": true },
+        { "text": "B. Karena melebihi batas oksigen maksimal", "isCorrect": false },
+        { "text": "C. Karena dianggap area kontaminan", "isCorrect": false },
+        { "text": "D. Karena menambah tekanan negatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Luas lantai bebas minimal per pekerja (setelah dikurangi peralatan dan mesin) yang disarankan adalah?",
+      "explanation": "Luas lantai bebas minimal per pekerja disarankan sebesar 2 m2 setelah dikurangi peralatan dan mesin.",
+      "difficulty": "EASY",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. 1 m2", "isCorrect": false },
+        { "text": "B. 2 m2", "isCorrect": true },
+        { "text": "C. 3 m2", "isCorrect": false },
+        { "text": "D. 5 m2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fenomena kepadatan berlebih pekerja dalam satu ruangan disebut?",
+      "explanation": "Overcrowding adalah fenomena kepadatan berlebih yang berdampak pada akumulasi panas, peningkatan CO2, dan risiko infeksi airborne.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Overcrowding", "isCorrect": true },
+        { "text": "B. Short circuiting", "isCorrect": false },
+        { "text": "C. Air balance", "isCorrect": false },
+        { "text": "D. Oxygen enrichment", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tubuh manusia mengeluarkan panas sekitar berapa Watt saat bekerja ringan?",
+      "explanation": "Tubuh manusia mengeluarkan panas sekitar 100-150 Watt saat bekerja ringan, yang dapat terakumulasi pada ruang sempit.",
+      "difficulty": "HARD",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. 10-20 Watt", "isCorrect": false },
+        { "text": "B. 50-80 Watt", "isCorrect": false },
+        { "text": "C. 100-150 Watt", "isCorrect": true },
+        { "text": "D. 300-400 Watt", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu dampak overcrowding pada ruang udara sempit adalah kadar CO2 cepat melampaui?",
+      "explanation": "Pada ruang padat tanpa ventilasi proporsional, CO2 hasil pernapasan cepat melampaui 1.000 ppm sehingga menyebabkan kantuk dan penurunan kognitif.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. 1.000 ppm", "isCorrect": true },
+        { "text": "B. 100 ppm", "isCorrect": false },
+        { "text": "C. 500 ppm", "isCorrect": false },
+        { "text": "D. 50 ppm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Akumulasi panas metabolisme akibat overcrowding pada ruang udara sempit akan menyebabkan?",
+      "explanation": "Jika ruang udara sempit, suhu ruangan naik cepat sehingga terjadi stres termal.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Kenaikan suhu ruangan (stres termal)", "isCorrect": true },
+        { "text": "B. Penurunan kelembapan ekstrem", "isCorrect": false },
+        { "text": "C. Oxygen enrichment", "isCorrect": false },
+        { "text": "D. Tekanan positif berlebih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko kesehatan akibat overcrowding terkait penularan patogen melalui droplet yang melayang disebut?",
+      "explanation": "Ruang udara sempit mempermudah transmisi patogen antar pekerja melalui droplet, yaitu risiko infeksi airborne.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Risiko infeksi airborne", "isCorrect": true },
+        { "text": "B. Risiko keracunan oksigen", "isCorrect": false },
+        { "text": "C. Risiko listrik statis", "isCorrect": false },
+        { "text": "D. Risiko hipotermia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai hubungan ruang udara dan ventilasi adalah?",
+      "explanation": "Ruang udara tidak bisa menggantikan ventilasi; tanpa pergantian udara, ruangan sebesar apa pun akan menjadi tidak sehat.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Ruang udara tidak bisa menggantikan ventilasi", "isCorrect": true },
+        { "text": "B. Ruang udara besar dapat menghilangkan kebutuhan ventilasi", "isCorrect": false },
+        { "text": "C. Ventilasi tidak diperlukan jika ruangan luas", "isCorrect": false },
+        { "text": "D. Ruang udara dan ventilasi adalah hal yang sama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang udara yang besar pada dasarnya hanya berfungsi sebagai?",
+      "explanation": "Ruang udara besar hanya berfungsi sebagai 'buffer' atau penunda akumulasi polutan, bukan pengganti ventilasi.",
+      "difficulty": "HARD",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Buffer/penunda akumulasi polutan", "isCorrect": true },
+        { "text": "B. Sumber oksigen tak terbatas", "isCorrect": false },
+        { "text": "C. Pengganti permanen ventilasi", "isCorrect": false },
+        { "text": "D. Penurun suhu otomatis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanpa adanya pergantian udara (air change), ruangan sebesar apa pun pada akhirnya menjadi tidak sehat karena?",
+      "explanation": "Tanpa air change, oksigen akan habis dan kontaminan akan menumpuk sehingga ruangan menjadi tidak sehat.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Oksigen habis dan kontaminan menumpuk", "isCorrect": true },
+        { "text": "B. Suhu turun drastis", "isCorrect": false },
+        { "text": "C. Kelembapan menjadi nol", "isCorrect": false },
+        { "text": "D. Tekanan udara menghilang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jenis tempat kerja yang harus memenuhi KUDR sehat dan bersih antara lain pekerjaan?",
+      "explanation": "Tempat kerja administratif, pelayanan umum, dan fungsi manajerial harus memenuhi KUDR yang sehat dan bersih.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Administratif, pelayanan umum, dan manajerial", "isCorrect": true },
+        { "text": "B. Hanya pekerjaan di luar ruangan", "isCorrect": false },
+        { "text": "C. Hanya pekerjaan pertambangan", "isCorrect": false },
+        { "text": "D. Hanya pekerjaan konstruksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengeluaran udara panas dan menggantinya dengan udara yang lebih sejuk merupakan fungsi ventilasi berupa?",
+      "explanation": "Salah satu fungsi ventilasi adalah Kontrol Panas, yaitu mengeluarkan udara panas dan menggantinya dengan udara sejuk.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Kontrol Panas", "isCorrect": true },
+        { "text": "B. Kontrol Cahaya", "isCorrect": false },
+        { "text": "C. Kontrol Listrik", "isCorrect": false },
+        { "text": "D. Kontrol Bising", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem ventilasi yang menggabungkan ventilasi alami dan buatan disebut sistem ventilasi?",
+      "explanation": "Sistem ventilasi dapat bersifat alami, buatan, atau kombinasi keduanya.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Kombinasi", "isCorrect": true },
+        { "text": "B. Pasif total", "isCorrect": false },
+        { "text": "C. Vakum", "isCorrect": false },
+        { "text": "D. Tertutup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika di sebuah ruang kerja terukur kadar CO2 sebesar 1.200 ppm, interpretasi yang tepat adalah?",
+      "explanation": "CO2 1.200 ppm sudah melebihi 1.000 ppm, menandakan suplai udara segar/ventilasi kurang, meski belum mencapai batas toksik 5.000 ppm.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Ventilasi kurang, tetapi belum mencapai batas toksik", "isCorrect": true },
+        { "text": "B. Sudah mencapai batas bahaya toksik mematikan", "isCorrect": false },
+        { "text": "C. Kondisi udara masih sangat ideal", "isCorrect": false },
+        { "text": "D. Terjadi oxygen enrichment", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika alat ukur menunjukkan kadar oksigen 18,5% di sebuah confined space, kondisi yang terjadi adalah?",
+      "explanation": "Kadar 18,5% berada di bawah batas minimal 19,5%, sehingga terjadi Oxygen Deficiency yang berbahaya di confined space.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Oxygen Deficiency (berbahaya)", "isCorrect": true },
+        { "text": "B. Oxygen Enrichment", "isCorrect": false },
+        { "text": "C. Kadar oksigen normal", "isCorrect": false },
+        { "text": "D. Kadar oksigen ideal maksimal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika alat ukur menunjukkan kadar oksigen 24% di area kerja, kondisi yang terjadi adalah?",
+      "explanation": "Kadar 24% berada di atas batas maksimal 23,5%, sehingga terjadi Oxygen Enrichment yang meningkatkan risiko kebakaran.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Oxygen Enrichment (risiko kebakaran)", "isCorrect": true },
+        { "text": "B. Oxygen Deficiency", "isCorrect": false },
+        { "text": "C. Kadar oksigen normal", "isCorrect": false },
+        { "text": "D. Defisiensi oksigen ringan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah ruangan dengan tinggi langit-langit 5 meter; berapa tinggi yang diperhitungkan dalam rumus volume ruang udara?",
+      "explanation": "Tinggi yang melebihi 4 meter tidak diperhitungkan, sehingga hanya 4 meter yang digunakan dalam rumus.",
+      "difficulty": "HARD",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. 4 meter (sisanya tidak diperhitungkan)", "isCorrect": true },
+        { "text": "B. 5 meter penuh", "isCorrect": false },
+        { "text": "C. 3 meter", "isCorrect": false },
+        { "text": "D. 1 meter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama disediakannya ventilasi udara di tempat kerja adalah?",
+      "explanation": "Ventilasi disediakan untuk menjamin kebutuhan udara pekerja atau mengurangi kontaminan di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Menjamin kebutuhan udara pekerja dan mengurangi kontaminan", "isCorrect": true },
+        { "text": "B. Menambah tingkat kebisingan", "isCorrect": false },
+        { "text": "C. Meningkatkan suhu ruangan", "isCorrect": false },
+        { "text": "D. Mengurangi luas lantai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada perancangan LEV, agar kontaminan tertangkap masuk ke hood, parameter yang harus dipenuhi adalah?",
+      "explanation": "Capture Velocity, yaitu kecepatan udara di depan hood, harus cukup untuk menarik kontaminan masuk ke sistem LEV.",
+      "difficulty": "HARD",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Capture Velocity yang memadai", "isCorrect": true },
+        { "text": "B. Kelembapan di atas 70%", "isCorrect": false },
+        { "text": "C. Suhu di bawah 23 derajat C", "isCorrect": false },
+        { "text": "D. Tekanan positif ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut ini yang merupakan dampak ekstrem akibat suhu lingkungan kerja yang sangat rendah adalah?",
+      "explanation": "Cold Stress (dampak suhu ekstrem rendah) menyebabkan penurunan ketangkasan jari dan risiko hipotermia.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Penurunan ketangkasan jari dan risiko hipotermia", "isCorrect": true },
+        { "text": "B. Peningkatan denyut nadi akibat panas", "isCorrect": false },
+        { "text": "C. Dehidrasi berat", "isCorrect": false },
+        { "text": "D. Iritasi mata akibat udara lembap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar ruang gerak/luas lantai bebas minimal per orang yang juga disebut dalam sanitasi bangunan tempat kerja adalah?",
+      "explanation": "Ruang gerak/luas lantai bebas minimal per orang adalah 2 m2.",
+      "difficulty": "EASY",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. 2 m2 per orang", "isCorrect": true },
+        { "text": "B. 5 m2 per orang", "isCorrect": false },
+        { "text": "C. 10 m2 per orang", "isCorrect": false },
+        { "text": "D. 0,5 m2 per orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu fungsi utama ventilasi terkait keselamatan nyawa adalah penyediaan?",
+      "explanation": "Penyediaan oksigen adalah fungsi ventilasi untuk memastikan kadar O2 tetap di rentang aman 19,5% - 23,5%.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: Jenis",
+      "options": [
+        { "text": "A. Penyediaan oksigen", "isCorrect": true },
+        { "text": "B. Penyediaan listrik statis", "isCorrect": false },
+        { "text": "C. Penyediaan CO2", "isCorrect": false },
+        { "text": "D. Penyediaan kelembapan tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada sistem LEV, fungsi Air Cleaner adalah?",
+      "explanation": "Air Cleaner berfungsi membersihkan/menyaring udara dari kontaminan sebelum dibuang ke atmosfer melalui stack.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Membersihkan/menyaring udara dari kontaminan", "isCorrect": true },
+        { "text": "B. Menggerakkan udara", "isCorrect": false },
+        { "text": "C. Menangkap udara di sumber", "isCorrect": false },
+        { "text": "D. Membuang udara ke atmosfer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai perbedaan ventilasi dilusi dan LEV adalah?",
+      "explanation": "Ventilasi dilusi mengencerkan kontaminan di seluruh ruangan, sedangkan LEV menangkap kontaminan langsung di sumbernya.",
+      "difficulty": "HARD",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Dilusi mengencerkan di ruangan, LEV menangkap di sumber", "isCorrect": true },
+        { "text": "B. Dilusi menangkap di sumber, LEV mengencerkan di ruangan", "isCorrect": false },
+        { "text": "C. Keduanya hanya mengandalkan angin alami", "isCorrect": false },
+        { "text": "D. Keduanya tidak menggunakan fan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi RH 50% pada suhu 25 derajat C di ruang kerja dapat dikategorikan sebagai?",
+      "explanation": "RH 50% berada dalam rentang nyaman 40%-60% dan suhu 25 derajat C dalam rentang 23-26 derajat C, sehingga kondisi nyaman/ideal.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. Kondisi nyaman/ideal", "isCorrect": true },
+        { "text": "B. Terlalu kering", "isCorrect": false },
+        { "text": "C. Terlalu lembap", "isCorrect": false },
+        { "text": "D. Berisiko jamur pesat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator CO2 disebut sebagai 'proksi' ventilasi karena?",
+      "explanation": "CO2 dipakai sebagai proksi karena kenaikannya mencerminkan kurangnya suplai udara segar walaupun belum mencapai batas toksik.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Kenaikannya menandakan suplai udara segar kurang", "isCorrect": true },
+        { "text": "B. CO2 adalah gas paling beracun di ruangan", "isCorrect": false },
+        { "text": "C. CO2 menggantikan oksigen secara langsung", "isCorrect": false },
+        { "text": "D. CO2 hanya berasal dari pengelasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada heat balance, mekanisme pelepasan panas tubuh ke udara sekitar yang bergerak disebut?",
+      "explanation": "Konveksi adalah pelepasan panas tubuh ke udara sekitar yang bergerak, salah satu mekanisme heat balance.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Konveksi", "isCorrect": true },
+        { "text": "B. Konduksi", "isCorrect": false },
+        { "text": "C. Evaporasi", "isCorrect": false },
+        { "text": "D. Radiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu sumber penurunan oksigen di confined space adalah penggantian oleh gas lain seperti?",
+      "explanation": "Oksigen dapat tergantikan oleh gas lain seperti nitrogen atau karbon dioksida, menyebabkan defisiensi oksigen.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Nitrogen atau karbon dioksida", "isCorrect": true },
+        { "text": "B. Oksigen murni tambahan", "isCorrect": false },
+        { "text": "C. Uap air saja", "isCorrect": false },
+        { "text": "D. Listrik statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama menghitung kepadatan ruang udara per pekerja adalah memastikan?",
+      "explanation": "Perhitungan ruang udara memastikan kecukupan oksigen dan sirkulasi panas tubuh yang efektif bagi tiap pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Kecukupan oksigen dan sirkulasi panas tubuh yang efektif", "isCorrect": true },
+        { "text": "B. Peningkatan kebisingan ruangan", "isCorrect": false },
+        { "text": "C. Penurunan luas lantai", "isCorrect": false },
+        { "text": "D. Penambahan listrik statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan KUDR, kombinasi kondisi yang paling ideal untuk ruang kerja administratif adalah?",
+      "explanation": "Kombinasi ideal: suhu 23-26 derajat C, RH 40-60%, oksigen 19,5-23,5%, dan CO2 di bawah 1.000 ppm.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Suhu 25 derajat C, RH 50%, O2 20,9%, CO2 800 ppm", "isCorrect": true },
+        { "text": "B. Suhu 30 derajat C, RH 80%, O2 18%, CO2 6.000 ppm", "isCorrect": false },
+        { "text": "C. Suhu 18 derajat C, RH 30%, O2 24%, CO2 5.500 ppm", "isCorrect": false },
+        { "text": "D. Suhu 35 derajat C, RH 90%, O2 16%, CO2 7.000 ppm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Best practice ventilasi yang harus dihindari karena membuat udara segar langsung keluar tanpa membilas ruangan adalah?",
+      "explanation": "Short Circuiting harus dihindari karena udara segar langsung keluar lewat exhaust terdekat tanpa membilas ruangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Ventilasi",
+      "options": [
+        { "text": "A. Short Circuiting", "isCorrect": true },
+        { "text": "B. Air Balance", "isCorrect": false },
+        { "text": "C. Capture Velocity yang cukup", "isCorrect": false },
+        { "text": "D. Zona pernapasan yang benar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada sistem LEV, urutan komponen setelah Ducting adalah?",
+      "explanation": "Urutan LEV: Hood - Ducting - Air Cleaner - Fan - Stack, sehingga setelah Ducting adalah Air Cleaner.",
+      "difficulty": "MEDIUM",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Air Cleaner", "isCorrect": true },
+        { "text": "B. Hood", "isCorrect": false },
+        { "text": "C. Stack", "isCorrect": false },
+        { "text": "D. Louvres", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang berpindah dari ruang ber-AC 22 derajat C ke ruang produksi 30 derajat C berisiko karena perbedaan suhu melebihi?",
+      "explanation": "Perbedaan suhu antar ruang sebaiknya tidak melebihi 5 derajat C; selisih 8 derajat C dapat memicu kejut termal.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. 5 derajat C", "isCorrect": true },
+        { "text": "B. 1 derajat C", "isCorrect": false },
+        { "text": "C. 10 derajat C", "isCorrect": false },
+        { "text": "D. 15 derajat C", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Polutan kimia yang termasuk dalam kontaminan udara dalam ruangan adalah?",
+      "explanation": "Polutan kimia mencakup debu, uap kimia, dan gas beracun, sedangkan mikroba termasuk polutan biologi.",
+      "difficulty": "EASY",
+      "tag": "KUDR: Kontaminan",
+      "options": [
+        { "text": "A. Debu, uap kimia, dan gas beracun", "isCorrect": true },
+        { "text": "B. Virus dan bakteri saja", "isCorrect": false },
+        { "text": "C. Hanya uap air", "isCorrect": false },
+        { "text": "D. Hanya oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem ventilasi yang paling tepat untuk menangani kontaminan beracun (toksisitas tinggi) yang sumbernya terpusat adalah?",
+      "explanation": "LEV paling tepat untuk kontaminan toksisitas tinggi dengan sumber terpusat karena menangkap langsung di sumber, sedangkan dilusi untuk toksisitas rendah tersebar.",
+      "difficulty": "HARD",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Local Exhaust Ventilation (LEV)", "isCorrect": true },
+        { "text": "B. Ventilasi dilusi", "isCorrect": false },
+        { "text": "C. Ventilasi alami", "isCorrect": false },
+        { "text": "D. Tanpa ventilasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penurunan kognitif dan kantuk pada pekerja di ruang padat tanpa ventilasi proporsional terutama disebabkan oleh?",
+      "explanation": "Kadar CO2 yang cepat melampaui 1.000 ppm pada ruang padat menyebabkan kantuk dan penurunan kognitif.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Peningkatan kadar CO2 melampaui 1.000 ppm", "isCorrect": true },
+        { "text": "B. Oxygen enrichment di atas 23,5%", "isCorrect": false },
+        { "text": "C. Kelembapan turun di bawah 40%", "isCorrect": false },
+        { "text": "D. Listrik statis berlebih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang ruang udara minimal dan tinggi langit-langit adalah?",
+      "explanation": "Volume udara minimal per pekerja adalah 10 m3 dan tinggi minimal lantai sampai langit-langit adalah 3 m.",
+      "difficulty": "MEDIUM",
+      "tag": "Ruang Udara",
+      "options": [
+        { "text": "A. Volume minimal 10 m3 per pekerja, tinggi minimal 3 m", "isCorrect": true },
+        { "text": "B. Volume minimal 2 m3 per pekerja, tinggi minimal 1 m", "isCorrect": false },
+        { "text": "C. Volume minimal 50 m3 per pekerja, tinggi minimal 6 m", "isCorrect": false },
+        { "text": "D. Volume minimal 5 m3 per pekerja, tinggi minimal 2 m", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mekanisme heat balance berupa pelepasan panas tubuh dalam bentuk gelombang elektromagnetik tanpa kontak langsung disebut?",
+      "explanation": "Radiasi adalah pelepasan panas tubuh dalam bentuk gelombang tanpa kontak langsung, salah satu mekanisme heat balance.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Suhu",
+      "options": [
+        { "text": "A. Radiasi", "isCorrect": true },
+        { "text": "B. Konduksi", "isCorrect": false },
+        { "text": "C. Konveksi", "isCorrect": false },
+        { "text": "D. Evaporasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat RH ruangan sangat tinggi (>60%), evaporasi keringat terhambat sehingga mekanisme heat balance yang terganggu adalah?",
+      "explanation": "RH tinggi menghambat penguapan keringat, yaitu mekanisme evaporasi dalam pelepasan panas tubuh.",
+      "difficulty": "HARD",
+      "tag": "KUDR: Kelembapan",
+      "options": [
+        { "text": "A. Evaporasi (penguapan keringat)", "isCorrect": true },
+        { "text": "B. Radiasi", "isCorrect": false },
+        { "text": "C. Konduksi", "isCorrect": false },
+        { "text": "D. Konveksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi Hood dalam sistem LEV adalah?",
+      "explanation": "Hood (tudung) berfungsi sebagai tempat masuknya udara terkontaminasi di sumber.",
+      "difficulty": "EASY",
+      "tag": "Ventilasi: LEV & Komponen",
+      "options": [
+        { "text": "A. Tempat masuknya udara terkontaminasi", "isCorrect": true },
+        { "text": "B. Membuang udara ke atmosfer", "isCorrect": false },
+        { "text": "C. Menggerakkan udara dalam saluran", "isCorrect": false },
+        { "text": "D. Menyaring debu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada confined space, parameter KUDR yang paling kritis untuk diukur sebelum pekerja masuk adalah?",
+      "explanation": "Oksigen merupakan parameter kritis untuk keselamatan nyawa di confined space, karena defisiensi oksigen dapat menyebabkan kematian mendadak.",
+      "difficulty": "MEDIUM",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Kadar oksigen", "isCorrect": true },
+        { "text": "B. Tingkat kebisingan", "isCorrect": false },
+        { "text": "C. Intensitas cahaya", "isCorrect": false },
+        { "text": "D. Warna dinding", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah kombinasi parameter yang menunjukkan kondisi udara TIDAK sehat?",
+      "explanation": "Kondisi tidak sehat: oksigen 18% (di bawah 19,5%), CO2 6.000 ppm (di atas batas toksik 5.000 ppm).",
+      "difficulty": "HARD",
+      "tag": "KUDR: Oksigen",
+      "options": [
+        { "text": "A. Oksigen 18%, CO2 6.000 ppm", "isCorrect": true },
+        { "text": "B. Oksigen 20,9%, CO2 700 ppm", "isCorrect": false },
+        { "text": "C. Oksigen 21%, CO2 500 ppm", "isCorrect": false },
+        { "text": "D. Oksigen 20%, CO2 900 ppm", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Empat parameter penentu KUDR", "back": "Suhu, kelembaban, kadar oksigen, dan kadar kontaminan udara.", "tag": "KUDR: Suhu" },
+    { "front": "Suhu kering nyaman & kelembaban di ruang kerja", "back": "Suhu kering 23-26 derajat C dengan kelembaban 40-60%.", "tag": "KUDR: Suhu" },
+    { "front": "Batas perbedaan suhu antar ruangan", "back": "Tidak melebihi 5 derajat C agar tidak terjadi kejut termal.", "tag": "KUDR: Suhu" },
+    { "front": "Empat mekanisme pertukaran panas tubuh (heat balance)", "back": "Radiasi, konveksi, konduksi, dan evaporasi (keringat).", "tag": "KUDR: Suhu" },
+    { "front": "Heat Strain vs Cold Stress", "back": "Heat Strain: tekanan fisiologis akibat panas (denyut nadi naik). Cold Stress: penurunan ketangkasan jari & risiko hipotermia.", "tag": "KUDR: Suhu" },
+    { "front": "Standar kelembapan relatif (RH) ruang kerja", "back": "40% - 60%.", "tag": "KUDR: Kelembapan" },
+    { "front": "Dampak RH < 40% (kering)", "back": "Iritasi mata (pengguna lensa kontak), tenggorokan kering, kulit gatal, dan listrik statis.", "tag": "KUDR: Kelembapan" },
+    { "front": "Dampak RH > 60% (lembap)", "back": "Menghambat penguapan keringat (gerah) dan menjadi media mikroorganisme/jamur/tungau.", "tag": "KUDR: Kelembapan" },
+    { "front": "RH pemicu pertumbuhan jamur (mold) pesat", "back": "RH di atas 70%, pemicu utama alergi dalam ruangan.", "tag": "KUDR: Kelembapan" },
+    { "front": "Kadar oksigen: normal, minimal, maksimal", "back": "Normal 20,9%; minimal 19,5%; maksimal 23,5%.", "tag": "KUDR: Oksigen" },
+    { "front": "Oxygen Deficiency (<19,5%)", "back": "Akibat oksidasi/pembusukan/penggantian gas; sesak, pusing, kematian mendadak di confined space.", "tag": "KUDR: Oksigen" },
+    { "front": "Oxygen Enrichment (>23,5%)", "back": "Risiko kebakaran/ledakan drastis; kejang, gangguan SSP, edema paru.", "tag": "KUDR: Oksigen" },
+    { "front": "CO2 sebagai proksi ventilasi", "back": "CO2 > 1.000 ppm = ventilasi kurang; batas bahaya toksik 5.000 ppm.", "tag": "KUDR: Kontaminan" },
+    { "front": "Sumber gas kontaminan (CO, NO2, VOC)", "back": "CO dari asap kendaraan; NO2 dari pengelasan; VOC dari cat/furnitur.", "tag": "KUDR: Kontaminan" },
+    { "front": "PM2.5", "back": "Debu respirabel yang bisa masuk hingga ke alveoli paru.", "tag": "KUDR: Kontaminan" },
+    { "front": "Jenis-jenis ventilasi", "back": "Alami (natural), Umum/Dilusi (encerkan di bawah NAB), dan Lokal/LEV (tangkap di sumber).", "tag": "Ventilasi: Jenis" },
+    { "front": "Lima komponen LEV (berurutan)", "back": "Hood - Ducting - Air Cleaner - Fan (Blower) - Stack.", "tag": "Ventilasi: LEV & Komponen" },
+    { "front": "Prinsip dasar ventilasi", "back": "Q (laju aliran m3/detik), Capture Velocity, Air Balance (exhaust = make-up air); hindari Short Circuiting.", "tag": "Prinsip Ventilasi" },
+    { "front": "Pembersihan ventilasi buatan", "back": "Minimal 3 bulan sekali atau sesuai peraturan perundangan.", "tag": "Prinsip Ventilasi" },
+    { "front": "Standar ruang udara per pekerja", "back": "Volume minimal 10 m3; tinggi minimal 3 m (>4 m tidak dihitung); luas lantai bebas minimal 2 m2.", "tag": "Ruang Udara" },
+    { "front": "Overcrowding & ruang udara vs ventilasi", "back": "Overcrowding: panas metabolisme 100-150 W, CO2 naik, risiko infeksi airborne. Ruang udara hanya buffer, tidak menggantikan ventilasi.", "tag": "Ruang Udara" }
+  ],
+  "mindmap": [
+    { "id": "kebutuhan-udara", "label": "Kebutuhan Udara", "color": "#6366f1", "parent": null, "content": "Kebutuhan udara bersih dan sehat di tempat kerja dipenuhi melalui pengaturan KUDR, ventilasi, dan ruang udara." },
+    { "id": "kudr-suhu", "label": "KUDR: Suhu", "color": "#8b5cf6", "parent": "kebutuhan-udara", "content": "Suhu menentukan kenyamanan dan keseimbangan panas tubuh (heat balance) di tempat kerja." },
+    { "id": "suhu-nyaman", "label": "Suhu Nyaman 23-26 C", "color": "#8b5cf6", "parent": "kudr-suhu", "content": "Suhu kering nyaman 23-26 derajat C dengan kelembaban 40-60%." },
+    { "id": "beda-suhu", "label": "Beda Suhu <=5 C", "color": "#8b5cf6", "parent": "kudr-suhu", "content": "Perbedaan suhu antar ruangan tidak boleh melebihi 5 derajat C agar tidak terjadi kejut termal." },
+    { "id": "heat-balance", "label": "Heat Balance", "color": "#8b5cf6", "parent": "kudr-suhu", "content": "Tubuh membuang panas melalui radiasi, konveksi, konduksi, dan evaporasi (keringat)." },
+    { "id": "heat-strain", "label": "Heat Strain", "color": "#8b5cf6", "parent": "kudr-suhu", "content": "Tekanan fisiologis akibat suhu tinggi yang ditandai peningkatan denyut nadi." },
+    { "id": "cold-stress", "label": "Cold Stress", "color": "#8b5cf6", "parent": "kudr-suhu", "content": "Penurunan ketangkasan jari dan risiko hipotermia akibat suhu ekstrem rendah." },
+    { "id": "kudr-kelembapan", "label": "KUDR: Kelembapan", "color": "#0ea5e9", "parent": "kebutuhan-udara", "content": "Kelembapan adalah jumlah uap air di udara, dengan standar RH sehat 40-60%." },
+    { "id": "rh-standar", "label": "RH 40-60%", "color": "#0ea5e9", "parent": "kudr-kelembapan", "content": "Standar kelembapan relatif yang sehat untuk ruang kerja adalah 40% hingga 60%." },
+    { "id": "rh-kering", "label": "RH <40% Kering", "color": "#0ea5e9", "parent": "kudr-kelembapan", "content": "Udara kering menyebabkan iritasi mata, tenggorokan kering, kulit gatal, dan listrik statis." },
+    { "id": "rh-lembap", "label": "RH >60% Lembap", "color": "#0ea5e9", "parent": "kudr-kelembapan", "content": "Menghambat penguapan keringat (gerah) dan menjadi media mikroorganisme." },
+    { "id": "rh-jamur", "label": "RH >70% Jamur", "color": "#0ea5e9", "parent": "kudr-kelembapan", "content": "Jamur (mold) tumbuh pesat pada RH di atas 70%, pemicu utama alergi dalam ruangan." },
+    { "id": "kudr-oksigen", "label": "KUDR: Oksigen", "color": "#10b981", "parent": "kebutuhan-udara", "content": "Oksigen adalah parameter kritis untuk metabolisme dan keselamatan nyawa, terutama di confined space." },
+    { "id": "o2-normal", "label": "Normal 20,9%", "color": "#10b981", "parent": "kudr-oksigen", "content": "Udara atmosfer normal mengandung sekitar 20,9% oksigen." },
+    { "id": "o2-rentang", "label": "Aman 19,5-23,5%", "color": "#10b981", "parent": "kudr-oksigen", "content": "Kadar oksigen aman: minimal 19,5% dan maksimal 23,5%." },
+    { "id": "o2-deficiency", "label": "Oxygen Deficiency", "color": "#10b981", "parent": "kudr-oksigen", "content": "Kadar O2 < 19,5% menyebabkan sesak, pusing, hingga kematian mendadak di confined space." },
+    { "id": "o2-enrichment", "label": "Oxygen Enrichment", "color": "#10b981", "parent": "kudr-oksigen", "content": "Kadar O2 > 23,5% meningkatkan risiko kebakaran/ledakan, kejang, dan edema paru." },
+    { "id": "kudr-kontaminan", "label": "KUDR: Kontaminan", "color": "#f59e0b", "parent": "kebutuhan-udara", "content": "Parameter paling dinamis karena bergantung pada aktivitas di ruangan; diukur agar di bawah NAB." },
+    { "id": "co2-proksi", "label": "CO2 Proksi", "color": "#f59e0b", "parent": "kudr-kontaminan", "content": "CO2 jadi indikator ventilasi: > 1.000 ppm tanda ventilasi kurang, batas toksik 5.000 ppm." },
+    { "id": "gas-uap", "label": "Gas & Uap", "color": "#f59e0b", "parent": "kudr-kontaminan", "content": "CO dari asap kendaraan, NO2 dari pengelasan, dan VOC dari cat/furnitur." },
+    { "id": "pm25", "label": "PM2.5", "color": "#f59e0b", "parent": "kudr-kontaminan", "content": "Debu respirabel PM2.5 dapat masuk hingga ke alveoli paru." },
+    { "id": "polutan-biologi", "label": "Polutan Biologi", "color": "#f59e0b", "parent": "kudr-kontaminan", "content": "Mikroba/patogen sebagai kontaminan biologi yang diukur agar di bawah NAB." },
+    { "id": "ventilasi-jenis", "label": "Ventilasi: Jenis", "color": "#ef4444", "parent": "kebutuhan-udara", "content": "Ventilasi menyediakan, mengalirkan, dan mengeluarkan udara secara alami atau buatan." },
+    { "id": "v-alami", "label": "Ventilasi Alami", "color": "#ef4444", "parent": "ventilasi-jenis", "content": "Mengandalkan perbedaan tekanan dan suhu lewat jendela/louvres; tanpa biaya tapi sulit dikontrol." },
+    { "id": "v-dilusi", "label": "Ventilasi Dilusi", "color": "#ef4444", "parent": "ventilasi-jenis", "content": "Mengencerkan kontaminan hingga di bawah NAB, untuk toksisitas rendah & sumber tersebar." },
+    { "id": "v-fungsi", "label": "Fungsi Ventilasi", "color": "#ef4444", "parent": "ventilasi-jenis", "content": "Kontrol kontaminan, panas, kelembapan, dan penyediaan oksigen 19,5-23,5%." },
+    { "id": "ventilasi-lev", "label": "Ventilasi: LEV", "color": "#ec4899", "parent": "kebutuhan-udara", "content": "Local Exhaust Ventilation menangkap kontaminan langsung di sumbernya sebelum menyebar." },
+    { "id": "lev-hood", "label": "Hood", "color": "#ec4899", "parent": "ventilasi-lev", "content": "Tudung tempat masuknya udara terkontaminasi (komponen pertama LEV)." },
+    { "id": "lev-ducting", "label": "Ducting", "color": "#ec4899", "parent": "ventilasi-lev", "content": "Pipa/saluran penyalur udara dalam sistem LEV." },
+    { "id": "lev-aircleaner", "label": "Air Cleaner", "color": "#ec4899", "parent": "ventilasi-lev", "content": "Filter pembersih udara, misalnya Cyclone atau Bag Filter." },
+    { "id": "lev-fan", "label": "Fan (Blower)", "color": "#ec4899", "parent": "ventilasi-lev", "content": "Penggerak udara dalam sistem LEV." },
+    { "id": "lev-stack", "label": "Stack", "color": "#ec4899", "parent": "ventilasi-lev", "content": "Cerobong pembuangan udara bersih ke atmosfer (komponen terakhir LEV)." },
+    { "id": "prinsip-ventilasi", "label": "Prinsip Ventilasi", "color": "#14b8a6", "parent": "kebutuhan-udara", "content": "Hukum fisika yang harus diperhatikan agar ventilasi bekerja efektif." },
+    { "id": "p-q", "label": "Laju Aliran Q", "color": "#14b8a6", "parent": "prinsip-ventilasi", "content": "Volume udara yang dipindahkan per satuan waktu (m3/detik)." },
+    { "id": "p-capture", "label": "Capture Velocity", "color": "#14b8a6", "parent": "prinsip-ventilasi", "content": "Kecepatan udara di depan hood untuk menarik kontaminan masuk ke sistem." },
+    { "id": "p-airbalance", "label": "Air Balance", "color": "#14b8a6", "parent": "prinsip-ventilasi", "content": "Udara exhaust harus sama dengan make-up air agar tekanan tidak ekstrem." },
+    { "id": "p-shortcircuit", "label": "Short Circuiting", "color": "#14b8a6", "parent": "prinsip-ventilasi", "content": "Kondisi udara segar langsung keluar tanpa membilas ruangan; harus dihindari." },
+    { "id": "p-bersih", "label": "Pembersihan 3 Bulan", "color": "#14b8a6", "parent": "prinsip-ventilasi", "content": "Ventilasi buatan dibersihkan minimal tiap 3 bulan atau sesuai perundangan." },
+    { "id": "ruang-udara", "label": "Ruang Udara", "color": "#8b5cf6", "parent": "kebutuhan-udara", "content": "Volume udara bersih per pekerja untuk kecukupan oksigen dan sirkulasi panas." },
+    { "id": "ru-volume", "label": "Volume Min 10 m3", "color": "#8b5cf6", "parent": "ruang-udara", "content": "Setiap pekerja harus memiliki ruang udara minimal 10 m3 (volume, bukan luas)." },
+    { "id": "ru-tinggi", "label": "Tinggi 3-4 m", "color": "#8b5cf6", "parent": "ruang-udara", "content": "Tinggi minimal lantai-langit 3 m; tinggi di atas 4 m tidak diperhitungkan." },
+    { "id": "ru-luas", "label": "Luas Min 2 m2", "color": "#8b5cf6", "parent": "ruang-udara", "content": "Luas lantai bebas minimal 2 m2 per pekerja setelah dikurangi peralatan." },
+    { "id": "ru-overcrowding", "label": "Overcrowding", "color": "#8b5cf6", "parent": "ruang-udara", "content": "Kepadatan berlebih: panas metabolisme 100-150 W, CO2 naik >1.000 ppm, risiko infeksi airborne." },
+    { "id": "ru-buffer", "label": "Bukan Pengganti Ventilasi", "color": "#8b5cf6", "parent": "ruang-udara", "content": "Ruang udara hanya buffer penunda polutan; tanpa air change ruangan tetap tidak sehat." }
+  ]
+}

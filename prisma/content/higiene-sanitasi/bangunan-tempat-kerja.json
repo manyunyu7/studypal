@@ -1,0 +1,1421 @@
+{
+  "topic": "Bangunan Tempat Kerja",
+  "order": 2,
+  "description": "Penerapan higiene dan sanitasi pada bangunan tempat kerja mencakup halaman, gedung (dinding, langit-langit, lantai, atap), struktur dan ruang gerak, serta bangunan bawah tanah. Tujuannya memastikan tempat kerja bersih, kuat, sehat, dan aman bagi pekerja.",
+  "subtopics": [
+    "Definisi Higiene & Sanitasi",
+    "Halaman",
+    "Gedung: Dinding & Langit-langit",
+    "Gedung: Lantai",
+    "Gedung: Atap",
+    "Struktur & Ruang Gerak",
+    "Bangunan Bawah Tanah"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan higiene menurut materi?",
+      "explanation": "Higiene adalah usaha kesehatan preventif yang menitikberatkan kegiatannya kepada usaha kesehatan individu maupun usaha pribadi hidup manusia.",
+      "difficulty": "EASY",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Usaha kesehatan kuratif untuk mengobati penyakit", "isCorrect": false },
+        { "text": "B. Usaha kesehatan preventif yang fokus pada kesehatan individu", "isCorrect": true },
+        { "text": "C. Usaha pengelolaan limbah industri", "isCorrect": false },
+        { "text": "D. Usaha kesehatan rehabilitatif pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan sanitasi menurut materi?",
+      "explanation": "Sanitasi adalah usaha kesehatan preventif yang menitikberatkan kegiatan kepada usaha kesehatan lingkungan hidup manusia.",
+      "difficulty": "EASY",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Usaha kesehatan preventif yang fokus pada lingkungan hidup", "isCorrect": true },
+        { "text": "B. Usaha pengobatan penyakit menular", "isCorrect": false },
+        { "text": "C. Usaha kesehatan yang fokus pada individu", "isCorrect": false },
+        { "text": "D. Usaha pemeriksaan kesehatan berkala", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara higiene dan sanitasi terletak pada?",
+      "explanation": "Higiene berfokus pada kesehatan individu/pribadi manusia, sedangkan sanitasi berfokus pada kesehatan lingkungan hidup manusia.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Higiene bersifat kuratif, sanitasi bersifat preventif", "isCorrect": false },
+        { "text": "B. Higiene fokus pada individu, sanitasi fokus pada lingkungan", "isCorrect": true },
+        { "text": "C. Higiene untuk pekerja, sanitasi untuk manajer", "isCorrect": false },
+        { "text": "D. Higiene wajib, sanitasi opsional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Baik higiene maupun sanitasi keduanya termasuk usaha kesehatan yang bersifat?",
+      "explanation": "Higiene dan sanitasi sama-sama merupakan usaha kesehatan preventif (pencegahan), hanya berbeda fokus sasarannya.",
+      "difficulty": "EASY",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Kuratif", "isCorrect": false },
+        { "text": "B. Preventif", "isCorrect": true },
+        { "text": "C. Rehabilitatif", "isCorrect": false },
+        { "text": "D. Promotif saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menjaga kebersihan tubuh dan pakaian kerja pekerja secara pribadi termasuk dalam upaya?",
+      "explanation": "Menjaga kebersihan diri/pribadi pekerja menitikberatkan pada kesehatan individu sehingga termasuk higiene.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Sanitasi", "isCorrect": false },
+        { "text": "B. Higiene", "isCorrect": true },
+        { "text": "C. Ventilasi", "isCorrect": false },
+        { "text": "D. Housekeeping", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Membersihkan lantai, dinding, dan saluran air di tempat kerja agar lingkungan sehat termasuk upaya?",
+      "explanation": "Membersihkan lingkungan fisik tempat kerja menitikberatkan pada kesehatan lingkungan sehingga termasuk sanitasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Higiene", "isCorrect": false },
+        { "text": "B. Sanitasi", "isCorrect": true },
+        { "text": "C. Kuratif", "isCorrect": false },
+        { "text": "D. Ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan higiene dan sanitasi pada bangunan tempat kerja secara umum mencakup komponen?",
+      "explanation": "Penerapan higiene dan sanitasi bangunan tempat kerja mencakup halaman, gedung, dan bangunan bawah tanah.",
+      "difficulty": "EASY",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Hanya halaman saja", "isCorrect": false },
+        { "text": "B. Halaman, gedung, dan bangunan bawah tanah", "isCorrect": true },
+        { "text": "C. Hanya toilet dan loker", "isCorrect": false },
+        { "text": "D. Hanya mesin produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat halaman tempat kerja menurut materi adalah?",
+      "explanation": "Halaman harus bersih, tertata rapi, rata dan tidak becek.",
+      "difficulty": "EASY",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Bersih, tertata rapi, rata dan tidak becek", "isCorrect": true },
+        { "text": "B. Boleh becek asalkan luas", "isCorrect": false },
+        { "text": "C. Tidak perlu rata yang penting kering", "isCorrect": false },
+        { "text": "D. Cukup diberi atap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi halaman yang \"tidak becek\" bertujuan untuk?",
+      "explanation": "Halaman yang tidak becek mencegah pekerja tergelincir/terpeleset dan menghindari genangan yang dapat menjadi sumber penyakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Memperindah halaman saja", "isCorrect": false },
+        { "text": "B. Mencegah terpeleset dan genangan sumber penyakit", "isCorrect": true },
+        { "text": "C. Menghemat biaya pengecatan", "isCorrect": false },
+        { "text": "D. Meningkatkan pencahayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Halaman tempat kerja harus cukup luas untuk?",
+      "explanation": "Halaman harus cukup luas untuk lalu lintas orang dan barang.",
+      "difficulty": "EASY",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Lalu lintas orang dan barang", "isCorrect": true },
+        { "text": "B. Tempat parkir pribadi pemilik", "isCorrect": false },
+        { "text": "C. Penyimpanan sampah", "isCorrect": false },
+        { "text": "D. Lapangan olahraga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika terdapat saluran air pembuangan di halaman, saluran tersebut harus?",
+      "explanation": "Saluran air pembuangan di halaman harus tertutup, terbuat dari bahan yang kuat, serta air buangan harus mengalir dan tidak tergenang.",
+      "difficulty": "MEDIUM",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Terbuka agar mudah dibersihkan", "isCorrect": false },
+        { "text": "B. Tertutup, dari bahan kuat, dan air mengalir tidak tergenang", "isCorrect": true },
+        { "text": "C. Dibiarkan tergenang selama bersih", "isCorrect": false },
+        { "text": "D. Terbuat dari bahan apa saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa saluran air pembuangan di halaman harus tertutup?",
+      "explanation": "Saluran tertutup mencegah air tergenang menjadi sarang penyakit/serangga dan mencegah orang/barang jatuh ke dalamnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Agar terlihat lebih mahal", "isCorrect": false },
+        { "text": "B. Mencegah genangan jadi sarang penyakit dan kecelakaan", "isCorrect": true },
+        { "text": "C. Agar air mengalir lebih lambat", "isCorrect": false },
+        { "text": "D. Agar tidak perlu dibersihkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Air buangan pada saluran di halaman tempat kerja sebaiknya dalam kondisi?",
+      "explanation": "Air buangan harus mengalir dan tidak tergenang agar tidak menjadi media berkembangnya penyakit.",
+      "difficulty": "EASY",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Mengalir dan tidak tergenang", "isCorrect": true },
+        { "text": "B. Tergenang agar mudah diawasi", "isCorrect": false },
+        { "text": "C. Dibiarkan kering total", "isCorrect": false },
+        { "text": "D. Ditampung dalam halaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahan saluran air pembuangan di halaman tempat kerja disyaratkan?",
+      "explanation": "Saluran air pembuangan harus terbuat dari bahan yang kuat agar tahan lama dan tidak mudah rusak/bocor.",
+      "difficulty": "EASY",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Bahan yang kuat", "isCorrect": true },
+        { "text": "B. Bahan yang murah meski rapuh", "isCorrect": false },
+        { "text": "C. Bahan yang mudah berlubang", "isCorrect": false },
+        { "text": "D. Bahan transparan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika halaman tempat kerja dibiarkan becek dan tergenang air, dampak yang mungkin timbul adalah?",
+      "explanation": "Halaman becek meningkatkan risiko terpeleset/jatuh dan genangan menjadi sarang nyamuk/penyakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Meningkatkan kenyamanan pekerja", "isCorrect": false },
+        { "text": "B. Risiko terpeleset dan munculnya sarang penyakit", "isCorrect": true },
+        { "text": "C. Mempercepat lalu lintas barang", "isCorrect": false },
+        { "text": "D. Menurunkan biaya perawatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan higiene dan sanitasi pada gedung meliputi komponen?",
+      "explanation": "Penerapan higiene dan sanitasi pada gedung meliputi dinding dan langit-langit, atap, serta lantai.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Dinding dan langit-langit, atap, dan lantai", "isCorrect": true },
+        { "text": "B. Hanya pintu dan jendela", "isCorrect": false },
+        { "text": "C. Hanya mesin dan peralatan", "isCorrect": false },
+        { "text": "D. Halaman dan parkiran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dinding dan langit-langit gedung tempat kerja disyaratkan dalam kondisi?",
+      "explanation": "Dinding dan langit-langit harus kering dan tidak lembab.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Lembab agar sejuk", "isCorrect": false },
+        { "text": "B. Kering dan tidak lembab", "isCorrect": true },
+        { "text": "C. Basah agar mudah dibersihkan", "isCorrect": false },
+        { "text": "D. Berlumut alami", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agar mudah dibersihkan, dinding dan langit-langit gedung sebaiknya?",
+      "explanation": "Dinding dan langit-langit sebaiknya dicat atau dibuat dari bahan yang mudah dibersihkan.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Dibiarkan tanpa cat", "isCorrect": false },
+        { "text": "B. Dicat atau mudah dibersihkan", "isCorrect": true },
+        { "text": "C. Ditutup kain", "isCorrect": false },
+        { "text": "D. Dilapisi tanah liat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, pengecatan ulang dinding dan langit-langit gedung dilakukan minimal?",
+      "explanation": "Pengecatan ulang dilakukan minimal 5 tahun sekali.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. 1 tahun sekali", "isCorrect": false },
+        { "text": "B. 3 tahun sekali", "isCorrect": false },
+        { "text": "C. 5 tahun sekali", "isCorrect": true },
+        { "text": "D. 10 tahun sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, pembersihan dinding dan langit-langit gedung dilakukan minimal?",
+      "explanation": "Dinding dan langit-langit dibersihkan minimal 1 tahun sekali.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. 1 tahun sekali", "isCorrect": true },
+        { "text": "B. 2 tahun sekali", "isCorrect": false },
+        { "text": "C. 5 tahun sekali", "isCorrect": false },
+        { "text": "D. Setiap hari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan frekuensi perawatan dinding dan langit-langit yang benar adalah?",
+      "explanation": "Pengecatan ulang minimal 5 tahun sekali, sedangkan pembersihan minimal 1 tahun sekali.",
+      "difficulty": "HARD",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Pengecatan 1 tahun, pembersihan 5 tahun", "isCorrect": false },
+        { "text": "B. Pengecatan 5 tahun, pembersihan 1 tahun", "isCorrect": true },
+        { "text": "C. Pengecatan 5 tahun, pembersihan 5 tahun", "isCorrect": false },
+        { "text": "D. Pengecatan 1 tahun, pembersihan 1 tahun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa dinding dan langit-langit harus kering dan tidak lembab?",
+      "explanation": "Kondisi lembab memicu pertumbuhan jamur/lumut yang dapat merusak bangunan dan mengganggu kesehatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Agar terlihat lebih terang", "isCorrect": false },
+        { "text": "B. Mencegah tumbuhnya jamur/lumut yang merusak dan mengganggu kesehatan", "isCorrect": true },
+        { "text": "C. Agar cat lebih cepat mengelupas", "isCorrect": false },
+        { "text": "D. Agar dinding lebih dingin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika dinding gedung tidak pernah dicat ulang melebihi batas waktu yang dianjurkan, dampaknya?",
+      "explanation": "Tanpa pengecatan ulang berkala (min 5 tahun), dinding mudah kotor, lembab, dan sulit dibersihkan sehingga higiene menurun.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Dinding menjadi lebih higienis", "isCorrect": false },
+        { "text": "B. Dinding mudah kotor, lembab, dan sulit dibersihkan", "isCorrect": true },
+        { "text": "C. Tidak ada dampak sama sekali", "isCorrect": false },
+        { "text": "D. Dinding menjadi lebih kuat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat lantai gedung tempat kerja menurut materi adalah terbuat dari bahan yang?",
+      "explanation": "Lantai harus terbuat dari bahan yang keras, tahan air, dan tahan dari bahan kimia yang merusak.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Lunak dan mudah menyerap air", "isCorrect": false },
+        { "text": "B. Keras, tahan air, dan tahan bahan kimia", "isCorrect": true },
+        { "text": "C. Berpori agar tidak licin", "isCorrect": false },
+        { "text": "D. Mudah retak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Permukaan lantai gedung tempat kerja sebaiknya?",
+      "explanation": "Lantai harus datar, tidak licin, dan mudah dibersihkan.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Datar, tidak licin, dan mudah dibersihkan", "isCorrect": true },
+        { "text": "B. Miring dan licin", "isCorrect": false },
+        { "text": "C. Berlubang agar air meresap", "isCorrect": false },
+        { "text": "D. Bertekstur kasar agar sulit dibersihkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pembersihan lantai gedung tempat kerja menurut materi adalah?",
+      "explanation": "Lantai harus dibersihkan secara teratur.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Hanya saat kotor parah", "isCorrect": false },
+        { "text": "B. Secara teratur", "isCorrect": true },
+        { "text": "C. Lima tahun sekali", "isCorrect": false },
+        { "text": "D. Tidak perlu dibersihkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa lantai tempat kerja disyaratkan tidak licin?",
+      "explanation": "Lantai yang tidak licin mencegah pekerja terpeleset/jatuh yang dapat menyebabkan kecelakaan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Agar lebih mudah dicat", "isCorrect": false },
+        { "text": "B. Mencegah pekerja terpeleset dan terjatuh", "isCorrect": true },
+        { "text": "C. Agar terlihat mengkilap", "isCorrect": false },
+        { "text": "D. Agar menyerap air lebih cepat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lantai disyaratkan tahan terhadap bahan kimia yang merusak terutama penting pada?",
+      "explanation": "Lantai tahan bahan kimia penting di area yang menggunakan/berisiko tumpahan bahan kimia agar lantai tidak rusak dan tetap aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Ruang istirahat saja", "isCorrect": false },
+        { "text": "B. Area kerja yang berisiko tumpahan bahan kimia", "isCorrect": true },
+        { "text": "C. Halaman parkir", "isCorrect": false },
+        { "text": "D. Area taman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lantai yang tahan air bermanfaat karena?",
+      "explanation": "Lantai tahan air tidak menyerap air sehingga mudah dibersihkan, tidak lembab, dan tidak menjadi media kuman/jamur.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Mudah dibersihkan dan tidak menyerap air/lembab", "isCorrect": true },
+        { "text": "B. Membuat lantai cepat retak", "isCorrect": false },
+        { "text": "C. Menyebabkan lantai jadi licin permanen", "isCorrect": false },
+        { "text": "D. Mengurangi pencahayaan ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lantai yang dibuat datar (tidak bergelombang) bertujuan agar?",
+      "explanation": "Lantai datar memudahkan lalu lintas orang/barang, mencegah tersandung, dan tidak menampung genangan air.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Air menggenang merata", "isCorrect": false },
+        { "text": "B. Memudahkan lalu lintas dan mencegah tersandung serta genangan", "isCorrect": true },
+        { "text": "C. Mempersulit pembersihan", "isCorrect": false },
+        { "text": "D. Menambah estetika saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Atap gedung tempat kerja harus mampu memberikan perlindungan dari?",
+      "explanation": "Atap harus mampu memberikan perlindungan dari panas matahari dan hujan.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Panas matahari dan hujan", "isCorrect": true },
+        { "text": "B. Suara bising saja", "isCorrect": false },
+        { "text": "C. Bahan kimia saja", "isCorrect": false },
+        { "text": "D. Getaran mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi atap gedung tempat kerja yang disyaratkan menurut materi adalah?",
+      "explanation": "Atap harus tidak bocor, tidak berlubang, dan tidak berjamur.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Tidak bocor, tidak berlubang, dan tidak berjamur", "isCorrect": true },
+        { "text": "B. Boleh sedikit bocor", "isCorrect": false },
+        { "text": "C. Berlubang untuk ventilasi", "isCorrect": false },
+        { "text": "D. Berjamur agar terlihat alami", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika atap gedung bocor, dampak yang dapat terjadi terhadap higiene dan sanitasi adalah?",
+      "explanation": "Atap bocor menyebabkan rembesan air yang membuat dinding/lantai lembab, memicu jamur, dan dapat merusak material serta mengganggu kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Meningkatkan kebersihan ruangan", "isCorrect": false },
+        { "text": "B. Menyebabkan lembab, jamur, dan kerusakan material", "isCorrect": true },
+        { "text": "C. Menambah pencahayaan alami", "isCorrect": false },
+        { "text": "D. Tidak berdampak apapun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Atap yang \"tidak berjamur\" penting karena?",
+      "explanation": "Atap berjamur menandakan kelembaban berlebih dan dapat menyebarkan spora yang mengganggu kesehatan pernapasan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Jamur memperkuat struktur atap", "isCorrect": false },
+        { "text": "B. Jamur menandakan kelembaban dan dapat ganggu pernapasan", "isCorrect": true },
+        { "text": "C. Jamur membuat atap kedap suara", "isCorrect": false },
+        { "text": "D. Jamur tidak ada hubungannya dengan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu fungsi utama atap dalam menjaga kenyamanan termal pekerja adalah?",
+      "explanation": "Atap melindungi dari panas matahari sehingga membantu menjaga suhu ruang kerja tetap nyaman.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Melindungi dari panas matahari", "isCorrect": true },
+        { "text": "B. Menambah kebisingan", "isCorrect": false },
+        { "text": "C. Menyebarkan debu", "isCorrect": false },
+        { "text": "D. Menghasilkan listrik statis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan higiene dan sanitasi pada gedung dilakukan untuk memastikan gedung dalam kondisi terpelihara dan?",
+      "explanation": "Penerapan higiene dan sanitasi gedung memastikan gedung terpelihara dan bersih.",
+      "difficulty": "EASY",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Bersih", "isCorrect": true },
+        { "text": "B. Berdebu", "isCorrect": false },
+        { "text": "C. Lembab", "isCorrect": false },
+        { "text": "D. Gelap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat struktur gedung tempat kerja menurut materi adalah?",
+      "explanation": "Gedung harus kuat dan kokoh strukturnya.",
+      "difficulty": "EASY",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Kuat dan kokoh strukturnya", "isCorrect": true },
+        { "text": "B. Ringan dan mudah roboh", "isCorrect": false },
+        { "text": "C. Sementara dan tidak permanen", "isCorrect": false },
+        { "text": "D. Bebas perawatan struktur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, ruang gerak minimal per orang di tempat kerja adalah?",
+      "explanation": "Gedung harus cukup luas dengan ruang gerak minimal 2 m persegi per orang.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. 1 m² per orang", "isCorrect": false },
+        { "text": "B. 2 m² per orang", "isCorrect": true },
+        { "text": "C. 3 m² per orang", "isCorrect": false },
+        { "text": "D. 5 m² per orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Persyaratan ruang gerak minimal 2 m² per orang bertujuan untuk?",
+      "explanation": "Ruang gerak yang cukup mencegah kepadatan berlebih sehingga pekerja leluasa bergerak dan mengurangi risiko kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "B. Memberi keleluasaan gerak dan mengurangi risiko kecelakaan", "isCorrect": true },
+        { "text": "C. Menambah biaya operasional", "isCorrect": false },
+        { "text": "D. Mempersempit akses evakuasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah ruang kerja berukuran 20 m² menurut standar ruang gerak minimal dapat menampung maksimal sekitar?",
+      "explanation": "Dengan ruang gerak minimal 2 m² per orang, ruang 20 m² dapat menampung maksimal sekitar 10 orang (20 ÷ 2 = 10).",
+      "difficulty": "HARD",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. 5 orang", "isCorrect": false },
+        { "text": "B. 10 orang", "isCorrect": true },
+        { "text": "C. 20 orang", "isCorrect": false },
+        { "text": "D. 40 orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk menampung 15 pekerja, luas ruang kerja minimal yang diperlukan berdasarkan ruang gerak minimal per orang adalah?",
+      "explanation": "Dengan minimal 2 m² per orang, 15 pekerja membutuhkan minimal 30 m² (15 × 2 = 30).",
+      "difficulty": "HARD",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. 15 m²", "isCorrect": false },
+        { "text": "B. 30 m²", "isCorrect": true },
+        { "text": "C. 45 m²", "isCorrect": false },
+        { "text": "D. 7,5 m²", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Struktur gedung yang kuat dan kokoh penting terutama untuk?",
+      "explanation": "Struktur kuat dan kokoh menjamin keselamatan pekerja dari risiko keruntuhan bangunan.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Menambah nilai estetika saja", "isCorrect": false },
+        { "text": "B. Menjamin keselamatan dari risiko keruntuhan bangunan", "isCorrect": true },
+        { "text": "C. Mengurangi pencahayaan", "isCorrect": false },
+        { "text": "D. Mempercepat lalu lintas barang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika ruang gerak per pekerja kurang dari 2 m² (terlalu padat), kemungkinan dampaknya adalah?",
+      "explanation": "Ruang gerak sempit (di bawah minimal) menyebabkan kepadatan berlebih, meningkatkan risiko kecelakaan dan ketidaknyamanan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Meningkatkan kenyamanan", "isCorrect": false },
+        { "text": "B. Kepadatan berlebih, risiko kecelakaan dan ketidaknyamanan meningkat", "isCorrect": true },
+        { "text": "C. Tidak ada dampak", "isCorrect": false },
+        { "text": "D. Pekerja lebih sehat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat bangunan bawah tanah menurut materi adalah memiliki?",
+      "explanation": "Bangunan bawah tanah harus mempunyai struktur yang kuat.",
+      "difficulty": "EASY",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Struktur yang kuat", "isCorrect": true },
+        { "text": "B. Struktur sementara", "isCorrect": false },
+        { "text": "C. Dinding yang lembab", "isCorrect": false },
+        { "text": "D. Tanpa ventilasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bangunan bawah tanah harus mempunyai sistem yang menjamin pertukaran udara, yaitu?",
+      "explanation": "Bangunan bawah tanah harus mempunyai sistem ventilasi udara.",
+      "difficulty": "EASY",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Sistem ventilasi udara", "isCorrect": true },
+        { "text": "B. Sistem pemanas saja", "isCorrect": false },
+        { "text": "C. Sistem pendingin mesin", "isCorrect": false },
+        { "text": "D. Sistem alarm kebakaran saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Karena minim cahaya alami, bangunan bawah tanah disyaratkan memiliki?",
+      "explanation": "Bangunan bawah tanah harus mempunyai sumber pencahayaan.",
+      "difficulty": "EASY",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Sumber pencahayaan", "isCorrect": true },
+        { "text": "B. Tidak perlu cahaya", "isCorrect": false },
+        { "text": "C. Hanya cahaya matahari", "isCorrect": false },
+        { "text": "D. Cahaya lilin saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saluran pembuangan air pada bangunan bawah tanah harus?",
+      "explanation": "Bangunan bawah tanah harus mempunyai saluran pembuangan air yang mengalir dengan baik.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Mengalir dengan baik", "isCorrect": true },
+        { "text": "B. Tergenang", "isCorrect": false },
+        { "text": "C. Tertutup permanen tanpa aliran", "isCorrect": false },
+        { "text": "D. Tidak diperlukan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain struktur, ventilasi, pencahayaan, dan drainase, bangunan bawah tanah juga harus?",
+      "explanation": "Bangunan bawah tanah harus bersih dan terawat dengan baik.",
+      "difficulty": "EASY",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Bersih dan terawat dengan baik", "isCorrect": true },
+        { "text": "B. Dibiarkan tanpa perawatan", "isCorrect": false },
+        { "text": "C. Lembab dan gelap", "isCorrect": false },
+        { "text": "D. Tertutup rapat tanpa akses", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa ventilasi udara sangat penting pada bangunan bawah tanah?",
+      "explanation": "Ventilasi menjamin pertukaran udara segar dan mencegah penumpukan gas/kontaminan serta kekurangan oksigen di ruang yang tertutup.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Untuk menambah kebisingan", "isCorrect": false },
+        { "text": "B. Menjamin udara segar dan mencegah penumpukan gas serta kekurangan oksigen", "isCorrect": true },
+        { "text": "C. Untuk mempercepat korosi", "isCorrect": false },
+        { "text": "D. Agar lebih gelap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk bangunan bawah tanah yang merupakan ruang tertentu, penerapan higiene dan sanitasi dilakukan sesuai?",
+      "explanation": "Untuk bangunan bawah tanah yang merupakan ruang tertentu, penerapan higiene dan sanitasi disesuaikan dengan ketentuan perundangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Selera pemilik", "isCorrect": false },
+        { "text": "B. Ketentuan perundangan", "isCorrect": true },
+        { "text": "C. Tidak ada aturan", "isCorrect": false },
+        { "text": "D. Kebiasaan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika saluran pembuangan air bangunan bawah tanah tidak mengalir dengan baik, dampaknya?",
+      "explanation": "Air yang tergenang di bawah tanah dapat menyebabkan kelembaban, bau, dan menjadi sumber penyakit serta merusak struktur.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Ruang menjadi lebih sehat", "isCorrect": false },
+        { "text": "B. Air tergenang menyebabkan lembab, bau, dan sumber penyakit", "isCorrect": true },
+        { "text": "C. Tidak ada dampak", "isCorrect": false },
+        { "text": "D. Struktur menjadi lebih kuat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah syarat utama bangunan bawah tanah yang disebutkan dalam materi (struktur, ventilasi, pencahayaan, drainase, kebersihan)?",
+      "explanation": "Terdapat 5 syarat utama: struktur kuat, ventilasi udara, sumber pencahayaan, saluran pembuangan air mengalir, serta bersih dan terawat.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. 3 syarat", "isCorrect": false },
+        { "text": "B. 5 syarat", "isCorrect": true },
+        { "text": "C. 7 syarat", "isCorrect": false },
+        { "text": "D. 10 syarat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Halaman yang \"tertata rapi\" mendukung penerapan sanitasi karena?",
+      "explanation": "Halaman tertata rapi memudahkan pembersihan, kelancaran lalu lintas, dan mencegah penumpukan sampah sumber penyakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Memperlambat lalu lintas", "isCorrect": false },
+        { "text": "B. Memudahkan pembersihan dan mencegah penumpukan sampah", "isCorrect": true },
+        { "text": "C. Menambah kelembaban", "isCorrect": false },
+        { "text": "D. Mengurangi pencahayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan higiene dan sanitasi pada gedung dilakukan agar gedung selalu dalam kondisi terpelihara, bersih, kuat, dan?",
+      "explanation": "Selain terpelihara, bersih, dan kuat/kokoh, gedung juga harus cukup luas dengan ruang gerak minimal 2 m² per orang.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Cukup luas (ruang gerak min 2 m² per orang)", "isCorrect": true },
+        { "text": "B. Sesempit mungkin", "isCorrect": false },
+        { "text": "C. Selembab mungkin", "isCorrect": false },
+        { "text": "D. Tanpa ventilasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen gedung yang langsung melindungi pekerja dan peralatan dari air hujan adalah?",
+      "explanation": "Atap berfungsi melindungi dari hujan (dan panas matahari), sehingga harus tidak bocor.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Atap", "isCorrect": true },
+        { "text": "B. Lantai", "isCorrect": false },
+        { "text": "C. Saluran air halaman", "isCorrect": false },
+        { "text": "D. Loker", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen gedung yang harus keras, tahan air, dan tidak licin adalah?",
+      "explanation": "Lantai harus terbuat dari bahan keras, tahan air, tahan bahan kimia, datar, dan tidak licin.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Atap", "isCorrect": false },
+        { "text": "B. Lantai", "isCorrect": true },
+        { "text": "C. Langit-langit", "isCorrect": false },
+        { "text": "D. Halaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen gedung yang disyaratkan kering, tidak lembab, dan dicat ulang minimal 5 tahun sekali adalah?",
+      "explanation": "Dinding dan langit-langit disyaratkan kering/tidak lembab, dicat atau mudah dibersihkan, dengan pengecatan ulang min 5 tahun sekali.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Dinding dan langit-langit", "isCorrect": true },
+        { "text": "B. Lantai", "isCorrect": false },
+        { "text": "C. Atap", "isCorrect": false },
+        { "text": "D. Halaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber pencahayaan pada bangunan bawah tanah diperlukan terutama karena?",
+      "explanation": "Bangunan bawah tanah hampir tidak mendapat cahaya matahari sehingga memerlukan sumber pencahayaan buatan agar pekerjaan aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Mendapat banyak cahaya matahari", "isCorrect": false },
+        { "text": "B. Minim cahaya alami sehingga perlu cahaya buatan", "isCorrect": true },
+        { "text": "C. Agar lebih hemat listrik", "isCorrect": false },
+        { "text": "D. Agar lebih lembab", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang BENAR mengenai lantai tempat kerja adalah?",
+      "explanation": "Lantai harus keras, tahan air, tahan bahan kimia, datar, tidak licin, mudah dibersihkan, dan dibersihkan secara teratur.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Boleh licin asalkan datar", "isCorrect": false },
+        { "text": "B. Harus datar, tidak licin, dan mudah dibersihkan", "isCorrect": true },
+        { "text": "C. Harus menyerap air", "isCorrect": false },
+        { "text": "D. Tidak perlu tahan bahan kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan higiene (kesehatan individu) di bangunan tempat kerja contohnya?",
+      "explanation": "Higiene fokus pada individu, contohnya menjaga kebersihan diri pekerja; berbeda dengan sanitasi yang fokus pada lingkungan/bangunan.",
+      "difficulty": "HARD",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Membersihkan saluran air halaman", "isCorrect": false },
+        { "text": "B. Pekerja mencuci tangan dan menjaga kebersihan pribadi", "isCorrect": true },
+        { "text": "C. Mengecat dinding gedung", "isCorrect": false },
+        { "text": "D. Memperbaiki atap bocor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memperbaiki atap bocor dan membersihkan lantai gedung merupakan contoh penerapan?",
+      "explanation": "Memelihara bangunan/lingkungan fisik tempat kerja menitikberatkan kesehatan lingkungan sehingga termasuk sanitasi.",
+      "difficulty": "HARD",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Sanitasi", "isCorrect": true },
+        { "text": "B. Higiene pribadi", "isCorrect": false },
+        { "text": "C. Kuratif", "isCorrect": false },
+        { "text": "D. Rehabilitatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN merupakan syarat halaman tempat kerja adalah?",
+      "explanation": "Syarat halaman: bersih, rapi, rata, tidak becek, cukup luas, dengan saluran air tertutup yang mengalir; halaman becek dan tergenang justru dilarang.",
+      "difficulty": "MEDIUM",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Bersih dan tertata rapi", "isCorrect": false },
+        { "text": "B. Rata dan tidak becek", "isCorrect": false },
+        { "text": "C. Becek dan tergenang air", "isCorrect": true },
+        { "text": "D. Cukup luas untuk lalu lintas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengecatan dinding selain memperindah juga berfungsi untuk?",
+      "explanation": "Dinding yang dicat menjadi lebih mudah dibersihkan dan terlindungi dari kelembaban sehingga mendukung higiene.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Membuat dinding mudah dibersihkan dan terlindung dari lembab", "isCorrect": true },
+        { "text": "B. Menambah berat dinding", "isCorrect": false },
+        { "text": "C. Mengurangi pencahayaan", "isCorrect": false },
+        { "text": "D. Membuat dinding licin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bangunan bawah tanah yang lembab, gelap, dan tergenang air menunjukkan kegagalan dalam memenuhi syarat?",
+      "explanation": "Kondisi tersebut menandakan kegagalan ventilasi, pencahayaan, drainase, serta kebersihan dan perawatan bangunan bawah tanah.",
+      "difficulty": "HARD",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Ventilasi, pencahayaan, drainase, dan kebersihan", "isCorrect": true },
+        { "text": "B. Hanya estetika", "isCorrect": false },
+        { "text": "C. Hanya warna cat", "isCorrect": false },
+        { "text": "D. Hanya jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Halaman tempat kerja sebaiknya \"rata\" agar?",
+      "explanation": "Halaman yang rata memperlancar lalu lintas orang/barang dan mencegah genangan serta risiko tersandung.",
+      "difficulty": "EASY",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Memperlancar lalu lintas dan mencegah genangan", "isCorrect": true },
+        { "text": "B. Menampung air hujan", "isCorrect": false },
+        { "text": "C. Mempersulit lalu lintas", "isCorrect": false },
+        { "text": "D. Menambah kelembaban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pengecatan ulang dinding minimal 5 tahun sekali dimaksudkan untuk?",
+      "explanation": "Pengecatan ulang berkala menjaga dinding tetap bersih, terlindung dari lembab, dan mudah dibersihkan sepanjang waktu.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Menjaga dinding tetap bersih, terlindung lembab, dan mudah dibersihkan", "isCorrect": true },
+        { "text": "B. Menambah biaya tanpa manfaat", "isCorrect": false },
+        { "text": "C. Membuat dinding cepat rusak", "isCorrect": false },
+        { "text": "D. Mengurangi kekuatan struktur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen bangunan yang harus \"tidak berlubang\" agar tidak ada celah masuk air dan hewan adalah?",
+      "explanation": "Atap harus tidak bocor, tidak berlubang, dan tidak berjamur agar melindungi dari hujan dan menjaga kebersihan.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Atap", "isCorrect": true },
+        { "text": "B. Lantai", "isCorrect": false },
+        { "text": "C. Halaman", "isCorrect": false },
+        { "text": "D. Loker", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir penerapan higiene dan sanitasi pada bangunan tempat kerja adalah?",
+      "explanation": "Penerapan higiene dan sanitasi bertujuan menciptakan tempat kerja yang bersih, sehat, kuat, dan aman bagi pekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Menciptakan tempat kerja bersih, sehat, dan aman", "isCorrect": true },
+        { "text": "B. Meningkatkan kebisingan", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "D. Menambah kelembaban ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah urutan komponen gedung yang diatur higiene-sanitasinya menurut materi?",
+      "explanation": "Penerapan higiene dan sanitasi pada gedung meliputi dinding dan langit-langit, atap, serta lantai.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Dinding dan langit-langit, atap, lantai", "isCorrect": true },
+        { "text": "B. Toilet, loker, tempat sampah", "isCorrect": false },
+        { "text": "C. Mesin, pipa, kabel", "isCorrect": false },
+        { "text": "D. Taman, parkir, gerbang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah ruang kerja berukuran 12 m² diisi 8 pekerja. Menurut standar ruang gerak minimal, kondisi ini?",
+      "explanation": "8 pekerja membutuhkan minimal 16 m² (8 × 2). Karena hanya tersedia 12 m², ruang ini terlalu padat dan tidak memenuhi syarat.",
+      "difficulty": "HARD",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Memenuhi syarat dengan kelebihan ruang", "isCorrect": false },
+        { "text": "B. Tidak memenuhi syarat karena terlalu padat", "isCorrect": true },
+        { "text": "C. Tepat sesuai standar 2 m²/orang", "isCorrect": false },
+        { "text": "D. Tidak dapat dihitung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Air buangan yang tergenang di saluran halaman dapat menjadi?",
+      "explanation": "Air tergenang menjadi tempat berkembang biaknya nyamuk dan mikroorganisme penyebab penyakit.",
+      "difficulty": "EASY",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Sumber air bersih", "isCorrect": false },
+        { "text": "B. Tempat berkembang biak nyamuk dan penyakit", "isCorrect": true },
+        { "text": "C. Penguat struktur halaman", "isCorrect": false },
+        { "text": "D. Sumber pencahayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang tepat tentang langit-langit gedung tempat kerja adalah?",
+      "explanation": "Langit-langit (bersama dinding) harus kering/tidak lembab, dicat atau mudah dibersihkan, dicat ulang min 5 tahun dan dibersihkan min 1 tahun sekali.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Harus kering, tidak lembab, dan mudah dibersihkan", "isCorrect": true },
+        { "text": "B. Boleh lembab asalkan tinggi", "isCorrect": false },
+        { "text": "C. Tidak perlu dibersihkan", "isCorrect": false },
+        { "text": "D. Harus berjamur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk syarat bangunan bawah tanah, KECUALI?",
+      "explanation": "Syarat bangunan bawah tanah: struktur kuat, ventilasi udara, sumber pencahayaan, drainase mengalir, bersih dan terawat. Saluran tergenang justru tidak boleh.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Struktur yang kuat", "isCorrect": false },
+        { "text": "B. Sistem ventilasi udara", "isCorrect": false },
+        { "text": "C. Saluran pembuangan air yang tergenang", "isCorrect": true },
+        { "text": "D. Sumber pencahayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah kondisi atap yang TIDAK memenuhi syarat higiene dan sanitasi?",
+      "explanation": "Atap harus tidak bocor, tidak berlubang, dan tidak berjamur; atap yang berjamur tidak memenuhi syarat.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Tidak bocor", "isCorrect": false },
+        { "text": "B. Berjamur", "isCorrect": true },
+        { "text": "C. Melindungi dari panas", "isCorrect": false },
+        { "text": "D. Tidak berlubang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan sanitasi pada bangunan tempat kerja menitikberatkan pada kesehatan?",
+      "explanation": "Sanitasi menitikberatkan pada kesehatan lingkungan, termasuk kondisi bangunan tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Lingkungan", "isCorrect": true },
+        { "text": "B. Individu", "isCorrect": false },
+        { "text": "C. Keuangan", "isCorrect": false },
+        { "text": "D. Mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lantai gedung yang dibersihkan secara teratur akan?",
+      "explanation": "Lantai yang dibersihkan teratur mengurangi debu, kotoran, dan risiko terpeleset, sehingga mendukung kesehatan dan keselamatan kerja.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Mengurangi debu/kotoran dan risiko terpeleset", "isCorrect": true },
+        { "text": "B. Menambah kelembaban", "isCorrect": false },
+        { "text": "C. Membuat lantai cepat rusak", "isCorrect": false },
+        { "text": "D. Meningkatkan kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa gedung tempat kerja harus cukup luas?",
+      "explanation": "Gedung harus cukup luas untuk menyediakan ruang gerak minimal 2 m² per orang agar pekerja leluasa dan aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Agar pekerja punya ruang gerak min 2 m² per orang", "isCorrect": true },
+        { "text": "B. Agar terlihat mewah", "isCorrect": false },
+        { "text": "C. Agar boros energi", "isCorrect": false },
+        { "text": "D. Agar sulit dibersihkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Atap yang baik selain melindungi dari hujan juga melindungi pekerja dari?",
+      "explanation": "Atap memberikan perlindungan dari panas matahari dan hujan.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Panas matahari", "isCorrect": true },
+        { "text": "B. Bahan kimia di lantai", "isCorrect": false },
+        { "text": "C. Kebisingan mesin", "isCorrect": false },
+        { "text": "D. Getaran lantai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu indikator bahwa penerapan sanitasi gedung berhasil adalah gedung dalam kondisi?",
+      "explanation": "Penerapan higiene dan sanitasi gedung memastikan gedung terpelihara, bersih, kuat/kokoh, dan cukup luas.",
+      "difficulty": "EASY",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Terpelihara, bersih, kuat, dan cukup luas", "isCorrect": true },
+        { "text": "B. Kotor namun luas", "isCorrect": false },
+        { "text": "C. Bersih namun rapuh", "isCorrect": false },
+        { "text": "D. Lembab dan sempit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saluran air halaman yang \"terbuat dari bahan kuat\" dimaksudkan agar?",
+      "explanation": "Bahan kuat membuat saluran tahan lama, tidak mudah retak/bocor, sehingga air tetap mengalir lancar tanpa tergenang.",
+      "difficulty": "MEDIUM",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Saluran tahan lama dan tidak mudah bocor", "isCorrect": true },
+        { "text": "B. Air cepat tergenang", "isCorrect": false },
+        { "text": "C. Saluran cepat rusak", "isCorrect": false },
+        { "text": "D. Saluran terlihat transparan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan paling tepat tentang hubungan ruang udara dan ruang gerak adalah?",
+      "explanation": "Materi menyebut ruang gerak minimal 2 m² per orang sebagai luas, terkait juga dengan kecukupan ruang/luas lantai bebas per pekerja.",
+      "difficulty": "HARD",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Ruang gerak minimal 2 m² per orang menjamin keleluasaan dan kecukupan ruang", "isCorrect": true },
+        { "text": "B. Ruang gerak tidak ada batas minimal", "isCorrect": false },
+        { "text": "C. Semakin sempit semakin baik", "isCorrect": false },
+        { "text": "D. Ruang gerak tidak terkait kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dinding gedung yang dibiarkan lembab dapat memicu masalah kesehatan berupa?",
+      "explanation": "Dinding lembab menumbuhkan jamur/spora yang dapat menyebabkan alergi dan gangguan pernapasan pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Alergi dan gangguan pernapasan akibat jamur", "isCorrect": true },
+        { "text": "B. Peningkatan pendengaran", "isCorrect": false },
+        { "text": "C. Penurunan kebisingan", "isCorrect": false },
+        { "text": "D. Tidak ada masalah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen bangunan tempat kerja yang membutuhkan saluran pembuangan air mengalir baik adalah?",
+      "explanation": "Saluran pembuangan air yang mengalir disyaratkan baik pada halaman maupun bangunan bawah tanah.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Halaman dan bangunan bawah tanah", "isCorrect": true },
+        { "text": "B. Hanya atap", "isCorrect": false },
+        { "text": "C. Hanya langit-langit", "isCorrect": false },
+        { "text": "D. Hanya loker", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi lantai yang \"keras\" bermanfaat untuk?",
+      "explanation": "Lantai keras tahan beban dan tidak mudah aus/rusak sehingga aman untuk lalu lintas orang, barang, dan mesin.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Tahan beban dan tidak mudah rusak", "isCorrect": true },
+        { "text": "B. Mudah retak", "isCorrect": false },
+        { "text": "C. Menyerap air", "isCorrect": false },
+        { "text": "D. Membuat licin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penempatan tinggi langit-langit yang memadai mendukung sanitasi udara karena?",
+      "explanation": "Ruang yang cukup tinggi membantu sirkulasi udara dan mencegah pengap, mendukung lingkungan kerja yang sehat.",
+      "difficulty": "HARD",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Membantu sirkulasi udara dan mencegah pengap", "isCorrect": true },
+        { "text": "B. Menambah kelembaban", "isCorrect": false },
+        { "text": "C. Mengurangi pencahayaan", "isCorrect": false },
+        { "text": "D. Menambah kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bangunan bawah tanah yang \"bersih dan terawat\" menunjukkan penerapan?",
+      "explanation": "Menjaga bangunan bawah tanah tetap bersih dan terawat merupakan penerapan sanitasi pada lingkungan kerja.",
+      "difficulty": "EASY",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Sanitasi yang baik", "isCorrect": true },
+        { "text": "B. Pengabaian K3", "isCorrect": false },
+        { "text": "C. Penghematan air", "isCorrect": false },
+        { "text": "D. Penambahan kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan komponen-syarat yang BENAR?",
+      "explanation": "Atap: melindungi dari panas dan hujan, tidak bocor/berlubang/berjamur. Pasangan lain pada opsi keliru.",
+      "difficulty": "HARD",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Atap – melindungi dari panas dan hujan, tidak bocor", "isCorrect": true },
+        { "text": "B. Lantai – harus licin dan menyerap air", "isCorrect": false },
+        { "text": "C. Dinding – boleh lembab dan berjamur", "isCorrect": false },
+        { "text": "D. Halaman – boleh becek dan tergenang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa lantai tempat kerja disyaratkan mudah dibersihkan?",
+      "explanation": "Lantai yang mudah dibersihkan memungkinkan pembersihan teratur sehingga debu, kotoran, dan tumpahan tidak menumpuk dan tempat kerja tetap higienis.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Agar pembersihan teratur dan tempat kerja tetap higienis", "isCorrect": true },
+        { "text": "B. Agar lantai cepat aus", "isCorrect": false },
+        { "text": "C. Agar lantai menyerap kotoran", "isCorrect": false },
+        { "text": "D. Agar lebih licin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika sebuah gedung memiliki struktur lemah/tidak kokoh, risiko utamanya adalah?",
+      "explanation": "Struktur yang tidak kuat berisiko mengalami keretakan hingga keruntuhan yang membahayakan keselamatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Keretakan hingga keruntuhan yang membahayakan pekerja", "isCorrect": true },
+        { "text": "B. Gedung jadi lebih sejuk", "isCorrect": false },
+        { "text": "C. Lantai jadi lebih bersih", "isCorrect": false },
+        { "text": "D. Tidak ada risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan higiene berfokus pada usaha kesehatan yang bersifat?",
+      "explanation": "Higiene adalah usaha kesehatan preventif (pencegahan) yang berfokus pada individu.",
+      "difficulty": "EASY",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Preventif/pencegahan", "isCorrect": true },
+        { "text": "B. Kuratif/pengobatan", "isCorrect": false },
+        { "text": "C. Rehabilitatif", "isCorrect": false },
+        { "text": "D. Spekulatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam memilih bahan lantai untuk pabrik kimia, sifat yang paling penting adalah?",
+      "explanation": "Karena berisiko tumpahan, lantai harus tahan terhadap bahan kimia yang merusak, selain keras dan tahan air.",
+      "difficulty": "HARD",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Tahan bahan kimia, keras, dan tahan air", "isCorrect": true },
+        { "text": "B. Lunak dan menyerap air", "isCorrect": false },
+        { "text": "C. Licin dan berlubang", "isCorrect": false },
+        { "text": "D. Mudah bereaksi dengan kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saluran air pembuangan di halaman yang tertutup dan mengalir baik termasuk upaya sanitasi karena?",
+      "explanation": "Mengelola pembuangan air lingkungan agar tidak tergenang dan bersih merupakan usaha kesehatan lingkungan (sanitasi).",
+      "difficulty": "MEDIUM",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Menjaga kesehatan lingkungan dari genangan dan penyakit", "isCorrect": true },
+        { "text": "B. Menjaga kebersihan pribadi pekerja", "isCorrect": false },
+        { "text": "C. Mengobati penyakit pekerja", "isCorrect": false },
+        { "text": "D. Menambah kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah syarat dinding dan langit-langit, KECUALI?",
+      "explanation": "Dinding dan langit-langit harus kering/tidak lembab, dicat/mudah dibersihkan, dicat ulang min 5 tahun, dibersihkan min 1 tahun. Lembab justru tidak boleh.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Kering dan tidak lembab", "isCorrect": false },
+        { "text": "B. Dicat atau mudah dibersihkan", "isCorrect": false },
+        { "text": "C. Lembab dan berjamur", "isCorrect": true },
+        { "text": "D. Dibersihkan min 1 tahun sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi yang benar antara komponen bangunan dan frekuensi perawatannya menurut materi adalah?",
+      "explanation": "Dinding dan langit-langit: dicat ulang min 5 tahun, dibersihkan min 1 tahun; lantai dibersihkan secara teratur.",
+      "difficulty": "HARD",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Dinding dicat ulang min 5 tahun & dibersihkan min 1 tahun; lantai dibersihkan teratur", "isCorrect": true },
+        { "text": "B. Lantai dicat ulang min 5 tahun; dinding tidak dibersihkan", "isCorrect": false },
+        { "text": "C. Atap dicat ulang setiap hari", "isCorrect": false },
+        { "text": "D. Dinding dibersihkan min 5 tahun & dicat 1 tahun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan menyediakan ruang gerak yang cukup (min 2 m²/orang) berkaitan dengan aspek?",
+      "explanation": "Ruang gerak cukup mendukung kenyamanan, kelancaran kerja, jalur evakuasi, dan keselamatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Kenyamanan, kelancaran kerja, dan keselamatan", "isCorrect": true },
+        { "text": "B. Penambahan biaya semata", "isCorrect": false },
+        { "text": "C. Pengurangan ventilasi", "isCorrect": false },
+        { "text": "D. Peningkatan kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apabila bangunan bawah tanah tidak memiliki sumber pencahayaan yang memadai, risikonya adalah?",
+      "explanation": "Pencahayaan kurang di bawah tanah meningkatkan risiko kecelakaan kerja karena pekerja sulit melihat dengan jelas.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Meningkatkan risiko kecelakaan kerja", "isCorrect": true },
+        { "text": "B. Menghemat oksigen", "isCorrect": false },
+        { "text": "C. Membuat ruang lebih sehat", "isCorrect": false },
+        { "text": "D. Menambah kekuatan struktur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai halaman tempat kerja adalah?",
+      "explanation": "Halaman harus bersih, rapi, rata, tidak becek, cukup luas untuk lalu lintas, dengan saluran air tertutup yang mengalir.",
+      "difficulty": "EASY",
+      "tag": "Halaman",
+      "options": [
+        { "text": "A. Harus bersih, rapi, rata, dan cukup luas untuk lalu lintas", "isCorrect": true },
+        { "text": "B. Boleh sempit asalkan bersih", "isCorrect": false },
+        { "text": "C. Boleh becek asalkan rata", "isCorrect": false },
+        { "text": "D. Saluran air harus terbuka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen gedung manakah yang paling bertanggung jawab mencegah masuknya air hujan ke dalam ruang kerja?",
+      "explanation": "Atap yang tidak bocor dan tidak berlubang mencegah air hujan masuk ke ruang kerja.",
+      "difficulty": "EASY",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Atap", "isCorrect": true },
+        { "text": "B. Lantai", "isCorrect": false },
+        { "text": "C. Saluran halaman", "isCorrect": false },
+        { "text": "D. Langit-langit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan higiene dan sanitasi pada bangunan bawah tanah memastikan adanya struktur kuat, ventilasi, pencahayaan, drainase, serta?",
+      "explanation": "Selain itu, bangunan bawah tanah harus bersih dan terawat dengan baik.",
+      "difficulty": "EASY",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Kebersihan dan perawatan yang baik", "isCorrect": true },
+        { "text": "B. Kelembaban tinggi", "isCorrect": false },
+        { "text": "C. Kegelapan total", "isCorrect": false },
+        { "text": "D. Genangan air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah tim K3 menemukan halaman becek, dinding berjamur, dan saluran air tergenang. Kesimpulan yang tepat adalah?",
+      "explanation": "Kondisi tersebut menunjukkan penerapan higiene dan sanitasi bangunan tempat kerja yang buruk dan perlu segera diperbaiki.",
+      "difficulty": "HARD",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Penerapan higiene-sanitasi bangunan buruk dan perlu diperbaiki", "isCorrect": true },
+        { "text": "B. Bangunan sudah ideal", "isCorrect": false },
+        { "text": "C. Tidak ada masalah K3", "isCorrect": false },
+        { "text": "D. Kondisi mendukung kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan penerapan sanitasi pada komponen lantai?",
+      "explanation": "Memilih lantai keras/tahan air/tahan kimia, datar, tidak licin, dan membersihkannya teratur adalah penerapan sanitasi pada lantai.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Menggunakan lantai tidak licin dan membersihkannya secara teratur", "isCorrect": true },
+        { "text": "B. Membiarkan lantai licin dan berair", "isCorrect": false },
+        { "text": "C. Menggunakan lantai yang menyerap air", "isCorrect": false },
+        { "text": "D. Tidak pernah membersihkan lantai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa air buangan di halaman dan bangunan bawah tanah harus mengalir (tidak tergenang)?",
+      "explanation": "Air mengalir mencegah genangan yang menjadi sarang vektor penyakit, mencegah bau, dan menjaga lingkungan kerja tetap sehat.",
+      "difficulty": "MEDIUM",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Mencegah sarang vektor penyakit, bau, dan menjaga lingkungan sehat", "isCorrect": true },
+        { "text": "B. Membuat lingkungan lebih lembab", "isCorrect": false },
+        { "text": "C. Menambah biaya tanpa manfaat", "isCorrect": false },
+        { "text": "D. Mempercepat korosi struktur saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dinding dan langit-langit yang \"dicat\" memiliki keunggulan dibanding yang dibiarkan polos karena?",
+      "explanation": "Permukaan dicat lebih halus dan kedap sehingga lebih mudah dibersihkan dan tidak mudah menyerap kelembaban.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Lebih mudah dibersihkan dan tidak mudah menyerap lembab", "isCorrect": true },
+        { "text": "B. Lebih cepat berjamur", "isCorrect": false },
+        { "text": "C. Lebih sulit dibersihkan", "isCorrect": false },
+        { "text": "D. Lebih cepat menyerap air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar ruang gerak minimal 2 m² per orang merupakan bagian dari memastikan gedung?",
+      "explanation": "Ruang gerak minimal 2 m²/orang adalah bagian dari syarat gedung yang cukup luas, di samping terpelihara, bersih, dan kuat.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Cukup luas", "isCorrect": true },
+        { "text": "B. Berjamur", "isCorrect": false },
+        { "text": "C. Lembab", "isCorrect": false },
+        { "text": "D. Gelap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada bangunan bawah tanah, kombinasi ventilasi dan drainase yang baik berfungsi untuk?",
+      "explanation": "Ventilasi menjaga udara segar dan drainase mencegah genangan, sehingga ruang bawah tanah tetap sehat, tidak pengap, dan tidak lembab.",
+      "difficulty": "HARD",
+      "tag": "Bangunan Bawah Tanah",
+      "options": [
+        { "text": "A. Menjaga udara segar dan mencegah lembab/genangan", "isCorrect": true },
+        { "text": "B. Menambah kegelapan", "isCorrect": false },
+        { "text": "C. Memperlemah struktur", "isCorrect": false },
+        { "text": "D. Meningkatkan kontaminan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang bukan termasuk komponen gedung dalam penerapan higiene dan sanitasi adalah?",
+      "explanation": "Komponen gedung yang diatur adalah dinding dan langit-langit, atap, serta lantai; saluran air halaman termasuk bagian halaman, bukan gedung.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Dinding dan langit-langit", "isCorrect": false },
+        { "text": "B. Atap", "isCorrect": false },
+        { "text": "C. Lantai", "isCorrect": false },
+        { "text": "D. Saluran air halaman", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Apa manfaat menjaga atap agar tidak bocor terhadap komponen lain di dalam gedung?",
+      "explanation": "Atap yang tidak bocor mencegah rembesan air ke dinding dan lantai sehingga keduanya tetap kering, tidak lembab, dan tidak berjamur.",
+      "difficulty": "HARD",
+      "tag": "Gedung: Atap",
+      "options": [
+        { "text": "A. Menjaga dinding dan lantai tetap kering dan tidak berjamur", "isCorrect": true },
+        { "text": "B. Membuat lantai lebih licin", "isCorrect": false },
+        { "text": "C. Membuat dinding lebih lembab", "isCorrect": false },
+        { "text": "D. Tidak ada manfaat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang menggambarkan perbedaan fokus higiene dan sanitasi dengan benar?",
+      "explanation": "Higiene = kesehatan preventif fokus individu; sanitasi = kesehatan preventif fokus lingkungan. Keduanya preventif.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Higiene fokus individu; sanitasi fokus lingkungan; keduanya preventif", "isCorrect": true },
+        { "text": "B. Higiene kuratif; sanitasi preventif", "isCorrect": false },
+        { "text": "C. Higiene lingkungan; sanitasi individu", "isCorrect": false },
+        { "text": "D. Keduanya bersifat kuratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Membersihkan dinding minimal 1 tahun sekali bertujuan utama untuk?",
+      "explanation": "Pembersihan dinding berkala menghilangkan debu, kotoran, dan potensi jamur sehingga menjaga kebersihan dan kesehatan ruang kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Gedung: Dinding & Langit-langit",
+      "options": [
+        { "text": "A. Menghilangkan debu/kotoran dan potensi jamur", "isCorrect": true },
+        { "text": "B. Membuat dinding lebih lembab", "isCorrect": false },
+        { "text": "C. Mempercepat pengelupasan cat", "isCorrect": false },
+        { "text": "D. Menambah berat dinding", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang gerak minimal 2 m² per orang termasuk parameter yang menjamin tempat kerja?",
+      "explanation": "Ruang gerak yang memadai menjamin tempat kerja cukup luas dan nyaman, mengurangi kepadatan dan risiko kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Struktur & Ruang Gerak",
+      "options": [
+        { "text": "A. Cukup luas dan nyaman", "isCorrect": true },
+        { "text": "B. Sempit dan padat", "isCorrect": false },
+        { "text": "C. Gelap dan lembab", "isCorrect": false },
+        { "text": "D. Berisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lantai yang memenuhi syarat higiene-sanitasi memiliki ciri lengkap berupa?",
+      "explanation": "Lantai harus keras, tahan air, tahan bahan kimia, datar, tidak licin, mudah dibersihkan, serta dibersihkan teratur.",
+      "difficulty": "HARD",
+      "tag": "Gedung: Lantai",
+      "options": [
+        { "text": "A. Keras, tahan air & kimia, datar, tidak licin, mudah dibersihkan", "isCorrect": true },
+        { "text": "B. Lunak, menyerap air, licin", "isCorrect": false },
+        { "text": "C. Berlubang dan bergelombang", "isCorrect": false },
+        { "text": "D. Mudah bereaksi dengan kimia dan sulit dibersihkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan higiene dan sanitasi pada bangunan tempat kerja merupakan bagian dari upaya K3 untuk?",
+      "explanation": "Tujuannya mencegah penyakit akibat kerja dan kecelakaan, serta menciptakan lingkungan kerja yang sehat dan produktif.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Higiene & Sanitasi",
+      "options": [
+        { "text": "A. Mencegah penyakit akibat kerja dan kecelakaan", "isCorrect": true },
+        { "text": "B. Menambah jam kerja", "isCorrect": false },
+        { "text": "C. Mengurangi gaji pekerja", "isCorrect": false },
+        { "text": "D. Menaikkan kebisingan", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Definisi Higiene", "back": "Usaha kesehatan preventif yang menitikberatkan kegiatan pada kesehatan individu/pribadi manusia.", "tag": "Definisi Higiene & Sanitasi" },
+    { "front": "Definisi Sanitasi", "back": "Usaha kesehatan preventif yang menitikberatkan kegiatan pada kesehatan lingkungan hidup manusia.", "tag": "Definisi Higiene & Sanitasi" },
+    { "front": "Beda Higiene vs Sanitasi", "back": "Higiene = fokus individu; Sanitasi = fokus lingkungan. Keduanya bersifat preventif.", "tag": "Definisi Higiene & Sanitasi" },
+    { "front": "Komponen bangunan tempat kerja", "back": "Halaman, gedung (dinding & langit-langit, atap, lantai), dan bangunan bawah tanah.", "tag": "Definisi Higiene & Sanitasi" },
+    { "front": "Syarat halaman tempat kerja", "back": "Bersih, tertata rapi, rata, tidak becek, dan cukup luas untuk lalu lintas orang dan barang.", "tag": "Halaman" },
+    { "front": "Saluran air di halaman", "back": "Harus tertutup, dari bahan kuat, dan air buangan mengalir (tidak tergenang).", "tag": "Halaman" },
+    { "front": "Tujuan halaman tidak becek", "back": "Mencegah pekerja terpeleset dan mencegah genangan menjadi sumber penyakit.", "tag": "Halaman" },
+    { "front": "Syarat dinding & langit-langit", "back": "Kering/tidak lembab, dicat atau mudah dibersihkan.", "tag": "Gedung: Dinding & Langit-langit" },
+    { "front": "Pengecatan ulang dinding", "back": "Minimal 5 tahun sekali.", "tag": "Gedung: Dinding & Langit-langit" },
+    { "front": "Pembersihan dinding & langit-langit", "back": "Minimal 1 tahun sekali.", "tag": "Gedung: Dinding & Langit-langit" },
+    { "front": "Bahan lantai tempat kerja", "back": "Keras, tahan air, dan tahan bahan kimia yang merusak.", "tag": "Gedung: Lantai" },
+    { "front": "Permukaan lantai", "back": "Datar, tidak licin, mudah dibersihkan, dan dibersihkan secara teratur.", "tag": "Gedung: Lantai" },
+    { "front": "Fungsi atap", "back": "Memberikan perlindungan dari panas matahari dan hujan.", "tag": "Gedung: Atap" },
+    { "front": "Syarat kondisi atap", "back": "Tidak bocor, tidak berlubang, dan tidak berjamur.", "tag": "Gedung: Atap" },
+    { "front": "Kondisi gedung yang dipastikan", "back": "Terpelihara dan bersih, kuat dan kokoh strukturnya, serta cukup luas.", "tag": "Struktur & Ruang Gerak" },
+    { "front": "Ruang gerak minimal per orang", "back": "Minimal 2 m² per orang.", "tag": "Struktur & Ruang Gerak" },
+    { "front": "Syarat struktur gedung", "back": "Kuat dan kokoh untuk menjamin keselamatan pekerja dari risiko keruntuhan.", "tag": "Struktur & Ruang Gerak" },
+    { "front": "Syarat bangunan bawah tanah (5)", "back": "Struktur kuat, ventilasi udara, sumber pencahayaan, saluran pembuangan air mengalir, serta bersih & terawat.", "tag": "Bangunan Bawah Tanah" },
+    { "front": "Drainase bangunan bawah tanah", "back": "Harus mempunyai saluran pembuangan air yang mengalir dengan baik (tidak tergenang).", "tag": "Bangunan Bawah Tanah" },
+    { "front": "Aturan bangunan bawah tanah khusus", "back": "Untuk bangunan bawah tanah yang merupakan ruang tertentu, penerapan higiene-sanitasi sesuai ketentuan perundangan.", "tag": "Bangunan Bawah Tanah" },
+    { "front": "Mengapa dinding harus kering", "back": "Kelembaban memicu jamur/lumut yang merusak bangunan dan mengganggu kesehatan pernapasan.", "tag": "Gedung: Dinding & Langit-langit" }
+  ],
+  "mindmap": [
+    { "id": "bangunan-tempat-kerja", "label": "Bangunan Tempat Kerja", "color": "#6366f1", "parent": null, "content": "Penerapan higiene dan sanitasi pada bangunan tempat kerja: halaman, gedung, dan bangunan bawah tanah agar bersih, kuat, sehat, dan aman." },
+
+    { "id": "definisi", "label": "Definisi Higiene & Sanitasi", "color": "#8b5cf6", "parent": "bangunan-tempat-kerja", "content": "Dasar konsep: keduanya usaha kesehatan preventif, berbeda pada fokus sasaran." },
+    { "id": "higiene", "label": "Higiene", "color": "#8b5cf6", "parent": "definisi", "content": "Usaha kesehatan preventif yang menitikberatkan pada kesehatan individu/pribadi manusia." },
+    { "id": "sanitasi", "label": "Sanitasi", "color": "#8b5cf6", "parent": "definisi", "content": "Usaha kesehatan preventif yang menitikberatkan pada kesehatan lingkungan hidup manusia." },
+    { "id": "preventif", "label": "Sama-sama Preventif", "color": "#8b5cf6", "parent": "definisi", "content": "Keduanya bersifat pencegahan; bedanya higiene fokus individu, sanitasi fokus lingkungan." },
+
+    { "id": "halaman", "label": "Halaman", "color": "#0ea5e9", "parent": "bangunan-tempat-kerja", "content": "Area luar tempat kerja yang harus bersih, rapi, rata, dan tidak becek." },
+    { "id": "halaman-bersih", "label": "Bersih & Rata", "color": "#0ea5e9", "parent": "halaman", "content": "Halaman harus bersih, tertata rapi, rata, dan tidak becek untuk mencegah terpeleset dan penyakit." },
+    { "id": "halaman-luas", "label": "Cukup Luas", "color": "#0ea5e9", "parent": "halaman", "content": "Cukup luas untuk lalu lintas orang dan barang." },
+    { "id": "halaman-saluran", "label": "Saluran Air", "color": "#0ea5e9", "parent": "halaman", "content": "Bila ada saluran air pembuangan, harus tertutup, dari bahan kuat, air mengalir dan tidak tergenang." },
+
+    { "id": "gedung", "label": "Gedung", "color": "#10b981", "parent": "bangunan-tempat-kerja", "content": "Penerapan higiene-sanitasi pada dinding & langit-langit, lantai, dan atap; dipastikan terpelihara, bersih, kuat, dan cukup luas." },
+    { "id": "dinding", "label": "Dinding & Langit-langit", "color": "#10b981", "parent": "gedung", "content": "Komponen vertikal dan atas ruang yang harus kering dan mudah dibersihkan." },
+    { "id": "dinding-kering", "label": "Kering & Dicat", "color": "#10b981", "parent": "dinding", "content": "Kering/tidak lembab, dicat atau mudah dibersihkan agar tidak berjamur." },
+    { "id": "dinding-cat", "label": "Cat Ulang 5 Thn", "color": "#10b981", "parent": "dinding", "content": "Pengecatan ulang dilakukan minimal 5 tahun sekali." },
+    { "id": "dinding-bersih", "label": "Bersih 1 Thn", "color": "#10b981", "parent": "dinding", "content": "Dibersihkan minimal 1 tahun sekali." },
+    { "id": "lantai", "label": "Lantai", "color": "#10b981", "parent": "gedung", "content": "Permukaan bawah ruang kerja yang harus aman dan mudah dibersihkan." },
+    { "id": "lantai-bahan", "label": "Keras & Tahan", "color": "#10b981", "parent": "lantai", "content": "Terbuat dari bahan keras, tahan air, dan tahan bahan kimia yang merusak." },
+    { "id": "lantai-permukaan", "label": "Datar & Tidak Licin", "color": "#10b981", "parent": "lantai", "content": "Datar, tidak licin, dan mudah dibersihkan untuk mencegah terpeleset." },
+    { "id": "lantai-bersih", "label": "Dibersihkan Teratur", "color": "#10b981", "parent": "lantai", "content": "Dibersihkan secara teratur agar tetap higienis." },
+    { "id": "atap", "label": "Atap", "color": "#10b981", "parent": "gedung", "content": "Pelindung utama bagian atas gedung dari cuaca." },
+    { "id": "atap-lindung", "label": "Lindungi Panas & Hujan", "color": "#10b981", "parent": "atap", "content": "Mampu memberikan perlindungan dari panas matahari dan hujan." },
+    { "id": "atap-kondisi", "label": "Tidak Bocor/Berjamur", "color": "#10b981", "parent": "atap", "content": "Tidak bocor, tidak berlubang, dan tidak berjamur." },
+
+    { "id": "struktur", "label": "Struktur & Ruang Gerak", "color": "#f59e0b", "parent": "bangunan-tempat-kerja", "content": "Memastikan gedung kuat/kokoh dan cukup luas bagi pekerja." },
+    { "id": "struktur-kuat", "label": "Kuat & Kokoh", "color": "#f59e0b", "parent": "struktur", "content": "Struktur gedung harus kuat dan kokoh untuk menjamin keselamatan dari keruntuhan." },
+    { "id": "struktur-bersih", "label": "Terpelihara & Bersih", "color": "#f59e0b", "parent": "struktur", "content": "Gedung dipastikan terpelihara dan bersih melalui penerapan higiene-sanitasi." },
+    { "id": "struktur-ruang", "label": "Ruang Gerak 2 m²", "color": "#f59e0b", "parent": "struktur", "content": "Cukup luas dengan ruang gerak minimal 2 m² per orang." },
+
+    { "id": "bawah-tanah", "label": "Bangunan Bawah Tanah", "color": "#ef4444", "parent": "bangunan-tempat-kerja", "content": "Ruang di bawah permukaan tanah dengan 5 syarat utama higiene-sanitasi." },
+    { "id": "bt-struktur", "label": "Struktur Kuat", "color": "#ef4444", "parent": "bawah-tanah", "content": "Mempunyai struktur yang kuat." },
+    { "id": "bt-ventilasi", "label": "Ventilasi Udara", "color": "#ef4444", "parent": "bawah-tanah", "content": "Mempunyai sistem ventilasi udara untuk menjamin udara segar dan mencegah penumpukan gas." },
+    { "id": "bt-cahaya", "label": "Sumber Pencahayaan", "color": "#ef4444", "parent": "bawah-tanah", "content": "Mempunyai sumber pencahayaan karena minim cahaya alami." },
+    { "id": "bt-drainase", "label": "Drainase Mengalir", "color": "#ef4444", "parent": "bawah-tanah", "content": "Mempunyai saluran pembuangan air yang mengalir dengan baik." },
+    { "id": "bt-bersih", "label": "Bersih & Terawat", "color": "#ef4444", "parent": "bawah-tanah", "content": "Bersih dan terawat dengan baik; ruang tertentu mengikuti ketentuan perundangan." }
+  ]
+}

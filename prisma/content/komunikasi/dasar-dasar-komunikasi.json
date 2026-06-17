@@ -1,0 +1,1416 @@
+{
+  "topic": "Dasar-Dasar Komunikasi",
+  "order": 1,
+  "description": "Dasar-dasar komunikasi membahas proses penyampaian pesan dari pengirim ke penerima beserta unsur-unsurnya. Topik ini mencakup definisi, unsur, proses, jenis, hambatan, serta keterampilan dan manfaat komunikasi efektif.",
+  "subtopics": [
+    "Definisi & Pentingnya Komunikasi",
+    "Unsur Komunikasi",
+    "Proses Komunikasi",
+    "Jenis Komunikasi",
+    "Hambatan Komunikasi",
+    "Keterampilan Komunikasi Efektif",
+    "Manfaat Komunikasi Efektif"
+  ],
+  "questions": [
+    {
+      "text": "Apa definisi komunikasi secara umum?",
+      "explanation": "Komunikasi adalah proses penyampaian pesan, gagasan, atau perasaan dari satu pihak (pengirim) kepada pihak lain (penerima) sehingga terjadi pemahaman bersama.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Proses menyimpan informasi dalam ingatan", "isCorrect": false },
+        { "text": "B. Proses penyampaian pesan dari pengirim kepada penerima", "isCorrect": true },
+        { "text": "C. Proses mengolah data menjadi angka", "isCorrect": false },
+        { "text": "D. Proses berpikir tanpa melibatkan orang lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi dikatakan berhasil apabila terjadi?",
+      "explanation": "Komunikasi dikatakan berhasil bila pesan yang dikirim dipahami penerima sesuai maksud pengirim, sehingga terbentuk kesamaan makna (pemahaman bersama).",
+      "difficulty": "EASY",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Pengirim berbicara sebanyak mungkin", "isCorrect": false },
+        { "text": "B. Pesan dipahami penerima sesuai maksud pengirim", "isCorrect": true },
+        { "text": "C. Penerima diam saja", "isCorrect": false },
+        { "text": "D. Saluran yang digunakan mahal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa komunikasi penting dalam kehidupan sehari-hari?",
+      "explanation": "Komunikasi penting karena menjadi dasar interaksi manusia, membangun hubungan, menyampaikan informasi, dan mendukung kerja sama dalam berbagai aspek kehidupan.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Hanya untuk hiburan", "isCorrect": false },
+        { "text": "B. Karena menjadi dasar interaksi dan kerja sama antar manusia", "isCorrect": true },
+        { "text": "C. Untuk menghindari orang lain", "isCorrect": false },
+        { "text": "D. Hanya dibutuhkan saat bekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara etimologis, kata komunikasi berasal dari bahasa Latin 'communis' yang berarti?",
+      "explanation": "Kata komunikasi berasal dari bahasa Latin 'communis' yang berarti sama atau membuat kesamaan, yaitu kesamaan makna antara pengirim dan penerima.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Diam", "isCorrect": false },
+        { "text": "B. Sama / membuat kesamaan", "isCorrect": true },
+        { "text": "C. Berbeda", "isCorrect": false },
+        { "text": "D. Menyembunyikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi yang berjalan dua arah berbeda dari satu arah karena adanya?",
+      "explanation": "Komunikasi dua arah ditandai adanya umpan balik (feedback) dari penerima ke pengirim, sedangkan komunikasi satu arah tidak memiliki umpan balik.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Umpan balik dari penerima", "isCorrect": true },
+        { "text": "B. Jumlah pengirim yang banyak", "isCorrect": false },
+        { "text": "C. Pesan yang panjang", "isCorrect": false },
+        { "text": "D. Saluran yang mahal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan tujuan dasar dari komunikasi?",
+      "explanation": "Tujuan komunikasi antara lain menyampaikan informasi, mempengaruhi, dan membangun hubungan; menyembunyikan informasi dari semua pihak bukanlah tujuan komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Menyampaikan informasi", "isCorrect": false },
+        { "text": "B. Mempengaruhi sikap atau perilaku", "isCorrect": false },
+        { "text": "C. Menyembunyikan informasi dari semua pihak", "isCorrect": true },
+        { "text": "D. Membangun dan menjaga hubungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pihak yang memulai komunikasi dengan menyusun dan menyampaikan pesan disebut?",
+      "explanation": "Pengirim (sender/komunikator) adalah pihak yang memiliki gagasan, menyusunnya menjadi pesan, dan menyampaikannya kepada penerima.",
+      "difficulty": "EASY",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Penerima (receiver)", "isCorrect": false },
+        { "text": "B. Pengirim (sender)", "isCorrect": true },
+        { "text": "C. Saluran (channel)", "isCorrect": false },
+        { "text": "D. Umpan balik (feedback)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Informasi, gagasan, atau perasaan yang ingin disampaikan dalam komunikasi disebut?",
+      "explanation": "Pesan (message) adalah isi atau muatan informasi, gagasan, atau perasaan yang disampaikan pengirim kepada penerima.",
+      "difficulty": "EASY",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Saluran", "isCorrect": false },
+        { "text": "B. Konteks", "isCorrect": false },
+        { "text": "C. Pesan (message)", "isCorrect": true },
+        { "text": "D. Umpan balik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Media atau sarana yang digunakan untuk menyampaikan pesan disebut?",
+      "explanation": "Saluran (channel) adalah media atau sarana yang dilalui pesan dari pengirim ke penerima, misalnya suara, tulisan, telepon, atau internet.",
+      "difficulty": "EASY",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Saluran (channel)", "isCorrect": true },
+        { "text": "B. Pesan (message)", "isCorrect": false },
+        { "text": "C. Penerima (receiver)", "isCorrect": false },
+        { "text": "D. Konteks (context)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pihak yang menerima, menangkap, dan menafsirkan pesan disebut?",
+      "explanation": "Penerima (receiver/komunikan) adalah pihak yang menerima pesan dan menafsirkannya (decoding) untuk memahami maksud pengirim.",
+      "difficulty": "EASY",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Pengirim (sender)", "isCorrect": false },
+        { "text": "B. Penerima (receiver)", "isCorrect": true },
+        { "text": "C. Saluran (channel)", "isCorrect": false },
+        { "text": "D. Pesan (message)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanggapan atau respons yang diberikan penerima terhadap pesan disebut?",
+      "explanation": "Umpan balik (feedback) adalah respons atau tanggapan penerima terhadap pesan yang menandakan apakah pesan dipahami atau perlu diperjelas.",
+      "difficulty": "EASY",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Konteks", "isCorrect": false },
+        { "text": "B. Saluran", "isCorrect": false },
+        { "text": "C. Umpan balik (feedback)", "isCorrect": true },
+        { "text": "D. Pesan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Situasi, lingkungan, atau latar yang melingkupi berlangsungnya komunikasi disebut?",
+      "explanation": "Konteks (context) adalah situasi, lingkungan, waktu, dan latar sosial-budaya yang mempengaruhi cara pesan disampaikan dan dimaknai.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Konteks (context)", "isCorrect": true },
+        { "text": "B. Umpan balik", "isCorrect": false },
+        { "text": "C. Pengirim", "isCorrect": false },
+        { "text": "D. Saluran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan unsur komunikasi yang benar dalam proses dasar komunikasi adalah?",
+      "explanation": "Proses dasar komunikasi mengalir dari Pengirim ke Pesan, melalui Saluran, menuju Penerima, lalu menghasilkan Umpan Balik.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Penerima - Pesan - Saluran - Pengirim - Umpan Balik", "isCorrect": false },
+        { "text": "B. Pengirim - Pesan - Saluran - Penerima - Umpan Balik", "isCorrect": true },
+        { "text": "C. Pesan - Pengirim - Penerima - Saluran - Umpan Balik", "isCorrect": false },
+        { "text": "D. Saluran - Pengirim - Pesan - Umpan Balik - Penerima", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam istilah lain, pengirim pesan sering disebut sebagai?",
+      "explanation": "Pengirim pesan sering disebut komunikator, yaitu sumber yang memiliki dan menyampaikan pesan dalam komunikasi.",
+      "difficulty": "EASY",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Komunikan", "isCorrect": false },
+        { "text": "B. Komunikator", "isCorrect": true },
+        { "text": "C. Media", "isCorrect": false },
+        { "text": "D. Efek", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam istilah lain, penerima pesan sering disebut sebagai?",
+      "explanation": "Penerima pesan sering disebut komunikan, yaitu pihak yang menjadi sasaran pesan dari komunikator.",
+      "difficulty": "EASY",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Komunikan", "isCorrect": true },
+        { "text": "B. Komunikator", "isCorrect": false },
+        { "text": "C. Encoder", "isCorrect": false },
+        { "text": "D. Saluran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Telepon, email, surat, dan tatap muka merupakan contoh dari unsur komunikasi yang mana?",
+      "explanation": "Telepon, email, surat, dan tatap muka adalah contoh saluran (channel), yaitu media yang digunakan untuk menyampaikan pesan.",
+      "difficulty": "EASY",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Pesan", "isCorrect": false },
+        { "text": "B. Umpan balik", "isCorrect": false },
+        { "text": "C. Saluran", "isCorrect": true },
+        { "text": "D. Penerima", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanpa adanya umpan balik, komunikasi cenderung bersifat?",
+      "explanation": "Tanpa umpan balik, komunikasi bersifat satu arah karena pengirim tidak mengetahui apakah pesan diterima dan dipahami dengan benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Dua arah", "isCorrect": false },
+        { "text": "B. Satu arah", "isCorrect": true },
+        { "text": "C. Interaktif", "isCorrect": false },
+        { "text": "D. Transaksional penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konteks budaya yang berbeda antara pengirim dan penerima dapat menyebabkan?",
+      "explanation": "Perbedaan konteks budaya dapat menimbulkan perbedaan penafsiran terhadap pesan sehingga berpotensi menjadi hambatan komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Pesan otomatis dipahami sama", "isCorrect": false },
+        { "text": "B. Perbedaan penafsiran terhadap pesan", "isCorrect": true },
+        { "text": "C. Hilangnya peran pengirim", "isCorrect": false },
+        { "text": "D. Saluran menjadi tidak perlu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan unsur komunikasi dan perannya yang TEPAT?",
+      "explanation": "Pengirim berperan menyusun dan mengirim pesan (encoding), sedangkan penerima menafsirkan pesan (decoding); pasangan pengirim-penyampai pesan adalah yang tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Pengirim - menyusun dan menyampaikan pesan", "isCorrect": true },
+        { "text": "B. Penerima - membuat saluran", "isCorrect": false },
+        { "text": "C. Saluran - menafsirkan pesan", "isCorrect": false },
+        { "text": "D. Umpan balik - sumber awal pesan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Proses mengubah gagasan menjadi bentuk pesan (kata, simbol) oleh pengirim disebut?",
+      "explanation": "Encoding adalah proses penyandian, yaitu pengirim mengubah gagasan atau perasaan menjadi simbol/kata yang dapat dipahami.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Decoding", "isCorrect": false },
+        { "text": "B. Encoding", "isCorrect": true },
+        { "text": "C. Feedback", "isCorrect": false },
+        { "text": "D. Filtering", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Proses penerima menafsirkan dan memahami pesan yang diterima disebut?",
+      "explanation": "Decoding adalah proses penerima mengartikan simbol atau pesan menjadi makna yang dapat dipahami.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Encoding", "isCorrect": false },
+        { "text": "B. Decoding", "isCorrect": true },
+        { "text": "C. Encoding ulang", "isCorrect": false },
+        { "text": "D. Buffering", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam model proses komunikasi, langkah pertama yang dilakukan pengirim adalah?",
+      "explanation": "Langkah pertama dalam proses komunikasi adalah pengirim memiliki gagasan/ide yang kemudian disandikan (encoding) menjadi pesan.",
+      "difficulty": "EASY",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Memberikan umpan balik", "isCorrect": false },
+        { "text": "B. Memiliki gagasan lalu menyusunnya menjadi pesan", "isCorrect": true },
+        { "text": "C. Menafsirkan pesan", "isCorrect": false },
+        { "text": "D. Menutup komunikasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah pesan disampaikan melalui saluran dan diterima, tahap selanjutnya dalam proses komunikasi adalah?",
+      "explanation": "Setelah pesan diterima, penerima menafsirkan pesan (decoding) lalu dapat memberikan umpan balik kepada pengirim.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Penerima menafsirkan pesan dan memberi umpan balik", "isCorrect": true },
+        { "text": "B. Pengirim membuat saluran baru", "isCorrect": false },
+        { "text": "C. Pesan dihapus", "isCorrect": false },
+        { "text": "D. Konteks dihilangkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Model komunikasi Lasswell merumuskan komunikasi sebagai 'Who Says What In Which Channel To Whom With What Effect'. 'Who' merujuk pada?",
+      "explanation": "Dalam model Lasswell, 'Who' merujuk pada komunikator atau pengirim pesan yang menjadi sumber komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Pesan", "isCorrect": false },
+        { "text": "B. Komunikator / pengirim", "isCorrect": true },
+        { "text": "C. Saluran", "isCorrect": false },
+        { "text": "D. Efek", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam model Lasswell, unsur 'Says What' merujuk pada?",
+      "explanation": "Dalam model Lasswell, 'Says What' merujuk pada pesan, yaitu isi yang disampaikan komunikator.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Pesan", "isCorrect": true },
+        { "text": "B. Saluran", "isCorrect": false },
+        { "text": "C. Penerima", "isCorrect": false },
+        { "text": "D. Efek", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam model Lasswell, unsur 'To Whom' merujuk pada?",
+      "explanation": "Dalam model Lasswell, 'To Whom' merujuk pada komunikan atau penerima pesan yang menjadi sasaran komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Pengirim", "isCorrect": false },
+        { "text": "B. Saluran", "isCorrect": false },
+        { "text": "C. Penerima / komunikan", "isCorrect": true },
+        { "text": "D. Pesan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam model Lasswell, unsur 'With What Effect' menunjukkan?",
+      "explanation": "Dalam model Lasswell, 'With What Effect' menunjukkan efek atau dampak yang ditimbulkan pesan pada penerima.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Sumber pesan", "isCorrect": false },
+        { "text": "B. Efek/dampak pada penerima", "isCorrect": true },
+        { "text": "C. Jenis saluran", "isCorrect": false },
+        { "text": "D. Isi pesan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Model komunikasi yang memperkenalkan konsep 'noise' (gangguan) dalam saluran adalah model?",
+      "explanation": "Model Shannon-Weaver (1949) memperkenalkan konsep noise atau gangguan yang dapat mengganggu pesan saat melewati saluran.",
+      "difficulty": "HARD",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Model Aristoteles", "isCorrect": false },
+        { "text": "B. Model Shannon-Weaver", "isCorrect": true },
+        { "text": "C. Model Lasswell murni", "isCorrect": false },
+        { "text": "D. Model Newcomb", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam model Shannon-Weaver, elemen yang dapat mengganggu transmisi pesan pada saluran disebut?",
+      "explanation": "Dalam model Shannon-Weaver, gangguan pada saluran disebut noise, yang dapat menyebabkan pesan diterima tidak sesuai maksud.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Feedback", "isCorrect": false },
+        { "text": "B. Encoder", "isCorrect": false },
+        { "text": "C. Noise (gangguan)", "isCorrect": true },
+        { "text": "D. Receiver", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Model Shannon-Weaver pada dasarnya menggambarkan komunikasi sebagai proses?",
+      "explanation": "Model Shannon-Weaver menggambarkan komunikasi sebagai proses linier dari sumber informasi, transmitter, saluran (dengan noise), receiver, menuju tujuan.",
+      "difficulty": "HARD",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Linier (satu arah dari sumber ke tujuan)", "isCorrect": true },
+        { "text": "B. Tanpa saluran", "isCorrect": false },
+        { "text": "C. Tanpa sumber", "isCorrect": false },
+        { "text": "D. Hanya umpan balik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Adanya umpan balik dalam proses komunikasi membuat komunikasi bersifat?",
+      "explanation": "Umpan balik membuat komunikasi bersifat dua arah/sirkuler karena terjadi pertukaran peran antara pengirim dan penerima.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Statis", "isCorrect": false },
+        { "text": "B. Dua arah / sirkuler", "isCorrect": true },
+        { "text": "C. Searah mutlak", "isCorrect": false },
+        { "text": "D. Tanpa makna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada diagram proses komunikasi 'Pengirim -> Pesan -> Saluran -> Penerima -> Umpan Balik', umpan balik mengalir kembali ke?",
+      "explanation": "Umpan balik mengalir kembali dari penerima ke pengirim, menandakan respons terhadap pesan yang diterima.",
+      "difficulty": "EASY",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Pengirim", "isCorrect": true },
+        { "text": "B. Saluran lain", "isCorrect": false },
+        { "text": "C. Pihak ketiga", "isCorrect": false },
+        { "text": "D. Pesan baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi yang menggunakan simbol-simbol verbal baik lisan maupun tulisan disebut komunikasi?",
+      "explanation": "Komunikasi verbal adalah komunikasi yang menggunakan kata-kata atau simbol verbal, baik secara lisan maupun tulisan.",
+      "difficulty": "EASY",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Komunikasi nonverbal", "isCorrect": false },
+        { "text": "B. Komunikasi verbal", "isCorrect": true },
+        { "text": "C. Komunikasi visual", "isCorrect": false },
+        { "text": "D. Komunikasi massa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berbicara langsung, menulis surat, dan presentasi merupakan contoh komunikasi?",
+      "explanation": "Berbicara, menulis surat, dan presentasi menggunakan kata-kata sehingga termasuk komunikasi verbal (lisan dan tulisan).",
+      "difficulty": "EASY",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Verbal", "isCorrect": true },
+        { "text": "B. Nonverbal", "isCorrect": false },
+        { "text": "C. Visual", "isCorrect": false },
+        { "text": "D. Tidak langsung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi melalui bahasa tubuh, ekspresi wajah, dan gestur disebut komunikasi?",
+      "explanation": "Komunikasi nonverbal adalah komunikasi tanpa kata-kata, menggunakan bahasa tubuh, ekspresi wajah, dan gestur.",
+      "difficulty": "EASY",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Verbal", "isCorrect": false },
+        { "text": "B. Nonverbal", "isCorrect": true },
+        { "text": "C. Tertulis", "isCorrect": false },
+        { "text": "D. Formal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan gambar, grafik, dan simbol untuk menyampaikan pesan termasuk komunikasi?",
+      "explanation": "Komunikasi visual menggunakan gambar, grafik, diagram, dan simbol untuk menyampaikan informasi secara visual.",
+      "difficulty": "EASY",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Komunikasi visual", "isCorrect": true },
+        { "text": "B. Komunikasi verbal", "isCorrect": false },
+        { "text": "C. Komunikasi lisan", "isCorrect": false },
+        { "text": "D. Komunikasi sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi verbal terbagi menjadi dua bentuk, yaitu?",
+      "explanation": "Komunikasi verbal terbagi menjadi lisan (berbicara) dan tulisan (menulis), keduanya menggunakan kata-kata.",
+      "difficulty": "EASY",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Gestur dan ekspresi", "isCorrect": false },
+        { "text": "B. Lisan dan tulisan", "isCorrect": true },
+        { "text": "C. Gambar dan simbol", "isCorrect": false },
+        { "text": "D. Formal dan informal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengirim email kepada rekan kerja merupakan contoh komunikasi verbal jenis?",
+      "explanation": "Mengirim email menggunakan kata-kata tertulis sehingga termasuk komunikasi verbal jenis tulisan.",
+      "difficulty": "EASY",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Lisan", "isCorrect": false },
+        { "text": "B. Tulisan", "isCorrect": true },
+        { "text": "C. Nonverbal", "isCorrect": false },
+        { "text": "D. Visual murni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Anggukan kepala sebagai tanda setuju merupakan contoh komunikasi?",
+      "explanation": "Anggukan kepala adalah bahasa tubuh tanpa kata-kata sehingga merupakan contoh komunikasi nonverbal.",
+      "difficulty": "EASY",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Verbal lisan", "isCorrect": false },
+        { "text": "B. Verbal tulisan", "isCorrect": false },
+        { "text": "C. Nonverbal", "isCorrect": true },
+        { "text": "D. Visual cetak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rambu lalu lintas berupa simbol di jalan raya merupakan contoh komunikasi?",
+      "explanation": "Rambu lalu lintas menggunakan simbol dan gambar untuk menyampaikan pesan sehingga termasuk komunikasi visual.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Visual", "isCorrect": true },
+        { "text": "B. Verbal lisan", "isCorrect": false },
+        { "text": "C. Nonverbal sentuhan", "isCorrect": false },
+        { "text": "D. Verbal tulisan panjang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Grafik penjualan yang ditampilkan dalam presentasi termasuk jenis komunikasi?",
+      "explanation": "Grafik menampilkan data melalui visualisasi sehingga termasuk komunikasi visual yang memudahkan pemahaman informasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Verbal", "isCorrect": false },
+        { "text": "B. Visual", "isCorrect": true },
+        { "text": "C. Nonverbal gestural", "isCorrect": false },
+        { "text": "D. Sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi komunikasi verbal dan nonverbal saat presentasi membuat pesan menjadi?",
+      "explanation": "Memadukan verbal dan nonverbal membuat pesan lebih kuat, jelas, dan mudah dipahami karena saling memperkuat makna.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Lebih membingungkan", "isCorrect": false },
+        { "text": "B. Lebih jelas dan mudah dipahami", "isCorrect": true },
+        { "text": "C. Tidak berpengaruh", "isCorrect": false },
+        { "text": "D. Selalu kontradiktif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang paling tepat mengenai komunikasi nonverbal?",
+      "explanation": "Komunikasi nonverbal sering dianggap lebih jujur dan dapat memperkuat atau melengkapi pesan verbal melalui ekspresi dan gestur.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Hanya berupa tulisan", "isCorrect": false },
+        { "text": "B. Dapat memperkuat dan melengkapi pesan verbal", "isCorrect": true },
+        { "text": "C. Tidak pernah dipakai dalam interaksi", "isCorrect": false },
+        { "text": "D. Sama persis dengan komunikasi visual cetak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan komunikasi terjadi ketika ada intervensi yang mengganggu salah satu elemen komunikasi, menurut?",
+      "explanation": "Menurut Shannon & Weaver (1949), hambatan komunikasi terjadi bila ada gangguan pada salah satu elemen komunikasi sehingga proses tidak efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Aristoteles", "isCorrect": false },
+        { "text": "B. Shannon & Weaver", "isCorrect": true },
+        { "text": "C. Lasswell", "isCorrect": false },
+        { "text": "D. DeVito", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suara bising di sekitar lokasi pembicaraan yang mengganggu komunikasi termasuk hambatan?",
+      "explanation": "Suara bising dan gangguan lingkungan termasuk hambatan fisik karena berkaitan dengan kondisi lingkungan atau fungsi tubuh.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan semantik", "isCorrect": false },
+        { "text": "B. Hambatan psikologis", "isCorrect": false },
+        { "text": "C. Hambatan fisik", "isCorrect": true },
+        { "text": "D. Hambatan budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prasangka, emosi, dan suasana hati yang mengganggu komunikasi termasuk hambatan?",
+      "explanation": "Prasangka, emosi, dan persoalan dalam diri individu termasuk hambatan psikologis yang mengganggu penerimaan pesan.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan psikologis", "isCorrect": true },
+        { "text": "B. Hambatan fisik", "isCorrect": false },
+        { "text": "C. Hambatan teknologis", "isCorrect": false },
+        { "text": "D. Hambatan semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kesalahan pemahaman terhadap arti kata atau istilah merupakan hambatan?",
+      "explanation": "Hambatan semantik terjadi karena kesalahan pemaknaan kata, istilah, atau simbol bahasa yang digunakan.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan fisik", "isCorrect": false },
+        { "text": "B. Hambatan semantik", "isCorrect": true },
+        { "text": "C. Hambatan psikologis", "isCorrect": false },
+        { "text": "D. Hambatan teknologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sinyal telepon yang putus-putus atau koneksi internet yang buruk merupakan contoh hambatan?",
+      "explanation": "Gangguan pada alat atau media komunikasi seperti sinyal dan koneksi termasuk hambatan teknologis (teknis).",
+      "difficulty": "EASY",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan teknologis", "isCorrect": true },
+        { "text": "B. Hambatan budaya", "isCorrect": false },
+        { "text": "C. Hambatan semantik", "isCorrect": false },
+        { "text": "D. Hambatan psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kata 'jangan' dalam bahasa Jawa berarti makanan, sedangkan dalam bahasa Indonesia berarti larangan. Perbedaan ini menimbulkan hambatan?",
+      "explanation": "Perbedaan makna kata yang sama antar bahasa menimbulkan hambatan semantik karena salah persepsi terhadap simbol bahasa.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan fisik", "isCorrect": false },
+        { "text": "B. Hambatan semantik", "isCorrect": true },
+        { "text": "C. Hambatan teknologis", "isCorrect": false },
+        { "text": "D. Hambatan psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jarak geografis yang jauh sehingga pesan sulit tersampaikan termasuk hambatan?",
+      "explanation": "Jarak dan kondisi geografis yang menghambat penyampaian pesan termasuk hambatan fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan fisik", "isCorrect": true },
+        { "text": "B. Hambatan semantik", "isCorrect": false },
+        { "text": "C. Hambatan budaya", "isCorrect": false },
+        { "text": "D. Hambatan psikologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan norma, kebiasaan, dan nilai antar pihak yang berkomunikasi menimbulkan hambatan?",
+      "explanation": "Perbedaan norma, kebiasaan, dan nilai yang dianut menimbulkan hambatan budaya dalam komunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan budaya", "isCorrect": true },
+        { "text": "B. Hambatan fisik", "isCorrect": false },
+        { "text": "C. Hambatan teknologis", "isCorrect": false },
+        { "text": "D. Hambatan semantik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang sedang berduka sehingga sulit menerima pesan dengan baik mengalami hambatan?",
+      "explanation": "Situasi berduka atau gangguan dalam diri individu termasuk hambatan psikologis yang mengganggu penerimaan pesan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan fisik", "isCorrect": false },
+        { "text": "B. Hambatan psikologis", "isCorrect": true },
+        { "text": "C. Hambatan teknologis", "isCorrect": false },
+        { "text": "D. Hambatan budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tidak berfungsinya salah satu panca indra (misalnya tuli) merupakan hambatan komunikasi jenis?",
+      "explanation": "Gangguan fungsi tubuh atau panca indra termasuk hambatan fisik karena berkaitan dengan kondisi fisik penerima atau pengirim.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan fisik", "isCorrect": true },
+        { "text": "B. Hambatan semantik", "isCorrect": false },
+        { "text": "C. Hambatan budaya", "isCorrect": false },
+        { "text": "D. Hambatan teknologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan contoh hambatan teknologis dalam komunikasi?",
+      "explanation": "Gangguan jaringan provider, stasiun TV/radio yang rusak adalah contoh hambatan teknologis karena terjadi pada alat/media komunikasi.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Perbedaan adat istiadat", "isCorrect": false },
+        { "text": "B. Gangguan jaringan provider", "isCorrect": true },
+        { "text": "C. Rasa marah penerima", "isCorrect": false },
+        { "text": "D. Salah arti istilah daerah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Struktur bahasa yang berbelit-belit sehingga membingungkan penerima merupakan hambatan?",
+      "explanation": "Struktur bahasa yang membingungkan menimbulkan kesalahan pemahaman sehingga termasuk hambatan semantik.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan semantik", "isCorrect": true },
+        { "text": "B. Hambatan fisik", "isCorrect": false },
+        { "text": "C. Hambatan teknologis", "isCorrect": false },
+        { "text": "D. Hambatan budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk mengatasi hambatan semantik, hal yang sebaiknya dilakukan komunikator adalah?",
+      "explanation": "Mengatasi hambatan semantik dilakukan dengan menggunakan bahasa yang jelas, sederhana, dan istilah yang dipahami penerima.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Memperbanyak istilah teknis", "isCorrect": false },
+        { "text": "B. Menggunakan bahasa yang jelas dan sederhana", "isCorrect": true },
+        { "text": "C. Berbicara lebih cepat", "isCorrect": false },
+        { "text": "D. Mengabaikan umpan balik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hambatan komunikasi pada dasarnya menyebabkan proses komunikasi menjadi?",
+      "explanation": "Hambatan komunikasi menyebabkan proses komunikasi tidak berlangsung efektif karena pesan terganggu atau salah dipahami.",
+      "difficulty": "EASY",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Lebih efektif", "isCorrect": false },
+        { "text": "B. Tidak efektif", "isCorrect": true },
+        { "text": "C. Tidak terpengaruh", "isCorrect": false },
+        { "text": "D. Lebih cepat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keterampilan mendengarkan dengan penuh perhatian dan memahami maksud pembicara disebut?",
+      "explanation": "Mendengarkan secara aktif (active listening) adalah keterampilan menyimak dengan penuh perhatian untuk memahami maksud pembicara.",
+      "difficulty": "EASY",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Mendengar pasif", "isCorrect": false },
+        { "text": "B. Mendengarkan secara aktif", "isCorrect": true },
+        { "text": "C. Menyela pembicara", "isCorrect": false },
+        { "text": "D. Mengabaikan lawan bicara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu keterampilan komunikasi efektif adalah menggunakan bahasa yang?",
+      "explanation": "Komunikasi efektif menggunakan bahasa yang jelas dan sederhana agar mudah dipahami oleh penerima pesan.",
+      "difficulty": "EASY",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Rumit dan teknis", "isCorrect": false },
+        { "text": "B. Jelas dan sederhana", "isCorrect": true },
+        { "text": "C. Berbelit-belit", "isCorrect": false },
+        { "text": "D. Penuh istilah asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menyesuaikan cara penyampaian pesan dengan latar belakang pendengar disebut keterampilan?",
+      "explanation": "Memahami audiens adalah keterampilan menyesuaikan isi dan cara penyampaian pesan dengan karakteristik dan kebutuhan pendengar.",
+      "difficulty": "MEDIUM",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Memahami audiens", "isCorrect": true },
+        { "text": "B. Mengabaikan audiens", "isCorrect": false },
+        { "text": "C. Berbicara monoton", "isCorrect": false },
+        { "text": "D. Memperpanjang pesan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Umpan balik yang baik dalam komunikasi efektif sebaiknya bersifat?",
+      "explanation": "Umpan balik yang baik bersifat konstruktif, yaitu membangun dan membantu perbaikan, bukan menjatuhkan.",
+      "difficulty": "EASY",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Menjatuhkan", "isCorrect": false },
+        { "text": "B. Konstruktif (membangun)", "isCorrect": true },
+        { "text": "C. Menghakimi", "isCorrect": false },
+        { "text": "D. Tidak ada", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu keterampilan komunikasi efektif adalah berusaha menghindari?",
+      "explanation": "Komunikasi efektif berusaha menghindari gangguan dan hambatan agar pesan tersampaikan dengan jelas dan tidak terdistorsi.",
+      "difficulty": "EASY",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Umpan balik", "isCorrect": false },
+        { "text": "B. Gangguan dan hambatan", "isCorrect": true },
+        { "text": "C. Kontak mata", "isCorrect": false },
+        { "text": "D. Bahasa yang jelas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam mendengarkan aktif, salah satu hal yang dilakukan pendengar adalah?",
+      "explanation": "Mendengarkan aktif melibatkan memberi perhatian penuh, tidak menyela, dan menunjukkan respons seperti mengangguk atau bertanya untuk klarifikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Sibuk memikirkan jawaban sendiri", "isCorrect": false },
+        { "text": "B. Memberi perhatian penuh dan tidak menyela", "isCorrect": true },
+        { "text": "C. Memotong pembicaraan", "isCorrect": false },
+        { "text": "D. Mengalihkan topik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa memahami audiens penting dalam komunikasi efektif?",
+      "explanation": "Memahami audiens penting agar pesan disampaikan dengan cara dan bahasa yang sesuai sehingga mudah diterima dan dipahami.",
+      "difficulty": "MEDIUM",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Agar pembicara terlihat pintar", "isCorrect": false },
+        { "text": "B. Agar pesan sesuai dan mudah diterima audiens", "isCorrect": true },
+        { "text": "C. Agar komunikasi menjadi satu arah", "isCorrect": false },
+        { "text": "D. Agar audiens bingung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Umpan balik yang konstruktif sebaiknya difokuskan pada?",
+      "explanation": "Umpan balik konstruktif difokuskan pada perbaikan dan solusi, disampaikan dengan cara yang sopan dan membangun, bukan menyerang pribadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Perbaikan dan solusi", "isCorrect": true },
+        { "text": "B. Menyerang pribadi", "isCorrect": false },
+        { "text": "C. Mencari kesalahan saja", "isCorrect": false },
+        { "text": "D. Menyembunyikan masalah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kontak mata dan postur tubuh terbuka saat berbicara membantu komunikasi karena?",
+      "explanation": "Kontak mata dan postur terbuka menunjukkan perhatian dan keterbukaan sehingga memperkuat pesan dan membangun kepercayaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Membuat pesan membingungkan", "isCorrect": false },
+        { "text": "B. Menunjukkan perhatian dan membangun kepercayaan", "isCorrect": true },
+        { "text": "C. Menghalangi pesan verbal", "isCorrect": false },
+        { "text": "D. Menambah gangguan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara menyampaikan pesan agar efektif adalah memastikan pesan bersifat?",
+      "explanation": "Pesan yang efektif sebaiknya jelas, ringkas, dan tepat sasaran sehingga tidak menimbulkan salah tafsir.",
+      "difficulty": "EASY",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Panjang dan bertele-tele", "isCorrect": false },
+        { "text": "B. Jelas, ringkas, dan tepat sasaran", "isCorrect": true },
+        { "text": "C. Penuh istilah teknis", "isCorrect": false },
+        { "text": "D. Ambigu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk keterampilan komunikasi efektif menurut materi?",
+      "explanation": "Keterampilan komunikasi efektif meliputi mendengarkan aktif, bahasa jelas, memahami audiens, umpan balik konstruktif, dan menghindari hambatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Berbicara terus tanpa mendengar", "isCorrect": false },
+        { "text": "B. Memberikan umpan balik yang konstruktif", "isCorrect": true },
+        { "text": "C. Menggunakan bahasa serumit mungkin", "isCorrect": false },
+        { "text": "D. Mengabaikan kondisi pendengar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Empati dalam komunikasi berarti?",
+      "explanation": "Empati berarti memahami dan merasakan perspektif serta kondisi lawan bicara sehingga komunikasi lebih efektif dan hangat.",
+      "difficulty": "MEDIUM",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Memaksakan pendapat sendiri", "isCorrect": false },
+        { "text": "B. Memahami perspektif dan kondisi lawan bicara", "isCorrect": true },
+        { "text": "C. Mengabaikan perasaan orang lain", "isCorrect": false },
+        { "text": "D. Berbicara tanpa henti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif berkontribusi pada kolaborasi tim karena?",
+      "explanation": "Komunikasi efektif memperjelas tujuan dan pembagian peran sehingga tim dapat berkolaborasi dengan lebih efektif dan terkoordinasi.",
+      "difficulty": "EASY",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Membuat anggota saling salah paham", "isCorrect": false },
+        { "text": "B. Memperjelas tujuan dan peran tiap anggota", "isCorrect": true },
+        { "text": "C. Mengurangi kerja sama", "isCorrect": false },
+        { "text": "D. Memperlambat koordinasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat komunikasi efektif dalam hubungan antar individu adalah?",
+      "explanation": "Komunikasi efektif membantu membangun hubungan yang baik karena menumbuhkan saling pengertian dan kepercayaan.",
+      "difficulty": "EASY",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Membangun hubungan yang baik", "isCorrect": true },
+        { "text": "B. Menimbulkan konflik", "isCorrect": false },
+        { "text": "C. Menjauhkan orang", "isCorrect": false },
+        { "text": "D. Menambah kesalahpahaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif mendukung pengambilan keputusan yang?",
+      "explanation": "Komunikasi efektif menyediakan informasi yang jelas dan tepat sehingga mendukung pengambilan keputusan yang cepat dan tepat.",
+      "difficulty": "EASY",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Lambat dan keliru", "isCorrect": false },
+        { "text": "B. Cepat dan tepat", "isCorrect": true },
+        { "text": "C. Tertunda", "isCorrect": false },
+        { "text": "D. Penuh keraguan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa komunikasi efektif penting untuk kesuksesan dalam berbagai aspek kehidupan?",
+      "explanation": "Komunikasi efektif memudahkan penyampaian gagasan, kerja sama, dan penyelesaian masalah sehingga mendukung kesuksesan di berbagai bidang.",
+      "difficulty": "MEDIUM",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Karena membuat orang menghindari interaksi", "isCorrect": false },
+        { "text": "B. Karena memudahkan kerja sama dan penyelesaian masalah", "isCorrect": true },
+        { "text": "C. Karena menghemat biaya saja", "isCorrect": false },
+        { "text": "D. Karena tidak membutuhkan keterampilan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan manfaat komunikasi efektif?",
+      "explanation": "Manfaat komunikasi efektif meliputi kolaborasi, hubungan baik, dan keputusan tepat; meningkatkan kesalahpahaman justru kebalikan dari manfaatnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Kolaborasi yang efektif", "isCorrect": false },
+        { "text": "B. Meningkatkan kesalahpahaman", "isCorrect": true },
+        { "text": "C. Membangun hubungan yang baik", "isCorrect": false },
+        { "text": "D. Pengambilan keputusan yang tepat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif dalam organisasi dapat meningkatkan produktivitas karena?",
+      "explanation": "Komunikasi efektif mengurangi kesalahpahaman dan memperjelas tugas sehingga pekerjaan berjalan lancar dan produktivitas meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Menambah konflik internal", "isCorrect": false },
+        { "text": "B. Mengurangi kesalahpahaman dan memperjelas tugas", "isCorrect": true },
+        { "text": "C. Memperlambat alur kerja", "isCorrect": false },
+        { "text": "D. Menghapus koordinasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu pembelajaran dari studi kasus komunikasi adalah bahwa komunikasi yang tidak efektif dapat menyebabkan?",
+      "explanation": "Komunikasi tidak efektif dapat menimbulkan kesalahpahaman, konflik, dan kerugian, sehingga penting menerapkan komunikasi yang baik.",
+      "difficulty": "MEDIUM",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Kesalahpahaman dan konflik", "isCorrect": true },
+        { "text": "B. Hubungan yang semakin erat", "isCorrect": false },
+        { "text": "C. Keputusan yang selalu tepat", "isCorrect": false },
+        { "text": "D. Kerja sama yang sempurna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inti dari rangkuman dasar-dasar komunikasi adalah pentingnya memahami?",
+      "explanation": "Rangkuman menekankan pentingnya memahami dasar-dasar komunikasi untuk meraih sukses dalam berbagai aspek kehidupan.",
+      "difficulty": "EASY",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Hanya teknologi komunikasi", "isCorrect": false },
+        { "text": "B. Dasar-dasar komunikasi untuk sukses di berbagai aspek hidup", "isCorrect": true },
+        { "text": "C. Cara menghindari komunikasi", "isCorrect": false },
+        { "text": "D. Cara memperumit pesan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengirim yang menyampaikan pesan dengan jelas akan membantu penerima dalam tahap?",
+      "explanation": "Pesan yang jelas memudahkan penerima dalam decoding (menafsirkan) sehingga makna yang diterima sesuai maksud pengirim.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Encoding", "isCorrect": false },
+        { "text": "B. Decoding (menafsirkan pesan)", "isCorrect": true },
+        { "text": "C. Membuat noise", "isCorrect": false },
+        { "text": "D. Menghapus saluran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam komunikasi tatap muka, saluran yang digunakan utamanya adalah?",
+      "explanation": "Pada komunikasi tatap muka, saluran utamanya adalah gelombang suara dan visual langsung antara pengirim dan penerima.",
+      "difficulty": "EASY",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Kabel internet", "isCorrect": false },
+        { "text": "B. Suara dan visual langsung", "isCorrect": true },
+        { "text": "C. Surat pos", "isCorrect": false },
+        { "text": "D. Sinyal radio", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika penerima salah menafsirkan pesan padahal pengirim sudah menyampaikan dengan jelas, kemungkinan terjadi gangguan pada tahap?",
+      "explanation": "Salah penafsiran oleh penerima menunjukkan gangguan pada tahap decoding, bisa karena perbedaan persepsi, bahasa, atau pengetahuan.",
+      "difficulty": "HARD",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Encoding pengirim", "isCorrect": false },
+        { "text": "B. Decoding penerima", "isCorrect": true },
+        { "text": "C. Pembuatan gagasan", "isCorrect": false },
+        { "text": "D. Pemilihan pengirim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi sebagai proses penyampaian pesan oleh komunikator kepada komunikan melalui media yang menimbulkan efek tertentu merupakan definisi yang menekankan unsur?",
+      "explanation": "Definisi tersebut mencakup unsur komunikator, komunikan, media, dan efek, yang merupakan unsur-unsur dasar komunikasi.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Komunikator, pesan, media, komunikan, dan efek", "isCorrect": true },
+        { "text": "B. Hanya pengirim saja", "isCorrect": false },
+        { "text": "C. Hanya media saja", "isCorrect": false },
+        { "text": "D. Tidak ada unsur sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konteks komunikasi yang formal, seperti rapat resmi, biasanya menuntut penggunaan bahasa yang?",
+      "explanation": "Konteks formal menuntut bahasa yang baku, sopan, dan terstruktur agar sesuai dengan situasi resmi tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Slang dan santai", "isCorrect": false },
+        { "text": "B. Baku, sopan, dan terstruktur", "isCorrect": true },
+        { "text": "C. Penuh singkatan gaul", "isCorrect": false },
+        { "text": "D. Tidak beraturan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu fungsi utama komunikasi dalam masyarakat adalah fungsi?",
+      "explanation": "Salah satu fungsi utama komunikasi adalah fungsi informasi, yaitu menyampaikan dan menyebarkan informasi kepada orang lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Fungsi merusak hubungan", "isCorrect": false },
+        { "text": "B. Fungsi informasi", "isCorrect": true },
+        { "text": "C. Fungsi menyembunyikan", "isCorrect": false },
+        { "text": "D. Fungsi mengisolasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan 'komunikasi nonverbal lebih bersifat jujur daripada verbal' bermakna bahwa?",
+      "explanation": "Bahasa tubuh dan ekspresi sering muncul spontan dan sulit dimanipulasi, sehingga nonverbal dianggap lebih jujur mencerminkan perasaan sebenarnya.",
+      "difficulty": "HARD",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Ekspresi tubuh sering spontan dan sulit dimanipulasi", "isCorrect": true },
+        { "text": "B. Nonverbal selalu direncanakan", "isCorrect": false },
+        { "text": "C. Verbal tidak pernah dipakai", "isCorrect": false },
+        { "text": "D. Nonverbal tidak punya makna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika seorang pembicara mengatakan 'saya senang' namun raut wajahnya cemberut, terjadi?",
+      "explanation": "Ketidaksesuaian antara pesan verbal dan nonverbal disebut kontradiksi, yang dapat membingungkan penerima pesan.",
+      "difficulty": "HARD",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Repetisi pesan", "isCorrect": false },
+        { "text": "B. Kontradiksi antara verbal dan nonverbal", "isCorrect": true },
+        { "text": "C. Penguatan pesan", "isCorrect": false },
+        { "text": "D. Substitusi sempurna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam komunikasi, 'pesan' yang efektif sebaiknya disusun dengan memperhatikan?",
+      "explanation": "Pesan efektif disusun dengan memperhatikan siapa penerimanya, tujuan, serta kejelasan isi agar mudah dipahami.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Penerima, tujuan, dan kejelasan isi", "isCorrect": true },
+        { "text": "B. Hanya keinginan pengirim", "isCorrect": false },
+        { "text": "C. Sebanyak mungkin kata sulit", "isCorrect": false },
+        { "text": "D. Tanpa tujuan tertentu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemilihan saluran komunikasi yang tepat penting karena?",
+      "explanation": "Pemilihan saluran yang tepat memastikan pesan sampai dengan baik kepada penerima sesuai situasi dan kebutuhan.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Tidak berpengaruh pada pesan", "isCorrect": false },
+        { "text": "B. Memastikan pesan sampai dengan baik sesuai situasi", "isCorrect": true },
+        { "text": "C. Membuat pesan hilang", "isCorrect": false },
+        { "text": "D. Menambah hambatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi yang melibatkan dua orang secara langsung dan tatap muka termasuk komunikasi?",
+      "explanation": "Komunikasi antara dua orang secara langsung dan tatap muka termasuk komunikasi interpersonal (antarpribadi).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Interpersonal (antarpribadi)", "isCorrect": true },
+        { "text": "B. Komunikasi massa", "isCorrect": false },
+        { "text": "C. Komunikasi intrapersonal", "isCorrect": false },
+        { "text": "D. Komunikasi visual cetak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi dengan diri sendiri, seperti berpikir atau merenung, disebut komunikasi?",
+      "explanation": "Komunikasi intrapersonal adalah komunikasi dengan diri sendiri, seperti berpikir, merenung, atau berbicara dalam hati.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Interpersonal", "isCorrect": false },
+        { "text": "B. Intrapersonal", "isCorrect": true },
+        { "text": "C. Massa", "isCorrect": false },
+        { "text": "D. Kelompok", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menghindari gangguan saat berkomunikasi misalnya dengan memilih tempat yang?",
+      "explanation": "Memilih tempat yang tenang dan minim gangguan membantu pesan tersampaikan dengan jelas tanpa terdistorsi noise lingkungan.",
+      "difficulty": "EASY",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Ramai dan bising", "isCorrect": false },
+        { "text": "B. Tenang dan minim gangguan", "isCorrect": true },
+        { "text": "C. Penuh keramaian", "isCorrect": false },
+        { "text": "D. Gelap dan sempit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang hubungan pengirim dan penerima dalam komunikasi dua arah?",
+      "explanation": "Dalam komunikasi dua arah, peran pengirim dan penerima dapat bertukar secara bergantian melalui umpan balik.",
+      "difficulty": "HARD",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Peran keduanya tetap dan tidak pernah bertukar", "isCorrect": false },
+        { "text": "B. Peran pengirim dan penerima dapat bertukar secara bergantian", "isCorrect": true },
+        { "text": "C. Penerima tidak boleh merespons", "isCorrect": false },
+        { "text": "D. Pengirim selalu pasif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor 'pengetahuan' mempengaruhi komunikasi verbal seseorang karena?",
+      "explanation": "Semakin luas pengetahuan seseorang, semakin banyak kosakata yang dimiliki sehingga komunikasi verbalnya lebih kaya dan jelas.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Mengurangi kemampuan bicara", "isCorrect": false },
+        { "text": "B. Menambah kosakata dan kelancaran berkomunikasi", "isCorrect": true },
+        { "text": "C. Membuat komunikasi terhambat", "isCorrect": false },
+        { "text": "D. Tidak ada hubungannya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif terjadi ketika makna yang diterima penerima sama dengan makna yang dimaksud pengirim. Kondisi ini disebut?",
+      "explanation": "Kesamaan makna antara pengirim dan penerima disebut shared meaning atau kesamaan makna, yang merupakan tujuan komunikasi efektif.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Noise", "isCorrect": false },
+        { "text": "B. Kesamaan makna (shared meaning)", "isCorrect": true },
+        { "text": "C. Encoding ganda", "isCorrect": false },
+        { "text": "D. Hambatan budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang dosen menjelaskan materi sambil menampilkan slide bergambar. Ini merupakan gabungan komunikasi?",
+      "explanation": "Penjelasan lisan disertai slide bergambar menggabungkan komunikasi verbal (lisan) dan visual untuk memperkuat pemahaman.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Verbal dan visual", "isCorrect": true },
+        { "text": "B. Hanya nonverbal", "isCorrect": false },
+        { "text": "C. Hanya sentuhan", "isCorrect": false },
+        { "text": "D. Intrapersonal saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketika dua pihak berasal dari budaya berbeda, untuk mengurangi hambatan budaya sebaiknya dilakukan?",
+      "explanation": "Mengurangi hambatan budaya dilakukan dengan saling memahami, menghormati perbedaan, dan menyesuaikan cara berkomunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Memaksakan budaya sendiri", "isCorrect": false },
+        { "text": "B. Saling memahami dan menghormati perbedaan", "isCorrect": true },
+        { "text": "C. Mengabaikan lawan bicara", "isCorrect": false },
+        { "text": "D. Menghindari komunikasi sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh komunikasi satu arah?",
+      "explanation": "Pengumuman melalui pengeras suara tanpa kesempatan merespons adalah contoh komunikasi satu arah karena tidak ada umpan balik langsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Diskusi kelompok", "isCorrect": false },
+        { "text": "B. Pengumuman melalui pengeras suara tanpa respons", "isCorrect": true },
+        { "text": "C. Percakapan telepon dua orang", "isCorrect": false },
+        { "text": "D. Wawancara tatap muka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari memahami unsur, proses, dan hambatan komunikasi adalah agar seseorang mampu?",
+      "explanation": "Memahami unsur, proses, dan hambatan komunikasi bertujuan agar seseorang dapat berkomunikasi secara efektif dan menghindari kesalahpahaman.",
+      "difficulty": "EASY",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Menghindari komunikasi", "isCorrect": false },
+        { "text": "B. Berkomunikasi secara efektif", "isCorrect": true },
+        { "text": "C. Memperbanyak kesalahpahaman", "isCorrect": false },
+        { "text": "D. Mengurangi interaksi sosial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam model Shannon-Weaver, alat yang mengubah pesan menjadi sinyal untuk dikirim melalui saluran disebut?",
+      "explanation": "Dalam model Shannon-Weaver, transmitter (pemancar) mengubah pesan dari sumber menjadi sinyal yang dikirim melalui saluran.",
+      "difficulty": "HARD",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Receiver", "isCorrect": false },
+        { "text": "B. Transmitter (pemancar)", "isCorrect": true },
+        { "text": "C. Destination", "isCorrect": false },
+        { "text": "D. Noise source", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi efektif membantu menyelesaikan konflik karena?",
+      "explanation": "Komunikasi efektif memungkinkan pihak yang berkonflik saling memahami sudut pandang sehingga lebih mudah mencari solusi bersama.",
+      "difficulty": "MEDIUM",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Memperbesar kesalahpahaman", "isCorrect": false },
+        { "text": "B. Memungkinkan saling memahami sudut pandang", "isCorrect": true },
+        { "text": "C. Menghindari semua pihak", "isCorrect": false },
+        { "text": "D. Menutup ruang dialog", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu ciri pesan yang baik adalah relevan, artinya?",
+      "explanation": "Pesan yang relevan adalah pesan yang sesuai dengan kebutuhan, kepentingan, dan situasi penerima sehingga lebih bermakna.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Sesuai kebutuhan dan situasi penerima", "isCorrect": true },
+        { "text": "B. Tidak berhubungan dengan penerima", "isCorrect": false },
+        { "text": "C. Selalu panjang", "isCorrect": false },
+        { "text": "D. Penuh istilah asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan urutan diagram proses komunikasi sesuai materi?",
+      "explanation": "Diagram proses komunikasi pada materi adalah Pengirim -> Pesan -> Saluran -> Penerima -> Umpan Balik.",
+      "difficulty": "EASY",
+      "tag": "Proses Komunikasi",
+      "options": [
+        { "text": "A. Pengirim -> Pesan -> Saluran -> Penerima -> Umpan Balik", "isCorrect": true },
+        { "text": "B. Umpan Balik -> Penerima -> Pengirim -> Pesan -> Saluran", "isCorrect": false },
+        { "text": "C. Saluran -> Penerima -> Pengirim -> Umpan Balik -> Pesan", "isCorrect": false },
+        { "text": "D. Pesan -> Saluran -> Umpan Balik -> Pengirim -> Penerima", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kemampuan mengelola emosi saat berkomunikasi membantu mengatasi hambatan?",
+      "explanation": "Mengelola emosi membantu mengatasi hambatan psikologis karena emosi yang tidak terkendali dapat mengganggu penerimaan dan penyampaian pesan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan teknologis", "isCorrect": false },
+        { "text": "B. Hambatan psikologis", "isCorrect": true },
+        { "text": "C. Hambatan geografis fisik", "isCorrect": false },
+        { "text": "D. Hambatan jaringan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemilihan kata yang tepat dan tidak ambigu bertujuan untuk mencegah hambatan?",
+      "explanation": "Pemilihan kata yang tepat mencegah hambatan semantik karena mengurangi kemungkinan salah tafsir terhadap makna pesan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan semantik", "isCorrect": true },
+        { "text": "B. Hambatan fisik", "isCorrect": false },
+        { "text": "C. Hambatan teknologis", "isCorrect": false },
+        { "text": "D. Hambatan budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu indikator komunikasi berlangsung efektif adalah?",
+      "explanation": "Indikator komunikasi efektif antara lain penerima memahami pesan sesuai maksud pengirim dan memberikan respons/umpan balik yang sesuai.",
+      "difficulty": "EASY",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Penerima bingung dan diam", "isCorrect": false },
+        { "text": "B. Penerima memahami pesan dan memberi respons sesuai", "isCorrect": true },
+        { "text": "C. Pesan tidak sampai", "isCorrect": false },
+        { "text": "D. Terjadi banyak kesalahpahaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi merupakan proses pernyataan pikiran atau perasaan seseorang kepada orang lain dengan menggunakan?",
+      "explanation": "Komunikasi adalah proses penyampaian pikiran atau perasaan kepada orang lain dengan menggunakan bahasa (lambang) sebagai alat penyalurnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pentingnya Komunikasi",
+      "options": [
+        { "text": "A. Bahasa sebagai alat penyalur", "isCorrect": true },
+        { "text": "B. Diam tanpa lambang", "isCorrect": false },
+        { "text": "C. Hanya angka", "isCorrect": false },
+        { "text": "D. Telepati", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat berkomunikasi lintas profesi, istilah teknis yang tidak dipahami penerima sebaiknya?",
+      "explanation": "Istilah teknis yang tidak dipahami sebaiknya dijelaskan atau diganti dengan bahasa sederhana untuk mencegah hambatan semantik.",
+      "difficulty": "MEDIUM",
+      "tag": "Keterampilan Komunikasi Efektif",
+      "options": [
+        { "text": "A. Diperbanyak agar terlihat ahli", "isCorrect": false },
+        { "text": "B. Dijelaskan atau diganti bahasa sederhana", "isCorrect": true },
+        { "text": "C. Dibiarkan membingungkan", "isCorrect": false },
+        { "text": "D. Diucapkan lebih cepat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi yang baik antara anggota tim akan menghasilkan?",
+      "explanation": "Komunikasi yang baik dalam tim menghasilkan koordinasi yang lebih baik, kolaborasi efektif, dan hubungan kerja yang harmonis.",
+      "difficulty": "EASY",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Koordinasi dan kolaborasi yang lebih baik", "isCorrect": true },
+        { "text": "B. Perpecahan tim", "isCorrect": false },
+        { "text": "C. Kebingungan menyeluruh", "isCorrect": false },
+        { "text": "D. Penurunan kerja sama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa unsur konteks perlu diperhatikan dalam komunikasi?",
+      "explanation": "Konteks perlu diperhatikan karena situasi, lingkungan, dan latar mempengaruhi cara pesan disampaikan dan dimaknai oleh penerima.",
+      "difficulty": "HARD",
+      "tag": "Unsur Komunikasi",
+      "options": [
+        { "text": "A. Karena mempengaruhi cara pesan disampaikan dan dimaknai", "isCorrect": true },
+        { "text": "B. Karena tidak ada pengaruhnya", "isCorrect": false },
+        { "text": "C. Karena menggantikan pengirim", "isCorrect": false },
+        { "text": "D. Karena menghapus pesan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang paling tepat tentang komunikasi efektif adalah?",
+      "explanation": "Komunikasi efektif adalah komunikasi yang pesannya sampai dan dipahami sesuai maksud, menimbulkan respons yang diharapkan, dan minim hambatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Manfaat Komunikasi Efektif",
+      "options": [
+        { "text": "A. Komunikasi yang penuh gangguan", "isCorrect": false },
+        { "text": "B. Komunikasi yang pesannya dipahami sesuai maksud dan menimbulkan respons yang diharapkan", "isCorrect": true },
+        { "text": "C. Komunikasi satu arah tanpa makna", "isCorrect": false },
+        { "text": "D. Komunikasi yang menimbulkan konflik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat seseorang membaca poster keselamatan kerja, jenis komunikasi yang dominan adalah?",
+      "explanation": "Poster keselamatan kerja umumnya memadukan teks dan gambar/simbol, namun unsur gambar dan simbol membuatnya dominan komunikasi visual.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Komunikasi",
+      "options": [
+        { "text": "A. Visual (dan verbal tulisan)", "isCorrect": true },
+        { "text": "B. Sentuhan", "isCorrect": false },
+        { "text": "C. Intrapersonal", "isCorrect": false },
+        { "text": "D. Paralinguistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila pengirim menyampaikan pesan tetapi penerima sedang melamun dan tidak fokus, hambatan yang muncul tergolong?",
+      "explanation": "Penerima yang tidak fokus/melamun mengalami hambatan psikologis karena gangguan berasal dari kondisi dalam diri penerima.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan Komunikasi",
+      "options": [
+        { "text": "A. Hambatan psikologis", "isCorrect": true },
+        { "text": "B. Hambatan teknologis", "isCorrect": false },
+        { "text": "C. Hambatan semantik", "isCorrect": false },
+        { "text": "D. Hambatan budaya", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa itu komunikasi?", "back": "Proses penyampaian pesan, gagasan, atau perasaan dari pengirim kepada penerima sehingga terbentuk pemahaman bersama.", "tag": "Definisi & Pentingnya Komunikasi" },
+    { "front": "Asal kata 'komunikasi'", "back": "Dari bahasa Latin 'communis' yang berarti sama / membuat kesamaan makna.", "tag": "Definisi & Pentingnya Komunikasi" },
+    { "front": "Mengapa komunikasi penting?", "back": "Menjadi dasar interaksi, membangun hubungan, menyampaikan informasi, dan mendukung kerja sama dalam berbagai aspek kehidupan.", "tag": "Definisi & Pentingnya Komunikasi" },
+    { "front": "Pengirim (Sender)", "back": "Pihak/komunikator yang memiliki gagasan, menyusunnya menjadi pesan (encoding), dan menyampaikannya.", "tag": "Unsur Komunikasi" },
+    { "front": "Pesan (Message)", "back": "Informasi, gagasan, atau perasaan yang ingin disampaikan pengirim kepada penerima.", "tag": "Unsur Komunikasi" },
+    { "front": "Saluran (Channel)", "back": "Media atau sarana yang dilalui pesan, misalnya suara, tulisan, telepon, email, atau internet.", "tag": "Unsur Komunikasi" },
+    { "front": "Penerima (Receiver)", "back": "Pihak/komunikan yang menerima dan menafsirkan pesan (decoding) dari pengirim.", "tag": "Unsur Komunikasi" },
+    { "front": "Umpan Balik (Feedback)", "back": "Respons atau tanggapan penerima terhadap pesan; penanda komunikasi dua arah.", "tag": "Unsur Komunikasi" },
+    { "front": "Konteks (Context)", "back": "Situasi, lingkungan, dan latar sosial-budaya yang mempengaruhi cara pesan disampaikan dan dimaknai.", "tag": "Unsur Komunikasi" },
+    { "front": "Encoding vs Decoding", "back": "Encoding: pengirim mengubah gagasan menjadi pesan. Decoding: penerima menafsirkan pesan menjadi makna.", "tag": "Proses Komunikasi" },
+    { "front": "Diagram proses komunikasi", "back": "Pengirim -> Pesan -> Saluran -> Penerima -> Umpan Balik.", "tag": "Proses Komunikasi" },
+    { "front": "Model Lasswell", "back": "Who - Says What - In Which Channel - To Whom - With What Effect (pengirim, pesan, saluran, penerima, efek).", "tag": "Proses Komunikasi" },
+    { "front": "Model Shannon-Weaver", "back": "Model linier: sumber -> transmitter -> saluran (dengan noise) -> receiver -> tujuan. Memperkenalkan konsep noise (gangguan).", "tag": "Proses Komunikasi" },
+    { "front": "Jenis komunikasi (3)", "back": "Verbal (lisan & tulisan), Nonverbal (bahasa tubuh, ekspresi, gestur), Visual (gambar, grafik, simbol).", "tag": "Jenis Komunikasi" },
+    { "front": "Komunikasi nonverbal", "back": "Komunikasi tanpa kata melalui bahasa tubuh, ekspresi wajah, gestur; sering dianggap lebih jujur daripada verbal.", "tag": "Jenis Komunikasi" },
+    { "front": "5 jenis hambatan komunikasi", "back": "Fisik, Psikologis, Semantik, Budaya, dan Teknologis (teknis).", "tag": "Hambatan Komunikasi" },
+    { "front": "Hambatan semantik", "back": "Gangguan akibat kesalahan pemahaman kata/istilah. Contoh: 'jangan' di bahasa Jawa = makanan, di Indonesia = larangan.", "tag": "Hambatan Komunikasi" },
+    { "front": "Hambatan teknologis", "back": "Gangguan pada alat/media komunikasi, misalnya sinyal buruk atau jaringan provider terganggu.", "tag": "Hambatan Komunikasi" },
+    { "front": "Keterampilan komunikasi efektif", "back": "Mendengarkan aktif, bahasa jelas & sederhana, memahami audiens, umpan balik konstruktif, menghindari gangguan/hambatan.", "tag": "Keterampilan Komunikasi Efektif" },
+    { "front": "Manfaat komunikasi efektif", "back": "Kolaborasi efektif, membangun hubungan baik, dan pengambilan keputusan yang cepat dan tepat.", "tag": "Manfaat Komunikasi Efektif" }
+  ],
+  "mindmap": [
+    { "id": "dasar-komunikasi", "label": "Dasar-Dasar Komunikasi", "color": "#6366f1", "parent": null, "content": "Proses penyampaian pesan dari pengirim ke penerima beserta unsur, proses, jenis, hambatan, keterampilan, dan manfaatnya." },
+
+    { "id": "definisi", "label": "Definisi & Pentingnya", "color": "#8b5cf6", "parent": "dasar-komunikasi", "content": "Komunikasi adalah proses penyampaian pesan untuk membentuk pemahaman bersama; penting dalam segala aspek kehidupan." },
+    { "id": "def-arti", "label": "Definisi", "color": "#8b5cf6", "parent": "definisi", "content": "Proses penyampaian pikiran/perasaan dengan bahasa sebagai alat penyalur sehingga tercipta kesamaan makna." },
+    { "id": "def-communis", "label": "Asal Kata", "color": "#8b5cf6", "parent": "definisi", "content": "Dari Latin 'communis' yang berarti sama atau membuat kesamaan." },
+    { "id": "def-penting", "label": "Pentingnya", "color": "#8b5cf6", "parent": "definisi", "content": "Dasar interaksi, membangun hubungan, dan mendukung kerja sama antar manusia." },
+
+    { "id": "unsur", "label": "Unsur Komunikasi", "color": "#0ea5e9", "parent": "dasar-komunikasi", "content": "Komponen pembentuk komunikasi: pengirim, pesan, saluran, penerima, umpan balik, dan konteks." },
+    { "id": "unsur-sender", "label": "Pengirim", "color": "#0ea5e9", "parent": "unsur", "content": "Komunikator yang menyusun dan menyampaikan pesan." },
+    { "id": "unsur-message", "label": "Pesan", "color": "#0ea5e9", "parent": "unsur", "content": "Informasi, gagasan, atau perasaan yang disampaikan." },
+    { "id": "unsur-channel", "label": "Saluran", "color": "#0ea5e9", "parent": "unsur", "content": "Media penyampai pesan seperti suara, tulisan, telepon, atau internet." },
+    { "id": "unsur-receiver", "label": "Penerima", "color": "#0ea5e9", "parent": "unsur", "content": "Komunikan yang menerima dan menafsirkan pesan." },
+    { "id": "unsur-feedback", "label": "Umpan Balik", "color": "#0ea5e9", "parent": "unsur", "content": "Respons penerima terhadap pesan, penanda komunikasi dua arah." },
+    { "id": "unsur-context", "label": "Konteks", "color": "#0ea5e9", "parent": "unsur", "content": "Situasi dan lingkungan yang mempengaruhi cara pesan dimaknai." },
+
+    { "id": "proses", "label": "Proses Komunikasi", "color": "#10b981", "parent": "dasar-komunikasi", "content": "Alur komunikasi dari encoding pengirim hingga umpan balik penerima, dijelaskan lewat berbagai model." },
+    { "id": "proses-diagram", "label": "Diagram Proses", "color": "#10b981", "parent": "proses", "content": "Pengirim -> Pesan -> Saluran -> Penerima -> Umpan Balik." },
+    { "id": "proses-encode", "label": "Encoding & Decoding", "color": "#10b981", "parent": "proses", "content": "Encoding: gagasan menjadi pesan. Decoding: pesan ditafsirkan menjadi makna." },
+    { "id": "proses-lasswell", "label": "Model Lasswell", "color": "#10b981", "parent": "proses", "content": "Who - Says What - In Which Channel - To Whom - With What Effect." },
+    { "id": "proses-shannon", "label": "Model Shannon-Weaver", "color": "#10b981", "parent": "proses", "content": "Model linier yang memperkenalkan noise (gangguan) pada saluran." },
+
+    { "id": "jenis", "label": "Jenis Komunikasi", "color": "#f59e0b", "parent": "dasar-komunikasi", "content": "Komunikasi dibedakan menjadi verbal, nonverbal, dan visual." },
+    { "id": "jenis-verbal", "label": "Verbal", "color": "#f59e0b", "parent": "jenis", "content": "Menggunakan kata-kata, baik lisan maupun tulisan." },
+    { "id": "jenis-nonverbal", "label": "Nonverbal", "color": "#f59e0b", "parent": "jenis", "content": "Tanpa kata: bahasa tubuh, ekspresi wajah, dan gestur; sering lebih jujur." },
+    { "id": "jenis-visual", "label": "Visual", "color": "#f59e0b", "parent": "jenis", "content": "Menggunakan gambar, grafik, dan simbol untuk menyampaikan pesan." },
+
+    { "id": "hambatan", "label": "Hambatan Komunikasi", "color": "#ef4444", "parent": "dasar-komunikasi", "content": "Gangguan pada elemen komunikasi (Shannon & Weaver) yang membuat komunikasi tidak efektif." },
+    { "id": "hambatan-fisik", "label": "Fisik", "color": "#ef4444", "parent": "hambatan", "content": "Jarak, gangguan suara, kondisi geografis, atau gangguan fungsi panca indra." },
+    { "id": "hambatan-psikologis", "label": "Psikologis", "color": "#ef4444", "parent": "hambatan", "content": "Prasangka, emosi, situasi berduka, atau gangguan dalam diri individu." },
+    { "id": "hambatan-semantik", "label": "Semantik", "color": "#ef4444", "parent": "hambatan", "content": "Kesalahan pemahaman kata/istilah akibat bahasa atau perbedaan persepsi." },
+    { "id": "hambatan-budaya", "label": "Budaya", "color": "#ef4444", "parent": "hambatan", "content": "Perbedaan norma, kebiasaan, dan nilai antar pihak yang berkomunikasi." },
+    { "id": "hambatan-teknologis", "label": "Teknologis", "color": "#ef4444", "parent": "hambatan", "content": "Gangguan pada alat/media komunikasi seperti sinyal atau jaringan." },
+
+    { "id": "keterampilan", "label": "Keterampilan Efektif", "color": "#ec4899", "parent": "dasar-komunikasi", "content": "Keterampilan yang menunjang komunikasi berjalan efektif." },
+    { "id": "skill-listen", "label": "Mendengarkan Aktif", "color": "#ec4899", "parent": "keterampilan", "content": "Menyimak dengan perhatian penuh untuk memahami maksud pembicara." },
+    { "id": "skill-bahasa", "label": "Bahasa Jelas", "color": "#ec4899", "parent": "keterampilan", "content": "Menggunakan bahasa yang jelas dan sederhana agar mudah dipahami." },
+    { "id": "skill-audiens", "label": "Memahami Audiens", "color": "#ec4899", "parent": "keterampilan", "content": "Menyesuaikan pesan dengan latar belakang dan kebutuhan pendengar." },
+    { "id": "skill-feedback", "label": "Umpan Balik Konstruktif", "color": "#ec4899", "parent": "keterampilan", "content": "Memberi tanggapan yang membangun, fokus pada perbaikan dan solusi." },
+    { "id": "skill-hindari", "label": "Hindari Hambatan", "color": "#ec4899", "parent": "keterampilan", "content": "Meminimalkan gangguan dan hambatan agar pesan tersampaikan jelas." },
+
+    { "id": "manfaat", "label": "Manfaat Efektif", "color": "#14b8a6", "parent": "dasar-komunikasi", "content": "Dampak positif dari komunikasi yang berjalan efektif." },
+    { "id": "manfaat-kolaborasi", "label": "Kolaborasi Efektif", "color": "#14b8a6", "parent": "manfaat", "content": "Memperjelas tujuan dan peran sehingga tim bekerja sama lebih baik." },
+    { "id": "manfaat-hubungan", "label": "Hubungan Baik", "color": "#14b8a6", "parent": "manfaat", "content": "Menumbuhkan saling pengertian dan kepercayaan antar individu." },
+    { "id": "manfaat-keputusan", "label": "Keputusan Tepat", "color": "#14b8a6", "parent": "manfaat", "content": "Informasi yang jelas mendukung pengambilan keputusan cepat dan tepat." }
+  ]
+}

@@ -1,0 +1,1433 @@
+{
+  "topic": "Kewarganegaraan & Status WNI",
+  "order": 3,
+  "description": "Membahas asas-asas penentuan kewarganegaraan (ius soli, ius sanguinis, asas perkawinan) beserta akibatnya seperti bipatride dan apatride. Mencakup cara memperoleh dan kehilangan kewarganegaraan Indonesia serta dasar hukumnya, terutama UU No. 12 Tahun 2006.",
+  "subtopics": [
+    "Konsep Warga Negara & WNI",
+    "Asas Ius Soli & Ius Sanguinis",
+    "Asas Perkawinan",
+    "Bipatride, Apatride & Hak Opsi/Repudiasi",
+    "Cara Memperoleh Kewarganegaraan",
+    "Cara Kehilangan Kewarganegaraan",
+    "Dasar Hukum & Regulasi",
+    "Naturalisasi & Kewarganegaraan Ganda"
+  ],
+  "questions": [
+    {
+      "text": "Menurut UU No. 12 Tahun 2006, warga negara adalah?",
+      "explanation": "Warga negara adalah warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan (UU No. 12 Tahun 2006 Pasal 1 ayat 1).",
+      "difficulty": "EASY",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Setiap orang yang tinggal di suatu wilayah", "isCorrect": false },
+        { "text": "B. Warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan", "isCorrect": true },
+        { "text": "C. Penduduk yang memiliki KTP", "isCorrect": false },
+        { "text": "D. Orang yang lahir di suatu negara saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewarganegaraan menurut UU No. 12 Tahun 2006 Pasal 1 ayat 2 adalah?",
+      "explanation": "Kewarganegaraan adalah segala hal ihwal yang berhubungan dengan warga negara (UU No. 12 Tahun 2006 Pasal 1 ayat 2).",
+      "difficulty": "EASY",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Segala hal ihwal yang berhubungan dengan warga negara", "isCorrect": true },
+        { "text": "B. Status tempat tinggal seseorang", "isCorrect": false },
+        { "text": "C. Hak memilih dalam pemilu", "isCorrect": false },
+        { "text": "D. Kepemilikan dokumen negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU No. 12 Tahun 2006 Pasal 2, yang dimaksud WNI adalah?",
+      "explanation": "WNI adalah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara (UU No. 12 Tahun 2006 Pasal 2).",
+      "difficulty": "EASY",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Hanya orang bangsa Indonesia asli", "isCorrect": false },
+        { "text": "B. Setiap orang yang lahir di Indonesia", "isCorrect": false },
+        { "text": "C. Orang bangsa Indonesia asli dan orang bangsa lain yang disahkan dengan UU sebagai warga negara", "isCorrect": true },
+        { "text": "D. Semua penduduk Indonesia tanpa kecuali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pedoman dasar yang dipakai suatu negara untuk menentukan siapa yang menjadi warga negaranya disebut?",
+      "explanation": "Asas kewarganegaraan adalah pedoman dasar bagi suatu negara untuk menentukan siapa yang akan menjadi warga negaranya.",
+      "difficulty": "EASY",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Asas kewarganegaraan", "isCorrect": true },
+        { "text": "B. Asas legalitas", "isCorrect": false },
+        { "text": "C. Asas domisili", "isCorrect": false },
+        { "text": "D. Asas teritorial murni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asas yang menentukan kewarganegaraan seseorang berdasarkan tempat atau negara ia dilahirkan disebut?",
+      "explanation": "Ius soli menentukan kewarganegaraan berdasarkan tempat/negara seseorang dilahirkan (soli = tanah/tempat).",
+      "difficulty": "EASY",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Ius sanguinis", "isCorrect": false },
+        { "text": "B. Ius soli", "isCorrect": true },
+        { "text": "C. Asas persamaan derajat", "isCorrect": false },
+        { "text": "D. Asas kesatuan hukum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asas yang menentukan kewarganegaraan berdasarkan hubungan darah atau keturunan disebut?",
+      "explanation": "Ius sanguinis menentukan kewarganegaraan berdasarkan hubungan darah/keturunan orang tua (sanguinis = darah).",
+      "difficulty": "EASY",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Ius soli", "isCorrect": false },
+        { "text": "B. Asas perkawinan", "isCorrect": false },
+        { "text": "C. Ius sanguinis", "isCorrect": true },
+        { "text": "D. Asas domisili", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"soli\" dalam asas ius soli berasal dari kata yang berarti?",
+      "explanation": "Soli berasal dari kata solum/soli yang berarti tanah atau tempat, sehingga ius soli menekankan tempat kelahiran.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Darah", "isCorrect": false },
+        { "text": "B. Tanah/tempat", "isCorrect": true },
+        { "text": "C. Keturunan", "isCorrect": false },
+        { "text": "D. Perkawinan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kata \"sanguinis\" dalam asas ius sanguinis berarti?",
+      "explanation": "Sanguinis berarti darah, sehingga ius sanguinis menekankan hubungan darah/keturunan dalam menentukan kewarganegaraan.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Tanah", "isCorrect": false },
+        { "text": "B. Wilayah", "isCorrect": false },
+        { "text": "C. Darah", "isCorrect": true },
+        { "text": "D. Tempat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang anak lahir dari orang tua warga negara A di wilayah negara B yang menganut ius soli. Menurut ius soli, anak tersebut menjadi warga negara?",
+      "explanation": "Karena negara B menganut ius soli (tempat kelahiran), anak tersebut menjadi warga negara B sesuai tempat ia dilahirkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Negara A", "isCorrect": false },
+        { "text": "B. Negara B", "isCorrect": true },
+        { "text": "C. Tanpa kewarganegaraan", "isCorrect": false },
+        { "text": "D. Kedua negara secara otomatis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang anak lahir dari orang tua warga negara A di wilayah negara B yang menganut ius sanguinis. Menurut ius sanguinis, anak menjadi warga negara?",
+      "explanation": "Negara penentu mengikuti garis keturunan orang tua, sehingga anak mengikuti kewarganegaraan orang tuanya yaitu negara A.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Negara B", "isCorrect": false },
+        { "text": "B. Negara A (mengikuti keturunan orang tua)", "isCorrect": true },
+        { "text": "C. Apatride", "isCorrect": false },
+        { "text": "D. Ditentukan oleh PBB", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dari segi kelahiran, asas penentuan kewarganegaraan terdiri atas?",
+      "explanation": "Dari segi kelahiran, asas kewarganegaraan terdiri atas ius soli (tempat kelahiran) dan ius sanguinis (keturunan).",
+      "difficulty": "EASY",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Kesatuan hukum dan persamaan derajat", "isCorrect": false },
+        { "text": "B. Ius soli dan ius sanguinis", "isCorrect": true },
+        { "text": "C. Hak opsi dan hak repudiasi", "isCorrect": false },
+        { "text": "D. Naturalisasi dan repatriasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dari segi perkawinan, asas penentuan kewarganegaraan terdiri atas?",
+      "explanation": "Dari segi perkawinan dikenal asas kesatuan hukum dan asas persamaan derajat.",
+      "difficulty": "EASY",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Ius soli dan ius sanguinis", "isCorrect": false },
+        { "text": "B. Kesatuan hukum dan persamaan derajat", "isCorrect": true },
+        { "text": "C. Bipatride dan apatride", "isCorrect": false },
+        { "text": "D. Hak opsi dan hak repudiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asas perkawinan yang menyatakan bahwa seluruh anggota keluarga tunduk pada hukum yang sama bila terjadi perkawinan antarbangsa disebut?",
+      "explanation": "Asas kesatuan hukum menghendaki anggota keluarga tunduk pada hukum yang sama; warga negara istri mengikuti suami.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Asas persamaan derajat", "isCorrect": false },
+        { "text": "B. Asas kesatuan hukum", "isCorrect": true },
+        { "text": "C. Ius soli", "isCorrect": false },
+        { "text": "D. Hak repudiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam asas kesatuan hukum, jika terjadi perkawinan antarbangsa maka kewarganegaraan istri?",
+      "explanation": "Pada asas kesatuan hukum, warga negara istri mengikuti warga negara suami agar keluarga tunduk pada hukum yang sama.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Mengikuti kewarganegaraan suami", "isCorrect": true },
+        { "text": "B. Tetap seperti semula", "isCorrect": false },
+        { "text": "C. Otomatis menjadi apatride", "isCorrect": false },
+        { "text": "D. Ditentukan anak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asas perkawinan yang menyatakan bahwa perkawinan tidak menyebabkan berubahnya status kewarganegaraan masing-masing pihak disebut?",
+      "explanation": "Asas persamaan derajat menyatakan suatu perkawinan tidak menyebabkan berubahnya status kewarganegaraan masing-masing pihak.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Asas kesatuan hukum", "isCorrect": false },
+        { "text": "B. Asas persamaan derajat", "isCorrect": true },
+        { "text": "C. Ius sanguinis", "isCorrect": false },
+        { "text": "D. Hak opsi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada asas persamaan derajat, akibat perkawinan antarbangsa terhadap kewarganegaraan suami dan istri adalah?",
+      "explanation": "Pada asas persamaan derajat, perkawinan tidak mengubah status kewarganegaraan masing-masing pihak; suami dan istri tetap pada kewarganegaraan asalnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Keduanya wajib menjadi satu kewarganegaraan", "isCorrect": false },
+        { "text": "B. Masing-masing tetap pada kewarganegaraan asalnya", "isCorrect": true },
+        { "text": "C. Istri kehilangan kewarganegaraan", "isCorrect": false },
+        { "text": "D. Suami mengikuti istri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan asas ius soli dan ius sanguinis dalam penerapan dapat menyebabkan timbulnya?",
+      "explanation": "Akibat perbedaan asas yang dianut antarnegara dapat muncul bipatride (kewarganegaraan ganda) dan apatride (tanpa kewarganegaraan).",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Bipatride dan apatride", "isCorrect": true },
+        { "text": "B. Kesatuan hukum dan persamaan derajat", "isCorrect": false },
+        { "text": "C. Naturalisasi dan repatriasi", "isCorrect": false },
+        { "text": "D. Hak opsi dan hak veto", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keadaan seseorang yang memiliki dua kewarganegaraan sekaligus disebut?",
+      "explanation": "Bipatride adalah keadaan seseorang yang memiliki dua kewarganegaraan (kewarganegaraan ganda).",
+      "difficulty": "EASY",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Apatride", "isCorrect": false },
+        { "text": "B. Bipatride", "isCorrect": true },
+        { "text": "C. Multipatride", "isCorrect": false },
+        { "text": "D. Repatriasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keadaan seseorang yang tidak memiliki kewarganegaraan apa pun disebut?",
+      "explanation": "Apatride adalah keadaan seseorang yang tidak memiliki kewarganegaraan (stateless).",
+      "difficulty": "EASY",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Bipatride", "isCorrect": false },
+        { "text": "B. Multipatride", "isCorrect": false },
+        { "text": "C. Apatride", "isCorrect": true },
+        { "text": "D. Naturalisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apatride dapat terjadi ketika seorang anak lahir di negara penganut ius sanguinis dari orang tua warga negara penganut?",
+      "explanation": "Apatride muncul bila anak lahir di negara ius sanguinis sementara orang tuanya warga negara penganut ius soli, sehingga tidak ada negara yang mengakuinya.",
+      "difficulty": "HARD",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Ius soli", "isCorrect": true },
+        { "text": "B. Ius sanguinis juga", "isCorrect": false },
+        { "text": "C. Asas kesatuan hukum", "isCorrect": false },
+        { "text": "D. Asas persamaan derajat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bipatride dapat terjadi ketika seorang anak lahir di negara penganut ius soli dari orang tua warga negara penganut?",
+      "explanation": "Bipatride muncul bila anak lahir di negara ius soli (diakui oleh tempat lahir) dan orang tuanya warga negara penganut ius sanguinis (diakui oleh keturunan), sehingga dua negara mengakuinya.",
+      "difficulty": "HARD",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Ius soli juga", "isCorrect": false },
+        { "text": "B. Ius sanguinis", "isCorrect": true },
+        { "text": "C. Asas domisili", "isCorrect": false },
+        { "text": "D. Asas persamaan derajat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyelesaian masalah bipatride dan apatride dilakukan melalui?",
+      "explanation": "Masalah bipatride dan apatride diselesaikan melalui hak opsi dan hak repudiasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Hak opsi dan hak repudiasi", "isCorrect": true },
+        { "text": "B. Ius soli dan ius sanguinis", "isCorrect": false },
+        { "text": "C. Kesatuan hukum dan persamaan derajat", "isCorrect": false },
+        { "text": "D. Naturalisasi dan deportasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak untuk memilih salah satu kewarganegaraan (memilih masuk menjadi warga negara) disebut?",
+      "explanation": "Hak opsi adalah hak untuk memilih suatu kewarganegaraan (hak aktif memilih masuk).",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Hak repudiasi", "isCorrect": false },
+        { "text": "B. Hak opsi", "isCorrect": true },
+        { "text": "C. Hak veto", "isCorrect": false },
+        { "text": "D. Hak imunitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak untuk menolak suatu kewarganegaraan disebut?",
+      "explanation": "Hak repudiasi adalah hak untuk menolak suatu kewarganegaraan (hak pasif menolak masuk).",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Hak opsi", "isCorrect": false },
+        { "text": "B. Hak veto", "isCorrect": false },
+        { "text": "C. Hak repudiasi", "isCorrect": true },
+        { "text": "D. Hak prerogatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak opsi sering disebut sebagai hak yang bersifat?",
+      "explanation": "Hak opsi bersifat aktif karena seseorang secara aktif memilih untuk masuk menjadi warga suatu negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Aktif (memilih masuk)", "isCorrect": true },
+        { "text": "B. Pasif (menolak masuk)", "isCorrect": false },
+        { "text": "C. Otomatis", "isCorrect": false },
+        { "text": "D. Sementara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak repudiasi sering disebut sebagai hak yang bersifat?",
+      "explanation": "Hak repudiasi bersifat pasif karena seseorang menolak suatu kewarganegaraan yang ditawarkan kepadanya.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Aktif (memilih masuk)", "isCorrect": false },
+        { "text": "B. Pasif (menolak masuk)", "isCorrect": true },
+        { "text": "C. Mutlak", "isCorrect": false },
+        { "text": "D. Bersyarat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dampak negatif apatride bagi seseorang adalah?",
+      "explanation": "Apatride menyebabkan seseorang tidak memiliki perlindungan hukum dari negara mana pun karena tidak diakui sebagai warga negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Memperoleh hak ganda di dua negara", "isCorrect": false },
+        { "text": "B. Tidak memiliki perlindungan hukum dari negara mana pun", "isCorrect": true },
+        { "text": "C. Bebas memilih dua negara", "isCorrect": false },
+        { "text": "D. Mendapat suaka otomatis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu persoalan yang dapat timbul dari status bipatride adalah?",
+      "explanation": "Bipatride dapat menimbulkan persoalan kewajiban ganda, misalnya wajib militer atau wajib pajak di dua negara sekaligus.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Tidak punya hak apa pun", "isCorrect": false },
+        { "text": "B. Memiliki kewajiban ganda terhadap dua negara", "isCorrect": true },
+        { "text": "C. Otomatis kehilangan dua-duanya", "isCorrect": false },
+        { "text": "D. Hanya boleh tinggal di satu negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewarganegaraan Indonesia pada dasarnya didasarkan pada asas?",
+      "explanation": "Kewarganegaraan Indonesia pada dasarnya didasarkan pada asas ius sanguinis (UU No. 62 Tahun 1958).",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. Ius soli murni", "isCorrect": false },
+        { "text": "B. Ius sanguinis", "isCorrect": true },
+        { "text": "C. Asas domisili", "isCorrect": false },
+        { "text": "D. Asas teritorial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asas ius sanguinis dalam kewarganegaraan Indonesia diatur dalam?",
+      "explanation": "Kewarganegaraan Indonesia berdasarkan asas ius sanguinis diatur dalam UU No. 62 Tahun 1958.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. UU No. 3 Tahun 1946", "isCorrect": false },
+        { "text": "B. UU No. 62 Tahun 1958", "isCorrect": true },
+        { "text": "C. UU No. 12 Tahun 2012", "isCorrect": false },
+        { "text": "D. UU No. 20 Tahun 2003", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain ius sanguinis, Indonesia juga menerapkan asas ius soli (terbatas) yang diatur dalam?",
+      "explanation": "Asas ius soli di Indonesia diatur dalam UU No. 3 Tahun 1946 untuk menampung onderdaan yang tinggal di Indonesia sebelum Proklamasi.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. UU No. 62 Tahun 1958", "isCorrect": false },
+        { "text": "B. UU No. 3 Tahun 1946", "isCorrect": true },
+        { "text": "C. UU No. 12 Tahun 2006", "isCorrect": false },
+        { "text": "D. UU No. 39 Tahun 1999", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan asas ius soli berdasarkan UU No. 3 Tahun 1946 dimaksudkan untuk menampung?",
+      "explanation": "Asas ius soli pada UU No. 3 Tahun 1946 untuk menampung onderdaan (penduduk asing keturunan) yang tinggal di Indonesia sebelum Proklamasi Kemerdekaan.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. Pekerja migran modern", "isCorrect": false },
+        { "text": "B. Onderdaan yang tinggal di Indonesia sebelum Proklamasi Kemerdekaan", "isCorrect": true },
+        { "text": "C. Wisatawan asing", "isCorrect": false },
+        { "text": "D. Diplomat asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Undang-undang yang saat ini menjadi acuan utama tentang Kewarganegaraan Republik Indonesia adalah?",
+      "explanation": "UU No. 12 Tahun 2006 tentang Kewarganegaraan Republik Indonesia menjadi acuan utama saat ini, menggantikan UU No. 62 Tahun 1958.",
+      "difficulty": "EASY",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. UU No. 62 Tahun 1958", "isCorrect": false },
+        { "text": "B. UU No. 3 Tahun 1946", "isCorrect": false },
+        { "text": "C. UU No. 12 Tahun 2006", "isCorrect": true },
+        { "text": "D. UU No. 12 Tahun 2012", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "UU No. 12 Tahun 2006 menggantikan undang-undang kewarganegaraan sebelumnya, yaitu?",
+      "explanation": "UU No. 12 Tahun 2006 menggantikan UU No. 62 Tahun 1958 tentang Kewarganegaraan.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. UU No. 3 Tahun 1946", "isCorrect": false },
+        { "text": "B. UU No. 62 Tahun 1958", "isCorrect": true },
+        { "text": "C. UU No. 20 Tahun 2003", "isCorrect": false },
+        { "text": "D. UU No. 39 Tahun 1999", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara memperoleh kewarganegaraan Indonesia menurut materi adalah karena?",
+      "explanation": "Kewarganegaraan Indonesia dapat diperoleh karena kelahiran, pengangkatan, pewarganegaraan, perkawinan, turut ayah/ibu, atau pernyataan.",
+      "difficulty": "EASY",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Kelahiran", "isCorrect": true },
+        { "text": "B. Wisata", "isCorrect": false },
+        { "text": "C. Bekerja sementara", "isCorrect": false },
+        { "text": "D. Berlibur panjang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memperoleh kewarganegaraan Indonesia melalui proses naturalisasi termasuk cara karena?",
+      "explanation": "Naturalisasi adalah memperoleh kewarganegaraan karena pewarganegaraan, yaitu proses permohonan menjadi WNI bagi orang asing.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Kelahiran", "isCorrect": false },
+        { "text": "B. Pewarganegaraan", "isCorrect": true },
+        { "text": "C. Pengangkatan", "isCorrect": false },
+        { "text": "D. Pernyataan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang anak asing yang diadopsi secara sah oleh WNI dapat memperoleh kewarganegaraan Indonesia karena?",
+      "explanation": "Anak asing yang diangkat (diadopsi) secara sah oleh WNI dapat memperoleh kewarganegaraan karena pengangkatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Pengangkatan", "isCorrect": true },
+        { "text": "B. Perkawinan", "isCorrect": false },
+        { "text": "C. Kelahiran", "isCorrect": false },
+        { "text": "D. Pernyataan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang warga negara asing yang menikah dengan WNI dapat memperoleh kewarganegaraan Indonesia melalui cara?",
+      "explanation": "Memperoleh kewarganegaraan karena perkawinan terjadi ketika WNA menikah dengan WNI dan menyatakan keinginan menjadi WNI.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Kelahiran", "isCorrect": false },
+        { "text": "B. Pengangkatan", "isCorrect": false },
+        { "text": "C. Perkawinan", "isCorrect": true },
+        { "text": "D. Naturalisasi istimewa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang anak yang ikut memperoleh kewarganegaraan mengikuti ayah dan/atau ibunya yang menjadi WNI termasuk cara memperoleh kewarganegaraan karena?",
+      "explanation": "Anak memperoleh kewarganegaraan karena turut ayah dan/atau ibu yang menjadi WNI.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Turut ayah dan/atau ibu", "isCorrect": true },
+        { "text": "B. Pengangkatan", "isCorrect": false },
+        { "text": "C. Kelahiran murni", "isCorrect": false },
+        { "text": "D. Repudiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memperoleh kewarganegaraan Indonesia karena pernyataan dilakukan dengan cara?",
+      "explanation": "Memperoleh kewarganegaraan karena pernyataan dilakukan dengan menyampaikan pernyataan/keterangan resmi untuk menjadi WNI sesuai ketentuan UU.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Menyampaikan pernyataan resmi sesuai ketentuan UU", "isCorrect": true },
+        { "text": "B. Tinggal lama secara otomatis", "isCorrect": false },
+        { "text": "C. Membayar pajak", "isCorrect": false },
+        { "text": "D. Mengikuti pemilu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk cara memperoleh kewarganegaraan Indonesia, KECUALI?",
+      "explanation": "Cara memperoleh kewarganegaraan meliputi kelahiran, pengangkatan, pewarganegaraan, perkawinan, turut ayah/ibu, dan pernyataan; menetap sebagai turis bukan termasuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Karena kelahiran", "isCorrect": false },
+        { "text": "B. Karena menetap sebagai turis", "isCorrect": true },
+        { "text": "C. Karena pewarganegaraan", "isCorrect": false },
+        { "text": "D. Karena perkawinan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Proses pewarganegaraan (naturalisasi) yang dilakukan atas permohonan orang asing kepada negara disebut naturalisasi?",
+      "explanation": "Naturalisasi biasa adalah pewarganegaraan atas permohonan/inisiatif orang asing dengan memenuhi syarat-syarat yang ditetapkan UU.",
+      "difficulty": "MEDIUM",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Naturalisasi biasa", "isCorrect": true },
+        { "text": "B. Naturalisasi istimewa", "isCorrect": false },
+        { "text": "C. Naturalisasi otomatis", "isCorrect": false },
+        { "text": "D. Repatriasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pewarganegaraan yang diberikan negara kepada orang asing yang berjasa atau dengan alasan kepentingan negara disebut naturalisasi?",
+      "explanation": "Naturalisasi istimewa diberikan negara kepada orang asing yang telah berjasa atau dengan pertimbangan kepentingan negara, dengan persetujuan DPR.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Naturalisasi biasa", "isCorrect": false },
+        { "text": "B. Naturalisasi istimewa", "isCorrect": true },
+        { "text": "C. Naturalisasi pasif", "isCorrect": false },
+        { "text": "D. Naturalisasi ganda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat umum permohonan pewarganegaraan menurut UU No. 12 Tahun 2006 terkait usia adalah pemohon telah berusia?",
+      "explanation": "Syarat pewarganegaraan antara lain pemohon telah berusia 18 tahun atau sudah kawin (UU No. 12 Tahun 2006).",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. 15 tahun", "isCorrect": false },
+        { "text": "B. 17 tahun", "isCorrect": false },
+        { "text": "C. 18 tahun atau sudah kawin", "isCorrect": true },
+        { "text": "D. 21 tahun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat pewarganegaraan menurut UU No. 12 Tahun 2006 terkait lama tinggal adalah pemohon telah bertempat tinggal di Indonesia paling singkat?",
+      "explanation": "Syarat pewarganegaraan antara lain telah tinggal di wilayah Indonesia paling singkat 5 tahun berturut-turut atau 10 tahun tidak berturut-turut.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. 1 tahun", "isCorrect": false },
+        { "text": "B. 5 tahun berturut-turut atau 10 tahun tidak berturut-turut", "isCorrect": true },
+        { "text": "C. 2 tahun", "isCorrect": false },
+        { "text": "D. 15 tahun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat pewarganegaraan adalah pemohon dapat berbahasa Indonesia serta mengakui dasar negara, yaitu?",
+      "explanation": "Pemohon naturalisasi harus dapat berbahasa Indonesia serta mengakui dasar negara Pancasila dan UUD NRI Tahun 1945.",
+      "difficulty": "MEDIUM",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Pancasila dan UUD NRI Tahun 1945", "isCorrect": true },
+        { "text": "B. Bhinneka Tunggal Ika saja", "isCorrect": false },
+        { "text": "C. Sumpah Pemuda", "isCorrect": false },
+        { "text": "D. GBHN", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "UU No. 12 Tahun 2006 mengatur kewarganegaraan ganda secara?",
+      "explanation": "UU No. 12 Tahun 2006 menganut kewarganegaraan ganda terbatas, yaitu hanya bagi anak dari perkawinan campuran sampai usia tertentu.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Ganda penuh seumur hidup", "isCorrect": false },
+        { "text": "B. Ganda terbatas bagi anak hasil perkawinan campuran", "isCorrect": true },
+        { "text": "C. Sama sekali tidak diperbolehkan", "isCorrect": false },
+        { "text": "D. Ganda tanpa syarat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Anak hasil perkawinan campuran yang memiliki kewarganegaraan ganda terbatas wajib memilih satu kewarganegaraan setelah?",
+      "explanation": "Menurut UU No. 12 Tahun 2006, anak berkewarganegaraan ganda terbatas wajib memilih satu kewarganegaraan setelah berusia 18 tahun (paling lambat 3 tahun setelahnya).",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Berusia 18 tahun", "isCorrect": true },
+        { "text": "B. Lahir", "isCorrect": false },
+        { "text": "C. Berusia 12 tahun", "isCorrect": false },
+        { "text": "D. Menikah saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak anak untuk memilih satu kewarganegaraan pada kasus kewarganegaraan ganda terbatas merupakan penerapan?",
+      "explanation": "Pemilihan satu kewarganegaraan oleh anak berkewarganegaraan ganda merupakan penerapan hak opsi.",
+      "difficulty": "HARD",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Hak repudiasi", "isCorrect": false },
+        { "text": "B. Hak opsi", "isCorrect": true },
+        { "text": "C. Hak veto", "isCorrect": false },
+        { "text": "D. Hak imunitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU No. 12 Tahun 2006, seorang WNI dapat kehilangan kewarganegaraannya jika?",
+      "explanation": "WNI dapat kehilangan kewarganegaraan antara lain karena memperoleh kewarganegaraan lain atas kemauan sendiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Kehilangan Kewarganegaraan",
+      "options": [
+        { "text": "A. Bepergian ke luar negeri sebentar", "isCorrect": false },
+        { "text": "B. Memperoleh kewarganegaraan lain atas kemauan sendiri", "isCorrect": true },
+        { "text": "C. Tidak ikut pemilu", "isCorrect": false },
+        { "text": "D. Pindah kota", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu penyebab kehilangan kewarganegaraan Indonesia adalah masuk dinas tentara asing tanpa?",
+      "explanation": "WNI dapat kehilangan kewarganegaraan bila masuk dinas tentara asing tanpa izin terlebih dahulu dari Presiden.",
+      "difficulty": "HARD",
+      "tag": "Cara Kehilangan Kewarganegaraan",
+      "options": [
+        { "text": "A. Izin Presiden", "isCorrect": true },
+        { "text": "B. Izin RT", "isCorrect": false },
+        { "text": "C. Izin atasan kerja", "isCorrect": false },
+        { "text": "D. Persetujuan keluarga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang WNI yang dengan sukarela mengangkat sumpah setia kepada negara asing dapat?",
+      "explanation": "WNI dapat kehilangan kewarganegaraannya jika dengan sukarela mengangkat sumpah atau menyatakan janji setia kepada negara asing.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Kehilangan Kewarganegaraan",
+      "options": [
+        { "text": "A. Tetap menjadi WNI tanpa syarat", "isCorrect": false },
+        { "text": "B. Kehilangan kewarganegaraan Indonesia", "isCorrect": true },
+        { "text": "C. Otomatis menjadi bipatride", "isCorrect": false },
+        { "text": "D. Memperoleh kewarganegaraan ganda penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU No. 12 Tahun 2006, WNI yang berada di luar negeri lebih dari 5 tahun berturut-turut tanpa alasan sah dan tidak menyatakan ingin tetap menjadi WNI dapat?",
+      "explanation": "WNI dapat kehilangan kewarganegaraan jika bertempat tinggal di luar negeri 5 tahun berturut-turut tanpa alasan sah dan tanpa menyatakan keinginan tetap menjadi WNI.",
+      "difficulty": "HARD",
+      "tag": "Cara Kehilangan Kewarganegaraan",
+      "options": [
+        { "text": "A. Tetap WNI selamanya", "isCorrect": false },
+        { "text": "B. Kehilangan kewarganegaraan Indonesia", "isCorrect": true },
+        { "text": "C. Menjadi apatride otomatis dilindungi", "isCorrect": false },
+        { "text": "D. Memperoleh dua kewarganegaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengikuti pemilihan umum (memilih) di negara asing secara sukarela dapat menyebabkan WNI?",
+      "explanation": "WNI dapat kehilangan kewarganegaraan jika turut serta dalam pemilihan sesuatu yang bersifat ketatanegaraan negara asing secara sukarela.",
+      "difficulty": "HARD",
+      "tag": "Cara Kehilangan Kewarganegaraan",
+      "options": [
+        { "text": "A. Kehilangan kewarganegaraan Indonesia", "isCorrect": true },
+        { "text": "B. Tetap WNI tanpa pengaruh", "isCorrect": false },
+        { "text": "C. Mendapat hadiah kewarganegaraan", "isCorrect": false },
+        { "text": "D. Menjadi diplomat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasal dalam UUD 1945 yang menyatakan bahwa setiap orang berhak atas status kewarganegaraan menegaskan bahwa kewarganegaraan adalah?",
+      "explanation": "UUD 1945 menyatakan setiap orang berhak atas status kewarganegaraan, menegaskan bahwa status kewarganegaraan adalah hak asasi setiap orang.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Hadiah dari negara", "isCorrect": false },
+        { "text": "B. Hak asasi setiap orang", "isCorrect": true },
+        { "text": "C. Kewajiban semata", "isCorrect": false },
+        { "text": "D. Hak khusus pejabat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UUD 1945, terkait kewarganegaraan setiap orang juga bebas untuk?",
+      "explanation": "UUD 1945 menyatakan setiap orang bebas memilih kewarganegaraan, memilih tempat tinggal di wilayah negara, dan meninggalkannya serta berhak kembali.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Memilih kewarganegaraan dan tempat tinggal", "isCorrect": true },
+        { "text": "B. Menolak membayar pajak", "isCorrect": false },
+        { "text": "C. Tidak ikut bela negara", "isCorrect": false },
+        { "text": "D. Melanggar hukum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan UUD 1945, setiap warga negara berhak memperoleh kesempatan yang sama dalam?",
+      "explanation": "UUD 1945 menyatakan setiap warga negara berhak memperoleh kesempatan yang sama dalam pemerintahan.",
+      "difficulty": "EASY",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Pemerintahan", "isCorrect": true },
+        { "text": "B. Perdagangan internasional saja", "isCorrect": false },
+        { "text": "C. Memilih agama negara", "isCorrect": false },
+        { "text": "D. Memiliki dua paspor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kewajiban dasar warga negara menurut UUD 1945 terkait pertahanan adalah?",
+      "explanation": "Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara (bela negara).",
+      "difficulty": "EASY",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Ikut serta dalam usaha pertahanan dan keamanan negara", "isCorrect": true },
+        { "text": "B. Memiliki senjata pribadi", "isCorrect": false },
+        { "text": "C. Membayar denda asing", "isCorrect": false },
+        { "text": "D. Menolak pendidikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UUD 1945, setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib?",
+      "explanation": "Setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya.",
+      "difficulty": "EASY",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Membiayainya", "isCorrect": true },
+        { "text": "B. Menariknya kembali", "isCorrect": false },
+        { "text": "C. Mengabaikannya", "isCorrect": false },
+        { "text": "D. Menundanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"onderdaan\" dalam konteks kewarganegaraan UU No. 3 Tahun 1946 merujuk pada?",
+      "explanation": "Onderdaan merujuk pada penduduk/orang asing keturunan yang tinggal di Indonesia sejak masa kolonial sebelum Proklamasi Kemerdekaan.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. Penduduk yang tinggal di Indonesia sebelum Proklamasi Kemerdekaan", "isCorrect": true },
+        { "text": "B. Diplomat asing", "isCorrect": false },
+        { "text": "C. Wisatawan modern", "isCorrect": false },
+        { "text": "D. Pekerja kontrak baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi penerapan ius sanguinis dan ius soli terbatas dalam sistem Indonesia bertujuan untuk?",
+      "explanation": "Kombinasi ius sanguinis dan ius soli terbatas bertujuan menghindari munculnya apatride sekaligus mengakomodasi penduduk lama, mengurangi masalah status kewarganegaraan.",
+      "difficulty": "HARD",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Memperbanyak bipatride", "isCorrect": false },
+        { "text": "B. Mengurangi munculnya apatride", "isCorrect": true },
+        { "text": "C. Menghapus kewarganegaraan", "isCorrect": false },
+        { "text": "D. Membatasi hak warga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara yang umumnya menerapkan asas ius soli adalah negara-negara seperti?",
+      "explanation": "Asas ius soli umumnya dianut negara imigrasi seperti Amerika Serikat, di mana kewarganegaraan ditentukan oleh tempat kelahiran.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Amerika Serikat", "isCorrect": true },
+        { "text": "B. Indonesia secara penuh", "isCorrect": false },
+        { "text": "C. Jepang secara penuh", "isCorrect": false },
+        { "text": "D. Tidak ada negara mana pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika dua negara sama-sama menganut ius sanguinis dan ius soli secara konsisten, akibat yang mungkin timbul pada anak hasil perkawinan campuran adalah?",
+      "explanation": "Perbedaan/kombinasi asas antarnegara dapat membuat anak diakui dua negara (bipatride) atau tidak diakui sama sekali (apatride) tergantung kondisinya.",
+      "difficulty": "HARD",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Tidak ada masalah sama sekali", "isCorrect": false },
+        { "text": "B. Kemungkinan bipatride atau apatride", "isCorrect": true },
+        { "text": "C. Pasti menjadi WNI", "isCorrect": false },
+        { "text": "D. Pasti kehilangan hak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan resmi seorang anak hasil perkawinan campuran untuk menjadi WNI termasuk memperoleh kewarganegaraan karena?",
+      "explanation": "Memperoleh kewarganegaraan karena pernyataan terjadi ketika seseorang menyampaikan pernyataan resmi memilih menjadi WNI sesuai ketentuan UU.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Pernyataan", "isCorrect": true },
+        { "text": "B. Pengangkatan", "isCorrect": false },
+        { "text": "C. Kelahiran", "isCorrect": false },
+        { "text": "D. Perkawinan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat pewarganegaraan menurut UU No. 12 Tahun 2006 terkait kesehatan dan perilaku adalah pemohon?",
+      "explanation": "Salah satu syarat pewarganegaraan adalah sehat jasmani dan rohani serta tidak pernah dijatuhi pidana karena tindak pidana tertentu.",
+      "difficulty": "MEDIUM",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Sehat jasmani-rohani dan tidak pernah dipidana tertentu", "isCorrect": true },
+        { "text": "B. Memiliki kekayaan besar", "isCorrect": false },
+        { "text": "C. Berasal dari Eropa", "isCorrect": false },
+        { "text": "D. Beragama tertentu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Syarat pewarganegaraan terkait pekerjaan/penghidupan menurut UU No. 12 Tahun 2006 adalah pemohon?",
+      "explanation": "Salah satu syarat pewarganegaraan adalah mempunyai pekerjaan dan/atau berpenghasilan tetap.",
+      "difficulty": "MEDIUM",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Mempunyai pekerjaan dan/atau berpenghasilan tetap", "isCorrect": true },
+        { "text": "B. Tidak boleh bekerja", "isCorrect": false },
+        { "text": "C. Harus seorang pengusaha", "isCorrect": false },
+        { "text": "D. Tidak punya penghasilan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat pewarganegaraan adalah jika memperoleh kewarganegaraan Indonesia, pemohon?",
+      "explanation": "Salah satu syarat adalah jika dengan memperoleh kewarganegaraan RI tidak menjadi berkewarganegaraan ganda, demi mencegah bipatride.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Tidak menjadi berkewarganegaraan ganda", "isCorrect": true },
+        { "text": "B. Harus tetap berkewarganegaraan ganda", "isCorrect": false },
+        { "text": "C. Wajib menjadi apatride", "isCorrect": false },
+        { "text": "D. Memiliki tiga kewarganegaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pewarganegaraan atas permohonan disetujui melalui Keputusan Presiden setelah memenuhi syarat dan diucapkannya?",
+      "explanation": "Setelah dikabulkan, pemohon mengucapkan sumpah atau menyatakan janji setia kepada NKRI sebagai bagian sahnya memperoleh kewarganegaraan.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Sumpah/janji setia kepada NKRI", "isCorrect": true },
+        { "text": "B. Lagu kebangsaan asing", "isCorrect": false },
+        { "text": "C. Pernyataan menolak Pancasila", "isCorrect": false },
+        { "text": "D. Permohonan paspor asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara ius soli dan ius sanguinis terletak pada?",
+      "explanation": "Ius soli menentukan kewarganegaraan berdasarkan tempat kelahiran, sedangkan ius sanguinis berdasarkan keturunan/darah orang tua.",
+      "difficulty": "EASY",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Dasar tempat kelahiran vs keturunan", "isCorrect": true },
+        { "text": "B. Jenis kelamin orang tua", "isCorrect": false },
+        { "text": "C. Tingkat pendidikan", "isCorrect": false },
+        { "text": "D. Agama yang dianut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara asas kesatuan hukum dan persamaan derajat dalam perkawinan adalah?",
+      "explanation": "Asas kesatuan hukum menyatukan kewarganegaraan keluarga (istri ikut suami), sedangkan persamaan derajat mempertahankan kewarganegaraan masing-masing pihak.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Menyatukan vs mempertahankan kewarganegaraan masing-masing", "isCorrect": true },
+        { "text": "B. Keduanya selalu mengubah status", "isCorrect": false },
+        { "text": "C. Keduanya identik", "isCorrect": false },
+        { "text": "D. Tergantung agama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama adanya asas-asas kewarganegaraan bagi suatu negara adalah?",
+      "explanation": "Asas kewarganegaraan menjadi pedoman dasar bagi negara untuk menentukan siapa yang menjadi warga negaranya secara jelas dan tertib hukum.",
+      "difficulty": "EASY",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Menentukan siapa yang menjadi warga negaranya", "isCorrect": true },
+        { "text": "B. Menentukan jumlah penduduk asing", "isCorrect": false },
+        { "text": "C. Mengatur perdagangan", "isCorrect": false },
+        { "text": "D. Menetapkan pajak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang istri WNA yang menikah dengan suami WNI dan negara asalnya menganut asas kesatuan hukum, maka kewarganegaraan istri cenderung?",
+      "explanation": "Pada asas kesatuan hukum, kewarganegaraan istri mengikuti suami sehingga istri cenderung memperoleh kewarganegaraan suami.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Mengikuti suami", "isCorrect": true },
+        { "text": "B. Tetap berbeda", "isCorrect": false },
+        { "text": "C. Hilang seluruhnya", "isCorrect": false },
+        { "text": "D. Menjadi ganda permanen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indonesia menggunakan kombinasi asas ius sanguinis (dominan) dan ius soli (terbatas), sehingga sistem kewarganegaraan Indonesia disebut menganut asas?",
+      "explanation": "Indonesia menganut ius sanguinis sebagai asas utama dengan ius soli terbatas, yang sering disebut sebagai kombinasi/campuran agar tidak menimbulkan apatride.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. Ius soli murni", "isCorrect": false },
+        { "text": "B. Kombinasi ius sanguinis dominan dan ius soli terbatas", "isCorrect": true },
+        { "text": "C. Hanya asas perkawinan", "isCorrect": false },
+        { "text": "D. Asas domisili penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Status kewarganegaraan seseorang penting karena menentukan hubungan hukum antara?",
+      "explanation": "Status kewarganegaraan menentukan hubungan hukum antara individu (warga) dengan negara, mencakup hak dan kewajiban timbal balik.",
+      "difficulty": "EASY",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Individu (warga) dengan negara", "isCorrect": true },
+        { "text": "B. Dua perusahaan", "isCorrect": false },
+        { "text": "C. Dua individu saja", "isCorrect": false },
+        { "text": "D. Negara dengan negara lain saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Anak yang lahir dari ayah WNI dan ibu WNA tetap dapat menjadi WNI karena Indonesia menerapkan asas?",
+      "explanation": "Karena Indonesia menganut ius sanguinis, anak dari ayah WNI dapat memperoleh kewarganegaraan Indonesia berdasarkan keturunan.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Ius soli", "isCorrect": false },
+        { "text": "B. Ius sanguinis", "isCorrect": true },
+        { "text": "C. Asas domisili", "isCorrect": false },
+        { "text": "D. Hak repudiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hak opsi adalah?",
+      "explanation": "Hak opsi adalah hak untuk memilih (secara aktif) suatu kewarganegaraan tertentu di antara pilihan yang ada.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Hak untuk memilih suatu kewarganegaraan", "isCorrect": true },
+        { "text": "B. Hak untuk menolak kewarganegaraan", "isCorrect": false },
+        { "text": "C. Hak untuk membatalkan UUD", "isCorrect": false },
+        { "text": "D. Hak untuk memiliki tiga negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hak repudiasi adalah?",
+      "explanation": "Hak repudiasi adalah hak untuk menolak suatu kewarganegaraan yang ditawarkan kepada seseorang.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Hak untuk memilih dua kewarganegaraan", "isCorrect": false },
+        { "text": "B. Hak untuk menolak suatu kewarganegaraan", "isCorrect": true },
+        { "text": "C. Hak untuk memilih presiden", "isCorrect": false },
+        { "text": "D. Hak untuk pindah kota", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada masa awal Orde Lama (sekitar 1957), isi mata pelajaran PKn salah satunya membahas?",
+      "explanation": "Pada masa awal Orde Lama sekitar tahun 1957, isi mata pelajaran PKn membahas cara pemerolehan dan kehilangan kewarganegaraan.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Cara pemerolehan dan kehilangan kewarganegaraan", "isCorrect": true },
+        { "text": "B. Teknik pertanian", "isCorrect": false },
+        { "text": "C. Sejarah dunia", "isCorrect": false },
+        { "text": "D. Ekonomi makro", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apatride berbeda dengan bipatride dalam hal jumlah kewarganegaraan, yaitu apatride memiliki?",
+      "explanation": "Apatride berarti tidak memiliki kewarganegaraan (nol), sedangkan bipatride memiliki dua kewarganegaraan.",
+      "difficulty": "EASY",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Dua kewarganegaraan", "isCorrect": false },
+        { "text": "B. Tidak memiliki kewarganegaraan", "isCorrect": true },
+        { "text": "C. Tiga kewarganegaraan", "isCorrect": false },
+        { "text": "D. Satu kewarganegaraan tetap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk menjadi WNI melalui pewarganegaraan, pemohon umumnya harus melampirkan permohonan kepada?",
+      "explanation": "Permohonan pewarganegaraan diajukan kepada Presiden melalui Menteri (yang membidangi hukum) untuk diproses sesuai UU.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Presiden melalui Menteri (bidang hukum)", "isCorrect": true },
+        { "text": "B. Kepala desa", "isCorrect": false },
+        { "text": "C. Ketua RT", "isCorrect": false },
+        { "text": "D. Negara asal saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewarganegaraan ganda terbatas dalam UU No. 12 Tahun 2006 diberikan terutama untuk melindungi kepentingan?",
+      "explanation": "Kewarganegaraan ganda terbatas diberikan untuk melindungi kepentingan anak hasil perkawinan campuran agar tidak menjadi apatride.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Anak hasil perkawinan campuran", "isCorrect": true },
+        { "text": "B. Pengusaha asing", "isCorrect": false },
+        { "text": "C. Diplomat", "isCorrect": false },
+        { "text": "D. Atlet asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu alasan UU No. 12 Tahun 2006 dianggap lebih maju dari UU No. 62 Tahun 1958 adalah?",
+      "explanation": "UU No. 12 Tahun 2006 dianggap lebih maju karena tidak diskriminatif (gender) dan mengakomodasi kewarganegaraan ganda terbatas bagi anak perkawinan campuran.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. Lebih tidak diskriminatif dan mengakui kewarganegaraan ganda terbatas anak", "isCorrect": true },
+        { "text": "B. Menghapus seluruh asas kewarganegaraan", "isCorrect": false },
+        { "text": "C. Melarang naturalisasi", "isCorrect": false },
+        { "text": "D. Menutup hak opsi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang WNI yang kehilangan kewarganegaraannya kemudian dapat memperolehnya kembali melalui prosedur?",
+      "explanation": "WNI yang kehilangan kewarganegaraannya dapat memperolehnya kembali melalui prosedur pewarganegaraan (memperoleh kembali) sesuai ketentuan UU.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Pewarganegaraan/memperoleh kembali sesuai UU", "isCorrect": true },
+        { "text": "B. Otomatis tanpa syarat", "isCorrect": false },
+        { "text": "C. Tidak mungkin lagi", "isCorrect": false },
+        { "text": "D. Cukup datang ke imigrasi sebentar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam kasus perkawinan campuran, jika negara menganut asas persamaan derajat, maka anak yang lahir?",
+      "explanation": "Pada asas persamaan derajat status orang tua tidak berubah, namun status anak mengikuti aturan kewarganegaraan masing-masing negara, sehingga berpotensi memerlukan hak opsi.",
+      "difficulty": "HARD",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Otomatis tanpa kewarganegaraan", "isCorrect": false },
+        { "text": "B. Statusnya mengikuti aturan masing-masing negara, dapat memerlukan hak opsi", "isCorrect": true },
+        { "text": "C. Selalu mengikuti ibu saja", "isCorrect": false },
+        { "text": "D. Tidak memiliki hak apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak warga negara untuk memperoleh status kewarganegaraan ditegaskan dalam materi sebagai bagian dari?",
+      "explanation": "Hak atas status kewarganegaraan ditegaskan sebagai bagian dari hak asasi manusia (HAM) yang dijamin UUD 1945.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Hak asasi manusia (HAM)", "isCorrect": true },
+        { "text": "B. Kewajiban pajak", "isCorrect": false },
+        { "text": "C. Hak perdata khusus", "isCorrect": false },
+        { "text": "D. Aturan administrasi semata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika seorang WNA berjasa besar bagi Indonesia, ia dapat diberikan kewarganegaraan melalui naturalisasi istimewa atas pertimbangan?",
+      "explanation": "Naturalisasi istimewa diberikan kepada orang asing yang berjasa kepada negara atau dengan alasan kepentingan negara, dengan persetujuan DPR.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Kepentingan negara dengan persetujuan DPR", "isCorrect": true },
+        { "text": "B. Permintaan negara asing", "isCorrect": false },
+        { "text": "C. Kekayaan pribadi semata", "isCorrect": false },
+        { "text": "D. Undian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang tepat mengenai kewarganegaraan Indonesia berdasarkan UU No. 62 Tahun 1958 adalah?",
+      "explanation": "UU No. 62 Tahun 1958 menetapkan kewarganegaraan Indonesia berdasarkan asas ius sanguinis (keturunan).",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. Menerapkan asas ius sanguinis", "isCorrect": true },
+        { "text": "B. Menerapkan ius soli murni", "isCorrect": false },
+        { "text": "C. Menghapus kewarganegaraan", "isCorrect": false },
+        { "text": "D. Hanya asas perkawinan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsekuensi hukum dari status sebagai WNI adalah seseorang memperoleh?",
+      "explanation": "Sebagai WNI seseorang memperoleh hak dan kewajiban sebagai warga negara, termasuk perlindungan hukum oleh negara.",
+      "difficulty": "EASY",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Hak dan kewajiban serta perlindungan hukum negara", "isCorrect": true },
+        { "text": "B. Hanya kewajiban tanpa hak", "isCorrect": false },
+        { "text": "C. Hanya hak tanpa kewajiban", "isCorrect": false },
+        { "text": "D. Tidak ada hubungan dengan negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara memperoleh kewarganegaraan \"karena perkawinan\" berbeda dengan \"karena turut ayah/ibu\" terutama pada?",
+      "explanation": "Perkawinan terkait status pasangan yang menikahi WNI, sedangkan turut ayah/ibu terkait anak yang mengikuti perubahan kewarganegaraan orang tuanya.",
+      "difficulty": "HARD",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Subjeknya (pasangan vs anak yang mengikuti orang tua)", "isCorrect": true },
+        { "text": "B. Tidak ada perbedaan", "isCorrect": false },
+        { "text": "C. Keduanya untuk diplomat", "isCorrect": false },
+        { "text": "D. Keduanya hanya untuk turis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apabila seorang anak berkewarganegaraan ganda terbatas tidak menyatakan memilih satu kewarganegaraan setelah batas waktu, maka berpotensi?",
+      "explanation": "Jika tidak memilih dalam batas waktu yang ditentukan, anak berpotensi kehilangan salah satu (atau status menjadi tidak pasti), karena kewarganegaraan ganda hanya bersifat terbatas.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Tetap memiliki dua kewarganegaraan seumur hidup", "isCorrect": false },
+        { "text": "B. Status kewarganegaraannya menjadi tidak pasti/dapat hilang sebagian", "isCorrect": true },
+        { "text": "C. Otomatis menjadi tiga kewarganegaraan", "isCorrect": false },
+        { "text": "D. Tidak ada akibat apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip yang dipegang UU No. 12 Tahun 2006 adalah asas kepentingan nasional, yang berarti?",
+      "explanation": "Asas kepentingan nasional berarti peraturan kewarganegaraan mengutamakan kepentingan nasional Indonesia yang bertekad mempertahankan kedaulatannya.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. Mengutamakan kepentingan nasional Indonesia", "isCorrect": true },
+        { "text": "B. Mengutamakan kepentingan asing", "isCorrect": false },
+        { "text": "C. Mengabaikan kedaulatan", "isCorrect": false },
+        { "text": "D. Menghapus syarat warga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Anak yang lahir di luar perkawinan yang sah dari ibu WNI menurut UU No. 12 Tahun 2006 berstatus?",
+      "explanation": "Anak yang lahir di luar perkawinan sah dari seorang ibu WNI berstatus sebagai WNI sesuai UU No. 12 Tahun 2006.",
+      "difficulty": "HARD",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. WNI", "isCorrect": true },
+        { "text": "B. WNA", "isCorrect": false },
+        { "text": "C. Apatride otomatis", "isCorrect": false },
+        { "text": "D. Tergantung negara asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila seorang anak ditemukan di wilayah Indonesia dan tidak diketahui orang tuanya, menurut UU No. 12 Tahun 2006 anak tersebut?",
+      "explanation": "Anak yang ditemukan di wilayah Indonesia selama tidak diketahui ayah dan ibunya dianggap sebagai WNI, untuk mencegah apatride (penerapan ius soli demi melindungi anak).",
+      "difficulty": "HARD",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Dianggap sebagai WNI", "isCorrect": true },
+        { "text": "B. Dianggap WNA", "isCorrect": false },
+        { "text": "C. Dideportasi", "isCorrect": false },
+        { "text": "D. Tidak diberi status apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kasus seorang anak diakui dua negara karena lahir di negara ius soli dari orang tua negara ius sanguinis menunjukkan akibat?",
+      "explanation": "Situasi ini menunjukkan akibat bipatride, di mana dua negara sama-sama mengakui anak tersebut sebagai warganya.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Bipatride", "isCorrect": true },
+        { "text": "B. Apatride", "isCorrect": false },
+        { "text": "C. Naturalisasi", "isCorrect": false },
+        { "text": "D. Repudiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penegasan bahwa \"orang-orang bangsa Indonesia asli\" termasuk WNI mengandung makna bahwa WNI dapat berasal dari?",
+      "explanation": "WNI mencakup bangsa Indonesia asli dan bangsa lain yang disahkan UU, menunjukkan WNI dapat berasal dari penduduk asli maupun melalui pengesahan undang-undang.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Penduduk asli dan bangsa lain yang disahkan UU", "isCorrect": true },
+        { "text": "B. Hanya bangsa asing", "isCorrect": false },
+        { "text": "C. Hanya keturunan bangsawan", "isCorrect": false },
+        { "text": "D. Hanya pejabat negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asas yang menyebabkan istri mengikuti kewarganegaraan suami dapat menimbulkan masalah bila negara asal istri tidak mengizinkannya kehilangan kewarganegaraan, sehingga muncul?",
+      "explanation": "Bila negara asal istri tidak melepaskan kewarganegaraannya sementara ia juga ikut suami, istri dapat menjadi bipatride (memiliki dua kewarganegaraan).",
+      "difficulty": "HARD",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Bipatride", "isCorrect": true },
+        { "text": "B. Apatride", "isCorrect": false },
+        { "text": "C. Naturalisasi istimewa", "isCorrect": false },
+        { "text": "D. Repatriasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak repudiasi biasanya muncul dalam kasus seseorang yang berstatus?",
+      "explanation": "Hak repudiasi (menolak) relevan bagi seseorang yang berpotensi bipatride untuk menolak salah satu kewarganegaraan.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Bipatride yang ingin menolak salah satu kewarganegaraan", "isCorrect": true },
+        { "text": "B. Apatride yang tidak punya pilihan", "isCorrect": false },
+        { "text": "C. Pejabat negara", "isCorrect": false },
+        { "text": "D. Turis singkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan penyelesaian melalui hak opsi dan hak repudiasi adalah untuk?",
+      "explanation": "Hak opsi dan repudiasi bertujuan menyelesaikan persoalan bipatride/apatride agar status kewarganegaraan seseorang menjadi jelas (satu kewarganegaraan).",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Memperjelas status kewarganegaraan seseorang", "isCorrect": true },
+        { "text": "B. Menambah jumlah kewarganegaraan", "isCorrect": false },
+        { "text": "C. Menghapus identitas warga", "isCorrect": false },
+        { "text": "D. Memperumit administrasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara memperoleh kewarganegaraan Indonesia menurut materi yang berkaitan dengan keturunan langsung adalah karena?",
+      "explanation": "Memperoleh kewarganegaraan karena kelahiran berkaitan langsung dengan keturunan (anak dari orang tua WNI menjadi WNI).",
+      "difficulty": "EASY",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Kelahiran", "isCorrect": true },
+        { "text": "B. Pekerjaan asing", "isCorrect": false },
+        { "text": "C. Liburan", "isCorrect": false },
+        { "text": "D. Investasi singkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "UU No. 12 Tahun 2006 mengatur kewarganegaraan Republik Indonesia menggantikan ketentuan lama dengan semangat?",
+      "explanation": "UU No. 12 Tahun 2006 disusun dengan semangat menghapus diskriminasi dan menegaskan perlindungan terhadap perempuan dan anak dalam hal kewarganegaraan.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. Menghapus diskriminasi dan melindungi perempuan serta anak", "isCorrect": true },
+        { "text": "B. Memperketat diskriminasi gender", "isCorrect": false },
+        { "text": "C. Melarang seluruh perkawinan campuran", "isCorrect": false },
+        { "text": "D. Menghapus hak opsi anak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara yang dominan menerapkan asas ius sanguinis umumnya adalah negara yang mengutamakan?",
+      "explanation": "Negara penganut ius sanguinis mengutamakan ikatan keturunan/darah, sehingga kewarganegaraan diwariskan dari orang tua.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Ikatan keturunan/darah", "isCorrect": true },
+        { "text": "B. Tempat kelahiran semata", "isCorrect": false },
+        { "text": "C. Kekayaan", "isCorrect": false },
+        { "text": "D. Lama menetap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam konteks perkawinan campuran, fungsi asas persamaan derajat adalah melindungi?",
+      "explanation": "Asas persamaan derajat melindungi kesetaraan suami dan istri agar perkawinan tidak memaksa salah satu pihak kehilangan kewarganegaraannya.",
+      "difficulty": "HARD",
+      "tag": "Asas Perkawinan",
+      "options": [
+        { "text": "A. Kesetaraan dan kemandirian status suami-istri", "isCorrect": true },
+        { "text": "B. Hanya kepentingan suami", "isCorrect": false },
+        { "text": "C. Hanya kepentingan negara asing", "isCorrect": false },
+        { "text": "D. Penghapusan hak istri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan UU No. 12 Tahun 2006, anak WNI yang lahir dari perkawinan sah dengan ayah/ibu WNA memperoleh?",
+      "explanation": "Anak dari perkawinan sah antara WNI dan WNA memperoleh kewarganegaraan ganda terbatas hingga usia 18 tahun, lalu wajib memilih.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Kewarganegaraan ganda terbatas", "isCorrect": true },
+        { "text": "B. Kewarganegaraan ganda permanen", "isCorrect": false },
+        { "text": "C. Status apatride", "isCorrect": false },
+        { "text": "D. Tidak ada kewarganegaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu syarat pewarganegaraan yang berkaitan dengan sikap politik adalah pemohon harus?",
+      "explanation": "Pemohon pewarganegaraan harus mengakui dasar negara Pancasila dan UUD NRI Tahun 1945 serta setia kepada NKRI.",
+      "difficulty": "MEDIUM",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Mengakui Pancasila dan setia kepada NKRI", "isCorrect": true },
+        { "text": "B. Tetap setia kepada negara asal", "isCorrect": false },
+        { "text": "C. Menolak UUD 1945", "isCorrect": false },
+        { "text": "D. Tidak peduli ideologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai akibat dari penerapan asas kewarganegaraan yang berbeda antarnegara adalah?",
+      "explanation": "Perbedaan penerapan asas antarnegara dapat menyebabkan seseorang menjadi bipatride atau apatride, sehingga diperlukan penyelesaian hukum.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Dapat menimbulkan bipatride atau apatride", "isCorrect": true },
+        { "text": "B. Selalu menghasilkan satu kewarganegaraan", "isCorrect": false },
+        { "text": "C. Tidak berdampak apa pun", "isCorrect": false },
+        { "text": "D. Menghapus kewarganegaraan semua orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang BUKAN merupakan cara kehilangan kewarganegaraan Indonesia menurut UU No. 12 Tahun 2006 adalah?",
+      "explanation": "Bepergian wisata singkat ke luar negeri bukan penyebab kehilangan kewarganegaraan; penyebabnya antara lain memperoleh kewarganegaraan lain atas kemauan sendiri atau masuk dinas tentara asing tanpa izin.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Kehilangan Kewarganegaraan",
+      "options": [
+        { "text": "A. Bepergian wisata singkat ke luar negeri", "isCorrect": true },
+        { "text": "B. Memperoleh kewarganegaraan lain atas kemauan sendiri", "isCorrect": false },
+        { "text": "C. Masuk dinas tentara asing tanpa izin", "isCorrect": false },
+        { "text": "D. Mengangkat sumpah setia kepada negara asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyebutan \"karena pengangkatan\" sebagai cara memperoleh kewarganegaraan menunjukkan bahwa kewarganegaraan dapat diperoleh melalui?",
+      "explanation": "Pengangkatan menunjukkan kewarganegaraan dapat diperoleh melalui adopsi/pengangkatan anak asing secara sah oleh WNI.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Memperoleh Kewarganegaraan",
+      "options": [
+        { "text": "A. Adopsi/pengangkatan anak secara sah oleh WNI", "isCorrect": true },
+        { "text": "B. Pembelian kewarganegaraan", "isCorrect": false },
+        { "text": "C. Undian negara", "isCorrect": false },
+        { "text": "D. Warisan harta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indonesia memilih ius sanguinis sebagai asas utama dengan alasan untuk?",
+      "explanation": "Ius sanguinis dipilih untuk mempertahankan ikatan keturunan bangsa Indonesia sehingga anak keturunan WNI tetap menjadi WNI meski lahir di luar negeri.",
+      "difficulty": "MEDIUM",
+      "tag": "Asas Ius Soli & Ius Sanguinis",
+      "options": [
+        { "text": "A. Mempertahankan ikatan keturunan bangsa Indonesia", "isCorrect": true },
+        { "text": "B. Memperbanyak warga asing", "isCorrect": false },
+        { "text": "C. Menghapus kewarganegaraan anak", "isCorrect": false },
+        { "text": "D. Mengikuti negara lain saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam UU No. 12 Tahun 2006, prinsip bahwa setiap orang berhak atas status kewarganegaraan menegaskan negara wajib?",
+      "explanation": "Negara wajib menghindari terjadinya apatride pada warganya dengan memberikan kepastian status kewarganegaraan.",
+      "difficulty": "HARD",
+      "tag": "Konsep Warga Negara & WNI",
+      "options": [
+        { "text": "A. Menghindari terjadinya apatride pada warganya", "isCorrect": true },
+        { "text": "B. Membuat semua orang bipatride", "isCorrect": false },
+        { "text": "C. Menolak memberi kewarganegaraan", "isCorrect": false },
+        { "text": "D. Menghapus hak warga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang WNA yang ingin menjadi WNI melalui naturalisasi biasa harus mengajukan permohonan atas?",
+      "explanation": "Naturalisasi biasa diajukan atas kehendak/inisiatif sendiri oleh orang asing yang memenuhi syarat yang ditetapkan undang-undang.",
+      "difficulty": "MEDIUM",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Kehendak/inisiatif sendiri", "isCorrect": true },
+        { "text": "B. Perintah negara asing", "isCorrect": false },
+        { "text": "C. Paksaan", "isCorrect": false },
+        { "text": "D. Otomatis tanpa permohonan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan antara naturalisasi biasa dan naturalisasi istimewa terletak terutama pada?",
+      "explanation": "Naturalisasi biasa atas permohonan pribadi dengan syarat lengkap, sedangkan naturalisasi istimewa diberikan negara atas jasa/kepentingan negara dengan persetujuan DPR.",
+      "difficulty": "HARD",
+      "tag": "Naturalisasi & Kewarganegaraan Ganda",
+      "options": [
+        { "text": "A. Inisiatif pemohon vs pemberian negara atas jasa/kepentingan negara", "isCorrect": true },
+        { "text": "B. Tidak ada perbedaan", "isCorrect": false },
+        { "text": "C. Keduanya hanya untuk olahragawan", "isCorrect": false },
+        { "text": "D. Keduanya tanpa syarat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Akibat utama bila seseorang menjadi apatride dalam praktiknya adalah kesulitan dalam hal?",
+      "explanation": "Apatride menyebabkan kesulitan memperoleh dokumen resmi, perlindungan hukum, dan hak-hak sebagai warga negara karena tidak diakui negara mana pun.",
+      "difficulty": "MEDIUM",
+      "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi",
+      "options": [
+        { "text": "A. Memperoleh dokumen resmi dan perlindungan hukum", "isCorrect": true },
+        { "text": "B. Memilih dua negara sekaligus", "isCorrect": false },
+        { "text": "C. Mendapat hak ganda", "isCorrect": false },
+        { "text": "D. Tidak ada kesulitan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ringkasan yang tepat: Indonesia menggunakan asas kewarganegaraan campuran, yaitu?",
+      "explanation": "Indonesia menggunakan ius sanguinis sebagai asas pokok dan ius soli secara terbatas, ditambah pengaturan kewarganegaraan ganda terbatas bagi anak.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum & Regulasi",
+      "options": [
+        { "text": "A. Ius sanguinis pokok dan ius soli terbatas", "isCorrect": true },
+        { "text": "B. Ius soli murni tanpa pengecualian", "isCorrect": false },
+        { "text": "C. Hanya asas perkawinan", "isCorrect": false },
+        { "text": "D. Tanpa asas apa pun", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Warga negara (UU No.12/2006)", "back": "Warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan (Pasal 1 ayat 1).", "tag": "Konsep Warga Negara & WNI" },
+    { "front": "Kewarganegaraan (UU No.12/2006)", "back": "Segala hal ihwal yang berhubungan dengan warga negara (Pasal 1 ayat 2).", "tag": "Konsep Warga Negara & WNI" },
+    { "front": "WNI (UU No.12/2006 Pasal 2)", "back": "Orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan UU sebagai warga negara.", "tag": "Konsep Warga Negara & WNI" },
+    { "front": "Ius soli", "back": "Asas penentuan kewarganegaraan berdasarkan tempat/negara kelahiran (soli = tanah/tempat).", "tag": "Asas Ius Soli & Ius Sanguinis" },
+    { "front": "Ius sanguinis", "back": "Asas penentuan kewarganegaraan berdasarkan hubungan darah/keturunan orang tua (sanguinis = darah).", "tag": "Asas Ius Soli & Ius Sanguinis" },
+    { "front": "Asas kewarganegaraan Indonesia", "back": "Pokok ius sanguinis (UU No.62/1958) ditambah ius soli terbatas (UU No.3/1946).", "tag": "Asas Ius Soli & Ius Sanguinis" },
+    { "front": "Asas kesatuan hukum", "back": "Dalam perkawinan antarbangsa, anggota keluarga tunduk pada hukum yang sama; istri mengikuti kewarganegaraan suami.", "tag": "Asas Perkawinan" },
+    { "front": "Asas persamaan derajat", "back": "Perkawinan tidak mengubah status kewarganegaraan masing-masing pihak.", "tag": "Asas Perkawinan" },
+    { "front": "Bipatride", "back": "Keadaan memiliki dua kewarganegaraan sekaligus.", "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi" },
+    { "front": "Apatride", "back": "Keadaan tidak memiliki kewarganegaraan apa pun (stateless).", "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi" },
+    { "front": "Hak opsi", "back": "Hak untuk memilih suatu kewarganegaraan (bersifat aktif, memilih masuk).", "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi" },
+    { "front": "Hak repudiasi", "back": "Hak untuk menolak suatu kewarganegaraan (bersifat pasif, menolak masuk).", "tag": "Bipatride, Apatride & Hak Opsi/Repudiasi" },
+    { "front": "Cara memperoleh kewarganegaraan RI", "back": "Karena kelahiran, pengangkatan, pewarganegaraan, perkawinan, turut ayah/ibu, dan pernyataan.", "tag": "Cara Memperoleh Kewarganegaraan" },
+    { "front": "Naturalisasi biasa", "back": "Pewarganegaraan atas permohonan/inisiatif orang asing dengan memenuhi syarat UU.", "tag": "Naturalisasi & Kewarganegaraan Ganda" },
+    { "front": "Naturalisasi istimewa", "back": "Pewarganegaraan yang diberikan negara kepada orang asing berjasa atau demi kepentingan negara, dengan persetujuan DPR.", "tag": "Naturalisasi & Kewarganegaraan Ganda" },
+    { "front": "Kewarganegaraan ganda terbatas", "back": "Diberikan kepada anak hasil perkawinan campuran sampai usia 18 tahun, lalu wajib memilih (hak opsi).", "tag": "Naturalisasi & Kewarganegaraan Ganda" },
+    { "front": "UU No.62/1958", "back": "Dasar kewarganegaraan Indonesia dengan asas ius sanguinis (kini diganti UU No.12/2006).", "tag": "Dasar Hukum & Regulasi" },
+    { "front": "UU No.3/1946", "back": "Mengatur ius soli terbatas untuk menampung onderdaan yang tinggal di Indonesia sebelum Proklamasi.", "tag": "Dasar Hukum & Regulasi" },
+    { "front": "UU No.12/2006", "back": "Undang-undang Kewarganegaraan RI saat ini; tidak diskriminatif dan mengakui kewarganegaraan ganda terbatas anak.", "tag": "Dasar Hukum & Regulasi" },
+    { "front": "Cara kehilangan kewarganegaraan RI", "back": "Antara lain memperoleh kewarganegaraan lain atas kemauan sendiri, masuk dinas tentara asing tanpa izin, atau mengangkat sumpah setia kepada negara asing.", "tag": "Cara Kehilangan Kewarganegaraan" },
+    { "front": "Onderdaan", "back": "Penduduk/orang asing keturunan yang tinggal di Indonesia sejak sebelum Proklamasi Kemerdekaan.", "tag": "Dasar Hukum & Regulasi" }
+  ],
+  "mindmap": [
+    { "id": "kewarganegaraan", "label": "Kewarganegaraan & Status WNI", "color": "#6366f1", "parent": null, "content": "Konsep, asas, cara memperoleh dan kehilangan kewarganegaraan, serta status WNI berdasarkan UU No.12 Tahun 2006." },
+    { "id": "konsep", "label": "Konsep Dasar", "color": "#8b5cf6", "parent": "kewarganegaraan", "content": "Pengertian warga negara, kewarganegaraan, dan WNI menurut peraturan perundang-undangan." },
+    { "id": "konsep-warneg", "label": "Warga Negara", "color": "#8b5cf6", "parent": "konsep", "content": "Warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan (UU No.12/2006 Pasal 1 ayat 1)." },
+    { "id": "konsep-kwn", "label": "Kewarganegaraan", "color": "#8b5cf6", "parent": "konsep", "content": "Segala hal ihwal yang berhubungan dengan warga negara (Pasal 1 ayat 2)." },
+    { "id": "konsep-wni", "label": "WNI", "color": "#8b5cf6", "parent": "konsep", "content": "Orang bangsa Indonesia asli dan orang bangsa lain yang disahkan dengan UU sebagai warga negara (Pasal 2)." },
+    { "id": "konsep-ham", "label": "Hak atas Status", "color": "#8b5cf6", "parent": "konsep", "content": "UUD 1945 menjamin setiap orang berhak atas status kewarganegaraan sebagai bagian dari HAM." },
+    { "id": "asas-kelahiran", "label": "Asas Kelahiran", "color": "#0ea5e9", "parent": "kewarganegaraan", "content": "Penentuan kewarganegaraan dari segi kelahiran: ius soli dan ius sanguinis." },
+    { "id": "ius-soli", "label": "Ius Soli", "color": "#0ea5e9", "parent": "asas-kelahiran", "content": "Kewarganegaraan ditentukan berdasarkan tempat/negara seseorang dilahirkan." },
+    { "id": "ius-sanguinis", "label": "Ius Sanguinis", "color": "#0ea5e9", "parent": "asas-kelahiran", "content": "Kewarganegaraan ditentukan berdasarkan hubungan darah/keturunan orang tua." },
+    { "id": "asas-indo", "label": "Asas di Indonesia", "color": "#0ea5e9", "parent": "asas-kelahiran", "content": "Pokok ius sanguinis ditambah ius soli terbatas agar tidak menimbulkan apatride." },
+    { "id": "asas-kawin", "label": "Asas Perkawinan", "color": "#10b981", "parent": "kewarganegaraan", "content": "Penentuan kewarganegaraan dari segi perkawinan: kesatuan hukum dan persamaan derajat." },
+    { "id": "kesatuan-hukum", "label": "Kesatuan Hukum", "color": "#10b981", "parent": "asas-kawin", "content": "Anggota keluarga tunduk pada hukum yang sama; istri mengikuti kewarganegaraan suami." },
+    { "id": "persamaan-derajat", "label": "Persamaan Derajat", "color": "#10b981", "parent": "asas-kawin", "content": "Perkawinan tidak menyebabkan berubahnya status kewarganegaraan masing-masing pihak." },
+    { "id": "akibat", "label": "Bipatride & Apatride", "color": "#f59e0b", "parent": "kewarganegaraan", "content": "Akibat perbedaan penerapan asas antarnegara terhadap status kewarganegaraan." },
+    { "id": "bipatride", "label": "Bipatride", "color": "#f59e0b", "parent": "akibat", "content": "Memiliki dua kewarganegaraan; muncul saat lahir di negara ius soli dari orang tua ius sanguinis." },
+    { "id": "apatride", "label": "Apatride", "color": "#f59e0b", "parent": "akibat", "content": "Tidak memiliki kewarganegaraan; muncul saat lahir di negara ius sanguinis dari orang tua ius soli." },
+    { "id": "hak-opsi", "label": "Hak Opsi", "color": "#f59e0b", "parent": "akibat", "content": "Hak untuk memilih suatu kewarganegaraan (aktif, memilih masuk)." },
+    { "id": "hak-repudiasi", "label": "Hak Repudiasi", "color": "#f59e0b", "parent": "akibat", "content": "Hak untuk menolak suatu kewarganegaraan (pasif, menolak masuk)." },
+    { "id": "memperoleh", "label": "Memperoleh Kewarganegaraan", "color": "#ef4444", "parent": "kewarganegaraan", "content": "Cara memperoleh kewarganegaraan Indonesia menurut materi dan UU." },
+    { "id": "m-kelahiran", "label": "Karena Kelahiran", "color": "#ef4444", "parent": "memperoleh", "content": "Anak memperoleh kewarganegaraan berdasarkan kelahiran/keturunan dari orang tua WNI." },
+    { "id": "m-pengangkatan", "label": "Karena Pengangkatan", "color": "#ef4444", "parent": "memperoleh", "content": "Anak asing yang diadopsi/diangkat secara sah oleh WNI memperoleh kewarganegaraan." },
+    { "id": "m-pewarganegaraan", "label": "Karena Pewarganegaraan", "color": "#ef4444", "parent": "memperoleh", "content": "Naturalisasi: orang asing memperoleh kewarganegaraan melalui permohonan sesuai syarat UU." },
+    { "id": "m-perkawinan", "label": "Karena Perkawinan", "color": "#ef4444", "parent": "memperoleh", "content": "WNA yang menikah dengan WNI dapat memperoleh kewarganegaraan Indonesia." },
+    { "id": "m-turut", "label": "Karena Turut Ayah/Ibu", "color": "#ef4444", "parent": "memperoleh", "content": "Anak ikut memperoleh kewarganegaraan mengikuti ayah dan/atau ibu yang menjadi WNI." },
+    { "id": "m-pernyataan", "label": "Karena Pernyataan", "color": "#ef4444", "parent": "memperoleh", "content": "Memperoleh kewarganegaraan melalui pernyataan resmi sesuai ketentuan UU." },
+    { "id": "naturalisasi", "label": "Naturalisasi & Ganda", "color": "#ec4899", "parent": "kewarganegaraan", "content": "Jenis naturalisasi dan pengaturan kewarganegaraan ganda terbatas." },
+    { "id": "nat-biasa", "label": "Naturalisasi Biasa", "color": "#ec4899", "parent": "naturalisasi", "content": "Pewarganegaraan atas inisiatif pemohon dengan syarat seperti usia 18 tahun dan tinggal 5 tahun berturut-turut." },
+    { "id": "nat-istimewa", "label": "Naturalisasi Istimewa", "color": "#ec4899", "parent": "naturalisasi", "content": "Diberikan negara kepada orang asing berjasa/demi kepentingan negara, dengan persetujuan DPR." },
+    { "id": "ganda-terbatas", "label": "Ganda Terbatas", "color": "#ec4899", "parent": "naturalisasi", "content": "Anak hasil perkawinan campuran berkewarganegaraan ganda sampai usia 18 tahun lalu wajib memilih." },
+    { "id": "syarat-nat", "label": "Syarat Pewarganegaraan", "color": "#ec4899", "parent": "naturalisasi", "content": "Antara lain berusia 18 tahun/kawin, tinggal 5 tahun, sehat, berbahasa Indonesia, mengakui Pancasila dan UUD 1945." },
+    { "id": "dasar-hukum", "label": "Dasar Hukum", "color": "#14b8a6", "parent": "kewarganegaraan", "content": "Regulasi yang mengatur kewarganegaraan Indonesia dari masa ke masa." },
+    { "id": "uu-1946", "label": "UU No.3/1946", "color": "#14b8a6", "parent": "dasar-hukum", "content": "Mengatur ius soli terbatas untuk menampung onderdaan sebelum Proklamasi." },
+    { "id": "uu-1958", "label": "UU No.62/1958", "color": "#14b8a6", "parent": "dasar-hukum", "content": "Kewarganegaraan Indonesia berdasarkan asas ius sanguinis (kini diganti)." },
+    { "id": "uu-2006", "label": "UU No.12/2006", "color": "#14b8a6", "parent": "dasar-hukum", "content": "UU Kewarganegaraan RI saat ini; tidak diskriminatif dan mengakui kewarganegaraan ganda terbatas." },
+    { "id": "kehilangan", "label": "Kehilangan Kewarganegaraan", "color": "#14b8a6", "parent": "dasar-hukum", "content": "WNI dapat kehilangan kewarganegaraan, misalnya memperoleh kewarganegaraan lain atas kemauan sendiri atau masuk dinas tentara asing tanpa izin." }
+  ]
+}

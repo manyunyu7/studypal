@@ -1,0 +1,1500 @@
+{
+  "topic": "Teori Kecelakaan Kerja",
+  "order": 3,
+  "description": "Teori kecelakaan kerja menjelaskan bagaimana kecelakaan terjadi melalui model analisis seperti Swiss Cheese Model, Bow-Tie Model, dan Drift into Failure. Pemahaman teori ini membantu mengidentifikasi penyebab, lapisan pertahanan yang gagal, serta titik pengendalian untuk mencegah kecelakaan.",
+  "subtopics": [
+    "Swiss Cheese Model",
+    "Unsafe Act: Errors & Violation",
+    "Bow-Tie Model",
+    "Hazard, Threats, Top Event, Consequences",
+    "Preventive & Mitigative Controls",
+    "Drift into Failure",
+    "Normalization of Deviance",
+    "Fase Failure & Nearmiss"
+  ],
+  "questions": [
+    {
+      "text": "Model teori analisis kecelakaan kerja yang menjelaskan kecelakaan terjadi akibat kombinasi kegagalan pada berbagai lapisan sistem pertahanan adalah?",
+      "explanation": "Swiss Cheese Model menggambarkan kecelakaan sebagai akibat sejajarnya lubang (kelemahan) pada berbagai lapisan pertahanan sistem.",
+      "difficulty": "EASY",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Bow-Tie Model", "isCorrect": false },
+        { "text": "B. Swiss Cheese Model", "isCorrect": true },
+        { "text": "C. Drift into Failure", "isCorrect": false },
+        { "text": "D. Domino Heinrich", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Swiss Cheese Model, lubang pada tiap lapisan keju menggambarkan?",
+      "explanation": "Setiap lapisan pertahanan memiliki kelemahan (lubang); ketika lubang antar lapisan sejajar, bahaya dapat menembus seluruh sistem.",
+      "difficulty": "EASY",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Kekuatan sistem pertahanan", "isCorrect": false },
+        { "text": "B. Kelemahan pada lapisan pertahanan", "isCorrect": true },
+        { "text": "C. Jumlah pekerja yang terlibat", "isCorrect": false },
+        { "text": "D. Besarnya biaya kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Swiss Cheese Model, kecelakaan (accident) terjadi ketika?",
+      "explanation": "Kecelakaan terjadi saat lubang (kelemahan) pada seluruh lapisan pertahanan sejajar sehingga bahaya dapat menembus sampai menimbulkan accident.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Hanya satu lapisan saja yang gagal", "isCorrect": false },
+        { "text": "B. Lubang pada semua lapisan sejajar sehingga bahaya menembus sistem", "isCorrect": true },
+        { "text": "C. Semua lapisan dalam kondisi sempurna", "isCorrect": false },
+        { "text": "D. Pekerja menggunakan APD lengkap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lapisan dalam Swiss Cheese Model yang berkaitan dengan kebijakan, budaya, alokasi sumber daya, dan struktur manajemen disebut?",
+      "explanation": "Organizational Influence adalah faktor pada level organisasi yang memengaruhi keseluruhan sistem keselamatan, termasuk kebijakan dan budaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Supervisory Factors", "isCorrect": false },
+        { "text": "B. Organizational Influence", "isCorrect": true },
+        { "text": "C. Unsafe Act", "isCorrect": false },
+        { "text": "D. Preconditions for Unsafe Acts", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh kegagalan pada lapisan Organizational Influence dalam Swiss Cheese Model adalah?",
+      "explanation": "Tidak adanya prosedur K3, pelatihan K3, atau sarana K3 merupakan kegagalan pada level organisasi (Organizational Influence).",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Tidak adanya prosedur dan pelatihan K3", "isCorrect": true },
+        { "text": "B. Pekerja lupa prosedur saat bekerja", "isCorrect": false },
+        { "text": "C. Kelelahan kerja akibat shift panjang", "isCorrect": false },
+        { "text": "D. Supervisor tidak menindak pelanggaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kegagalan atau kelemahan dalam fungsi pengawasan oleh supervisor dalam Swiss Cheese Model termasuk lapisan?",
+      "explanation": "Supervisory Factors adalah kegagalan dalam fungsi pengawasan, misalnya kurangnya pengawasan atau instruksi kerja yang salah.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Organizational Influence", "isCorrect": false },
+        { "text": "B. Supervisory Factors", "isCorrect": true },
+        { "text": "C. Unsafe Act", "isCorrect": false },
+        { "text": "D. Hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh kegagalan pada lapisan Supervisory Factors adalah?",
+      "explanation": "Kurangnya pengawasan, instruksi kerja yang salah, dan tidak menindak pelanggaran K3 merupakan kelemahan fungsi pengawasan (Supervisory Factors).",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Tidak ada anggaran untuk APD", "isCorrect": false },
+        { "text": "B. Instruksi kerja yang salah dan tidak menindak pelanggaran K3", "isCorrect": true },
+        { "text": "C. Pekerja stres dan kelelahan", "isCorrect": false },
+        { "text": "D. Pekerja sengaja melanggar SOP", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lapisan Swiss Cheese Model yang berkaitan dengan kesiapan pekerja sebelum bertindak, seperti kelelahan dan stres, disebut?",
+      "explanation": "Preconditions for Unsafe Acts adalah kondisi yang memengaruhi kesiapan pekerja sebelum bertindak, baik aspek individu maupun lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Preconditions for Unsafe Acts", "isCorrect": true },
+        { "text": "B. Organizational Influence", "isCorrect": false },
+        { "text": "C. Supervisory Factors", "isCorrect": false },
+        { "text": "D. Hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelelahan kerja, stres kerja, dan paparan kebisingan merupakan contoh dari lapisan?",
+      "explanation": "Kelelahan, stres, dan paparan kebisingan adalah contoh Preconditions for Unsafe Acts yang memengaruhi kesiapan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Unsafe Act", "isCorrect": false },
+        { "text": "B. Preconditions for Unsafe Acts", "isCorrect": true },
+        { "text": "C. Supervisory Factors", "isCorrect": false },
+        { "text": "D. Organizational Influence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tindakan langsung pekerja yang tidak aman dan berpotensi menyebabkan kecelakaan disebut?",
+      "explanation": "Unsafe Act adalah tindakan langsung dari pekerja yang tidak aman dan berpotensi menyebabkan kecelakaan kerja.",
+      "difficulty": "EASY",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Unsafe condition", "isCorrect": false },
+        { "text": "B. Unsafe act", "isCorrect": true },
+        { "text": "C. Near miss", "isCorrect": false },
+        { "text": "D. Top event", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unsafe act dalam Swiss Cheese Model terdiri dari dua kategori, yaitu?",
+      "explanation": "Unsafe act terdiri dari errors (tidak disengaja) dan violation (disengaja).",
+      "difficulty": "MEDIUM",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Hazard dan threats", "isCorrect": false },
+        { "text": "B. Errors dan violation", "isCorrect": true },
+        { "text": "C. Preventive dan mitigative", "isCorrect": false },
+        { "text": "D. Cause dan consequence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jenis unsafe act yang dilakukan tanpa disengaja, seperti salah mengoperasikan alat atau lupa prosedur, disebut?",
+      "explanation": "Errors adalah unsafe act yang tidak disengaja, contohnya salah mengoperasikan alat atau lupa prosedur.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Violation", "isCorrect": false },
+        { "text": "B. Errors", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Drift", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tidak menggunakan APD, melanggar SOP, dan mengambil jalan pintas (shortcut) termasuk dalam kategori unsafe act jenis?",
+      "explanation": "Violation adalah unsafe act yang disengaja, contohnya tidak memakai APD, melanggar SOP, atau mengambil shortcut.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Errors", "isCorrect": false },
+        { "text": "B. Violation", "isCorrect": true },
+        { "text": "C. Precondition", "isCorrect": false },
+        { "text": "D. Consequence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara errors dan violation pada unsafe act adalah?",
+      "explanation": "Errors bersifat tidak disengaja, sedangkan violation bersifat disengaja (sengaja melanggar aturan).",
+      "difficulty": "MEDIUM",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Errors disengaja, violation tidak disengaja", "isCorrect": false },
+        { "text": "B. Errors tidak disengaja, violation disengaja", "isCorrect": true },
+        { "text": "C. Keduanya selalu disengaja", "isCorrect": false },
+        { "text": "D. Keduanya tidak pernah disengaja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja yang sengaja tidak memakai sabuk pengaman saat bekerja di ketinggian termasuk unsafe act jenis?",
+      "explanation": "Tidak memakai APD secara sengaja termasuk violation karena merupakan pelanggaran aturan keselamatan yang disengaja.",
+      "difficulty": "EASY",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Errors", "isCorrect": false },
+        { "text": "B. Violation", "isCorrect": true },
+        { "text": "C. Precondition", "isCorrect": false },
+        { "text": "D. Threats", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan lapisan pertahanan Swiss Cheese Model dari level organisasi hingga tindakan langsung pekerja adalah?",
+      "explanation": "Urutannya: Organizational Influence, Supervisory Factors, Preconditions for Unsafe Acts, lalu Unsafe Act.",
+      "difficulty": "HARD",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Unsafe Act, Preconditions, Supervisory, Organizational", "isCorrect": false },
+        { "text": "B. Organizational Influence, Supervisory Factors, Preconditions, Unsafe Act", "isCorrect": true },
+        { "text": "C. Supervisory, Organizational, Unsafe Act, Preconditions", "isCorrect": false },
+        { "text": "D. Preconditions, Unsafe Act, Organizational, Supervisory", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Model teori analisis risiko yang mengintegrasikan analisis penyebab dan analisis dampak dalam satu diagram berbentuk dasi kupu-kupu disebut?",
+      "explanation": "Bow-Tie Model menggabungkan analisis penyebab (sebelum kejadian) dan analisis dampak (setelah kejadian) dalam diagram berbentuk dasi kupu-kupu.",
+      "difficulty": "EASY",
+      "tag": "Bow-Tie Model",
+      "options": [
+        { "text": "A. Swiss Cheese Model", "isCorrect": false },
+        { "text": "B. Bow-Tie Model", "isCorrect": true },
+        { "text": "C. Fishbone Diagram", "isCorrect": false },
+        { "text": "D. Drift into Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bentuk diagram Bow-Tie Model menyerupai?",
+      "explanation": "Diagram Bow-Tie berbentuk dasi kupu-kupu (bow-tie), dengan top event di tengah, penyebab di kiri, dan dampak di kanan.",
+      "difficulty": "EASY",
+      "tag": "Bow-Tie Model",
+      "options": [
+        { "text": "A. Pohon bercabang", "isCorrect": false },
+        { "text": "B. Dasi kupu-kupu", "isCorrect": true },
+        { "text": "C. Tulang ikan", "isCorrect": false },
+        { "text": "D. Tumpukan keju", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Bow-Tie Model, sisi kiri diagram menggambarkan?",
+      "explanation": "Sisi kiri Bow-Tie berisi analisis penyebab (sebelum kejadian), yaitu threats dan preventive controls menuju top event.",
+      "difficulty": "MEDIUM",
+      "tag": "Bow-Tie Model",
+      "options": [
+        { "text": "A. Analisis dampak setelah kejadian", "isCorrect": false },
+        { "text": "B. Analisis penyebab sebelum kejadian", "isCorrect": true },
+        { "text": "C. Jalur evakuasi darurat", "isCorrect": false },
+        { "text": "D. Laporan investigasi kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Bow-Tie Model, sisi kanan diagram menggambarkan?",
+      "explanation": "Sisi kanan Bow-Tie berisi analisis dampak (setelah kejadian), yaitu mitigative controls menuju consequences.",
+      "difficulty": "MEDIUM",
+      "tag": "Bow-Tie Model",
+      "options": [
+        { "text": "A. Penyebab sebelum kejadian", "isCorrect": false },
+        { "text": "B. Dampak/konsekuensi setelah kejadian", "isCorrect": true },
+        { "text": "C. Threats pemicu hazard", "isCorrect": false },
+        { "text": "D. Daftar hazard awal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Bow-Tie Model, unsafe act dan unsafe condition yang berpotensi menimbulkan insiden disebut?",
+      "explanation": "Hazard dalam Bow-Tie Model adalah unsafe act dan unsafe condition yang berpotensi menimbulkan insiden atau kerugian.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Threats", "isCorrect": false },
+        { "text": "B. Hazard", "isCorrect": true },
+        { "text": "C. Top event", "isCorrect": false },
+        { "text": "D. Consequence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh hazard dalam Bow-Tie Model adalah?",
+      "explanation": "Saluran pipa gas berkarat, muatan kapal overload, dan tidak adanya jaring pengaman ketinggian adalah contoh hazard.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Saluran pipa gas yang berkarat", "isCorrect": true },
+        { "text": "B. Keracunan gas pada pekerja", "isCorrect": false },
+        { "text": "C. Sistem alarm deteksi gas", "isCorrect": false },
+        { "text": "D. Tim tanggap darurat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor-faktor yang dapat memicu lepasnya hazard menjadi tidak terkendali dalam Bow-Tie Model disebut?",
+      "explanation": "Threats adalah faktor pemicu yang dapat melepaskan hazard menjadi tidak terkendali, misalnya tekanan gas berlebih atau angin kencang.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Consequences", "isCorrect": false },
+        { "text": "B. Threats", "isCorrect": true },
+        { "text": "C. Controls", "isCorrect": false },
+        { "text": "D. Top event", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan gas melebihi kapasitas, angin kencang, dan hujan deras merupakan contoh dari?",
+      "explanation": "Hal-hal tersebut adalah threats, yaitu faktor pemicu lepasnya hazard menjadi tidak terkendali.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Hazard", "isCorrect": false },
+        { "text": "B. Threats", "isCorrect": true },
+        { "text": "C. Top event", "isCorrect": false },
+        { "text": "D. Consequence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kejadian utama/puncak akibat gagalnya pengendalian dan lepasnya bahaya menjadi tidak terkendali pada Bow-Tie Model disebut?",
+      "explanation": "Top event adalah kejadian puncak akibat gagalnya pengendalian dan lepasnya bahaya, berada di tengah diagram bow-tie.",
+      "difficulty": "EASY",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Top event", "isCorrect": true },
+        { "text": "B. Threats", "isCorrect": false },
+        { "text": "C. Hazard", "isCorrect": false },
+        { "text": "D. Safeguard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Bow-Tie Model, top event berada di posisi?",
+      "explanation": "Top event berada di tengah diagram bow-tie sebagai titik temu antara sisi penyebab (kiri) dan sisi dampak (kanan).",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Paling kiri diagram", "isCorrect": false },
+        { "text": "B. Tengah diagram (titik simpul dasi)", "isCorrect": true },
+        { "text": "C. Paling kanan diagram", "isCorrect": false },
+        { "text": "D. Di luar diagram", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebocoran gas berbahaya, tumpahan minyak di laut, dan material jatuh dari ketinggian merupakan contoh dari?",
+      "explanation": "Hal-hal tersebut adalah contoh top event, yaitu kejadian puncak akibat lepasnya bahaya menjadi tidak terkendali.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Threats", "isCorrect": false },
+        { "text": "B. Top event", "isCorrect": true },
+        { "text": "C. Consequence", "isCorrect": false },
+        { "text": "D. Preventive control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dampak atau akibat yang muncul setelah top event terjadi dalam Bow-Tie Model disebut?",
+      "explanation": "Consequences adalah dampak/akibat yang muncul setelah top event terjadi, misalnya keracunan gas atau pencemaran.",
+      "difficulty": "EASY",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Threats", "isCorrect": false },
+        { "text": "B. Consequences", "isCorrect": true },
+        { "text": "C. Hazard", "isCorrect": false },
+        { "text": "D. Safeguard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keracunan gas, pencemaran air laut, dan tertimpa material merupakan contoh dari?",
+      "explanation": "Hal-hal tersebut adalah consequences, yaitu dampak yang muncul setelah top event terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Hazard", "isCorrect": false },
+        { "text": "B. Top event", "isCorrect": false },
+        { "text": "C. Consequences", "isCorrect": true },
+        { "text": "D. Threats", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setiap langkah atau mekanisme yang dirancang untuk mencegah top event atau mengurangi dampaknya dalam Bow-Tie Model disebut?",
+      "explanation": "Control adalah setiap mekanisme yang dirancang untuk mencegah top event atau mengurangi konsekuensi setelah top event terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Control", "isCorrect": true },
+        { "text": "B. Hazard", "isCorrect": false },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Deviation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Control dalam Bow-Tie Model terbagi menjadi dua jenis, yaitu?",
+      "explanation": "Control terdiri dari preventive controls (sisi pencegahan) dan mitigative controls (sisi mitigasi/pemulihan).",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Errors dan violation", "isCorrect": false },
+        { "text": "B. Preventive controls dan mitigative controls", "isCorrect": true },
+        { "text": "C. Threats dan consequences", "isCorrect": false },
+        { "text": "D. Cause dan effect", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian yang berada di sisi pencegahan (sebelum top event) pada Bow-Tie Model disebut?",
+      "explanation": "Preventive controls berada di sisi pencegahan, bertujuan mencegah top event terjadi, contohnya inspeksi rutin dan safety valve.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Mitigative controls", "isCorrect": false },
+        { "text": "B. Preventive controls", "isCorrect": true },
+        { "text": "C. Recovery controls", "isCorrect": false },
+        { "text": "D. Threats", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inspeksi rutin, penggunaan bahan anti karat, dan pemasangan safety valve adalah contoh dari?",
+      "explanation": "Hal-hal tersebut adalah preventive controls karena berada di sisi pencegahan untuk mencegah top event terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Mitigative controls", "isCorrect": false },
+        { "text": "B. Preventive controls", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Consequences", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian yang berfungsi pada sisi mitigasi dan pemulihan (setelah top event) dalam Bow-Tie Model disebut?",
+      "explanation": "Mitigative controls berada di sisi mitigasi/pemulihan, bertujuan mengurangi dampak setelah top event terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Preventive controls", "isCorrect": false },
+        { "text": "B. Mitigative controls", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem alarm deteksi gas otomatis, ventilasi darurat, jalur evakuasi, dan emergency stop merupakan contoh dari?",
+      "explanation": "Hal-hal tersebut adalah mitigative controls karena berfungsi mengurangi dampak setelah top event terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Preventive controls", "isCorrect": false },
+        { "text": "B. Mitigative controls", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemasangan safety valve (katup pengaman) pada sistem perpipaan termasuk jenis pengendalian?",
+      "explanation": "Safety valve mencegah top event (misalnya ledakan akibat tekanan berlebih) sehingga termasuk preventive control.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Preventive control", "isCorrect": true },
+        { "text": "B. Mitigative control", "isCorrect": false },
+        { "text": "C. Recovery control", "isCorrect": false },
+        { "text": "D. Threats", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tim tanggap darurat (emergency response team) dalam Bow-Tie Model tergolong sebagai?",
+      "explanation": "Tim tanggap darurat berfungsi setelah top event terjadi untuk mengurangi dampak, sehingga termasuk mitigative control.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Preventive control", "isCorrect": false },
+        { "text": "B. Mitigative control", "isCorrect": true },
+        { "text": "C. Hazard", "isCorrect": false },
+        { "text": "D. Threats", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Model teori yang menjelaskan kecelakaan terjadi akibat pergeseran bertahap dari praktik kerja aman menuju kondisi berisiko disebut?",
+      "explanation": "Drift into Failure menjelaskan kecelakaan sebagai hasil pergeseran (drift) bertahap dari praktik aman menuju kondisi semakin berisiko.",
+      "difficulty": "EASY",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Swiss Cheese Model", "isCorrect": false },
+        { "text": "B. Bow-Tie Model", "isCorrect": false },
+        { "text": "C. Drift into Failure", "isCorrect": true },
+        { "text": "D. Domino Heinrich", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut teori Drift into Failure, kecelakaan terjadi karena?",
+      "explanation": "Menurut Drift into Failure, kecelakaan bukan terjadi tiba-tiba, melainkan hasil pergeseran bertahap dari praktik aman ke kondisi berisiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Terjadi secara tiba-tiba tanpa tanda apa pun", "isCorrect": false },
+        { "text": "B. Pergeseran bertahap praktik kerja menuju kondisi berisiko", "isCorrect": true },
+        { "text": "C. Satu kesalahan tunggal pekerja", "isCorrect": false },
+        { "text": "D. Faktor cuaca semata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fase awal (baseline) dalam Drift into Failure di mana pekerjaan mengikuti regulasi dan SOP serta berada dalam batas aman disebut?",
+      "explanation": "Safe Practices adalah kondisi standar (baseline) di mana pekerjaan mengikuti regulasi dan SOP serta sistem berada dalam safe boundary.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Initial Compliance", "isCorrect": false },
+        { "text": "B. Safe Practices", "isCorrect": true },
+        { "text": "C. Small Deviations", "isCorrect": false },
+        { "text": "D. Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tersedianya SOP, SMK3, dan ijin kerja K3 untuk semua pekerjaan merupakan contoh fase?",
+      "explanation": "Tersedianya SOP, SMK3, dan ijin kerja untuk semua pekerjaan adalah contoh fase Safe Practices (kondisi baseline aman).",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": true },
+        { "text": "B. Small Deviations", "isCorrect": false },
+        { "text": "C. Normalization of Deviance", "isCorrect": false },
+        { "text": "D. Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fase stabil dalam Drift into Failure di mana Safe Practices dilaksanakan sepenuhnya oleh pekerja, pengawas, dan manajemen disebut?",
+      "explanation": "Initial Compliance adalah fase stabil di mana implementasi Safe Practices dilakukan sepenuhnya oleh seluruh pihak.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": false },
+        { "text": "B. Initial Compliance", "isCorrect": true },
+        { "text": "C. Small Deviations", "isCorrect": false },
+        { "text": "D. Warning System Ignored", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja bekerja sesuai SOP, audit SMK3 rutin, dan mengajukan ijin kerja untuk pekerjaan berisiko tinggi merupakan contoh fase?",
+      "explanation": "Hal-hal tersebut adalah contoh Initial Compliance, fase di mana semua pihak menjalankan Safe Practices sepenuhnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Initial Compliance", "isCorrect": true },
+        { "text": "B. Small Deviations", "isCorrect": false },
+        { "text": "C. Normalization of Deviance", "isCorrect": false },
+        { "text": "D. Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fase di mana mulai muncul penyimpangan kecil oleh individu atau organisasi dalam Drift into Failure disebut?",
+      "explanation": "Small Deviations adalah fase penyimpangan kecil yang mulai dilakukan oleh individu atau organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Initial Compliance", "isCorrect": false },
+        { "text": "B. Small Deviations", "isCorrect": true },
+        { "text": "C. Failure", "isCorrect": false },
+        { "text": "D. Safe Practices", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beberapa pekerja mulai mengabaikan SOP dan audit K3 jarang dilakukan merupakan contoh fase?",
+      "explanation": "Hal-hal tersebut adalah contoh Small Deviations, yaitu munculnya penyimpangan kecil dari praktik aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": false },
+        { "text": "B. Initial Compliance", "isCorrect": false },
+        { "text": "C. Small Deviations", "isCorrect": true },
+        { "text": "D. Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fase ketika penyimpangan-penyimpangan dianggap wajar (normal) oleh individu atau organisasi disebut?",
+      "explanation": "Normalization of Deviance adalah fase di mana penyimpangan menjadi hal yang dianggap normal/wajar.",
+      "difficulty": "MEDIUM",
+      "tag": "Normalization of Deviance",
+      "options": [
+        { "text": "A. Small Deviations", "isCorrect": false },
+        { "text": "B. Normalization of Deviance", "isCorrect": true },
+        { "text": "C. Initial Compliance", "isCorrect": false },
+        { "text": "D. Warning System Ignored", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah 'Normalization of Deviance' paling tepat diterjemahkan sebagai?",
+      "explanation": "Normalization of Deviance berarti penyimpangan yang telah dianggap wajar/normal oleh individu maupun organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Normalization of Deviance",
+      "options": [
+        { "text": "A. Penyimpangan yang dianggap normal/wajar", "isCorrect": true },
+        { "text": "B. Pemulihan kondisi ke standar aman", "isCorrect": false },
+        { "text": "C. Penghapusan total semua bahaya", "isCorrect": false },
+        { "text": "D. Penambahan lapisan pengaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bekerja tanpa SOP, audit K3 tidak pernah dilaksanakan, dan pekerjaan berisiko tinggi tidak memerlukan ijin kerja merupakan contoh fase?",
+      "explanation": "Hal-hal tersebut adalah contoh Normalization of Deviance, di mana penyimpangan sudah dianggap normal.",
+      "difficulty": "MEDIUM",
+      "tag": "Normalization of Deviance",
+      "options": [
+        { "text": "A. Small Deviations", "isCorrect": false },
+        { "text": "B. Normalization of Deviance", "isCorrect": true },
+        { "text": "C. Initial Compliance", "isCorrect": false },
+        { "text": "D. Safe Practices", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa Normalization of Deviance berbahaya dalam konteks keselamatan kerja?",
+      "explanation": "Karena penyimpangan yang dianggap normal membuat organisasi kehilangan kepekaan terhadap risiko sehingga mendekati kegagalan tanpa disadari.",
+      "difficulty": "HARD",
+      "tag": "Normalization of Deviance",
+      "options": [
+        { "text": "A. Menambah biaya audit secara signifikan", "isCorrect": false },
+        { "text": "B. Risiko dianggap wajar sehingga organisasi kehilangan kepekaan terhadap bahaya", "isCorrect": true },
+        { "text": "C. Meningkatkan kepatuhan terhadap SOP", "isCorrect": false },
+        { "text": "D. Menghilangkan seluruh bahaya kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fase dalam Drift into Failure ketika tanda-tanda awal bahaya sudah muncul tetapi diabaikan disebut?",
+      "explanation": "Warning System Ignored adalah fase di mana tanda awal bahaya/kegagalan muncul namun tidak dikenali atau diabaikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Warning System Ignored", "isCorrect": true },
+        { "text": "B. Small Deviations", "isCorrect": false },
+        { "text": "C. Safe Practices", "isCorrect": false },
+        { "text": "D. Initial Compliance", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kejadian near miss, keluhan kesehatan pekerja, dan tanda kerusakan alat dalam Drift into Failure merupakan ciri fase?",
+      "explanation": "Hal-hal tersebut adalah tanda-tanda awal bahaya pada fase Warning System Ignored yang sering diabaikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": false },
+        { "text": "B. Warning System Ignored", "isCorrect": true },
+        { "text": "C. Initial Compliance", "isCorrect": false },
+        { "text": "D. Normalization of Deviance", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kejadian yang hampir menyebabkan kecelakaan namun tidak sampai menimbulkan cedera disebut?",
+      "explanation": "Near miss adalah kejadian hampir celaka yang tidak sampai menimbulkan cedera, namun menjadi tanda peringatan dini bahaya.",
+      "difficulty": "EASY",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Top event", "isCorrect": false },
+        { "text": "B. Near miss", "isCorrect": true },
+        { "text": "C. Consequence", "isCorrect": false },
+        { "text": "D. Violation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fase terakhir dalam Drift into Failure ketika terjadi kegagalan sistem yang berdampak nyata disebut?",
+      "explanation": "Failure adalah fase terakhir di mana terjadi kegagalan sistem yang berdampak nyata pada individu atau organisasi.",
+      "difficulty": "EASY",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Warning System Ignored", "isCorrect": false },
+        { "text": "B. Failure", "isCorrect": true },
+        { "text": "C. Normalization of Deviance", "isCorrect": false },
+        { "text": "D. Safe Practices", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Terjadinya kecelakaan kerja, penyakit akibat kerja, dan kerusakan alat merupakan ciri fase?",
+      "explanation": "Hal-hal tersebut adalah dampak nyata pada fase Failure, yaitu kegagalan sistem yang sudah terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Small Deviations", "isCorrect": false },
+        { "text": "B. Warning System Ignored", "isCorrect": false },
+        { "text": "C. Failure", "isCorrect": true },
+        { "text": "D. Initial Compliance", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan fase Drift into Failure yang benar adalah?",
+      "explanation": "Urutannya: Safe Practices, Initial Compliance, Small Deviations, Normalization of Deviance, Warning System Ignored, Failure.",
+      "difficulty": "HARD",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Failure, Warning System Ignored, Normalization, Small Deviations, Initial Compliance, Safe Practices", "isCorrect": false },
+        { "text": "B. Safe Practices, Initial Compliance, Small Deviations, Normalization of Deviance, Warning System Ignored, Failure", "isCorrect": true },
+        { "text": "C. Initial Compliance, Safe Practices, Failure, Small Deviations, Warning System Ignored, Normalization", "isCorrect": false },
+        { "text": "D. Small Deviations, Safe Practices, Normalization, Initial Compliance, Failure, Warning System Ignored", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Batas aman operasi normal dalam teori Drift into Failure dikenal dengan istilah?",
+      "explanation": "Safe boundary adalah batas aman di mana sistem masih beroperasi sesuai standar; pergeseran melewati batas ini menuju kegagalan.",
+      "difficulty": "HARD",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Safe boundary", "isCorrect": true },
+        { "text": "B. Top event", "isCorrect": false },
+        { "text": "C. Logic gate", "isCorrect": false },
+        { "text": "D. Guide word", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep teori Swiss Cheese Model pertama kali dikembangkan dan dipopulerkan oleh?",
+      "explanation": "Swiss Cheese Model dikembangkan oleh James Reason untuk menjelaskan kegagalan sistem dalam lapisan pertahanan.",
+      "difficulty": "HARD",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. H.W. Heinrich", "isCorrect": false },
+        { "text": "B. James Reason", "isCorrect": true },
+        { "text": "C. Frank Bird", "isCorrect": false },
+        { "text": "D. Sidney Dekker", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Swiss Cheese Model, lapisan-lapisan keju berfungsi sebagai?",
+      "explanation": "Setiap irisan keju melambangkan lapisan pertahanan (defense) yang seharusnya menahan bahaya agar tidak menjadi kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Lapisan pertahanan terhadap bahaya", "isCorrect": true },
+        { "text": "B. Sumber bahaya itu sendiri", "isCorrect": false },
+        { "text": "C. Konsekuensi kecelakaan", "isCorrect": false },
+        { "text": "D. Tim tanggap darurat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang lupa mematikan mesin sebelum melakukan perawatan termasuk unsafe act jenis?",
+      "explanation": "Lupa prosedur merupakan kesalahan tidak disengaja, sehingga tergolong errors.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Violation", "isCorrect": false },
+        { "text": "B. Errors", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Bow-Tie Model, preventive controls ditempatkan di antara?",
+      "explanation": "Preventive controls ditempatkan antara threats dan top event di sisi kiri untuk mencegah bahaya berkembang menjadi top event.",
+      "difficulty": "HARD",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Threats dan top event", "isCorrect": true },
+        { "text": "B. Top event dan consequences", "isCorrect": false },
+        { "text": "C. Consequences dan recovery", "isCorrect": false },
+        { "text": "D. Hazard dan organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Bow-Tie Model, mitigative controls ditempatkan di antara?",
+      "explanation": "Mitigative controls ditempatkan antara top event dan consequences di sisi kanan untuk mengurangi dampak setelah top event.",
+      "difficulty": "HARD",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Threats dan top event", "isCorrect": false },
+        { "text": "B. Top event dan consequences", "isCorrect": true },
+        { "text": "C. Hazard dan threats", "isCorrect": false },
+        { "text": "D. Di luar diagram", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keunggulan Bow-Tie Model dibanding model lain adalah kemampuannya untuk?",
+      "explanation": "Bow-Tie Model memvisualisasikan hubungan penyebab, kejadian, dan dampak sekaligus pengendaliannya dalam satu diagram terpadu.",
+      "difficulty": "HARD",
+      "tag": "Bow-Tie Model",
+      "options": [
+        { "text": "A. Menggambarkan penyebab dan dampak sekaligus pengendaliannya dalam satu diagram", "isCorrect": true },
+        { "text": "B. Hanya menganalisis penyebab kecelakaan", "isCorrect": false },
+        { "text": "C. Hanya menghitung biaya kecelakaan", "isCorrect": false },
+        { "text": "D. Mengganti kebutuhan akan SOP", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inti utama dari Swiss Cheese Model dalam pencegahan kecelakaan adalah?",
+      "explanation": "Memperkuat setiap lapisan pertahanan dan memperkecil lubang (kelemahan) agar bahaya tidak menembus seluruh sistem.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Menghapus seluruh pekerja berisiko", "isCorrect": false },
+        { "text": "B. Memperkuat lapisan pertahanan agar lubang tidak sejajar", "isCorrect": true },
+        { "text": "C. Menambah jumlah top event", "isCorrect": false },
+        { "text": "D. Mengabaikan faktor organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan bahan anti karat pada pipa untuk mencegah kebocoran gas merupakan contoh pengendalian?",
+      "explanation": "Penggunaan bahan anti karat mencegah kebocoran (top event), sehingga termasuk preventive control.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Mitigative control", "isCorrect": false },
+        { "text": "B. Preventive control", "isCorrect": true },
+        { "text": "C. Consequence", "isCorrect": false },
+        { "text": "D. Threats", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ventilasi darurat yang dinyalakan ketika terjadi kebocoran gas merupakan contoh pengendalian?",
+      "explanation": "Ventilasi darurat bekerja setelah kebocoran (top event) untuk mengurangi dampak, sehingga termasuk mitigative control.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Preventive control", "isCorrect": false },
+        { "text": "B. Mitigative control", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Muatan kapal yang melebihi kapasitas (overload) dalam Bow-Tie Model paling tepat dikategorikan sebagai?",
+      "explanation": "Muatan overload adalah unsafe condition yang berpotensi menimbulkan insiden, sehingga tergolong hazard.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Hazard", "isCorrect": true },
+        { "text": "B. Consequence", "isCorrect": false },
+        { "text": "C. Mitigative control", "isCorrect": false },
+        { "text": "D. Top event", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencemaran air laut akibat tumpahan minyak dalam Bow-Tie Model dikategorikan sebagai?",
+      "explanation": "Pencemaran air laut adalah dampak setelah tumpahan minyak (top event), sehingga tergolong consequence.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Hazard", "isCorrect": false },
+        { "text": "B. Threats", "isCorrect": false },
+        { "text": "C. Consequence", "isCorrect": true },
+        { "text": "D. Preventive control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketiga teori kecelakaan kerja (Swiss Cheese, Bow-Tie, Drift into Failure) memiliki kesamaan dalam hal?",
+      "explanation": "Ketiganya memandang kecelakaan sebagai akibat banyak faktor/proses, bukan satu penyebab tunggal yang berdiri sendiri.",
+      "difficulty": "HARD",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Hanya menyalahkan satu pekerja", "isCorrect": false },
+        { "text": "B. Memandang kecelakaan sebagai akibat banyak faktor, bukan penyebab tunggal", "isCorrect": true },
+        { "text": "C. Mengabaikan peran manajemen", "isCorrect": false },
+        { "text": "D. Hanya berlaku untuk industri kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tidak adanya sarana K3 yang memadai di perusahaan dalam Swiss Cheese Model termasuk kelemahan pada lapisan?",
+      "explanation": "Tidak tersedianya sarana K3 adalah kegagalan level organisasi (Organizational Influence).",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Organizational Influence", "isCorrect": true },
+        { "text": "B. Supervisory Factors", "isCorrect": false },
+        { "text": "C. Unsafe Act", "isCorrect": false },
+        { "text": "D. Preconditions for Unsafe Acts", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kurangnya pengawasan oleh supervisor terhadap pekerja merupakan kelemahan pada lapisan Swiss Cheese Model?",
+      "explanation": "Kurangnya pengawasan termasuk Supervisory Factors, yaitu kelemahan fungsi pengawasan.",
+      "difficulty": "EASY",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Organizational Influence", "isCorrect": false },
+        { "text": "B. Supervisory Factors", "isCorrect": true },
+        { "text": "C. Hazard", "isCorrect": false },
+        { "text": "D. Unsafe Act", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Drift into Failure, fase Initial Compliance ditandai dengan adanya audit SMK3 yang dilakukan secara?",
+      "explanation": "Pada fase Initial Compliance, audit SMK3 dilakukan secara rutin sebagai bentuk implementasi penuh Safe Practices.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Tidak pernah", "isCorrect": false },
+        { "text": "B. Rutin", "isCorrect": true },
+        { "text": "C. Jarang", "isCorrect": false },
+        { "text": "D. Hanya saat kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada fase Small Deviations dalam Drift into Failure, audit K3 mulai dilakukan secara?",
+      "explanation": "Pada fase Small Deviations, audit K3 mulai jarang dilakukan sebagai tanda awal pergeseran dari praktik aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Lebih sering", "isCorrect": false },
+        { "text": "B. Jarang", "isCorrect": true },
+        { "text": "C. Sangat ketat", "isCorrect": false },
+        { "text": "D. Dua kali lipat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanda peringatan dini yang muncul sebelum kegagalan total (failure) dalam Drift into Failure antara lain?",
+      "explanation": "Tanda peringatan dini meliputi kejadian near miss, keluhan kesehatan pekerja, dan tanda kerusakan alat pada fase Warning System Ignored.",
+      "difficulty": "MEDIUM",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Peningkatan produktivitas", "isCorrect": false },
+        { "text": "B. Kejadian near miss dan keluhan kesehatan pekerja", "isCorrect": true },
+        { "text": "C. Penambahan jumlah SOP", "isCorrect": false },
+        { "text": "D. Audit yang semakin ketat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa near miss penting untuk diperhatikan dalam pencegahan kecelakaan?",
+      "explanation": "Near miss adalah sinyal peringatan dini; bila diabaikan dapat berlanjut menjadi kecelakaan nyata (failure).",
+      "difficulty": "MEDIUM",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Karena tidak memiliki kaitan dengan kecelakaan", "isCorrect": false },
+        { "text": "B. Karena merupakan sinyal dini yang bila diabaikan dapat berujung kecelakaan", "isCorrect": true },
+        { "text": "C. Karena selalu menimbulkan korban jiwa", "isCorrect": false },
+        { "text": "D. Karena hanya terjadi di laboratorium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inspeksi rutin terhadap peralatan dalam Bow-Tie Model berfungsi sebagai pengendalian yang bertujuan?",
+      "explanation": "Inspeksi rutin adalah preventive control yang bertujuan mencegah top event terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Mencegah top event terjadi", "isCorrect": true },
+        { "text": "B. Mengurangi dampak setelah kecelakaan", "isCorrect": false },
+        { "text": "C. Menambah jumlah threats", "isCorrect": false },
+        { "text": "D. Memperbesar hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem alarm deteksi gas otomatis dalam Bow-Tie Model bertujuan untuk?",
+      "explanation": "Alarm deteksi gas adalah mitigative control yang bertujuan mengurangi dampak setelah top event (kebocoran gas) terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Mencegah pipa berkarat", "isCorrect": false },
+        { "text": "B. Mengurangi dampak setelah kebocoran gas terjadi", "isCorrect": true },
+        { "text": "C. Menambah tekanan gas", "isCorrect": false },
+        { "text": "D. Menghilangkan kebutuhan inspeksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tidak adanya jaring pengaman pada pekerjaan ketinggian dalam Bow-Tie Model termasuk?",
+      "explanation": "Tidak adanya jaring pengaman adalah unsafe condition (hazard) yang berpotensi menimbulkan insiden.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Hazard", "isCorrect": true },
+        { "text": "B. Top event", "isCorrect": false },
+        { "text": "C. Consequence", "isCorrect": false },
+        { "text": "D. Mitigative control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Material yang jatuh dari ketinggian dalam Bow-Tie Model dikategorikan sebagai?",
+      "explanation": "Material jatuh dari ketinggian adalah kejadian puncak (top event) akibat lepasnya bahaya menjadi tidak terkendali.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Hazard", "isCorrect": false },
+        { "text": "B. Top event", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Preventive control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang tertimpa material setelah material jatuh dari ketinggian dalam Bow-Tie Model adalah?",
+      "explanation": "Tertimpa material adalah dampak (consequence) yang muncul setelah top event (material jatuh) terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Hazard", "isCorrect": false },
+        { "text": "B. Threats", "isCorrect": false },
+        { "text": "C. Consequence", "isCorrect": true },
+        { "text": "D. Top event", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Angin kencang yang memicu material di ketinggian terlepas dalam Bow-Tie Model termasuk?",
+      "explanation": "Angin kencang adalah threats, yaitu faktor pemicu lepasnya hazard menjadi tidak terkendali.",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Hazard", "isCorrect": false },
+        { "text": "B. Threats", "isCorrect": true },
+        { "text": "C. Top event", "isCorrect": false },
+        { "text": "D. Consequence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Swiss Cheese Model, faktor manusia langsung yang berhubungan dengan kejadian kecelakaan berada pada lapisan paling?",
+      "explanation": "Unsafe Act adalah lapisan paling akhir (paling dekat dengan kejadian) yang berupa tindakan langsung pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Awal (paling jauh dari kejadian)", "isCorrect": false },
+        { "text": "B. Akhir (paling dekat dengan kejadian)", "isCorrect": true },
+        { "text": "C. Tidak ada dalam model", "isCorrect": false },
+        { "text": "D. Di luar sistem pertahanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kelemahan pendekatan yang hanya menyalahkan pekerja (blame culture) menurut teori modern kecelakaan adalah?",
+      "explanation": "Hanya menyalahkan pekerja mengabaikan faktor sistem (organisasi, pengawasan, prekondisi) yang sebenarnya turut menyebabkan kecelakaan.",
+      "difficulty": "HARD",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Mengabaikan faktor sistem yang lebih luas", "isCorrect": true },
+        { "text": "B. Terlalu fokus pada manajemen puncak", "isCorrect": false },
+        { "text": "C. Membutuhkan biaya yang sangat besar", "isCorrect": false },
+        { "text": "D. Tidak dapat diterapkan di industri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang sengaja mengambil jalan pintas (shortcut) untuk menyelesaikan pekerjaan lebih cepat termasuk?",
+      "explanation": "Mengambil shortcut secara sengaja melanggar prosedur, sehingga termasuk violation.",
+      "difficulty": "EASY",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Errors", "isCorrect": false },
+        { "text": "B. Violation", "isCorrect": true },
+        { "text": "C. Precondition", "isCorrect": false },
+        { "text": "D. Hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Drift into Failure, organisasi yang masih menjalankan semua pekerjaan berdasarkan SOP dan SMK3 berada pada fase?",
+      "explanation": "Organisasi yang masih menjalankan SOP dan SMK3 sepenuhnya berada pada fase Safe Practices/Initial Compliance, yaitu kondisi aman baseline.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": true },
+        { "text": "B. Normalization of Deviance", "isCorrect": false },
+        { "text": "C. Warning System Ignored", "isCorrect": false },
+        { "text": "D. Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama fase Small Deviations dengan Normalization of Deviance adalah?",
+      "explanation": "Pada Small Deviations penyimpangan masih kecil dan belum membudaya, sedangkan pada Normalization of Deviance penyimpangan sudah dianggap normal.",
+      "difficulty": "HARD",
+      "tag": "Normalization of Deviance",
+      "options": [
+        { "text": "A. Small Deviations tidak ada penyimpangan sama sekali", "isCorrect": false },
+        { "text": "B. Pada Normalization, penyimpangan sudah dianggap wajar/normal", "isCorrect": true },
+        { "text": "C. Keduanya berarti kondisi sepenuhnya aman", "isCorrect": false },
+        { "text": "D. Small Deviations terjadi setelah Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja yang dialami pekerja sebelum menjalankan tugas dalam Swiss Cheese Model termasuk lapisan?",
+      "explanation": "Stres kerja memengaruhi kesiapan pekerja sebelum bertindak, sehingga termasuk Preconditions for Unsafe Acts.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Unsafe Act", "isCorrect": false },
+        { "text": "B. Preconditions for Unsafe Acts", "isCorrect": true },
+        { "text": "C. Organizational Influence", "isCorrect": false },
+        { "text": "D. Supervisory Factors", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan emergency stop pada mesin produksi ketika terjadi insiden tergolong sebagai pengendalian?",
+      "explanation": "Emergency stop bekerja setelah kejadian untuk membatasi dampak, sehingga termasuk mitigative control.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Preventive control", "isCorrect": false },
+        { "text": "B. Mitigative control", "isCorrect": true },
+        { "text": "C. Hazard", "isCorrect": false },
+        { "text": "D. Threats", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jalur evakuasi yang disiapkan untuk keadaan darurat dalam Bow-Tie Model termasuk pengendalian?",
+      "explanation": "Jalur evakuasi berfungsi mengurangi dampak setelah top event, sehingga termasuk mitigative control.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Preventive control", "isCorrect": false },
+        { "text": "B. Mitigative control", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama menganalisis kecelakaan menggunakan teori-teori kecelakaan kerja adalah?",
+      "explanation": "Teori kecelakaan membantu mengidentifikasi penyebab dan titik pengendalian agar kecelakaan dapat dicegah dan tidak terulang.",
+      "difficulty": "EASY",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Mencari pihak yang harus disalahkan", "isCorrect": false },
+        { "text": "B. Mengidentifikasi penyebab dan titik pengendalian untuk mencegah kecelakaan", "isCorrect": true },
+        { "text": "C. Menambah jumlah kecelakaan", "isCorrect": false },
+        { "text": "D. Menghapus dokumentasi kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai hubungan threats dan top event dalam Bow-Tie Model adalah?",
+      "explanation": "Threats adalah pemicu yang, bila preventive control gagal, menyebabkan top event terjadi.",
+      "difficulty": "HARD",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Threats memicu top event bila preventive control gagal", "isCorrect": true },
+        { "text": "B. Threats selalu terjadi setelah top event", "isCorrect": false },
+        { "text": "C. Threats sama dengan consequences", "isCorrect": false },
+        { "text": "D. Threats merupakan dampak akhir kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada teori Drift into Failure, kondisi 'safe boundary' mulai dilanggar pertama kali pada fase?",
+      "explanation": "Pelanggaran batas aman mulai terjadi pada fase Small Deviations, yaitu munculnya penyimpangan kecil.",
+      "difficulty": "HARD",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": false },
+        { "text": "B. Initial Compliance", "isCorrect": false },
+        { "text": "C. Small Deviations", "isCorrect": true },
+        { "text": "D. Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan contoh unsafe condition (bukan unsafe act)?",
+      "explanation": "Saluran pipa gas yang berkarat adalah kondisi tidak aman (unsafe condition), bukan tindakan pekerja (unsafe act).",
+      "difficulty": "MEDIUM",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Pekerja tidak memakai APD", "isCorrect": false },
+        { "text": "B. Pekerja mengambil shortcut", "isCorrect": false },
+        { "text": "C. Saluran pipa gas yang berkarat", "isCorrect": true },
+        { "text": "D. Pekerja lupa mematikan mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam pencegahan Drift into Failure, langkah penting yang harus dilakukan organisasi adalah?",
+      "explanation": "Organisasi harus menanggapi tanda peringatan dini (near miss, keluhan, kerusakan) dan tidak membiarkan penyimpangan menjadi normal.",
+      "difficulty": "HARD",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Mengabaikan laporan near miss", "isCorrect": false },
+        { "text": "B. Menanggapi tanda peringatan dini dan mencegah penyimpangan menjadi normal", "isCorrect": true },
+        { "text": "C. Mengurangi frekuensi audit", "isCorrect": false },
+        { "text": "D. Menghapus SOP yang ada", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Swiss Cheese Model, jika satu lapisan pertahanan memiliki lubang tetapi lapisan lain menahannya, maka?",
+      "explanation": "Jika lubang antar lapisan tidak sejajar, lapisan lain masih menahan bahaya sehingga kecelakaan dapat dicegah.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Kecelakaan pasti terjadi", "isCorrect": false },
+        { "text": "B. Bahaya tertahan dan kecelakaan dapat dicegah", "isCorrect": true },
+        { "text": "C. Semua lapisan ikut rusak", "isCorrect": false },
+        { "text": "D. Top event langsung terjadi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembersihan tangki dengan bahan kimia tanpa prosedur yang aman dalam Bow-Tie Model dapat menjadi?",
+      "explanation": "Kegiatan berisiko tanpa pengendalian dapat menjadi hazard/threats yang memicu top event seperti keracunan atau ledakan.",
+      "difficulty": "HARD",
+      "tag": "Hazard, Threats, Top Event, Consequences",
+      "options": [
+        { "text": "A. Mitigative control", "isCorrect": false },
+        { "text": "B. Hazard yang dapat memicu top event", "isCorrect": true },
+        { "text": "C. Consequence akhir", "isCorrect": false },
+        { "text": "D. Safe boundary", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep Drift into Failure banyak dikaitkan dengan pemikiran tokoh keselamatan modern, yaitu?",
+      "explanation": "Konsep Drift into Failure dipopulerkan oleh Sidney Dekker dalam pemikiran keselamatan sistem modern.",
+      "difficulty": "HARD",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. H.W. Heinrich", "isCorrect": false },
+        { "text": "B. Sidney Dekker", "isCorrect": true },
+        { "text": "C. Frank Bird", "isCorrect": false },
+        { "text": "D. Abraham Maslow", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang BENAR mengenai preventive dan mitigative controls?",
+      "explanation": "Preventive control mencegah top event, sedangkan mitigative control mengurangi dampak setelah top event terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Preventive mencegah top event, mitigative mengurangi dampak setelahnya", "isCorrect": true },
+        { "text": "B. Keduanya hanya bekerja setelah kecelakaan", "isCorrect": false },
+        { "text": "C. Keduanya hanya bekerja sebelum kecelakaan", "isCorrect": false },
+        { "text": "D. Mitigative mencegah top event, preventive mengurangi dampak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lapisan Preconditions for Unsafe Acts dalam Swiss Cheese Model mencakup aspek?",
+      "explanation": "Preconditions mencakup aspek individu (kelelahan, stres) maupun lingkungan kerja yang memengaruhi kesiapan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Aspek individu dan lingkungan kerja", "isCorrect": true },
+        { "text": "B. Hanya kebijakan manajemen puncak", "isCorrect": false },
+        { "text": "C. Hanya jumlah anggaran K3", "isCorrect": false },
+        { "text": "D. Hanya jenis APD yang dipakai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada teori Drift into Failure, kondisi di mana 'semua pekerjaan tersedia SOP, SMK3, dan ijin kerja K3' menggambarkan?",
+      "explanation": "Kondisi tersebut menggambarkan Safe Practices, yaitu baseline aman sesuai regulasi dan prosedur.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Failure", "isCorrect": false },
+        { "text": "B. Safe Practices", "isCorrect": true },
+        { "text": "C. Warning System Ignored", "isCorrect": false },
+        { "text": "D. Small Deviations", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat memahami teori kecelakaan kerja bagi praktisi K3 adalah?",
+      "explanation": "Memahami teori kecelakaan membantu praktisi merancang lapisan pertahanan dan pengendalian yang tepat untuk mencegah kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Mempercepat terjadinya kecelakaan", "isCorrect": false },
+        { "text": "B. Merancang lapisan pertahanan dan pengendalian yang tepat", "isCorrect": true },
+        { "text": "C. Menghapus seluruh prosedur K3", "isCorrect": false },
+        { "text": "D. Mengabaikan investigasi kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Bow-Tie Model, jika preventive control berhasil, maka?",
+      "explanation": "Jika preventive control berhasil, threats tidak berkembang menjadi top event sehingga kecelakaan dapat dicegah.",
+      "difficulty": "HARD",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Top event tetap terjadi", "isCorrect": false },
+        { "text": "B. Threats tidak berkembang menjadi top event", "isCorrect": true },
+        { "text": "C. Consequences langsung muncul", "isCorrect": false },
+        { "text": "D. Hazard bertambah banyak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi penyebab pada Swiss Cheese Model menunjukkan bahwa kecelakaan biasanya bersifat?",
+      "explanation": "Kecelakaan bersifat multifaktor (multikausal), yaitu disebabkan kombinasi banyak kegagalan pada berbagai lapisan.",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Penyebab tunggal", "isCorrect": false },
+        { "text": "B. Multifaktor/multikausal", "isCorrect": true },
+        { "text": "C. Selalu disengaja", "isCorrect": false },
+        { "text": "D. Tidak dapat dianalisis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan berisiko tinggi yang tidak lagi memerlukan ijin kerja karena dianggap biasa menggambarkan fase?",
+      "explanation": "Anggapan bahwa pekerjaan berisiko tinggi tidak perlu ijin kerja adalah ciri Normalization of Deviance.",
+      "difficulty": "MEDIUM",
+      "tag": "Normalization of Deviance",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": false },
+        { "text": "B. Initial Compliance", "isCorrect": false },
+        { "text": "C. Normalization of Deviance", "isCorrect": true },
+        { "text": "D. Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketika tanda kerusakan alat sudah terlihat namun tidak ditindaklanjuti, organisasi berada pada fase?",
+      "explanation": "Tanda kerusakan alat yang diabaikan adalah ciri fase Warning System Ignored.",
+      "difficulty": "MEDIUM",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Warning System Ignored", "isCorrect": true },
+        { "text": "B. Safe Practices", "isCorrect": false },
+        { "text": "C. Initial Compliance", "isCorrect": false },
+        { "text": "D. Small Deviations", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dampak akhir berupa terjadinya kecelakaan kerja dan penyakit akibat kerja merupakan puncak dari proses?",
+      "explanation": "Kecelakaan dan PAK adalah dampak pada fase Failure, puncak dari proses Drift into Failure.",
+      "difficulty": "EASY",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": false },
+        { "text": "B. Drift into Failure (fase Failure)", "isCorrect": true },
+        { "text": "C. Preventive control", "isCorrect": false },
+        { "text": "D. Initial Compliance", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan inspeksi rutin dan safety valve secara bersamaan dalam Bow-Tie Model menunjukkan prinsip?",
+      "explanation": "Menggunakan beberapa preventive control secara berlapis menunjukkan prinsip pertahanan berlapis (multiple barriers).",
+      "difficulty": "HARD",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Pertahanan berlapis (multiple barriers)", "isCorrect": true },
+        { "text": "B. Penyebab tunggal", "isCorrect": false },
+        { "text": "C. Normalisasi penyimpangan", "isCorrect": false },
+        { "text": "D. Pengabaian peringatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep utama Bow-Tie Model yang menghubungkan sisi pencegahan dan sisi mitigasi adalah?",
+      "explanation": "Top event di tengah menjadi titik penghubung antara sisi pencegahan (kiri) dan sisi mitigasi (kanan).",
+      "difficulty": "MEDIUM",
+      "tag": "Bow-Tie Model",
+      "options": [
+        { "text": "A. Hazard", "isCorrect": false },
+        { "text": "B. Top event", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Safe boundary", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah urutan logis terjadinya kecelakaan menurut Bow-Tie Model?",
+      "explanation": "Urutannya: hazard, threats, (preventive control gagal), top event, (mitigative control), consequences.",
+      "difficulty": "HARD",
+      "tag": "Bow-Tie Model",
+      "options": [
+        { "text": "A. Consequences, top event, threats, hazard", "isCorrect": false },
+        { "text": "B. Hazard/threats, top event, consequences", "isCorrect": true },
+        { "text": "C. Top event, hazard, consequences, threats", "isCorrect": false },
+        { "text": "D. Consequences, hazard, threats, top event", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tindakan pekerja yang salah menekan tombol kontrol karena panel membingungkan termasuk unsafe act jenis?",
+      "explanation": "Salah menekan tombol secara tidak sengaja adalah kesalahan (errors), bukan pelanggaran yang disengaja.",
+      "difficulty": "MEDIUM",
+      "tag": "Unsafe Act: Errors & Violation",
+      "options": [
+        { "text": "A. Violation", "isCorrect": false },
+        { "text": "B. Errors", "isCorrect": true },
+        { "text": "C. Threats", "isCorrect": false },
+        { "text": "D. Consequence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada fase Initial Compliance, pekerja yang melakukan pekerjaan berisiko tinggi akan?",
+      "explanation": "Pada Initial Compliance, pekerja mengajukan ijin kerja untuk pekerjaan berisiko tinggi sebagai bentuk kepatuhan penuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Mengabaikan ijin kerja", "isCorrect": false },
+        { "text": "B. Mengajukan ijin kerja sesuai prosedur", "isCorrect": true },
+        { "text": "C. Bekerja tanpa SOP", "isCorrect": false },
+        { "text": "D. Menolak semua audit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan teori kecelakaan kerja modern menekankan bahwa fokus pencegahan sebaiknya pada?",
+      "explanation": "Pendekatan modern menekankan perbaikan sistem dan lapisan pertahanan, bukan sekadar menyalahkan individu pekerja.",
+      "difficulty": "HARD",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Menghukum pekerja yang lalai", "isCorrect": false },
+        { "text": "B. Perbaikan sistem dan lapisan pertahanan secara menyeluruh", "isCorrect": true },
+        { "text": "C. Mengabaikan faktor organisasi", "isCorrect": false },
+        { "text": "D. Mengurangi jumlah inspeksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keluhan kesehatan pekerja yang berulang namun tidak ditindaklanjuti oleh manajemen merupakan tanda dari fase?",
+      "explanation": "Keluhan kesehatan yang diabaikan adalah tanda peringatan pada fase Warning System Ignored.",
+      "difficulty": "MEDIUM",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": false },
+        { "text": "B. Warning System Ignored", "isCorrect": true },
+        { "text": "C. Initial Compliance", "isCorrect": false },
+        { "text": "D. Small Deviations", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Bow-Tie Model, satu top event dapat memiliki?",
+      "explanation": "Satu top event dapat memiliki banyak threats di sisi kiri dan banyak consequences di sisi kanan.",
+      "difficulty": "HARD",
+      "tag": "Bow-Tie Model",
+      "options": [
+        { "text": "A. Hanya satu threat dan satu consequence", "isCorrect": false },
+        { "text": "B. Banyak threats dan banyak consequences", "isCorrect": true },
+        { "text": "C. Tidak ada threat sama sekali", "isCorrect": false },
+        { "text": "D. Hanya mitigative control tanpa preventive", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang menggunakan handtools tanpa pengaman karena dianggap pekerjaan ringan dan terbiasa demikian menunjukkan?",
+      "explanation": "Perilaku tidak aman yang dianggap wajar karena terbiasa adalah ciri Normalization of Deviance.",
+      "difficulty": "HARD",
+      "tag": "Normalization of Deviance",
+      "options": [
+        { "text": "A. Safe Practices", "isCorrect": false },
+        { "text": "B. Normalization of Deviance", "isCorrect": true },
+        { "text": "C. Initial Compliance", "isCorrect": false },
+        { "text": "D. Preventive control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN termasuk tiga teori kecelakaan kerja yang dibahas dalam materi?",
+      "explanation": "Materi membahas Swiss Cheese, Bow-Tie, dan Drift into Failure; HIRADC adalah metode analisis risiko, bukan teori kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Swiss Cheese Model", "isCorrect": false },
+        { "text": "B. Bow-Tie Model", "isCorrect": false },
+        { "text": "C. HIRADC", "isCorrect": true },
+        { "text": "D. Drift into Failure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan antara Drift into Failure dan near miss adalah?",
+      "explanation": "Near miss muncul pada fase Warning System Ignored sebagai sinyal bahwa sistem sedang bergeser menuju kegagalan.",
+      "difficulty": "HARD",
+      "tag": "Fase Failure & Nearmiss",
+      "options": [
+        { "text": "A. Near miss menandakan sistem sudah sepenuhnya aman", "isCorrect": false },
+        { "text": "B. Near miss adalah sinyal bahwa sistem bergeser menuju kegagalan", "isCorrect": true },
+        { "text": "C. Near miss tidak ada kaitannya dengan Drift into Failure", "isCorrect": false },
+        { "text": "D. Near miss hanya terjadi pada fase Safe Practices", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan menempatkan preventive controls di sisi kiri Bow-Tie Model adalah untuk?",
+      "explanation": "Preventive controls ditempatkan di sisi kiri untuk menghentikan threats agar tidak berkembang menjadi top event.",
+      "difficulty": "MEDIUM",
+      "tag": "Preventive & Mitigative Controls",
+      "options": [
+        { "text": "A. Mengurangi dampak setelah kecelakaan", "isCorrect": false },
+        { "text": "B. Menghentikan threats sebelum menjadi top event", "isCorrect": true },
+        { "text": "C. Menambah jumlah consequences", "isCorrect": false },
+        { "text": "D. Mempercepat top event", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam Swiss Cheese Model, faktor 'tidak adanya pelatihan K3' paling tepat berada pada lapisan?",
+      "explanation": "Tidak adanya pelatihan K3 merupakan kegagalan level organisasi (Organizational Influence).",
+      "difficulty": "MEDIUM",
+      "tag": "Swiss Cheese Model",
+      "options": [
+        { "text": "A. Organizational Influence", "isCorrect": true },
+        { "text": "B. Unsafe Act", "isCorrect": false },
+        { "text": "C. Preconditions for Unsafe Acts", "isCorrect": false },
+        { "text": "D. Hazard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan paling tepat tentang teori Drift into Failure adalah?",
+      "explanation": "Drift into Failure menegaskan bahwa kecelakaan adalah hasil akumulasi pergeseran bertahap, bukan peristiwa mendadak.",
+      "difficulty": "MEDIUM",
+      "tag": "Drift into Failure",
+      "options": [
+        { "text": "A. Kecelakaan terjadi mendadak tanpa proses", "isCorrect": false },
+        { "text": "B. Kecelakaan adalah hasil akumulasi pergeseran bertahap", "isCorrect": true },
+        { "text": "C. Kecelakaan hanya disebabkan satu pekerja", "isCorrect": false },
+        { "text": "D. Kecelakaan tidak dapat dicegah sama sekali", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Swiss Cheese Model", "back": "Model yang menjelaskan kecelakaan terjadi akibat sejajarnya lubang (kelemahan) pada berbagai lapisan sistem pertahanan sehingga bahaya menembus seluruh sistem.", "tag": "Swiss Cheese Model" },
+    { "front": "Empat lapisan Swiss Cheese Model", "back": "Organizational Influence, Supervisory Factors, Preconditions for Unsafe Acts, dan Unsafe Act.", "tag": "Swiss Cheese Model" },
+    { "front": "Organizational Influence", "back": "Faktor level organisasi yang memengaruhi sistem keselamatan: kebijakan, budaya, sumber daya. Contoh: tidak ada prosedur/pelatihan/sarana K3.", "tag": "Swiss Cheese Model" },
+    { "front": "Supervisory Factors", "back": "Kegagalan fungsi pengawasan supervisor. Contoh: kurang pengawasan, instruksi kerja salah, tidak menindak pelanggaran K3.", "tag": "Swiss Cheese Model" },
+    { "front": "Preconditions for Unsafe Acts", "back": "Kondisi yang memengaruhi kesiapan pekerja sebelum bertindak. Contoh: kelelahan, stres kerja, paparan kebisingan.", "tag": "Swiss Cheese Model" },
+    { "front": "Unsafe Act", "back": "Tindakan langsung pekerja yang tidak aman dan berpotensi menyebabkan kecelakaan. Terdiri dari errors dan violation.", "tag": "Unsafe Act: Errors & Violation" },
+    { "front": "Errors vs Violation", "back": "Errors = tidak disengaja (salah operasi, lupa prosedur). Violation = disengaja (tidak pakai APD, langgar SOP, shortcut).", "tag": "Unsafe Act: Errors & Violation" },
+    { "front": "Bow-Tie Model", "back": "Model analisis risiko berbentuk dasi kupu-kupu yang menyatukan analisis penyebab (kiri) dan dampak (kanan) dengan top event di tengah.", "tag": "Bow-Tie Model" },
+    { "front": "Hazard (Bow-Tie)", "back": "Unsafe act dan unsafe condition yang berpotensi menimbulkan insiden. Contoh: pipa gas berkarat, muatan overload.", "tag": "Hazard, Threats, Top Event, Consequences" },
+    { "front": "Threats (Bow-Tie)", "back": "Faktor pemicu lepasnya hazard menjadi tidak terkendali. Contoh: tekanan gas berlebih, angin kencang, hujan deras.", "tag": "Hazard, Threats, Top Event, Consequences" },
+    { "front": "Top Event", "back": "Kejadian puncak akibat gagalnya pengendalian, berada di tengah Bow-Tie. Contoh: kebocoran gas, tumpahan minyak, material jatuh.", "tag": "Hazard, Threats, Top Event, Consequences" },
+    { "front": "Consequences", "back": "Dampak yang muncul setelah top event. Contoh: keracunan gas, pencemaran air laut, tertimpa material.", "tag": "Hazard, Threats, Top Event, Consequences" },
+    { "front": "Preventive Controls", "back": "Pengendalian sisi pencegahan untuk mencegah top event. Contoh: inspeksi rutin, bahan anti karat, safety valve.", "tag": "Preventive & Mitigative Controls" },
+    { "front": "Mitigative Controls", "back": "Pengendalian sisi mitigasi/pemulihan untuk mengurangi dampak setelah top event. Contoh: alarm deteksi gas, ventilasi darurat, jalur evakuasi, emergency stop.", "tag": "Preventive & Mitigative Controls" },
+    { "front": "Drift into Failure", "back": "Model yang menjelaskan kecelakaan sebagai hasil pergeseran bertahap dari praktik aman menuju kondisi semakin berisiko, bukan kejadian mendadak.", "tag": "Drift into Failure" },
+    { "front": "Enam fase Drift into Failure", "back": "Safe Practices, Initial Compliance, Small Deviations, Normalization of Deviance, Warning System Ignored, Failure.", "tag": "Drift into Failure" },
+    { "front": "Safe Practices & Safe Boundary", "back": "Kondisi baseline aman: pekerjaan mengikuti regulasi & SOP, sistem berada dalam batas aman (safe boundary).", "tag": "Drift into Failure" },
+    { "front": "Normalization of Deviance", "back": "Fase di mana penyimpangan dianggap wajar/normal. Contoh: bekerja tanpa SOP, audit tak pernah dilakukan, kerja berisiko tinggi tanpa ijin kerja.", "tag": "Normalization of Deviance" },
+    { "front": "Warning System Ignored", "back": "Fase ketika tanda awal bahaya (near miss, keluhan kesehatan, kerusakan alat) muncul tetapi diabaikan.", "tag": "Fase Failure & Nearmiss" },
+    { "front": "Failure & Near Miss", "back": "Failure = kegagalan sistem berdampak nyata (kecelakaan, PAK, kerusakan alat). Near miss = kejadian hampir celaka yang menjadi sinyal peringatan dini.", "tag": "Fase Failure & Nearmiss" }
+  ],
+  "mindmap": [
+    { "id": "teori-kecelakaan", "label": "Teori Kecelakaan Kerja", "color": "#6366f1", "parent": null, "content": "Kumpulan model yang menjelaskan bagaimana kecelakaan kerja terjadi: Swiss Cheese, Bow-Tie, dan Drift into Failure." },
+    { "id": "swiss-cheese", "label": "Swiss Cheese Model", "color": "#8b5cf6", "parent": "teori-kecelakaan", "content": "Kecelakaan terjadi akibat kombinasi kegagalan pada berbagai lapisan pertahanan; saat lubang antar lapisan sejajar, bahaya menembus sistem." },
+    { "id": "sc-organizational", "label": "Organizational Influence", "color": "#8b5cf6", "parent": "swiss-cheese", "content": "Faktor level organisasi: kebijakan, budaya, sumber daya, struktur manajemen. Contoh: tidak ada prosedur/pelatihan/sarana K3." },
+    { "id": "sc-supervisory", "label": "Supervisory Factors", "color": "#8b5cf6", "parent": "swiss-cheese", "content": "Kelemahan fungsi pengawasan supervisor. Contoh: kurang pengawasan, instruksi kerja salah, tidak menindak pelanggaran." },
+    { "id": "sc-precondition", "label": "Preconditions Unsafe Acts", "color": "#8b5cf6", "parent": "swiss-cheese", "content": "Kondisi yang memengaruhi kesiapan pekerja sebelum bertindak. Contoh: kelelahan, stres kerja, paparan kebisingan." },
+    { "id": "sc-unsafe-act", "label": "Unsafe Act", "color": "#8b5cf6", "parent": "swiss-cheese", "content": "Tindakan langsung pekerja yang tidak aman, lapisan paling dekat dengan kejadian kecelakaan." },
+    { "id": "unsafe-act", "label": "Unsafe Act: Errors & Violation", "color": "#0ea5e9", "parent": "teori-kecelakaan", "content": "Tindakan tidak aman pekerja terbagi menjadi kesalahan tidak disengaja dan pelanggaran disengaja." },
+    { "id": "ua-errors", "label": "Errors", "color": "#0ea5e9", "parent": "unsafe-act", "content": "Tindakan tidak aman yang tidak disengaja. Contoh: salah mengoperasikan alat, lupa prosedur." },
+    { "id": "ua-violation", "label": "Violation", "color": "#0ea5e9", "parent": "unsafe-act", "content": "Tindakan tidak aman yang disengaja. Contoh: tidak memakai APD, melanggar SOP, mengambil shortcut." },
+    { "id": "ua-blame", "label": "Bukan Blame Culture", "color": "#0ea5e9", "parent": "unsafe-act", "content": "Teori modern menekankan perbaikan sistem, bukan hanya menyalahkan pekerja yang melakukan unsafe act." },
+    { "id": "bow-tie", "label": "Bow-Tie Model", "color": "#10b981", "parent": "teori-kecelakaan", "content": "Diagram dasi kupu-kupu yang menyatukan analisis penyebab (kiri) dan dampak (kanan) dengan top event di tengah." },
+    { "id": "bt-hazard", "label": "Hazard", "color": "#10b981", "parent": "bow-tie", "content": "Unsafe act dan unsafe condition yang berpotensi menimbulkan insiden. Contoh: pipa gas berkarat, muatan overload." },
+    { "id": "bt-threats", "label": "Threats", "color": "#10b981", "parent": "bow-tie", "content": "Faktor pemicu lepasnya hazard menjadi tidak terkendali. Contoh: tekanan gas berlebih, angin kencang, hujan deras." },
+    { "id": "bt-top-event", "label": "Top Event", "color": "#10b981", "parent": "bow-tie", "content": "Kejadian puncak akibat gagalnya pengendalian. Contoh: kebocoran gas, tumpahan minyak, material jatuh." },
+    { "id": "bt-consequences", "label": "Consequences", "color": "#10b981", "parent": "bow-tie", "content": "Dampak setelah top event. Contoh: keracunan gas, pencemaran air laut, tertimpa material." },
+    { "id": "controls", "label": "Preventive & Mitigative Controls", "color": "#f59e0b", "parent": "teori-kecelakaan", "content": "Mekanisme pengendalian dalam Bow-Tie: mencegah top event dan mengurangi dampak setelahnya." },
+    { "id": "ctrl-preventive", "label": "Preventive Controls", "color": "#f59e0b", "parent": "controls", "content": "Sisi pencegahan, antara threats dan top event. Contoh: inspeksi rutin, bahan anti karat, safety valve." },
+    { "id": "ctrl-mitigative", "label": "Mitigative Controls", "color": "#f59e0b", "parent": "controls", "content": "Sisi mitigasi, antara top event dan consequences. Contoh: alarm deteksi gas, ventilasi darurat, jalur evakuasi, emergency stop." },
+    { "id": "ctrl-barriers", "label": "Pertahanan Berlapis", "color": "#f59e0b", "parent": "controls", "content": "Beberapa control diterapkan berlapis (multiple barriers) agar bila satu gagal, lapisan lain masih menahan bahaya." },
+    { "id": "drift", "label": "Drift into Failure", "color": "#ef4444", "parent": "teori-kecelakaan", "content": "Kecelakaan adalah hasil pergeseran bertahap dari praktik aman menuju kondisi semakin berisiko, bukan kejadian mendadak." },
+    { "id": "drift-safe", "label": "Safe Practices", "color": "#ef4444", "parent": "drift", "content": "Kondisi baseline aman: pekerjaan mengikuti regulasi dan SOP dalam safe boundary. Contoh: semua kerja ada SOP, SMK3, ijin kerja." },
+    { "id": "drift-compliance", "label": "Initial Compliance", "color": "#ef4444", "parent": "drift", "content": "Fase stabil di mana Safe Practices dijalankan sepenuhnya. Contoh: kerja sesuai SOP, audit SMK3 rutin, ajukan ijin kerja." },
+    { "id": "drift-small-dev", "label": "Small Deviations", "color": "#ef4444", "parent": "drift", "content": "Fase penyimpangan kecil. Contoh: beberapa pekerja mengabaikan SOP, audit K3 jarang dilakukan." },
+    { "id": "drift-warning", "label": "Warning System Ignored", "color": "#ef4444", "parent": "drift", "content": "Tanda awal bahaya muncul tapi diabaikan. Contoh: near miss, keluhan kesehatan, tanda kerusakan alat." },
+    { "id": "norm-deviance", "label": "Normalization of Deviance", "color": "#ec4899", "parent": "teori-kecelakaan", "content": "Fase ketika penyimpangan dianggap wajar/normal oleh individu atau organisasi." },
+    { "id": "nd-contoh", "label": "Contoh Normalisasi", "color": "#ec4899", "parent": "norm-deviance", "content": "Bekerja tanpa SOP, audit K3 tidak pernah dilakukan, pekerjaan berisiko tinggi tanpa ijin kerja." },
+    { "id": "nd-bahaya", "label": "Mengapa Berbahaya", "color": "#ec4899", "parent": "norm-deviance", "content": "Organisasi kehilangan kepekaan terhadap risiko sehingga mendekati kegagalan tanpa disadari." },
+    { "id": "failure-nearmiss", "label": "Failure & Near Miss", "color": "#14b8a6", "parent": "teori-kecelakaan", "content": "Tahap akhir Drift into Failure beserta sinyal peringatan dini berupa near miss." },
+    { "id": "fn-failure", "label": "Failure", "color": "#14b8a6", "parent": "failure-nearmiss", "content": "Kegagalan sistem berdampak nyata. Contoh: kecelakaan kerja, penyakit akibat kerja, kerusakan alat." },
+    { "id": "fn-nearmiss", "label": "Near Miss", "color": "#14b8a6", "parent": "failure-nearmiss", "content": "Kejadian hampir celaka tanpa cedera, menjadi sinyal peringatan dini bahwa sistem bergeser menuju kegagalan." },
+    { "id": "fn-tindaklanjut", "label": "Tindak Lanjut", "color": "#14b8a6", "parent": "failure-nearmiss", "content": "Menanggapi tanda peringatan dini dan mencegah penyimpangan menjadi normal untuk menghindari Failure." }
+  ]
+}

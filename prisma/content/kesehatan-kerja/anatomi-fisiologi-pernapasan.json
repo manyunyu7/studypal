@@ -1,0 +1,1695 @@
+{
+  "topic": "Anatomi & Fisiologi Sistem Pernapasan",
+  "order": 1,
+  "description": "Sistem pernapasan (respirasi) berfungsi mengambil oksigen dari atmosfer untuk metabolisme sel dan mengeluarkan karbon dioksida sebagai sisa metabolisme. Materi ini mencakup struktur anatomi saluran napas atas hingga alveolus, otot pernapasan dan pleura, mekanisme ventilasi, pertukaran dan transport gas, volume kapasitas paru, serta pengaturan pernapasan.",
+  "subtopics": [
+    "Definisi & Fungsi Respirasi",
+    "Saluran Napas Atas",
+    "Saluran Napas Bawah",
+    "Paru & Alveolus",
+    "Otot & Pleura",
+    "Mekanisme Pernapasan",
+    "Pertukaran & Transport Gas",
+    "Volume & Kapasitas Paru",
+    "Pengaturan Pernapasan"
+  ],
+  "questions": [
+    {
+      "text": "Apa fungsi utama sistem respirasi?",
+      "explanation": "Sistem respirasi berfungsi memperoleh oksigen dari atmosfer untuk digunakan sel tubuh dan mengeluarkan karbon dioksida hasil metabolisme.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Respirasi",
+      "options": [
+        { "text": "A. Memompa darah ke seluruh tubuh", "isCorrect": false },
+        { "text": "B. Mengambil oksigen dan membuang karbon dioksida", "isCorrect": true },
+        { "text": "C. Mencerna makanan menjadi energi", "isCorrect": false },
+        { "text": "D. Menyaring darah dari zat sisa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gas yang diambil sistem respirasi untuk dibawa darah ke sel-sel tubuh agar terjadi metabolisme adalah?",
+      "explanation": "Oksigen (O2) diambil dari udara lalu dibawa darah ke seluruh sel tubuh untuk mengadakan metabolisme.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Respirasi",
+      "options": [
+        { "text": "A. Karbon dioksida (CO2)", "isCorrect": false },
+        { "text": "B. Nitrogen (N2)", "isCorrect": false },
+        { "text": "C. Oksigen (O2)", "isCorrect": true },
+        { "text": "D. Hidrogen (H2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gas sisa metabolisme yang dibawa darah ke paru-paru untuk dibuang adalah?",
+      "explanation": "Karbon dioksida (CO2) terjadi sebagai sisa metabolisme, lalu dibawa darah ke paru-paru untuk dibuang.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Respirasi",
+      "options": [
+        { "text": "A. Oksigen (O2)", "isCorrect": false },
+        { "text": "B. Karbon dioksida (CO2)", "isCorrect": true },
+        { "text": "C. Uap air murni", "isCorrect": false },
+        { "text": "D. Ozon (O3)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain fungsi respiratorik (pertukaran gas), sistem respirasi juga memiliki fungsi?",
+      "explanation": "Sistem respirasi memiliki fungsi non-respiratorik, antara lain pembentukan suara, penyaringan udara, dan pengaturan suhu/kelembapan udara.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Respirasi",
+      "options": [
+        { "text": "A. Non-respiratorik seperti pembentukan suara", "isCorrect": true },
+        { "text": "B. Memproduksi sel darah merah", "isCorrect": false },
+        { "text": "C. Menghasilkan insulin", "isCorrect": false },
+        { "text": "D. Menyimpan kalsium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Struktur sistem respirasi dibedakan menjadi struktur utama dan struktur pelengkap. Yang termasuk struktur pelengkap adalah?",
+      "explanation": "Struktur utama meliputi saluran napas atas, bawah, dan paru; struktur pelengkap meliputi otot pernapasan dan pleura.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Respirasi",
+      "options": [
+        { "text": "A. Trakea dan bronkus", "isCorrect": false },
+        { "text": "B. Hidung dan faring", "isCorrect": false },
+        { "text": "C. Otot pernapasan dan pleura", "isCorrect": true },
+        { "text": "D. Paru dan alveolus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang termasuk struktur utama sistem respirasi adalah?",
+      "explanation": "Struktur utama sistem respirasi terdiri atas saluran pernapasan atas, saluran pernapasan bawah, dan paru.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Respirasi",
+      "options": [
+        { "text": "A. Saluran napas atas, saluran napas bawah, dan paru", "isCorrect": true },
+        { "text": "B. Otot pernapasan dan pleura saja", "isCorrect": false },
+        { "text": "C. Jantung dan pembuluh darah", "isCorrect": false },
+        { "text": "D. Diafragma dan tulang iga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Organ-organ yang termasuk saluran pernapasan atas adalah?",
+      "explanation": "Saluran pernapasan atas meliputi hidung, sinus paranasal, nasal cavity (rongga hidung), faring, dan laring.",
+      "difficulty": "EASY",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Trakea, bronkus, bronkiolus", "isCorrect": false },
+        { "text": "B. Hidung, sinus paranasal, faring, laring", "isCorrect": true },
+        { "text": "C. Alveolus dan duktus alveolaris", "isCorrect": false },
+        { "text": "D. Pleura dan diafragma", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rongga hidung dimulai dari bagian anterior berupa?",
+      "explanation": "Rongga hidung dimulai dari vestibulum pada bagian anterior ke bagian posterior yang berbatasan dengan nasofaring.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Nasofaring", "isCorrect": false },
+        { "text": "B. Vestibulum", "isCorrect": true },
+        { "text": "C. Konka inferior", "isCorrect": false },
+        { "text": "D. Septum nasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rongga hidung secara longitudinal dibagi menjadi dua bagian oleh?",
+      "explanation": "Secara longitudinal rongga hidung terbagi dua oleh septum hidung, sedangkan secara transversal oleh konka superior, medialis, dan inferior.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Konka superior", "isCorrect": false },
+        { "text": "B. Septum hidung", "isCorrect": true },
+        { "text": "C. Vestibulum", "isCorrect": false },
+        { "text": "D. Epiglotis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Struktur di dalam rongga hidung yang membagi rongga secara transversal adalah?",
+      "explanation": "Secara transversal rongga hidung dibagi oleh konka superior, medialis, dan inferior.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Konka superior, medialis, dan inferior", "isCorrect": true },
+        { "text": "B. Septum hidung", "isCorrect": false },
+        { "text": "C. Sinus paranasal", "isCorrect": false },
+        { "text": "D. Vestibulum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada fungsi preventif hidung, hanya udara dengan partikel berukuran berapa yang dapat masuk ke saluran bawah?",
+      "explanation": "Silia menyaring partikel benda asing yang ditangkap di konka superior; hanya udara berpartikel 4-6 mikron yang bisa masuk ke bawah.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. 40-60 mikron", "isCorrect": false },
+        { "text": "B. 4-6 mikron", "isCorrect": true },
+        { "text": "C. 0,3 mikron", "isCorrect": false },
+        { "text": "D. 100-200 mikron", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian rongga hidung yang berperan sebagai penyaring/penapis udara dari debu adalah?",
+      "explanation": "Rambut/bulu hidung di dalam rongga hidung berperan sebagai penapis (penyaring) udara dari debu.",
+      "difficulty": "EASY",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Bulu/rambut hidung", "isCorrect": true },
+        { "text": "B. Septum hidung", "isCorrect": false },
+        { "text": "C. Sinus frontalis", "isCorrect": false },
+        { "text": "D. Tulang rawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi lubrikasi rongga hidung agar jalan napas tidak kering berasal dari?",
+      "explanation": "Lubrikasi berasal dari kelenjar submukosa dan sel goblet sehingga jalan napas tidak menjadi kering.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Sel silia", "isCorrect": false },
+        { "text": "B. Kelenjar submukosa dan sel goblet", "isCorrect": true },
+        { "text": "C. Tulang rawan septum", "isCorrect": false },
+        { "text": "D. Otot polos", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi rongga hidung sebagai pemanas dan pendingin udara dimungkinkan karena?",
+      "explanation": "Kayanya vaskularisasi di dalam rongga hidung berfungsi sebagai konduksi panas, dibantu perputaran udara inspirasi dan ekspirasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Kaya vaskularisasi (pembuluh darah)", "isCorrect": true },
+        { "text": "B. Banyak otot polos", "isCorrect": false },
+        { "text": "C. Lapisan kartilago tebal", "isCorrect": false },
+        { "text": "D. Banyak kelenjar keringat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faring terbagi menjadi tiga bagian. Bagian yang berbatasan dengan rongga hidung disebut?",
+      "explanation": "Faring terdiri dari nasofaring (berbatasan rongga hidung), orofaring (berbatasan rongga mulut), dan laringofaring (berbatasan laring).",
+      "difficulty": "EASY",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Orofaring", "isCorrect": false },
+        { "text": "B. Nasofaring", "isCorrect": true },
+        { "text": "C. Laringofaring", "isCorrect": false },
+        { "text": "D. Hipofaring", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian faring yang berbatasan dengan rongga mulut adalah?",
+      "explanation": "Orofaring adalah bagian faring yang berbatasan dengan rongga mulut.",
+      "difficulty": "EASY",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Nasofaring", "isCorrect": false },
+        { "text": "B. Orofaring", "isCorrect": true },
+        { "text": "C. Laringofaring", "isCorrect": false },
+        { "text": "D. Epifaring", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada faring terjadi proses penting berupa?",
+      "explanation": "Faring adalah bagian dimana pemisahan antara makanan dan udara terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Pertukaran gas O2 dan CO2", "isCorrect": false },
+        { "text": "B. Pemisahan antara makanan dan udara", "isCorrect": true },
+        { "text": "C. Produksi surfaktan", "isCorrect": false },
+        { "text": "D. Penyaringan partikel 4-6 mikron", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi utama laring adalah sebagai?",
+      "explanation": "Fungsi utama laring adalah sebagai alat suara, di samping menjadi jalan udara dalam saluran pernapasan.",
+      "difficulty": "EASY",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Alat suara", "isCorrect": true },
+        { "text": "B. Pertukaran gas", "isCorrect": false },
+        { "text": "C. Pencernaan makanan", "isCorrect": false },
+        { "text": "D. Produksi mukus saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kerangka laring tersusun atas berapa kartilago?",
+      "explanation": "Kerangka laring terdiri dari sembilan kartilago: tiga tunggal (tiroid, krikoid, epiglotis) dan tiga berpasangan (aritenoid, kornikulata, kuneiform).",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Tiga kartilago", "isCorrect": false },
+        { "text": "B. Lima kartilago", "isCorrect": false },
+        { "text": "C. Sembilan kartilago", "isCorrect": true },
+        { "text": "D. Dua belas kartilago", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kartilago tunggal laring yang dikenal sebagai adam's apple adalah?",
+      "explanation": "Kartilago tiroid (thyroid) merupakan adam's apple, salah satu dari tiga kartilago tunggal laring bersama krikoid dan epiglotis.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Krikoid", "isCorrect": false },
+        { "text": "B. Tiroid", "isCorrect": true },
+        { "text": "C. Aritenoid", "isCorrect": false },
+        { "text": "D. Kuneiform", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada saat makan, struktur yang menutupi glotis untuk mencegah makanan masuk ke laring adalah?",
+      "explanation": "Epiglotis terdorong menutup glotis saat menelan sehingga makanan/benda asing tidak masuk ke laring.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Konka", "isCorrect": false },
+        { "text": "B. Epiglotis", "isCorrect": true },
+        { "text": "C. Septum", "isCorrect": false },
+        { "text": "D. Vestibulum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tindakan trakeostomi yang dilakukan di bawah tulang krikoid bertujuan untuk?",
+      "explanation": "Trakeostomi bertujuan mengurangi dead space (ruang mati) dan mempermudah penghisapan sekresi.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Menambah produksi surfaktan", "isCorrect": false },
+        { "text": "B. Mengurangi dead space dan mempermudah penghisapan sekresi", "isCorrect": true },
+        { "text": "C. Menutup glotis", "isCorrect": false },
+        { "text": "D. Memanaskan udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Organ-organ yang termasuk saluran pernapasan bawah adalah?",
+      "explanation": "Saluran pernapasan bawah terdiri dari trakea, bronkus, bronkiolus, dan alveoli.",
+      "difficulty": "EASY",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Hidung, faring, laring", "isCorrect": false },
+        { "text": "B. Trakea, bronkus, bronkiolus, alveoli", "isCorrect": true },
+        { "text": "C. Sinus paranasal dan konka", "isCorrect": false },
+        { "text": "D. Pleura dan diafragma", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa panjang trakea menurut materi?",
+      "explanation": "Trakea memiliki panjang sekitar 10-20 cm dan dibentuk oleh sekitar 20 lapis kartilago berbentuk huruf C.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. 1-2 cm", "isCorrect": false },
+        { "text": "B. 5-7 cm", "isCorrect": false },
+        { "text": "C. 10-20 cm", "isCorrect": true },
+        { "text": "D. 30-40 cm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cincin tulang rawan yang membentuk trakea berbentuk?",
+      "explanation": "Trakea dibentuk oleh cincin tulang rawan yang tidak lengkap, berbentuk huruf U atau C.",
+      "difficulty": "EASY",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Huruf O (cincin penuh)", "isCorrect": false },
+        { "text": "B. Huruf U/C (tidak lengkap)", "isCorrect": true },
+        { "text": "C. Segitiga", "isCorrect": false },
+        { "text": "D. Persegi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian trakea yang tidak berkartilago dan berada di posterior disebut?",
+      "explanation": "Bagian trakea yang tidak berkartilago disebut trakea membranosa, terletak di posterior.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Karina", "isCorrect": false },
+        { "text": "B. Trakea membranosa", "isCorrect": true },
+        { "text": "C. Bifurkasi", "isCorrect": false },
+        { "text": "D. Bronkiolus terminalis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada ketinggian vertebra torakalis berapa trakea bercabang dua menjadi bronkus utama kanan dan kiri?",
+      "explanation": "Pada ketinggian vertebra torakalis 4, trakea bercabang dua di karina menjadi bronkus utama kanan dan kiri.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Vertebra torakalis 1", "isCorrect": false },
+        { "text": "B. Vertebra torakalis 4", "isCorrect": true },
+        { "text": "C. Vertebra torakalis 8", "isCorrect": false },
+        { "text": "D. Vertebra lumbalis 2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sudut tajam yang dibentuk oleh percabangan trakea menjadi dua bronkus disebut?",
+      "explanation": "Percabangan trakea disebut bifurkasi, dan sudut tajam yang dibentuk percabangan ini disebut karina.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Karina", "isCorrect": true },
+        { "text": "B. Hilus", "isCorrect": false },
+        { "text": "C. Asinus", "isCorrect": false },
+        { "text": "D. Septum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa sudut yang dibentuk karina pada bronkus utama kanan?",
+      "explanation": "Karina membentuk sudut 45-55 derajat pada bronkus kanan dan 20-30 derajat pada bronkus kiri, sehingga benda asing lebih mudah masuk bronkus kanan.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. 20-30 derajat", "isCorrect": false },
+        { "text": "B. 45-55 derajat", "isCorrect": true },
+        { "text": "C. 90 derajat", "isCorrect": false },
+        { "text": "D. 10-15 derajat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah percabangan bronkus utama kanan?",
+      "explanation": "Bronkus utama kanan mempunyai 3 percabangan yakni superior, medialis, dan inferior; bronkus utama kiri mempunyai 2 percabangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. 2 percabangan", "isCorrect": false },
+        { "text": "B. 3 percabangan", "isCorrect": true },
+        { "text": "C. 4 percabangan", "isCorrect": false },
+        { "text": "D. 5 percabangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah percabangan bronkus utama kiri?",
+      "explanation": "Bronkus utama kiri mempunyai 2 percabangan yaitu bronkus lobaris superior dan inferior.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. 1 percabangan", "isCorrect": false },
+        { "text": "B. 2 percabangan", "isCorrect": true },
+        { "text": "C. 3 percabangan", "isCorrect": false },
+        { "text": "D. 4 percabangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sifat anatomik bronkus antara lain memiliki diameter?",
+      "explanation": "Bronkus ditopang cincin kartilago, dilapisi epitel kolumnar bersilia, mengandung otot polos, berdiameter lebih dari 2 mm, dan tidak ada alveoli di dindingnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Lebih dari 2 mm", "isCorrect": true },
+        { "text": "B. Kurang dari 0,3 mm", "isCorrect": false },
+        { "text": "C. Tepat 0,3 mm", "isCorrect": false },
+        { "text": "D. 10-20 cm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bronkus dapat berdilatasi dan berkontraksi sebagai respon terhadap rangsangan karena dipersarafi oleh?",
+      "explanation": "Bronkus merupakan saluran berotot dengan inervasi vagal yang membuatnya dapat berdilatasi dan berkontraksi terhadap rangsangan neurohumoral dan kimia.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Nervus frenikus", "isCorrect": false },
+        { "text": "B. Inervasi vagal (saraf vagus)", "isCorrect": true },
+        { "text": "C. Nervus optikus", "isCorrect": false },
+        { "text": "D. Saraf simpatis sakral", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Vaskularisasi (suplai darah) bronkus berasal dari?",
+      "explanation": "Bronkus mendapat vaskularisasi dari arteri bronkialis yang berperan menyediakan bahan makanan bagi paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Arteri pulmonalis", "isCorrect": false },
+        { "text": "B. Arteri bronkialis", "isCorrect": true },
+        { "text": "C. Arteri koronaria", "isCorrect": false },
+        { "text": "D. Arteri karotis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat paru kolaps, bagian saluran napas yang tetap paten (terbuka) adalah?",
+      "explanation": "Pada saat paru kolaps, bronkus besar tetap paten, sedangkan bronkus kecil, bronkiolus, dan alveolus ikut kolaps.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Alveolus", "isCorrect": false },
+        { "text": "B. Bronkus besar", "isCorrect": true },
+        { "text": "C. Bronkiolus", "isCorrect": false },
+        { "text": "D. Bronkus kecil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bronkiolus paling ujung (distal) disebut?",
+      "explanation": "Bronkiolus paling ujung disebut bronkiolus terminalis; 3-5 bronkiolus terminalis membentuk satu asinus.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Bronkiolus respiratorius", "isCorrect": false },
+        { "text": "B. Bronkiolus terminalis", "isCorrect": true },
+        { "text": "C. Duktus alveolaris", "isCorrect": false },
+        { "text": "D. Sakus alveolaris", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa bronkiolus terminalis yang bergabung membentuk satu asinus?",
+      "explanation": "Sebanyak 3-5 bronkiolus terminalis membentuk satu asinus.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. 1-2", "isCorrect": false },
+        { "text": "B. 3-5", "isCorrect": true },
+        { "text": "C. 8-10", "isCorrect": false },
+        { "text": "D. 20-30", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian bronkiolus tempat terjadinya pertukaran gas adalah?",
+      "explanation": "Bronkiolus respiratorius adalah tempat terjadinya pertukaran gas, bersama duktus alveolaris dan sakus alveolaris.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Bronkiolus non-respiratorius", "isCorrect": false },
+        { "text": "B. Bronkiolus respiratorius", "isCorrect": true },
+        { "text": "C. Bronkiolus terminalis", "isCorrect": false },
+        { "text": "D. Trakea membranosa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara fungsional, zona konduksi saluran pernapasan berperan sebagai?",
+      "explanation": "Zona konduksi (hidung, faring, trakea, bronkus, bronkioli) berperan sebagai jalan udara, serta membersihkan, melembabkan, dan menyamakan suhu udara dengan suhu tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Tempat pertukaran gas", "isCorrect": false },
+        { "text": "B. Saluran udara serta membersihkan, melembabkan, dan menyamakan suhu udara", "isCorrect": true },
+        { "text": "C. Memproduksi sel darah merah", "isCorrect": false },
+        { "text": "D. Memompa darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Zona respiratorik saluran pernapasan terdiri dari?",
+      "explanation": "Zona respiratorik terdiri dari bronkiolus respiratorius dan alveoli, tempat pertukaran gas antara udara dan darah terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Hidung dan faring", "isCorrect": false },
+        { "text": "B. Trakea dan bronkus utama", "isCorrect": false },
+        { "text": "C. Bronkiolus respiratorius dan alveoli", "isCorrect": true },
+        { "text": "D. Laring dan epiglotis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah lobus paru kanan?",
+      "explanation": "Paru kanan terdiri atas 3 lobus dan 10 segmen.",
+      "difficulty": "EASY",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. 1 lobus", "isCorrect": false },
+        { "text": "B. 2 lobus", "isCorrect": false },
+        { "text": "C. 3 lobus", "isCorrect": true },
+        { "text": "D. 4 lobus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah lobus paru kiri?",
+      "explanation": "Paru kiri terdiri atas 2 lobus dan 8 segmen, lebih sedikit dari paru kanan karena ditempati jantung.",
+      "difficulty": "EASY",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. 2 lobus", "isCorrect": true },
+        { "text": "B. 3 lobus", "isCorrect": false },
+        { "text": "C. 4 lobus", "isCorrect": false },
+        { "text": "D. 5 lobus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah segmen paru kanan?",
+      "explanation": "Paru kanan memiliki 3 lobus dan 10 segmen, sedangkan paru kiri 2 lobus dan 8 segmen.",
+      "difficulty": "MEDIUM",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. 8 segmen", "isCorrect": false },
+        { "text": "B. 10 segmen", "isCorrect": true },
+        { "text": "C. 5 segmen", "isCorrect": false },
+        { "text": "D. 3 segmen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dinding alveolus dibentuk oleh dua macam sel, yaitu sel alveolar tipe I dan tipe II. Sel alveolar tipe I berfungsi untuk?",
+      "explanation": "Sel alveolar tipe I (pneumosit tipe I/sel pneumosit skuamosa) merupakan tempat pertukaran gas menembus dindingnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. Menghasilkan surfaktan", "isCorrect": false },
+        { "text": "B. Tempat pertukaran gas menembus dinding", "isCorrect": true },
+        { "text": "C. Memproduksi mukus", "isCorrect": false },
+        { "text": "D. Menghasilkan sel darah merah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sel alveolar tipe II (pneumosit tipe II / granular pneumocyte) bertugas?",
+      "explanation": "Sel alveolar tipe II disebut juga granular pneumocyte, bertugas menghasilkan surfaktan.",
+      "difficulty": "MEDIUM",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. Menghasilkan surfaktan", "isCorrect": true },
+        { "text": "B. Pertukaran gas", "isCorrect": false },
+        { "text": "C. Menyaring debu", "isCorrect": false },
+        { "text": "D. Membentuk tulang rawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa kira-kira jumlah gelembung alveoli pada paru?",
+      "explanation": "Terdapat lebih dari 300 juta gelembung alveoli dengan diameter sekitar 0,3 mm.",
+      "difficulty": "HARD",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. Lebih dari 300 juta", "isCorrect": true },
+        { "text": "B. Sekitar 3 ribu", "isCorrect": false },
+        { "text": "C. Sekitar 300", "isCorrect": false },
+        { "text": "D. Sekitar 30 juta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa diameter gelembung alveoli?",
+      "explanation": "Gelembung alveoli memiliki diameter sekitar 0,3 mm.",
+      "difficulty": "MEDIUM",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. 3 mm", "isCorrect": false },
+        { "text": "B. 0,3 mm", "isCorrect": true },
+        { "text": "C. 30 mm", "isCorrect": false },
+        { "text": "D. 0,03 mm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Zat yang menurunkan tegangan muka cairan di dinding alveoli sehingga gelembung tidak mudah kolaps adalah?",
+      "explanation": "Surfaktan menurunkan tegangan muka cairan di dinding alveoli sehingga gelembung tidak mudah kolaps, melainkan mengembang dan stabil.",
+      "difficulty": "MEDIUM",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. Mukus", "isCorrect": false },
+        { "text": "B. Surfaktan", "isCorrect": true },
+        { "text": "C. Hemoglobin", "isCorrect": false },
+        { "text": "D. Cairan pleura", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanpa surfaktan, gelembung alveoli cenderung kolaps karena adanya?",
+      "explanation": "Tegangan muka (tegangan permukaan) cairan yang melapisi alveoli menyebabkan gelembung cenderung kolaps tanpa surfaktan.",
+      "difficulty": "HARD",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. Tegangan muka cairan yang melapisi alveoli", "isCorrect": true },
+        { "text": "B. Tekanan udara atmosfer", "isCorrect": false },
+        { "text": "C. Kontraksi otot polos", "isCorrect": false },
+        { "text": "D. Inervasi vagal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot pernapasan tersusun atas jenis otot?",
+      "explanation": "Otot-otot pernapasan terdiri atas otot skelet (otot rangka); inspirasi merupakan usaha aktif yang membutuhkan kontraksi otot.",
+      "difficulty": "MEDIUM",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Otot polos", "isCorrect": false },
+        { "text": "B. Otot jantung", "isCorrect": false },
+        { "text": "C. Otot skelet (rangka)", "isCorrect": true },
+        { "text": "D. Otot involunter saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang termasuk otot inspirasi utama adalah?",
+      "explanation": "Otot inspirasi utama adalah otot interkostalis interna dan otot diafragma, yang berkontraksi saat bernapas tenang.",
+      "difficulty": "MEDIUM",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Otot skalenus dan sternokleidomastoideus", "isCorrect": false },
+        { "text": "B. Otot interkostalis interna dan diafragma", "isCorrect": true },
+        { "text": "C. Otot oblikus eksterna dan rektus abdominis", "isCorrect": false },
+        { "text": "D. Otot jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot inspirasi tambahan (otot bantu napas) antara lain adalah?",
+      "explanation": "Otot inspirasi tambahan/bantu napas meliputi otot skalenus dan otot sternokleidomastoideus.",
+      "difficulty": "MEDIUM",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Diafragma dan interkostalis interna", "isCorrect": false },
+        { "text": "B. Skalenus dan sternokleidomastoideus", "isCorrect": true },
+        { "text": "C. Rektus abdominis dan oblikus eksterna", "isCorrect": false },
+        { "text": "D. Otot pleura", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot pernapasan yang paling utama untuk bernapas adalah?",
+      "explanation": "Diafragma merupakan otot yang paling utama untuk bernapas, berupa septum muskulotendineus yang memisahkan rongga toraks dengan rongga abdomen.",
+      "difficulty": "EASY",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Otot skalenus", "isCorrect": false },
+        { "text": "B. Diafragma", "isCorrect": true },
+        { "text": "C. Otot rektus abdominis", "isCorrect": false },
+        { "text": "D. Otot sternokleidomastoideus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Diafragma dipersarafi oleh nervus frenikus yang berasal dari segmen?",
+      "explanation": "Diafragma dipersarafi nervus frenikus yang berasal dari segmen 3, 4, dan 5 (servikal).",
+      "difficulty": "HARD",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Segmen 1 dan 2", "isCorrect": false },
+        { "text": "B. Segmen 3, 4, dan 5", "isCorrect": true },
+        { "text": "C. Segmen 8, 9, dan 10", "isCorrect": false },
+        { "text": "D. Segmen lumbal 1-3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Diafragma adalah septum muskulotendineus yang memisahkan?",
+      "explanation": "Diafragma merupakan septum berupa jaringan muskulotendineus yang memisahkan rongga toraks dengan rongga abdomen, dan menjadi dasar rongga toraks.",
+      "difficulty": "MEDIUM",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Rongga toraks dengan rongga abdomen", "isCorrect": true },
+        { "text": "B. Paru kanan dengan paru kiri", "isCorrect": false },
+        { "text": "C. Rongga hidung dengan faring", "isCorrect": false },
+        { "text": "D. Pleura viseralis dengan parietalis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pernapasan biasa (napas tenang), ekspirasi terjadi karena?",
+      "explanation": "Saat napas biasa, ekspirasi tidak memerlukan kegiatan otot, cukup daya elastisitas paru (rekoil).",
+      "difficulty": "MEDIUM",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Kontraksi kuat otot abdomen", "isCorrect": false },
+        { "text": "B. Daya elastisitas paru (rekoil)", "isCorrect": true },
+        { "text": "C. Kontraksi diafragma", "isCorrect": false },
+        { "text": "D. Penutupan glotis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Active breathing (pernapasan aktif) dengan otot ekspirasi tambahan diperlukan pada kondisi?",
+      "explanation": "Active breathing diperlukan saat serangan asma, berbicara, menyanyi, batuk, bersin, atau mengejan.",
+      "difficulty": "MEDIUM",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Napas tenang saat tidur", "isCorrect": false },
+        { "text": "B. Serangan asma, menyanyi, batuk, atau bersin", "isCorrect": true },
+        { "text": "C. Istirahat duduk biasa", "isCorrect": false },
+        { "text": "D. Saat menahan napas sebentar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang termasuk otot ekspirasi tambahan adalah?",
+      "explanation": "Otot ekspirasi tambahan meliputi muskulus interkostalis interna, muskulus oblikus eksterna, dan muskulus rektus abdominis.",
+      "difficulty": "HARD",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Diafragma dan skalenus", "isCorrect": false },
+        { "text": "B. Muskulus oblikus eksterna dan rektus abdominis", "isCorrect": true },
+        { "text": "C. Sternokleidomastoideus", "isCorrect": false },
+        { "text": "D. Otot jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pleura yang melapisi permukaan paru disebut?",
+      "explanation": "Pleura viseralis melapisi paru, sedangkan pleura parietalis melapisi dinding (hemitoraks).",
+      "difficulty": "EASY",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Pleura parietalis", "isCorrect": false },
+        { "text": "B. Pleura viseralis", "isCorrect": true },
+        { "text": "C. Pleura mediastinalis", "isCorrect": false },
+        { "text": "D. Pleura diafragmatika", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pleura yang melapisi dinding dada (hemitoraks) disebut?",
+      "explanation": "Pleura parietalis melapisi dinding hemitoraks, sedangkan pleura viseralis melapisi paru.",
+      "difficulty": "EASY",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Pleura viseralis", "isCorrect": false },
+        { "text": "B. Pleura parietalis", "isCorrect": true },
+        { "text": "C. Pleura serosa", "isCorrect": false },
+        { "text": "D. Pleura kosta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pleura berasal dari jaringan?",
+      "explanation": "Pleura dibentuk oleh jaringan yang berasal dari mesodermal.",
+      "difficulty": "HARD",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Ektodermal", "isCorrect": false },
+        { "text": "B. Endodermal", "isCorrect": false },
+        { "text": "C. Mesodermal", "isCorrect": true },
+        { "text": "D. Neuroektodermal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cairan pleura dalam rongga pleura pada keadaan normal berfungsi untuk?",
+      "explanation": "Cairan pleura (0,1-0,2 ml/KgBB) berfungsi memisahkan kedua pleura supaya tidak lengket saat paru bergerak.",
+      "difficulty": "MEDIUM",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Memisahkan kedua pleura supaya tidak lengket", "isCorrect": true },
+        { "text": "B. Tempat pertukaran gas", "isCorrect": false },
+        { "text": "C. Menghasilkan surfaktan", "isCorrect": false },
+        { "text": "D. Memompa udara ke alveoli", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah cairan pleura normal dalam rongga pleura?",
+      "explanation": "Pada keadaan normal rongga pleura berisi cairan pleura dalam jumlah sedikit, yaitu sekitar 0,1-0,2 ml/KgBB.",
+      "difficulty": "HARD",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. 0,1-0,2 ml/KgBB", "isCorrect": true },
+        { "text": "B. 10-20 ml/KgBB", "isCorrect": false },
+        { "text": "C. 1-2 liter", "isCorrect": false },
+        { "text": "D. 500 cc", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembuluh darah yang keluar dari ventrikel kanan dan berfungsi dalam sistem respirasi adalah?",
+      "explanation": "Arteri pulmonalis keluar dari ventrikel kanan dan berfungsi dalam sistem respirasi (membawa darah ke paru untuk dioksigenasi).",
+      "difficulty": "MEDIUM",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. Arteri bronkialis", "isCorrect": false },
+        { "text": "B. Arteri pulmonalis", "isCorrect": true },
+        { "text": "C. Arteri karotis", "isCorrect": false },
+        { "text": "D. Arteri aorta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan ventilasi dalam mekanisme pernapasan?",
+      "explanation": "Ventilasi adalah proses masuk dan keluarnya udara akibat gerakan iga/costa dan diafragma yang menyebabkan perbedaan tekanan udara.",
+      "difficulty": "EASY",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Pertukaran gas di alveolus", "isCorrect": false },
+        { "text": "B. Proses masuk dan keluarnya udara", "isCorrect": true },
+        { "text": "C. Pengikatan O2 oleh hemoglobin", "isCorrect": false },
+        { "text": "D. Produksi surfaktan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada proses inspirasi, diafragma dan m. interkostalis eksterna akan?",
+      "explanation": "Saat inspirasi, diafragma dan m. interkostalis eksterna berkontraksi sehingga volume rongga toraks bertambah.",
+      "difficulty": "MEDIUM",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Berkontraksi", "isCorrect": true },
+        { "text": "B. Relaksasi", "isCorrect": false },
+        { "text": "C. Tidak bergerak", "isCorrect": false },
+        { "text": "D. Mengeras menjadi tulang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat inspirasi, ketika volume rongga toraks bertambah, tekanan intrapleura akan?",
+      "explanation": "Saat inspirasi volume toraks bertambah sehingga tekanan intrapleura berkurang, paru berkembang, tekanan intrapulmonal menurun, dan udara masuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Berkurang (lebih negatif)", "isCorrect": true },
+        { "text": "B. Bertambah besar", "isCorrect": false },
+        { "text": "C. Tetap konstan", "isCorrect": false },
+        { "text": "D. Menjadi nol", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada inspirasi, udara masuk ke paru karena tekanan intrapulmonal?",
+      "explanation": "Saat inspirasi paru berkembang dan tekanan intrapulmonal menurun di bawah tekanan atmosfer, sehingga udara masuk ke paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Meninggi di atas atmosfer", "isCorrect": false },
+        { "text": "B. Menurun di bawah atmosfer", "isCorrect": true },
+        { "text": "C. Sama dengan atmosfer", "isCorrect": false },
+        { "text": "D. Tidak berubah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada proses ekspirasi, diafragma dan m. interkostalis eksterna melakukan?",
+      "explanation": "Saat ekspirasi, diafragma dan m. interkostalis eksterna relaksasi sehingga volume rongga toraks berkurang.",
+      "difficulty": "MEDIUM",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Kontraksi kuat", "isCorrect": false },
+        { "text": "B. Relaksasi", "isCorrect": true },
+        { "text": "C. Pembesaran rongga toraks", "isCorrect": false },
+        { "text": "D. Penurunan diafragma", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada ekspirasi, udara keluar dari paru karena tekanan intrapulmonal?",
+      "explanation": "Saat ekspirasi paru mengkerut dan tekanan intrapulmonal meninggi di atas tekanan atmosfer, sehingga udara keluar dari paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Menurun di bawah atmosfer", "isCorrect": false },
+        { "text": "B. Meninggi di atas atmosfer", "isCorrect": true },
+        { "text": "C. Tetap sama dengan atmosfer", "isCorrect": false },
+        { "text": "D. Menjadi negatif penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat menarik napas, agar udara masuk ke paru, kondisi rongga dada adalah?",
+      "explanation": "Saat menarik napas rongga dada membesar dan diafragma ditekan/menurun, sehingga tekanan rongga dada mengecil dan udara masuk.",
+      "difficulty": "EASY",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Rongga dada membesar dan diafragma menurun", "isCorrect": true },
+        { "text": "B. Rongga dada mengecil dan diafragma naik", "isCorrect": false },
+        { "text": "C. Rongga dada tetap dan diafragma kaku", "isCorrect": false },
+        { "text": "D. Glotis tertutup rapat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inspirasi merupakan usaha yang bersifat?",
+      "explanation": "Inspirasi merupakan usaha yang aktif sehingga membutuhkan kontraksi otot pernapasan.",
+      "difficulty": "EASY",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Pasif tanpa otot", "isCorrect": false },
+        { "text": "B. Aktif membutuhkan otot", "isCorrect": true },
+        { "text": "C. Hanya elastisitas paru", "isCorrect": false },
+        { "text": "D. Refleks tanpa energi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "External respiration (respirasi eksternal) adalah pertukaran gas antara?",
+      "explanation": "External respiration adalah pertukaran gas antara alveolus paru dengan pembuluh kapiler paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Jaringan sel dengan kapiler", "isCorrect": false },
+        { "text": "B. Alveolus paru dengan pembuluh kapiler paru", "isCorrect": true },
+        { "text": "C. Hidung dengan faring", "isCorrect": false },
+        { "text": "D. Hemoglobin dengan plasma", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada external respiration, arah difusi oksigen adalah?",
+      "explanation": "Pada external respiration, O2 berdifusi dari alveolus ke dalam pembuluh kapiler paru, sedangkan CO2 berdifusi dari kapiler ke alveolus.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Dari alveolus ke kapiler paru", "isCorrect": true },
+        { "text": "B. Dari kapiler paru ke alveolus", "isCorrect": false },
+        { "text": "C. Dari sel ke kapiler", "isCorrect": false },
+        { "text": "D. Dari hidung ke faring", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada external respiration, arah difusi karbon dioksida adalah?",
+      "explanation": "Pada external respiration, CO2 berdifusi dari pembuluh kapiler paru ke dalam alveolus untuk kemudian dibuang.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Dari alveolus ke kapiler paru", "isCorrect": false },
+        { "text": "B. Dari kapiler paru ke alveolus", "isCorrect": true },
+        { "text": "C. Dari sel ke alveolus langsung", "isCorrect": false },
+        { "text": "D. Dari plasma ke hemoglobin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Internal respiration (respirasi internal) adalah pertukaran gas antara?",
+      "explanation": "Internal respiration adalah pertukaran gas antara jaringan sel dengan sistem kapiler.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Alveolus dengan kapiler paru", "isCorrect": false },
+        { "text": "B. Jaringan sel dengan sistem kapiler", "isCorrect": true },
+        { "text": "C. Hidung dengan laring", "isCorrect": false },
+        { "text": "D. Trakea dengan bronkus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada internal respiration, oksigen berdifusi?",
+      "explanation": "Pada internal respiration, O2 berdifusi dari sistem kapiler ke dalam sel-sel, sedangkan CO2 berdifusi dari sel ke kapiler.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Dari kapiler ke dalam sel-sel", "isCorrect": true },
+        { "text": "B. Dari sel ke kapiler", "isCorrect": false },
+        { "text": "C. Dari alveolus ke kapiler", "isCorrect": false },
+        { "text": "D. Dari plasma ke alveolus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di paru-paru, oksigen yang masuk ke darah diikat oleh?",
+      "explanation": "Di kapiler pulmonaris, O2 diikat oleh hemoglobin (Hb) lalu dibawa ke jantung untuk diedarkan ke seluruh tubuh.",
+      "difficulty": "EASY",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Plasma darah saja", "isCorrect": false },
+        { "text": "B. Hemoglobin (Hb)", "isCorrect": true },
+        { "text": "C. Surfaktan", "isCorrect": false },
+        { "text": "D. Sel goblet", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Proses pertukaran gas O2 dan CO2 di alveolus berlangsung melalui mekanisme?",
+      "explanation": "Pertukaran gas O2 dan CO2 di alveolus berlangsung melalui difusi mengikuti perbedaan konsentrasi/tekanan parsial gas.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Transpor aktif", "isCorrect": false },
+        { "text": "B. Difusi", "isCorrect": true },
+        { "text": "C. Osmosis air", "isCorrect": false },
+        { "text": "D. Fagositosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi utama paru menurut fisiologi pernapasan adalah?",
+      "explanation": "Fungsi paru adalah pertukaran O2 dan CO2 antara udara dan darah.",
+      "difficulty": "EASY",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Pertukaran O2 dan CO2", "isCorrect": true },
+        { "text": "B. Memompa darah", "isCorrect": false },
+        { "text": "C. Mencerna lemak", "isCorrect": false },
+        { "text": "D. Menyimpan glikogen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kualitas pengangkutan O2 dalam darah tergantung pada beberapa faktor, antara lain?",
+      "explanation": "Kualitas pengangkutan O2 tergantung kadar O2 sekitar, sempit-tidaknya jalan napas, daya tampung dan kualitas alveoli, kualitas darah (kental/encer), dan kondisi jantung.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Warna kulit pekerja", "isCorrect": false },
+        { "text": "B. Kondisi jantung dan kualitas darah", "isCorrect": true },
+        { "text": "C. Jumlah lobus paru saja", "isCorrect": false },
+        { "text": "D. Panjang trakea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perjalanan O2 dari alveoli sampai ke jaringan menembus dinding lalu masuk ke?",
+      "explanation": "O2 dari alveoli menembus dinding, masuk ke dalam sel darah merah, ikut sirkulasi darah, menuju jaringan, menembus dinding kapiler, lalu sampai ke jaringan.",
+      "difficulty": "HARD",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Sel darah merah", "isCorrect": true },
+        { "text": "B. Sel goblet", "isCorrect": false },
+        { "text": "C. Surfaktan", "isCorrect": false },
+        { "text": "D. Cairan pleura", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara tidal (respirasi) memiliki volume sekitar?",
+      "explanation": "Udara tidal/respirasi adalah udara yang dikeluarkan dan dimasukkan dalam kondisi normal, sekitar 500 cc.",
+      "difficulty": "EASY",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. 500 cc", "isCorrect": true },
+        { "text": "B. 2000 cc", "isCorrect": false },
+        { "text": "C. 1300 cc", "isCorrect": false },
+        { "text": "D. 3800 cc", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara komplementer adalah udara yang masuk setelah napas normal agar paru kembang maksimal, dengan volume sekitar?",
+      "explanation": "Udara komplementer (volume cadangan inspirasi) adalah udara yang masih dapat dimasukkan setelah napas normal, sekitar 2000 cc.",
+      "difficulty": "MEDIUM",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. 500 cc", "isCorrect": false },
+        { "text": "B. 2000 cc", "isCorrect": true },
+        { "text": "C. 1300 cc", "isCorrect": false },
+        { "text": "D. 1600 cc", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara suplementer adalah udara yang keluar setelah napas normal (paru mengecil), dengan volume sekitar?",
+      "explanation": "Udara suplementer (volume cadangan ekspirasi) adalah udara yang masih dapat dikeluarkan setelah napas normal, sekitar 1300 cc.",
+      "difficulty": "MEDIUM",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. 500 cc", "isCorrect": false },
+        { "text": "B. 2000 cc", "isCorrect": false },
+        { "text": "C. 1300 cc", "isCorrect": true },
+        { "text": "D. 3800 cc", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara kapasitas vital adalah udara yang dikeluarkan setelah menarik napas maksimal, sekitar?",
+      "explanation": "Udara kapasitas vital adalah udara yang dapat dikeluarkan setelah menarik napas maksimal, sekitar 3800 cc.",
+      "difficulty": "MEDIUM",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. 500 cc", "isCorrect": false },
+        { "text": "B. 1600 cc", "isCorrect": false },
+        { "text": "C. 3800 cc", "isCorrect": true },
+        { "text": "D. 2000 cc", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara residual adalah udara yang tersisa dalam paru setelah mengeluarkan napas maksimal, sekitar?",
+      "explanation": "Udara residual adalah udara yang tetap tersisa dalam paru setelah ekspirasi maksimal, sekitar 1600 cc.",
+      "difficulty": "MEDIUM",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. 500 cc", "isCorrect": false },
+        { "text": "B. 1600 cc", "isCorrect": true },
+        { "text": "C. 3800 cc", "isCorrect": false },
+        { "text": "D. 2000 cc", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara kapasitas total paru merupakan isi maksimal paru, yaitu kapasitas vital ditambah?",
+      "explanation": "Udara kapasitas total adalah isi maksimal paru, yaitu kapasitas vital ditambah udara residual.",
+      "difficulty": "HARD",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. Udara tidal", "isCorrect": false },
+        { "text": "B. Udara residual", "isCorrect": true },
+        { "text": "C. Udara komplementer", "isCorrect": false },
+        { "text": "D. Hawa ruang mati", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hawa ruang mati (dead space) adalah udara yang?",
+      "explanation": "Hawa ruang mati adalah udara yang tidak ikut pertukaran gas, berada di ruang mulut dan hidung sampai bronkiolus.",
+      "difficulty": "MEDIUM",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. Ikut pertukaran gas di alveolus", "isCorrect": false },
+        { "text": "B. Tidak ikut pertukaran gas (mulut, hidung sampai bronkiolus)", "isCorrect": true },
+        { "text": "C. Tersisa setelah ekspirasi maksimal", "isCorrect": false },
+        { "text": "D. Masuk saat inspirasi maksimal saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara yang dikeluarkan dan dimasukkan paru dalam kondisi pernapasan normal disebut?",
+      "explanation": "Udara tidal/respirasi adalah udara yang dimasukkan dan dikeluarkan dalam kondisi normal (sekitar 500 cc).",
+      "difficulty": "EASY",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. Udara residual", "isCorrect": false },
+        { "text": "B. Udara tidal", "isCorrect": true },
+        { "text": "C. Kapasitas vital", "isCorrect": false },
+        { "text": "D. Udara komplementer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Volume udara yang masih bisa dikeluarkan secara maksimal setelah ekspirasi normal disebut?",
+      "explanation": "Udara suplementer (cadangan ekspirasi) adalah udara yang masih bisa dikeluarkan setelah ekspirasi normal, sekitar 1300 cc.",
+      "difficulty": "MEDIUM",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. Udara komplementer", "isCorrect": false },
+        { "text": "B. Udara suplementer", "isCorrect": true },
+        { "text": "C. Udara residual", "isCorrect": false },
+        { "text": "D. Udara tidal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dua faktor yang mengendalikan pernapasan menurut materi adalah?",
+      "explanation": "Pernapasan dikendalikan secara kimiawi (akibat CO2 sebagai dampak metabolisme) dan oleh saraf.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaturan Pernapasan",
+      "options": [
+        { "text": "A. Kimiawi (CO2) dan saraf", "isCorrect": true },
+        { "text": "B. Hormon dan cahaya", "isCorrect": false },
+        { "text": "C. Suhu dan tekanan darah saja", "isCorrect": false },
+        { "text": "D. Otot polos dan kartilago", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian pernapasan secara kimiawi terutama dipicu oleh?",
+      "explanation": "Pengendalian kimiawi pernapasan terjadi akibat CO2 sebagai dampak metabolisme tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaturan Pernapasan",
+      "options": [
+        { "text": "A. Kadar O2 yang berlebih", "isCorrect": false },
+        { "text": "B. CO2 sebagai dampak metabolisme", "isCorrect": true },
+        { "text": "C. Kadar glukosa darah", "isCorrect": false },
+        { "text": "D. Kadar hemoglobin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor berikut yang mempengaruhi kecepatan pernapasan menurut materi adalah?",
+      "explanation": "Kecepatan pernapasan dipengaruhi olahraga, emosi/sakit/takut, perubahan suhu mendadak, dan pengendalian secara sadar.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaturan Pernapasan",
+      "options": [
+        { "text": "A. Olahraga, emosi, dan perubahan suhu mendadak", "isCorrect": true },
+        { "text": "B. Warna pakaian", "isCorrect": false },
+        { "text": "C. Jumlah lobus paru", "isCorrect": false },
+        { "text": "D. Panjang trakea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pengendalian pernapasan secara sadar (menahan napas) tidak bisa bertahan lama?",
+      "explanation": "Pengendalian sadar tidak bisa lama karena secara otomatis CO2 akan muncul dan memaksa tubuh untuk bernapas kembali.",
+      "difficulty": "HARD",
+      "tag": "Pengaturan Pernapasan",
+      "options": [
+        { "text": "A. Otot diafragma cepat lelah saja", "isCorrect": false },
+        { "text": "B. Secara otomatis CO2 akan muncul/menumpuk", "isCorrect": true },
+        { "text": "C. Surfaktan habis", "isCorrect": false },
+        { "text": "D. Pleura lengket", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Batuk merupakan mekanisme pertahanan diri terhadap?",
+      "explanation": "Batuk adalah mekanisme pertahanan diri terhadap material asing yang masuk ke dalam saluran pernapasan.",
+      "difficulty": "EASY",
+      "tag": "Pengaturan Pernapasan",
+      "options": [
+        { "text": "A. Material asing di saluran pernapasan", "isCorrect": true },
+        { "text": "B. Kenaikan suhu tubuh", "isCorrect": false },
+        { "text": "C. Kekurangan oksigen otak", "isCorrect": false },
+        { "text": "D. Tekanan darah tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada mekanisme batuk, benda asing mula-mula mengiritasi laring dan trakea sehingga merangsang?",
+      "explanation": "Benda asing mengiritasi laring dan trakea yang merangsang reseptor batuk, lalu tubuh tiba-tiba menarik napas dan udara masuk paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaturan Pernapasan",
+      "options": [
+        { "text": "A. Reseptor batuk", "isCorrect": true },
+        { "text": "B. Reseptor pendengaran", "isCorrect": false },
+        { "text": "C. Sel goblet", "isCorrect": false },
+        { "text": "D. Surfaktan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada mekanisme batuk, sebelum udara terdorong keluar dengan kuat, terjadi?",
+      "explanation": "Glotis tertutup, otot dada dan perut berkontraksi meningkatkan tekanan di belakang glotis, lalu udara terdorong ke depan dan terjadilah batuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaturan Pernapasan",
+      "options": [
+        { "text": "A. Penutupan glotis dan kontraksi otot dada-perut", "isCorrect": true },
+        { "text": "B. Relaksasi seluruh otot", "isCorrect": false },
+        { "text": "C. Pembukaan epiglotis penuh", "isCorrect": false },
+        { "text": "D. Penurunan tekanan toraks", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyamaan suhu udara pernapasan dengan suhu tubuh dan pelembaban udara dilakukan oleh?",
+      "explanation": "Zona konduksi berperan membersihkan, melembabkan, dan menyamakan suhu udara pernapasan dengan suhu tubuh sebelum mencapai alveolus.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Zona konduksi", "isCorrect": true },
+        { "text": "B. Zona respiratorik (alveolus)", "isCorrect": false },
+        { "text": "C. Pleura", "isCorrect": false },
+        { "text": "D. Arteri bronkialis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bronkiolus non-respiratorius berbeda dengan bronkiolus respiratorius karena pada bronkiolus non-respiratorius?",
+      "explanation": "Pada bronkiolus non-respiratorius tidak terjadi pertukaran gas, sedangkan pada bronkiolus respiratorius terjadi pertukaran gas.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Terjadi pertukaran gas penuh", "isCorrect": false },
+        { "text": "B. Tidak terjadi pertukaran gas", "isCorrect": true },
+        { "text": "C. Menghasilkan surfaktan", "isCorrect": false },
+        { "text": "D. Mengikat O2 oleh Hb", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Epitel yang melapisi bronkus untuk membantu membersihkan saluran napas adalah?",
+      "explanation": "Bronkus dilapisi oleh epitel kolumnar bersilia yang membantu menggerakkan mukus dan partikel asing keluar.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Epitel kolumnar bersilia", "isCorrect": true },
+        { "text": "B. Epitel skuamosa keratin", "isCorrect": false },
+        { "text": "C. Sel otot jantung", "isCorrect": false },
+        { "text": "D. Sel saraf", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lapisan mukosa bersilia pada laring bermanfaat untuk?",
+      "explanation": "Lapisan mukosa bersilia laring bermanfaat menghilangkan partikel asing serta menghangatkan dan melembabkan udara yang dihirup.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Menghilangkan partikel asing serta menghangatkan dan melembabkan udara", "isCorrect": true },
+        { "text": "B. Memproduksi surfaktan", "isCorrect": false },
+        { "text": "C. Mengikat oksigen", "isCorrect": false },
+        { "text": "D. Memompa darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sel silia pada rongga hidung berperan dalam?",
+      "explanation": "Sel silia berperan melemparkan benda asing ke luar dalam usaha membersihkan jalan napas.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Membersihkan jalan napas dengan melempar benda asing keluar", "isCorrect": true },
+        { "text": "B. Menghasilkan suara", "isCorrect": false },
+        { "text": "C. Pertukaran gas", "isCorrect": false },
+        { "text": "D. Memompa udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Vestibulum rongga hidung dilapisi oleh sel submukosa yang berfungsi sebagai?",
+      "explanation": "Vestibulum dilapisi oleh sel submukosa sebagai proteksi terhadap rongga hidung.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Proteksi", "isCorrect": true },
+        { "text": "B. Pertukaran gas", "isCorrect": false },
+        { "text": "C. Produksi surfaktan", "isCorrect": false },
+        { "text": "D. Penghasil suara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada atap trakea di atas tempat masuknya bronkus utama, kartilago bertemu membentuk?",
+      "explanation": "Di atas tempat masuknya bronkus utama, kedua kartilago bertemu membentuk cincin sempurna berbentuk O, bukan hanya C.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Cincin sempurna (huruf O)", "isCorrect": true },
+        { "text": "B. Huruf C tidak lengkap", "isCorrect": false },
+        { "text": "C. Trakea membranosa", "isCorrect": false },
+        { "text": "D. Karina", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bronkus segmental merupakan percabangan dari?",
+      "explanation": "Bronkus segmental merupakan percabangan dari bronkus lobaris.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Bronkus lobaris", "isCorrect": true },
+        { "text": "B. Trakea langsung", "isCorrect": false },
+        { "text": "C. Bronkiolus terminalis", "isCorrect": false },
+        { "text": "D. Alveolus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada respirasi paru, oksigen diambil dari mulut dan hidung lalu melewati saluran berurutan menuju?",
+      "explanation": "O2 diambil dari mulut dan hidung, via trakea dan pipa bronkiolus, terus ke alveoli dan berhubungan dengan darah di kapiler pulmonaris.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Alveoli dan kapiler pulmonaris", "isCorrect": true },
+        { "text": "B. Rongga abdomen", "isCorrect": false },
+        { "text": "C. Sinus paranasal", "isCorrect": false },
+        { "text": "D. Pleura parietalis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tenaga yang mengalirkan udara saat inspirasi menyebabkan diafragma?",
+      "explanation": "Tenaga yang mengalirkan udara menurunkan diafragma ke bawah dan membesarkan rongga dada saat inspirasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Menurun ke bawah", "isCorrect": true },
+        { "text": "B. Naik ke atas", "isCorrect": false },
+        { "text": "C. Mengeras menjadi tulang", "isCorrect": false },
+        { "text": "D. Melebur dengan pleura", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan tekanan udara yang menyebabkan ventilasi terjadi akibat gerakan?",
+      "explanation": "Perbedaan tekanan udara untuk ventilasi terjadi akibat adanya gerakan costa/iga dan diafragma.",
+      "difficulty": "MEDIUM",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Gerakan costa/iga dan diafragma", "isCorrect": true },
+        { "text": "B. Gerakan jantung saja", "isCorrect": false },
+        { "text": "C. Gerakan pleura saja", "isCorrect": false },
+        { "text": "D. Kontraksi otot polos bronkus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Arteri bronkialis berperan dalam sistem respirasi untuk?",
+      "explanation": "Arteri bronkialis berperan menyediakan bahan makanan (nutrisi) yang dibutuhkan paru, bukan untuk pertukaran gas.",
+      "difficulty": "HARD",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. Menyediakan bahan makanan/nutrisi paru", "isCorrect": true },
+        { "text": "B. Mengoksigenasi darah di alveolus", "isCorrect": false },
+        { "text": "C. Memproduksi surfaktan", "isCorrect": false },
+        { "text": "D. Mengikat CO2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada saluran pernapasan secara fungsional, zona konduksi terdiri dari?",
+      "explanation": "Zona konduksi terdiri dari hidung, faring, trakea, bronkus, serta bronkioli, sebagai jalan lewatnya udara.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Hidung, faring, trakea, bronkus, bronkioli", "isCorrect": true },
+        { "text": "B. Alveoli dan sakus alveolaris", "isCorrect": false },
+        { "text": "C. Pleura dan diafragma", "isCorrect": false },
+        { "text": "D. Bronkiolus respiratorius saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sinus paranasal termasuk bagian dari saluran pernapasan?",
+      "explanation": "Sinus paranasal merupakan bagian saluran pernapasan atas, bersama hidung, nasal cavity, faring, dan laring.",
+      "difficulty": "EASY",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Atas", "isCorrect": true },
+        { "text": "B. Bawah", "isCorrect": false },
+        { "text": "C. Zona respiratorik", "isCorrect": false },
+        { "text": "D. Pelengkap (otot)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Struktur yang menjadi dasar (lantai) rongga toraks adalah?",
+      "explanation": "Diafragma merupakan dasar dari rongga toraks dan memisahkannya dari rongga abdomen.",
+      "difficulty": "MEDIUM",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Pleura parietalis", "isCorrect": false },
+        { "text": "B. Diafragma", "isCorrect": true },
+        { "text": "C. Karina", "isCorrect": false },
+        { "text": "D. Sternum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kapasitas vital paru menggambarkan jumlah udara yang dapat dikeluarkan setelah?",
+      "explanation": "Kapasitas vital adalah udara yang dikeluarkan setelah menarik napas (inspirasi) maksimal, sekitar 3800 cc.",
+      "difficulty": "MEDIUM",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. Menarik napas maksimal", "isCorrect": true },
+        { "text": "B. Napas tenang biasa", "isCorrect": false },
+        { "text": "C. Menahan napas 1 menit", "isCorrect": false },
+        { "text": "D. Batuk keras", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat ekspirasi normal, volume rongga toraks akan?",
+      "explanation": "Saat ekspirasi, otot relaksasi sehingga volume dan rongga toraks berkurang, paru mengkerut, dan udara keluar.",
+      "difficulty": "EASY",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Bertambah besar", "isCorrect": false },
+        { "text": "B. Berkurang", "isCorrect": true },
+        { "text": "C. Tetap sama", "isCorrect": false },
+        { "text": "D. Membesar lalu mengeras", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada respirasi internal di jaringan, CO2 berdifusi?",
+      "explanation": "Pada internal respiration, CO2 berdifusi dari sel-sel ke dalam sistem kapiler untuk dibawa ke paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Dari sel ke sistem kapiler", "isCorrect": true },
+        { "text": "B. Dari kapiler ke sel", "isCorrect": false },
+        { "text": "C. Dari alveolus ke sel langsung", "isCorrect": false },
+        { "text": "D. Dari plasma ke surfaktan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sel alveolar tipe I disebut juga?",
+      "explanation": "Sel alveolar tipe I disebut juga pneumosit tipe I atau sel pneumosit skuamosa, tempat pertukaran gas menembus dindingnya.",
+      "difficulty": "HARD",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. Pneumosit skuamosa (tipe I)", "isCorrect": true },
+        { "text": "B. Granular pneumocyte", "isCorrect": false },
+        { "text": "C. Sel goblet", "isCorrect": false },
+        { "text": "D. Sel silia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian rongga hidung yang berfungsi sebagai proteksi terhadap udara luar karena strukturnya berlapis adalah?",
+      "explanation": "Struktur konka berfungsi sebagai proteksi terhadap udara luar karena strukturnya berlapis.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Atas",
+      "options": [
+        { "text": "A. Konka", "isCorrect": true },
+        { "text": "B. Septum", "isCorrect": false },
+        { "text": "C. Vestibulum", "isCorrect": false },
+        { "text": "D. Sinus frontalis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada saat inspirasi, paru akan?",
+      "explanation": "Saat inspirasi, tekanan intrapleura berkurang sehingga paru berkembang (mengembang).",
+      "difficulty": "EASY",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Mengkerut/mengecil", "isCorrect": false },
+        { "text": "B. Berkembang/mengembang", "isCorrect": true },
+        { "text": "C. Tetap diam", "isCorrect": false },
+        { "text": "D. Kolaps total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bronkus mendapat respon kontraksi dan dilatasi terhadap rangsangan?",
+      "explanation": "Bronkus dapat berdilatasi dan berkontraksi sebagai respon terhadap rangsangan neurohumoral dan kimia.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Rangsangan neurohumoral dan kimia", "isCorrect": true },
+        { "text": "B. Rangsangan cahaya", "isCorrect": false },
+        { "text": "C. Rangsangan getaran suara", "isCorrect": false },
+        { "text": "D. Rangsangan gravitasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pertukaran gas eksternal, gas O2 dan CO2 bertukar tempat di antara alveolus dan kapiler paru. Hal ini terjadi karena?",
+      "explanation": "Pertukaran terjadi karena difusi mengikuti perbedaan tekanan parsial: O2 tinggi di alveolus masuk kapiler, CO2 tinggi di kapiler masuk alveolus.",
+      "difficulty": "HARD",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Perbedaan tekanan parsial gas (difusi)", "isCorrect": true },
+        { "text": "B. Pompa otot diafragma", "isCorrect": false },
+        { "text": "C. Kontraksi pleura", "isCorrect": false },
+        { "text": "D. Produksi mukus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor jalan pernapasan yang mempengaruhi kualitas pengangkutan O2 adalah?",
+      "explanation": "Salah satu faktor kualitas pengangkutan O2 adalah sempit-tidaknya jalan pernapasan, di samping kadar O2, kualitas alveoli, kualitas darah, dan kondisi jantung.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Sempit tidaknya jalan pernapasan", "isCorrect": true },
+        { "text": "B. Warna lendir hidung", "isCorrect": false },
+        { "text": "C. Jumlah cairan pleura", "isCorrect": false },
+        { "text": "D. Panjang epiglotis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada napas biasa, ekspirasi tidak memerlukan otot karena mengandalkan sifat paru berupa?",
+      "explanation": "Ekspirasi pada napas biasa mengandalkan daya elastisitas (rekoil) paru tanpa kontraksi otot.",
+      "difficulty": "MEDIUM",
+      "tag": "Mekanisme Pernapasan",
+      "options": [
+        { "text": "A. Elastisitas/rekoil paru", "isCorrect": true },
+        { "text": "B. Kekakuan kartilago", "isCorrect": false },
+        { "text": "C. Tegangan otot jantung", "isCorrect": false },
+        { "text": "D. Tekanan cairan pleura", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asinus paru merupakan unit fungsional yang dibentuk oleh gabungan beberapa?",
+      "explanation": "Asinus dibentuk oleh 3-5 bronkiolus terminalis beserta percabangan respiratoriknya, dan merupakan unit pertukaran gas.",
+      "difficulty": "HARD",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Bronkiolus terminalis", "isCorrect": true },
+        { "text": "B. Lobus paru", "isCorrect": false },
+        { "text": "C. Pleura", "isCorrect": false },
+        { "text": "D. Otot interkostalis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dibanding paru kanan, jumlah segmen paru kiri adalah?",
+      "explanation": "Paru kiri memiliki 8 segmen (2 lobus), lebih sedikit dari paru kanan yang memiliki 10 segmen (3 lobus).",
+      "difficulty": "MEDIUM",
+      "tag": "Paru & Alveolus",
+      "options": [
+        { "text": "A. 8 segmen", "isCorrect": true },
+        { "text": "B. 10 segmen", "isCorrect": false },
+        { "text": "C. 12 segmen", "isCorrect": false },
+        { "text": "D. 6 segmen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot interkostalis interna dan diafragma bekerja sebagai otot inspirasi utama saat?",
+      "explanation": "Otot inspirasi utama (interkostalis interna dan diafragma) berkontraksi untuk melakukan inspirasi sewaktu bernapas tenang.",
+      "difficulty": "MEDIUM",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Bernapas tenang", "isCorrect": true },
+        { "text": "B. Hanya saat batuk", "isCorrect": false },
+        { "text": "C. Hanya saat menyelam", "isCorrect": false },
+        { "text": "D. Saat menahan napas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rongga di antara pleura viseralis dan pleura parietalis disebut?",
+      "explanation": "Di antara kedua pleura terdapat rongga pleura yang berisi sedikit cairan pleura agar pleura tidak lengket.",
+      "difficulty": "EASY",
+      "tag": "Otot & Pleura",
+      "options": [
+        { "text": "A. Rongga pleura", "isCorrect": true },
+        { "text": "B. Rongga alveolus", "isCorrect": false },
+        { "text": "C. Karina", "isCorrect": false },
+        { "text": "D. Asinus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Udara komplementer berbeda dengan udara tidal karena udara komplementer adalah udara yang?",
+      "explanation": "Udara komplementer adalah udara yang masih dapat masuk setelah inspirasi normal (agar paru kembang maksimal), sekitar 2000 cc; udara tidal adalah napas normal sekitar 500 cc.",
+      "difficulty": "HARD",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. Masih bisa masuk setelah inspirasi normal", "isCorrect": true },
+        { "text": "B. Tersisa setelah ekspirasi maksimal", "isCorrect": false },
+        { "text": "C. Tidak ikut pertukaran gas", "isCorrect": false },
+        { "text": "D. Dikeluarkan saat napas normal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Reseptor batuk yang terangsang material asing memicu tubuh untuk?",
+      "explanation": "Setelah reseptor batuk terangsang, tubuh secara tiba-tiba menarik napas sehingga udara masuk ke paru-paru sebelum dihembuskan keras.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaturan Pernapasan",
+      "options": [
+        { "text": "A. Secara tiba-tiba menarik napas", "isCorrect": true },
+        { "text": "B. Berhenti bernapas total", "isCorrect": false },
+        { "text": "C. Menutup hidung", "isCorrect": false },
+        { "text": "D. Menghasilkan surfaktan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Daya tampung dan kualitas alveoli untuk menampung O2 merupakan salah satu faktor yang mempengaruhi?",
+      "explanation": "Daya tampung dan kualitas alveoli untuk menampung O2 adalah salah satu faktor yang menentukan kualitas pengangkutan O2.",
+      "difficulty": "MEDIUM",
+      "tag": "Pertukaran & Transport Gas",
+      "options": [
+        { "text": "A. Kualitas pengangkutan O2", "isCorrect": true },
+        { "text": "B. Jumlah lobus paru", "isCorrect": false },
+        { "text": "C. Panjang trakea", "isCorrect": false },
+        { "text": "D. Sudut karina", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada saat paru kolaps, struktur yang ikut kolaps bersama bronkus kecil adalah?",
+      "explanation": "Saat paru kolaps, bronkus kecil, bronkiolus, dan alveolus ikut kolaps, sedangkan bronkus besar tetap paten.",
+      "difficulty": "MEDIUM",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Bronkiolus dan alveolus", "isCorrect": true },
+        { "text": "B. Trakea dan karina", "isCorrect": false },
+        { "text": "C. Bronkus utama besar", "isCorrect": false },
+        { "text": "D. Laring dan faring", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kapasitas total paru merupakan jumlah?",
+      "explanation": "Kapasitas total paru (isi maksimal paru) adalah kapasitas vital ditambah udara residual (suplementer/sisa).",
+      "difficulty": "HARD",
+      "tag": "Volume & Kapasitas Paru",
+      "options": [
+        { "text": "A. Kapasitas vital + udara residual", "isCorrect": true },
+        { "text": "B. Udara tidal + ruang mati", "isCorrect": false },
+        { "text": "C. Hanya udara tidal", "isCorrect": false },
+        { "text": "D. Hanya udara residual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor emosi seperti sakit dan takut mempengaruhi kecepatan pernapasan karena?",
+      "explanation": "Emosi, sakit, dan takut menimbulkan impuls yang merangsang saraf pernapasan sehingga mempengaruhi kecepatan napas.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaturan Pernapasan",
+      "options": [
+        { "text": "A. Menimbulkan impuls yang merangsang saraf pernapasan", "isCorrect": true },
+        { "text": "B. Menambah jumlah alveolus", "isCorrect": false },
+        { "text": "C. Mengubah panjang trakea", "isCorrect": false },
+        { "text": "D. Menghentikan produksi CO2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saluran pernapasan secara fungsional dibagi menjadi dua zona, yaitu?",
+      "explanation": "Secara fungsional saluran pernapasan dibagi menjadi zona konduksi (jalan udara) dan zona respiratorik (tempat pertukaran gas).",
+      "difficulty": "EASY",
+      "tag": "Saluran Napas Bawah",
+      "options": [
+        { "text": "A. Zona konduksi dan zona respiratorik", "isCorrect": true },
+        { "text": "B. Zona atas dan zona bawah", "isCorrect": false },
+        { "text": "C. Zona pleura dan zona otot", "isCorrect": false },
+        { "text": "D. Zona arteri dan zona vena", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Fungsi utama sistem respirasi", "back": "Mengambil oksigen (O2) dari atmosfer untuk metabolisme sel dan mengeluarkan karbon dioksida (CO2) sisa metabolisme; ditambah fungsi non-respiratorik (mis. pembentukan suara).", "tag": "Definisi & Fungsi Respirasi" },
+    { "front": "Struktur utama vs pelengkap sistem respirasi", "back": "Utama: saluran napas atas, saluran napas bawah, paru. Pelengkap: otot pernapasan dan pleura.", "tag": "Definisi & Fungsi Respirasi" },
+    { "front": "Saluran napas atas", "back": "Hidung, sinus paranasal, nasal cavity (rongga hidung), faring, dan laring.", "tag": "Saluran Napas Atas" },
+    { "front": "Tiga bagian faring", "back": "Nasofaring (berbatasan rongga hidung), orofaring (berbatasan rongga mulut), laringofaring (berbatasan laring). Tempat pemisahan makanan dan udara.", "tag": "Saluran Napas Atas" },
+    { "front": "Fungsi utama laring", "back": "Sebagai alat suara, sekaligus jalan udara. Epiglotis menutup glotis saat menelan agar makanan tidak masuk laring.", "tag": "Saluran Napas Atas" },
+    { "front": "Penyaringan partikel di hidung", "back": "Bulu hidung dan silia menyaring; hanya udara berpartikel 4-6 mikron yang bisa masuk ke saluran bawah.", "tag": "Saluran Napas Atas" },
+    { "front": "Saluran napas bawah", "back": "Trakea -> bronkus -> bronkiolus -> alveoli.", "tag": "Saluran Napas Bawah" },
+    { "front": "Trakea", "back": "Panjang 10-20 cm, dibentuk ~20 cincin kartilago huruf C, bercabang dua di karina (vertebra torakalis 4). Bagian posterior tanpa kartilago = trakea membranosa.", "tag": "Saluran Napas Bawah" },
+    { "front": "Percabangan bronkus utama", "back": "Bronkus kanan: 3 cabang (superior, medialis, inferior), sudut karina 45-55 derajat. Bronkus kiri: 2 cabang (lobaris superior & inferior), sudut 20-30 derajat.", "tag": "Saluran Napas Bawah" },
+    { "front": "Bronkiolus terminalis & respiratorius", "back": "Bronkiolus terminalis = paling distal; 3-5 membentuk asinus. Bronkiolus respiratorius = tempat pertukaran gas bersama duktus & sakus alveolaris.", "tag": "Saluran Napas Bawah" },
+    { "front": "Zona konduksi vs respiratorik", "back": "Konduksi (hidung, faring, trakea, bronkus, bronkioli): jalan udara, membersihkan, melembabkan, menyamakan suhu. Respiratorik (bronkiolus respiratorius & alveoli): pertukaran gas.", "tag": "Saluran Napas Bawah" },
+    { "front": "Jumlah lobus & segmen paru", "back": "Paru kanan: 3 lobus, 10 segmen. Paru kiri: 2 lobus, 8 segmen.", "tag": "Paru & Alveolus" },
+    { "front": "Sel alveolar tipe I & II", "back": "Tipe I (pneumosit skuamosa): tempat pertukaran gas. Tipe II (granular pneumocyte): menghasilkan surfaktan.", "tag": "Paru & Alveolus" },
+    { "front": "Alveolus & surfaktan", "back": ">300 juta alveoli, diameter 0,3 mm. Surfaktan menurunkan tegangan muka cairan agar alveolus tidak mudah kolaps.", "tag": "Paru & Alveolus" },
+    { "front": "Otot pernapasan utama", "back": "Inspirasi utama: interkostalis interna & diafragma. Inspirasi tambahan: skalenus & sternokleidomastoideus. Diafragma dipersarafi nervus frenikus (segmen 3,4,5).", "tag": "Otot & Pleura" },
+    { "front": "Pleura", "back": "Berasal mesoderm. Viseralis melapisi paru, parietalis melapisi dinding. Rongga pleura berisi cairan 0,1-0,2 ml/KgBB agar pleura tidak lengket.", "tag": "Otot & Pleura" },
+    { "front": "Mekanisme inspirasi", "back": "Diafragma & interkostalis eksterna kontraksi -> volume toraks naik -> tekanan intrapleura turun -> paru berkembang -> tekanan intrapulmonal turun -> udara masuk.", "tag": "Mekanisme Pernapasan" },
+    { "front": "Mekanisme ekspirasi (napas biasa)", "back": "Otot relaksasi -> volume toraks turun -> tekanan intrapulmonal naik di atas atmosfer -> udara keluar. Pada napas biasa cukup rekoil/elastisitas paru tanpa otot.", "tag": "Mekanisme Pernapasan" },
+    { "front": "External vs internal respiration", "back": "External: pertukaran gas alveolus <-> kapiler paru (O2 masuk darah, CO2 ke alveolus). Internal: pertukaran gas kapiler <-> jaringan sel.", "tag": "Pertukaran & Transport Gas" },
+    { "front": "Transport O2 oleh darah", "back": "O2 di kapiler pulmonaris diikat hemoglobin (Hb) -> dibawa ke jantung -> diedarkan. Kualitas pengangkutan O2 dipengaruhi kadar O2, jalan napas, alveoli, kualitas darah, & kondisi jantung.", "tag": "Pertukaran & Transport Gas" },
+    { "front": "Volume udara pernapasan", "back": "Tidal ~500 cc; komplementer (cad. inspirasi) ~2000 cc; suplementer (cad. ekspirasi) ~1300 cc; residual ~1600 cc.", "tag": "Volume & Kapasitas Paru" },
+    { "front": "Kapasitas paru & ruang mati", "back": "Kapasitas vital ~3800 cc (dikeluarkan setelah inspirasi maksimal). Kapasitas total = kap. vital + residual. Hawa ruang mati = udara yang tidak ikut pertukaran (mulut, hidung sampai bronkiolus).", "tag": "Volume & Kapasitas Paru" },
+    { "front": "Pengaturan pernapasan", "back": "Dikendalikan kimiawi (oleh CO2 hasil metabolisme) dan oleh saraf. Menahan napas tidak bisa lama karena CO2 otomatis menumpuk.", "tag": "Pengaturan Pernapasan" },
+    { "front": "Mekanisme batuk", "back": "Benda asing mengiritasi laring/trakea -> rangsang reseptor batuk -> tarik napas tiba-tiba -> glotis tertutup, otot dada & perut kontraksi -> tekanan naik -> udara terdorong keluar = batuk.", "tag": "Pengaturan Pernapasan" }
+  ],
+  "mindmap": [
+    { "id": "respirasi", "label": "Sistem Pernapasan/Respirasi", "color": "#6366f1", "parent": null, "content": "Sistem yang mengambil O2 dari atmosfer untuk metabolisme sel dan membuang CO2 sisa metabolisme." },
+    { "id": "definisi-fungsi", "label": "Definisi & Fungsi", "color": "#8b5cf6", "parent": "respirasi", "content": "Fungsi utama: ambil O2, buang CO2; ditambah fungsi non-respiratorik. Struktur = utama + pelengkap." },
+    { "id": "fungsi-o2-co2", "label": "Ambil O2 & Buang CO2", "color": "#8b5cf6", "parent": "definisi-fungsi", "content": "O2 dibawa darah ke sel untuk metabolisme; CO2 dibawa ke paru untuk dibuang." },
+    { "id": "fungsi-nonrespiratorik", "label": "Non-respiratorik", "color": "#8b5cf6", "parent": "definisi-fungsi", "content": "Fungsi tambahan seperti pembentukan suara, penyaringan, dan pengaturan suhu/kelembapan udara." },
+    { "id": "struktur-utama-pelengkap", "label": "Utama & Pelengkap", "color": "#8b5cf6", "parent": "definisi-fungsi", "content": "Utama: saluran napas atas, bawah, paru. Pelengkap: otot pernapasan & pleura." },
+    { "id": "napas-atas", "label": "Saluran Napas Atas", "color": "#0ea5e9", "parent": "respirasi", "content": "Meliputi hidung, sinus paranasal, nasal cavity, faring, dan laring." },
+    { "id": "hidung", "label": "Hidung & Rongga Hidung", "color": "#0ea5e9", "parent": "napas-atas", "content": "Dimulai dari vestibulum; dibagi septum (longitudinal) & konka (transversal). Fungsi: penyaring, lubrikasi, pemanas udara." },
+    { "id": "fungsi-hidung", "label": "Fungsi Preventif Hidung", "color": "#0ea5e9", "parent": "hidung", "content": "Bulu & silia menyaring; hanya partikel 4-6 mikron yang lolos ke bawah." },
+    { "id": "faring", "label": "Faring", "color": "#0ea5e9", "parent": "napas-atas", "content": "Terdiri nasofaring, orofaring, laringofaring. Tempat pemisahan makanan dan udara." },
+    { "id": "laring", "label": "Laring", "color": "#0ea5e9", "parent": "napas-atas", "content": "Alat suara; 9 kartilago (3 tunggal: tiroid/krikoid/epiglotis). Epiglotis menutup glotis saat menelan." },
+    { "id": "napas-bawah", "label": "Saluran Napas Bawah", "color": "#10b981", "parent": "respirasi", "content": "Meliputi trakea, bronkus, bronkiolus, dan alveoli." },
+    { "id": "trakea", "label": "Trakea", "color": "#10b981", "parent": "napas-bawah", "content": "Panjang 10-20 cm, ~20 cincin kartilago huruf C; bercabang di karina pada vertebra torakalis 4." },
+    { "id": "bronkus", "label": "Bronkus", "color": "#10b981", "parent": "napas-bawah", "content": "Kanan 3 cabang (sudut 45-55 derajat), kiri 2 cabang (20-30 derajat); epitel kolumnar bersilia, otot polos, inervasi vagal." },
+    { "id": "bronkiolus", "label": "Bronkiolus", "color": "#10b981", "parent": "napas-bawah", "content": "Terminalis (distal, 3-5 = asinus) & respiratorius (tempat pertukaran gas)." },
+    { "id": "zona-fungsional", "label": "Zona Konduksi & Respiratorik", "color": "#10b981", "parent": "napas-bawah", "content": "Konduksi: jalan udara, membersihkan & melembabkan. Respiratorik: tempat pertukaran gas." },
+    { "id": "paru-alveolus", "label": "Paru & Alveolus", "color": "#f59e0b", "parent": "respirasi", "content": "Tempat utama pertukaran gas; vaskularisasi arteri pulmonalis (respirasi) & bronkialis (nutrisi)." },
+    { "id": "lobus-paru", "label": "Lobus & Segmen Paru", "color": "#f59e0b", "parent": "paru-alveolus", "content": "Paru kanan 3 lobus/10 segmen; paru kiri 2 lobus/8 segmen." },
+    { "id": "alveolus", "label": "Alveolus", "color": "#f59e0b", "parent": "paru-alveolus", "content": ">300 juta alveoli diameter 0,3 mm; tempat difusi O2/CO2." },
+    { "id": "sel-alveolar", "label": "Sel Alveolar I & II", "color": "#f59e0b", "parent": "alveolus", "content": "Tipe I (skuamosa): pertukaran gas. Tipe II (granular): hasilkan surfaktan." },
+    { "id": "surfaktan", "label": "Surfaktan", "color": "#f59e0b", "parent": "alveolus", "content": "Menurunkan tegangan muka cairan alveoli agar gelembung tidak kolaps, tetap mengembang & stabil." },
+    { "id": "otot-pleura", "label": "Otot & Pleura", "color": "#ef4444", "parent": "respirasi", "content": "Struktur pelengkap: otot pernapasan (skelet) dan pleura." },
+    { "id": "otot-inspirasi", "label": "Otot Inspirasi", "color": "#ef4444", "parent": "otot-pleura", "content": "Utama: interkostalis interna & diafragma. Tambahan: skalenus & sternokleidomastoideus." },
+    { "id": "diafragma", "label": "Diafragma", "color": "#ef4444", "parent": "otot-pleura", "content": "Otot pernapasan paling utama; septum muskulotendineus pemisah toraks-abdomen; dipersarafi nervus frenikus (segmen 3,4,5)." },
+    { "id": "otot-ekspirasi", "label": "Otot Ekspirasi", "color": "#ef4444", "parent": "otot-pleura", "content": "Napas biasa cukup rekoil paru; active breathing (interkostalis interna, oblikus eksterna, rektus abdominis) saat asma/batuk/menyanyi." },
+    { "id": "pleura", "label": "Pleura", "color": "#ef4444", "parent": "otot-pleura", "content": "Asal mesoderm; viseralis (melapisi paru) & parietalis (dinding). Cairan pleura 0,1-0,2 ml/KgBB agar tidak lengket." },
+    { "id": "mekanisme", "label": "Mekanisme Pernapasan", "color": "#ec4899", "parent": "respirasi", "content": "Ventilasi: masuk-keluar udara akibat gerakan iga & diafragma yang mengubah tekanan." },
+    { "id": "inspirasi", "label": "Inspirasi", "color": "#ec4899", "parent": "mekanisme", "content": "Diafragma & interkostalis eksterna kontraksi -> toraks membesar -> tekanan turun -> paru mengembang -> udara masuk." },
+    { "id": "ekspirasi", "label": "Ekspirasi", "color": "#ec4899", "parent": "mekanisme", "content": "Otot relaksasi -> toraks mengecil -> tekanan intrapulmonal naik di atas atmosfer -> udara keluar." },
+    { "id": "gas", "label": "Pertukaran & Transport Gas", "color": "#14b8a6", "parent": "respirasi", "content": "Pertukaran O2/CO2 secara difusi serta pengangkutan oleh darah." },
+    { "id": "external-respiration", "label": "External Respiration", "color": "#14b8a6", "parent": "gas", "content": "Pertukaran gas alveolus <-> kapiler paru: O2 masuk darah, CO2 ke alveolus." },
+    { "id": "internal-respiration", "label": "Internal Respiration", "color": "#14b8a6", "parent": "gas", "content": "Pertukaran gas kapiler <-> jaringan sel: O2 ke sel, CO2 ke kapiler." },
+    { "id": "transport-o2", "label": "Transport O2 oleh Darah", "color": "#14b8a6", "parent": "gas", "content": "O2 diikat hemoglobin (Hb) di kapiler pulmonaris lalu dibawa ke jantung & jaringan." },
+    { "id": "volume-kapasitas", "label": "Volume & Kapasitas Paru", "color": "#8b5cf6", "parent": "respirasi", "content": "Berbagai macam udara pernapasan dan kapasitas paru." },
+    { "id": "udara-tidal", "label": "Udara Tidal", "color": "#8b5cf6", "parent": "volume-kapasitas", "content": "Udara napas normal masuk-keluar ~500 cc." },
+    { "id": "udara-cadangan", "label": "Komplementer & Suplementer", "color": "#8b5cf6", "parent": "volume-kapasitas", "content": "Komplementer (cad. inspirasi) ~2000 cc; suplementer (cad. ekspirasi) ~1300 cc." },
+    { "id": "kapasitas-vital", "label": "Kapasitas Vital & Residual", "color": "#8b5cf6", "parent": "volume-kapasitas", "content": "Kapasitas vital ~3800 cc (setelah inspirasi maksimal); residual ~1600 cc (sisa di paru)." },
+    { "id": "kapasitas-total", "label": "Kapasitas Total & Ruang Mati", "color": "#8b5cf6", "parent": "volume-kapasitas", "content": "Kapasitas total = kap. vital + residual. Ruang mati = udara yang tidak ikut pertukaran." },
+    { "id": "pengaturan", "label": "Pengaturan Pernapasan", "color": "#0ea5e9", "parent": "respirasi", "content": "Pernapasan dikendalikan secara kimiawi & saraf, serta dipengaruhi berbagai faktor." },
+    { "id": "kendali-kimiawi-saraf", "label": "Kimiawi & Saraf", "color": "#0ea5e9", "parent": "pengaturan", "content": "Kimiawi oleh CO2 hasil metabolisme; juga oleh saraf. Menahan napas tak bisa lama karena CO2 menumpuk." },
+    { "id": "faktor-kecepatan", "label": "Faktor Kecepatan Napas", "color": "#0ea5e9", "parent": "pengaturan", "content": "Olahraga, emosi/sakit/takut, perubahan suhu mendadak, dan pengendalian sadar." },
+    { "id": "batuk", "label": "Mekanisme Batuk", "color": "#0ea5e9", "parent": "pengaturan", "content": "Pertahanan terhadap benda asing: iritasi laring/trakea -> reseptor batuk -> glotis tertutup, otot kontraksi -> udara terdorong keluar." }
+  ]
+}

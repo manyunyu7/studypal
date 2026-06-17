@@ -1,0 +1,1408 @@
+{
+  "topic": "Hak & Kewajiban Warga Negara",
+  "order": 4,
+  "description": "Hak dan kewajiban warga negara adalah dua sisi yang saling melengkapi dalam kehidupan bernegara, yang diatur dalam UUD 1945 terutama Pasal 27 sampai 34 dan Pasal 28A-28J. Keseimbangan antara pemenuhan hak dan pelaksanaan kewajiban menjamin terwujudnya keadilan sosial dan stabilitas nasional.",
+  "subtopics": [
+    "Pengertian Hak & Kewajiban",
+    "Hak Warga Negara UUD 1945",
+    "Kewajiban Warga Negara UUD 1945",
+    "Hak Asasi Manusia (HAM)",
+    "Keseimbangan Hak & Kewajiban",
+    "Bela Negara"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan hak dalam konteks kewarganegaraan?",
+      "explanation": "Hak adalah segala sesuatu yang mutlak menjadi milik seseorang dan penggunaannya tergantung pada diri orang itu sendiri.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Sesuatu yang harus dilaksanakan dengan penuh tanggung jawab", "isCorrect": false },
+        { "text": "B. Segala sesuatu yang mutlak menjadi milik seseorang", "isCorrect": true },
+        { "text": "C. Larangan yang ditetapkan oleh negara", "isCorrect": false },
+        { "text": "D. Beban yang diberikan negara kepada rakyat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan kewajiban warga negara?",
+      "explanation": "Kewajiban adalah sesuatu yang harus dilaksanakan dengan penuh tanggung jawab, dan secara umum merupakan beban untuk memberikan sesuatu.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Sesuatu yang boleh dilakukan atau tidak dilakukan", "isCorrect": false },
+        { "text": "B. Hak istimewa yang dimiliki pejabat negara", "isCorrect": false },
+        { "text": "C. Sesuatu yang harus dilaksanakan dengan penuh tanggung jawab", "isCorrect": true },
+        { "text": "D. Pemberian cuma-cuma dari negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan antara hak dan kewajiban warga negara bersifat?",
+      "explanation": "Hak dan kewajiban memiliki hubungan timbal balik (resiprokal): hak seseorang menjadi kewajiban bagi pihak lain, dan sebaliknya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Timbal balik dan saling melengkapi", "isCorrect": true },
+        { "text": "B. Bertentangan dan tidak berhubungan", "isCorrect": false },
+        { "text": "C. Hanya menguntungkan negara", "isCorrect": false },
+        { "text": "D. Berdiri sendiri tanpa keterkaitan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa yang dimaksud dengan warga negara menurut UU No. 12 Tahun 2006?",
+      "explanation": "Menurut UU No. 12 Tahun 2006 Pasal 1 ayat 1, warga negara adalah warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Setiap orang yang tinggal di suatu negara", "isCorrect": false },
+        { "text": "B. Warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan", "isCorrect": true },
+        { "text": "C. Hanya orang yang lahir di negara tersebut", "isCorrect": false },
+        { "text": "D. Pejabat pemerintah negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasal dalam UUD 1945 yang menjadi dasar utama pengaturan hak dan kewajiban warga negara terdapat pada rentang pasal?",
+      "explanation": "Hak dan kewajiban warga negara diatur secara pokok dalam UUD 1945 Pasal 27 sampai dengan Pasal 34, ditambah pasal-pasal HAM 28A-28J.",
+      "difficulty": "EASY",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Pasal 1-10", "isCorrect": false },
+        { "text": "B. Pasal 27-34", "isCorrect": true },
+        { "text": "C. Pasal 35-37", "isCorrect": false },
+        { "text": "D. Pasal 18-25", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasal 27 ayat (1) UUD 1945 mengatur tentang?",
+      "explanation": "Pasal 27 ayat (1) menyatakan bahwa segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan serta wajib menjunjung hukum dan pemerintahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Hak atas pekerjaan dan penghidupan yang layak", "isCorrect": false },
+        { "text": "B. Persamaan kedudukan di dalam hukum dan pemerintahan", "isCorrect": true },
+        { "text": "C. Hak atas pendidikan", "isCorrect": false },
+        { "text": "D. Kebebasan beragama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan dijamin dalam UUD 1945 pada?",
+      "explanation": "Pasal 27 ayat (2) UUD 1945 menyatakan tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Pasal 27 ayat (2)", "isCorrect": true },
+        { "text": "B. Pasal 28", "isCorrect": false },
+        { "text": "C. Pasal 31 ayat (1)", "isCorrect": false },
+        { "text": "D. Pasal 34 ayat (1)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasal 27 ayat (3) UUD 1945 (hasil amandemen) mengatur tentang?",
+      "explanation": "Pasal 27 ayat (3) menyatakan setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Hak memperoleh pendidikan", "isCorrect": false },
+        { "text": "B. Hak dan kewajiban ikut serta dalam upaya pembelaan negara", "isCorrect": true },
+        { "text": "C. Kebebasan berserikat dan berkumpul", "isCorrect": false },
+        { "text": "D. Hak atas jaminan sosial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kemerdekaan berserikat dan berkumpul, mengeluarkan pikiran dengan lisan dan tulisan diatur dalam UUD 1945 pada?",
+      "explanation": "Pasal 28 UUD 1945 menjamin kemerdekaan berserikat dan berkumpul, mengeluarkan pikiran dengan lisan dan tulisan, yang ditetapkan dengan undang-undang.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Pasal 27", "isCorrect": false },
+        { "text": "B. Pasal 28", "isCorrect": true },
+        { "text": "C. Pasal 30", "isCorrect": false },
+        { "text": "D. Pasal 33", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasal 29 ayat (2) UUD 1945 menjamin?",
+      "explanation": "Pasal 29 ayat (2) menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan beribadat menurut agama dan kepercayaannya itu.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Kebebasan memilih pekerjaan", "isCorrect": false },
+        { "text": "B. Hak atas pendidikan dasar", "isCorrect": false },
+        { "text": "C. Kemerdekaan memeluk agama dan beribadat menurut agamanya", "isCorrect": true },
+        { "text": "D. Hak atas pelayanan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak dan kewajiban ikut serta dalam usaha pertahanan dan keamanan negara diatur dalam UUD 1945 pada?",
+      "explanation": "Pasal 30 ayat (1) UUD 1945 menyatakan tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Pasal 29 ayat (1)", "isCorrect": false },
+        { "text": "B. Pasal 30 ayat (1)", "isCorrect": true },
+        { "text": "C. Pasal 31 ayat (2)", "isCorrect": false },
+        { "text": "D. Pasal 33 ayat (3)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak setiap warga negara untuk mendapat pendidikan dijamin dalam UUD 1945 pada?",
+      "explanation": "Pasal 31 ayat (1) UUD 1945 menyatakan setiap warga negara berhak mendapat pendidikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Pasal 30 ayat (1)", "isCorrect": false },
+        { "text": "B. Pasal 31 ayat (1)", "isCorrect": true },
+        { "text": "C. Pasal 32 ayat (1)", "isCorrect": false },
+        { "text": "D. Pasal 34 ayat (2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Pasal 31 ayat (2) UUD 1945, setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib?",
+      "explanation": "Pasal 31 ayat (2) menyatakan setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Membiayainya", "isCorrect": true },
+        { "text": "B. Mengawasinya", "isCorrect": false },
+        { "text": "C. Membatasinya", "isCorrect": false },
+        { "text": "D. Menyelenggarakan ujian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fakir miskin dan anak-anak terlantar dipelihara oleh negara diatur dalam UUD 1945 pada?",
+      "explanation": "Pasal 34 ayat (1) UUD 1945 menyatakan fakir miskin dan anak-anak yang terlantar dipelihara oleh negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Pasal 32 ayat (1)", "isCorrect": false },
+        { "text": "B. Pasal 33 ayat (2)", "isCorrect": false },
+        { "text": "C. Pasal 34 ayat (1)", "isCorrect": true },
+        { "text": "D. Pasal 28H ayat (1)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perekonomian disusun sebagai usaha bersama berdasar atas asas kekeluargaan diatur dalam UUD 1945 pada?",
+      "explanation": "Pasal 33 ayat (1) UUD 1945 menyatakan perekonomian disusun sebagai usaha bersama berdasar atas asas kekeluargaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Pasal 31 ayat (1)", "isCorrect": false },
+        { "text": "B. Pasal 33 ayat (1)", "isCorrect": true },
+        { "text": "C. Pasal 34 ayat (3)", "isCorrect": false },
+        { "text": "D. Pasal 27 ayat (2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Pasal 33 ayat (3) UUD 1945, bumi, air, dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk?",
+      "explanation": "Pasal 33 ayat (3) menyatakan bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Sebesar-besar kemakmuran rakyat", "isCorrect": true },
+        { "text": "B. Kepentingan investor asing", "isCorrect": false },
+        { "text": "C. Kemajuan teknologi semata", "isCorrect": false },
+        { "text": "D. Keuntungan pemerintah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak atas hidup dan mempertahankan kehidupan dijamin dalam UUD 1945 pada pasal HAM?",
+      "explanation": "Pasal 28A UUD 1945 menyatakan setiap orang berhak untuk hidup serta berhak mempertahankan hidup dan kehidupannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28A", "isCorrect": true },
+        { "text": "B. Pasal 28C", "isCorrect": false },
+        { "text": "C. Pasal 28E", "isCorrect": false },
+        { "text": "D. Pasal 28J", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah diatur dalam?",
+      "explanation": "Pasal 28B ayat (1) UUD 1945 menyatakan setiap orang berhak membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28A", "isCorrect": false },
+        { "text": "B. Pasal 28B ayat (1)", "isCorrect": true },
+        { "text": "C. Pasal 28D ayat (1)", "isCorrect": false },
+        { "text": "D. Pasal 28G", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak anak atas kelangsungan hidup, tumbuh, dan berkembang serta perlindungan dari kekerasan dan diskriminasi diatur dalam?",
+      "explanation": "Pasal 28B ayat (2) UUD 1945 menjamin setiap anak berhak atas kelangsungan hidup, tumbuh, dan berkembang serta perlindungan dari kekerasan dan diskriminasi.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28B ayat (2)", "isCorrect": true },
+        { "text": "B. Pasal 28C ayat (1)", "isCorrect": false },
+        { "text": "C. Pasal 28F", "isCorrect": false },
+        { "text": "D. Pasal 28I", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak mengembangkan diri, mendapat pendidikan, dan memperoleh manfaat dari ilmu pengetahuan dan teknologi diatur dalam?",
+      "explanation": "Pasal 28C ayat (1) UUD 1945 menyatakan setiap orang berhak mengembangkan diri melalui pemenuhan kebutuhan dasarnya, berhak mendapat pendidikan dan memperoleh manfaat dari iptek, seni dan budaya.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28A", "isCorrect": false },
+        { "text": "B. Pasal 28B", "isCorrect": false },
+        { "text": "C. Pasal 28C ayat (1)", "isCorrect": true },
+        { "text": "D. Pasal 28H", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan sama di hadapan hukum diatur dalam?",
+      "explanation": "Pasal 28D ayat (1) UUD 1945 menjamin hak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28D ayat (1)", "isCorrect": true },
+        { "text": "B. Pasal 28E ayat (2)", "isCorrect": false },
+        { "text": "C. Pasal 28G ayat (1)", "isCorrect": false },
+        { "text": "D. Pasal 28J ayat (1)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Pasal 28D ayat (2) UUD 1945, setiap orang berhak untuk bekerja serta mendapat?",
+      "explanation": "Pasal 28D ayat (2) menyatakan setiap orang berhak untuk bekerja serta mendapat imbalan dan perlakuan yang adil dan layak dalam hubungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Jaminan pensiun seumur hidup", "isCorrect": false },
+        { "text": "B. Imbalan dan perlakuan yang adil dan layak dalam hubungan kerja", "isCorrect": true },
+        { "text": "C. Kebebasan tanpa aturan kerja", "isCorrect": false },
+        { "text": "D. Pembebasan dari pajak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setiap warga negara berhak memperoleh kesempatan yang sama dalam pemerintahan, sebagaimana diatur dalam?",
+      "explanation": "Pasal 28D ayat (3) UUD 1945 menyatakan setiap warga negara berhak memperoleh kesempatan yang sama dalam pemerintahan.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28C ayat (2)", "isCorrect": false },
+        { "text": "B. Pasal 28D ayat (3)", "isCorrect": true },
+        { "text": "C. Pasal 28E ayat (3)", "isCorrect": false },
+        { "text": "D. Pasal 28F", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak setiap orang atas status kewarganegaraan diatur dalam UUD 1945 pada?",
+      "explanation": "Pasal 28D ayat (4) UUD 1945 menyatakan setiap orang berhak atas status kewarganegaraan.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28D ayat (4)", "isCorrect": true },
+        { "text": "B. Pasal 28E ayat (1)", "isCorrect": false },
+        { "text": "C. Pasal 28A", "isCorrect": false },
+        { "text": "D. Pasal 26 ayat (1)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebebasan memeluk agama, memilih pendidikan, pekerjaan, kewarganegaraan, dan tempat tinggal diatur dalam?",
+      "explanation": "Pasal 28E ayat (1) UUD 1945 menyatakan setiap orang bebas memeluk agama dan beribadat, memilih pendidikan, pekerjaan, kewarganegaraan, serta tempat tinggal.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28D", "isCorrect": false },
+        { "text": "B. Pasal 28E ayat (1)", "isCorrect": true },
+        { "text": "C. Pasal 28F", "isCorrect": false },
+        { "text": "D. Pasal 28H ayat (3)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak berkomunikasi dan memperoleh informasi untuk mengembangkan pribadi dan lingkungan sosial diatur dalam?",
+      "explanation": "Pasal 28F UUD 1945 menjamin hak setiap orang untuk berkomunikasi dan memperoleh informasi serta mencari, memiliki, menyimpan, mengolah, dan menyampaikan informasi.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28C", "isCorrect": false },
+        { "text": "B. Pasal 28E", "isCorrect": false },
+        { "text": "C. Pasal 28F", "isCorrect": true },
+        { "text": "D. Pasal 28G", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak atas perlindungan diri pribadi, keluarga, kehormatan, martabat, dan rasa aman diatur dalam?",
+      "explanation": "Pasal 28G ayat (1) UUD 1945 menjamin hak atas perlindungan diri pribadi, keluarga, kehormatan, martabat, dan harta benda serta rasa aman.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28G ayat (1)", "isCorrect": true },
+        { "text": "B. Pasal 28H ayat (1)", "isCorrect": false },
+        { "text": "C. Pasal 28I ayat (1)", "isCorrect": false },
+        { "text": "D. Pasal 28J ayat (2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia diatur dalam?",
+      "explanation": "Pasal 28G ayat (2) UUD 1945 menyatakan setiap orang berhak bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia dan berhak memperoleh suaka politik dari negara lain.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28F", "isCorrect": false },
+        { "text": "B. Pasal 28G ayat (2)", "isCorrect": true },
+        { "text": "C. Pasal 28H ayat (2)", "isCorrect": false },
+        { "text": "D. Pasal 28I ayat (2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak hidup sejahtera lahir dan batin, bertempat tinggal, dan memperoleh pelayanan kesehatan diatur dalam?",
+      "explanation": "Pasal 28H ayat (1) UUD 1945 menyatakan setiap orang berhak hidup sejahtera lahir dan batin, bertempat tinggal, mendapatkan lingkungan hidup yang baik dan sehat serta memperoleh pelayanan kesehatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28G", "isCorrect": false },
+        { "text": "B. Pasal 28H ayat (1)", "isCorrect": true },
+        { "text": "C. Pasal 28I", "isCorrect": false },
+        { "text": "D. Pasal 28J", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak atas jaminan sosial yang memungkinkan pengembangan diri secara utuh sebagai manusia bermartabat diatur dalam?",
+      "explanation": "Pasal 28H ayat (3) UUD 1945 menyatakan setiap orang berhak atas jaminan sosial yang memungkinkan pengembangan dirinya secara utuh sebagai manusia yang bermartabat.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28H ayat (3)", "isCorrect": true },
+        { "text": "B. Pasal 28C ayat (1)", "isCorrect": false },
+        { "text": "C. Pasal 34 ayat (2)", "isCorrect": false },
+        { "text": "D. Pasal 28D ayat (2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak milik pribadi yang tidak boleh diambil alih secara sewenang-wenang oleh siapa pun diatur dalam?",
+      "explanation": "Pasal 28H ayat (4) UUD 1945 menyatakan setiap orang berhak mempunyai hak milik pribadi dan hak milik tersebut tidak boleh diambil alih secara sewenang-wenang oleh siapa pun.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28G ayat (1)", "isCorrect": false },
+        { "text": "B. Pasal 28H ayat (4)", "isCorrect": true },
+        { "text": "C. Pasal 28I ayat (4)", "isCorrect": false },
+        { "text": "D. Pasal 33 ayat (3)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak yang menurut Pasal 28I ayat (1) UUD 1945 termasuk hak asasi yang tidak dapat dikurangi dalam keadaan apa pun (non-derogable rights) adalah?",
+      "explanation": "Pasal 28I ayat (1) menyebut hak untuk hidup, hak tidak disiksa, kemerdekaan pikiran dan hati nurani, hak beragama, dan beberapa hak lain sebagai HAM yang tidak dapat dikurangi dalam keadaan apa pun.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Hak memilih dalam pemilu", "isCorrect": false },
+        { "text": "B. Hak untuk hidup dan hak untuk tidak disiksa", "isCorrect": true },
+        { "text": "C. Hak atas pekerjaan", "isCorrect": false },
+        { "text": "D. Hak atas jaminan sosial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak bebas dari perlakuan yang bersifat diskriminatif atas dasar apa pun diatur dalam?",
+      "explanation": "Pasal 28I ayat (2) UUD 1945 menyatakan setiap orang berhak bebas dari perlakuan yang bersifat diskriminatif atas dasar apa pun dan berhak mendapat perlindungan terhadap perlakuan diskriminatif itu.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28H ayat (2)", "isCorrect": false },
+        { "text": "B. Pasal 28I ayat (2)", "isCorrect": true },
+        { "text": "C. Pasal 28J ayat (1)", "isCorrect": false },
+        { "text": "D. Pasal 28G ayat (2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identitas budaya dan hak masyarakat tradisional dihormati selaras dengan perkembangan zaman, diatur dalam?",
+      "explanation": "Pasal 28I ayat (3) UUD 1945 menyatakan identitas budaya dan hak masyarakat tradisional dihormati selaras dengan perkembangan zaman dan peradaban.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28I ayat (3)", "isCorrect": true },
+        { "text": "B. Pasal 32 ayat (1)", "isCorrect": false },
+        { "text": "C. Pasal 28J ayat (2)", "isCorrect": false },
+        { "text": "D. Pasal 18B ayat (2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewajiban setiap orang untuk menghormati hak asasi manusia orang lain diatur dalam UUD 1945 pada?",
+      "explanation": "Pasal 28J ayat (1) UUD 1945 menyatakan setiap orang wajib menghormati hak asasi manusia orang lain dalam tertib kehidupan bermasyarakat, berbangsa, dan bernegara.",
+      "difficulty": "HARD",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Pasal 28I ayat (1)", "isCorrect": false },
+        { "text": "B. Pasal 28J ayat (1)", "isCorrect": true },
+        { "text": "C. Pasal 27 ayat (1)", "isCorrect": false },
+        { "text": "D. Pasal 30 ayat (1)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Pasal 28J ayat (2) UUD 1945, dalam menjalankan hak dan kebebasannya setiap orang wajib?",
+      "explanation": "Pasal 28J ayat (2) menyatakan setiap orang wajib tunduk kepada pembatasan yang ditetapkan undang-undang untuk menjamin pengakuan dan penghormatan atas hak orang lain.",
+      "difficulty": "HARD",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Tunduk kepada pembatasan yang ditetapkan undang-undang", "isCorrect": true },
+        { "text": "B. Mengabaikan hak orang lain", "isCorrect": false },
+        { "text": "C. Mengutamakan kepentingan pribadi", "isCorrect": false },
+        { "text": "D. Membatasi hak orang lain secara bebas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembatasan terhadap hak dan kebebasan menurut Pasal 28J ayat (2) UUD 1945 dimaksudkan untuk?",
+      "explanation": "Pembatasan ditetapkan semata-mata untuk menjamin pengakuan dan penghormatan atas hak dan kebebasan orang lain serta memenuhi tuntutan keadilan sesuai pertimbangan moral, nilai agama, keamanan, dan ketertiban umum.",
+      "difficulty": "HARD",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Menghapus hak warga negara", "isCorrect": false },
+        { "text": "B. Menjamin penghormatan hak orang lain dan ketertiban umum", "isCorrect": true },
+        { "text": "C. Menambah kekuasaan pemerintah", "isCorrect": false },
+        { "text": "D. Membebaskan negara dari tanggung jawab", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa kepanjangan dari HAM?",
+      "explanation": "HAM adalah singkatan dari Hak Asasi Manusia, yaitu hak dasar yang melekat pada manusia sejak lahir sebagai anugerah Tuhan.",
+      "difficulty": "EASY",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Hak Asasi Manusia", "isCorrect": true },
+        { "text": "B. Hukum Asasi Manusia", "isCorrect": false },
+        { "text": "C. Hak Aturan Masyarakat", "isCorrect": false },
+        { "text": "D. Himpunan Aspirasi Masyarakat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak Asasi Manusia (HAM) bersifat?",
+      "explanation": "HAM bersifat universal (berlaku untuk semua manusia), kodrati (melekat sejak lahir), dan tidak dapat dicabut oleh siapa pun.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Hanya untuk warga negara tertentu", "isCorrect": false },
+        { "text": "B. Universal, kodrati, dan tidak dapat dicabut", "isCorrect": true },
+        { "text": "C. Dapat dihapus oleh pemerintah", "isCorrect": false },
+        { "text": "D. Berlaku hanya saat dewasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Undang-undang yang khusus mengatur tentang Hak Asasi Manusia di Indonesia adalah?",
+      "explanation": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia merupakan undang-undang yang khusus mengatur HAM di Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. UU No. 12 Tahun 2006", "isCorrect": false },
+        { "text": "B. UU No. 39 Tahun 1999", "isCorrect": true },
+        { "text": "C. UU No. 20 Tahun 2003", "isCorrect": false },
+        { "text": "D. UU No. 3 Tahun 2002", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu permasalahan HAM yang disebut dalam materi adalah perundang-undangan yang belum?",
+      "explanation": "Salah satu permasalahan HAM yang disebut adalah perundang-undangan yang belum berwawasan gender.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Berwawasan gender", "isCorrect": true },
+        { "text": "B. Berwawasan teknologi", "isCorrect": false },
+        { "text": "C. Berwawasan ekonomi", "isCorrect": false },
+        { "text": "D. Berwawasan internasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aksi terorisme dan kriminalitas internasional akibat globalisasi termasuk dalam kategori?",
+      "explanation": "Aksi terorisme, konflik di daerah, kondisi ekonomi, dan globalisasi (kriminalitas internasional) termasuk permasalahan HAM yang dibahas dalam materi.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Permasalahan HAM", "isCorrect": true },
+        { "text": "B. Hak warga negara", "isCorrect": false },
+        { "text": "C. Kewajiban dasar manusia", "isCorrect": false },
+        { "text": "D. Unsur negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komisi yang dibentuk pemerintah untuk menegakkan dan melindungi HAM di Indonesia adalah?",
+      "explanation": "Komnas HAM (Komisi Nasional Hak Asasi Manusia) adalah lembaga negara mandiri yang berfungsi melakukan pengkajian, penelitian, pemantauan, dan mediasi HAM.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. KPK", "isCorrect": false },
+        { "text": "B. Komnas HAM", "isCorrect": true },
+        { "text": "C. KPU", "isCorrect": false },
+        { "text": "D. Ombudsman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kewajiban warga negara yang tercantum dalam Pasal 27 ayat (1) UUD 1945 adalah?",
+      "explanation": "Pasal 27 ayat (1) menyatakan setiap warga negara wajib menjunjung hukum dan pemerintahan tanpa kecuali.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Membayar denda kepada negara", "isCorrect": false },
+        { "text": "B. Menjunjung hukum dan pemerintahan", "isCorrect": true },
+        { "text": "C. Menjadi anggota TNI", "isCorrect": false },
+        { "text": "D. Memilih dalam pemilu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Membayar pajak kepada negara merupakan contoh dari?",
+      "explanation": "Membayar pajak adalah salah satu kewajiban warga negara terhadap negara yang menjadi sumber pembiayaan pembangunan dan pelayanan publik.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Hak warga negara", "isCorrect": false },
+        { "text": "B. Kewajiban warga negara", "isCorrect": true },
+        { "text": "C. Hak asasi manusia", "isCorrect": false },
+        { "text": "D. Pelanggaran hukum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menaati peraturan perundang-undangan yang berlaku merupakan bentuk?",
+      "explanation": "Menaati peraturan perundang-undangan adalah salah satu kewajiban warga negara untuk menjaga ketertiban dan keadilan dalam kehidupan bernegara.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Hak istimewa", "isCorrect": false },
+        { "text": "B. Kewajiban warga negara", "isCorrect": true },
+        { "text": "C. Pemberian negara", "isCorrect": false },
+        { "text": "D. Pelanggaran HAM", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengikuti pendidikan dasar bagi setiap warga negara menurut Pasal 31 ayat (2) bersifat?",
+      "explanation": "Pasal 31 ayat (2) menjadikan mengikuti pendidikan dasar sebagai sebuah kewajiban bagi setiap warga negara, sekaligus hak yang dibiayai pemerintah.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Kewajiban", "isCorrect": true },
+        { "text": "B. Pilihan bebas", "isCorrect": false },
+        { "text": "C. Larangan", "isCorrect": false },
+        { "text": "D. Hak istimewa pejabat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ikut serta dalam usaha pertahanan dan keamanan negara menurut Pasal 30 ayat (1) merupakan?",
+      "explanation": "Pasal 30 ayat (1) menyatakan bela negara merupakan hak sekaligus kewajiban bagi tiap-tiap warga negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Hanya hak warga negara", "isCorrect": false },
+        { "text": "B. Hanya kewajiban TNI", "isCorrect": false },
+        { "text": "C. Hak sekaligus kewajiban warga negara", "isCorrect": true },
+        { "text": "D. Larangan bagi sipil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem pertahanan dan keamanan negara menurut Pasal 30 ayat (2) UUD 1945 dilaksanakan melalui sistem?",
+      "explanation": "Pasal 30 ayat (2) menyebut sistem pertahanan dan keamanan rakyat semesta (Sishankamrata) dengan TNI dan Polri sebagai kekuatan utama, dan rakyat sebagai kekuatan pendukung.",
+      "difficulty": "HARD",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Pertahanan dan keamanan rakyat semesta (Sishankamrata)", "isCorrect": true },
+        { "text": "B. Pertahanan sipil murni", "isCorrect": false },
+        { "text": "C. Pertahanan militer profesional saja", "isCorrect": false },
+        { "text": "D. Pertahanan kolektif internasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Pasal 30 ayat (3) UUD 1945, yang menjadi kekuatan utama dalam pertahanan negara adalah?",
+      "explanation": "Pasal 30 ayat (3) menyatakan Tentara Nasional Indonesia (TNI) sebagai kekuatan utama dalam sistem pertahanan negara.",
+      "difficulty": "HARD",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Polri", "isCorrect": false },
+        { "text": "B. Tentara Nasional Indonesia (TNI)", "isCorrect": true },
+        { "text": "C. Satpol PP", "isCorrect": false },
+        { "text": "D. Hansip", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Pasal 30 ayat (4) UUD 1945, yang bertugas menjaga keamanan dan ketertiban masyarakat adalah?",
+      "explanation": "Pasal 30 ayat (4) menyatakan Kepolisian Negara Republik Indonesia (Polri) bertugas melindungi, mengayomi, melayani masyarakat, serta menegakkan hukum.",
+      "difficulty": "HARD",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. TNI", "isCorrect": false },
+        { "text": "B. Kepolisian Negara RI (Polri)", "isCorrect": true },
+        { "text": "C. KPK", "isCorrect": false },
+        { "text": "D. DPR", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Undang-undang yang menjadi dasar hukum pertahanan negara dan bela negara di Indonesia adalah?",
+      "explanation": "UU No. 3 Tahun 2002 tentang Pertahanan Negara merupakan dasar hukum penyelenggaraan pertahanan dan bela negara di Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. UU No. 3 Tahun 2002", "isCorrect": true },
+        { "text": "B. UU No. 39 Tahun 1999", "isCorrect": false },
+        { "text": "C. UU No. 12 Tahun 2006", "isCorrect": false },
+        { "text": "D. UU No. 20 Tahun 2003", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya bela negara dapat diwujudkan oleh mahasiswa dalam bentuk?",
+      "explanation": "Bela negara bagi mahasiswa dapat diwujudkan melalui sikap nasionalisme, belajar dengan tekun, menjaga persatuan, dan menaati hukum, tidak harus dengan mengangkat senjata.",
+      "difficulty": "EASY",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Hanya dengan mengangkat senjata", "isCorrect": false },
+        { "text": "B. Belajar tekun dan menjaga persatuan bangsa", "isCorrect": true },
+        { "text": "C. Mengabaikan aturan kampus", "isCorrect": false },
+        { "text": "D. Menghindari kegiatan kewarganegaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bela negara secara non-fisik dapat dilakukan melalui?",
+      "explanation": "Bela negara non-fisik dilakukan melalui pendidikan, pengabdian profesi, meningkatkan kesadaran berbangsa, serta menjaga nama baik bangsa.",
+      "difficulty": "MEDIUM",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Pelatihan militer wajib", "isCorrect": false },
+        { "text": "B. Pendidikan, pengabdian profesi, dan kesadaran berbangsa", "isCorrect": true },
+        { "text": "C. Perang melawan negara lain", "isCorrect": false },
+        { "text": "D. Demonstrasi anarkis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa hak dan kewajiban warga negara harus dijalankan secara seimbang?",
+      "explanation": "Keseimbangan hak dan kewajiban diperlukan agar tercipta keadilan, ketertiban, dan stabilitas sosial; menuntut hak tanpa menjalankan kewajiban dapat mengganggu keadilan sosial.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Agar tercipta keadilan dan stabilitas sosial", "isCorrect": true },
+        { "text": "B. Agar negara mendapat keuntungan saja", "isCorrect": false },
+        { "text": "C. Agar warga negara bebas dari aturan", "isCorrect": false },
+        { "text": "D. Agar hak lebih besar dari kewajiban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dapat terjadi jika warga negara hanya menuntut hak tanpa menjalankan kewajiban?",
+      "explanation": "Ketidakseimbangan tersebut dapat menimbulkan ketidakadilan, konflik sosial, dan mengancam stabilitas serta keadilan sosial dalam masyarakat.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Negara menjadi lebih kuat", "isCorrect": false },
+        { "text": "B. Timbul ketidakadilan dan konflik sosial", "isCorrect": true },
+        { "text": "C. Tidak ada dampak apa pun", "isCorrect": false },
+        { "text": "D. Hak orang lain semakin terjamin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nilai dasar Pancasila yang paling berkaitan dengan keseimbangan hak dan kewajiban demi kesejahteraan bersama adalah sila ke-?",
+      "explanation": "Sila ke-5 Pancasila, Keadilan Sosial bagi Seluruh Rakyat Indonesia, menekankan keseimbangan hak dan kewajiban demi terwujudnya kesejahteraan bersama.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Sila ke-1", "isCorrect": false },
+        { "text": "B. Sila ke-3", "isCorrect": false },
+        { "text": "C. Sila ke-5", "isCorrect": true },
+        { "text": "D. Sila ke-2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip keseimbangan hak dan kewajiban mengandung makna bahwa setiap hak yang dimiliki seseorang?",
+      "explanation": "Setiap hak yang dimiliki seseorang dibatasi oleh hak orang lain, sehingga pelaksanaannya harus disertai kewajiban menghormati hak orang lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Dibatasi oleh hak orang lain", "isCorrect": true },
+        { "text": "B. Bersifat mutlak tanpa batas", "isCorrect": false },
+        { "text": "C. Lebih utama daripada kewajiban", "isCorrect": false },
+        { "text": "D. Tidak terikat aturan apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh keseimbangan hak dan kewajiban dalam bidang pendidikan adalah?",
+      "explanation": "Warga negara berhak mendapat pendidikan (Pasal 31 ayat 1) dan sekaligus wajib mengikuti pendidikan dasar (Pasal 31 ayat 2), menunjukkan keseimbangan hak dan kewajiban.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Berhak mendapat pendidikan dan wajib mengikuti pendidikan dasar", "isCorrect": true },
+        { "text": "B. Hanya berhak tanpa kewajiban apa pun", "isCorrect": false },
+        { "text": "C. Hanya wajib membayar tanpa hak", "isCorrect": false },
+        { "text": "D. Bebas tidak bersekolah sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak warga negara untuk memperoleh pekerjaan (Pasal 27 ayat 2) idealnya diimbangi dengan kewajiban?",
+      "explanation": "Hak atas pekerjaan diimbangi dengan kewajiban bekerja secara produktif, jujur, serta menaati aturan dalam hubungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Bekerja produktif dan menaati aturan kerja", "isCorrect": true },
+        { "text": "B. Menolak bekerja", "isCorrect": false },
+        { "text": "C. Menuntut gaji tanpa bekerja", "isCorrect": false },
+        { "text": "D. Mengabaikan kewajiban perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asas penentuan kewarganegaraan berdasarkan tempat kelahiran disebut?",
+      "explanation": "Ius soli adalah asas penentuan kewarganegaraan berdasarkan tempat/negara di mana seseorang dilahirkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Ius sanguinis", "isCorrect": false },
+        { "text": "B. Ius soli", "isCorrect": true },
+        { "text": "C. Naturalisasi", "isCorrect": false },
+        { "text": "D. Repudiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asas penentuan kewarganegaraan berdasarkan hubungan darah/keturunan disebut?",
+      "explanation": "Ius sanguinis adalah asas penentuan kewarganegaraan berdasarkan hubungan darah atau keturunan orang tua.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Ius soli", "isCorrect": false },
+        { "text": "B. Ius sanguinis", "isCorrect": true },
+        { "text": "C. Apatride", "isCorrect": false },
+        { "text": "D. Bipatride", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang memiliki dua kewarganegaraan sekaligus akibat perbedaan asas disebut?",
+      "explanation": "Bipatride adalah keadaan seseorang yang memiliki dua kewarganegaraan, akibat perbedaan penerapan asas ius soli dan ius sanguinis antarnegara.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Apatride", "isCorrect": false },
+        { "text": "B. Bipatride", "isCorrect": true },
+        { "text": "C. Multipatride", "isCorrect": false },
+        { "text": "D. Naturalisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang tidak memiliki kewarganegaraan sama sekali disebut?",
+      "explanation": "Apatride adalah keadaan seseorang yang tidak memiliki kewarganegaraan apa pun akibat perbedaan asas kewarganegaraan antarnegara.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Bipatride", "isCorrect": false },
+        { "text": "B. Apatride", "isCorrect": true },
+        { "text": "C. Stelsel aktif", "isCorrect": false },
+        { "text": "D. Hak opsi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak seseorang untuk memilih suatu kewarganegaraan disebut?",
+      "explanation": "Hak opsi adalah hak untuk memilih suatu kewarganegaraan, sedangkan hak repudiasi adalah hak untuk menolak suatu kewarganegaraan.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Hak opsi", "isCorrect": true },
+        { "text": "B. Hak repudiasi", "isCorrect": false },
+        { "text": "C. Hak imunitas", "isCorrect": false },
+        { "text": "D. Hak veto", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asas kewarganegaraan Indonesia menurut UU No. 62 Tahun 1958 pada dasarnya menganut asas?",
+      "explanation": "UU No. 62 Tahun 1958 pada dasarnya menganut asas ius sanguinis (keturunan) sebagai dasar penentuan kewarganegaraan Indonesia.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Ius soli murni", "isCorrect": false },
+        { "text": "B. Ius sanguinis", "isCorrect": true },
+        { "text": "C. Apatride", "isCorrect": false },
+        { "text": "D. Naturalisasi paksa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara memperoleh kewarganegaraan Indonesia yang disebut dalam materi adalah karena?",
+      "explanation": "Kewarganegaraan Indonesia dapat diperoleh antara lain karena kelahiran, pengangkatan, pewarganegaraan, perkawinan, turut ayah/ibu, dan pernyataan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Kelahiran, perkawinan, dan pewarganegaraan", "isCorrect": true },
+        { "text": "B. Membayar denda kepada negara", "isCorrect": false },
+        { "text": "C. Memenangkan undian", "isCorrect": false },
+        { "text": "D. Menetap di luar negeri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam asas perkawinan, prinsip bahwa anggota keluarga tunduk pada hukum yang sama disebut?",
+      "explanation": "Asas kesatuan hukum menetapkan bahwa anggota keluarga tunduk pada hukum yang sama bila terjadi perkawinan antarbangsa, sehingga warga negara istri mengikuti suami.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Asas persamaan derajat", "isCorrect": false },
+        { "text": "B. Asas kesatuan hukum", "isCorrect": true },
+        { "text": "C. Asas ius soli", "isCorrect": false },
+        { "text": "D. Asas repudiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip bahwa perkawinan tidak menyebabkan berubahnya status kewarganegaraan masing-masing pihak disebut?",
+      "explanation": "Asas persamaan derajat menetapkan bahwa suatu perkawinan tidak menyebabkan berubahnya status kewarganegaraan masing-masing pihak.",
+      "difficulty": "HARD",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Asas kesatuan hukum", "isCorrect": false },
+        { "text": "B. Asas persamaan derajat", "isCorrect": true },
+        { "text": "C. Asas ius sanguinis", "isCorrect": false },
+        { "text": "D. Asas opsi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasal 26 ayat (1) UUD 1945 menyatakan bahwa yang menjadi warga negara adalah?",
+      "explanation": "Pasal 26 ayat (1) menyatakan yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian Hak & Kewajiban",
+      "options": [
+        { "text": "A. Orang bangsa Indonesia asli dan bangsa lain yang disahkan UU", "isCorrect": true },
+        { "text": "B. Hanya orang yang lahir di Jakarta", "isCorrect": false },
+        { "text": "C. Semua orang yang berkunjung ke Indonesia", "isCorrect": false },
+        { "text": "D. Hanya pejabat negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak warga negara untuk memilih dan dipilih dalam pemilihan umum termasuk hak di bidang?",
+      "explanation": "Hak memilih dan dipilih dalam pemilu merupakan hak di bidang politik, sejalan dengan kesempatan yang sama dalam pemerintahan.",
+      "difficulty": "EASY",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Ekonomi", "isCorrect": false },
+        { "text": "B. Politik", "isCorrect": true },
+        { "text": "C. Sosial budaya", "isCorrect": false },
+        { "text": "D. Pertahanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak warga negara untuk memperoleh penghidupan yang layak dan jaminan sosial termasuk hak di bidang?",
+      "explanation": "Hak atas penghidupan layak, pekerjaan, dan jaminan sosial termasuk hak di bidang ekonomi dan sosial.",
+      "difficulty": "EASY",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Politik", "isCorrect": false },
+        { "text": "B. Pertahanan", "isCorrect": false },
+        { "text": "C. Ekonomi dan sosial", "isCorrect": true },
+        { "text": "D. Hukum pidana", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebebasan beragama dan beribadat menurut UUD 1945 termasuk hak di bidang?",
+      "explanation": "Kebebasan memeluk agama dan beribadat (Pasal 29 ayat 2) termasuk hak di bidang agama/kebebasan religius.",
+      "difficulty": "EASY",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Agama/keagamaan", "isCorrect": true },
+        { "text": "B. Ekonomi", "isCorrect": false },
+        { "text": "C. Politik", "isCorrect": false },
+        { "text": "D. Pertahanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara berkewajiban menjamin hak warga negara. Hal ini menunjukkan bahwa hak warga negara berhubungan dengan?",
+      "explanation": "Hak warga negara menimbulkan kewajiban bagi negara untuk memenuhi, melindungi, dan menghormati hak tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Kewajiban negara untuk memenuhinya", "isCorrect": true },
+        { "text": "B. Hak negara untuk mengabaikannya", "isCorrect": false },
+        { "text": "C. Larangan bagi warga negara", "isCorrect": false },
+        { "text": "D. Kebebasan negara tanpa tanggung jawab", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewajiban dasar manusia menurut UUD 1945 antara lain menghormati?",
+      "explanation": "Kewajiban dasar manusia mencakup menghormati hak asasi manusia orang lain dalam tertib kehidupan bermasyarakat, berbangsa, dan bernegara.",
+      "difficulty": "MEDIUM",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Hak asasi manusia orang lain", "isCorrect": true },
+        { "text": "B. Kekuasaan pribadi", "isCorrect": false },
+        { "text": "C. Kepentingan asing", "isCorrect": false },
+        { "text": "D. Hanya hak diri sendiri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelaksanaan hak asasi manusia di Indonesia harus memperhatikan?",
+      "explanation": "Pelaksanaan HAM di Indonesia harus memperhatikan kewajiban menghormati HAM orang lain serta pembatasan demi ketertiban umum (Pasal 28J), sehingga tidak bersifat mutlak tanpa batas.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Kebebasan tanpa batas", "isCorrect": false },
+        { "text": "B. Penghormatan HAM orang lain dan ketertiban umum", "isCorrect": true },
+        { "text": "C. Kepentingan pribadi semata", "isCorrect": false },
+        { "text": "D. Penghapusan kewajiban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep yang menegaskan bahwa di balik setiap hak terdapat kewajiban yang harus dipenuhi disebut?",
+      "explanation": "Konsep keseimbangan/keselarasan hak dan kewajiban menegaskan bahwa setiap hak selalu diiringi kewajiban yang harus dipenuhi.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Keseimbangan hak dan kewajiban", "isCorrect": true },
+        { "text": "B. Kebebasan absolut", "isCorrect": false },
+        { "text": "C. Hak prerogatif", "isCorrect": false },
+        { "text": "D. Otonomi penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konflik di daerah dan aksi terorisme dapat menyebabkan terlanggarnya hak warga negara yang paling mendasar, yaitu hak atas?",
+      "explanation": "Konflik dan terorisme paling mengancam hak untuk hidup dan rasa aman, yang merupakan hak paling mendasar dijamin Pasal 28A dan 28G UUD 1945.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Hidup dan rasa aman", "isCorrect": true },
+        { "text": "B. Memilih pekerjaan", "isCorrect": false },
+        { "text": "C. Berserikat", "isCorrect": false },
+        { "text": "D. Memilih tempat tinggal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Globalisasi yang membawa kriminalitas internasional dianggap sebagai tantangan terhadap penegakan?",
+      "explanation": "Globalisasi dengan kriminalitas internasional menjadi salah satu permasalahan dan tantangan terhadap penegakan HAM serta hukum di Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. HAM dan hukum", "isCorrect": true },
+        { "text": "B. Pajak daerah", "isCorrect": false },
+        { "text": "C. Kurikulum sekolah", "isCorrect": false },
+        { "text": "D. Olahraga nasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak setiap orang atas perlakuan yang sama di hadapan hukum mencerminkan asas?",
+      "explanation": "Hak perlakuan yang sama di hadapan hukum mencerminkan asas persamaan di muka hukum (equality before the law), dijamin Pasal 27 ayat 1 dan 28D ayat 1.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Persamaan di muka hukum (equality before the law)", "isCorrect": true },
+        { "text": "B. Diskriminasi positif", "isCorrect": false },
+        { "text": "C. Kekebalan hukum", "isCorrect": false },
+        { "text": "D. Impunitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak warga negara untuk memajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun bangsa diatur dalam?",
+      "explanation": "Pasal 28C ayat (2) UUD 1945 menyatakan setiap orang berhak memajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun masyarakat, bangsa, dan negaranya.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28C ayat (2)", "isCorrect": true },
+        { "text": "B. Pasal 28D ayat (1)", "isCorrect": false },
+        { "text": "C. Pasal 28E ayat (3)", "isCorrect": false },
+        { "text": "D. Pasal 28A", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebebasan meyakini kepercayaan, menyatakan pikiran dan sikap sesuai hati nurani diatur dalam?",
+      "explanation": "Pasal 28E ayat (2) UUD 1945 menyatakan setiap orang berhak atas kebebasan meyakini kepercayaan, menyatakan pikiran dan sikap, sesuai dengan hati nuraninya.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28E ayat (2)", "isCorrect": true },
+        { "text": "B. Pasal 28F", "isCorrect": false },
+        { "text": "C. Pasal 28G ayat (1)", "isCorrect": false },
+        { "text": "D. Pasal 29 ayat (1)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebebasan berserikat, berkumpul, dan mengeluarkan pendapat menurut Pasal 28E ayat (3) merupakan contoh hak di bidang?",
+      "explanation": "Kebebasan berserikat, berkumpul, dan mengeluarkan pendapat (Pasal 28E ayat 3) merupakan hak politik dan sipil warga negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Politik dan sipil", "isCorrect": true },
+        { "text": "B. Ekonomi", "isCorrect": false },
+        { "text": "C. Pertahanan militer", "isCorrect": false },
+        { "text": "D. Kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak mendapat kemudahan dan perlakuan khusus untuk memperoleh kesempatan yang sama (affirmative action) diatur dalam?",
+      "explanation": "Pasal 28H ayat (2) UUD 1945 menyatakan setiap orang berhak mendapat kemudahan dan perlakuan khusus untuk memperoleh kesempatan dan manfaat yang sama guna mencapai persamaan dan keadilan.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pasal 28H ayat (2)", "isCorrect": true },
+        { "text": "B. Pasal 28G ayat (2)", "isCorrect": false },
+        { "text": "C. Pasal 28I ayat (3)", "isCorrect": false },
+        { "text": "D. Pasal 28D ayat (4)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tanggung jawab pemenuhan, perlindungan, dan penegakan HAM menurut Pasal 28I ayat (4) UUD 1945 merupakan tanggung jawab?",
+      "explanation": "Pasal 28I ayat (4) menyatakan perlindungan, pemajuan, penegakan, dan pemenuhan HAM adalah tanggung jawab negara, terutama pemerintah.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Negara, terutama pemerintah", "isCorrect": true },
+        { "text": "B. Individu warga negara saja", "isCorrect": false },
+        { "text": "C. Lembaga swasta", "isCorrect": false },
+        { "text": "D. Organisasi internasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Negara memajukan kebudayaan nasional Indonesia di tengah peradaban dunia diatur dalam UUD 1945 pada?",
+      "explanation": "Pasal 32 ayat (1) UUD 1945 menyatakan negara memajukan kebudayaan nasional Indonesia di tengah peradaban dunia dengan menjamin kebebasan masyarakat memelihara dan mengembangkan nilai budayanya.",
+      "difficulty": "HARD",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Pasal 31 ayat (3)", "isCorrect": false },
+        { "text": "B. Pasal 32 ayat (1)", "isCorrect": true },
+        { "text": "C. Pasal 33 ayat (1)", "isCorrect": false },
+        { "text": "D. Pasal 34 ayat (3)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Pasal 34 ayat (2) UUD 1945, negara mengembangkan sistem jaminan sosial bagi?",
+      "explanation": "Pasal 34 ayat (2) menyatakan negara mengembangkan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah dan tidak mampu.",
+      "difficulty": "HARD",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Seluruh rakyat", "isCorrect": true },
+        { "text": "B. Pejabat negara saja", "isCorrect": false },
+        { "text": "C. Pengusaha besar", "isCorrect": false },
+        { "text": "D. Warga negara asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Pasal 34 ayat (3) UUD 1945, negara bertanggung jawab atas penyediaan fasilitas?",
+      "explanation": "Pasal 34 ayat (3) menyatakan negara bertanggung jawab atas penyediaan fasilitas pelayanan kesehatan dan fasilitas pelayanan umum yang layak.",
+      "difficulty": "HARD",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Pelayanan kesehatan dan fasilitas umum yang layak", "isCorrect": true },
+        { "text": "B. Hiburan mewah", "isCorrect": false },
+        { "text": "C. Kendaraan pribadi", "isCorrect": false },
+        { "text": "D. Investasi asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sikap warga negara yang baik dalam menggunakan hak kebebasan berpendapat di media sosial adalah?",
+      "explanation": "Warga negara wajib menggunakan hak berpendapat secara bertanggung jawab, tidak menyebar hoaks atau ujaran kebencian, sesuai pembatasan Pasal 28J ayat 2.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Menyampaikan pendapat secara bertanggung jawab tanpa hoaks", "isCorrect": true },
+        { "text": "B. Menyebar ujaran kebencian bebas", "isCorrect": false },
+        { "text": "C. Menyebarkan berita bohong demi viral", "isCorrect": false },
+        { "text": "D. Mengabaikan hak orang lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak memperoleh informasi (Pasal 28F) bagi mahasiswa di era digital harus diimbangi dengan kewajiban?",
+      "explanation": "Hak memperoleh informasi harus diimbangi kewajiban menjaga persatuan bangsa, menyaring informasi, dan tidak menyebarkan konten yang memecah belah.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Menjaga persatuan bangsa dan menyaring informasi", "isCorrect": true },
+        { "text": "B. Menyebar semua informasi tanpa filter", "isCorrect": false },
+        { "text": "C. Mengabaikan etika digital", "isCorrect": false },
+        { "text": "D. Memprovokasi konflik antarwarga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak warga negara yang dijamin negara dan kewajiban warga negara terhadap negara membentuk hubungan?",
+      "explanation": "Hubungan tersebut bersifat resiprokal/timbal balik: negara menjamin hak warga, sementara warga menjalankan kewajiban terhadap negara.",
+      "difficulty": "EASY",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Timbal balik (resiprokal)", "isCorrect": true },
+        { "text": "B. Sepihak menguntungkan negara", "isCorrect": false },
+        { "text": "C. Tidak saling terkait", "isCorrect": false },
+        { "text": "D. Hanya menguntungkan individu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pajak yang dibayar warga negara digunakan negara untuk memenuhi hak rakyat seperti pendidikan dan kesehatan. Ini menunjukkan?",
+      "explanation": "Hal ini menunjukkan keseimbangan hak dan kewajiban: kewajiban membayar pajak menjadi sumber bagi negara memenuhi hak rakyat atas pelayanan publik.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Keseimbangan hak dan kewajiban dalam bernegara", "isCorrect": true },
+        { "text": "B. Hak tanpa kewajiban", "isCorrect": false },
+        { "text": "C. Kewajiban tanpa manfaat", "isCorrect": false },
+        { "text": "D. Pemerasan oleh negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak setiap orang untuk hidup sejahtera dan mendapat lingkungan hidup yang baik dan sehat menunjukkan keterkaitan HAM dengan?",
+      "explanation": "Pasal 28H ayat (1) menunjukkan keterkaitan HAM dengan hak atas lingkungan hidup yang baik dan sehat sebagai bagian dari kesejahteraan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Hak atas lingkungan hidup yang sehat", "isCorrect": true },
+        { "text": "B. Hak politik semata", "isCorrect": false },
+        { "text": "C. Hak veto", "isCorrect": false },
+        { "text": "D. Hak istimewa pejabat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Warga negara wajib ikut serta dalam pembelaan negara. Salah satu wujudnya dalam kehidupan sehari-hari adalah?",
+      "explanation": "Wujud bela negara sehari-hari antara lain menaati hukum, menjaga ketertiban, mencintai produk dalam negeri, dan menjaga persatuan bangsa.",
+      "difficulty": "EASY",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Menaati hukum dan menjaga persatuan bangsa", "isCorrect": true },
+        { "text": "B. Menghindari kewajiban pajak", "isCorrect": false },
+        { "text": "C. Memecah belah masyarakat", "isCorrect": false },
+        { "text": "D. Menolak ikut pemilu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama bela negara adalah?",
+      "explanation": "Bela negara bertujuan menjaga kedaulatan negara, keutuhan wilayah, dan keselamatan bangsa dari berbagai ancaman.",
+      "difficulty": "MEDIUM",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Menjaga kedaulatan dan keutuhan negara", "isCorrect": true },
+        { "text": "B. Memperkaya individu", "isCorrect": false },
+        { "text": "C. Menambah konflik antarwarga", "isCorrect": false },
+        { "text": "D. Menghapus aturan hukum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ancaman terhadap negara yang harus dihadapi melalui bela negara dapat bersifat?",
+      "explanation": "Ancaman dapat bersifat militer (invasi, agresi) maupun nonmiliter (ideologi, ekonomi, sosial budaya, siber), sehingga bela negara mencakup semua bidang.",
+      "difficulty": "MEDIUM",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Militer dan nonmiliter", "isCorrect": true },
+        { "text": "B. Hanya militer", "isCorrect": false },
+        { "text": "C. Hanya ekonomi", "isCorrect": false },
+        { "text": "D. Tidak ada ancaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep 'warga negara digital yang ideal' menuntut mahasiswa memiliki hak memperoleh informasi sekaligus kewajiban?",
+      "explanation": "Warga negara digital ideal menggunakan hak atas informasi secara bijak sekaligus menjaga persatuan bangsa, beretika, dan bertanggung jawab di ruang digital.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Menjaga persatuan dan beretika di ruang digital", "isCorrect": true },
+        { "text": "B. Menyebar hoaks demi popularitas", "isCorrect": false },
+        { "text": "C. Mengabaikan tanggung jawab sosial", "isCorrect": false },
+        { "text": "D. Memprovokasi perpecahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak dan kewajiban warga negara yang diatur dalam UUD 1945 bersumber dari nilai dasar?",
+      "explanation": "Hak dan kewajiban warga negara bersumber dari nilai-nilai Pancasila sebagai dasar negara dan pandangan hidup bangsa Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Pancasila", "isCorrect": true },
+        { "text": "B. Liberalisme", "isCorrect": false },
+        { "text": "C. Komunisme", "isCorrect": false },
+        { "text": "D. Individualisme", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setiap orang berhak atas rasa aman dan perlindungan dari ancaman ketakutan untuk berbuat atau tidak berbuat sesuatu. Hak ini termasuk hak?",
+      "explanation": "Hak atas rasa aman dan perlindungan dari ancaman ketakutan (Pasal 28G ayat 1) merupakan hak asasi yang menjamin keamanan pribadi setiap orang.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Hak atas rasa aman", "isCorrect": true },
+        { "text": "B. Hak ekonomi", "isCorrect": false },
+        { "text": "C. Hak politik", "isCorrect": false },
+        { "text": "D. Hak budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan 'tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara' menunjukkan bahwa bela negara adalah?",
+      "explanation": "Pernyataan tersebut (Pasal 30 ayat 1) menegaskan bela negara sekaligus merupakan hak dan kewajiban bagi setiap warga negara.",
+      "difficulty": "EASY",
+      "tag": "Bela Negara",
+      "options": [
+        { "text": "A. Hak sekaligus kewajiban", "isCorrect": true },
+        { "text": "B. Hanya hak", "isCorrect": false },
+        { "text": "C. Hanya kewajiban", "isCorrect": false },
+        { "text": "D. Bukan keduanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kewajiban menghormati hak orang lain dalam menggunakan hak pribadi merupakan penerapan prinsip?",
+      "explanation": "Hal ini menerapkan prinsip keseimbangan hak dan kewajiban serta pembatasan hak (Pasal 28J), agar hak satu orang tidak melanggar hak orang lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Keseimbangan dan pembatasan hak", "isCorrect": true },
+        { "text": "B. Kebebasan mutlak", "isCorrect": false },
+        { "text": "C. Anarkisme", "isCorrect": false },
+        { "text": "D. Hak tanpa batas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu contoh pelanggaran kewajiban warga negara adalah?",
+      "explanation": "Tidak membayar pajak, melanggar hukum, atau merusak fasilitas umum merupakan contoh pelanggaran kewajiban warga negara.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Menghindari pajak dan melanggar hukum", "isCorrect": true },
+        { "text": "B. Membayar pajak tepat waktu", "isCorrect": false },
+        { "text": "C. Menaati peraturan lalu lintas", "isCorrect": false },
+        { "text": "D. Mengikuti pendidikan dasar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak yang menjamin setiap orang tidak boleh dituntut atas dasar hukum yang berlaku surut termasuk dalam HAM yang?",
+      "explanation": "Hak untuk tidak dituntut atas dasar hukum yang berlaku surut (asas non-retroaktif) termasuk hak yang tidak dapat dikurangi dalam keadaan apa pun (Pasal 28I ayat 1).",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Tidak dapat dikurangi dalam keadaan apa pun", "isCorrect": true },
+        { "text": "B. Dapat dicabut kapan saja", "isCorrect": false },
+        { "text": "C. Hanya berlaku saat damai", "isCorrect": false },
+        { "text": "D. Hanya untuk pejabat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Warga negara yang menjalankan hak dan kewajibannya secara seimbang akan mendukung terwujudnya?",
+      "explanation": "Keseimbangan hak dan kewajiban mendukung terwujudnya keadilan sosial, ketertiban, dan stabilitas nasional sesuai cita-cita Pancasila dan UUD 1945.",
+      "difficulty": "EASY",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Keadilan sosial dan stabilitas nasional", "isCorrect": true },
+        { "text": "B. Perpecahan bangsa", "isCorrect": false },
+        { "text": "C. Ketidakadilan", "isCorrect": false },
+        { "text": "D. Kekacauan hukum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak warga negara untuk mendapat pengajaran sebagaimana dijamin UUD 1945 menuntut peran aktif negara untuk?",
+      "explanation": "Hak atas pendidikan (Pasal 31) menuntut negara menyelenggarakan dan membiayai pendidikan dasar serta mengusahakan sistem pendidikan nasional.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Menyelenggarakan dan membiayai pendidikan", "isCorrect": true },
+        { "text": "B. Membatasi akses sekolah", "isCorrect": false },
+        { "text": "C. Menutup sekolah negeri", "isCorrect": false },
+        { "text": "D. Menyerahkan semua pada swasta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Persamaan kedudukan warga negara di dalam hukum dan pemerintahan (Pasal 27 ayat 1) berarti tidak ada?",
+      "explanation": "Persamaan kedudukan berarti tidak ada diskriminasi; setiap warga negara memiliki kedudukan yang sama tanpa membedakan suku, agama, ras, atau golongan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Diskriminasi antarwarga negara", "isCorrect": true },
+        { "text": "B. Persatuan bangsa", "isCorrect": false },
+        { "text": "C. Penegakan hukum", "isCorrect": false },
+        { "text": "D. Pelayanan publik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lembaga peradilan yang berwenang menangani perkara pelanggaran HAM berat di Indonesia adalah?",
+      "explanation": "Pengadilan HAM, berdasarkan UU No. 26 Tahun 2000, berwenang mengadili pelanggaran HAM berat seperti genosida dan kejahatan terhadap kemanusiaan.",
+      "difficulty": "HARD",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Pengadilan HAM", "isCorrect": true },
+        { "text": "B. Pengadilan Niaga", "isCorrect": false },
+        { "text": "C. Pengadilan Agama", "isCorrect": false },
+        { "text": "D. Pengadilan Tata Usaha Negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penegakan hukum yang lemah disebut dalam materi sebagai salah satu?",
+      "explanation": "Penegakan hukum yang lemah disebut sebagai salah satu permasalahan HAM yang menghambat pemenuhan hak warga negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Hak Asasi Manusia (HAM)",
+      "options": [
+        { "text": "A. Permasalahan HAM", "isCorrect": true },
+        { "text": "B. Hak istimewa", "isCorrect": false },
+        { "text": "C. Kewajiban negara asing", "isCorrect": false },
+        { "text": "D. Asas kewarganegaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi ekonomi yang timpang dapat menghambat pemenuhan hak warga negara terutama hak di bidang?",
+      "explanation": "Kondisi ekonomi yang buruk menghambat pemenuhan hak ekonomi-sosial seperti pekerjaan, penghidupan layak, dan kesejahteraan (Pasal 27 ayat 2 dan Pasal 34).",
+      "difficulty": "MEDIUM",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Ekonomi dan kesejahteraan sosial", "isCorrect": true },
+        { "text": "B. Pertahanan militer", "isCorrect": false },
+        { "text": "C. Kebebasan beragama", "isCorrect": false },
+        { "text": "D. Hak budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sikap menghargai keberagaman dan menghormati hak orang lain merupakan perwujudan kewajiban warga negara untuk menjaga?",
+      "explanation": "Menghargai keberagaman dan menghormati hak orang lain merupakan perwujudan kewajiban menjaga persatuan dan kerukunan bangsa sesuai Pancasila dan Pasal 28J.",
+      "difficulty": "EASY",
+      "tag": "Kewajiban Warga Negara UUD 1945",
+      "options": [
+        { "text": "A. Persatuan dan kerukunan bangsa", "isCorrect": true },
+        { "text": "B. Kepentingan pribadi", "isCorrect": false },
+        { "text": "C. Perpecahan masyarakat", "isCorrect": false },
+        { "text": "D. Diskriminasi golongan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hak warga negara dan kewajiban negara untuk memenuhinya merupakan dua hal yang saling?",
+      "explanation": "Hak warga negara dan kewajiban negara saling berkaitan: hak warga melahirkan kewajiban bagi negara untuk memenuhi, melindungi, dan menghormatinya.",
+      "difficulty": "EASY",
+      "tag": "Keseimbangan Hak & Kewajiban",
+      "options": [
+        { "text": "A. Berkaitan dan melengkapi", "isCorrect": true },
+        { "text": "B. Bertentangan", "isCorrect": false },
+        { "text": "C. Terpisah total", "isCorrect": false },
+        { "text": "D. Tidak penting", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Pengertian hak", "back": "Segala sesuatu yang mutlak menjadi milik seseorang dan penggunaannya tergantung pada diri orang itu sendiri.", "tag": "Pengertian Hak & Kewajiban" },
+    { "front": "Pengertian kewajiban", "back": "Sesuatu yang harus dilaksanakan dengan penuh tanggung jawab; beban memberikan sesuatu kepada pihak lain atau negara.", "tag": "Pengertian Hak & Kewajiban" },
+    { "front": "Pasal pengaturan hak & kewajiban warga negara", "back": "UUD 1945 Pasal 27-34 (hak & kewajiban dasar) dan Pasal 28A-28J (HAM).", "tag": "Hak Warga Negara UUD 1945" },
+    { "front": "Pasal 27 ayat (1)", "back": "Segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan serta wajib menjunjung hukum dan pemerintahan.", "tag": "Hak Warga Negara UUD 1945" },
+    { "front": "Pasal 27 ayat (2)", "back": "Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.", "tag": "Hak Warga Negara UUD 1945" },
+    { "front": "Pasal 27 ayat (3) & Pasal 30 ayat (1)", "back": "Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan/pertahanan dan keamanan negara.", "tag": "Bela Negara" },
+    { "front": "Pasal 28", "back": "Kemerdekaan berserikat, berkumpul, dan mengeluarkan pikiran dengan lisan dan tulisan ditetapkan dengan undang-undang.", "tag": "Hak Warga Negara UUD 1945" },
+    { "front": "Pasal 29 ayat (2)", "back": "Negara menjamin kemerdekaan tiap penduduk untuk memeluk agamanya dan beribadat menurut agama/kepercayaannya.", "tag": "Hak Warga Negara UUD 1945" },
+    { "front": "Pasal 31 ayat (1) & (2)", "back": "Setiap warga negara berhak mendapat pendidikan; wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya.", "tag": "Hak Warga Negara UUD 1945" },
+    { "front": "Pasal 33 ayat (3)", "back": "Bumi, air, dan kekayaan alam dikuasai negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat.", "tag": "Hak Warga Negara UUD 1945" },
+    { "front": "Pasal 34 ayat (1)", "back": "Fakir miskin dan anak-anak yang terlantar dipelihara oleh negara.", "tag": "Hak Warga Negara UUD 1945" },
+    { "front": "Pasal 28A", "back": "Setiap orang berhak untuk hidup serta berhak mempertahankan hidup dan kehidupannya.", "tag": "Hak Asasi Manusia (HAM)" },
+    { "front": "Pasal 28D ayat (1)", "back": "Hak atas pengakuan, jaminan, perlindungan, kepastian hukum yang adil, dan perlakuan sama di hadapan hukum.", "tag": "Hak Asasi Manusia (HAM)" },
+    { "front": "Pasal 28I ayat (1) - non-derogable rights", "back": "Hak hidup, tidak disiksa, kemerdekaan pikiran & hati nurani, beragama, dll yang tidak dapat dikurangi dalam keadaan apa pun.", "tag": "Hak Asasi Manusia (HAM)" },
+    { "front": "Pasal 28J ayat (1) & (2)", "back": "Setiap orang wajib menghormati HAM orang lain dan tunduk pada pembatasan yang ditetapkan undang-undang demi ketertiban umum.", "tag": "Kewajiban Warga Negara UUD 1945" },
+    { "front": "UU tentang HAM", "back": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia; pelanggaran HAM berat diatur UU No. 26 Tahun 2000.", "tag": "Hak Asasi Manusia (HAM)" },
+    { "front": "Permasalahan HAM", "back": "Penegakan hukum lemah, perundangan belum berwawasan gender, kondisi ekonomi, konflik daerah, terorisme, globalisasi.", "tag": "Hak Asasi Manusia (HAM)" },
+    { "front": "Keseimbangan hak & kewajiban", "back": "Setiap hak diiringi kewajiban; pelaksanaannya seimbang demi keadilan sosial dan stabilitas nasional (sila ke-5 Pancasila).", "tag": "Keseimbangan Hak & Kewajiban" },
+    { "front": "Sishankamrata (Pasal 30 ayat 2)", "back": "Sistem pertahanan & keamanan rakyat semesta; TNI-Polri kekuatan utama, rakyat kekuatan pendukung.", "tag": "Bela Negara" },
+    { "front": "Asas kewarganegaraan", "back": "Ius soli (tempat lahir) & ius sanguinis (keturunan); akibatnya bipatride (dwi) atau apatride (tanpa kewarganegaraan).", "tag": "Pengertian Hak & Kewajiban" }
+  ],
+  "mindmap": [
+    { "id": "hak-kewajiban-warga-negara", "label": "Hak & Kewajiban Warga Negara", "color": "#6366f1", "parent": null, "content": "Hak dan kewajiban warga negara diatur dalam UUD 1945 Pasal 27-34 dan 28A-28J, bersumber dari nilai Pancasila." },
+    { "id": "pengertian", "label": "Pengertian Hak & Kewajiban", "color": "#8b5cf6", "parent": "hak-kewajiban-warga-negara", "content": "Hak adalah milik mutlak seseorang; kewajiban adalah sesuatu yang harus dilaksanakan dengan tanggung jawab." },
+    { "id": "def-hak", "label": "Definisi Hak", "color": "#8b5cf6", "parent": "pengertian", "content": "Segala sesuatu yang mutlak menjadi milik seseorang dan penggunaannya tergantung dirinya sendiri." },
+    { "id": "def-kewajiban", "label": "Definisi Kewajiban", "color": "#8b5cf6", "parent": "pengertian", "content": "Sesuatu yang harus dilaksanakan dengan penuh tanggung jawab kepada pihak lain atau negara." },
+    { "id": "warga-negara", "label": "Warga Negara", "color": "#8b5cf6", "parent": "pengertian", "content": "Warga suatu negara yang ditetapkan berdasarkan UU (UU No. 12/2006 & Pasal 26 UUD 1945)." },
+    { "id": "asas-wn", "label": "Asas Kewarganegaraan", "color": "#8b5cf6", "parent": "pengertian", "content": "Ius soli (tempat lahir) dan ius sanguinis (keturunan), berakibat bipatride atau apatride." },
+    { "id": "hak-wn", "label": "Hak Warga Negara UUD 1945", "color": "#0ea5e9", "parent": "hak-kewajiban-warga-negara", "content": "Hak dasar warga negara diatur dalam Pasal 27-34 UUD 1945." },
+    { "id": "hak-hukum", "label": "Persamaan di Hukum", "color": "#0ea5e9", "parent": "hak-wn", "content": "Pasal 27 ayat 1: warga negara sama kedudukannya di hukum dan pemerintahan." },
+    { "id": "hak-kerja", "label": "Hak Pekerjaan", "color": "#0ea5e9", "parent": "hak-wn", "content": "Pasal 27 ayat 2: hak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan." },
+    { "id": "hak-pendapat", "label": "Hak Berpendapat", "color": "#0ea5e9", "parent": "hak-wn", "content": "Pasal 28: kemerdekaan berserikat, berkumpul, dan mengeluarkan pikiran." },
+    { "id": "hak-agama", "label": "Kebebasan Beragama", "color": "#0ea5e9", "parent": "hak-wn", "content": "Pasal 29 ayat 2: kemerdekaan memeluk agama dan beribadat menurut kepercayaannya." },
+    { "id": "hak-pendidikan", "label": "Hak Pendidikan", "color": "#0ea5e9", "parent": "hak-wn", "content": "Pasal 31 ayat 1: setiap warga negara berhak mendapat pendidikan." },
+    { "id": "hak-ekonomi", "label": "Hak Ekonomi & Kesejahteraan", "color": "#0ea5e9", "parent": "hak-wn", "content": "Pasal 33-34: perekonomian asas kekeluargaan, jaminan sosial, fakir miskin dipelihara negara." },
+    { "id": "kewajiban-wn", "label": "Kewajiban Warga Negara", "color": "#10b981", "parent": "hak-kewajiban-warga-negara", "content": "Kewajiban warga negara menurut UUD 1945 mendukung ketertiban dan keadilan bernegara." },
+    { "id": "wajib-hukum", "label": "Menjunjung Hukum", "color": "#10b981", "parent": "kewajiban-wn", "content": "Pasal 27 ayat 1: wajib menjunjung hukum dan pemerintahan tanpa kecuali." },
+    { "id": "wajib-belneg", "label": "Ikut Bela Negara", "color": "#10b981", "parent": "kewajiban-wn", "content": "Pasal 27 ayat 3 & Pasal 30 ayat 1: wajib ikut pertahanan dan keamanan negara." },
+    { "id": "wajib-pendidikan", "label": "Mengikuti Pendidikan Dasar", "color": "#10b981", "parent": "kewajiban-wn", "content": "Pasal 31 ayat 2: wajib mengikuti pendidikan dasar yang dibiayai pemerintah." },
+    { "id": "wajib-ham", "label": "Menghormati HAM Orang Lain", "color": "#10b981", "parent": "kewajiban-wn", "content": "Pasal 28J ayat 1: wajib menghormati hak asasi manusia orang lain." },
+    { "id": "wajib-pajak", "label": "Membayar Pajak & Taat Aturan", "color": "#10b981", "parent": "kewajiban-wn", "content": "Membayar pajak dan menaati peraturan perundang-undangan demi pembangunan negara." },
+    { "id": "ham", "label": "Hak Asasi Manusia (HAM)", "color": "#f59e0b", "parent": "hak-kewajiban-warga-negara", "content": "HAM bersifat universal, kodrati, dan tidak dapat dicabut; diatur Pasal 28A-28J dan UU No. 39/1999." },
+    { "id": "ham-sifat", "label": "Sifat HAM", "color": "#f59e0b", "parent": "ham", "content": "Universal, kodrati (melekat sejak lahir), dan tidak dapat dicabut siapa pun." },
+    { "id": "ham-hidup", "label": "Hak Hidup (28A)", "color": "#f59e0b", "parent": "ham", "content": "Setiap orang berhak hidup dan mempertahankan hidup serta kehidupannya." },
+    { "id": "ham-hukum", "label": "Kepastian Hukum (28D)", "color": "#f59e0b", "parent": "ham", "content": "Hak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil." },
+    { "id": "ham-nonderogable", "label": "Hak Non-derogable (28I)", "color": "#f59e0b", "parent": "ham", "content": "Hak hidup, tidak disiksa, beragama, dll yang tidak dapat dikurangi dalam keadaan apa pun." },
+    { "id": "ham-info", "label": "Hak Informasi (28F)", "color": "#f59e0b", "parent": "ham", "content": "Hak berkomunikasi dan memperoleh informasi untuk mengembangkan diri dan lingkungan sosial." },
+    { "id": "ham-masalah", "label": "Permasalahan HAM", "color": "#f59e0b", "parent": "ham", "content": "Penegakan hukum lemah, belum berwawasan gender, konflik daerah, terorisme, dan globalisasi." },
+    { "id": "ham-lembaga", "label": "Komnas HAM & Pengadilan HAM", "color": "#f59e0b", "parent": "ham", "content": "Komnas HAM memantau HAM; Pengadilan HAM (UU 26/2000) mengadili pelanggaran HAM berat." },
+    { "id": "keseimbangan", "label": "Keseimbangan Hak & Kewajiban", "color": "#ef4444", "parent": "hak-kewajiban-warga-negara", "content": "Hak dan kewajiban dijalankan seimbang demi keadilan sosial dan stabilitas nasional." },
+    { "id": "kes-resiprokal", "label": "Hubungan Timbal Balik", "color": "#ef4444", "parent": "keseimbangan", "content": "Hak seseorang menjadi kewajiban pihak lain; negara menjamin hak, warga menjalankan kewajiban." },
+    { "id": "kes-pembatasan", "label": "Pembatasan Hak (28J)", "color": "#ef4444", "parent": "keseimbangan", "content": "Hak dibatasi UU demi menghormati hak orang lain dan ketertiban umum." },
+    { "id": "kes-pancasila", "label": "Landasan Pancasila", "color": "#ef4444", "parent": "keseimbangan", "content": "Keseimbangan bersumber pada Pancasila, terutama sila ke-5 keadilan sosial." },
+    { "id": "kes-dampak", "label": "Dampak Ketidakseimbangan", "color": "#ef4444", "parent": "keseimbangan", "content": "Menuntut hak tanpa kewajiban menimbulkan ketidakadilan dan konflik sosial." },
+    { "id": "bela-negara", "label": "Bela Negara", "color": "#ec4899", "parent": "hak-kewajiban-warga-negara", "content": "Bela negara adalah hak sekaligus kewajiban setiap warga negara (Pasal 30 ayat 1)." },
+    { "id": "bela-dasar", "label": "Dasar Hukum", "color": "#ec4899", "parent": "bela-negara", "content": "Pasal 30 UUD 1945 dan UU No. 3 Tahun 2002 tentang Pertahanan Negara." },
+    { "id": "bela-sishankam", "label": "Sishankamrata", "color": "#ec4899", "parent": "bela-negara", "content": "TNI dan Polri sebagai kekuatan utama, rakyat sebagai kekuatan pendukung." },
+    { "id": "bela-wujud", "label": "Wujud Bela Negara", "color": "#ec4899", "parent": "bela-negara", "content": "Fisik (militer) dan nonfisik: belajar tekun, taat hukum, menjaga persatuan bangsa." },
+    { "id": "bela-ancaman", "label": "Jenis Ancaman", "color": "#ec4899", "parent": "bela-negara", "content": "Ancaman militer (agresi) dan nonmiliter (ideologi, ekonomi, sosial budaya, siber)." }
+  ]
+}

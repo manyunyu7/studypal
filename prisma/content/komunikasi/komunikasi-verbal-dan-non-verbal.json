@@ -1,0 +1,1648 @@
+{
+  "topic": "Komunikasi Verbal dan Non Verbal",
+  "order": 2,
+  "description": "Komunikasi verbal menggunakan simbol bahasa (lisan dan tulisan), sedangkan komunikasi non verbal menyampaikan pesan tanpa kata melalui bahasa tubuh, jarak, penampilan, dan intonasi. Keduanya saling berkaitan dan saling melengkapi dalam menyampaikan makna secara utuh.",
+  "subtopics": [
+    "Definisi dan contoh komunikasi verbal",
+    "Faktor yang mempengaruhi komunikasi verbal",
+    "Definisi dan contoh komunikasi non verbal",
+    "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+    "Fungsi pesan non verbal"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan komunikasi verbal?",
+      "explanation": "Komunikasi verbal adalah komunikasi yang menggunakan simbol-simbol verbal, baik secara lisan maupun tulisan.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Komunikasi yang hanya menggunakan gerakan tubuh", "isCorrect": false },
+        { "text": "B. Komunikasi yang menggunakan simbol verbal secara lisan maupun tulisan", "isCorrect": true },
+        { "text": "C. Komunikasi yang hanya dilakukan melalui ekspresi wajah", "isCorrect": false },
+        { "text": "D. Komunikasi yang dilakukan tanpa menggunakan kata-kata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut ini yang termasuk contoh komunikasi verbal lisan adalah?",
+      "explanation": "Berbicara langsung dan presentasi merupakan contoh komunikasi verbal yang disampaikan secara lisan.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Mengirim email", "isCorrect": false },
+        { "text": "B. Menulis surat", "isCorrect": false },
+        { "text": "C. Berbicara langsung dan presentasi", "isCorrect": true },
+        { "text": "D. Membuat poster", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut ini yang termasuk contoh komunikasi verbal tulisan adalah?",
+      "explanation": "Menulis surat dan mengirim email merupakan bentuk komunikasi verbal yang disampaikan melalui tulisan.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Menulis surat dan mengirim email", "isCorrect": true },
+        { "text": "B. Berbicara langsung", "isCorrect": false },
+        { "text": "C. Wawancara tatap muka", "isCorrect": false },
+        { "text": "D. Presentasi lisan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi verbal terbagi menjadi dua bentuk utama, yaitu?",
+      "explanation": "Komunikasi verbal menggunakan simbol verbal yang dapat disampaikan secara lisan maupun tulisan.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Kinesik dan proksemik", "isCorrect": false },
+        { "text": "B. Lisan dan tulisan", "isCorrect": true },
+        { "text": "C. Fasial dan gestural", "isCorrect": false },
+        { "text": "D. Repetisi dan substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konferensi video (video conference) termasuk dalam jenis komunikasi?",
+      "explanation": "Konferensi video menggunakan simbol verbal lisan sehingga termasuk contoh komunikasi verbal.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Komunikasi non verbal", "isCorrect": false },
+        { "text": "B. Komunikasi verbal", "isCorrect": true },
+        { "text": "C. Pesan kinesik", "isCorrect": false },
+        { "text": "D. Pesan artifaktual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Wawancara kerja antara pewawancara dan kandidat termasuk contoh komunikasi?",
+      "explanation": "Wawancara merupakan contoh komunikasi verbal karena menggunakan simbol-simbol bahasa secara lisan.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Komunikasi verbal", "isCorrect": true },
+        { "text": "B. Pesan proksemik", "isCorrect": false },
+        { "text": "C. Pesan paralinguistik", "isCorrect": false },
+        { "text": "D. Pesan sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Poster dan banner yang berisi tulisan termasuk contoh komunikasi verbal karena?",
+      "explanation": "Poster dan banner menyampaikan pesan melalui simbol verbal berupa kata/tulisan, sehingga tergolong komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Menggunakan warna yang menarik", "isCorrect": false },
+        { "text": "B. Menyampaikan pesan melalui simbol verbal/tulisan", "isCorrect": true },
+        { "text": "C. Dibuat oleh desainer grafis", "isCorrect": false },
+        { "text": "D. Dipasang di tempat umum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan contoh komunikasi verbal?",
+      "explanation": "Mengangguk tanpa kata adalah pesan non verbal (gerakan tubuh), sedangkan menulis surat, presentasi, dan email adalah komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Menulis surat", "isCorrect": false },
+        { "text": "B. Presentasi di depan kelas", "isCorrect": false },
+        { "text": "C. Mengangguk tanpa berkata-kata", "isCorrect": true },
+        { "text": "D. Mengirim email", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Simbol yang menjadi dasar utama dalam komunikasi verbal adalah?",
+      "explanation": "Komunikasi verbal menggunakan simbol-simbol verbal berupa kata atau bahasa, baik lisan maupun tulisan.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Gerakan tangan", "isCorrect": false },
+        { "text": "B. Kata atau bahasa", "isCorrect": true },
+        { "text": "C. Ekspresi wajah", "isCorrect": false },
+        { "text": "D. Jarak fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah perusahaan mengirim surat edaran resmi kepada karyawan. Bentuk komunikasi ini adalah?",
+      "explanation": "Surat edaran resmi adalah komunikasi verbal dalam bentuk tulisan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Komunikasi non verbal kinesik", "isCorrect": false },
+        { "text": "B. Komunikasi verbal tulisan", "isCorrect": true },
+        { "text": "C. Komunikasi non verbal proksemik", "isCorrect": false },
+        { "text": "D. Komunikasi paralinguistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor budaya mempengaruhi komunikasi verbal karena?",
+      "explanation": "Setiap budaya memiliki bahasa yang berbeda, sehingga budaya menjadi faktor yang mempengaruhi komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Setiap budaya memiliki bahasa yang berbeda", "isCorrect": true },
+        { "text": "B. Budaya menentukan tinggi badan seseorang", "isCorrect": false },
+        { "text": "C. Budaya tidak berpengaruh terhadap bahasa", "isCorrect": false },
+        { "text": "D. Budaya hanya mempengaruhi pakaian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa faktor pengetahuan mempengaruhi komunikasi verbal seseorang?",
+      "explanation": "Makin luas pengetahuan seseorang maka makin banyak kosa kata yang dimilikinya, sehingga komunikasinya lebih baik.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Pengetahuan membuat suara lebih keras", "isCorrect": false },
+        { "text": "B. Makin luas pengetahuan, makin banyak kosa kata", "isCorrect": true },
+        { "text": "C. Pengetahuan tidak terkait dengan kosa kata", "isCorrect": false },
+        { "text": "D. Pengetahuan hanya mempengaruhi bahasa tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Orang yang memiliki sifat tertutup dan kurang pergaulan biasanya akan kurang dalam berkomunikasi. Hal ini termasuk faktor?",
+      "explanation": "Sifat tertutup dan kurang pergaulan berkaitan dengan faktor kepribadian yang mempengaruhi komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor budaya", "isCorrect": false },
+        { "text": "B. Faktor biologis", "isCorrect": false },
+        { "text": "C. Faktor kepribadian", "isCorrect": true },
+        { "text": "D. Faktor pengalaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keterbatasan fisik seseorang yang mempengaruhi kemampuan komunikasi verbal termasuk faktor?",
+      "explanation": "Keterbatasan fisik seseorang merupakan faktor biologis yang mempengaruhi komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor biologis", "isCorrect": true },
+        { "text": "B. Faktor budaya", "isCorrect": false },
+        { "text": "C. Faktor pengetahuan", "isCorrect": false },
+        { "text": "D. Faktor pengalaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Makin banyak pengalaman seseorang, maka makin baik komunikasinya. Pernyataan ini menunjukkan faktor?",
+      "explanation": "Pernyataan tersebut menggambarkan faktor pengalaman yang mempengaruhi kualitas komunikasi verbal.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor kepribadian", "isCorrect": false },
+        { "text": "B. Faktor pengalaman", "isCorrect": true },
+        { "text": "C. Faktor biologis", "isCorrect": false },
+        { "text": "D. Faktor budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk faktor yang mempengaruhi komunikasi verbal?",
+      "explanation": "Faktor yang mempengaruhi komunikasi verbal antara lain budaya, pengetahuan, kepribadian, biologis, dan pengalaman.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor warna pakaian", "isCorrect": false },
+        { "text": "B. Faktor pengetahuan", "isCorrect": true },
+        { "text": "C. Faktor cuaca", "isCorrect": false },
+        { "text": "D. Faktor pencahayaan ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja asing kesulitan berkomunikasi karena perbedaan bahasa dengan rekan lokal. Faktor yang paling berperan adalah?",
+      "explanation": "Perbedaan bahasa karena latar belakang berbeda berkaitan dengan faktor budaya, sebab setiap budaya memiliki bahasa berbeda.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor biologis", "isCorrect": false },
+        { "text": "B. Faktor budaya", "isCorrect": true },
+        { "text": "C. Faktor pengalaman", "isCorrect": false },
+        { "text": "D. Faktor kepribadian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang dengan banyak kosa kata dan mudah memilih kata yang tepat dipengaruhi terutama oleh faktor?",
+      "explanation": "Kekayaan kosa kata terkait erat dengan faktor pengetahuan; makin luas pengetahuan makin banyak kosa kata.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor pengetahuan", "isCorrect": true },
+        { "text": "B. Faktor biologis", "isCorrect": false },
+        { "text": "C. Faktor proksemik", "isCorrect": false },
+        { "text": "D. Faktor artifaktual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang penyandang gangguan bicara mengalami hambatan dalam komunikasi verbal lisan. Hal ini termasuk faktor?",
+      "explanation": "Gangguan bicara merupakan keterbatasan fisik yang termasuk faktor biologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor pengalaman", "isCorrect": false },
+        { "text": "B. Faktor biologis", "isCorrect": true },
+        { "text": "C. Faktor budaya", "isCorrect": false },
+        { "text": "D. Faktor pengetahuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pembicara yang sudah sering tampil di depan publik biasanya lebih lancar berkomunikasi. Hal ini menunjukkan pengaruh faktor?",
+      "explanation": "Kelancaran karena sering tampil menunjukkan faktor pengalaman dalam komunikasi verbal.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor pengalaman", "isCorrect": true },
+        { "text": "B. Faktor budaya", "isCorrect": false },
+        { "text": "C. Faktor biologis", "isCorrect": false },
+        { "text": "D. Faktor kepribadian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa definisi komunikasi non verbal?",
+      "explanation": "Komunikasi non verbal adalah komunikasi yang pesannya dikemas dalam bentuk tanpa kata.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Komunikasi yang menggunakan simbol verbal tertulis", "isCorrect": false },
+        { "text": "B. Komunikasi yang pesannya dikemas dalam bentuk tanpa kata", "isCorrect": true },
+        { "text": "C. Komunikasi yang hanya dilakukan melalui telepon", "isCorrect": false },
+        { "text": "D. Komunikasi yang menggunakan email dan surat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, komunikasi non verbal cenderung lebih bersifat?",
+      "explanation": "Komunikasi non verbal lebih bersifat jujur daripada komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Lebih jujur daripada komunikasi verbal", "isCorrect": true },
+        { "text": "B. Lebih mudah dimanipulasi", "isCorrect": false },
+        { "text": "C. Lebih formal daripada verbal", "isCorrect": false },
+        { "text": "D. Lebih lambat dipahami", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut ini yang termasuk contoh komunikasi non verbal adalah?",
+      "explanation": "Contoh komunikasi non verbal antara lain sentuhan, gerakan tubuh, dan vokalik.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Menulis surat resmi", "isCorrect": false },
+        { "text": "B. Gerakan tubuh dan sentuhan", "isCorrect": true },
+        { "text": "C. Membaca presentasi", "isCorrect": false },
+        { "text": "D. Mengirim email", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Vokalik (cara/nada suara) termasuk dalam contoh komunikasi?",
+      "explanation": "Vokalik termasuk contoh komunikasi non verbal karena berkaitan dengan cara penyampaian suara, bukan kata itu sendiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Komunikasi verbal tulisan", "isCorrect": false },
+        { "text": "B. Komunikasi non verbal", "isCorrect": true },
+        { "text": "C. Komunikasi verbal lisan murni", "isCorrect": false },
+        { "text": "D. Komunikasi tulisan resmi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pesan non verbal sering dianggap lebih jujur dibanding pesan verbal?",
+      "explanation": "Pesan non verbal sering muncul secara spontan dan sulit dikendalikan sehingga cenderung mencerminkan perasaan sebenarnya.",
+      "difficulty": "HARD",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Karena selalu menggunakan kata yang sopan", "isCorrect": false },
+        { "text": "B. Karena muncul spontan dan sulit dimanipulasi", "isCorrect": true },
+        { "text": "C. Karena ditulis dengan jelas", "isCorrect": false },
+        { "text": "D. Karena disampaikan secara resmi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat seseorang berkata 'saya baik-baik saja' namun raut wajahnya sedih, hal ini menunjukkan bahwa?",
+      "explanation": "Pesan non verbal (raut wajah sedih) lebih jujur dan dapat bertentangan dengan pesan verbal yang diucapkan.",
+      "difficulty": "HARD",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Pesan verbal selalu benar", "isCorrect": false },
+        { "text": "B. Pesan non verbal lebih jujur dari pesan verbal", "isCorrect": true },
+        { "text": "C. Komunikasi gagal total", "isCorrect": false },
+        { "text": "D. Tidak ada pesan yang tersampaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat penerima sentuhan dalam komunikasi non verbal adalah?",
+      "explanation": "Alat penerima sentuhan adalah kulit dan hidung yang mampu menerima serta membedakan emosi yang disampaikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Mata dan telinga", "isCorrect": false },
+        { "text": "B. Kulit dan hidung", "isCorrect": true },
+        { "text": "C. Mulut dan lidah", "isCorrect": false },
+        { "text": "D. Tangan dan kaki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar mengenai hubungan komunikasi verbal dan non verbal?",
+      "explanation": "Komunikasi verbal dan non verbal sangat berkaitan dan saling melengkapi dalam menyampaikan makna.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Keduanya sangat berkaitan", "isCorrect": true },
+        { "text": "B. Keduanya tidak pernah digunakan bersama", "isCorrect": false },
+        { "text": "C. Verbal selalu menggantikan non verbal", "isCorrect": false },
+        { "text": "D. Non verbal tidak penting", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan non verbal yang menggunakan gerakan tubuh disebut pesan?",
+      "explanation": "Pesan kinesik adalah pesan non verbal yang menggunakan gerakan tubuh.",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan proksemik", "isCorrect": false },
+        { "text": "B. Pesan kinesik", "isCorrect": true },
+        { "text": "C. Pesan artifaktual", "isCorrect": false },
+        { "text": "D. Pesan paralinguistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan kinesik terbagi menjadi tiga, yaitu?",
+      "explanation": "Pesan kinesik terbagi menjadi pesan fasial, pesan gestural, dan pesan postural.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Fasial, gestural, dan postural", "isCorrect": true },
+        { "text": "B. Proksemik, artifaktual, dan paralinguistik", "isCorrect": false },
+        { "text": "C. Repetisi, substitusi, dan kontradiksi", "isCorrect": false },
+        { "text": "D. Lisan, tulisan, dan visual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan non verbal yang menyampaikan makna melalui raut wajah disebut pesan?",
+      "explanation": "Pesan fasial menyampaikan makna pesan dari raut wajah.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan gestural", "isCorrect": false },
+        { "text": "B. Pesan fasial", "isCorrect": true },
+        { "text": "C. Pesan postural", "isCorrect": false },
+        { "text": "D. Pesan proksemik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gerakan sebagian anggota badan seperti mata dan tangan untuk menyampaikan pesan disebut pesan?",
+      "explanation": "Pesan gestural menunjukkan gerakan sebagian anggota badan seperti mata dan tangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan gestural", "isCorrect": true },
+        { "text": "B. Pesan fasial", "isCorrect": false },
+        { "text": "C. Pesan postural", "isCorrect": false },
+        { "text": "D. Pesan artifaktual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan non verbal yang menggunakan seluruh anggota badan, misalnya postur tubuh condong ke arah lawan bicara, disebut pesan?",
+      "explanation": "Pesan postural menggunakan seluruh anggota badan; postur condong ke lawan bicara menunjukkan penilaian positif.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan fasial", "isCorrect": false },
+        { "text": "B. Pesan gestural", "isCorrect": false },
+        { "text": "C. Pesan postural", "isCorrect": true },
+        { "text": "D. Pesan paralinguistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Postur tubuh yang condong ke arah orang yang diajak bicara umumnya menunjukkan?",
+      "explanation": "Postur condong ke arah lawan bicara menunjukkan penilaian positif terhadap orang tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Penilaian negatif", "isCorrect": false },
+        { "text": "B. Penilaian positif", "isCorrect": true },
+        { "text": "C. Rasa takut", "isCorrect": false },
+        { "text": "D. Kebosanan total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan non verbal yang disampaikan melalui pengaturan jarak dan ruang disebut pesan?",
+      "explanation": "Pesan proksemik disampaikan melalui pengaturan jarak dan ruang dalam berkomunikasi.",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan proksemik", "isCorrect": true },
+        { "text": "B. Pesan kinesik", "isCorrect": false },
+        { "text": "C. Pesan artifaktual", "isCorrect": false },
+        { "text": "D. Pesan paralinguistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dengan mengatur jarak ketika berkomunikasi, seseorang umumnya mengungkapkan?",
+      "explanation": "Pengaturan jarak dalam pesan proksemik umumnya mengungkapkan tingkat keakraban dengan orang lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Tingkat keakraban dengan orang lain", "isCorrect": true },
+        { "text": "B. Tingkat kecerdasan seseorang", "isCorrect": false },
+        { "text": "C. Status pendidikan", "isCorrect": false },
+        { "text": "D. Kemampuan menulis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan non verbal yang disampaikan melalui penampilan tubuh, pakaian, dan kosmetik disebut pesan?",
+      "explanation": "Pesan artifaktual disampaikan melalui penampilan tubuh, pakaian, dan kosmetik.",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan paralinguistik", "isCorrect": false },
+        { "text": "B. Pesan artifaktual", "isCorrect": true },
+        { "text": "C. Pesan proksemik", "isCorrect": false },
+        { "text": "D. Pesan fasial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang mengenakan jas rapi saat presentasi penting menyampaikan pesan non verbal jenis?",
+      "explanation": "Penampilan dan pakaian termasuk pesan artifaktual dalam komunikasi non verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan artifaktual", "isCorrect": true },
+        { "text": "B. Pesan gestural", "isCorrect": false },
+        { "text": "C. Pesan proksemik", "isCorrect": false },
+        { "text": "D. Pesan sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan non verbal yang berhubungan dengan cara mengucapkan pesan verbal disebut pesan?",
+      "explanation": "Pesan paralinguistik berhubungan dengan cara mengucapkan pesan verbal, seperti intonasi dan nada.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan kinesik", "isCorrect": false },
+        { "text": "B. Pesan paralinguistik", "isCorrect": true },
+        { "text": "C. Pesan artifaktual", "isCorrect": false },
+        { "text": "D. Pesan proksemik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Satu pesan verbal yang sama dapat menyampaikan arti berbeda bila diucapkan secara berbeda. Hal ini merupakan ciri pesan?",
+      "explanation": "Ciri ini menggambarkan pesan paralinguistik, di mana cara pengucapan mempengaruhi makna pesan verbal.",
+      "difficulty": "HARD",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan paralinguistik", "isCorrect": true },
+        { "text": "B. Pesan fasial", "isCorrect": false },
+        { "text": "C. Pesan postural", "isCorrect": false },
+        { "text": "D. Pesan artifaktual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan non verbal yang diterima melalui kulit dan hidung untuk membedakan emosi disebut pesan?",
+      "explanation": "Pesan sentuhan dan bau-bauan diterima melalui kulit dan hidung yang mampu membedakan emosi yang disampaikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan sentuhan dan bau-bauan", "isCorrect": true },
+        { "text": "B. Pesan proksemik", "isCorrect": false },
+        { "text": "C. Pesan gestural", "isCorrect": false },
+        { "text": "D. Pesan paralinguistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berjabat tangan dengan erat untuk menunjukkan keakraban termasuk dalam pesan non verbal jenis?",
+      "explanation": "Jabat tangan termasuk pesan sentuhan dalam komunikasi non verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan sentuhan", "isCorrect": true },
+        { "text": "B. Pesan fasial", "isCorrect": false },
+        { "text": "C. Pesan artifaktual", "isCorrect": false },
+        { "text": "D. Pesan proksemik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut ini yang TIDAK termasuk klasifikasi pesan non verbal adalah?",
+      "explanation": "Klasifikasi pesan non verbal meliputi kinesik, proksemik, artifaktual, paralinguistik, dan sentuhan; sedangkan tulisan adalah verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan kinesik", "isCorrect": false },
+        { "text": "B. Pesan proksemik", "isCorrect": false },
+        { "text": "C. Pesan tulisan", "isCorrect": true },
+        { "text": "D. Pesan paralinguistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tersenyum kepada lawan bicara untuk menunjukkan keramahan termasuk pesan?",
+      "explanation": "Senyum disampaikan melalui raut wajah, sehingga termasuk pesan fasial (bagian dari kinesik).",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan fasial", "isCorrect": true },
+        { "text": "B. Pesan proksemik", "isCorrect": false },
+        { "text": "C. Pesan artifaktual", "isCorrect": false },
+        { "text": "D. Pesan sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menunjuk sesuatu dengan jari telunjuk merupakan contoh pesan?",
+      "explanation": "Menunjuk dengan jari adalah gerakan sebagian anggota badan (tangan), sehingga termasuk pesan gestural.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan postural", "isCorrect": false },
+        { "text": "B. Pesan gestural", "isCorrect": true },
+        { "text": "C. Pesan proksemik", "isCorrect": false },
+        { "text": "D. Pesan artifaktual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan parfum atau wewangian yang memberi kesan tertentu termasuk pesan?",
+      "explanation": "Bau-bauan/wewangian diterima melalui hidung, sehingga termasuk pesan sentuhan dan bau-bauan.",
+      "difficulty": "HARD",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan sentuhan dan bau-bauan", "isCorrect": true },
+        { "text": "B. Pesan kinesik", "isCorrect": false },
+        { "text": "C. Pesan paralinguistik", "isCorrect": false },
+        { "text": "D. Pesan postural", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang berdiri sangat dekat saat berbicara untuk menunjukkan keintiman. Ini termasuk pesan?",
+      "explanation": "Jarak dekat saat berbicara berkaitan dengan pengaturan jarak/ruang, yaitu pesan proksemik.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan proksemik", "isCorrect": true },
+        { "text": "B. Pesan fasial", "isCorrect": false },
+        { "text": "C. Pesan artifaktual", "isCorrect": false },
+        { "text": "D. Pesan sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menggunakan kosmetik atau riasan untuk menampilkan citra tertentu termasuk pesan?",
+      "explanation": "Kosmetik termasuk dalam pesan artifaktual yang berkaitan dengan penampilan tubuh.",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan artifaktual", "isCorrect": true },
+        { "text": "B. Pesan gestural", "isCorrect": false },
+        { "text": "C. Pesan paralinguistik", "isCorrect": false },
+        { "text": "D. Pesan proksemik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berbicara dengan nada tinggi dan keras dapat menunjukkan kemarahan. Ini merupakan contoh pesan?",
+      "explanation": "Nada dan cara mengucapkan termasuk pesan paralinguistik yang dapat mengubah makna pesan verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan paralinguistik", "isCorrect": true },
+        { "text": "B. Pesan fasial", "isCorrect": false },
+        { "text": "C. Pesan proksemik", "isCorrect": false },
+        { "text": "D. Pesan artifaktual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan kinesik secara umum berkaitan dengan?",
+      "explanation": "Pesan kinesik adalah pesan non verbal yang menggunakan gerakan tubuh.",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Gerakan tubuh", "isCorrect": true },
+        { "text": "B. Pengaturan jarak", "isCorrect": false },
+        { "text": "C. Pakaian dan kosmetik", "isCorrect": false },
+        { "text": "D. Bau-bauan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan postural berbeda dengan pesan gestural karena pesan postural menggunakan?",
+      "explanation": "Pesan postural menggunakan seluruh anggota badan, sedangkan pesan gestural hanya sebagian anggota badan.",
+      "difficulty": "HARD",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Sebagian anggota badan saja", "isCorrect": false },
+        { "text": "B. Seluruh anggota badan", "isCorrect": true },
+        { "text": "C. Hanya raut wajah", "isCorrect": false },
+        { "text": "D. Hanya suara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengerutkan dahi saat mendengar penjelasan yang membingungkan merupakan contoh pesan?",
+      "explanation": "Mengerutkan dahi adalah ekspresi raut wajah, sehingga termasuk pesan fasial.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan fasial", "isCorrect": true },
+        { "text": "B. Pesan gestural", "isCorrect": false },
+        { "text": "C. Pesan proksemik", "isCorrect": false },
+        { "text": "D. Pesan sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menepuk pundak rekan kerja untuk memberi semangat termasuk pesan non verbal jenis?",
+      "explanation": "Menepuk pundak melibatkan kontak fisik melalui kulit, sehingga termasuk pesan sentuhan.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan sentuhan", "isCorrect": true },
+        { "text": "B. Pesan artifaktual", "isCorrect": false },
+        { "text": "C. Pesan paralinguistik", "isCorrect": false },
+        { "text": "D. Pesan fasial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan yang benar antara jenis pesan dan contohnya?",
+      "explanation": "Pesan proksemik berkaitan dengan pengaturan jarak, sehingga 'menjaga jarak saat antre' adalah contoh yang tepat.",
+      "difficulty": "HARD",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan proksemik - menjaga jarak saat antre", "isCorrect": true },
+        { "text": "B. Pesan fasial - berjabat tangan", "isCorrect": false },
+        { "text": "C. Pesan artifaktual - intonasi suara", "isCorrect": false },
+        { "text": "D. Pesan paralinguistik - mengenakan seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi pesan non verbal yang berfungsi mengulang kembali pesan verbal disebut?",
+      "explanation": "Fungsi repetisi adalah mengulang atau memperkuat pesan verbal dengan isyarat non verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Repetisi", "isCorrect": true },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Kontradiksi", "isCorrect": false },
+        { "text": "D. Aksentuasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi pesan non verbal yang menggantikan pesan verbal disebut?",
+      "explanation": "Fungsi substitusi adalah menggantikan lambang verbal dengan isyarat non verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Repetisi", "isCorrect": false },
+        { "text": "B. Substitusi", "isCorrect": true },
+        { "text": "C. Komplemen", "isCorrect": false },
+        { "text": "D. Aksentuasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi pesan non verbal yang bertentangan dengan pesan verbal disebut?",
+      "explanation": "Fungsi kontradiksi terjadi ketika pesan non verbal bertentangan atau memberi makna lain terhadap pesan verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Komplemen", "isCorrect": false },
+        { "text": "B. Repetisi", "isCorrect": false },
+        { "text": "C. Kontradiksi", "isCorrect": true },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi pesan non verbal yang melengkapi dan memperkaya makna pesan verbal disebut?",
+      "explanation": "Fungsi komplemen melengkapi pesan verbal sehingga maknanya menjadi lebih lengkap.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Komplemen", "isCorrect": true },
+        { "text": "B. Kontradiksi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Aksentuasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi pesan non verbal yang menegaskan atau menekankan pesan verbal disebut?",
+      "explanation": "Fungsi aksentuasi menekankan atau menggarisbawahi bagian penting dari pesan verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Repetisi", "isCorrect": false },
+        { "text": "B. Aksentuasi", "isCorrect": true },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Kontradiksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut ini yang termasuk fungsi pesan non verbal adalah?",
+      "explanation": "Fungsi pesan non verbal meliputi repetisi, substitusi, kontradiksi, komplemen, dan aksentuasi.",
+      "difficulty": "EASY",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Repetisi", "isCorrect": true },
+        { "text": "B. Inklusivitas", "isCorrect": false },
+        { "text": "C. Transparansi", "isCorrect": false },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang berkata 'tidak' sambil menggelengkan kepala. Gelengan kepala di sini menjalankan fungsi?",
+      "explanation": "Gelengan kepala mengulang/menegaskan pesan verbal 'tidak', sehingga menjalankan fungsi repetisi.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Repetisi", "isCorrect": true },
+        { "text": "B. Kontradiksi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Komplemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang hanya mengacungkan jempol tanpa berkata-kata untuk menyatakan setuju. Fungsi pesan non verbal yang terjadi adalah?",
+      "explanation": "Acungan jempol menggantikan kata 'setuju' secara verbal, sehingga menjalankan fungsi substitusi.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Substitusi", "isCorrect": true },
+        { "text": "B. Repetisi", "isCorrect": false },
+        { "text": "C. Aksentuasi", "isCorrect": false },
+        { "text": "D. Kontradiksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang berkata 'saya senang' tetapi dengan wajah cemberut. Fungsi pesan non verbal yang terjadi adalah?",
+      "explanation": "Wajah cemberut bertentangan dengan ucapan 'saya senang', sehingga menjalankan fungsi kontradiksi.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Kontradiksi", "isCorrect": true },
+        { "text": "B. Komplemen", "isCorrect": false },
+        { "text": "C. Repetisi", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat menjelaskan ukuran ikan yang besar, seseorang merentangkan kedua tangannya. Fungsi pesan non verbal ini adalah?",
+      "explanation": "Rentangan tangan melengkapi penjelasan verbal tentang ukuran, sehingga menjalankan fungsi komplemen.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Komplemen", "isCorrect": true },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Kontradiksi", "isCorrect": false },
+        { "text": "D. Repetisi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pembicara memukul meja saat menekankan kata 'penting'. Fungsi pesan non verbal ini adalah?",
+      "explanation": "Memukul meja menekankan kata penting dalam pesan verbal, sehingga menjalankan fungsi aksentuasi.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Aksentuasi", "isCorrect": true },
+        { "text": "B. Repetisi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Kontradiksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara fungsi repetisi dan substitusi pesan non verbal adalah?",
+      "explanation": "Repetisi mengulang/mendukung pesan verbal, sedangkan substitusi menggantikan pesan verbal sepenuhnya.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Repetisi mengulang pesan verbal, substitusi menggantikannya", "isCorrect": true },
+        { "text": "B. Keduanya sama persis", "isCorrect": false },
+        { "text": "C. Repetisi menggantikan, substitusi mengulang", "isCorrect": false },
+        { "text": "D. Keduanya bertentangan dengan verbal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Melambaikan tangan untuk mengucapkan 'selamat tinggal' tanpa berkata-kata merupakan fungsi?",
+      "explanation": "Lambaian tangan menggantikan ucapan verbal 'selamat tinggal', sehingga menjalankan fungsi substitusi.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Substitusi", "isCorrect": true },
+        { "text": "B. Komplemen", "isCorrect": false },
+        { "text": "C. Repetisi", "isCorrect": false },
+        { "text": "D. Aksentuasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengangguk sambil mengucapkan 'iya' merupakan contoh fungsi pesan non verbal?",
+      "explanation": "Anggukan mengulang dan memperkuat ucapan 'iya', sehingga termasuk fungsi repetisi.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Repetisi", "isCorrect": true },
+        { "text": "B. Kontradiksi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Komplemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang tepat tentang fungsi komplemen pesan non verbal?",
+      "explanation": "Fungsi komplemen melengkapi pesan verbal sehingga makna menjadi lebih utuh, bukan menggantikan atau menentang.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Melengkapi pesan verbal agar lebih utuh", "isCorrect": true },
+        { "text": "B. Bertentangan dengan pesan verbal", "isCorrect": false },
+        { "text": "C. Menggantikan seluruh pesan verbal", "isCorrect": false },
+        { "text": "D. Menghapus pesan verbal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Email termasuk komunikasi verbal karena?",
+      "explanation": "Email menyampaikan pesan menggunakan simbol verbal berupa tulisan, sehingga tergolong komunikasi verbal.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Menggunakan simbol verbal tulisan", "isCorrect": true },
+        { "text": "B. Menggunakan gerakan tubuh", "isCorrect": false },
+        { "text": "C. Menggunakan ekspresi wajah", "isCorrect": false },
+        { "text": "D. Menggunakan sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Presentasi di depan kelas merupakan komunikasi verbal dalam bentuk?",
+      "explanation": "Presentasi disampaikan secara lisan, sehingga termasuk komunikasi verbal lisan.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Tulisan", "isCorrect": false },
+        { "text": "B. Lisan", "isCorrect": true },
+        { "text": "C. Kinesik", "isCorrect": false },
+        { "text": "D. Proksemik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan ciri khas komunikasi verbal dibanding non verbal?",
+      "explanation": "Ciri khas komunikasi verbal adalah penggunaan simbol kata/bahasa, sedangkan non verbal tanpa kata.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Menggunakan simbol kata/bahasa", "isCorrect": true },
+        { "text": "B. Menggunakan jarak fisik", "isCorrect": false },
+        { "text": "C. Menggunakan pakaian", "isCorrect": false },
+        { "text": "D. Menggunakan bau-bauan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang dosen yang berpengetahuan luas cenderung memiliki kosa kata yang kaya. Hal ini menegaskan bahwa faktor pengetahuan?",
+      "explanation": "Faktor pengetahuan menentukan kekayaan kosa kata; makin luas pengetahuan, makin banyak kosa kata.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Berbanding lurus dengan jumlah kosa kata", "isCorrect": true },
+        { "text": "B. Tidak ada hubungannya dengan kosa kata", "isCorrect": false },
+        { "text": "C. Mengurangi kosa kata", "isCorrect": false },
+        { "text": "D. Hanya mempengaruhi tulisan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang individu yang ramah dan aktif bergaul biasanya lebih lancar berkomunikasi. Hal ini terkait faktor?",
+      "explanation": "Keterbukaan dan pergaulan berkaitan dengan faktor kepribadian yang mempengaruhi komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor kepribadian", "isCorrect": true },
+        { "text": "B. Faktor biologis", "isCorrect": false },
+        { "text": "C. Faktor budaya", "isCorrect": false },
+        { "text": "D. Faktor proksemik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi non verbal melibatkan unsur berikut, KECUALI?",
+      "explanation": "Komunikasi non verbal meliputi gerakan tubuh, ekspresi wajah, dan sentuhan; sedangkan menulis surat adalah komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Gerakan tubuh", "isCorrect": false },
+        { "text": "B. Ekspresi wajah", "isCorrect": false },
+        { "text": "C. Menulis surat", "isCorrect": true },
+        { "text": "D. Sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahasa tubuh, ekspresi wajah, dan gestur merupakan bagian dari komunikasi?",
+      "explanation": "Bahasa tubuh, ekspresi wajah, dan gestur adalah contoh komunikasi non verbal.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Komunikasi non verbal", "isCorrect": true },
+        { "text": "B. Komunikasi verbal lisan", "isCorrect": false },
+        { "text": "C. Komunikasi verbal tulisan", "isCorrect": false },
+        { "text": "D. Komunikasi visual tekstual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan kinesik, proksemik, dan artifaktual adalah klasifikasi dari pesan?",
+      "explanation": "Pesan kinesik, proksemik, dan artifaktual merupakan klasifikasi dari pesan non verbal.",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan verbal", "isCorrect": false },
+        { "text": "B. Pesan non verbal", "isCorrect": true },
+        { "text": "C. Pesan tulisan", "isCorrect": false },
+        { "text": "D. Pesan formal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh yang tepat untuk pesan postural?",
+      "explanation": "Pesan postural menggunakan seluruh anggota badan, seperti membungkukkan badan saat menyapa.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Membungkukkan badan saat menyapa", "isCorrect": true },
+        { "text": "B. Tersenyum lebar", "isCorrect": false },
+        { "text": "C. Mengenakan dasi", "isCorrect": false },
+        { "text": "D. Berbisik pelan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan jarak antara dua orang yang berbicara akrab biasanya?",
+      "explanation": "Jarak yang dekat dalam pesan proksemik umumnya mengungkapkan keakraban yang lebih tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Lebih dekat", "isCorrect": true },
+        { "text": "B. Sangat jauh", "isCorrect": false },
+        { "text": "C. Tidak berpengaruh", "isCorrect": false },
+        { "text": "D. Selalu sama untuk semua orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seragam kerja yang menunjukkan jabatan seseorang termasuk pesan non verbal jenis?",
+      "explanation": "Seragam dan pakaian termasuk pesan artifaktual yang menyampaikan makna melalui penampilan.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan artifaktual", "isCorrect": true },
+        { "text": "B. Pesan kinesik", "isCorrect": false },
+        { "text": "C. Pesan paralinguistik", "isCorrect": false },
+        { "text": "D. Pesan sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempo bicara yang lambat dan lembut untuk menenangkan lawan bicara termasuk pesan?",
+      "explanation": "Tempo dan cara bicara berkaitan dengan pesan paralinguistik yang mempengaruhi makna pesan verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan paralinguistik", "isCorrect": true },
+        { "text": "B. Pesan fasial", "isCorrect": false },
+        { "text": "C. Pesan proksemik", "isCorrect": false },
+        { "text": "D. Pesan artifaktual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memeluk seseorang yang sedang berduka untuk memberi dukungan termasuk pesan?",
+      "explanation": "Pelukan adalah kontak fisik melalui kulit, sehingga termasuk pesan sentuhan.",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan sentuhan", "isCorrect": true },
+        { "text": "B. Pesan proksemik", "isCorrect": false },
+        { "text": "C. Pesan paralinguistik", "isCorrect": false },
+        { "text": "D. Pesan artifaktual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang pesan fasial?",
+      "explanation": "Pesan fasial menyampaikan makna pesan melalui raut wajah seseorang.",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Menyampaikan makna melalui raut wajah", "isCorrect": true },
+        { "text": "B. Menyampaikan makna melalui jarak", "isCorrect": false },
+        { "text": "C. Menyampaikan makna melalui pakaian", "isCorrect": false },
+        { "text": "D. Menyampaikan makna melalui bau", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi pesan non verbal yang membantu memperjelas atau menambah informasi pada pesan verbal disebut?",
+      "explanation": "Fungsi komplemen menambah atau melengkapi informasi pesan verbal agar lebih jelas.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Komplemen", "isCorrect": true },
+        { "text": "B. Kontradiksi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Repetisi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang menunjuk arah pintu sambil berkata 'keluar lewat sana'. Tunjuk tangan ini berfungsi sebagai?",
+      "explanation": "Tunjuk tangan mengulang dan menegaskan arah yang disebutkan secara verbal, sehingga termasuk fungsi repetisi.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Repetisi", "isCorrect": true },
+        { "text": "B. Kontradiksi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Aksentuasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi verbal dan non verbal dikatakan saling berkaitan karena?",
+      "explanation": "Keduanya saling melengkapi; pesan non verbal sering memperkuat, melengkapi, atau menggantikan pesan verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Saling melengkapi dalam menyampaikan makna", "isCorrect": true },
+        { "text": "B. Selalu bertentangan satu sama lain", "isCorrect": false },
+        { "text": "C. Tidak pernah muncul bersamaan", "isCorrect": false },
+        { "text": "D. Hanya digunakan secara terpisah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang berbicara dengan penekanan suara pada kata tertentu untuk menonjolkan maknanya menjalankan fungsi non verbal?",
+      "explanation": "Penekanan suara pada kata tertentu menonjolkan makna, sehingga menjalankan fungsi aksentuasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Aksentuasi", "isCorrect": true },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Kontradiksi", "isCorrect": false },
+        { "text": "D. Komplemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kontak mata yang dipertahankan saat berbicara umumnya menunjukkan?",
+      "explanation": "Kontak mata melalui gerakan mata termasuk pesan gestural dan menunjukkan perhatian serta keterlibatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Perhatian dan keterlibatan", "isCorrect": true },
+        { "text": "B. Rasa tidak peduli", "isCorrect": false },
+        { "text": "C. Penolakan total", "isCorrect": false },
+        { "text": "D. Ketidakhadiran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan contoh fungsi substitusi pesan non verbal dalam kehidupan sehari-hari?",
+      "explanation": "Menggelengkan kepala untuk menyatakan 'tidak' tanpa berkata-kata menggantikan pesan verbal, yaitu fungsi substitusi.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Menggeleng kepala tanpa berkata untuk menolak", "isCorrect": true },
+        { "text": "B. Berbicara keras sambil memukul meja", "isCorrect": false },
+        { "text": "C. Tersenyum sambil berkata terima kasih", "isCorrect": false },
+        { "text": "D. Mengerutkan dahi saat bingung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor biologis dalam komunikasi verbal berkaitan dengan?",
+      "explanation": "Faktor biologis berkaitan dengan keterbatasan fisik seseorang yang mempengaruhi kemampuan komunikasinya.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Keterbatasan fisik seseorang", "isCorrect": true },
+        { "text": "B. Jumlah teman seseorang", "isCorrect": false },
+        { "text": "C. Warna pakaian", "isCorrect": false },
+        { "text": "D. Jarak komunikasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh komunikasi verbal lisan dua arah secara langsung?",
+      "explanation": "Berbicara langsung dan wawancara tatap muka merupakan komunikasi verbal lisan yang bersifat dua arah.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Berbicara langsung tatap muka", "isCorrect": true },
+        { "text": "B. Memasang banner", "isCorrect": false },
+        { "text": "C. Menulis poster", "isCorrect": false },
+        { "text": "D. Mengirim surat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu alasan komunikasi non verbal penting dipelajari adalah karena?",
+      "explanation": "Komunikasi non verbal penting karena lebih jujur dan saling berkaitan dengan komunikasi verbal dalam menyampaikan makna.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Cenderung lebih jujur dan melengkapi pesan verbal", "isCorrect": true },
+        { "text": "B. Selalu menggantikan tulisan resmi", "isCorrect": false },
+        { "text": "C. Tidak pernah keliru", "isCorrect": false },
+        { "text": "D. Hanya berlaku di dunia kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila pesan verbal dan non verbal bertentangan, lawan bicara cenderung lebih mempercayai?",
+      "explanation": "Karena pesan non verbal lebih jujur, lawan bicara cenderung lebih mempercayai pesan non verbal saat keduanya bertentangan.",
+      "difficulty": "HARD",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Pesan non verbal", "isCorrect": true },
+        { "text": "B. Pesan verbal", "isCorrect": false },
+        { "text": "C. Pesan tulisan", "isCorrect": false },
+        { "text": "D. Tidak keduanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan gestural dan pesan postural keduanya termasuk dalam kategori pesan?",
+      "explanation": "Pesan gestural dan postural keduanya merupakan bagian dari pesan kinesik (gerakan tubuh).",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan kinesik", "isCorrect": true },
+        { "text": "B. Pesan proksemik", "isCorrect": false },
+        { "text": "C. Pesan artifaktual", "isCorrect": false },
+        { "text": "D. Pesan paralinguistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk contoh pesan paralinguistik?",
+      "explanation": "Intonasi, nada, dan tempo suara saat mengucapkan pesan verbal termasuk pesan paralinguistik.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Intonasi dan nada suara", "isCorrect": true },
+        { "text": "B. Pakaian dan kosmetik", "isCorrect": false },
+        { "text": "C. Pengaturan jarak", "isCorrect": false },
+        { "text": "D. Pelukan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang menjaga jarak lebih jauh dengan orang yang tidak dikenal menunjukkan penggunaan pesan?",
+      "explanation": "Pengaturan jarak menurut tingkat keakraban merupakan pesan proksemik.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan proksemik", "isCorrect": true },
+        { "text": "B. Pesan fasial", "isCorrect": false },
+        { "text": "C. Pesan artifaktual", "isCorrect": false },
+        { "text": "D. Pesan sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi verbal yang efektif memerlukan kosa kata yang memadai, yang dipengaruhi terutama oleh?",
+      "explanation": "Kosa kata dipengaruhi oleh faktor pengetahuan; makin luas pengetahuan makin kaya kosa kata.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor pengetahuan", "isCorrect": true },
+        { "text": "B. Faktor proksemik", "isCorrect": false },
+        { "text": "C. Faktor artifaktual", "isCorrect": false },
+        { "text": "D. Faktor sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lima fungsi pesan non verbal terhadap pesan verbal mencakup repetisi, substitusi, kontradiksi, komplemen, dan?",
+      "explanation": "Fungsi kelima pesan non verbal selain repetisi, substitusi, kontradiksi, dan komplemen adalah aksentuasi.",
+      "difficulty": "EASY",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Aksentuasi", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Transparansi", "isCorrect": false },
+        { "text": "D. Inklusivitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang guru menjelaskan materi sambil menggambar diagram di papan tulis. Gambar ini melengkapi penjelasan lisan dan menjalankan fungsi?",
+      "explanation": "Gambar yang melengkapi penjelasan lisan menjalankan fungsi komplemen pesan non verbal.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Komplemen", "isCorrect": true },
+        { "text": "B. Kontradiksi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Repetisi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan contoh komunikasi non verbal melalui vokalik (paralinguistik)?",
+      "explanation": "Berbicara dengan nada bergetar saat sedih adalah contoh vokalik/paralinguistik yang menyampaikan emosi.",
+      "difficulty": "HARD",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Berbicara dengan nada bergetar saat sedih", "isCorrect": true },
+        { "text": "B. Mengenakan jaket tebal", "isCorrect": false },
+        { "text": "C. Menjabat tangan erat", "isCorrect": false },
+        { "text": "D. Berdiri jauh dari lawan bicara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi verbal menggunakan simbol verbal, sedangkan komunikasi non verbal menggunakan?",
+      "explanation": "Komunikasi non verbal mengemas pesan dalam bentuk tanpa kata, seperti gerakan, jarak, penampilan, dan intonasi.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Pesan tanpa kata", "isCorrect": true },
+        { "text": "B. Kata tertulis saja", "isCorrect": false },
+        { "text": "C. Kata lisan saja", "isCorrect": false },
+        { "text": "D. Surat resmi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor pengalaman membuat komunikasi seseorang lebih baik karena?",
+      "explanation": "Makin banyak pengalaman berkomunikasi, seseorang makin terlatih sehingga komunikasinya makin baik.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Makin terlatih dan terbiasa berkomunikasi", "isCorrect": true },
+        { "text": "B. Mengubah bentuk fisik", "isCorrect": false },
+        { "text": "C. Mengurangi kosa kata", "isCorrect": false },
+        { "text": "D. Menghilangkan ekspresi wajah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh fungsi kontradiksi yang paling tepat?",
+      "explanation": "Fungsi kontradiksi terjadi ketika non verbal bertentangan dengan verbal, misalnya berkata 'tidak apa-apa' sambil menahan tangis.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Berkata 'tidak apa-apa' sambil menahan tangis", "isCorrect": true },
+        { "text": "B. Berkata 'iya' sambil mengangguk", "isCorrect": false },
+        { "text": "C. Melambaikan tangan tanda perpisahan", "isCorrect": false },
+        { "text": "D. Memukul meja menekankan kata penting", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang sales yang berpenampilan rapi dan wangi memberi kesan profesional. Hal ini memanfaatkan pesan non verbal?",
+      "explanation": "Penampilan rapi (artifaktual) dan wangi (bau-bauan) keduanya pesan non verbal; penampilan/pakaian termasuk pesan artifaktual.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan artifaktual", "isCorrect": true },
+        { "text": "B. Pesan gestural", "isCorrect": false },
+        { "text": "C. Pesan proksemik", "isCorrect": false },
+        { "text": "D. Pesan postural", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan mempelajari fungsi pesan non verbal adalah agar kita mampu?",
+      "explanation": "Memahami fungsi pesan non verbal membantu kita memahami makna pesan secara utuh dan berkomunikasi lebih efektif.",
+      "difficulty": "EASY",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Memahami makna pesan secara lebih utuh", "isCorrect": true },
+        { "text": "B. Mengabaikan pesan verbal", "isCorrect": false },
+        { "text": "C. Menghindari komunikasi", "isCorrect": false },
+        { "text": "D. Memperlambat komunikasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan contoh pesan kinesik gestural pada mata?",
+      "explanation": "Mengedipkan mata sebagai tanda merupakan gerakan sebagian anggota badan (mata), yaitu pesan gestural.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Mengedipkan mata sebagai tanda", "isCorrect": true },
+        { "text": "B. Membungkuk hormat", "isCorrect": false },
+        { "text": "C. Mengenakan kacamata hitam", "isCorrect": false },
+        { "text": "D. Berbisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi verbal lisan berbeda dari verbal tulisan terutama pada?",
+      "explanation": "Verbal lisan disampaikan melalui ucapan/suara, sedangkan verbal tulisan disampaikan melalui teks/tulisan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Media penyampaiannya (ucapan vs tulisan)", "isCorrect": true },
+        { "text": "B. Jenis pakaian yang dipakai", "isCorrect": false },
+        { "text": "C. Jarak komunikasi", "isCorrect": false },
+        { "text": "D. Bau ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah faktor yang mempengaruhi komunikasi verbal, KECUALI?",
+      "explanation": "Faktor yang mempengaruhi komunikasi verbal adalah budaya, pengetahuan, kepribadian, biologis, dan pengalaman; jarak ruang adalah faktor non verbal (proksemik).",
+      "difficulty": "HARD",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor budaya", "isCorrect": false },
+        { "text": "B. Faktor pengetahuan", "isCorrect": false },
+        { "text": "C. Faktor pengaturan jarak ruang", "isCorrect": true },
+        { "text": "D. Faktor pengalaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mahasiswa yang berasal dari daerah dengan logat berbeda kadang sulit dipahami teman. Hal ini terutama dipengaruhi faktor?",
+      "explanation": "Perbedaan logat/bahasa daerah berkaitan dengan faktor budaya karena setiap budaya memiliki bahasa berbeda.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor budaya", "isCorrect": true },
+        { "text": "B. Faktor biologis", "isCorrect": false },
+        { "text": "C. Faktor pengalaman", "isCorrect": false },
+        { "text": "D. Faktor proksemik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan sentuhan dan bau-bauan diterima oleh indra?",
+      "explanation": "Pesan sentuhan dan bau-bauan diterima melalui kulit (peraba) dan hidung (penciuman).",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Kulit dan hidung", "isCorrect": true },
+        { "text": "B. Mata dan telinga", "isCorrect": false },
+        { "text": "C. Lidah dan mata", "isCorrect": false },
+        { "text": "D. Telinga dan hidung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan 'komunikasi non verbal lebih jujur daripada komunikasi verbal' bermakna bahwa?",
+      "explanation": "Pesan non verbal cenderung mencerminkan perasaan sebenarnya karena sulit direkayasa, sehingga lebih jujur.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Pesan non verbal lebih mencerminkan perasaan sebenarnya", "isCorrect": true },
+        { "text": "B. Pesan non verbal selalu benar secara fakta", "isCorrect": false },
+        { "text": "C. Pesan verbal selalu bohong", "isCorrect": false },
+        { "text": "D. Pesan non verbal tidak bermakna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang paling tepat tentang hubungan kedua jenis komunikasi?",
+      "explanation": "Komunikasi verbal dan non verbal sangat berkaitan dan biasanya digunakan bersama untuk menyampaikan makna yang utuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Keduanya berkaitan dan sering digunakan bersama", "isCorrect": true },
+        { "text": "B. Keduanya tidak berhubungan sama sekali", "isCorrect": false },
+        { "text": "C. Verbal selalu lebih jujur dari non verbal", "isCorrect": false },
+        { "text": "D. Non verbal tidak mempengaruhi makna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja menundukkan kepala dan menghindari kontak mata saat ditegur atasan. Hal ini termasuk pesan?",
+      "explanation": "Menundukkan kepala dan menghindari kontak mata melibatkan gerakan tubuh, sehingga termasuk pesan kinesik.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Pesan kinesik", "isCorrect": true },
+        { "text": "B. Pesan artifaktual", "isCorrect": false },
+        { "text": "C. Pesan paralinguistik", "isCorrect": false },
+        { "text": "D. Pesan proksemik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pembicara mengulang kata kunci dengan suara lebih lantang untuk menekankan poin penting. Fungsi non verbal yang dijalankan adalah?",
+      "explanation": "Menekankan poin penting dengan suara lebih lantang merupakan fungsi aksentuasi pesan non verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Aksentuasi", "isCorrect": true },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Kontradiksi", "isCorrect": false },
+        { "text": "D. Komplemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi verbal dapat berupa lisan dan tulisan. Manakah kombinasi contoh yang seluruhnya verbal?",
+      "explanation": "Presentasi (lisan), surat (tulisan), dan email (tulisan) seluruhnya merupakan komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Presentasi, surat, dan email", "isCorrect": true },
+        { "text": "B. Senyum, pelukan, dan jabat tangan", "isCorrect": false },
+        { "text": "C. Gestur, postur, dan intonasi", "isCorrect": false },
+        { "text": "D. Pakaian, parfum, dan jarak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu peran komunikasi non verbal dalam interaksi sehari-hari adalah menggantikan kata ketika kondisi tidak memungkinkan berbicara, contohnya saat di tempat bising. Fungsi ini disebut?",
+      "explanation": "Menggantikan kata dengan isyarat non verbal saat tidak bisa berbicara adalah fungsi substitusi.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Substitusi", "isCorrect": true },
+        { "text": "B. Aksentuasi", "isCorrect": false },
+        { "text": "C. Komplemen", "isCorrect": false },
+        { "text": "D. Kontradiksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan urutan benar klasifikasi pesan kinesik dari raut wajah, sebagian anggota badan, hingga seluruh anggota badan?",
+      "explanation": "Urutannya adalah fasial (raut wajah), gestural (sebagian anggota badan), dan postural (seluruh anggota badan).",
+      "difficulty": "HARD",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Fasial, gestural, postural", "isCorrect": true },
+        { "text": "B. Postural, gestural, fasial", "isCorrect": false },
+        { "text": "C. Gestural, fasial, postural", "isCorrect": false },
+        { "text": "D. Fasial, postural, gestural", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi verbal yang baik mensyaratkan pemahaman yang sama atas simbol bahasa. Bila latar budaya berbeda, dapat timbul?",
+      "explanation": "Perbedaan budaya/bahasa dapat menimbulkan kesalahpahaman karena setiap budaya memiliki bahasa yang berbeda.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Kesalahpahaman makna", "isCorrect": true },
+        { "text": "B. Peningkatan kosa kata otomatis", "isCorrect": false },
+        { "text": "C. Hilangnya pesan non verbal", "isCorrect": false },
+        { "text": "D. Perubahan penampilan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Diam dengan ekspresi datar saat ditanya pendapat dapat menjadi pesan non verbal yang menyampaikan?",
+      "explanation": "Ekspresi datar (fasial) dapat menyampaikan makna seperti ketidaksetujuan atau ketidaktertarikan tanpa kata-kata.",
+      "difficulty": "HARD",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Makna tertentu meski tanpa kata", "isCorrect": true },
+        { "text": "B. Tidak ada makna apa pun", "isCorrect": false },
+        { "text": "C. Pesan verbal tulisan", "isCorrect": false },
+        { "text": "D. Hambatan teknis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan artifaktual berbeda dengan pesan kinesik karena pesan artifaktual berfokus pada?",
+      "explanation": "Pesan artifaktual berfokus pada penampilan tubuh, pakaian, dan kosmetik, bukan pada gerakan tubuh seperti kinesik.",
+      "difficulty": "HARD",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Penampilan, pakaian, dan kosmetik", "isCorrect": true },
+        { "text": "B. Gerakan tubuh", "isCorrect": false },
+        { "text": "C. Intonasi suara", "isCorrect": false },
+        { "text": "D. Pengaturan jarak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi verbal dan non verbal idealnya digunakan secara?",
+      "explanation": "Keduanya idealnya digunakan secara selaras/terpadu agar pesan tersampaikan secara utuh dan tidak menimbulkan kontradiksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Selaras dan saling mendukung", "isCorrect": true },
+        { "text": "B. Terpisah dan saling bertentangan", "isCorrect": false },
+        { "text": "C. Hanya salah satu saja", "isCorrect": false },
+        { "text": "D. Bergantian tanpa kaitan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja mengirim laporan tertulis kepada atasannya melalui memo. Bentuk komunikasi ini adalah?",
+      "explanation": "Memo tertulis menggunakan simbol verbal berupa tulisan, sehingga termasuk komunikasi verbal tulisan.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi verbal",
+      "options": [
+        { "text": "A. Komunikasi verbal tulisan", "isCorrect": true },
+        { "text": "B. Pesan kinesik", "isCorrect": false },
+        { "text": "C. Pesan proksemik", "isCorrect": false },
+        { "text": "D. Pesan sentuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang punya banyak pengalaman bertemu beragam orang biasanya lebih luwes berkomunikasi. Ini menegaskan pentingnya faktor?",
+      "explanation": "Keluwesan karena banyak bertemu orang menegaskan pentingnya faktor pengalaman dalam komunikasi verbal.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang mempengaruhi komunikasi verbal",
+      "options": [
+        { "text": "A. Faktor pengalaman", "isCorrect": true },
+        { "text": "B. Faktor biologis", "isCorrect": false },
+        { "text": "C. Faktor artifaktual", "isCorrect": false },
+        { "text": "D. Faktor proksemik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar mengenai pesan proksemik?",
+      "explanation": "Pesan proksemik disampaikan melalui pengaturan jarak dan ruang untuk mengungkapkan keakraban.",
+      "difficulty": "MEDIUM",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Disampaikan melalui pengaturan jarak dan ruang", "isCorrect": true },
+        { "text": "B. Disampaikan melalui pakaian", "isCorrect": false },
+        { "text": "C. Disampaikan melalui intonasi", "isCorrect": false },
+        { "text": "D. Disampaikan melalui raut wajah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang mahasiswa mengangkat tangan untuk meminta izin bertanya. Fungsi pesan non verbal ini terhadap niat bertanya adalah?",
+      "explanation": "Mengangkat tangan menggantikan ucapan 'saya ingin bertanya', sehingga menjalankan fungsi substitusi.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Substitusi", "isCorrect": true },
+        { "text": "B. Aksentuasi", "isCorrect": false },
+        { "text": "C. Kontradiksi", "isCorrect": false },
+        { "text": "D. Repetisi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pesan non verbal yang muncul melalui cara/nada bicara untuk membedakan makna disebut juga?",
+      "explanation": "Cara/nada bicara yang membedakan makna pesan verbal disebut pesan paralinguistik (vokalik).",
+      "difficulty": "EASY",
+      "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)",
+      "options": [
+        { "text": "A. Paralinguistik", "isCorrect": true },
+        { "text": "B. Artifaktual", "isCorrect": false },
+        { "text": "C. Proksemik", "isCorrect": false },
+        { "text": "D. Fasial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketika seseorang berkata 'silakan masuk' sambil membuka pintu dan mempersilakan dengan tangan, gerakan tangan tersebut berfungsi?",
+      "explanation": "Gerakan tangan mempersilakan melengkapi dan memperjelas ucapan verbal, sehingga menjalankan fungsi komplemen.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Komplemen", "isCorrect": true },
+        { "text": "B. Kontradiksi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Aksentuasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa memahami komunikasi non verbal penting dalam dunia kerja dan K3?",
+      "explanation": "Pesan non verbal melengkapi pesan verbal dan dapat mengungkapkan kondisi/perasaan sebenarnya pekerja, mendukung komunikasi yang efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Membantu memahami pesan secara lebih utuh dan jujur", "isCorrect": true },
+        { "text": "B. Menggantikan seluruh aturan tertulis", "isCorrect": false },
+        { "text": "C. Menghapus kebutuhan berbicara", "isCorrect": false },
+        { "text": "D. Tidak memiliki manfaat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang berkata 'aku setuju' tetapi menyilangkan tangan dan memalingkan wajah. Fungsi non verbal yang muncul adalah?",
+      "explanation": "Bahasa tubuh tertutup yang bertentangan dengan ucapan 'aku setuju' menjalankan fungsi kontradiksi.",
+      "difficulty": "HARD",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Kontradiksi", "isCorrect": true },
+        { "text": "B. Komplemen", "isCorrect": false },
+        { "text": "C. Repetisi", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh yang paling tepat menggambarkan fungsi repetisi pesan non verbal?",
+      "explanation": "Menunjukkan dua jari sambil berkata 'dua' mengulang/memperkuat pesan verbal, yaitu fungsi repetisi.",
+      "difficulty": "MEDIUM",
+      "tag": "Fungsi pesan non verbal",
+      "options": [
+        { "text": "A. Menunjukkan dua jari sambil berkata 'dua'", "isCorrect": true },
+        { "text": "B. Diam tanpa ekspresi", "isCorrect": false },
+        { "text": "C. Berkata senang dengan wajah marah", "isCorrect": false },
+        { "text": "D. Mengenakan dasi merah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inti hubungan antara komunikasi verbal dan non verbal adalah keduanya?",
+      "explanation": "Inti hubungannya adalah keduanya sangat berkaitan dan saling melengkapi dalam proses komunikasi.",
+      "difficulty": "EASY",
+      "tag": "Definisi dan contoh komunikasi non verbal",
+      "options": [
+        { "text": "A. Sangat berkaitan dan saling melengkapi", "isCorrect": true },
+        { "text": "B. Tidak pernah berhubungan", "isCorrect": false },
+        { "text": "C. Selalu bertolak belakang", "isCorrect": false },
+        { "text": "D. Tidak dapat dipelajari", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa itu komunikasi verbal?", "back": "Komunikasi yang menggunakan simbol-simbol verbal, baik secara lisan maupun tulisan.", "tag": "Definisi dan contoh komunikasi verbal" },
+    { "front": "Dua bentuk komunikasi verbal", "back": "Lisan (berbicara, presentasi, wawancara) dan tulisan (surat, email, poster).", "tag": "Definisi dan contoh komunikasi verbal" },
+    { "front": "Contoh komunikasi verbal lisan", "back": "Berbicara langsung, presentasi, wawancara, konferensi video.", "tag": "Definisi dan contoh komunikasi verbal" },
+    { "front": "Contoh komunikasi verbal tulisan", "back": "Menulis surat, mengirim email, poster, banner.", "tag": "Definisi dan contoh komunikasi verbal" },
+    { "front": "Lima faktor yang mempengaruhi komunikasi verbal", "back": "Budaya, pengetahuan, kepribadian, biologis, dan pengalaman.", "tag": "Faktor yang mempengaruhi komunikasi verbal" },
+    { "front": "Faktor budaya pada komunikasi verbal", "back": "Setiap budaya memiliki bahasa yang berbeda sehingga mempengaruhi komunikasi.", "tag": "Faktor yang mempengaruhi komunikasi verbal" },
+    { "front": "Faktor pengetahuan pada komunikasi verbal", "back": "Makin luas pengetahuan, makin banyak kosa kata yang dimiliki.", "tag": "Faktor yang mempengaruhi komunikasi verbal" },
+    { "front": "Faktor biologis pada komunikasi verbal", "back": "Berkaitan dengan keterbatasan fisik seseorang.", "tag": "Faktor yang mempengaruhi komunikasi verbal" },
+    { "front": "Apa itu komunikasi non verbal?", "back": "Komunikasi yang pesannya dikemas dalam bentuk tanpa kata; cenderung lebih jujur daripada verbal.", "tag": "Definisi dan contoh komunikasi non verbal" },
+    { "front": "Contoh komunikasi non verbal", "back": "Sentuhan, gerakan tubuh, dan vokalik (nada suara).", "tag": "Definisi dan contoh komunikasi non verbal" },
+    { "front": "Lima klasifikasi pesan non verbal", "back": "Kinesik, proksemik, artifaktual, paralinguistik, serta sentuhan dan bau-bauan.", "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)" },
+    { "front": "Pesan kinesik dan pembagiannya", "back": "Pesan non verbal melalui gerakan tubuh; terbagi menjadi fasial, gestural, dan postural.", "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)" },
+    { "front": "Pesan fasial", "back": "Menyampaikan makna pesan dari raut wajah.", "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)" },
+    { "front": "Pesan gestural vs postural", "back": "Gestural: gerakan sebagian anggota badan (mata, tangan). Postural: seluruh anggota badan.", "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)" },
+    { "front": "Pesan proksemik", "back": "Pesan melalui pengaturan jarak dan ruang untuk mengungkapkan keakraban.", "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)" },
+    { "front": "Pesan artifaktual", "back": "Pesan melalui penampilan tubuh, pakaian, dan kosmetik.", "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)" },
+    { "front": "Pesan paralinguistik", "back": "Berhubungan dengan cara mengucapkan pesan verbal; pengucapan berbeda memberi arti berbeda.", "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)" },
+    { "front": "Pesan sentuhan dan bau-bauan", "back": "Diterima melalui kulit dan hidung yang mampu membedakan emosi yang disampaikan.", "tag": "Klasifikasi pesan non verbal (kinesik, proksemik, artifaktual, paralinguistik, sentuhan)" },
+    { "front": "Lima fungsi pesan non verbal", "back": "Repetisi, substitusi, kontradiksi, komplemen, dan aksentuasi.", "tag": "Fungsi pesan non verbal" },
+    { "front": "Repetisi vs substitusi", "back": "Repetisi: mengulang/memperkuat pesan verbal. Substitusi: menggantikan pesan verbal.", "tag": "Fungsi pesan non verbal" },
+    { "front": "Kontradiksi vs komplemen", "back": "Kontradiksi: bertentangan dengan pesan verbal. Komplemen: melengkapi pesan verbal.", "tag": "Fungsi pesan non verbal" },
+    { "front": "Fungsi aksentuasi", "back": "Menegaskan atau menekankan bagian penting dari pesan verbal.", "tag": "Fungsi pesan non verbal" }
+  ],
+  "mindmap": [
+    { "id": "komunikasi-verbal-non-verbal", "label": "Komunikasi Verbal & Non Verbal", "color": "#6366f1", "parent": null, "content": "Komunikasi verbal memakai simbol bahasa, sedangkan non verbal memakai pesan tanpa kata; keduanya sangat berkaitan." },
+
+    { "id": "komunikasi-verbal", "label": "Komunikasi Verbal", "color": "#8b5cf6", "parent": "komunikasi-verbal-non-verbal", "content": "Komunikasi yang menggunakan simbol-simbol verbal, baik secara lisan maupun tulisan." },
+    { "id": "verbal-lisan", "label": "Lisan", "color": "#8b5cf6", "parent": "komunikasi-verbal", "content": "Komunikasi verbal yang disampaikan melalui ucapan, seperti berbicara langsung dan presentasi." },
+    { "id": "verbal-tulisan", "label": "Tulisan", "color": "#8b5cf6", "parent": "komunikasi-verbal", "content": "Komunikasi verbal yang disampaikan melalui teks, seperti surat, email, poster, dan banner." },
+    { "id": "verbal-contoh", "label": "Contoh", "color": "#8b5cf6", "parent": "komunikasi-verbal", "content": "Berbicara langsung, wawancara, konferensi video, mengirim email, poster, dan banner." },
+
+    { "id": "faktor-verbal", "label": "Faktor Pengaruh", "color": "#0ea5e9", "parent": "komunikasi-verbal-non-verbal", "content": "Faktor yang mempengaruhi kualitas komunikasi verbal seseorang." },
+    { "id": "faktor-budaya", "label": "Budaya", "color": "#0ea5e9", "parent": "faktor-verbal", "content": "Setiap budaya memiliki bahasa yang berbeda sehingga mempengaruhi pemahaman." },
+    { "id": "faktor-pengetahuan", "label": "Pengetahuan", "color": "#0ea5e9", "parent": "faktor-verbal", "content": "Makin luas pengetahuan, makin banyak kosa kata yang dimiliki." },
+    { "id": "faktor-kepribadian", "label": "Kepribadian", "color": "#0ea5e9", "parent": "faktor-verbal", "content": "Orang tertutup dan kurang bergaul biasanya kurang luwes berkomunikasi." },
+    { "id": "faktor-biologis", "label": "Biologis", "color": "#0ea5e9", "parent": "faktor-verbal", "content": "Berkaitan dengan keterbatasan fisik seseorang yang mempengaruhi komunikasi." },
+    { "id": "faktor-pengalaman", "label": "Pengalaman", "color": "#0ea5e9", "parent": "faktor-verbal", "content": "Makin banyak pengalaman, makin baik dan luwes komunikasi seseorang." },
+
+    { "id": "komunikasi-non-verbal", "label": "Komunikasi Non Verbal", "color": "#10b981", "parent": "komunikasi-verbal-non-verbal", "content": "Komunikasi yang pesannya dikemas tanpa kata dan cenderung lebih jujur daripada verbal." },
+    { "id": "nonverbal-sifat", "label": "Lebih Jujur", "color": "#10b981", "parent": "komunikasi-non-verbal", "content": "Pesan non verbal sering muncul spontan sehingga lebih jujur dan sulit dimanipulasi." },
+    { "id": "nonverbal-contoh", "label": "Contoh", "color": "#10b981", "parent": "komunikasi-non-verbal", "content": "Sentuhan, gerakan tubuh, dan vokalik (nada suara)." },
+
+    { "id": "klasifikasi-nonverbal", "label": "Klasifikasi Pesan", "color": "#f59e0b", "parent": "komunikasi-verbal-non-verbal", "content": "Pesan non verbal diklasifikasikan menjadi kinesik, proksemik, artifaktual, paralinguistik, serta sentuhan." },
+    { "id": "pesan-kinesik", "label": "Kinesik", "color": "#f59e0b", "parent": "klasifikasi-nonverbal", "content": "Pesan non verbal melalui gerakan tubuh; terbagi menjadi fasial, gestural, dan postural." },
+    { "id": "kinesik-fasial", "label": "Fasial", "color": "#f59e0b", "parent": "pesan-kinesik", "content": "Menyampaikan makna pesan dari raut wajah." },
+    { "id": "kinesik-gestural", "label": "Gestural", "color": "#f59e0b", "parent": "pesan-kinesik", "content": "Gerakan sebagian anggota badan seperti mata dan tangan." },
+    { "id": "kinesik-postural", "label": "Postural", "color": "#f59e0b", "parent": "pesan-kinesik", "content": "Menggunakan seluruh anggota badan; postur condong ke lawan bicara menunjukkan penilaian positif." },
+    { "id": "pesan-proksemik", "label": "Proksemik", "color": "#f59e0b", "parent": "klasifikasi-nonverbal", "content": "Pesan melalui pengaturan jarak dan ruang untuk mengungkapkan keakraban." },
+    { "id": "pesan-artifaktual", "label": "Artifaktual", "color": "#f59e0b", "parent": "klasifikasi-nonverbal", "content": "Pesan melalui penampilan tubuh, pakaian, dan kosmetik." },
+    { "id": "pesan-paralinguistik", "label": "Paralinguistik", "color": "#f59e0b", "parent": "klasifikasi-nonverbal", "content": "Berhubungan dengan cara mengucapkan pesan verbal; pengucapan berbeda memberi arti berbeda." },
+    { "id": "pesan-sentuhan", "label": "Sentuhan & Bau", "color": "#f59e0b", "parent": "klasifikasi-nonverbal", "content": "Diterima melalui kulit dan hidung yang mampu membedakan emosi yang disampaikan." },
+
+    { "id": "fungsi-nonverbal", "label": "Fungsi Pesan", "color": "#ef4444", "parent": "komunikasi-verbal-non-verbal", "content": "Fungsi pesan non verbal terhadap pesan verbal: repetisi, substitusi, kontradiksi, komplemen, aksentuasi." },
+    { "id": "fungsi-repetisi", "label": "Repetisi", "color": "#ef4444", "parent": "fungsi-nonverbal", "content": "Mengulang dan memperkuat pesan verbal, misalnya mengangguk sambil berkata 'iya'." },
+    { "id": "fungsi-substitusi", "label": "Substitusi", "color": "#ef4444", "parent": "fungsi-nonverbal", "content": "Menggantikan pesan verbal, misalnya melambaikan tangan untuk berpamitan." },
+    { "id": "fungsi-kontradiksi", "label": "Kontradiksi", "color": "#ef4444", "parent": "fungsi-nonverbal", "content": "Bertentangan dengan pesan verbal, misalnya berkata senang dengan wajah cemberut." },
+    { "id": "fungsi-komplemen", "label": "Komplemen", "color": "#ef4444", "parent": "fungsi-nonverbal", "content": "Melengkapi dan memperjelas pesan verbal, misalnya merentangkan tangan saat menjelaskan ukuran." },
+    { "id": "fungsi-aksentuasi", "label": "Aksentuasi", "color": "#ef4444", "parent": "fungsi-nonverbal", "content": "Menegaskan bagian penting pesan verbal, misalnya memukul meja saat menekankan kata penting." },
+
+    { "id": "keterkaitan", "label": "Keterkaitan", "color": "#ec4899", "parent": "komunikasi-verbal-non-verbal", "content": "Komunikasi verbal dan non verbal sangat berkaitan dan saling melengkapi dalam menyampaikan makna utuh." }
+  ]
+}

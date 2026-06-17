@@ -1,0 +1,1537 @@
+{
+  "topic": "Sistem Saraf dan Aktivitas Kerja",
+  "order": 4,
+  "description": "Sistem saraf adalah sistem pengendali dan koordinasi tubuh yang terdiri dari sistem saraf pusat dan sistem saraf tepi. Dalam aktivitas kerja, sistem saraf berperan dalam waktu reaksi, koordinasi, dan kewaspadaan, namun rentan terhadap kelelahan saraf, stres, serta paparan neurotoksik. Pemahaman fisiologi saraf penting untuk mencegah kelelahan mental dan gangguan kesehatan akibat kerja.",
+  "subtopics": [
+    "Definisi & Fungsi Sistem Saraf",
+    "Struktur SSP & SST",
+    "Neuron & Impuls Saraf",
+    "Refleks & Waktu Reaksi",
+    "Koordinasi & Kontrol Motorik",
+    "Faktor yang Mempengaruhi",
+    "Kelelahan Saraf & Beban Mental",
+    "Dampak Kerja pada Saraf",
+    "Pencegahan & Pengelolaan"
+  ],
+  "questions": [
+    {
+      "text": "Apa definisi sistem saraf yang paling tepat?",
+      "explanation": "Sistem saraf adalah sistem yang terdiri dari otak, sumsum tulang belakang, dan saraf yang bekerja sama mengatur dan mengkoordinasikan fungsi tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Sistem Saraf",
+      "options": [
+        { "text": "A. Sistem yang hanya mengatur pernapasan", "isCorrect": false },
+        { "text": "B. Sistem yang mengatur dan mengkoordinasikan fungsi tubuh melalui otak, sumsum tulang belakang, dan saraf", "isCorrect": true },
+        { "text": "C. Sistem yang hanya mengalirkan darah", "isCorrect": false },
+        { "text": "D. Sistem yang menggerakkan tulang saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN termasuk fungsi utama sistem saraf adalah?",
+      "explanation": "Fungsi sistem saraf meliputi mengatur dan mengkoordinasikan fungsi tubuh, mengirim/menerima sinyal, serta mengatur emosi dan perilaku; produksi sel darah merah adalah fungsi sumsum tulang.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Sistem Saraf",
+      "options": [
+        { "text": "A. Mengatur dan mengkoordinasikan fungsi tubuh", "isCorrect": false },
+        { "text": "B. Mengirim dan menerima sinyal", "isCorrect": false },
+        { "text": "C. Memproduksi sel darah merah", "isCorrect": true },
+        { "text": "D. Mengatur emosi dan perilaku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem saraf membantu tubuh dalam aktivitas kerja terutama melalui kemampuan?",
+      "explanation": "Dalam aktivitas kerja, sistem saraf berperan mengkoordinasikan gerakan, kewaspadaan, dan respons terhadap rangsangan agar pekerjaan dilakukan dengan tepat dan aman.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Sistem Saraf",
+      "options": [
+        { "text": "A. Menyimpan lemak tubuh", "isCorrect": false },
+        { "text": "B. Mengkoordinasikan gerakan dan kewaspadaan", "isCorrect": true },
+        { "text": "C. Mencerna makanan", "isCorrect": false },
+        { "text": "D. Membentuk tulang baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem saraf secara umum dibagi menjadi dua bagian besar, yaitu?",
+      "explanation": "Sistem saraf terbagi menjadi sistem saraf pusat (SSP) dan sistem saraf tepi/perifer (SST).",
+      "difficulty": "EASY",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Sistem saraf pusat dan sistem saraf tepi", "isCorrect": true },
+        { "text": "B. Sistem saraf atas dan sistem saraf bawah", "isCorrect": false },
+        { "text": "C. Sistem saraf kiri dan sistem saraf kanan", "isCorrect": false },
+        { "text": "D. Sistem saraf cepat dan sistem saraf lambat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem saraf pusat (SSP) terdiri dari?",
+      "explanation": "Sistem saraf pusat terdiri dari otak dan sumsum tulang belakang (medula spinalis).",
+      "difficulty": "EASY",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Otak dan sumsum tulang belakang", "isCorrect": true },
+        { "text": "B. Saraf kranial dan saraf spinal", "isCorrect": false },
+        { "text": "C. Jantung dan pembuluh darah", "isCorrect": false },
+        { "text": "D. Otot dan tendon", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem saraf tepi (perifer) terdiri dari?",
+      "explanation": "Sistem saraf tepi terdiri dari saraf-saraf yang berada di luar SSP, yaitu saraf kranial dan saraf spinal yang menghubungkan SSP dengan organ tubuh.",
+      "difficulty": "EASY",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Otak besar dan otak kecil", "isCorrect": false },
+        { "text": "B. Saraf kranial dan saraf spinal di luar SSP", "isCorrect": true },
+        { "text": "C. Sumsum tulang belakang saja", "isCorrect": false },
+        { "text": "D. Hanya saraf optik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian otak yang mengatur koordinasi gerakan dan keseimbangan tubuh adalah?",
+      "explanation": "Serebelum (otak kecil) berperan utama dalam koordinasi gerakan, keseimbangan, dan kehalusan gerak motorik.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Serebrum", "isCorrect": false },
+        { "text": "B. Serebelum (otak kecil)", "isCorrect": true },
+        { "text": "C. Medula oblongata", "isCorrect": false },
+        { "text": "D. Hipofisis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian batang otak yang mengatur fungsi vital seperti pernapasan dan denyut jantung adalah?",
+      "explanation": "Medula oblongata di batang otak mengatur fungsi vital otomatis seperti pernapasan, denyut jantung, dan tekanan darah.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Serebelum", "isCorrect": false },
+        { "text": "B. Lobus frontal", "isCorrect": false },
+        { "text": "C. Medula oblongata", "isCorrect": true },
+        { "text": "D. Talamus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian otak besar (serebrum) yang berperan dalam pengambilan keputusan, perencanaan, dan kontrol motorik volunter adalah lobus?",
+      "explanation": "Lobus frontal berperan dalam fungsi eksekutif seperti pengambilan keputusan, perencanaan, dan kontrol gerakan volunter.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Lobus frontal", "isCorrect": true },
+        { "text": "B. Lobus oksipital", "isCorrect": false },
+        { "text": "C. Lobus temporal", "isCorrect": false },
+        { "text": "D. Lobus parietal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lobus oksipital pada otak berperan utama dalam pengolahan?",
+      "explanation": "Lobus oksipital adalah pusat pengolahan informasi penglihatan (visual).",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Pendengaran", "isCorrect": false },
+        { "text": "B. Penglihatan", "isCorrect": true },
+        { "text": "C. Penciuman", "isCorrect": false },
+        { "text": "D. Keseimbangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem saraf otonom (saraf tak sadar) terbagi menjadi dua, yaitu?",
+      "explanation": "Sistem saraf otonom terdiri dari saraf simpatis dan saraf parasimpatis yang kerjanya saling berlawanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Saraf simpatis dan parasimpatis", "isCorrect": true },
+        { "text": "B. Saraf sensorik dan motorik", "isCorrect": false },
+        { "text": "C. Saraf kranial dan spinal", "isCorrect": false },
+        { "text": "D. Saraf pusat dan tepi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat menghadapi stres kerja atau bahaya, respons 'fight or flight' diperantarai oleh saraf?",
+      "explanation": "Saraf simpatis mengaktifkan respons 'fight or flight' yang meningkatkan denyut jantung, tekanan darah, dan kewaspadaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Saraf parasimpatis", "isCorrect": false },
+        { "text": "B. Saraf simpatis", "isCorrect": true },
+        { "text": "C. Saraf sensorik", "isCorrect": false },
+        { "text": "D. Saraf kranial X", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saraf parasimpatis berperan mengembalikan tubuh ke kondisi?",
+      "explanation": "Saraf parasimpatis mendorong respons 'rest and digest', menenangkan tubuh dan menurunkan denyut jantung setelah aktivitas.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Waspada dan tegang", "isCorrect": false },
+        { "text": "B. Istirahat dan tenang (rest and digest)", "isCorrect": true },
+        { "text": "C. Kontraksi otot maksimal", "isCorrect": false },
+        { "text": "D. Peningkatan tekanan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem saraf somatik mengendalikan?",
+      "explanation": "Sistem saraf somatik mengendalikan gerakan otot rangka secara sadar (volunter) dan menerima informasi sensorik.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Gerakan otot rangka secara sadar", "isCorrect": true },
+        { "text": "B. Denyut jantung", "isCorrect": false },
+        { "text": "C. Pencernaan makanan", "isCorrect": false },
+        { "text": "D. Sekresi kelenjar keringat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Unit struktural dan fungsional terkecil dari sistem saraf adalah?",
+      "explanation": "Neuron (sel saraf) adalah unit dasar sistem saraf yang menghantarkan impuls listrik.",
+      "difficulty": "EASY",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Nefron", "isCorrect": false },
+        { "text": "B. Neuron", "isCorrect": true },
+        { "text": "C. Alveolus", "isCorrect": false },
+        { "text": "D. Miofibril", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian neuron yang berfungsi menerima rangsangan dari neuron lain adalah?",
+      "explanation": "Dendrit adalah cabang neuron yang menerima sinyal/rangsangan dan meneruskannya ke badan sel.",
+      "difficulty": "EASY",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Akson", "isCorrect": false },
+        { "text": "B. Dendrit", "isCorrect": true },
+        { "text": "C. Sinapsis", "isCorrect": false },
+        { "text": "D. Selubung mielin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian neuron yang menghantarkan impuls menjauhi badan sel menuju neuron berikutnya adalah?",
+      "explanation": "Akson adalah serabut panjang yang menghantarkan impuls keluar dari badan sel menuju neuron atau efektor lain.",
+      "difficulty": "EASY",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Dendrit", "isCorrect": false },
+        { "text": "B. Badan sel (soma)", "isCorrect": false },
+        { "text": "C. Akson", "isCorrect": true },
+        { "text": "D. Nukleus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selubung lemak yang membungkus akson dan mempercepat penghantaran impuls saraf disebut?",
+      "explanation": "Selubung mielin adalah lapisan lemak yang membungkus akson dan mempercepat hantaran impuls melalui konduksi saltatori.",
+      "difficulty": "MEDIUM",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Selubung mielin", "isCorrect": true },
+        { "text": "B. Nodus Ranvier", "isCorrect": false },
+        { "text": "C. Sinapsis", "isCorrect": false },
+        { "text": "D. Dendrit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penghantaran impuls yang 'melompat' dari satu nodus Ranvier ke nodus berikutnya pada akson bermielin disebut konduksi?",
+      "explanation": "Konduksi saltatori (saltatory) adalah lompatan impuls antar nodus Ranvier yang membuat hantaran lebih cepat.",
+      "difficulty": "HARD",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Saltatori", "isCorrect": true },
+        { "text": "B. Kontinu", "isCorrect": false },
+        { "text": "C. Difusi", "isCorrect": false },
+        { "text": "D. Osmosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Celah pertemuan antar dua neuron tempat sinyal diteruskan disebut?",
+      "explanation": "Sinapsis adalah titik pertemuan antar neuron tempat impuls diteruskan, umumnya melalui neurotransmiter.",
+      "difficulty": "EASY",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Nodus Ranvier", "isCorrect": false },
+        { "text": "B. Sinapsis", "isCorrect": true },
+        { "text": "C. Akson terminal", "isCorrect": false },
+        { "text": "D. Soma", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Zat kimia yang menghantarkan sinyal melintasi celah sinapsis disebut?",
+      "explanation": "Neurotransmiter adalah zat kimia (misalnya asetilkolin, dopamin) yang menghantarkan sinyal antar neuron pada sinapsis.",
+      "difficulty": "MEDIUM",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Hormon", "isCorrect": false },
+        { "text": "B. Enzim", "isCorrect": false },
+        { "text": "C. Neurotransmiter", "isCorrect": true },
+        { "text": "D. Antibodi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Neurotransmiter yang berperan pada sambungan saraf-otot (neuromuscular junction) untuk kontraksi otot adalah?",
+      "explanation": "Asetilkolin adalah neurotransmiter pada neuromuscular junction yang memicu kontraksi otot rangka.",
+      "difficulty": "HARD",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Dopamin", "isCorrect": false },
+        { "text": "B. Asetilkolin", "isCorrect": true },
+        { "text": "C. Serotonin", "isCorrect": false },
+        { "text": "D. Insulin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Impuls saraf dihantarkan sepanjang akson dalam bentuk?",
+      "explanation": "Impuls saraf merupakan sinyal listrik berupa potensial aksi yang merambat sepanjang membran akson.",
+      "difficulty": "MEDIUM",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Aliran darah", "isCorrect": false },
+        { "text": "B. Potensial aksi (sinyal listrik)", "isCorrect": true },
+        { "text": "C. Gelombang suara", "isCorrect": false },
+        { "text": "D. Tekanan udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Neuron yang membawa impuls dari reseptor menuju sistem saraf pusat disebut neuron?",
+      "explanation": "Neuron sensorik (aferen) membawa impuls dari reseptor/indra menuju sistem saraf pusat.",
+      "difficulty": "MEDIUM",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Motorik", "isCorrect": false },
+        { "text": "B. Sensorik (aferen)", "isCorrect": true },
+        { "text": "C. Interneuron", "isCorrect": false },
+        { "text": "D. Asosiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Neuron yang membawa impuls dari sistem saraf pusat menuju otot atau kelenjar disebut neuron?",
+      "explanation": "Neuron motorik (eferen) membawa impuls dari SSP menuju efektor seperti otot atau kelenjar.",
+      "difficulty": "MEDIUM",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Sensorik", "isCorrect": false },
+        { "text": "B. Motorik (eferen)", "isCorrect": true },
+        { "text": "C. Interneuron", "isCorrect": false },
+        { "text": "D. Aferen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ion utama yang masuk ke dalam sel saraf saat terjadi depolarisasi potensial aksi adalah?",
+      "explanation": "Saat depolarisasi, ion natrium (Na+) masuk ke dalam sel saraf sehingga bagian dalam menjadi lebih positif.",
+      "difficulty": "HARD",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Kalsium (Ca2+)", "isCorrect": false },
+        { "text": "B. Natrium (Na+)", "isCorrect": true },
+        { "text": "C. Klorida (Cl-)", "isCorrect": false },
+        { "text": "D. Magnesium (Mg2+)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Respons tubuh yang terjadi secara otomatis dan cepat tanpa melibatkan kesadaran (otak) disebut?",
+      "explanation": "Gerak refleks adalah respons cepat dan otomatis terhadap rangsangan tanpa diproses oleh otak terlebih dahulu.",
+      "difficulty": "EASY",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Gerak refleks", "isCorrect": true },
+        { "text": "B. Gerak sadar", "isCorrect": false },
+        { "text": "C. Gerak volunter", "isCorrect": false },
+        { "text": "D. Gerak terencana", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jalur yang dilalui impuls pada gerak refleks disebut?",
+      "explanation": "Lengkung refleks (reflex arc) adalah jalur impuls pada gerak refleks: reseptor - saraf sensorik - pusat - saraf motorik - efektor.",
+      "difficulty": "MEDIUM",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Lengkung refleks (reflex arc)", "isCorrect": true },
+        { "text": "B. Sirkuit otak", "isCorrect": false },
+        { "text": "C. Jalur sadar", "isCorrect": false },
+        { "text": "D. Saraf otonom", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada gerak refleks spinal, pusat yang mengolah impuls adalah?",
+      "explanation": "Pada refleks spinal, pengolahan terjadi di sumsum tulang belakang (medula spinalis), bukan di otak, sehingga respons lebih cepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Otak besar", "isCorrect": false },
+        { "text": "B. Sumsum tulang belakang", "isCorrect": true },
+        { "text": "C. Otak kecil", "isCorrect": false },
+        { "text": "D. Hipotalamus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan yang benar pada lengkung refleks adalah?",
+      "explanation": "Lengkung refleks: reseptor menerima rangsang, diteruskan saraf sensorik ke pusat (sumsum tulang belakang), lalu saraf motorik ke efektor.",
+      "difficulty": "MEDIUM",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Efektor - motorik - pusat - sensorik - reseptor", "isCorrect": false },
+        { "text": "B. Reseptor - saraf sensorik - pusat - saraf motorik - efektor", "isCorrect": true },
+        { "text": "C. Pusat - reseptor - efektor - motorik - sensorik", "isCorrect": false },
+        { "text": "D. Reseptor - motorik - pusat - sensorik - efektor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Waktu reaksi (reaction time) didefinisikan sebagai?",
+      "explanation": "Waktu reaksi adalah selang waktu antara munculnya rangsangan dan dimulainya respons motorik dari pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Lama seseorang bekerja dalam sehari", "isCorrect": false },
+        { "text": "B. Selang waktu antara munculnya rangsangan dan dimulainya respons", "isCorrect": true },
+        { "text": "C. Waktu istirahat antar shift", "isCorrect": false },
+        { "text": "D. Lama tidur yang dibutuhkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam konteks keselamatan kerja, waktu reaksi yang cepat penting untuk?",
+      "explanation": "Waktu reaksi cepat membantu pekerja menghindari bahaya (misalnya menarik tangan dari mesin) sehingga menurunkan risiko kecelakaan kerja.",
+      "difficulty": "EASY",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Memperlambat produksi", "isCorrect": false },
+        { "text": "B. Menghindari bahaya dan mencegah kecelakaan kerja", "isCorrect": true },
+        { "text": "C. Meningkatkan kadar gula darah", "isCorrect": false },
+        { "text": "D. Mengurangi kebutuhan oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor berikut yang dapat memperlambat (memperburuk) waktu reaksi pekerja adalah?",
+      "explanation": "Kelelahan, kurang tidur, alkohol, dan usia lanjut memperlambat waktu reaksi karena memperlambat pemrosesan saraf.",
+      "difficulty": "MEDIUM",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Tidur cukup", "isCorrect": false },
+        { "text": "B. Kelelahan dan kurang tidur", "isCorrect": true },
+        { "text": "C. Kondisi pencahayaan baik", "isCorrect": false },
+        { "text": "D. Konsentrasi tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Waktu reaksi terhadap rangsangan yang melibatkan pemilihan beberapa respons disebut?",
+      "explanation": "Choice reaction time (waktu reaksi pilihan) terjadi saat pekerja harus memilih satu respons dari beberapa kemungkinan, sehingga lebih lama dari simple reaction time.",
+      "difficulty": "HARD",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Simple reaction time", "isCorrect": false },
+        { "text": "B. Choice reaction time", "isCorrect": true },
+        { "text": "C. Refleks tendon", "isCorrect": false },
+        { "text": "D. Reaksi spontan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh refleks fisiologis yang sering diuji pada pemeriksaan saraf adalah?",
+      "explanation": "Refleks patela (knee-jerk) adalah refleks regang otot yang diuji dengan mengetuk tendon lutut.",
+      "difficulty": "MEDIUM",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Refleks patela (knee-jerk)", "isCorrect": true },
+        { "text": "B. Refleks denyut jantung", "isCorrect": false },
+        { "text": "C. Refleks pernapasan", "isCorrect": false },
+        { "text": "D. Refleks pencernaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian otak yang paling berperan dalam menjaga keseimbangan dan kehalusan koordinasi gerak saat bekerja adalah?",
+      "explanation": "Serebelum (otak kecil) mengkoordinasikan gerakan halus, keseimbangan, dan ketepatan motorik.",
+      "difficulty": "MEDIUM",
+      "tag": "Koordinasi & Kontrol Motorik",
+      "options": [
+        { "text": "A. Serebelum", "isCorrect": true },
+        { "text": "B. Lobus oksipital", "isCorrect": false },
+        { "text": "C. Medula oblongata", "isCorrect": false },
+        { "text": "D. Talamus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kemampuan menyelaraskan gerakan tangan dengan informasi yang dilihat mata disebut koordinasi?",
+      "explanation": "Koordinasi mata-tangan (hand-eye coordination) penting dalam banyak pekerjaan yang menuntut presisi seperti perakitan.",
+      "difficulty": "MEDIUM",
+      "tag": "Koordinasi & Kontrol Motorik",
+      "options": [
+        { "text": "A. Mata-tangan", "isCorrect": true },
+        { "text": "B. Kaki-paru", "isCorrect": false },
+        { "text": "C. Jantung-otak", "isCorrect": false },
+        { "text": "D. Telinga-hidung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gerakan yang dikendalikan secara sadar dan disengaja oleh pekerja disebut gerakan?",
+      "explanation": "Gerakan volunter adalah gerakan yang dikendalikan secara sadar melalui korteks motorik, misalnya mengoperasikan mesin.",
+      "difficulty": "EASY",
+      "tag": "Koordinasi & Kontrol Motorik",
+      "options": [
+        { "text": "A. Refleks", "isCorrect": false },
+        { "text": "B. Volunter (sadar)", "isCorrect": true },
+        { "text": "C. Otonom", "isCorrect": false },
+        { "text": "D. Involunter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pusat pengendali gerakan otot rangka volunter berada di korteks?",
+      "explanation": "Korteks motorik primer di lobus frontal mengendalikan gerakan otot rangka secara volunter.",
+      "difficulty": "HARD",
+      "tag": "Koordinasi & Kontrol Motorik",
+      "options": [
+        { "text": "A. Korteks motorik (lobus frontal)", "isCorrect": true },
+        { "text": "B. Korteks visual (lobus oksipital)", "isCorrect": false },
+        { "text": "C. Korteks auditori (lobus temporal)", "isCorrect": false },
+        { "text": "D. Hipotalamus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Propriosepsi yang penting untuk koordinasi kerja adalah kemampuan tubuh untuk merasakan?",
+      "explanation": "Propriosepsi adalah kemampuan merasakan posisi dan gerakan bagian tubuh tanpa melihat, penting untuk koordinasi dan postur kerja.",
+      "difficulty": "HARD",
+      "tag": "Koordinasi & Kontrol Motorik",
+      "options": [
+        { "text": "A. Suhu lingkungan", "isCorrect": false },
+        { "text": "B. Posisi dan gerakan bagian tubuh", "isCorrect": true },
+        { "text": "C. Warna benda", "isCorrect": false },
+        { "text": "D. Rasa makanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keterampilan motorik halus yang membaik karena latihan berulang terjadi karena proses?",
+      "explanation": "Latihan berulang memperkuat jalur saraf (neuroplastisitas), sehingga gerakan menjadi lebih otomatis dan terampil.",
+      "difficulty": "HARD",
+      "tag": "Koordinasi & Kontrol Motorik",
+      "options": [
+        { "text": "A. Neuroplastisitas", "isCorrect": true },
+        { "text": "B. Hemolisis", "isCorrect": false },
+        { "text": "C. Osteoporosis", "isCorrect": false },
+        { "text": "D. Dehidrasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penurunan koordinasi motorik pada pekerja yang kelelahan dapat meningkatkan risiko?",
+      "explanation": "Koordinasi yang menurun akibat kelelahan meningkatkan risiko salah gerak dan kecelakaan kerja.",
+      "difficulty": "EASY",
+      "tag": "Koordinasi & Kontrol Motorik",
+      "options": [
+        { "text": "A. Penurunan suhu tubuh", "isCorrect": false },
+        { "text": "B. Kecelakaan kerja", "isCorrect": true },
+        { "text": "C. Peningkatan pendengaran", "isCorrect": false },
+        { "text": "D. Pencernaan lebih cepat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor berikut dapat mempengaruhi sistem saraf pekerja, KECUALI?",
+      "explanation": "Faktor yang mempengaruhi sistem saraf antara lain kegiatan fisik berat, paparan bahan kimia, kurang istirahat, dan stres; pencahayaan alami yang cukup justru menguntungkan.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Kegiatan fisik yang berat", "isCorrect": false },
+        { "text": "B. Paparan bahan kimia berbahaya", "isCorrect": false },
+        { "text": "C. Pencahayaan alami yang cukup", "isCorrect": true },
+        { "text": "D. Kurangnya istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan bahan kimia berbahaya pada pekerja dapat menyebabkan gangguan saraf yang disebut?",
+      "explanation": "Neurotoksisitas adalah kerusakan sistem saraf akibat paparan zat neurotoksik (misalnya pelarut organik atau logam berat).",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Neurotoksisitas", "isCorrect": true },
+        { "text": "B. Osteoporosis", "isCorrect": false },
+        { "text": "C. Anemia", "isCorrect": false },
+        { "text": "D. Hipertensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Logam berat berikut yang dikenal bersifat neurotoksik dan dapat merusak sistem saraf pekerja adalah?",
+      "explanation": "Timbal (Pb) dan merkuri adalah logam berat neurotoksik yang dapat merusak saraf pekerja yang terpapar.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Kalsium", "isCorrect": false },
+        { "text": "B. Timbal (Pb) dan merkuri", "isCorrect": true },
+        { "text": "C. Natrium", "isCorrect": false },
+        { "text": "D. Besi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kurangnya istirahat dan tidur pada pekerja dapat menyebabkan?",
+      "explanation": "Kurang istirahat menyebabkan kelelahan, gangguan tidur, dan penurunan konsentrasi yang berdampak pada sistem saraf.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Peningkatan konsentrasi", "isCorrect": false },
+        { "text": "B. Kelelahan dan penurunan konsentrasi", "isCorrect": true },
+        { "text": "C. Peningkatan refleks", "isCorrect": false },
+        { "text": "D. Perbaikan koordinasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja yang berkepanjangan dapat mempengaruhi sistem saraf dengan cara?",
+      "explanation": "Stres kerja kronis menyebabkan kelelahan, gangguan tidur, dan penurunan konsentrasi melalui aktivasi sistem saraf simpatis terus-menerus.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Menyebabkan kelelahan dan gangguan tidur", "isCorrect": true },
+        { "text": "B. Memperbaiki suasana hati", "isCorrect": false },
+        { "text": "C. Meningkatkan kualitas tidur", "isCorrect": false },
+        { "text": "D. Menurunkan tekanan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan getaran mekanis pada tangan dalam jangka panjang dapat menyebabkan gangguan saraf perifer berupa?",
+      "explanation": "Getaran tangan-lengan jangka panjang dapat menyebabkan gangguan saraf perifer seperti kesemutan dan mati rasa (hand-arm vibration syndrome).",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Peningkatan refleks tendon", "isCorrect": false },
+        { "text": "B. Kesemutan dan mati rasa pada tangan", "isCorrect": true },
+        { "text": "C. Peningkatan suhu tubuh", "isCorrect": false },
+        { "text": "D. Gangguan penglihatan warna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsumsi alkohol dan obat tertentu dapat mempengaruhi sistem saraf pekerja dengan?",
+      "explanation": "Alkohol dan obat penenang menekan sistem saraf pusat sehingga memperlambat waktu reaksi dan menurunkan kewaspadaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Mempercepat waktu reaksi", "isCorrect": false },
+        { "text": "B. Memperlambat waktu reaksi dan menurunkan kewaspadaan", "isCorrect": true },
+        { "text": "C. Meningkatkan koordinasi", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelarut organik (organic solvent) yang banyak dipakai industri dan dapat merusak sistem saraf disebut bersifat?",
+      "explanation": "Banyak pelarut organik bersifat neurotoksik dan dapat menyebabkan gangguan saraf bila terpapar dalam waktu lama.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Neurotoksik", "isCorrect": true },
+        { "text": "B. Karsinogenik tulang", "isCorrect": false },
+        { "text": "C. Pelumas saraf", "isCorrect": false },
+        { "text": "D. Penguat mielin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelelahan yang terutama disebabkan oleh aktivitas mental dan kerja saraf yang tinggi disebut kelelahan?",
+      "explanation": "Kelelahan saraf/mental terjadi akibat beban kerja mental tinggi, ditandai penurunan kewaspadaan dan konsentrasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Kelelahan otot saja", "isCorrect": false },
+        { "text": "B. Kelelahan saraf/mental", "isCorrect": true },
+        { "text": "C. Kelelahan tulang", "isCorrect": false },
+        { "text": "D. Kelelahan kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja mental (mental workload) mengacu pada?",
+      "explanation": "Beban kerja mental adalah tuntutan kognitif terhadap otak/saraf, seperti konsentrasi, pengambilan keputusan, dan pemrosesan informasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Berat beban fisik yang diangkat", "isCorrect": false },
+        { "text": "B. Tuntutan kognitif terhadap otak seperti konsentrasi dan pengambilan keputusan", "isCorrect": true },
+        { "text": "C. Jumlah kalori yang dibakar", "isCorrect": false },
+        { "text": "D. Suhu ruang kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu metode kuesioner subjektif yang sering digunakan untuk mengukur beban kerja mental adalah?",
+      "explanation": "NASA-TLX (Task Load Index) adalah kuesioner subjektif yang umum dipakai untuk mengukur beban kerja mental pekerja.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. NASA-TLX", "isCorrect": true },
+        { "text": "B. VO2max test", "isCorrect": false },
+        { "text": "C. Audiometri", "isCorrect": false },
+        { "text": "D. Spirometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja mental yang terlalu tinggi (overload) pada pekerja cenderung menyebabkan?",
+      "explanation": "Mental overload menyebabkan stres, penurunan konsentrasi, dan peningkatan kesalahan (human error).",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Peningkatan kesalahan dan stres", "isCorrect": true },
+        { "text": "B. Penurunan kesalahan kerja", "isCorrect": false },
+        { "text": "C. Peningkatan kebugaran fisik", "isCorrect": false },
+        { "text": "D. Tidak ada dampak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja mental yang terlalu rendah (underload), seperti pekerjaan monoton, dapat menyebabkan?",
+      "explanation": "Mental underload akibat tugas monoton menimbulkan kebosanan dan penurunan kewaspadaan yang juga berisiko terhadap kesalahan.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Peningkatan kewaspadaan terus-menerus", "isCorrect": false },
+        { "text": "B. Kebosanan dan penurunan kewaspadaan", "isCorrect": true },
+        { "text": "C. Penambahan massa otot", "isCorrect": false },
+        { "text": "D. Perbaikan refleks tendon", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penurunan kewaspadaan akibat tugas pemantauan yang lama dan monoton disebut penurunan?",
+      "explanation": "Vigilance decrement adalah penurunan kewaspadaan saat melakukan tugas pemantauan yang panjang dan monoton.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Vigilance (kewaspadaan)", "isCorrect": true },
+        { "text": "B. Tekanan darah", "isCorrect": false },
+        { "text": "C. Kapasitas paru", "isCorrect": false },
+        { "text": "D. Massa otot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan irama biologis 24 jam yang dipengaruhi kerja shift malam disebut gangguan?",
+      "explanation": "Kerja shift malam dapat mengganggu ritme sirkadian (irama biologis 24 jam) yang diatur sistem saraf, mengganggu tidur dan kewaspadaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Ritme sirkadian", "isCorrect": true },
+        { "text": "B. Ritme jantung", "isCorrect": false },
+        { "text": "C. Ritme pernapasan", "isCorrect": false },
+        { "text": "D. Ritme pencernaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hormon stres yang meningkat saat sistem saraf simpatis aktif karena beban kerja tinggi adalah?",
+      "explanation": "Kortisol dan adrenalin (epinefrin) meningkat saat respons stres yang diperantarai sistem saraf simpatis.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Insulin", "isCorrect": false },
+        { "text": "B. Kortisol dan adrenalin", "isCorrect": true },
+        { "text": "C. Melatonin", "isCorrect": false },
+        { "text": "D. Estrogen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelelahan saraf pada pekerja paling tepat dapat dikurangi dengan?",
+      "explanation": "Istirahat yang cukup dan tidur berkualitas membantu memulihkan sistem saraf dari kelelahan mental.",
+      "difficulty": "EASY",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Menambah jam lembur", "isCorrect": false },
+        { "text": "B. Istirahat cukup dan tidur berkualitas", "isCorrect": true },
+        { "text": "C. Mengabaikan rasa lelah", "isCorrect": false },
+        { "text": "D. Meningkatkan beban tugas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi kelelahan ekstrem yang ditandai kelelahan emosional dan menurunnya motivasi akibat stres kerja kronis disebut?",
+      "explanation": "Burnout adalah kelelahan kronis (fisik, emosional, mental) akibat stres kerja berkepanjangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Burnout", "isCorrect": true },
+        { "text": "B. Hipertensi", "isCorrect": false },
+        { "text": "C. Anemia", "isCorrect": false },
+        { "text": "D. Vertigo", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu dampak aktivitas kerja berat pada sistem saraf menurut materi adalah?",
+      "explanation": "Aktivitas kerja yang berat dapat menyebabkan kelelahan yang mempengaruhi sistem saraf.",
+      "difficulty": "EASY",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Kelelahan", "isCorrect": true },
+        { "text": "B. Peningkatan tinggi badan", "isCorrect": false },
+        { "text": "C. Penambahan massa tulang", "isCorrect": false },
+        { "text": "D. Peningkatan kapasitas paru permanen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan tidur yang timbul akibat aktivitas kerja berat dan stres dapat berdampak lanjut pada sistem saraf berupa?",
+      "explanation": "Gangguan tidur menurunkan pemulihan saraf sehingga menyebabkan penurunan konsentrasi dan kewaspadaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Penurunan konsentrasi", "isCorrect": true },
+        { "text": "B. Peningkatan refleks", "isCorrect": false },
+        { "text": "C. Penguatan otot", "isCorrect": false },
+        { "text": "D. Peningkatan koordinasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penurunan konsentrasi akibat beban kerja pada sistem saraf paling berisiko menimbulkan?",
+      "explanation": "Penurunan konsentrasi meningkatkan kesalahan dan risiko kecelakaan kerja.",
+      "difficulty": "EASY",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Penurunan risiko kecelakaan", "isCorrect": false },
+        { "text": "B. Peningkatan kesalahan dan kecelakaan kerja", "isCorrect": true },
+        { "text": "C. Perbaikan produktivitas", "isCorrect": false },
+        { "text": "D. Peningkatan daya ingat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kerusakan saraf (neuropati) pada pekerja terutama disebabkan oleh?",
+      "explanation": "Kerusakan saraf umumnya disebabkan paparan bahan kimia berbahaya/neurotoksik di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Paparan bahan kimia berbahaya (neurotoksik)", "isCorrect": true },
+        { "text": "B. Cukup minum air", "isCorrect": false },
+        { "text": "C. Istirahat berlebihan", "isCorrect": false },
+        { "text": "D. Pencahayaan terang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan saraf perifer yang menyebabkan rasa kebas, kesemutan, dan kelemahan pada tangan/kaki disebut?",
+      "explanation": "Neuropati perifer adalah kerusakan saraf tepi yang menimbulkan kebas, kesemutan, nyeri, atau kelemahan.",
+      "difficulty": "HARD",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Neuropati perifer", "isCorrect": true },
+        { "text": "B. Osteoartritis", "isCorrect": false },
+        { "text": "C. Bronkitis", "isCorrect": false },
+        { "text": "D. Dermatitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Carpal Tunnel Syndrome (CTS) akibat gerakan tangan berulang merupakan gangguan akibat penjepitan saraf?",
+      "explanation": "CTS terjadi karena penekanan/penjepitan saraf medianus di pergelangan tangan akibat gerakan berulang.",
+      "difficulty": "HARD",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Saraf medianus", "isCorrect": true },
+        { "text": "B. Saraf optik", "isCorrect": false },
+        { "text": "C. Saraf vagus", "isCorrect": false },
+        { "text": "D. Saraf olfaktorius", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja yang berlebihan pada sistem saraf dapat memicu gangguan psikis berupa?",
+      "explanation": "Stres kerja berlebih dapat memicu kecemasan, depresi, dan gangguan tidur sebagai dampak pada kesehatan mental.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Kecemasan dan depresi", "isCorrect": true },
+        { "text": "B. Peningkatan kebugaran", "isCorrect": false },
+        { "text": "C. Penguatan tulang", "isCorrect": false },
+        { "text": "D. Peningkatan suhu basal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala awal keracunan neurotoksik kronis pada pekerja antara lain?",
+      "explanation": "Gejala awal neurotoksisitas meliputi sakit kepala, mudah lelah, sulit konsentrasi, dan gangguan memori.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Sakit kepala, sulit konsentrasi, dan gangguan memori", "isCorrect": true },
+        { "text": "B. Peningkatan tinggi badan", "isCorrect": false },
+        { "text": "C. Kulit lebih cerah", "isCorrect": false },
+        { "text": "D. Penambahan massa otot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dampak aktivitas kerja yang berat pada sistem saraf bersifat?",
+      "explanation": "Dampak dapat bersifat sementara (kelelahan, penurunan konsentrasi yang pulih dengan istirahat) maupun menetap (kerusakan saraf akibat paparan kronis).",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Hanya bersifat permanen", "isCorrect": false },
+        { "text": "B. Bisa sementara maupun menetap tergantung penyebab", "isCorrect": true },
+        { "text": "C. Selalu tidak berbahaya", "isCorrect": false },
+        { "text": "D. Tidak dapat dicegah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara mengelola stres kerja untuk menjaga kesehatan sistem saraf adalah?",
+      "explanation": "Teknik relaksasi, meditasi, dan yoga, serta manajemen waktu, membantu mengelola stres kerja.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Menambah beban kerja", "isCorrect": false },
+        { "text": "B. Teknik relaksasi, meditasi, dan manajemen waktu", "isCorrect": true },
+        { "text": "C. Mengurangi waktu tidur", "isCorrect": false },
+        { "text": "D. Bekerja tanpa istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara mencegah paparan bahan kimia berbahaya terhadap sistem saraf pekerja adalah?",
+      "explanation": "Penggunaan APD dan monitoring lingkungan kerja secara rutin mencegah paparan bahan kimia neurotoksik.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Menggunakan APD dan monitoring lingkungan kerja rutin", "isCorrect": true },
+        { "text": "B. Meningkatkan durasi paparan", "isCorrect": false },
+        { "text": "C. Mengabaikan ventilasi", "isCorrect": false },
+        { "text": "D. Tidak memakai pelindung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APD yang tepat untuk mencegah paparan bahan kimia neurotoksik melalui kulit dan pernapasan antara lain?",
+      "explanation": "Sarung tangan dan masker/respirator melindungi pekerja dari kontak dan inhalasi bahan kimia berbahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Sepatu hak tinggi", "isCorrect": false },
+        { "text": "B. Sarung tangan dan masker/respirator", "isCorrect": true },
+        { "text": "C. Kacamata baca biasa", "isCorrect": false },
+        { "text": "D. Topi kain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan secara teratur pada pekerja bertujuan untuk?",
+      "explanation": "Pemeriksaan kesehatan berkala bertujuan mendeteksi dini gangguan saraf dan kesehatan lainnya agar dapat ditangani lebih awal.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Menambah beban kerja", "isCorrect": false },
+        { "text": "B. Mendeteksi dini gangguan saraf dan kesehatan", "isCorrect": true },
+        { "text": "C. Mengurangi produktivitas", "isCorrect": false },
+        { "text": "D. Mempercepat kelelahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istirahat yang cukup penting bagi sistem saraf karena?",
+      "explanation": "Istirahat dan tidur cukup memulihkan fungsi saraf, mencegah kelelahan dan gangguan tidur.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Memulihkan fungsi saraf dan mencegah kelelahan", "isCorrect": true },
+        { "text": "B. Meningkatkan paparan kimia", "isCorrect": false },
+        { "text": "C. Menambah stres", "isCorrect": false },
+        { "text": "D. Memperlambat pemulihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaturan jeda istirahat pendek di sela pekerjaan yang menuntut konsentrasi tinggi bertujuan untuk?",
+      "explanation": "Jeda istirahat (micro-break) membantu memulihkan kewaspadaan dan menurunkan kelelahan saraf serta kesalahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Memulihkan kewaspadaan dan menurunkan kelelahan saraf", "isCorrect": true },
+        { "text": "B. Meningkatkan beban kognitif", "isCorrect": false },
+        { "text": "C. Memperburuk konsentrasi", "isCorrect": false },
+        { "text": "D. Menambah risiko error", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengelolaan kerja shift untuk menjaga ritme sirkadian dan kesehatan saraf sebaiknya?",
+      "explanation": "Rotasi shift yang teratur (searah jarum jam) dan kesempatan tidur cukup membantu menjaga ritme sirkadian pekerja shift.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Mengabaikan jadwal tidur", "isCorrect": false },
+        { "text": "B. Menerapkan rotasi shift teratur dan tidur cukup", "isCorrect": true },
+        { "text": "C. Memperpanjang shift malam terus-menerus", "isCorrect": false },
+        { "text": "D. Menghapus waktu istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Desain pekerjaan yang ergonomis dan rancangan tugas yang sesuai bertujuan mengelola beban kerja mental agar?",
+      "explanation": "Desain kerja yang baik menjaga beban mental pada tingkat optimal (tidak overload maupun underload) sehingga menurunkan kelelahan saraf dan error.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Beban mental optimal, tidak overload maupun underload", "isCorrect": true },
+        { "text": "B. Beban mental setinggi mungkin", "isCorrect": false },
+        { "text": "C. Menghilangkan semua tugas berpikir", "isCorrect": false },
+        { "text": "D. Memaksimalkan kebosanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Program promosi kesehatan mental di tempat kerja bertujuan untuk?",
+      "explanation": "Program kesehatan mental membantu mencegah stres kerja, kecemasan, dan burnout, serta menjaga kesehatan sistem saraf.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Mencegah stres kerja dan menjaga kesehatan mental", "isCorrect": true },
+        { "text": "B. Meningkatkan paparan kimia", "isCorrect": false },
+        { "text": "C. Menambah jam lembur", "isCorrect": false },
+        { "text": "D. Mengurangi waktu istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nutrisi yang penting bagi pemeliharaan fungsi saraf, antara lain vitamin?",
+      "explanation": "Vitamin B kompleks (B1, B6, B12) penting untuk fungsi dan pemeliharaan saraf.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Vitamin B kompleks (B1, B6, B12)", "isCorrect": true },
+        { "text": "B. Vitamin D saja", "isCorrect": false },
+        { "text": "C. Vitamin K saja", "isCorrect": false },
+        { "text": "D. Tidak ada hubungan vitamin dengan saraf", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Simpulan utama mengenai hubungan sistem saraf dan aktivitas kerja adalah?",
+      "explanation": "Sistem saraf berperan penting dalam aktivitas kerja, dapat dipengaruhi aktivitas kerja, dan dampaknya dapat dicegah/dikelola dengan langkah yang tepat.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Sistem Saraf",
+      "options": [
+        { "text": "A. Sistem saraf tidak berhubungan dengan kerja", "isCorrect": false },
+        { "text": "B. Sistem saraf penting dan dampak kerja dapat dicegah/dikelola", "isCorrect": true },
+        { "text": "C. Sistem saraf hanya mengatur pencernaan", "isCorrect": false },
+        { "text": "D. Aktivitas kerja tidak mempengaruhi saraf", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otak menerima rata-rata aliran darah yang besar karena?",
+      "explanation": "Otak membutuhkan suplai oksigen dan glukosa tinggi secara konstan karena aktivitas metaboliknya besar, sehingga sensitif terhadap kekurangan oksigen.",
+      "difficulty": "HARD",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Kebutuhan oksigen dan glukosa yang tinggi", "isCorrect": true },
+        { "text": "B. Tidak memerlukan energi", "isCorrect": false },
+        { "text": "C. Hanya aktif saat tidur", "isCorrect": false },
+        { "text": "D. Menyimpan banyak lemak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kekurangan oksigen ke otak (hipoksia) saat bekerja di ruang tertutup dapat menyebabkan?",
+      "explanation": "Hipoksia otak menyebabkan pusing, penurunan kesadaran, dan gangguan fungsi saraf karena otak sangat sensitif terhadap kekurangan oksigen.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Peningkatan koordinasi", "isCorrect": false },
+        { "text": "B. Pusing dan penurunan kesadaran", "isCorrect": true },
+        { "text": "C. Peningkatan refleks", "isCorrect": false },
+        { "text": "D. Penguatan otot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jumlah pasang saraf kranial yang keluar dari otak adalah?",
+      "explanation": "Terdapat 12 pasang saraf kranial yang keluar langsung dari otak/batang otak.",
+      "difficulty": "HARD",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. 10 pasang", "isCorrect": false },
+        { "text": "B. 12 pasang", "isCorrect": true },
+        { "text": "C. 31 pasang", "isCorrect": false },
+        { "text": "D. 8 pasang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jumlah pasang saraf spinal yang keluar dari sumsum tulang belakang adalah?",
+      "explanation": "Terdapat 31 pasang saraf spinal yang keluar dari medula spinalis melalui ruas tulang belakang.",
+      "difficulty": "HARD",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. 12 pasang", "isCorrect": false },
+        { "text": "B. 24 pasang", "isCorrect": false },
+        { "text": "C. 31 pasang", "isCorrect": true },
+        { "text": "D. 8 pasang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian sistem saraf yang melindungi otak secara fisik adalah?",
+      "explanation": "Tengkorak (kranium) dan selaput meninges melindungi otak secara fisik dari benturan.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Tengkorak dan selaput meninges", "isCorrect": true },
+        { "text": "B. Tulang rusuk", "isCorrect": false },
+        { "text": "C. Diafragma", "isCorrect": false },
+        { "text": "D. Otot perut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cairan yang membantu melindungi dan memberi nutrisi pada otak serta sumsum tulang belakang adalah?",
+      "explanation": "Cairan serebrospinal (CSF) melindungi (bantalan), memberi nutrisi, dan membuang sisa metabolik dari SSP.",
+      "difficulty": "HARD",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Cairan serebrospinal", "isCorrect": true },
+        { "text": "B. Plasma darah saja", "isCorrect": false },
+        { "text": "C. Cairan limfe", "isCorrect": false },
+        { "text": "D. Cairan empedu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sel pendukung pada jaringan saraf yang memberi nutrisi dan melindungi neuron disebut?",
+      "explanation": "Sel glia (neuroglia) adalah sel pendukung yang memberi nutrisi, isolasi, dan perlindungan bagi neuron.",
+      "difficulty": "HARD",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Sel glia (neuroglia)", "isCorrect": true },
+        { "text": "B. Sel darah merah", "isCorrect": false },
+        { "text": "C. Osteosit", "isCorrect": false },
+        { "text": "D. Adiposit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada keadaan istirahat, bagian dalam membran neuron bermuatan?",
+      "explanation": "Pada potensial istirahat, bagian dalam membran neuron bermuatan negatif relatif terhadap luar (sekitar -70 mV).",
+      "difficulty": "HARD",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Positif", "isCorrect": false },
+        { "text": "B. Negatif", "isCorrect": true },
+        { "text": "C. Netral nol", "isCorrect": false },
+        { "text": "D. Berubah-ubah acak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah potensial aksi, membran kembali ke keadaan istirahat melalui proses?",
+      "explanation": "Repolarisasi mengembalikan membran ke potensial istirahat, terutama melalui keluarnya ion kalium (K+).",
+      "difficulty": "HARD",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Depolarisasi", "isCorrect": false },
+        { "text": "B. Repolarisasi", "isCorrect": true },
+        { "text": "C. Hipertrofi", "isCorrect": false },
+        { "text": "D. Hemolisis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan yang menuntut pengambilan keputusan cepat dan kompleks paling membebani?",
+      "explanation": "Pekerjaan dengan keputusan cepat dan kompleks meningkatkan beban kerja mental (kognitif) pada sistem saraf pusat.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Beban kerja mental/kognitif", "isCorrect": true },
+        { "text": "B. Sistem pencernaan", "isCorrect": false },
+        { "text": "C. Sistem rangka", "isCorrect": false },
+        { "text": "D. Kelenjar keringat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator fisiologis yang dapat digunakan untuk menilai beban kerja mental antara lain?",
+      "explanation": "Variabilitas denyut jantung (HRV), aktivitas otak (EEG), dan diameter pupil dapat menjadi indikator fisiologis beban kerja mental.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Variabilitas denyut jantung dan aktivitas otak (EEG)", "isCorrect": true },
+        { "text": "B. Kadar gula urin", "isCorrect": false },
+        { "text": "C. Tinggi badan", "isCorrect": false },
+        { "text": "D. Warna kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan yang monoton dan berulang dapat menyebabkan kelelahan saraf jenis?",
+      "explanation": "Pekerjaan monoton menimbulkan kelelahan mental/psikis akibat kebosanan dan penurunan kewaspadaan, bukan hanya kelelahan otot.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Kelelahan mental/psikis", "isCorrect": true },
+        { "text": "B. Kelelahan tulang", "isCorrect": false },
+        { "text": "C. Kelelahan ginjal", "isCorrect": false },
+        { "text": "D. Kelelahan kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat sistem saraf simpatis aktif (respons stres), perubahan fisiologis yang terjadi adalah?",
+      "explanation": "Aktivasi simpatis meningkatkan denyut jantung, tekanan darah, dan pelebaran pupil untuk menyiapkan tubuh menghadapi situasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Denyut jantung dan tekanan darah meningkat", "isCorrect": true },
+        { "text": "B. Denyut jantung menurun drastis", "isCorrect": false },
+        { "text": "C. Pencernaan meningkat", "isCorrect": false },
+        { "text": "D. Pupil mengecil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelatihan dan pembiasaan kerja membuat waktu reaksi pekerja terhadap tugas tertentu menjadi?",
+      "explanation": "Pelatihan dan pengalaman memperpendek (mempercepat) waktu reaksi karena jalur saraf menjadi lebih efisien.",
+      "difficulty": "MEDIUM",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Lebih lambat", "isCorrect": false },
+        { "text": "B. Lebih cepat", "isCorrect": true },
+        { "text": "C. Tidak berubah sama sekali", "isCorrect": false },
+        { "text": "D. Hilang sepenuhnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Refleks menarik tangan secara cepat saat menyentuh benda panas merupakan contoh refleks?",
+      "explanation": "Refleks menarik (withdrawal reflex) adalah refleks protektif yang menjauhkan tubuh dari rangsang berbahaya seperti panas.",
+      "difficulty": "EASY",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Refleks menarik (withdrawal/protektif)", "isCorrect": true },
+        { "text": "B. Refleks pencernaan", "isCorrect": false },
+        { "text": "C. Gerak volunter", "isCorrect": false },
+        { "text": "D. Refleks pupil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem saraf yang bekerja di luar kesadaran untuk mengatur organ dalam (jantung, pencernaan) disebut?",
+      "explanation": "Sistem saraf otonom bekerja secara involunter mengatur organ dalam seperti jantung, paru, dan pencernaan.",
+      "difficulty": "EASY",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Sistem saraf otonom", "isCorrect": true },
+        { "text": "B. Sistem saraf somatik", "isCorrect": false },
+        { "text": "C. Sistem saraf sadar", "isCorrect": false },
+        { "text": "D. Korteks motorik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang sering lembur berkepanjangan paling berisiko mengalami gangguan saraf berupa?",
+      "explanation": "Lembur berkepanjangan menyebabkan kurang tidur dan kelelahan saraf yang menurunkan konsentrasi serta meningkatkan stres.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Kelelahan saraf dan gangguan tidur", "isCorrect": true },
+        { "text": "B. Peningkatan kewaspadaan permanen", "isCorrect": false },
+        { "text": "C. Penguatan refleks", "isCorrect": false },
+        { "text": "D. Peningkatan massa otot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebisingan tinggi di tempat kerja, selain mengganggu pendengaran, dapat mempengaruhi sistem saraf berupa?",
+      "explanation": "Kebisingan tinggi menjadi stresor yang dapat meningkatkan stres, mengganggu konsentrasi, dan memicu kelelahan saraf.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Stres dan gangguan konsentrasi", "isCorrect": true },
+        { "text": "B. Peningkatan koordinasi", "isCorrect": false },
+        { "text": "C. Perbaikan tidur", "isCorrect": false },
+        { "text": "D. Penurunan tekanan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu pendekatan ergonomi untuk mengurangi beban saraf akibat gerakan berulang adalah?",
+      "explanation": "Rotasi pekerjaan dan variasi tugas mengurangi gerakan berulang sehingga menurunkan risiko gangguan saraf seperti CTS.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Rotasi pekerjaan dan variasi tugas", "isCorrect": true },
+        { "text": "B. Memperpanjang gerakan berulang", "isCorrect": false },
+        { "text": "C. Menghapus istirahat", "isCorrect": false },
+        { "text": "D. Menambah beban angkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelatihan keselamatan kerja membantu sistem saraf pekerja dalam hal?",
+      "explanation": "Pelatihan membentuk respons yang tepat dan cepat (waktu reaksi) terhadap bahaya, sehingga meningkatkan keselamatan.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Membentuk respons cepat dan tepat terhadap bahaya", "isCorrect": true },
+        { "text": "B. Memperlambat refleks", "isCorrect": false },
+        { "text": "C. Menambah stres", "isCorrect": false },
+        { "text": "D. Mengurangi kewaspadaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan saraf pada pekerja yang terpapar neurotoksik dapat berupa?",
+      "explanation": "Pemeriksaan dapat berupa tes fungsi saraf, kuesioner gejala neurologis, dan pemantauan biologis (biomarker) kadar zat toksik.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Tes fungsi saraf dan pemantauan biologis kadar zat toksik", "isCorrect": true },
+        { "text": "B. Pengukuran tinggi badan saja", "isCorrect": false },
+        { "text": "C. Tes warna rambut", "isCorrect": false },
+        { "text": "D. Pengukuran panjang kuku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian otak yang mengatur emosi, motivasi, dan respons stres (bersama hipotalamus) adalah?",
+      "explanation": "Sistem limbik (termasuk amigdala dan hipokampus) berperan mengatur emosi, motivasi, dan respons stres.",
+      "difficulty": "HARD",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Sistem limbik", "isCorrect": true },
+        { "text": "B. Korteks visual", "isCorrect": false },
+        { "text": "C. Serebelum", "isCorrect": false },
+        { "text": "D. Medula spinalis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hipotalamus berperan penting dalam mengatur respons tubuh terhadap stres melalui pengendalian?",
+      "explanation": "Hipotalamus mengatur sistem saraf otonom dan kelenjar endokrin (melalui hipofisis), termasuk respons hormon stres.",
+      "difficulty": "HARD",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Sistem saraf otonom dan hormon (endokrin)", "isCorrect": true },
+        { "text": "B. Gerakan refleks tendon saja", "isCorrect": false },
+        { "text": "C. Penglihatan warna", "isCorrect": false },
+        { "text": "D. Pendengaran nada", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala kelelahan saraf yang sering dilaporkan pekerja di akhir shift panjang adalah?",
+      "explanation": "Kelelahan saraf di akhir shift ditandai sulit konsentrasi, reaksi melambat, mengantuk, dan mudah membuat kesalahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Sulit konsentrasi, reaksi melambat, dan mengantuk", "isCorrect": true },
+        { "text": "B. Penglihatan warna meningkat", "isCorrect": false },
+        { "text": "C. Refleks bertambah cepat", "isCorrect": false },
+        { "text": "D. Pendengaran menajam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas fisik teratur (olahraga) bermanfaat bagi sistem saraf pekerja karena?",
+      "explanation": "Olahraga teratur menurunkan stres, memperbaiki kualitas tidur, dan meningkatkan fungsi kognitif sistem saraf.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Menurunkan stres dan memperbaiki kualitas tidur", "isCorrect": true },
+        { "text": "B. Meningkatkan paparan kimia", "isCorrect": false },
+        { "text": "C. Merusak neuron", "isCorrect": false },
+        { "text": "D. Mengurangi oksigen otak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dehidrasi pada pekerja di lingkungan panas dapat mempengaruhi sistem saraf berupa?",
+      "explanation": "Dehidrasi dapat menyebabkan pusing, penurunan konsentrasi, dan gangguan fungsi kognitif yang mempengaruhi kinerja saraf.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Pusing dan penurunan konsentrasi", "isCorrect": true },
+        { "text": "B. Peningkatan kewaspadaan", "isCorrect": false },
+        { "text": "C. Refleks lebih cepat", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian sumsum tulang belakang berfungsi sebagai?",
+      "explanation": "Sumsum tulang belakang menghantarkan impuls antara otak dan tubuh serta menjadi pusat gerak refleks.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Penghantar impuls otak-tubuh dan pusat refleks", "isCorrect": true },
+        { "text": "B. Pemompa darah", "isCorrect": false },
+        { "text": "C. Penyaring udara", "isCorrect": false },
+        { "text": "D. Pencerna makanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyebab utama menurunnya kewaspadaan pekerja pada dini hari (pukul 02.00-06.00) terkait?",
+      "explanation": "Pada dini hari, titik terendah ritme sirkadian menurunkan kewaspadaan, sehingga risiko kesalahan dan kecelakaan meningkat.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Titik terendah ritme sirkadian", "isCorrect": true },
+        { "text": "B. Peningkatan kadar oksigen", "isCorrect": false },
+        { "text": "C. Penurunan suhu ruangan saja", "isCorrect": false },
+        { "text": "D. Kelebihan cahaya matahari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian pencahayaan yang cukup di tempat kerja membantu sistem saraf dengan?",
+      "explanation": "Pencahayaan yang cukup menjaga kewaspadaan dan menurunkan kelelahan mata serta saraf saat bekerja.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Menjaga kewaspadaan dan menurunkan kelelahan", "isCorrect": true },
+        { "text": "B. Meningkatkan kebisingan", "isCorrect": false },
+        { "text": "C. Memicu dehidrasi", "isCorrect": false },
+        { "text": "D. Merusak neuron", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Human error yang berkaitan dengan sistem saraf umumnya meningkat ketika pekerja mengalami?",
+      "explanation": "Human error meningkat saat pekerja lelah, mengantuk, stres, atau beban mentalnya berlebih karena fungsi saraf menurun.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Kelelahan, kantuk, dan stres tinggi", "isCorrect": true },
+        { "text": "B. Istirahat yang cukup", "isCorrect": false },
+        { "text": "C. Konsentrasi optimal", "isCorrect": false },
+        { "text": "D. Beban mental optimal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama mempelajari hubungan sistem saraf dan aktivitas kerja adalah untuk?",
+      "explanation": "Memahami hubungan ini bertujuan mencegah gangguan saraf akibat kerja dan meningkatkan kesehatan, keselamatan, serta produktivitas.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Sistem Saraf",
+      "options": [
+        { "text": "A. Mencegah gangguan saraf dan meningkatkan K3", "isCorrect": true },
+        { "text": "B. Menambah jam kerja", "isCorrect": false },
+        { "text": "C. Mengabaikan kesehatan pekerja", "isCorrect": false },
+        { "text": "D. Memperbanyak paparan kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penghantaran impuls pada neuron bersifat satu arah karena?",
+      "explanation": "Sinapsis hanya melepaskan neurotransmiter dari satu sisi (presinaptik) ke sisi lain (postsinaptik), sehingga impuls berjalan satu arah.",
+      "difficulty": "HARD",
+      "tag": "Neuron & Impuls Saraf",
+      "options": [
+        { "text": "A. Sifat sinapsis yang melepas neurotransmiter searah", "isCorrect": true },
+        { "text": "B. Akson bercabang dua", "isCorrect": false },
+        { "text": "C. Tidak ada neurotransmiter", "isCorrect": false },
+        { "text": "D. Mielin menghalangi total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan presisi tinggi seperti perakitan komponen kecil sangat bergantung pada?",
+      "explanation": "Pekerjaan presisi membutuhkan koordinasi motorik halus dan koordinasi mata-tangan yang baik dari sistem saraf.",
+      "difficulty": "MEDIUM",
+      "tag": "Koordinasi & Kontrol Motorik",
+      "options": [
+        { "text": "A. Koordinasi motorik halus dan mata-tangan", "isCorrect": true },
+        { "text": "B. Kekuatan otot maksimal saja", "isCorrect": false },
+        { "text": "C. Kapasitas paru besar", "isCorrect": false },
+        { "text": "D. Massa tulang tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Refleks pupil yang mengecil saat terkena cahaya terang merupakan contoh refleks yang melibatkan saraf?",
+      "explanation": "Refleks pupil melibatkan saraf optik (aferen) dan saraf okulomotor (eferen) yang dikoordinasi batang otak.",
+      "difficulty": "HARD",
+      "tag": "Refleks & Waktu Reaksi",
+      "options": [
+        { "text": "A. Saraf optik dan okulomotor", "isCorrect": true },
+        { "text": "B. Saraf medianus", "isCorrect": false },
+        { "text": "C. Saraf vagus saja", "isCorrect": false },
+        { "text": "D. Saraf spinal lumbal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi 'mengantuk berat' (microsleep) pada pekerja shift sangat berbahaya karena?",
+      "explanation": "Microsleep adalah tertidur sangat singkat tanpa disadari yang menyebabkan hilangnya kontrol dan respons, berisiko tinggi kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Saraf & Beban Mental",
+      "options": [
+        { "text": "A. Hilangnya kontrol/respons sesaat dan risiko kecelakaan", "isCorrect": true },
+        { "text": "B. Meningkatkan produktivitas", "isCorrect": false },
+        { "text": "C. Memperbaiki konsentrasi", "isCorrect": false },
+        { "text": "D. Tidak berdampak apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk mempertahankan koordinasi dan waktu reaksi yang baik, pekerja sebaiknya menghindari?",
+      "explanation": "Menghindari kurang tidur, alkohol, dan kelelahan berlebih menjaga koordinasi dan waktu reaksi tetap optimal.",
+      "difficulty": "EASY",
+      "tag": "Koordinasi & Kontrol Motorik",
+      "options": [
+        { "text": "A. Kurang tidur, alkohol, dan kelelahan berlebih", "isCorrect": true },
+        { "text": "B. Tidur cukup", "isCorrect": false },
+        { "text": "C. Pemanasan ringan", "isCorrect": false },
+        { "text": "D. Hidrasi yang baik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan paling efektif dalam mencegah gangguan saraf akibat bahan kimia adalah dengan hierarki pengendalian yang mengutamakan?",
+      "explanation": "Hierarki pengendalian mengutamakan eliminasi/substitusi sumber bahaya kimia sebelum mengandalkan APD sebagai upaya terakhir.",
+      "difficulty": "HARD",
+      "tag": "Pencegahan & Pengelolaan",
+      "options": [
+        { "text": "A. Eliminasi/substitusi sumber bahaya sebelum APD", "isCorrect": true },
+        { "text": "B. Hanya mengandalkan APD", "isCorrect": false },
+        { "text": "C. Mengabaikan ventilasi", "isCorrect": false },
+        { "text": "D. Menambah durasi paparan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otak dan sumsum tulang belakang termasuk dalam kelompok?",
+      "explanation": "Otak dan sumsum tulang belakang adalah komponen sistem saraf pusat (SSP).",
+      "difficulty": "EASY",
+      "tag": "Struktur SSP & SST",
+      "options": [
+        { "text": "A. Sistem saraf tepi", "isCorrect": false },
+        { "text": "B. Sistem saraf pusat", "isCorrect": true },
+        { "text": "C. Sistem otot", "isCorrect": false },
+        { "text": "D. Sistem rangka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu komponen sistem saraf yang menghubungkan SSP dengan otot dan kelenjar adalah?",
+      "explanation": "Saraf tepi (saraf motorik dan sensorik) menghubungkan SSP dengan otot, kelenjar, dan reseptor di tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Sistem Saraf",
+      "options": [
+        { "text": "A. Saraf tepi", "isCorrect": true },
+        { "text": "B. Tulang rusuk", "isCorrect": false },
+        { "text": "C. Pembuluh limfe", "isCorrect": false },
+        { "text": "D. Tendon", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban mental yang berlebih dan terus-menerus tanpa pemulihan dapat berkembang menjadi gangguan?",
+      "explanation": "Beban mental berlebih kronis dapat berkembang menjadi stres kronis, kecemasan, depresi, dan burnout.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kerja pada Saraf",
+      "options": [
+        { "text": "A. Stres kronis, kecemasan, dan burnout", "isCorrect": true },
+        { "text": "B. Peningkatan kebugaran", "isCorrect": false },
+        { "text": "C. Penguatan tulang", "isCorrect": false },
+        { "text": "D. Perbaikan tidur otomatis", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa itu sistem saraf?", "back": "Sistem yang terdiri dari otak, sumsum tulang belakang, dan saraf yang mengatur serta mengkoordinasikan fungsi tubuh.", "tag": "Definisi & Fungsi Sistem Saraf" },
+    { "front": "Sebutkan 3 fungsi sistem saraf.", "back": "Mengatur dan mengkoordinasikan fungsi tubuh, mengirim/menerima sinyal, serta mengatur emosi dan perilaku.", "tag": "Definisi & Fungsi Sistem Saraf" },
+    { "front": "Sistem saraf pusat (SSP) terdiri dari apa?", "back": "Otak dan sumsum tulang belakang (medula spinalis).", "tag": "Struktur SSP & SST" },
+    { "front": "Apa itu sistem saraf tepi (SST)?", "back": "Saraf-saraf di luar SSP (saraf kranial dan spinal) yang menghubungkan SSP dengan organ tubuh.", "tag": "Struktur SSP & SST" },
+    { "front": "Fungsi serebelum (otak kecil)?", "back": "Mengatur koordinasi gerakan, keseimbangan, dan kehalusan gerak motorik.", "tag": "Struktur SSP & SST" },
+    { "front": "Beda saraf simpatis dan parasimpatis?", "back": "Simpatis memicu 'fight or flight' (waspada), parasimpatis memicu 'rest and digest' (menenangkan).", "tag": "Struktur SSP & SST" },
+    { "front": "Apa unit dasar sistem saraf?", "back": "Neuron (sel saraf) yang menghantarkan impuls listrik.", "tag": "Neuron & Impuls Saraf" },
+    { "front": "Fungsi dendrit dan akson?", "back": "Dendrit menerima rangsangan; akson menghantarkan impuls keluar menuju neuron/efektor lain.", "tag": "Neuron & Impuls Saraf" },
+    { "front": "Apa fungsi selubung mielin?", "back": "Membungkus akson dan mempercepat penghantaran impuls (konduksi saltatori antar nodus Ranvier).", "tag": "Neuron & Impuls Saraf" },
+    { "front": "Apa itu neurotransmiter?", "back": "Zat kimia (mis. asetilkolin) yang menghantarkan sinyal antar neuron melintasi sinapsis.", "tag": "Neuron & Impuls Saraf" },
+    { "front": "Apa itu gerak refleks?", "back": "Respons cepat dan otomatis terhadap rangsangan tanpa diproses kesadaran (otak), pusatnya di sumsum tulang belakang.", "tag": "Refleks & Waktu Reaksi" },
+    { "front": "Urutan lengkung refleks?", "back": "Reseptor - saraf sensorik - pusat (sumsum tulang belakang) - saraf motorik - efektor.", "tag": "Refleks & Waktu Reaksi" },
+    { "front": "Apa itu waktu reaksi (reaction time)?", "back": "Selang waktu antara munculnya rangsangan dan dimulainya respons; penting untuk keselamatan kerja.", "tag": "Refleks & Waktu Reaksi" },
+    { "front": "Apa yang memperlambat waktu reaksi pekerja?", "back": "Kelelahan, kurang tidur, alkohol/obat penenang, dan usia lanjut.", "tag": "Refleks & Waktu Reaksi" },
+    { "front": "Apa itu koordinasi mata-tangan?", "back": "Kemampuan menyelaraskan gerakan tangan dengan informasi visual, penting untuk kerja presisi.", "tag": "Koordinasi & Kontrol Motorik" },
+    { "front": "Faktor yang mempengaruhi sistem saraf pekerja?", "back": "Kegiatan fisik berat, paparan bahan kimia neurotoksik, kurang istirahat, dan stres kerja.", "tag": "Faktor yang Mempengaruhi" },
+    { "front": "Apa itu neurotoksisitas?", "back": "Kerusakan sistem saraf akibat paparan zat neurotoksik seperti timbal, merkuri, atau pelarut organik.", "tag": "Faktor yang Mempengaruhi" },
+    { "front": "Apa itu beban kerja mental (mental workload)?", "back": "Tuntutan kognitif terhadap otak seperti konsentrasi, pengambilan keputusan, dan pemrosesan informasi.", "tag": "Kelelahan Saraf & Beban Mental" },
+    { "front": "Apa dampak kerja shift malam pada saraf?", "back": "Mengganggu ritme sirkadian sehingga menurunkan kewaspadaan, mengganggu tidur, dan meningkatkan risiko error.", "tag": "Kelelahan Saraf & Beban Mental" },
+    { "front": "Dampak aktivitas kerja berat pada sistem saraf?", "back": "Kelelahan, gangguan tidur, penurunan konsentrasi, dan (akibat kimia) kerusakan saraf.", "tag": "Dampak Kerja pada Saraf" },
+    { "front": "Apa itu Carpal Tunnel Syndrome (CTS)?", "back": "Penjepitan saraf medianus di pergelangan tangan akibat gerakan berulang; menimbulkan kebas dan kesemutan.", "tag": "Dampak Kerja pada Saraf" },
+    { "front": "Cara mencegah gangguan sistem saraf akibat kerja?", "back": "Manajemen stres, gunakan APD, istirahat cukup, rotasi tugas, dan pemeriksaan kesehatan teratur.", "tag": "Pencegahan & Pengelolaan" }
+  ],
+  "mindmap": [
+    { "id": "sistem-saraf", "label": "Sistem Saraf & Aktivitas Kerja", "color": "#6366f1", "parent": null, "content": "Sistem pengendali dan koordinasi tubuh yang berperan penting dalam aktivitas kerja, mencakup struktur, fungsi, dampak kerja, dan pencegahannya." },
+
+    { "id": "definisi-fungsi", "label": "Definisi & Fungsi", "color": "#8b5cf6", "parent": "sistem-saraf", "content": "Sistem saraf terdiri dari otak, sumsum tulang belakang, dan saraf yang mengatur serta mengkoordinasikan fungsi tubuh." },
+    { "id": "fungsi-koordinasi", "label": "Mengkoordinasikan tubuh", "color": "#8b5cf6", "parent": "definisi-fungsi", "content": "Mengatur dan mengkoordinasikan fungsi tubuh agar bekerja selaras." },
+    { "id": "fungsi-sinyal", "label": "Mengirim & menerima sinyal", "color": "#8b5cf6", "parent": "definisi-fungsi", "content": "Menghantarkan impuls antara reseptor, pusat, dan efektor." },
+    { "id": "fungsi-emosi", "label": "Mengatur emosi & perilaku", "color": "#8b5cf6", "parent": "definisi-fungsi", "content": "Mengatur emosi, motivasi, dan perilaku melalui sistem limbik." },
+
+    { "id": "struktur", "label": "Struktur SSP & SST", "color": "#0ea5e9", "parent": "sistem-saraf", "content": "Sistem saraf dibagi menjadi sistem saraf pusat (SSP) dan sistem saraf tepi (SST)." },
+    { "id": "ssp", "label": "Sistem Saraf Pusat", "color": "#0ea5e9", "parent": "struktur", "content": "Terdiri dari otak dan sumsum tulang belakang sebagai pusat pengolahan." },
+    { "id": "otak", "label": "Otak", "color": "#0ea5e9", "parent": "ssp", "content": "Pusat berpikir, koordinasi, dan kontrol; mencakup serebrum, serebelum, dan batang otak." },
+    { "id": "sumsum-tulang", "label": "Sumsum tulang belakang", "color": "#0ea5e9", "parent": "ssp", "content": "Menghantarkan impuls otak-tubuh dan menjadi pusat gerak refleks." },
+    { "id": "sst", "label": "Sistem Saraf Tepi", "color": "#0ea5e9", "parent": "struktur", "content": "Saraf di luar SSP: 12 pasang saraf kranial dan 31 pasang saraf spinal." },
+    { "id": "saraf-somatik", "label": "Saraf somatik", "color": "#0ea5e9", "parent": "sst", "content": "Mengendalikan gerakan otot rangka secara sadar (volunter)." },
+    { "id": "saraf-otonom", "label": "Saraf otonom", "color": "#0ea5e9", "parent": "sst", "content": "Mengatur organ dalam secara tak sadar; terdiri dari simpatis dan parasimpatis." },
+
+    { "id": "neuron", "label": "Neuron & Impuls", "color": "#10b981", "parent": "sistem-saraf", "content": "Neuron adalah unit dasar sistem saraf yang menghantarkan impuls listrik." },
+    { "id": "dendrit", "label": "Dendrit", "color": "#10b981", "parent": "neuron", "content": "Cabang neuron yang menerima rangsangan dari neuron lain." },
+    { "id": "akson", "label": "Akson", "color": "#10b981", "parent": "neuron", "content": "Serabut yang menghantarkan impuls menjauhi badan sel." },
+    { "id": "mielin", "label": "Selubung mielin", "color": "#10b981", "parent": "neuron", "content": "Lapisan lemak yang mempercepat hantaran impuls (konduksi saltatori)." },
+    { "id": "sinapsis", "label": "Sinapsis & neurotransmiter", "color": "#10b981", "parent": "neuron", "content": "Celah antar neuron tempat sinyal diteruskan melalui neurotransmiter seperti asetilkolin." },
+    { "id": "potensial-aksi", "label": "Potensial aksi", "color": "#10b981", "parent": "neuron", "content": "Sinyal listrik yang merambat di akson melalui depolarisasi (Na+ masuk) dan repolarisasi." },
+
+    { "id": "refleks", "label": "Refleks & Waktu Reaksi", "color": "#f59e0b", "parent": "sistem-saraf", "content": "Refleks adalah respons cepat otomatis; waktu reaksi penting untuk keselamatan kerja." },
+    { "id": "lengkung-refleks", "label": "Lengkung refleks", "color": "#f59e0b", "parent": "refleks", "content": "Jalur: reseptor - sensorik - pusat - motorik - efektor, pusatnya di sumsum tulang belakang." },
+    { "id": "waktu-reaksi", "label": "Waktu reaksi", "color": "#f59e0b", "parent": "refleks", "content": "Selang antara rangsangan dan respons; cepat berarti lebih aman dari bahaya." },
+    { "id": "faktor-reaksi", "label": "Pengaruh waktu reaksi", "color": "#f59e0b", "parent": "refleks", "content": "Diperlambat oleh kelelahan, kurang tidur, alkohol; dipercepat oleh latihan." },
+
+    { "id": "koordinasi", "label": "Koordinasi & Motorik", "color": "#ef4444", "parent": "sistem-saraf", "content": "Sistem saraf mengendalikan gerakan dan koordinasi yang penting untuk kerja presisi." },
+    { "id": "kontrol-motorik", "label": "Kontrol motorik volunter", "color": "#ef4444", "parent": "koordinasi", "content": "Gerakan sadar dikendalikan korteks motorik di lobus frontal." },
+    { "id": "mata-tangan", "label": "Koordinasi mata-tangan", "color": "#ef4444", "parent": "koordinasi", "content": "Menyelaraskan gerakan tangan dengan informasi visual untuk kerja teliti." },
+    { "id": "propriosepsi", "label": "Propriosepsi", "color": "#ef4444", "parent": "koordinasi", "content": "Kemampuan merasakan posisi dan gerakan tubuh, penting untuk postur kerja." },
+
+    { "id": "faktor", "label": "Faktor yang Mempengaruhi", "color": "#ec4899", "parent": "sistem-saraf", "content": "Berbagai faktor kerja dapat mempengaruhi kesehatan sistem saraf pekerja." },
+    { "id": "fisik-berat", "label": "Kegiatan fisik berat", "color": "#ec4899", "parent": "faktor", "content": "Aktivitas berat dapat menyebabkan cedera saraf dan kelelahan." },
+    { "id": "kimia-neurotoksik", "label": "Bahan kimia neurotoksik", "color": "#ec4899", "parent": "faktor", "content": "Timbal, merkuri, dan pelarut organik dapat merusak saraf (neurotoksisitas)." },
+    { "id": "kurang-istirahat", "label": "Kurang istirahat", "color": "#ec4899", "parent": "faktor", "content": "Menyebabkan kelelahan, gangguan tidur, dan penurunan konsentrasi." },
+    { "id": "stres-kerja", "label": "Stres kerja", "color": "#ec4899", "parent": "faktor", "content": "Mengaktifkan simpatis terus-menerus, menimbulkan kelelahan dan gangguan tidur." },
+
+    { "id": "kelelahan-mental", "label": "Kelelahan Saraf & Beban Mental", "color": "#14b8a6", "parent": "sistem-saraf", "content": "Beban kerja mental tinggi menimbulkan kelelahan saraf, penurunan kewaspadaan, dan error." },
+    { "id": "beban-mental", "label": "Beban kerja mental", "color": "#14b8a6", "parent": "kelelahan-mental", "content": "Tuntutan kognitif; diukur antara lain dengan NASA-TLX." },
+    { "id": "sirkadian", "label": "Ritme sirkadian & shift", "color": "#14b8a6", "parent": "kelelahan-mental", "content": "Kerja shift malam mengganggu irama 24 jam, menurunkan kewaspadaan dini hari." },
+    { "id": "burnout", "label": "Burnout", "color": "#14b8a6", "parent": "kelelahan-mental", "content": "Kelelahan kronis fisik-emosional-mental akibat stres kerja berkepanjangan." },
+
+    { "id": "dampak", "label": "Dampak pada Saraf", "color": "#8b5cf6", "parent": "sistem-saraf", "content": "Dampak kerja pada saraf bisa sementara (kelelahan) atau menetap (kerusakan saraf)." },
+    { "id": "dampak-konsentrasi", "label": "Penurunan konsentrasi", "color": "#8b5cf6", "parent": "dampak", "content": "Meningkatkan kesalahan dan risiko kecelakaan kerja." },
+    { "id": "dampak-neuropati", "label": "Neuropati & CTS", "color": "#8b5cf6", "parent": "dampak", "content": "Kerusakan saraf tepi (kebas, kesemutan); CTS akibat gerakan tangan berulang." },
+    { "id": "dampak-psikis", "label": "Gangguan psikis", "color": "#8b5cf6", "parent": "dampak", "content": "Stres berlebih dapat memicu kecemasan dan depresi." },
+
+    { "id": "pencegahan", "label": "Pencegahan & Pengelolaan", "color": "#0ea5e9", "parent": "sistem-saraf", "content": "Langkah pencegahan menjaga kesehatan saraf dan meningkatkan K3." },
+    { "id": "manajemen-stres", "label": "Manajemen stres", "color": "#0ea5e9", "parent": "pencegahan", "content": "Relaksasi, meditasi, yoga, dan manajemen waktu untuk mengelola stres." },
+    { "id": "apd-monitoring", "label": "APD & monitoring", "color": "#0ea5e9", "parent": "pencegahan", "content": "Gunakan sarung tangan/masker dan pantau lingkungan untuk cegah paparan kimia." },
+    { "id": "istirahat-cukup", "label": "Istirahat cukup", "color": "#0ea5e9", "parent": "pencegahan", "content": "Tidur dan jeda istirahat memulihkan fungsi saraf serta menurunkan error." },
+    { "id": "pemeriksaan-kesehatan", "label": "Pemeriksaan kesehatan", "color": "#0ea5e9", "parent": "pencegahan", "content": "Pemeriksaan berkala mendeteksi dini gangguan saraf akibat kerja." }
+  ]
+}

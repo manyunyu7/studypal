@@ -1,0 +1,1604 @@
+{
+  "topic": "Personal Hygiene",
+  "order": 6,
+  "description": "Personal hygiene atau kebersihan perorangan adalah tindakan merawat diri untuk memelihara kesehatan fisik dan psikis. Materi ini mencakup definisi, faktor penyebab, tujuan, jenis-jenis kebersihan tubuh, praktik cuci tangan dan perawatan kuku, mandi, hingga dampak buruk bila personal hygiene diabaikan.",
+  "subtopics": [
+    "Definisi & Pengertian",
+    "Faktor Penyebab",
+    "Tujuan",
+    "Jenis-jenis Personal Hygiene",
+    "Kebersihan Tangan & Cuci Tangan",
+    "Perawatan Kuku",
+    "Mandi & Kebersihan Kulit",
+    "Dampak Buruk"
+  ],
+  "questions": [
+    {
+      "text": "Secara bahasa, istilah 'personal hygiene' berarti?",
+      "explanation": "Personal hygiene berasal dari bahasa Yunani: personal = perorangan dan hygiene = sehat, sehingga berarti kebersihan diri/perorangan.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Kebersihan lingkungan", "isCorrect": false },
+        { "text": "B. Kebersihan diri atau kebersihan perorangan", "isCorrect": true },
+        { "text": "C. Kebersihan makanan", "isCorrect": false },
+        { "text": "D. Kebersihan air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kata 'personal' dan 'hygiene' berasal dari bahasa?",
+      "explanation": "Personal hygiene berasal dari bahasa Yunani; personal artinya perorangan dan hygiene berarti sehat.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Bahasa Latin", "isCorrect": false },
+        { "text": "B. Bahasa Yunani", "isCorrect": true },
+        { "text": "C. Bahasa Inggris", "isCorrect": false },
+        { "text": "D. Bahasa Sanskerta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam istilah 'personal hygiene', kata 'hygiene' berarti?",
+      "explanation": "Dari bahasa Yunani, hygiene berarti sehat, sedangkan personal berarti perorangan.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Bersih", "isCorrect": false },
+        { "text": "B. Sehat", "isCorrect": true },
+        { "text": "C. Perorangan", "isCorrect": false },
+        { "text": "D. Perawatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut istilah, personal hygiene didefinisikan sebagai perawatan diri untuk menjaga kesehatan secara?",
+      "explanation": "Personal hygiene adalah perawatan diri untuk menjaga kesehatan baik secara fisik maupun psikologis (psikis).",
+      "difficulty": "EASY",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Fisik saja", "isCorrect": false },
+        { "text": "B. Psikis saja", "isCorrect": false },
+        { "text": "C. Fisik maupun psikis", "isCorrect": true },
+        { "text": "D. Sosial saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Tarwoto & Wartonah (2010), kebersihan perorangan adalah tindakan untuk memelihara kebersihan dan kesehatan seseorang demi kesejahteraan?",
+      "explanation": "Tarwoto & Wartonah (2010) menyatakan kebersihan perorangan adalah tindakan memelihara kebersihan dan kesehatan untuk kesejahteraan fisik dan psikis.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Ekonomi dan sosial", "isCorrect": false },
+        { "text": "B. Fisik dan psikis", "isCorrect": true },
+        { "text": "C. Lingkungan dan keluarga", "isCorrect": false },
+        { "text": "D. Spiritual dan budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi personal hygiene sebagai 'tindakan memelihara kebersihan dan kesehatan seseorang untuk kesejahteraan fisik dan psikis' dikemukakan oleh Tarwoto & Wartonah pada tahun?",
+      "explanation": "Definisi tersebut dikemukakan oleh Tarwoto & Wartonah pada tahun 2010.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. 2000", "isCorrect": false },
+        { "text": "B. 2005", "isCorrect": false },
+        { "text": "C. 2010", "isCorrect": true },
+        { "text": "D. 2015", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Potter & Perry (2005), kondisi di mana seseorang tidak mampu melakukan perawatan kebersihan untuk dirinya disebut?",
+      "explanation": "Potter & Perry (2005) menyebut kondisi seseorang tidak mampu melakukan perawatan kebersihan untuk dirinya sebagai kurang perawatan diri.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Kurang perawatan diri", "isCorrect": true },
+        { "text": "B. Defisit pengetahuan", "isCorrect": false },
+        { "text": "C. Gangguan psikososial", "isCorrect": false },
+        { "text": "D. Infeksi kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi personal hygiene menurut Potter & Perry dikemukakan pada tahun?",
+      "explanation": "Definisi personal hygiene menurut Potter & Perry dikemukakan pada tahun 2005.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. 2000", "isCorrect": false },
+        { "text": "B. 2005", "isCorrect": true },
+        { "text": "C. 2010", "isCorrect": false },
+        { "text": "D. 2016", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Depkes (2000), perawatan diri merupakan kemampuan dasar manusia dalam memenuhi kebutuhannya guna?",
+      "explanation": "Depkes (2000) menyatakan perawatan diri adalah kemampuan dasar manusia memenuhi kebutuhan guna mempertahankan kehidupan, kesehatan, dan kesejahteraannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Meningkatkan penghasilan", "isCorrect": false },
+        { "text": "B. Mempertahankan kehidupan, kesehatan, dan kesejahteraan", "isCorrect": true },
+        { "text": "C. Memperindah penampilan saja", "isCorrect": false },
+        { "text": "D. Memenuhi tuntutan sosial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi perawatan diri sebagai kemampuan dasar manusia mempertahankan kehidupan dikemukakan oleh?",
+      "explanation": "Definisi tersebut dikemukakan oleh Depkes pada tahun 2000.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Tarwoto & Wartonah (2010)", "isCorrect": false },
+        { "text": "B. Potter & Perry (2005)", "isCorrect": false },
+        { "text": "C. Depkes (2000)", "isCorrect": true },
+        { "text": "D. WHO (2010)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara umum, personal hygiene dapat disimpulkan sebagai kegiatan?",
+      "explanation": "Personal hygiene disimpulkan sebagai kegiatan membersihkan seluruh anggota tubuh untuk memelihara kebersihan dan kesehatan seseorang.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Membersihkan rumah dan lingkungan", "isCorrect": false },
+        { "text": "B. Membersihkan seluruh anggota tubuh untuk memelihara kebersihan dan kesehatan", "isCorrect": true },
+        { "text": "C. Mengolah makanan secara higienis", "isCorrect": false },
+        { "text": "D. Menjaga kebersihan air minum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Personal hygiene mencakup perawatan diri secara fisik dan psikis. Aspek psikis di sini berkaitan dengan?",
+      "explanation": "Aspek psikis personal hygiene berkaitan dengan kesejahteraan psikologis/mental seseorang, bukan sekadar fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Kondisi keuangan", "isCorrect": false },
+        { "text": "B. Kesejahteraan psikologis/mental", "isCorrect": true },
+        { "text": "C. Kondisi lingkungan kerja", "isCorrect": false },
+        { "text": "D. Pola makan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor yang mencakup pengetahuan, sikap, tradisi, kepercayaan, nilai, pendidikan, dan sosial ekonomi terhadap kesehatan disebut faktor?",
+      "explanation": "Faktor predisposisi mencakup pengetahuan, sikap, tradisi, kepercayaan, sistem nilai, tingkat pendidikan, dan tingkat sosial ekonomi.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Faktor predisposisi", "isCorrect": true },
+        { "text": "B. Faktor presipitasi", "isCorrect": false },
+        { "text": "C. Faktor pemungkin", "isCorrect": false },
+        { "text": "D. Faktor penguat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor risiko yang mempengaruhi jenis dan jumlah sumber yang dapat digunakan individu untuk mengatasi stres disebut faktor?",
+      "explanation": "Faktor presipitasi adalah faktor risiko yang mempengaruhi jenis dan jumlah sumber yang dapat digunakan individu untuk mengatasi stres.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Faktor predisposisi", "isCorrect": false },
+        { "text": "B. Faktor presipitasi", "isCorrect": true },
+        { "text": "C. Faktor genetik", "isCorrect": false },
+        { "text": "D. Faktor budaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk faktor predisposisi penyebab kurang perawatan diri adalah?",
+      "explanation": "Faktor predisposisi meliputi pengetahuan dan sikap, tradisi, kepercayaan, sistem nilai, tingkat pendidikan, dan tingkat sosial ekonomi.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Faktor risiko pengelolaan stres", "isCorrect": false },
+        { "text": "B. Tingkat pengetahuan dan pendidikan", "isCorrect": true },
+        { "text": "C. Jumlah sumber mengatasi stres", "isCorrect": false },
+        { "text": "D. Kondisi cuaca", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tradisi dan kepercayaan masyarakat terhadap hal-hal yang berkaitan dengan kesehatan termasuk dalam faktor?",
+      "explanation": "Tradisi dan kepercayaan masyarakat terhadap kesehatan termasuk bagian dari faktor predisposisi.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Presipitasi", "isCorrect": false },
+        { "text": "B. Predisposisi", "isCorrect": true },
+        { "text": "C. Penguat", "isCorrect": false },
+        { "text": "D. Pemicu fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tingkat sosial ekonomi seseorang yang mempengaruhi perawatan dirinya termasuk faktor?",
+      "explanation": "Tingkat sosial ekonomi termasuk faktor predisposisi yang mempengaruhi perilaku perawatan diri.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Predisposisi", "isCorrect": true },
+        { "text": "B. Presipitasi", "isCorrect": false },
+        { "text": "C. Lingkungan biologis", "isCorrect": false },
+        { "text": "D. Genetik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama faktor predisposisi dan presipitasi penyebab kurang perawatan diri adalah?",
+      "explanation": "Faktor predisposisi adalah faktor latar belakang (pengetahuan, sikap, nilai, pendidikan, sosial ekonomi), sedangkan presipitasi adalah faktor risiko yang mempengaruhi sumber untuk mengatasi stres.",
+      "difficulty": "HARD",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Predisposisi soal stres, presipitasi soal pengetahuan", "isCorrect": false },
+        { "text": "B. Predisposisi adalah faktor latar belakang (pengetahuan, nilai), presipitasi adalah faktor risiko pengelolaan stres", "isCorrect": true },
+        { "text": "C. Keduanya sama persis maknanya", "isCorrect": false },
+        { "text": "D. Predisposisi hanya soal ekonomi, presipitasi hanya soal pendidikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem nilai yang dianut masyarakat terhadap kesehatan merupakan bagian dari faktor?",
+      "explanation": "Sistem nilai yang dianut masyarakat termasuk faktor predisposisi penyebab kurang perawatan diri.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Predisposisi", "isCorrect": true },
+        { "text": "B. Presipitasi", "isCorrect": false },
+        { "text": "C. Pemungkin", "isCorrect": false },
+        { "text": "D. Pendukung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor presipitasi berkaitan erat dengan kemampuan individu dalam hal?",
+      "explanation": "Faktor presipitasi adalah faktor risiko yang mempengaruhi jenis dan jumlah sumber yang dapat digunakan individu untuk mengatasi stres.",
+      "difficulty": "HARD",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Mengatasi stres", "isCorrect": true },
+        { "text": "B. Menabung uang", "isCorrect": false },
+        { "text": "C. Menempuh pendidikan tinggi", "isCorrect": false },
+        { "text": "D. Memelihara tradisi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tingkat pendidikan yang rendah dapat menyebabkan kurang perawatan diri karena termasuk faktor?",
+      "explanation": "Tingkat pendidikan termasuk faktor predisposisi yang mempengaruhi pengetahuan dan perilaku perawatan diri.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Presipitasi", "isCorrect": false },
+        { "text": "B. Predisposisi", "isCorrect": true },
+        { "text": "C. Biologis", "isCorrect": false },
+        { "text": "D. Fisiologis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan personal hygiene adalah meningkatkan?",
+      "explanation": "Salah satu tujuan personal hygiene adalah meningkatkan derajat kesehatan seseorang.",
+      "difficulty": "EASY",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Derajat kesehatan", "isCorrect": true },
+        { "text": "B. Beban kerja", "isCorrect": false },
+        { "text": "C. Pengeluaran biaya", "isCorrect": false },
+        { "text": "D. Risiko penyakit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang merupakan tujuan personal hygiene, kecuali?",
+      "explanation": "Tujuan personal hygiene meliputi meningkatkan derajat kesehatan, memelihara kebersihan diri, mencegah penyakit, meningkatkan percaya diri, dan menciptakan keindahan; menyebarkan penyakit jelas bukan tujuannya.",
+      "difficulty": "EASY",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Memelihara kebersihan diri", "isCorrect": false },
+        { "text": "B. Pencegahan penyakit", "isCorrect": false },
+        { "text": "C. Menyebarkan penyakit ke orang lain", "isCorrect": true },
+        { "text": "D. Meningkatkan percaya diri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Personal hygiene yang baik dapat meningkatkan aspek psikologis berupa?",
+      "explanation": "Salah satu tujuan personal hygiene adalah meningkatkan rasa percaya diri.",
+      "difficulty": "EASY",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Rasa percaya diri", "isCorrect": true },
+        { "text": "B. Rasa lapar", "isCorrect": false },
+        { "text": "C. Rasa kantuk", "isCorrect": false },
+        { "text": "D. Rasa marah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain menjaga kesehatan, personal hygiene juga bertujuan menciptakan?",
+      "explanation": "Salah satu tujuan personal hygiene adalah menciptakan keindahan (penampilan yang baik).",
+      "difficulty": "EASY",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Keindahan", "isCorrect": true },
+        { "text": "B. Kekayaan", "isCorrect": false },
+        { "text": "C. Kekuasaan", "isCorrect": false },
+        { "text": "D. Kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan personal hygiene yang berkaitan dengan menghindari timbulnya penyakit adalah?",
+      "explanation": "Pencegahan penyakit merupakan salah satu tujuan utama personal hygiene.",
+      "difficulty": "EASY",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Pencegahan penyakit", "isCorrect": true },
+        { "text": "B. Penyembuhan penyakit kronis", "isCorrect": false },
+        { "text": "C. Pengobatan luka", "isCorrect": false },
+        { "text": "D. Operasi bedah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memelihara kebersihan diri dan memperbaiki personal hygiene termasuk dalam?",
+      "explanation": "Memelihara kebersihan diri dan memperbaiki personal hygiene termasuk dalam tujuan personal hygiene.",
+      "difficulty": "EASY",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Dampak buruk personal hygiene", "isCorrect": false },
+        { "text": "B. Tujuan personal hygiene", "isCorrect": true },
+        { "text": "C. Faktor predisposisi", "isCorrect": false },
+        { "text": "D. Faktor presipitasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut ini yang termasuk jenis-jenis personal hygiene adalah?",
+      "explanation": "Jenis personal hygiene meliputi kebersihan kulit kepala & rambut, mata, hidung, telinga, gigi & mulut, kuku tangan & kaki, kulit, dan pakaian.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Kebersihan rambut, mata, telinga, dan kulit", "isCorrect": true },
+        { "text": "B. Kebersihan jalan dan saluran air", "isCorrect": false },
+        { "text": "C. Kebersihan dapur dan kamar mandi", "isCorrect": false },
+        { "text": "D. Kebersihan kendaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ciri rambut yang bersih menurut materi personal hygiene adalah?",
+      "explanation": "Rambut bersih ditandai dengan rambut bersih dan berkilau, tidak ada ketombe dan kutu, serta tidak bau.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Berkilau, tidak berketombe, tidak berkutu, dan tidak bau", "isCorrect": true },
+        { "text": "B. Berminyak dan lengket", "isCorrect": false },
+        { "text": "C. Berketombe tebal", "isCorrect": false },
+        { "text": "D. Berbau apek", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ciri mata yang bersih menurut materi adalah?",
+      "explanation": "Mata bersih ditandai dengan mata yang jernih dan terang serta tidak terdapat kotoran.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Jernih, terang, dan tidak terdapat kotoran", "isCorrect": true },
+        { "text": "B. Merah dan berair", "isCorrect": false },
+        { "text": "C. Bengkak", "isCorrect": false },
+        { "text": "D. Berkotoran banyak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ciri hidung yang bersih menurut materi personal hygiene adalah?",
+      "explanation": "Hidung bersih ditandai dengan hidung yang tidak terdapat kotoran dan tidak tersumbat.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Tersumbat dan banyak kotoran", "isCorrect": false },
+        { "text": "B. Tidak terdapat kotoran dan tidak tersumbat", "isCorrect": true },
+        { "text": "C. Selalu berair", "isCorrect": false },
+        { "text": "D. Berbau", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ciri telinga yang bersih menurut materi adalah?",
+      "explanation": "Telinga bersih ditandai dengan daun dan lubang telinga yang bersih atau tidak terdapat kotoran.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Daun dan lubang telinga bersih tanpa kotoran", "isCorrect": true },
+        { "text": "B. Lubang telinga penuh serumen", "isCorrect": false },
+        { "text": "C. Daun telinga berkerak", "isCorrect": false },
+        { "text": "D. Telinga selalu basah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN ciri gigi dan mulut yang bersih dan sehat menurut materi adalah?",
+      "explanation": "Gigi dan mulut bersih ditandai gigi putih tanpa plak, tidak ada sariawan, napas segar, lidah merah muda terang, bibir lembab, tidak ada gigi berlubang, dan gusi berwarna merah; banyak plak jelas bukan ciri bersih.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Gigi putih tanpa plak", "isCorrect": false },
+        { "text": "B. Napas segar dan bibir lembab", "isCorrect": false },
+        { "text": "C. Terdapat banyak plak dan gigi berlubang", "isCorrect": true },
+        { "text": "D. Lidah berwarna merah muda terang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, warna lidah yang menandakan mulut sehat adalah?",
+      "explanation": "Lidah yang sehat berwarna merah muda terang sebagai salah satu ciri kebersihan gigi dan mulut.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Putih pekat", "isCorrect": false },
+        { "text": "B. Merah muda terang", "isCorrect": true },
+        { "text": "C. Kuning", "isCorrect": false },
+        { "text": "D. Kehitaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ciri kuku yang bersih dan sehat menurut materi adalah?",
+      "explanation": "Kuku yang bersih ditandai dengan kuku pendek dan bersih serta berwarna merah muda cerah.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Panjang dan kotor", "isCorrect": false },
+        { "text": "B. Pendek, bersih, dan berwarna merah muda cerah", "isCorrect": true },
+        { "text": "C. Kekuningan dan rapuh", "isCorrect": false },
+        { "text": "D. Tebal dan berjamur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, ciri kebersihan berpakaian yang baik adalah?",
+      "explanation": "Kebersihan pakaian ditandai dengan pakaian yang rapi, bersih, dan tidak bau.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Rapi, bersih, dan tidak bau", "isCorrect": true },
+        { "text": "B. Kusut dan berbau keringat", "isCorrect": false },
+        { "text": "C. Penuh noda", "isCorrect": false },
+        { "text": "D. Lembap dan apek", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, pakaian sebaiknya diganti minimal?",
+      "explanation": "Pakaian sebaiknya diganti minimal 1 kali setiap hari, dan pakaian kotor segera dicuci dengan air bersih dan sabun.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. 1 kali setiap hari", "isCorrect": true },
+        { "text": "B. 1 kali seminggu", "isCorrect": false },
+        { "text": "C. 2 kali seminggu", "isCorrect": false },
+        { "text": "D. 1 kali sebulan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pakaian yang kotor sebaiknya segera dicuci menggunakan?",
+      "explanation": "Pakaian kotor sebaiknya segera dicuci dengan air bersih dan sabun, lalu dibilas sampai bersih.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Air bersih dan sabun, lalu dibilas sampai bersih", "isCorrect": true },
+        { "text": "B. Air kotor saja", "isCorrect": false },
+        { "text": "C. Pemutih saja tanpa air", "isCorrect": false },
+        { "text": "D. Air panas mendidih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, kebersihan kulit kepala dan rambut termasuk salah satu jenis personal hygiene. Tujuan utamanya adalah agar rambut?",
+      "explanation": "Tujuan menjaga kebersihan rambut adalah agar rambut bersih dan berkilau, tidak berketombe, tidak berkutu, dan tidak bau.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Bersih, berkilau, dan bebas ketombe serta kutu", "isCorrect": true },
+        { "text": "B. Selalu basah", "isCorrect": false },
+        { "text": "C. Berminyak", "isCorrect": false },
+        { "text": "D. Panjang dan lebat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa banyak jenis personal hygiene utama yang disebutkan dalam materi (kepala/rambut, mata, hidung, telinga, gigi/mulut, kuku, kulit, pakaian)?",
+      "explanation": "Materi menyebutkan jenis kebersihan: kulit kepala & rambut, mata, hidung, telinga, gigi & mulut, kuku tangan & kaki, kulit, dan pakaian (sekitar 8 jenis).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. 3 jenis", "isCorrect": false },
+        { "text": "B. 5 jenis", "isCorrect": false },
+        { "text": "C. 8 jenis", "isCorrect": true },
+        { "text": "D. 12 jenis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tubuh yang tidak bau karena keringat merupakan salah satu ciri kebersihan?",
+      "explanation": "Tubuh tidak bau karena keringat merupakan ciri kebersihan kulit yang baik.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Kulit", "isCorrect": true },
+        { "text": "B. Rambut", "isCorrect": false },
+        { "text": "C. Mata", "isCorrect": false },
+        { "text": "D. Telinga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bibir yang lembab atau tidak pecah-pecah merupakan ciri kebersihan?",
+      "explanation": "Bibir lembab atau tidak pecah-pecah merupakan salah satu ciri kebersihan gigi dan mulut.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Gigi dan mulut", "isCorrect": true },
+        { "text": "B. Hidung", "isCorrect": false },
+        { "text": "C. Kulit kepala", "isCorrect": false },
+        { "text": "D. Kuku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, tangan manusia bisa membawa?",
+      "explanation": "Materi menyebutkan tangan manusia bisa membawa ribuan hingga jutaan bakteri, sehingga cuci tangan sangat penting.",
+      "difficulty": "EASY",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Hanya beberapa bakteri", "isCorrect": false },
+        { "text": "B. Ribuan hingga jutaan bakteri", "isCorrect": true },
+        { "text": "C. Tidak ada bakteri", "isCorrect": false },
+        { "text": "D. Hanya virus, bukan bakteri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut ini adalah momen yang tepat untuk mencuci tangan, kecuali?",
+      "explanation": "Cuci tangan dianjurkan sebelum makan, sebelum mengolah makanan, setelah dari toilet, setelah memegang uang/sampah, setelah batuk/bersin, dan setelah menangani produk mentah; bukan saat tangan sudah jelas bersih dan kering.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Sebelum makan", "isCorrect": false },
+        { "text": "B. Setelah dari toilet", "isCorrect": false },
+        { "text": "C. Saat tangan baru saja dicuci dan masih bersih", "isCorrect": true },
+        { "text": "D. Setelah memegang sampah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kita perlu mencuci tangan sebelum makan?",
+      "explanation": "Tangan dapat membawa ribuan hingga jutaan bakteri, sehingga mencuci tangan sebelum makan mencegah masuknya kuman ke tubuh melalui makanan.",
+      "difficulty": "EASY",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Agar tangan terlihat basah", "isCorrect": false },
+        { "text": "B. Karena tangan membawa banyak bakteri yang bisa masuk lewat makanan", "isCorrect": true },
+        { "text": "C. Agar makanan lebih enak", "isCorrect": false },
+        { "text": "D. Untuk menghemat air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mencuci tangan setelah memegang uang dianjurkan karena?",
+      "explanation": "Uang dipegang banyak orang sehingga membawa banyak bakteri; mencuci tangan setelah memegang uang termasuk momen penting cuci tangan.",
+      "difficulty": "EASY",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Uang berpindah tangan dan membawa banyak kuman", "isCorrect": true },
+        { "text": "B. Uang mudah basah", "isCorrect": false },
+        { "text": "C. Uang berbau wangi", "isCorrect": false },
+        { "text": "D. Agar uang tidak hilang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah batuk atau bersin, tindakan personal hygiene yang dianjurkan adalah?",
+      "explanation": "Setelah batuk atau bersin dianjurkan mencuci tangan karena droplet membawa banyak kuman.",
+      "difficulty": "EASY",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Mencuci tangan", "isCorrect": true },
+        { "text": "B. Langsung makan", "isCorrect": false },
+        { "text": "C. Memotong kuku", "isCorrect": false },
+        { "text": "D. Mengganti pakaian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mencuci tangan setelah menangani produk mentah penting karena?",
+      "explanation": "Produk mentah (daging/sayuran mentah) dapat membawa mikroorganisme patogen, sehingga cuci tangan setelahnya mencegah kontaminasi silang.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Produk mentah dapat membawa mikroorganisme patogen", "isCorrect": true },
+        { "text": "B. Produk mentah selalu beracun", "isCorrect": false },
+        { "text": "C. Agar tangan harum", "isCorrect": false },
+        { "text": "D. Produk mentah membuat tangan kering", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah urutan momen cuci tangan yang berhubungan dengan kegiatan makan?",
+      "explanation": "Dua momen cuci tangan yang berkaitan dengan makanan adalah sebelum makan dan sebelum mengolah makanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Sebelum makan dan sebelum mengolah makanan", "isCorrect": true },
+        { "text": "B. Setelah dari toilet dan setelah memegang uang", "isCorrect": false },
+        { "text": "C. Setelah batuk dan setelah bersin", "isCorrect": false },
+        { "text": "D. Setelah memegang sampah dan menangani produk mentah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah membuang atau memegang sampah, tindakan kebersihan diri yang harus dilakukan adalah?",
+      "explanation": "Setelah memegang sampah dianjurkan mencuci tangan karena sampah merupakan sumber kuman.",
+      "difficulty": "EASY",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Mencuci tangan", "isCorrect": true },
+        { "text": "B. Mengeringkan tangan dengan baju", "isCorrect": false },
+        { "text": "C. Langsung memegang makanan", "isCorrect": false },
+        { "text": "D. Mengoleskan minyak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tangan yang kotor merupakan sumber dari?",
+      "explanation": "Tangan yang kotor merupakan sumber mikroorganisme patogen, yaitu kuman penyebab penyakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Mikroorganisme patogen (kuman penyebab penyakit)", "isCorrect": true },
+        { "text": "B. Vitamin", "isCorrect": false },
+        { "text": "C. Mineral", "isCorrect": false },
+        { "text": "D. Oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah keluar dari toilet, perilaku personal hygiene yang benar adalah?",
+      "explanation": "Setelah dari toilet wajib mencuci tangan untuk menghilangkan kuman, ini salah satu momen cuci tangan terpenting.",
+      "difficulty": "EASY",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Mencuci tangan dengan sabun dan air bersih", "isCorrect": true },
+        { "text": "B. Langsung menyiapkan makanan", "isCorrect": false },
+        { "text": "C. Memegang gagang pintu lalu makan", "isCorrect": false },
+        { "text": "D. Membiarkan tangan tanpa dicuci", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang jumlah bakteri pada tangan manusia?",
+      "explanation": "Tangan manusia bisa membawa ribuan hingga jutaan bakteri, sehingga kebersihan tangan sangat penting.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Tangan steril secara alami", "isCorrect": false },
+        { "text": "B. Tangan hanya membawa puluhan bakteri", "isCorrect": false },
+        { "text": "C. Tangan bisa membawa ribuan hingga jutaan bakteri", "isCorrect": true },
+        { "text": "D. Tangan tidak pernah membawa bakteri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mencuci tangan sebelum mengolah makanan bertujuan untuk?",
+      "explanation": "Mencuci tangan sebelum mengolah makanan mencegah bakteri dari tangan berpindah ke makanan yang akan dikonsumsi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Mencegah bakteri tangan berpindah ke makanan", "isCorrect": true },
+        { "text": "B. Membuat makanan lebih cepat matang", "isCorrect": false },
+        { "text": "C. Menghemat bahan makanan", "isCorrect": false },
+        { "text": "D. Menambah cita rasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kuku sebaiknya dipotong minimal?",
+      "explanation": "Merawat kuku dilakukan dengan memotong kuku minimal 1 kali seminggu atau saat kuku terlihat panjang.",
+      "difficulty": "EASY",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. 1 kali seminggu", "isCorrect": true },
+        { "text": "B. 1 kali sebulan", "isCorrect": false },
+        { "text": "C. 3 kali sehari", "isCorrect": false },
+        { "text": "D. 1 kali setahun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebelum dipotong, jari kaki dan tangan sebaiknya direndam dalam air hangat selama?",
+      "explanation": "Sebelum memotong kuku, jari direndam dalam air hangat sekitar 2 menit untuk melunakkan kuku dan kutikula.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. ± 2 menit", "isCorrect": true },
+        { "text": "B. ± 30 detik", "isCorrect": false },
+        { "text": "C. ± 15 menit", "isCorrect": false },
+        { "text": "D. ± 1 jam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan merendam jari dalam air hangat sebelum memotong kuku adalah?",
+      "explanation": "Air hangat selama ±2 menit berfungsi melunakkan kuku dan kutikula sehingga lebih mudah dipotong.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Melunakkan kuku dan kutikula", "isCorrect": true },
+        { "text": "B. Memutihkan kuku", "isCorrect": false },
+        { "text": "C. Menambah panjang kuku", "isCorrect": false },
+        { "text": "D. Mengeraskan kuku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara memotong kuku yang dianjurkan menurut materi adalah?",
+      "explanation": "Kuku dipotong lurus (sejajar puncak jari) menggunakan gunting kuku, dan jangan memotong terlalu dekat dengan ujung kulit.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Dipotong lurus, sejajar puncak jari", "isCorrect": true },
+        { "text": "B. Dipotong sangat dalam sampai ke kulit", "isCorrect": false },
+        { "text": "C. Dipotong melengkung sangat dalam", "isCorrect": false },
+        { "text": "D. Tidak perlu dipotong", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat memotong kuku, sebaiknya tidak memotong?",
+      "explanation": "Jangan memotong kuku terlalu dekat dengan ujung kulit karena dapat melukai dan memicu infeksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Terlalu dekat dengan ujung kulit", "isCorrect": true },
+        { "text": "B. Bagian ujung kuku yang panjang", "isCorrect": false },
+        { "text": "C. Kuku saat sudah lunak", "isCorrect": false },
+        { "text": "D. Kuku dengan gunting kuku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah dipotong, kuku sebaiknya dirapikan dan dibentuk menggunakan?",
+      "explanation": "Setelah dipotong, kuku dirapikan dan dibentuk dengan papan pengikir.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Papan pengikir", "isCorrect": true },
+        { "text": "B. Pisau dapur", "isCorrect": false },
+        { "text": "C. Gunting kertas", "isCorrect": false },
+        { "text": "D. Amplas kasar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah memotong dan merawat kuku, jari tangan dan kaki harus dikeringkan secara menyeluruh karena?",
+      "explanation": "Keadaan lembab/basah cenderung menarik dan menyebabkan pertumbuhan mikroorganisme, sehingga jari harus dikeringkan menyeluruh.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Kondisi lembab memicu pertumbuhan mikroorganisme", "isCorrect": true },
+        { "text": "B. Agar kuku tumbuh lebih cepat", "isCorrect": false },
+        { "text": "C. Supaya kuku berwarna putih", "isCorrect": false },
+        { "text": "D. Agar kuku menjadi keras", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika kuku sangat kotor, untuk membantu melepaskan kotoran di bawah kuku dapat digunakan?",
+      "explanation": "Jika kuku sangat kotor, gunakan sabun lembut dan gosok dengan sikat yang lembut untuk melepaskan kotoran di bawah kuku.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Sabun lembut dan sikat yang lembut", "isCorrect": true },
+        { "text": "B. Sikat kawat", "isCorrect": false },
+        { "text": "C. Cairan pemutih keras", "isCorrect": false },
+        { "text": "D. Amplas kasar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain dipotong rutin seminggu sekali, kuku juga sebaiknya dipotong saat?",
+      "explanation": "Kuku dipotong minimal 1 kali seminggu atau saat kuku terlihat panjang.",
+      "difficulty": "EASY",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Saat kuku terlihat panjang", "isCorrect": true },
+        { "text": "B. Saat kuku pendek", "isCorrect": false },
+        { "text": "C. Hanya saat sakit", "isCorrect": false },
+        { "text": "D. Setahun sekali saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan langkah merawat kuku yang benar menurut materi adalah?",
+      "explanation": "Urutannya: rendam jari di air hangat ±2 menit untuk melunakkan, potong kuku lurus, rapikan dengan pengikir, lalu keringkan menyeluruh.",
+      "difficulty": "HARD",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Keringkan, potong, rendam, kikir", "isCorrect": false },
+        { "text": "B. Rendam air hangat, potong lurus, kikir/rapikan, keringkan", "isCorrect": true },
+        { "text": "C. Potong lurus, rendam, keringkan, kikir", "isCorrect": false },
+        { "text": "D. Kikir, keringkan, rendam, potong", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Membiarkan kuku tumbuh panjang dan kotor berisiko karena kuku panjang dapat menjadi?",
+      "explanation": "Kuku panjang dan kotor menyimpan kotoran serta mikroorganisme di bawahnya, sehingga merawat kuku penting untuk personal hygiene.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Tempat berkumpulnya kotoran dan kuman", "isCorrect": true },
+        { "text": "B. Sumber vitamin", "isCorrect": false },
+        { "text": "C. Pelindung alami terbaik", "isCorrect": false },
+        { "text": "D. Tanda kesehatan optimal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kuku jari sebaiknya digunting dengan posisi sejajar?",
+      "explanation": "Gunting kuku sejajar puncak jari dan potong lurus, jangan terlalu dekat dengan ujung kulit.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Puncak jari", "isCorrect": true },
+        { "text": "B. Telapak tangan", "isCorrect": false },
+        { "text": "C. Pergelangan tangan", "isCorrect": false },
+        { "text": "D. Ruas jari paling bawah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mandi sebaiknya dilakukan paling sedikit?",
+      "explanation": "Mandi dilakukan paling sedikit 2 kali sehari dengan menggunakan sabun dan air bersih.",
+      "difficulty": "EASY",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. 1 kali sehari", "isCorrect": false },
+        { "text": "B. 2 kali sehari", "isCorrect": true },
+        { "text": "C. 1 kali seminggu", "isCorrect": false },
+        { "text": "D. 4 kali sehari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat mandi, sebaiknya digunakan?",
+      "explanation": "Mandi dilakukan menggunakan sabun dan air bersih untuk menghilangkan kotoran, minyak berlebih, dan bakteri.",
+      "difficulty": "EASY",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Sabun dan air bersih", "isCorrect": true },
+        { "text": "B. Air kotor", "isCorrect": false },
+        { "text": "C. Minyak saja", "isCorrect": false },
+        { "text": "D. Air dingin tanpa sabun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat mandi, bagian tubuh yang perlu digosok dengan teliti antara lain?",
+      "explanation": "Bagian yang perlu digosok terutama wajah, ketiak, lipatan kulit, dan area perineum karena rawan kotoran dan bakteri.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Wajah, ketiak, lipatan kulit, dan area perineum", "isCorrect": true },
+        { "text": "B. Hanya telapak tangan", "isCorrect": false },
+        { "text": "C. Hanya rambut", "isCorrect": false },
+        { "text": "D. Hanya kaki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk menjaga kebersihan kulit dan badan, sebaiknya menggunakan barang keperluan sehari-hari?",
+      "explanation": "Kebersihan kulit dijaga dengan menggunakan barang-barang pribadi milik sendiri, tidak tukar-menukar pakaian dengan orang lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Milik sendiri, tidak dipakai bergantian dengan orang lain", "isCorrect": true },
+        { "text": "B. Bergantian dengan teman", "isCorrect": false },
+        { "text": "C. Milik orang tua", "isCorrect": false },
+        { "text": "D. Pinjaman dari tetangga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa penting menjaga kulit tetap bersih dan utuh?",
+      "explanation": "Menjaga kulit bersih dan utuh penting untuk menghilangkan kotoran, minyak berlebih, dan bakteri berbahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Untuk menghilangkan kotoran, minyak berlebih, dan bakteri berbahaya", "isCorrect": true },
+        { "text": "B. Agar kulit cepat menua", "isCorrect": false },
+        { "text": "C. Untuk menambah berat badan", "isCorrect": false },
+        { "text": "D. Agar tubuh lebih cepat berkeringat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ciri kulit yang sehat dan bersih menurut materi adalah?",
+      "explanation": "Kulit sehat ditandai halus dan lembut, tidak ada panu/gatal/ruam/memar/penyakit kulit, bersih tanpa kotoran, dan tubuh tidak bau keringat.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Halus, lembut, bersih, tanpa panu atau penyakit kulit", "isCorrect": true },
+        { "text": "B. Kasar dan berkerak", "isCorrect": false },
+        { "text": "C. Banyak ruam dan gatal", "isCorrect": false },
+        { "text": "D. Berbau keringat menyengat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kita tidak dianjurkan saling bertukar pakaian atau barang pribadi dengan orang lain?",
+      "explanation": "Tidak bertukar pakaian/barang pribadi mencegah penularan kuman dan penyakit kulit antar orang.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Mencegah penularan kuman dan penyakit kulit", "isCorrect": true },
+        { "text": "B. Agar pakaian tidak rusak", "isCorrect": false },
+        { "text": "C. Supaya hemat biaya", "isCorrect": false },
+        { "text": "D. Agar pakaian tetap baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Area perineum perlu dibersihkan saat mandi karena?",
+      "explanation": "Area perineum dan lipatan kulit lembab serta rawan kotoran dan bakteri sehingga perlu dibersihkan saat mandi.",
+      "difficulty": "HARD",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Merupakan area lembap yang rawan kotoran dan bakteri", "isCorrect": true },
+        { "text": "B. Tidak pernah kotor", "isCorrect": false },
+        { "text": "C. Tidak perlu dibersihkan", "isCorrect": false },
+        { "text": "D. Selalu kering dan bersih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika seseorang hanya mandi 1 kali sehari, hal itu?",
+      "explanation": "Materi menganjurkan mandi paling sedikit 2 kali sehari, sehingga mandi hanya 1 kali sehari berada di bawah anjuran.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Masih di bawah anjuran minimal 2 kali sehari", "isCorrect": true },
+        { "text": "B. Sudah melebihi anjuran", "isCorrect": false },
+        { "text": "C. Tepat sesuai anjuran", "isCorrect": false },
+        { "text": "D. Tidak diperbolehkan sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat mandi, lipatan kulit perlu digosok karena lipatan kulit cenderung?",
+      "explanation": "Lipatan kulit cenderung lembab dan menjadi tempat penumpukan kotoran serta bakteri sehingga perlu digosok bersih.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Lembap dan menumpuk kotoran serta bakteri", "isCorrect": true },
+        { "text": "B. Selalu kering", "isCorrect": false },
+        { "text": "C. Tidak pernah berkeringat", "isCorrect": false },
+        { "text": "D. Tidak ditumbuhi bakteri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan menggosok wajah dan ketiak saat mandi adalah untuk?",
+      "explanation": "Menggosok wajah, ketiak, lipatan kulit, dan perineum bertujuan membersihkan kotoran dan bakteri di area yang rawan.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Membersihkan kotoran dan bakteri di area rawan", "isCorrect": true },
+        { "text": "B. Menambah minyak pada kulit", "isCorrect": false },
+        { "text": "C. Membuat kulit kasar", "isCorrect": false },
+        { "text": "D. Menjadikan tubuh berbau", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dampak buruk personal hygiene yang buruk dibedakan menjadi dua, yaitu dampak?",
+      "explanation": "Dampak personal hygiene yang buruk dibedakan menjadi dampak fisik dan dampak psikososial.",
+      "difficulty": "EASY",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Fisik dan psikososial", "isCorrect": true },
+        { "text": "B. Ekonomi dan politik", "isCorrect": false },
+        { "text": "C. Biologis dan kimia", "isCorrect": false },
+        { "text": "D. Fisika dan mekanik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Banyaknya gangguan kesehatan yang diderita seseorang karena kebersihan diri yang buruk termasuk dampak?",
+      "explanation": "Gangguan kesehatan akibat kebersihan diri yang buruk termasuk dampak fisik dari personal hygiene yang buruk.",
+      "difficulty": "EASY",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Fisik", "isCorrect": true },
+        { "text": "B. Psikososial", "isCorrect": false },
+        { "text": "C. Ekonomi", "isCorrect": false },
+        { "text": "D. Spiritual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan kebutuhan rasa nyaman, harga diri, dan interaksi sosial akibat personal hygiene buruk termasuk dampak?",
+      "explanation": "Gangguan rasa nyaman, kebutuhan dicintai, harga diri, aktualisasi diri, dan interaksi sosial termasuk dampak psikososial.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Psikososial", "isCorrect": true },
+        { "text": "B. Fisik", "isCorrect": false },
+        { "text": "C. Genetik", "isCorrect": false },
+        { "text": "D. Lingkungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk dampak FISIK dari personal hygiene yang buruk adalah?",
+      "explanation": "Dampak fisik personal hygiene buruk meliputi gangguan kesehatan, keracunan makanan, diare, tifus, dan infeksi kulit.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Diare, tifus, dan infeksi kulit", "isCorrect": true },
+        { "text": "B. Gangguan harga diri", "isCorrect": false },
+        { "text": "C. Gangguan interaksi sosial", "isCorrect": false },
+        { "text": "D. Gangguan aktualisasi diri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Personal hygiene yang tidak baik dapat menyebabkan keracunan?",
+      "explanation": "Personal hygiene yang tidak baik dapat menyebabkan keracunan makanan, yang termasuk dampak fisik.",
+      "difficulty": "EASY",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Makanan", "isCorrect": true },
+        { "text": "B. Udara", "isCorrect": false },
+        { "text": "C. Suara", "isCorrect": false },
+        { "text": "D. Cahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit seperti diare dan tifus seringkali berasal dari?",
+      "explanation": "Menurut materi, penyakit seperti diare, tifus, bahkan infeksi kulit seringkali berasal dari personal hygiene yang buruk.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Personal hygiene yang buruk", "isCorrect": true },
+        { "text": "B. Pencahayaan yang baik", "isCorrect": false },
+        { "text": "C. Olahraga teratur", "isCorrect": false },
+        { "text": "D. Tidur cukup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, sumber penyakit akibat personal hygiene buruk dapat berasal dari?",
+      "explanation": "Materi menekankan bahwa sumber penyakit bukan selalu dari luar, tetapi bisa berasal dari diri kita sendiri (kebersihan diri yang buruk).",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Diri kita sendiri, bukan selalu dari luar", "isCorrect": true },
+        { "text": "B. Hanya dari lingkungan luar", "isCorrect": false },
+        { "text": "C. Hanya dari faktor genetik", "isCorrect": false },
+        { "text": "D. Hanya dari makanan kemasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut termasuk dampak PSIKOSOSIAL personal hygiene buruk, kecuali?",
+      "explanation": "Dampak psikososial meliputi gangguan rasa nyaman, kebutuhan dicintai, harga diri, aktualisasi diri, dan interaksi sosial; diare merupakan dampak fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Gangguan harga diri", "isCorrect": false },
+        { "text": "B. Gangguan interaksi sosial", "isCorrect": false },
+        { "text": "C. Diare", "isCorrect": true },
+        { "text": "D. Gangguan rasa nyaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Infeksi kulit akibat tidak menjaga kebersihan tubuh termasuk dampak?",
+      "explanation": "Infeksi kulit termasuk dampak fisik dari personal hygiene yang buruk.",
+      "difficulty": "EASY",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Fisik", "isCorrect": true },
+        { "text": "B. Psikososial", "isCorrect": false },
+        { "text": "C. Sosial ekonomi", "isCorrect": false },
+        { "text": "D. Spiritual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan dampak fisik dan psikososial yang BENAR?",
+      "explanation": "Dampak fisik contohnya diare/tifus/infeksi kulit, sedangkan dampak psikososial contohnya gangguan harga diri dan interaksi sosial.",
+      "difficulty": "HARD",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Fisik: diare; Psikososial: gangguan harga diri", "isCorrect": true },
+        { "text": "B. Fisik: gangguan harga diri; Psikososial: tifus", "isCorrect": false },
+        { "text": "C. Fisik: interaksi sosial; Psikososial: infeksi kulit", "isCorrect": false },
+        { "text": "D. Fisik: aktualisasi diri; Psikososial: keracunan makanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rambut, kumis, dan jenggot yang panjang serta tidak terawat dapat menjadi?",
+      "explanation": "Rambut, kumis, dan jenggot yang panjang/tidak terawat serta tangan kotor merupakan sumber mikroorganisme patogen, dampak fisik personal hygiene buruk.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Tempat berkumpulnya mikroorganisme patogen", "isCorrect": true },
+        { "text": "B. Sumber vitamin", "isCorrect": false },
+        { "text": "C. Pelindung dari penyakit", "isCorrect": false },
+        { "text": "D. Tanda kebersihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan kebutuhan dicintai dan mencintai serta aktualisasi diri akibat personal hygiene buruk termasuk masalah?",
+      "explanation": "Gangguan kebutuhan dicintai, mencintai, harga diri, dan aktualisasi diri termasuk masalah psikososial personal hygiene.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Psikososial", "isCorrect": true },
+        { "text": "B. Fisik", "isCorrect": false },
+        { "text": "C. Biologis", "isCorrect": false },
+        { "text": "D. Mekanik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang jarang mandi dan berbau badan cenderung dijauhi teman. Hal ini menunjukkan dampak?",
+      "explanation": "Dijauhi orang lain dan terganggunya interaksi sosial akibat kebersihan diri buruk termasuk dampak psikososial.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Psikososial (gangguan interaksi sosial)", "isCorrect": true },
+        { "text": "B. Fisik (infeksi kulit)", "isCorrect": false },
+        { "text": "C. Ekonomi", "isCorrect": false },
+        { "text": "D. Genetik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Personal hygiene yang tidak baik pada penjamah makanan paling berisiko menyebabkan?",
+      "explanation": "Personal hygiene yang buruk pada penjamah makanan dapat menyebabkan keracunan makanan dan penyakit seperti diare dan tifus.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Keracunan makanan", "isCorrect": true },
+        { "text": "B. Peningkatan percaya diri", "isCorrect": false },
+        { "text": "C. Keindahan penampilan", "isCorrect": false },
+        { "text": "D. Kesehatan optimal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cairan dari mulut, hidung, dan telinga serta tangan yang kotor dalam konteks personal hygiene buruk berperan sebagai?",
+      "explanation": "Cairan dari mulut, hidung, telinga, dan tangan kotor merupakan sumber/penyebar mikroorganisme patogen.",
+      "difficulty": "HARD",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Sumber penyebaran mikroorganisme patogen", "isCorrect": true },
+        { "text": "B. Antibodi alami", "isCorrect": false },
+        { "text": "C. Pelindung tubuh", "isCorrect": false },
+        { "text": "D. Sumber nutrisi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang TEPAT membedakan dampak fisik dan psikososial adalah?",
+      "explanation": "Dampak fisik berkaitan dengan gangguan kesehatan tubuh (diare, tifus, infeksi kulit), sedangkan dampak psikososial berkaitan dengan kebutuhan psikis dan sosial (harga diri, interaksi sosial).",
+      "difficulty": "HARD",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Fisik = gangguan kesehatan tubuh; Psikososial = gangguan psikis dan sosial", "isCorrect": true },
+        { "text": "B. Fisik = gangguan sosial; Psikososial = penyakit menular", "isCorrect": false },
+        { "text": "C. Keduanya hanya soal penyakit kulit", "isCorrect": false },
+        { "text": "D. Keduanya hanya soal harga diri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Personal hygiene yang baik dapat mencegah penyakit menular seperti diare. Hal ini sejalan dengan tujuan personal hygiene yaitu?",
+      "explanation": "Mencegah penyakit (termasuk diare) sejalan dengan tujuan personal hygiene yaitu pencegahan penyakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Pencegahan penyakit", "isCorrect": true },
+        { "text": "B. Menciptakan keindahan", "isCorrect": false },
+        { "text": "C. Meningkatkan percaya diri", "isCorrect": false },
+        { "text": "D. Memperindah pakaian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang berpenampilan bersih dan rapi cenderung lebih percaya diri. Ini mencerminkan tujuan personal hygiene berupa?",
+      "explanation": "Penampilan bersih dan rapi meningkatkan rasa percaya diri, salah satu tujuan personal hygiene.",
+      "difficulty": "EASY",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Meningkatkan percaya diri", "isCorrect": true },
+        { "text": "B. Pencegahan penyakit", "isCorrect": false },
+        { "text": "C. Memelihara kebersihan diri", "isCorrect": false },
+        { "text": "D. Mengatasi stres", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebiasaan mandi 2 kali sehari dan mengganti pakaian setiap hari merupakan penerapan dari?",
+      "explanation": "Mandi 2 kali sehari dan ganti pakaian setiap hari adalah penerapan praktik personal hygiene (kebersihan kulit dan pakaian).",
+      "difficulty": "EASY",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Penerapan personal hygiene", "isCorrect": true },
+        { "text": "B. Pengendalian kebisingan", "isCorrect": false },
+        { "text": "C. Pengendalian getaran", "isCorrect": false },
+        { "text": "D. Sanitasi air limbah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi minimal yang benar untuk mandi, mengganti pakaian, dan memotong kuku berturut-turut adalah?",
+      "explanation": "Mandi minimal 2 kali sehari, ganti pakaian minimal 1 kali sehari, dan potong kuku minimal 1 kali seminggu.",
+      "difficulty": "HARD",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Mandi 2x/hari, ganti pakaian 1x/hari, potong kuku 1x/minggu", "isCorrect": true },
+        { "text": "B. Mandi 1x/hari, ganti pakaian 1x/minggu, potong kuku 1x/bulan", "isCorrect": false },
+        { "text": "C. Mandi 3x/minggu, ganti pakaian 2x/hari, potong kuku 1x/hari", "isCorrect": false },
+        { "text": "D. Mandi 1x/minggu, ganti pakaian 1x/bulan, potong kuku 1x/tahun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengetahuan dan sikap yang baik terhadap kesehatan akan mendukung perilaku personal hygiene. Ini menunjukkan peran faktor?",
+      "explanation": "Pengetahuan dan sikap termasuk faktor predisposisi yang mendukung atau menghambat perilaku perawatan diri.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Predisposisi", "isCorrect": true },
+        { "text": "B. Presipitasi", "isCorrect": false },
+        { "text": "C. Lingkungan fisik", "isCorrect": false },
+        { "text": "D. Genetik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hidung yang tersumbat dan banyak kotoran menandakan kebersihan hidung yang?",
+      "explanation": "Hidung bersih ditandai tidak ada kotoran dan tidak tersumbat; sebaliknya hidung tersumbat dan banyak kotoran menandakan kebersihan yang buruk.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Buruk", "isCorrect": true },
+        { "text": "B. Sangat baik", "isCorrect": false },
+        { "text": "C. Optimal", "isCorrect": false },
+        { "text": "D. Sempurna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gusi yang sehat menurut materi personal hygiene berwarna?",
+      "explanation": "Ciri kebersihan gigi dan mulut antara lain gusi berwarna merah (merah muda sehat), gigi putih tanpa plak, dan napas segar.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Merah (merah muda sehat)", "isCorrect": true },
+        { "text": "B. Putih pucat", "isCorrect": false },
+        { "text": "C. Kehitaman", "isCorrect": false },
+        { "text": "D. Kekuningan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengeringkan jari setelah perawatan kuku berhubungan dengan prinsip bahwa mikroorganisme tumbuh subur di lingkungan?",
+      "explanation": "Mikroorganisme cenderung tumbuh di lingkungan lembab/basah, sehingga jari harus dikeringkan menyeluruh.",
+      "difficulty": "HARD",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Lembap/basah", "isCorrect": true },
+        { "text": "B. Kering total", "isCorrect": false },
+        { "text": "C. Sangat panas", "isCorrect": false },
+        { "text": "D. Beku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang mahasiswa diminta membuat kampanye digital personal hygiene di media sosial. Output yang diharapkan berupa?",
+      "explanation": "Tugas kampanye digital personal hygiene menghasilkan konten Instagram/TikTok yang edukatif.",
+      "difficulty": "EASY",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Konten Instagram/TikTok edukatif", "isCorrect": true },
+        { "text": "B. Laporan keuangan", "isCorrect": false },
+        { "text": "C. Resep masakan", "isCorrect": false },
+        { "text": "D. Denah ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah praktik personal hygiene yang BENAR terkait makanan?",
+      "explanation": "Mencuci tangan sebelum mengolah dan sebelum makan adalah praktik personal hygiene yang benar untuk mencegah kontaminasi makanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Cuci tangan sebelum mengolah dan sebelum makan", "isCorrect": true },
+        { "text": "B. Mengolah makanan tanpa cuci tangan", "isCorrect": false },
+        { "text": "C. Makan setelah memegang sampah tanpa cuci tangan", "isCorrect": false },
+        { "text": "D. Menangani daging mentah lalu langsung makan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi seseorang yang tidak mampu melakukan perawatan kebersihan untuk dirinya disebut sebagai kurang perawatan diri. Ini berkaitan dengan definisi menurut?",
+      "explanation": "Definisi kurang perawatan diri sebagai ketidakmampuan melakukan perawatan kebersihan dikemukakan Potter & Perry (2005).",
+      "difficulty": "HARD",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Potter & Perry (2005)", "isCorrect": true },
+        { "text": "B. Tarwoto & Wartonah (2010)", "isCorrect": false },
+        { "text": "C. WHO (2000)", "isCorrect": false },
+        { "text": "D. Kemenkes (2016)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN termasuk faktor predisposisi penyebab kurang perawatan diri adalah?",
+      "explanation": "Faktor predisposisi meliputi pengetahuan, sikap, tradisi, kepercayaan, nilai, pendidikan, dan sosial ekonomi; faktor risiko pengelolaan stres adalah presipitasi.",
+      "difficulty": "HARD",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Tingkat pengetahuan", "isCorrect": false },
+        { "text": "B. Faktor risiko pengelolaan stres", "isCorrect": true },
+        { "text": "C. Tradisi dan kepercayaan", "isCorrect": false },
+        { "text": "D. Tingkat sosial ekonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan urutan logis personal hygiene harian yang baik?",
+      "explanation": "Praktik harian: mandi 2x sehari dengan sabun, mengganti pakaian setiap hari, dan mencuci tangan pada momen-momen penting seperti sebelum makan dan setelah dari toilet.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Mandi 2x dengan sabun, ganti pakaian, cuci tangan sebelum makan dan setelah toilet", "isCorrect": true },
+        { "text": "B. Mandi seminggu sekali tanpa sabun", "isCorrect": false },
+        { "text": "C. Tidak mengganti pakaian dan tidak cuci tangan", "isCorrect": false },
+        { "text": "D. Hanya memotong kuku tanpa mandi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Telinga yang bersih dapat dijaga dengan memastikan bagian mana tidak terdapat kotoran?",
+      "explanation": "Telinga bersih bila daun dan lubang telinga tidak terdapat kotoran.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Daun dan lubang telinga", "isCorrect": true },
+        { "text": "B. Gendang telinga saja", "isCorrect": false },
+        { "text": "C. Belakang leher", "isCorrect": false },
+        { "text": "D. Rambut di telinga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Personal hygiene merupakan kebutuhan dasar manusia. Pernyataan ini paling sesuai dengan definisi menurut?",
+      "explanation": "Depkes (2000) menyatakan perawatan diri merupakan kemampuan/kebutuhan dasar manusia untuk mempertahankan kehidupan, kesehatan, dan kesejahteraannya.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Depkes (2000)", "isCorrect": true },
+        { "text": "B. Tarwoto & Wartonah (2010)", "isCorrect": false },
+        { "text": "C. Potter & Perry (2005)", "isCorrect": false },
+        { "text": "D. WHO (2005)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mencuci tangan dengan benar sebaiknya menggunakan?",
+      "explanation": "Mencuci tangan yang benar menggunakan sabun dan air bersih untuk mengangkat kuman, sejalan dengan prinsip kebersihan kulit (mandi pakai sabun dan air bersih).",
+      "difficulty": "EASY",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Sabun dan air bersih", "isCorrect": true },
+        { "text": "B. Air keruh saja", "isCorrect": false },
+        { "text": "C. Minyak goreng", "isCorrect": false },
+        { "text": "D. Pasir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang anak sering diare karena tidak mencuci tangan sebelum makan. Ini contoh kaitan antara?",
+      "explanation": "Diare akibat tidak cuci tangan menunjukkan kaitan antara kebersihan tangan (personal hygiene) dengan dampak fisik berupa penyakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Kebersihan tangan yang buruk dengan dampak fisik (penyakit)", "isCorrect": true },
+        { "text": "B. Kebersihan rambut dengan percaya diri", "isCorrect": false },
+        { "text": "C. Kebersihan pakaian dengan keindahan", "isCorrect": false },
+        { "text": "D. Faktor presipitasi dengan keindahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari memelihara kebersihan diri secara konsisten adalah?",
+      "explanation": "Tujuan personal hygiene secara keseluruhan adalah meningkatkan derajat kesehatan, mencegah penyakit, dan meningkatkan kualitas hidup serta percaya diri.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Meningkatkan derajat kesehatan dan mencegah penyakit", "isCorrect": true },
+        { "text": "B. Menambah jumlah bakteri di tubuh", "isCorrect": false },
+        { "text": "C. Memperburuk interaksi sosial", "isCorrect": false },
+        { "text": "D. Menurunkan rasa percaya diri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Personal hygiene yang tidak baik dapat menyebabkan keracunan makanan terutama bila buruk pada bagian?",
+      "explanation": "Kebersihan tangan yang buruk pada penjamah makanan dapat memindahkan kuman ke makanan dan menyebabkan keracunan makanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Kebersihan tangan", "isCorrect": true },
+        { "text": "B. Kebersihan mata", "isCorrect": false },
+        { "text": "C. Kebersihan telinga", "isCorrect": false },
+        { "text": "D. Kebersihan rambut saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebersihan kuku tangan dan kaki termasuk salah satu jenis personal hygiene yang ditandai dengan kuku?",
+      "explanation": "Kebersihan kuku ditandai dengan kuku pendek, bersih, dan berwarna merah muda cerah.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Pendek, bersih, merah muda cerah", "isCorrect": true },
+        { "text": "B. Panjang dan menghitam", "isCorrect": false },
+        { "text": "C. Rapuh dan kuning", "isCorrect": false },
+        { "text": "D. Tebal dan berjamur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah kebenaran tentang faktor presipitasi, yaitu?",
+      "explanation": "Faktor presipitasi adalah faktor risiko yang mempengaruhi jenis dan jumlah sumber yang dapat digunakan individu untuk mengatasi stres.",
+      "difficulty": "HARD",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Faktor risiko yang mempengaruhi sumber untuk mengatasi stres", "isCorrect": true },
+        { "text": "B. Faktor pengetahuan dan pendidikan", "isCorrect": false },
+        { "text": "C. Faktor tradisi dan kepercayaan", "isCorrect": false },
+        { "text": "D. Faktor sosial ekonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat memotong kuku, penggunaan gunting kuku yang tepat adalah memotong dengan arah?",
+      "explanation": "Kuku dipotong lurus menggunakan gunting kuku, tidak terlalu dekat dengan ujung kulit, lalu dirapikan dengan pengikir.",
+      "difficulty": "MEDIUM",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Lurus", "isCorrect": true },
+        { "text": "B. Melengkung sangat dalam", "isCorrect": false },
+        { "text": "C. Zig-zag", "isCorrect": false },
+        { "text": "D. Diagonal tajam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah momen cuci tangan yang berkaitan dengan menjaga diri setelah aktivitas yang menghasilkan droplet?",
+      "explanation": "Mencuci tangan setelah batuk atau bersin penting karena droplet membawa kuman; ini salah satu momen cuci tangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Setelah batuk atau bersin", "isCorrect": true },
+        { "text": "B. Sebelum tidur saja", "isCorrect": false },
+        { "text": "C. Saat bangun pagi saja", "isCorrect": false },
+        { "text": "D. Saat menonton TV", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebersihan kulit dan badan harus dijaga, salah satunya dengan mandi paling sedikit 2 kali sehari menggunakan?",
+      "explanation": "Kebersihan kulit dijaga dengan mandi paling sedikit 2 kali sehari memakai sabun dan air bersih serta menggosok bagian rawan.",
+      "difficulty": "EASY",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Sabun dan air bersih", "isCorrect": true },
+        { "text": "B. Air keruh", "isCorrect": false },
+        { "text": "C. Hanya air tanpa sabun", "isCorrect": false },
+        { "text": "D. Minyak wangi saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mana yang merupakan contoh dampak fisik DAN psikososial secara bersamaan dari personal hygiene buruk?",
+      "explanation": "Personal hygiene buruk dapat menimbulkan penyakit fisik (mis. infeksi kulit) sekaligus gangguan psikososial (mis. malu/dijauhi), menunjukkan kedua dampak.",
+      "difficulty": "HARD",
+      "tag": "Dampak Buruk",
+      "options": [
+        { "text": "A. Infeksi kulit (fisik) yang membuat seseorang malu dan dijauhi (psikososial)", "isCorrect": true },
+        { "text": "B. Hanya rasa percaya diri meningkat", "isCorrect": false },
+        { "text": "C. Hanya keindahan penampilan", "isCorrect": false },
+        { "text": "D. Hanya peningkatan derajat kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengganti pakaian setiap hari dan mencuci pakaian kotor termasuk dalam jenis kebersihan?",
+      "explanation": "Mengganti pakaian minimal 1 kali sehari dan mencuci pakaian kotor termasuk kebersihan berpakaian.",
+      "difficulty": "EASY",
+      "tag": "Jenis-jenis Personal Hygiene",
+      "options": [
+        { "text": "A. Kebersihan berpakaian", "isCorrect": true },
+        { "text": "B. Kebersihan kuku", "isCorrect": false },
+        { "text": "C. Kebersihan rambut", "isCorrect": false },
+        { "text": "D. Kebersihan mata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengertian personal hygiene secara istilah lebih luas dari secara bahasa karena mencakup?",
+      "explanation": "Secara bahasa berarti kebersihan perorangan, sedangkan secara istilah mencakup perawatan diri untuk kesehatan fisik maupun psikologis.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Pengertian",
+      "options": [
+        { "text": "A. Perawatan diri untuk kesehatan fisik dan psikologis", "isCorrect": true },
+        { "text": "B. Hanya membersihkan kulit", "isCorrect": false },
+        { "text": "C. Hanya soal pakaian", "isCorrect": false },
+        { "text": "D. Hanya kebersihan lingkungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang BENAR tentang frekuensi perawatan kuku dan lama perendaman?",
+      "explanation": "Kuku dipotong minimal 1 kali seminggu dan sebelum dipotong jari direndam dalam air hangat sekitar 2 menit.",
+      "difficulty": "HARD",
+      "tag": "Perawatan Kuku",
+      "options": [
+        { "text": "A. Potong minimal 1x/minggu, rendam air hangat ±2 menit", "isCorrect": true },
+        { "text": "B. Potong 1x/hari, rendam 30 menit", "isCorrect": false },
+        { "text": "C. Potong 1x/tahun, rendam 1 jam", "isCorrect": false },
+        { "text": "D. Potong 3x/hari, tanpa direndam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seseorang yang memiliki pengetahuan rendah tentang kebersihan dan menganut tradisi yang mengabaikan kebersihan berisiko kurang perawatan diri. Hal ini dipengaruhi oleh faktor?",
+      "explanation": "Pengetahuan rendah dan tradisi yang mengabaikan kebersihan termasuk faktor predisposisi penyebab kurang perawatan diri.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Penyebab",
+      "options": [
+        { "text": "A. Predisposisi", "isCorrect": true },
+        { "text": "B. Presipitasi", "isCorrect": false },
+        { "text": "C. Mekanik", "isCorrect": false },
+        { "text": "D. Kimiawi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa alasan utama tidak menggunakan handuk atau pakaian secara bergantian dengan orang lain dalam personal hygiene?",
+      "explanation": "Menggunakan barang pribadi sendiri (tidak bergantian) mencegah penularan penyakit kulit dan kuman antar individu.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Mencegah penularan penyakit kulit dan kuman", "isCorrect": true },
+        { "text": "B. Agar handuk tetap baru", "isCorrect": false },
+        { "text": "C. Supaya lebih hemat", "isCorrect": false },
+        { "text": "D. Agar tidak basah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk ciri kebersihan kulit yang sehat menurut materi?",
+      "explanation": "Kulit sehat halus, lembut, bersih tanpa kotoran, tidak ada panu/gatal/ruam/memar, dan tubuh tidak bau keringat.",
+      "difficulty": "MEDIUM",
+      "tag": "Mandi & Kebersihan Kulit",
+      "options": [
+        { "text": "A. Halus, lembut, dan tidak ada panu atau ruam", "isCorrect": true },
+        { "text": "B. Banyak ruam dan gatal", "isCorrect": false },
+        { "text": "C. Berbau keringat", "isCorrect": false },
+        { "text": "D. Penuh memar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah praktik berikut yang TIDAK sesuai dengan prinsip personal hygiene yang baik?",
+      "explanation": "Makan tanpa mencuci tangan setelah dari toilet bertentangan dengan prinsip personal hygiene karena menularkan kuman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebersihan Tangan & Cuci Tangan",
+      "options": [
+        { "text": "A. Mandi 2 kali sehari dengan sabun", "isCorrect": false },
+        { "text": "B. Memotong kuku seminggu sekali", "isCorrect": false },
+        { "text": "C. Makan tanpa cuci tangan setelah dari toilet", "isCorrect": true },
+        { "text": "D. Mengganti pakaian setiap hari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Personal hygiene merupakan bagian penting dari higiene sanitasi karena berperan langsung dalam?",
+      "explanation": "Personal hygiene berperan langsung mencegah penyakit dan menjaga kesehatan individu, bagian penting dari higiene sanitasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan",
+      "options": [
+        { "text": "A. Mencegah penyakit dan menjaga kesehatan individu", "isCorrect": true },
+        { "text": "B. Mengukur tingkat kebisingan", "isCorrect": false },
+        { "text": "C. Menilai pencahayaan ruang", "isCorrect": false },
+        { "text": "D. Mengatur suhu mesin", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Personal Hygiene (asal kata)", "back": "Dari bahasa Yunani: personal = perorangan, hygiene = sehat. Artinya kebersihan diri/perorangan.", "tag": "Definisi & Pengertian" },
+    { "front": "Definisi Personal Hygiene", "back": "Tindakan merawat/membersihkan seluruh anggota tubuh untuk memelihara kesehatan fisik maupun psikis seseorang.", "tag": "Definisi & Pengertian" },
+    { "front": "Tarwoto & Wartonah (2010)", "back": "Kebersihan perorangan adalah tindakan memelihara kebersihan dan kesehatan untuk kesejahteraan fisik dan psikis.", "tag": "Definisi & Pengertian" },
+    { "front": "Potter & Perry (2005)", "back": "Personal hygiene = tindakan memelihara kebersihan dan kesehatan; kurang perawatan diri = tidak mampu merawat kebersihan diri sendiri.", "tag": "Definisi & Pengertian" },
+    { "front": "Depkes (2000)", "back": "Perawatan diri adalah kemampuan dasar manusia memenuhi kebutuhan untuk mempertahankan kehidupan, kesehatan, dan kesejahteraan.", "tag": "Definisi & Pengertian" },
+    { "front": "Faktor Predisposisi", "back": "Faktor latar belakang: pengetahuan, sikap, tradisi, kepercayaan, sistem nilai, tingkat pendidikan, dan sosial ekonomi.", "tag": "Faktor Penyebab" },
+    { "front": "Faktor Presipitasi", "back": "Faktor risiko yang mempengaruhi jenis dan jumlah sumber yang dapat digunakan individu untuk mengatasi stres.", "tag": "Faktor Penyebab" },
+    { "front": "Tujuan Personal Hygiene", "back": "Meningkatkan derajat kesehatan, memelihara kebersihan diri, mencegah penyakit, meningkatkan percaya diri, dan menciptakan keindahan.", "tag": "Tujuan" },
+    { "front": "Jenis-jenis Personal Hygiene", "back": "Kebersihan: kulit kepala & rambut, mata, hidung, telinga, gigi & mulut, kuku tangan & kaki, kulit, dan pakaian.", "tag": "Jenis-jenis Personal Hygiene" },
+    { "front": "Ciri Gigi & Mulut Bersih", "back": "Gigi putih tanpa plak, tidak sariawan, napas segar, lidah merah muda terang, bibir lembab, gusi merah, tidak ada gigi berlubang.", "tag": "Jenis-jenis Personal Hygiene" },
+    { "front": "Ciri Kuku Bersih", "back": "Kuku pendek, bersih, dan berwarna merah muda cerah.", "tag": "Jenis-jenis Personal Hygiene" },
+    { "front": "Jumlah Bakteri di Tangan", "back": "Tangan manusia bisa membawa ribuan hingga jutaan bakteri.", "tag": "Kebersihan Tangan & Cuci Tangan" },
+    { "front": "Momen Cuci Tangan", "back": "Sebelum makan, sebelum mengolah makanan, setelah dari toilet, setelah memegang uang/sampah, setelah batuk/bersin, setelah menangani produk mentah.", "tag": "Kebersihan Tangan & Cuci Tangan" },
+    { "front": "Frekuensi Potong Kuku", "back": "Minimal 1 kali seminggu atau saat kuku terlihat panjang.", "tag": "Perawatan Kuku" },
+    { "front": "Rendam Kuku Sebelum Dipotong", "back": "Rendam jari dalam air hangat ± 2 menit untuk melunakkan kuku dan kutikula; potong lurus, rapikan dengan pengikir, lalu keringkan menyeluruh.", "tag": "Perawatan Kuku" },
+    { "front": "Mengapa Jari Dikeringkan", "back": "Keadaan lembab/basah cenderung menarik dan menyebabkan pertumbuhan mikroorganisme.", "tag": "Perawatan Kuku" },
+    { "front": "Frekuensi Mandi", "back": "Paling sedikit 2 kali sehari dengan sabun dan air bersih.", "tag": "Mandi & Kebersihan Kulit" },
+    { "front": "Bagian yang Digosok Saat Mandi", "back": "Terutama wajah, ketiak, lipatan kulit, dan area perineum.", "tag": "Mandi & Kebersihan Kulit" },
+    { "front": "Barang Pribadi", "back": "Gunakan barang keperluan sehari-hari milik sendiri; jangan tukar-menukar pakaian/barang dengan orang lain untuk cegah penularan.", "tag": "Mandi & Kebersihan Kulit" },
+    { "front": "Dampak Fisik vs Psikososial", "back": "Fisik: gangguan kesehatan, keracunan makanan, diare, tifus, infeksi kulit. Psikososial: gangguan rasa nyaman, harga diri, dan interaksi sosial.", "tag": "Dampak Buruk" },
+    { "front": "Sumber Penyakit", "back": "Penyakit (diare, tifus, infeksi kulit) seringkali berasal dari personal hygiene yang buruk; sumber bisa dari diri sendiri, bukan selalu dari luar.", "tag": "Dampak Buruk" }
+  ],
+  "mindmap": [
+    { "id": "root", "label": "Personal Hygiene", "color": "#6366f1", "parent": null, "content": "Kebersihan perorangan: tindakan merawat dan membersihkan seluruh anggota tubuh untuk memelihara kesehatan fisik maupun psikis. Bagian penting dari higiene sanitasi." },
+
+    { "id": "definisi", "label": "Definisi & Pengertian", "color": "#8b5cf6", "parent": "root", "content": "Asal kata, makna, dan definisi menurut para ahli." },
+    { "id": "def-bahasa", "label": "Asal Kata (Yunani)", "color": "#8b5cf6", "parent": "definisi", "content": "Dari bahasa Yunani: personal = perorangan, hygiene = sehat. Secara bahasa berarti kebersihan diri/perorangan." },
+    { "id": "def-istilah", "label": "Makna Istilah", "color": "#8b5cf6", "parent": "definisi", "content": "Perawatan diri untuk menjaga kesehatan baik secara fisik maupun psikologis (psikis)." },
+    { "id": "def-tarwoto", "label": "Tarwoto & Wartonah (2010)", "color": "#8b5cf6", "parent": "definisi", "content": "Kebersihan perorangan adalah tindakan memelihara kebersihan dan kesehatan untuk kesejahteraan fisik dan psikis." },
+    { "id": "def-potter", "label": "Potter & Perry (2005)", "color": "#8b5cf6", "parent": "definisi", "content": "Personal hygiene memelihara kebersihan dan kesehatan; kurang perawatan diri adalah kondisi tidak mampu merawat kebersihan diri sendiri." },
+    { "id": "def-depkes", "label": "Depkes (2000)", "color": "#8b5cf6", "parent": "definisi", "content": "Perawatan diri adalah kemampuan dasar manusia memenuhi kebutuhan untuk mempertahankan kehidupan, kesehatan, dan kesejahteraan." },
+
+    { "id": "faktor", "label": "Faktor Penyebab", "color": "#0ea5e9", "parent": "root", "content": "Penyebab kurang perawatan diri dibedakan menjadi faktor predisposisi dan presipitasi." },
+    { "id": "fak-predis", "label": "Faktor Predisposisi", "color": "#0ea5e9", "parent": "faktor", "content": "Faktor latar belakang: pengetahuan, sikap, tradisi, kepercayaan, sistem nilai, tingkat pendidikan, dan tingkat sosial ekonomi terhadap kesehatan." },
+    { "id": "fak-presip", "label": "Faktor Presipitasi", "color": "#0ea5e9", "parent": "faktor", "content": "Faktor risiko yang mempengaruhi jenis dan jumlah sumber yang dapat digunakan individu untuk mengatasi stres." },
+
+    { "id": "tujuan", "label": "Tujuan", "color": "#10b981", "parent": "root", "content": "Manfaat menjaga kebersihan diri secara konsisten." },
+    { "id": "tuj-sehat", "label": "Tingkatkan Kesehatan", "color": "#10b981", "parent": "tujuan", "content": "Meningkatkan derajat kesehatan dan memelihara serta memperbaiki personal hygiene." },
+    { "id": "tuj-cegah", "label": "Cegah Penyakit", "color": "#10b981", "parent": "tujuan", "content": "Pencegahan penyakit dengan menjaga tubuh tetap bersih dan bebas kuman." },
+    { "id": "tuj-pd", "label": "Percaya Diri", "color": "#10b981", "parent": "tujuan", "content": "Meningkatkan rasa percaya diri melalui penampilan yang bersih dan rapi." },
+    { "id": "tuj-indah", "label": "Keindahan", "color": "#10b981", "parent": "tujuan", "content": "Menciptakan keindahan dan penampilan diri yang baik." },
+
+    { "id": "jenis", "label": "Jenis-jenis", "color": "#f59e0b", "parent": "root", "content": "Bagian-bagian tubuh yang perlu dijaga kebersihannya, masing-masing dengan ciri bersihnya." },
+    { "id": "jns-rambut", "label": "Kulit Kepala & Rambut", "color": "#f59e0b", "parent": "jenis", "content": "Rambut bersih dan berkilau, tidak berketombe, tidak berkutu, dan tidak bau." },
+    { "id": "jns-mata", "label": "Mata", "color": "#f59e0b", "parent": "jenis", "content": "Mata jernih dan terang serta bersih tanpa kotoran." },
+    { "id": "jns-hidung", "label": "Hidung", "color": "#f59e0b", "parent": "jenis", "content": "Hidung bersih tanpa kotoran dan tidak tersumbat." },
+    { "id": "jns-telinga", "label": "Telinga", "color": "#f59e0b", "parent": "jenis", "content": "Daun dan lubang telinga bersih tanpa kotoran." },
+    { "id": "jns-gigi", "label": "Gigi & Mulut", "color": "#f59e0b", "parent": "jenis", "content": "Gigi putih tanpa plak, tidak sariawan, napas segar, lidah merah muda terang, bibir lembab, gusi merah, tidak ada gigi berlubang." },
+    { "id": "jns-kuku", "label": "Kuku Tangan & Kaki", "color": "#f59e0b", "parent": "jenis", "content": "Kuku pendek, bersih, dan berwarna merah muda cerah." },
+    { "id": "jns-kulit", "label": "Kulit", "color": "#f59e0b", "parent": "jenis", "content": "Kulit halus, lembut, bersih, tanpa panu/gatal/ruam/memar, dan tubuh tidak bau keringat." },
+    { "id": "jns-pakaian", "label": "Pakaian", "color": "#f59e0b", "parent": "jenis", "content": "Pakaian rapi, bersih, tidak bau; ganti minimal 1 kali sehari dan cuci pakaian kotor dengan air bersih dan sabun." },
+
+    { "id": "tangan", "label": "Tangan & Cuci Tangan", "color": "#ef4444", "parent": "root", "content": "Tangan manusia bisa membawa ribuan hingga jutaan bakteri sehingga cuci tangan sangat penting." },
+    { "id": "tgn-bakteri", "label": "Tangan Bawa Bakteri", "color": "#ef4444", "parent": "tangan", "content": "Tangan kotor merupakan sumber mikroorganisme patogen (kuman penyebab penyakit)." },
+    { "id": "tgn-makan", "label": "Momen Terkait Makanan", "color": "#ef4444", "parent": "tangan", "content": "Cuci tangan sebelum makan dan sebelum mengolah makanan untuk cegah kontaminasi." },
+    { "id": "tgn-toilet", "label": "Setelah Toilet", "color": "#ef4444", "parent": "tangan", "content": "Cuci tangan setelah dari toilet untuk menghilangkan kuman." },
+    { "id": "tgn-kotor", "label": "Setelah Pegang Benda Kotor", "color": "#ef4444", "parent": "tangan", "content": "Cuci tangan setelah memegang uang, sampah, dan setelah menangani produk mentah." },
+    { "id": "tgn-batuk", "label": "Setelah Batuk/Bersin", "color": "#ef4444", "parent": "tangan", "content": "Cuci tangan setelah batuk atau bersin karena droplet membawa banyak kuman." },
+
+    { "id": "kuku", "label": "Perawatan Kuku", "color": "#ec4899", "parent": "root", "content": "Merawat kuku agar tidak panjang dan kotor; potong minimal 1 kali seminggu atau saat terlihat panjang." },
+    { "id": "kuku-rendam", "label": "Rendam Air Hangat", "color": "#ec4899", "parent": "kuku", "content": "Rendam jari kaki dan tangan dalam air hangat ± 2 menit untuk melunakkan kuku dan kutikula; bila kotor gosok dengan sabun lembut dan sikat lembut." },
+    { "id": "kuku-potong", "label": "Potong Lurus", "color": "#ec4899", "parent": "kuku", "content": "Potong kuku lurus sejajar puncak jari dengan gunting kuku; jangan terlalu dekat ujung kulit; rapikan dengan papan pengikir." },
+    { "id": "kuku-kering", "label": "Keringkan Menyeluruh", "color": "#ec4899", "parent": "kuku", "content": "Keringkan jari tangan dan kaki menyeluruh karena keadaan lembab/basah memicu pertumbuhan mikroorganisme." },
+
+    { "id": "mandi", "label": "Mandi & Kebersihan Kulit", "color": "#14b8a6", "parent": "root", "content": "Menjaga kulit tetap bersih dan utuh untuk menghilangkan kotoran, minyak berlebih, dan bakteri berbahaya." },
+    { "id": "mandi-frek", "label": "Mandi 2x Sehari", "color": "#14b8a6", "parent": "mandi", "content": "Mandi paling sedikit 2 kali sehari menggunakan sabun dan air bersih." },
+    { "id": "mandi-gosok", "label": "Gosok Area Rawan", "color": "#14b8a6", "parent": "mandi", "content": "Gosok seluruh tubuh terutama wajah, ketiak, lipatan kulit, dan area perineum." },
+    { "id": "mandi-pribadi", "label": "Barang Pribadi Sendiri", "color": "#14b8a6", "parent": "mandi", "content": "Gunakan barang keperluan sehari-hari milik sendiri; jangan tukar-menukar pakaian dengan orang lain." },
+
+    { "id": "dampak", "label": "Dampak Buruk", "color": "#8b5cf6", "parent": "root", "content": "Akibat personal hygiene yang buruk, dibedakan menjadi dampak fisik dan psikososial." },
+    { "id": "dmp-fisik", "label": "Dampak Fisik", "color": "#8b5cf6", "parent": "dampak", "content": "Gangguan kesehatan, keracunan makanan, diare, tifus, dan infeksi kulit akibat kebersihan diri yang tidak terpelihara." },
+    { "id": "dmp-psiko", "label": "Dampak Psikososial", "color": "#8b5cf6", "parent": "dampak", "content": "Gangguan rasa nyaman, kebutuhan dicintai/mencintai, harga diri, aktualisasi diri, dan interaksi sosial." },
+    { "id": "dmp-sumber", "label": "Sumber dari Diri Sendiri", "color": "#8b5cf6", "parent": "dampak", "content": "Sumber penyakit bukan selalu dari luar; bisa berasal dari diri sendiri lewat tangan kotor, rambut/kumis panjang, dan cairan tubuh." }
+  ]
+}

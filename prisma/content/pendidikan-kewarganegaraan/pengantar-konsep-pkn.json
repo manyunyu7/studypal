@@ -1,0 +1,1372 @@
+{
+  "topic": "Pengantar & Konsep PKn",
+  "order": 1,
+  "description": "Pendidikan Kewarganegaraan (PKn/Dikwar) adalah pembelajaran tentang segala hal ihwal yang berhubungan dengan warga negara dalam konteks menjadi warga negara Indonesia. Mata kuliah ini berlandaskan Pancasila dan UUD 1945 dengan tujuan membangun karakter (character building) bangsa serta memantapkan kepribadian mahasiswa sebagai manusia Indonesia seutuhnya.",
+  "subtopics": [
+    "Konsep Pendidikan",
+    "Konsep Kewarganegaraan & Warga Negara",
+    "PKn Etimologis & Westphalia",
+    "PKn di Negara Lain",
+    "Landasan Ideal & Dasar Hukum",
+    "Visi, Misi & Tujuan PKn",
+    "Sejarah Pembelajaran PKn",
+    "Empat Pilar Pendidikan UNESCO"
+  ],
+  "questions": [
+    {
+      "text": "Menurut UU No. 20 Tahun 2003 tentang Sisdiknas, pendidikan didefinisikan sebagai?",
+      "explanation": "UU No. 20 Tahun 2003 Pasal 1 mendefinisikan pendidikan sebagai usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran.",
+      "difficulty": "EASY",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Kegiatan menghafal materi pelajaran di sekolah", "isCorrect": false },
+        { "text": "B. Usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran", "isCorrect": true },
+        { "text": "C. Proses transfer ilmu dari guru ke murid", "isCorrect": false },
+        { "text": "D. Pelatihan keterampilan kerja semata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Undang-undang yang menjadi dasar definisi pendidikan dalam materi PKn adalah?",
+      "explanation": "Definisi pendidikan mengacu pada UU No. 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Sisdiknas) Pasal 1.",
+      "difficulty": "EASY",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. UU No. 12 Tahun 2006", "isCorrect": false },
+        { "text": "B. UU No. 20 Tahun 2003", "isCorrect": true },
+        { "text": "C. UU No. 3 Tahun 2002", "isCorrect": false },
+        { "text": "D. UU No. 12 Tahun 2012", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nama lengkap dari UU No. 20 Tahun 2003 adalah Undang-Undang tentang?",
+      "explanation": "UU No. 20 Tahun 2003 adalah Undang-Undang tentang Sistem Pendidikan Nasional (Sisdiknas).",
+      "difficulty": "EASY",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Sistem Pendidikan Nasional (Sisdiknas)", "isCorrect": true },
+        { "text": "B. Pertahanan Negara", "isCorrect": false },
+        { "text": "C. Pendidikan Tinggi", "isCorrect": false },
+        { "text": "D. Kewarganegaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut definisi pendidikan, peserta didik diharapkan secara aktif mengembangkan?",
+      "explanation": "Pendidikan bertujuan agar peserta didik secara aktif mengembangkan potensi dirinya untuk memiliki berbagai kekuatan spiritual, kepribadian, dan keterampilan.",
+      "difficulty": "EASY",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Kekayaan materi", "isCorrect": false },
+        { "text": "B. Potensi dirinya", "isCorrect": true },
+        { "text": "C. Jaringan pertemanan", "isCorrect": false },
+        { "text": "D. Kemampuan berbisnis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN merupakan potensi diri yang dikembangkan menurut definisi pendidikan UU Sisdiknas adalah?",
+      "explanation": "Potensi diri yang dikembangkan meliputi kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, dan keterampilan; bukan kekayaan harta.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Kekuatan spiritual keagamaan", "isCorrect": false },
+        { "text": "B. Akhlak mulia", "isCorrect": false },
+        { "text": "C. Kekayaan harta benda", "isCorrect": true },
+        { "text": "D. Pengendalian diri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Potensi diri yang dikembangkan melalui pendidikan ditujukan untuk keperluan?",
+      "explanation": "Potensi diri dikembangkan untuk keperluan yang diperlukan dirinya, masyarakat, bangsa, dan negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Hanya untuk diri sendiri", "isCorrect": false },
+        { "text": "B. Dirinya, masyarakat, bangsa, dan negara", "isCorrect": true },
+        { "text": "C. Hanya untuk keluarga", "isCorrect": false },
+        { "text": "D. Hanya untuk dunia kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Djaelani dkk (2014), fungsi pendidikan adalah dalam pengembangan?",
+      "explanation": "Menurut Djaelani dkk (2014: 31), fungsi pendidikan adalah dalam pengembangan pribadi, warga negara, kebudayaan, dan bangsa.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Pribadi, warga negara, kebudayaan, dan bangsa", "isCorrect": true },
+        { "text": "B. Ekonomi dan teknologi saja", "isCorrect": false },
+        { "text": "C. Politik dan hukum saja", "isCorrect": false },
+        { "text": "D. Agama dan budaya asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembelajaran dalam pendidikan ditujukan untuk mengembangkan tiga aspek, yaitu?",
+      "explanation": "Pembelajaran dikembangkan untuk knowledge (pengetahuan), attitude (sikap), dan skill (keterampilan).",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Knowledge, attitude, dan skill", "isCorrect": true },
+        { "text": "B. Membaca, menulis, dan berhitung", "isCorrect": false },
+        { "text": "C. Fisik, mental, dan sosial", "isCorrect": false },
+        { "text": "D. Teori, praktik, dan ujian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"knowledge\" dalam pengembangan pembelajaran sejajar dengan ranah?",
+      "explanation": "Knowledge berkaitan dengan penguasaan pengetahuan, yang dalam taksonomi sejajar dengan ranah kognitif.",
+      "difficulty": "HARD",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Afektif", "isCorrect": false },
+        { "text": "B. Psikomotor", "isCorrect": false },
+        { "text": "C. Kognitif", "isCorrect": true },
+        { "text": "D. Spiritual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aspek \"attitude\" (sikap) dalam pembelajaran berkaitan dengan ranah?",
+      "explanation": "Attitude atau sikap berkaitan dengan ranah afektif.",
+      "difficulty": "HARD",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Kognitif", "isCorrect": false },
+        { "text": "B. Afektif", "isCorrect": true },
+        { "text": "C. Psikomotor", "isCorrect": false },
+        { "text": "D. Fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aspek \"skill\" (keterampilan kerja) dalam pembelajaran berkaitan dengan ranah?",
+      "explanation": "Skill atau keterampilan kerja berkaitan dengan ranah psikomotor.",
+      "difficulty": "HARD",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Kognitif", "isCorrect": false },
+        { "text": "B. Afektif", "isCorrect": false },
+        { "text": "C. Psikomotor", "isCorrect": true },
+        { "text": "D. Emosional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain hard skills, jenis keterampilan yang juga dikembangkan dalam pendidikan adalah?",
+      "explanation": "Pendidikan mengembangkan hard skills dan soft skills secara seimbang.",
+      "difficulty": "EASY",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Soft skills", "isCorrect": true },
+        { "text": "B. Hardware skills", "isCorrect": false },
+        { "text": "C. Money skills", "isCorrect": false },
+        { "text": "D. Game skills", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan PKn dalam materi ini secara umum diartikan sebagai?",
+      "explanation": "PKn merupakan singkatan dari Pendidikan Kewarganegaraan, dikenal juga sebagai Dikwar.",
+      "difficulty": "EASY",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Pendidikan Kewarganegaraan", "isCorrect": true },
+        { "text": "B. Pelatihan Kerja Nasional", "isCorrect": false },
+        { "text": "C. Pendidikan Karakter Negara", "isCorrect": false },
+        { "text": "D. Pancasila Kewargaan Negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara sederhana, PKn/Dikwar dimaknai sebagai belajar hal-hal yang berhubungan dengan?",
+      "explanation": "PKn/Dikwar berarti belajar hal-hal yang berhubungan dengan warga negara (warneg).",
+      "difficulty": "EASY",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Teknologi modern", "isCorrect": false },
+        { "text": "B. Warga negara", "isCorrect": true },
+        { "text": "C. Bahasa asing", "isCorrect": false },
+        { "text": "D. Ekonomi global", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU RI No. 12 Tahun 2006 Pasal 1 ayat 1, warga negara adalah?",
+      "explanation": "UU No. 12 Tahun 2006 Pasal 1 ayat 1 menyatakan warga negara adalah warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Setiap orang yang tinggal di suatu wilayah", "isCorrect": false },
+        { "text": "B. Warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan", "isCorrect": true },
+        { "text": "C. Orang asing yang bekerja di Indonesia", "isCorrect": false },
+        { "text": "D. Penduduk yang memiliki KTP", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU RI No. 12 Tahun 2006 Pasal 1 ayat 2, kewarganegaraan adalah?",
+      "explanation": "UU No. 12 Tahun 2006 Pasal 1 ayat 2 menyatakan kewarganegaraan adalah segala hal ihwal yang berhubungan dengan warga negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Segala hal ihwal yang berhubungan dengan warga negara", "isCorrect": true },
+        { "text": "B. Status kepemilikan tanah seseorang", "isCorrect": false },
+        { "text": "C. Hak memilih dalam pemilu saja", "isCorrect": false },
+        { "text": "D. Kewajiban membayar pajak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Undang-undang yang mengatur tentang Kewarganegaraan Republik Indonesia adalah?",
+      "explanation": "UU RI No. 12 Tahun 2006 mengatur tentang Kewarganegaraan Republik Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. UU No. 20 Tahun 2003", "isCorrect": false },
+        { "text": "B. UU No. 12 Tahun 2006", "isCorrect": true },
+        { "text": "C. UU No. 12 Tahun 2012", "isCorrect": false },
+        { "text": "D. UU No. 3 Tahun 2002", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU No. 12 Tahun 2006 Pasal 2, yang dimaksud Warga Negara Indonesia (WNI) adalah?",
+      "explanation": "Pasal 2 menyatakan WNI adalah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan UU sebagai warga negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Hanya orang bangsa Indonesia asli", "isCorrect": false },
+        { "text": "B. Orang bangsa Indonesia asli dan bangsa lain yang disahkan dengan UU sebagai warga negara", "isCorrect": true },
+        { "text": "C. Semua orang yang lahir di Indonesia", "isCorrect": false },
+        { "text": "D. Hanya keturunan pejabat negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam bahasa Inggris dan Prancis, istilah warga negara dikenal dengan?",
+      "explanation": "Konsep warga negara dikenal sebagai citizen (Inggris) dan citoyen (Prancis).",
+      "difficulty": "EASY",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Citizen; citoyen", "isCorrect": true },
+        { "text": "B. People; person", "isCorrect": false },
+        { "text": "C. Member; nation", "isCorrect": false },
+        { "text": "D. Society; community", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Warga negara dalam pengertian negara modern dapat berarti?",
+      "explanation": "Dalam pengertian negara modern, istilah warga negara dapat berarti warga atau anggota (member) dari sebuah negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Pemimpin negara", "isCorrect": false },
+        { "text": "B. Anggota (member) dari sebuah negara", "isCorrect": true },
+        { "text": "C. Tamu negara", "isCorrect": false },
+        { "text": "D. Pengusaha negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Warga negara adalah anggota dari sekelompok manusia yang tinggal di wilayah hukum tertentu yang memiliki?",
+      "explanation": "Warga negara adalah anggota sekelompok manusia di wilayah hukum tertentu yang memiliki hak dan kewajiban.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Hak dan kewajiban", "isCorrect": true },
+        { "text": "B. Kekuasaan mutlak", "isCorrect": false },
+        { "text": "C. Kekayaan pribadi", "isCorrect": false },
+        { "text": "D. Jabatan pemerintahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berbicara tentang warga negara biasanya terkait dengan masalah pemerintahan dan lembaga negara seperti?",
+      "explanation": "Pembahasan warga negara biasanya terkait lembaga negara seperti DPR, pengadilan, dan kepresidenan.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. DPR, pengadilan, dan kepresidenan", "isCorrect": true },
+        { "text": "B. Bank dan perusahaan swasta", "isCorrect": false },
+        { "text": "C. Pasar dan toko", "isCorrect": false },
+        { "text": "D. Sekolah dan rumah sakit saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara etimologis, PKn adalah pendidikan tentang segala hal ihwal yang berhubungan dengan warga negara dalam konteks?",
+      "explanation": "Secara etimologis PKn adalah pendidikan tentang hal ihwal warga negara dalam konteks menjadi warga negara suatu negara.",
+      "difficulty": "MEDIUM",
+      "tag": "PKn Etimologis & Westphalia",
+      "options": [
+        { "text": "A. Menjadi warga negara suatu negara", "isCorrect": true },
+        { "text": "B. Mencari pekerjaan", "isCorrect": false },
+        { "text": "C. Mengembangkan bisnis", "isCorrect": false },
+        { "text": "D. Berwisata ke luar negeri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, Dikwar (Pendidikan Kewarganegaraan) berarti belajar tentang?",
+      "explanation": "Dikwar berarti belajar tentang keindonesiaan.",
+      "difficulty": "EASY",
+      "tag": "PKn Etimologis & Westphalia",
+      "options": [
+        { "text": "A. Keindonesiaan", "isCorrect": true },
+        { "text": "B. Kebudayaan asing", "isCorrect": false },
+        { "text": "C. Teknologi militer", "isCorrect": false },
+        { "text": "D. Ekonomi pasar bebas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu makna PKn secara etimologis adalah belajar untuk menjadi manusia yang?",
+      "explanation": "PKn berarti belajar untuk menjadi manusia yang berkepribadian Indonesia.",
+      "difficulty": "EASY",
+      "tag": "PKn Etimologis & Westphalia",
+      "options": [
+        { "text": "A. Berkepribadian Indonesia", "isCorrect": true },
+        { "text": "B. Berorientasi global", "isCorrect": false },
+        { "text": "C. Mengejar kekayaan", "isCorrect": false },
+        { "text": "D. Bebas dari aturan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain membangun rasa kebangsaan, makna etimologis PKn juga mencakup?",
+      "explanation": "PKn juga bermakna membangun rasa kebangsaan dan mencintai tanah air.",
+      "difficulty": "EASY",
+      "tag": "PKn Etimologis & Westphalia",
+      "options": [
+        { "text": "A. Mencintai tanah air", "isCorrect": true },
+        { "text": "B. Mengejar jabatan", "isCorrect": false },
+        { "text": "C. Menguasai bahasa asing", "isCorrect": false },
+        { "text": "D. Berlomba kekayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep warga negara dalam arti negara modern (nation-state) dikenal sejak adanya?",
+      "explanation": "Konsep warga negara dalam arti negara modern/negara kebangsaan dikenal sejak Perjanjian Westphalia 1648 di Eropa.",
+      "difficulty": "MEDIUM",
+      "tag": "PKn Etimologis & Westphalia",
+      "options": [
+        { "text": "A. Revolusi Industri", "isCorrect": false },
+        { "text": "B. Perjanjian Westphalia 1648", "isCorrect": true },
+        { "text": "C. Revolusi Prancis 1789", "isCorrect": false },
+        { "text": "D. Perang Dunia I", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perjanjian Westphalia 1648 di Eropa merupakan kesepakatan untuk mengakhiri?",
+      "explanation": "Perjanjian Westphalia 1648 adalah kesepakatan untuk mengakhiri perang selama 30 tahun di Eropa.",
+      "difficulty": "MEDIUM",
+      "tag": "PKn Etimologis & Westphalia",
+      "options": [
+        { "text": "A. Perang selama 30 tahun di Eropa", "isCorrect": true },
+        { "text": "B. Perang Dunia II", "isCorrect": false },
+        { "text": "C. Perang Salib", "isCorrect": false },
+        { "text": "D. Perang Dingin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah lain yang merujuk pada negara modern hasil dari konsep Westphalia adalah?",
+      "explanation": "Negara modern disebut juga negara kebangsaan atau nation-state.",
+      "difficulty": "MEDIUM",
+      "tag": "PKn Etimologis & Westphalia",
+      "options": [
+        { "text": "A. City-state", "isCorrect": false },
+        { "text": "B. Negara kebangsaan (nation-state)", "isCorrect": true },
+        { "text": "C. Negara federal", "isCorrect": false },
+        { "text": "D. Negara serikat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perjanjian Westphalia terjadi pada tahun?",
+      "explanation": "Perjanjian Westphalia terjadi pada tahun 1648 di Eropa.",
+      "difficulty": "EASY",
+      "tag": "PKn Etimologis & Westphalia",
+      "options": [
+        { "text": "A. 1492", "isCorrect": false },
+        { "text": "B. 1648", "isCorrect": true },
+        { "text": "C. 1789", "isCorrect": false },
+        { "text": "D. 1945", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Amerika Serikat (USA), pembelajaran sejenis PKn dikenal dengan nama?",
+      "explanation": "Di USA, pembelajaran PKn dikenal sebagai Civics atau Civics Education.",
+      "difficulty": "EASY",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Civics / Civics Education", "isCorrect": true },
+        { "text": "B. Life Orientation", "isCorrect": false },
+        { "text": "C. Pendidikan Sivik", "isCorrect": false },
+        { "text": "D. Sachunterricht", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Malaysia, pembelajaran kewarganegaraan dikenal dengan nama?",
+      "explanation": "Di Malaysia, pembelajaran kewarganegaraan dikenal sebagai Pendidikan Sivik.",
+      "difficulty": "EASY",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Civics Education", "isCorrect": false },
+        { "text": "B. Pendidikan Sivik", "isCorrect": true },
+        { "text": "C. Life Orientation", "isCorrect": false },
+        { "text": "D. People and Society", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Afrika Selatan, pembelajaran sejenis PKn dikenal dengan nama?",
+      "explanation": "Di Afrika Selatan, pembelajaran kewarganegaraan dikenal sebagai Life Orientation.",
+      "difficulty": "MEDIUM",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Life Orientation", "isCorrect": true },
+        { "text": "B. People and Society", "isCorrect": false },
+        { "text": "C. Educacion Civicas", "isCorrect": false },
+        { "text": "D. Sachunterricht", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Singapura, pembelajaran kewarganegaraan dikenal dengan nama?",
+      "explanation": "Di Singapura, pembelajaran ini dikenal sebagai Civics and Moral Education.",
+      "difficulty": "MEDIUM",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Civics and Moral Education", "isCorrect": true },
+        { "text": "B. Pendidikan Sivik", "isCorrect": false },
+        { "text": "C. Citizenship Education", "isCorrect": false },
+        { "text": "D. Life Orientation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Inggris (UK), pembelajaran sejenis PKn dikenal dengan nama?",
+      "explanation": "Di UK, pembelajaran kewarganegaraan dikenal sebagai Citizenship Education.",
+      "difficulty": "MEDIUM",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Citizenship Education", "isCorrect": true },
+        { "text": "B. Civics Education", "isCorrect": false },
+        { "text": "C. Sachunterricht", "isCorrect": false },
+        { "text": "D. People and Society", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Jerman, pembelajaran sejenis PKn dikenal dengan istilah?",
+      "explanation": "Di Jerman, pembelajaran ini dikenal sebagai Sachunterricht.",
+      "difficulty": "HARD",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Sachunterricht", "isCorrect": true },
+        { "text": "B. Obscesvovedinie", "isCorrect": false },
+        { "text": "C. Educacion Civicas", "isCorrect": false },
+        { "text": "D. Citizenship Education", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Meksiko, pembelajaran kewarganegaraan dikenal dengan istilah?",
+      "explanation": "Di Meksiko, pembelajaran ini dikenal sebagai Educacion Civicas.",
+      "difficulty": "HARD",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Educacion Civicas", "isCorrect": true },
+        { "text": "B. People and Society", "isCorrect": false },
+        { "text": "C. Sachunterricht", "isCorrect": false },
+        { "text": "D. Life Orientation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Hongaria, pembelajaran sejenis PKn dikenal dengan istilah?",
+      "explanation": "Di Hongaria, pembelajaran kewarganegaraan dikenal sebagai People and Society.",
+      "difficulty": "HARD",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. People and Society", "isCorrect": true },
+        { "text": "B. Civics Education", "isCorrect": false },
+        { "text": "C. Pendidikan Sivik", "isCorrect": false },
+        { "text": "D. Obscesvovedinie", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Rusia, salah satu istilah untuk pembelajaran kewarganegaraan adalah?",
+      "explanation": "Di Rusia dikenal istilah Obscesvovedinie dan Grajdanskiy Obrazavanie untuk pembelajaran kewarganegaraan.",
+      "difficulty": "HARD",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Obscesvovedinie", "isCorrect": true },
+        { "text": "B. Fuqarolik Jamiyati", "isCorrect": false },
+        { "text": "C. Pendidikan Sivik", "isCorrect": false },
+        { "text": "D. Sachunterricht", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Australia, pembelajaran sejenis PKn dikenal dengan istilah?",
+      "explanation": "Di Australia, pembelajaran ini dikenal sebagai Civics atau Social Studies.",
+      "difficulty": "MEDIUM",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Civics / Social Studies", "isCorrect": true },
+        { "text": "B. Life Orientation", "isCorrect": false },
+        { "text": "C. Educacion Civicas", "isCorrect": false },
+        { "text": "D. Citizenship Education", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber data tentang nama-nama pembelajaran PKn di berbagai negara dalam materi ini berasal dari?",
+      "explanation": "Data pembelajaran PKn di negara lain bersumber dari Ditjen Belmawa (2016: 8).",
+      "difficulty": "HARD",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Ditjen Belmawa (2016)", "isCorrect": true },
+        { "text": "B. UNESCO (2010)", "isCorrect": false },
+        { "text": "C. Budiardjo (2017)", "isCorrect": false },
+        { "text": "D. Winarno (2014)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Adanya pembelajaran sejenis PKn di banyak negara menunjukkan bahwa pendidikan kewarganegaraan bersifat?",
+      "explanation": "Keberadaan pembelajaran kewarganegaraan di banyak negara menunjukkan bahwa pendidikan ini bersifat universal/penting bagi setiap negara.",
+      "difficulty": "MEDIUM",
+      "tag": "PKn di Negara Lain",
+      "options": [
+        { "text": "A. Hanya khas Indonesia", "isCorrect": false },
+        { "text": "B. Universal dan penting bagi setiap negara", "isCorrect": true },
+        { "text": "C. Tidak diperlukan", "isCorrect": false },
+        { "text": "D. Hanya untuk negara berkembang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Landasan ideal Pendidikan Kewarganegaraan adalah?",
+      "explanation": "Landasan ideal PKn adalah Pancasila.",
+      "difficulty": "EASY",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. UUD 1945", "isCorrect": false },
+        { "text": "B. Pancasila", "isCorrect": true },
+        { "text": "C. Bhinneka Tunggal Ika", "isCorrect": false },
+        { "text": "D. Sumpah Pemuda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pancasila sebagai dasar negara menjadikannya sebagai?",
+      "explanation": "Pancasila sebagai dasar negara menjadi sumber hukum positif di Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Sumber hukum positif di Indonesia", "isCorrect": true },
+        { "text": "B. Lambang negara", "isCorrect": false },
+        { "text": "C. Lagu kebangsaan", "isCorrect": false },
+        { "text": "D. Bahasa resmi negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pancasila sebagai pandangan hidup bangsa merupakan?",
+      "explanation": "Pancasila sebagai pandangan hidup bangsa merupakan kristalisasi nilai-nilai luhur bangsa Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Kristalisasi nilai-nilai luhur", "isCorrect": true },
+        { "text": "B. Aturan teknis pemerintahan", "isCorrect": false },
+        { "text": "C. Hasil adopsi budaya asing", "isCorrect": false },
+        { "text": "D. Kumpulan undang-undang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pancasila sebagai ideologi negara berfungsi memberikan?",
+      "explanation": "Pancasila sebagai ideologi negara menjadi kesatuan konsep dasar yang memberikan arah dan tujuan mencapai cita-cita bangsa dan negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Arah dan tujuan mencapai cita-cita bangsa dan negara", "isCorrect": true },
+        { "text": "B. Kekuasaan mutlak pemerintah", "isCorrect": false },
+        { "text": "C. Pembagian kekayaan negara", "isCorrect": false },
+        { "text": "D. Kebebasan tanpa batas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk kedudukan Pancasila dalam landasan ideal PKn, KECUALI?",
+      "explanation": "Kedudukan Pancasila meliputi dasar negara, pandangan hidup bangsa, dan ideologi negara; bukan sebagai undang-undang dasar.",
+      "difficulty": "HARD",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Dasar negara", "isCorrect": false },
+        { "text": "B. Pandangan hidup bangsa", "isCorrect": false },
+        { "text": "C. Undang-undang dasar tertulis", "isCorrect": true },
+        { "text": "D. Ideologi negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dasar hukum tertinggi yang melandasi Pendidikan Kewarganegaraan adalah?",
+      "explanation": "Dasar hukum PKn yang tertinggi adalah UUD Negara RI 1945.",
+      "difficulty": "EASY",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. UUD Negara RI 1945", "isCorrect": true },
+        { "text": "B. Tap MPR", "isCorrect": false },
+        { "text": "C. Peraturan Pemerintah", "isCorrect": false },
+        { "text": "D. Keputusan Presiden", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "UU RI No. 3 Tahun 2002 yang menjadi dasar hukum PKn mengatur tentang?",
+      "explanation": "UU RI No. 3 Tahun 2002 mengatur tentang Pertahanan Negara.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Pertahanan Negara", "isCorrect": true },
+        { "text": "B. Sistem Pendidikan Nasional", "isCorrect": false },
+        { "text": "C. Pendidikan Tinggi", "isCorrect": false },
+        { "text": "D. Kewarganegaraan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "UU RI No. 12 Tahun 2012 yang menjadi dasar hukum PKn mengatur tentang?",
+      "explanation": "UU RI No. 12 Tahun 2012 mengatur tentang Pendidikan Tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Pertahanan Negara", "isCorrect": false },
+        { "text": "B. Pendidikan Tinggi", "isCorrect": true },
+        { "text": "C. Kewarganegaraan", "isCorrect": false },
+        { "text": "D. Sistem Pendidikan Nasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "SK Dirjen Dikti No. 43 Tahun 2006 yang menjadi dasar hukum PKn mengatur tentang?",
+      "explanation": "SK Dirjen Dikti No. 43 Tahun 2006 mengatur tentang Rambu-rambu Pelaksanaan Kelompok Mata Kuliah Pengembangan Kepribadian di Perguruan Tinggi.",
+      "difficulty": "HARD",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Rambu-rambu Pelaksanaan Kelompok Mata Kuliah Pengembangan Kepribadian di Perguruan Tinggi", "isCorrect": true },
+        { "text": "B. Kurikulum nasional sekolah dasar", "isCorrect": false },
+        { "text": "C. Standar nilai ujian nasional", "isCorrect": false },
+        { "text": "D. Akreditasi perguruan tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk dasar hukum PKn di perguruan tinggi, KECUALI?",
+      "explanation": "Dasar hukum PKn meliputi UUD 1945, UU No. 3/2002, UU No. 20/2003, UU No. 12/2012, dan SK Dirjen Dikti No. 43/2006; bukan UU No. 13 Tahun 2003 tentang Ketenagakerjaan.",
+      "difficulty": "HARD",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. UUD Negara RI 1945", "isCorrect": false },
+        { "text": "B. UU No. 13 Tahun 2003 tentang Ketenagakerjaan", "isCorrect": true },
+        { "text": "C. UU No. 20 Tahun 2003 tentang Sisdiknas", "isCorrect": false },
+        { "text": "D. UU No. 12 Tahun 2012 tentang Pendidikan Tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dasar pemikiran yang melandasi dasar hukum PKn merupakan?",
+      "explanation": "Dasar pemikiran merupakan alasan atau rasionalitas pentingnya PKn.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Alasan atau rasionalitas pentingnya PKn", "isCorrect": true },
+        { "text": "B. Daftar sanksi hukum", "isCorrect": false },
+        { "text": "C. Anggaran biaya pendidikan", "isCorrect": false },
+        { "text": "D. Jadwal pelaksanaan kuliah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut dasar pemikiran PKn, warga negara harus menjadi bagian dari negara baik secara?",
+      "explanation": "Warga negara harus menjadi bagian dari negara, baik secara fisik maupun psikis.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Fisik maupun psikis", "isCorrect": true },
+        { "text": "B. Ekonomi saja", "isCorrect": false },
+        { "text": "C. Politik saja", "isCorrect": false },
+        { "text": "D. Budaya saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut dasar pemikiran, warga negara dapat berperan baik di dalam maupun di luar pemerintahan secara?",
+      "explanation": "Warga negara diharapkan berperan secara proporsional dan konstruktif berdasarkan pemahaman atas negara dan sistem yang berlaku.",
+      "difficulty": "HARD",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Proporsional dan konstruktif", "isCorrect": true },
+        { "text": "B. Bebas tanpa batas", "isCorrect": false },
+        { "text": "C. Pasif dan menunggu", "isCorrect": false },
+        { "text": "D. Mengutamakan pribadi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di UNS (termasuk Fakultas Vokasi), dasar hukum PKn ditindaklanjuti dengan?",
+      "explanation": "Di UNS, dasar hukum PKn ditindaklanjuti dengan muatan Mata Kuliah PKn di dalam kurikulum.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Muatan MK PKn di dalam kurikulum", "isCorrect": true },
+        { "text": "B. Pelatihan militer wajib", "isCorrect": false },
+        { "text": "C. Ujian kewarganegaraan nasional", "isCorrect": false },
+        { "text": "D. Penghapusan mata kuliah umum", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Visi Pendidikan Kewarganegaraan adalah sebagai sumber nilai dan pedoman dalam?",
+      "explanation": "Visi PKn adalah sebagai sumber nilai dan pedoman dalam pengembangan serta penyelenggaraan program studi guna mengantarkan mahasiswa memantapkan kepribadiannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Pengembangan dan penyelenggaraan program studi", "isCorrect": true },
+        { "text": "B. Pembangunan infrastruktur kampus", "isCorrect": false },
+        { "text": "C. Penentuan biaya kuliah", "isCorrect": false },
+        { "text": "D. Penyusunan anggaran negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Visi PKn bertujuan mengantarkan mahasiswa memantapkan kepribadiannya sebagai?",
+      "explanation": "Visi PKn mengantarkan mahasiswa memantapkan kepribadiannya sebagai manusia Indonesia seutuhnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Manusia Indonesia seutuhnya", "isCorrect": true },
+        { "text": "B. Tenaga kerja terampil", "isCorrect": false },
+        { "text": "C. Pengusaha sukses", "isCorrect": false },
+        { "text": "D. Pemimpin politik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Misi PKn adalah membantu mahasiswa memantapkan kepribadian agar secara konsisten mampu mewujudkan?",
+      "explanation": "Misi PKn adalah membantu mahasiswa mewujudkan nilai-nilai dasar Pancasila, rasa kebangsaan, dan cinta tanah air sepanjang hayat.",
+      "difficulty": "MEDIUM",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Nilai-nilai dasar Pancasila, rasa kebangsaan, dan cinta tanah air", "isCorrect": true },
+        { "text": "B. Keuntungan ekonomi pribadi", "isCorrect": false },
+        { "text": "C. Penguasaan teknologi asing", "isCorrect": false },
+        { "text": "D. Kebebasan individu mutlak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut misi PKn, perwujudan nilai-nilai Pancasila dilakukan dalam jangka waktu?",
+      "explanation": "Misi PKn menekankan perwujudan nilai-nilai dasar Pancasila secara konsisten sepanjang hayat.",
+      "difficulty": "MEDIUM",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Sepanjang hayat", "isCorrect": true },
+        { "text": "B. Selama masa kuliah saja", "isCorrect": false },
+        { "text": "C. Hingga lulus sekolah", "isCorrect": false },
+        { "text": "D. Saat upacara saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Misi PKn menyebutkan bahwa mahasiswa harus mampu menguasai, menerapkan, dan mengembangkan IPTEKS dengan?",
+      "explanation": "Misi PKn menekankan penguasaan, penerapan, dan pengembangan IPTEKS dengan rasa tanggung jawab.",
+      "difficulty": "HARD",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Rasa tanggung jawab", "isCorrect": true },
+        { "text": "B. Tanpa batasan etika", "isCorrect": false },
+        { "text": "C. Orientasi keuntungan semata", "isCorrect": false },
+        { "text": "D. Mengabaikan budaya lokal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama Pendidikan Kewarganegaraan adalah membangun?",
+      "explanation": "Tujuan utama PKn adalah membangun karakter (character building) bangsa Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Karakter (character building) bangsa Indonesia", "isCorrect": true },
+        { "text": "B. Kekuatan militer", "isCorrect": false },
+        { "text": "C. Pertumbuhan ekonomi", "isCorrect": false },
+        { "text": "D. Pembangunan fisik kota", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"character building\" dalam tujuan PKn berarti?",
+      "explanation": "Character building berarti membangun karakter atau watak bangsa Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Membangun karakter/watak bangsa", "isCorrect": true },
+        { "text": "B. Membangun gedung", "isCorrect": false },
+        { "text": "C. Membangun ekonomi", "isCorrect": false },
+        { "text": "D. Membangun jaringan internet", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan PKn adalah membentuk kecakapan partisipatif warga negara yang?",
+      "explanation": "PKn bertujuan membentuk kecakapan partisipatif warga negara yang bermutu dan bertanggung jawab dalam kehidupan berbangsa dan bernegara.",
+      "difficulty": "MEDIUM",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Bermutu dan bertanggung jawab", "isCorrect": true },
+        { "text": "B. Pasif dan penurut", "isCorrect": false },
+        { "text": "C. Individualis dan tertutup", "isCorrect": false },
+        { "text": "D. Apatis terhadap negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "PKn bertujuan menjadikan warga negara yang cerdas, aktif, kritis, dan demokratis namun tetap menjaga?",
+      "explanation": "PKn menjadikan warga negara yang cerdas, aktif, kritis, dan demokratis namun tetap menjaga persatuan dan integritas bangsa.",
+      "difficulty": "MEDIUM",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Persatuan dan integritas bangsa", "isCorrect": true },
+        { "text": "B. Kepentingan pribadi", "isCorrect": false },
+        { "text": "C. Keuntungan kelompok", "isCorrect": false },
+        { "text": "D. Pengaruh asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembentukan kesadaran bela negara dan berpikir komprehensif di kalangan mahasiswa dilakukan dalam rangka?",
+      "explanation": "PKn membentuk kesadaran bela negara dalam rangka ketahanan nasional sebagai geostrategi Indonesia.",
+      "difficulty": "HARD",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Ketahanan nasional sebagai geostrategi Indonesia", "isCorrect": true },
+        { "text": "B. Persaingan ekonomi global", "isCorrect": false },
+        { "text": "C. Ekspansi wilayah", "isCorrect": false },
+        { "text": "D. Pengembangan industri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan PKn untuk bela negara didasari oleh kecintaan kepada tanah air dan keyakinan akan?",
+      "explanation": "Tujuan PKn didasari kecintaan tanah air dan keyakinan akan ketangguhan Pancasila serta rela berkorban demi bangsa dan negara.",
+      "difficulty": "HARD",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Ketangguhan Pancasila", "isCorrect": true },
+        { "text": "B. Kekuatan ekonomi pribadi", "isCorrect": false },
+        { "text": "C. Dominasi politik", "isCorrect": false },
+        { "text": "D. Pengaruh budaya asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber rujukan visi, misi, dan tujuan PKn dalam materi ini berasal dari?",
+      "explanation": "Visi, misi, dan tujuan PKn merujuk pada Sudiyono (2017: 12).",
+      "difficulty": "HARD",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Sudiyono (2017)", "isCorrect": true },
+        { "text": "B. Budiardjo (2017)", "isCorrect": false },
+        { "text": "C. Winarno (2014)", "isCorrect": false },
+        { "text": "D. Srijanti (2013)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Buku CIVICS pertama di Indonesia berjudul?",
+      "explanation": "Buku CIVICS pertama di Indonesia berjudul \"Manusia dan Masjarakat Baru Indonesia (CIVICS)\".",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Manusia dan Masjarakat Baru Indonesia (CIVICS)", "isCorrect": true },
+        { "text": "B. Dasar-dasar Ilmu Politik", "isCorrect": false },
+        { "text": "C. Paradigma Baru Pendidikan Kewarganegaraan", "isCorrect": false },
+        { "text": "D. Pendidikan Pancasila", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu penyusun buku CIVICS pertama di Indonesia yang juga proklamator adalah?",
+      "explanation": "Buku CIVICS pertama disusun bersama oleh beberapa tokoh, termasuk Soekarno.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Soekarno", "isCorrect": true },
+        { "text": "B. Soeharto", "isCorrect": false },
+        { "text": "C. Megawati", "isCorrect": false },
+        { "text": "D. B.J. Habibie", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "PKn pertama kali dikenal dalam pendidikan sekolah Indonesia dengan nama Kewarganegaraan pada tahun?",
+      "explanation": "PKn mulai dikenal dalam pendidikan sekolah dengan nama Kewarganegaraan pada tahun 1957.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. 1945", "isCorrect": false },
+        { "text": "B. 1957", "isCorrect": true },
+        { "text": "C. 1962", "isCorrect": false },
+        { "text": "D. 1968", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada masa awal Orde Lama sekitar tahun 1957, isi mata pelajaran PKn membahas?",
+      "explanation": "Pada tahun 1957, mata pelajaran PKn membahas cara pemerolehan dan kehilangan kewarganegaraan.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Cara pemerolehan dan kehilangan kewarganegaraan", "isCorrect": true },
+        { "text": "B. Sistem ekonomi pasar", "isCorrect": false },
+        { "text": "C. Teknologi pertanian", "isCorrect": false },
+        { "text": "D. Sejarah dunia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mata pelajaran CIVICS dalam pendidikan sekolah Indonesia mulai dikenal pada tahun?",
+      "explanation": "CIVICS mulai dikenal dalam pendidikan sekolah pada tahun 1962.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. 1957", "isCorrect": false },
+        { "text": "B. 1962", "isCorrect": true },
+        { "text": "C. 1968", "isCorrect": false },
+        { "text": "D. 1975", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Materi CIVICS (1962) terutama diarahkan untuk?",
+      "explanation": "CIVICS (1962) banyak membahas sejarah kebangkitan nasional dan diarahkan untuk \"Nation and Character Building\" bangsa Indonesia.",
+      "difficulty": "HARD",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Nation and Character Building bangsa Indonesia", "isCorrect": true },
+        { "text": "B. Pengembangan industri nasional", "isCorrect": false },
+        { "text": "C. Modernisasi pertanian", "isCorrect": false },
+        { "text": "D. Hubungan dagang internasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada masa awal Orde Baru berlaku Kurikulum 1968 yang mencantumkan mata pelajaran?",
+      "explanation": "Kurikulum 1968 mencantumkan mata pelajaran Pendidikan Kewargaan Negara sebagai MP wajib.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Pendidikan Kewargaan Negara", "isCorrect": true },
+        { "text": "B. PPKn", "isCorrect": false },
+        { "text": "C. PMP", "isCorrect": false },
+        { "text": "D. IPS", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan pembelajaran yang digunakan pada Kurikulum 1968 untuk PKn adalah?",
+      "explanation": "Kurikulum 1968 menggunakan pendekatan korelasi, yaitu PKn dikorelasikan dengan mata pelajaran lain seperti Sejarah, Ilmu Bumi, HAM, dan Ekonomi.",
+      "difficulty": "HARD",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Pendekatan korelasi", "isCorrect": true },
+        { "text": "B. Pendekatan tematik", "isCorrect": false },
+        { "text": "C. Pendekatan saintifik", "isCorrect": false },
+        { "text": "D. Pendekatan terpisah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Kurikulum 1975, nama mata pelajaran PKn berubah menjadi?",
+      "explanation": "Pada Kurikulum 1975, nama mata pelajaran PKn berubah menjadi PMP (Pendidikan Moral Pancasila).",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. PPKn", "isCorrect": false },
+        { "text": "B. PMP", "isCorrect": true },
+        { "text": "C. CIVICS", "isCorrect": false },
+        { "text": "D. IPS", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Kurikulum 1975, mata pelajaran PMP secara khusus mengkaji materi tentang?",
+      "explanation": "PMP pada Kurikulum 1975 mengkaji secara khusus materi tentang Pancasila dan UUD 1945, yang dipisahkan dari pelajaran Sejarah, Ilmu Bumi, dan Ekonomi.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Pancasila dan UUD 1945", "isCorrect": true },
+        { "text": "B. Hukum perdata", "isCorrect": false },
+        { "text": "C. Ekonomi makro", "isCorrect": false },
+        { "text": "D. Geografi dunia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Kurikulum 1975, gabungan mata pelajaran Sejarah, Ilmu Bumi, dan Ekonomi menjadi mata pelajaran?",
+      "explanation": "Pada Kurikulum 1975, gabungan Sejarah, Ilmu Bumi, dan Ekonomi menjadi mata pelajaran Ilmu Pengetahuan Sosial (IPS).",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Ilmu Pengetahuan Sosial (IPS)", "isCorrect": true },
+        { "text": "B. PMP", "isCorrect": false },
+        { "text": "C. PPKn", "isCorrect": false },
+        { "text": "D. Ilmu Pengetahuan Alam (IPA)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Kurikulum 1994, nama mata pelajaran PMP berubah menjadi?",
+      "explanation": "Pada Kurikulum 1994, nama PMP berubah menjadi PPKn (Pendidikan Pancasila dan Kewarganegaraan).",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. PPKn (Pendidikan Pancasila dan Kewarganegaraan)", "isCorrect": true },
+        { "text": "B. CIVICS", "isCorrect": false },
+        { "text": "C. IPS", "isCorrect": false },
+        { "text": "D. Kewargaan Negara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perubahan nama PMP menjadi PPKn pada Kurikulum 1994 terutama didasarkan pada?",
+      "explanation": "Perubahan menjadi PPKn didasarkan pada UU RI No. 2 Tahun 1989 tentang Sisdiknas.",
+      "difficulty": "HARD",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. UU No. 2 Tahun 1989 tentang Sisdiknas", "isCorrect": true },
+        { "text": "B. UU No. 20 Tahun 2003 tentang Sisdiknas", "isCorrect": false },
+        { "text": "C. UU No. 12 Tahun 2006", "isCorrect": false },
+        { "text": "D. UUD 1945", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU No. 2 Tahun 1989, isi kurikulum setiap jenis dan jenjang pendidikan wajib memuat tiga pendidikan, yaitu Pendidikan Pancasila, Pendidikan Agama, dan?",
+      "explanation": "UU No. 2 Tahun 1989 mewajibkan kurikulum memuat Pendidikan Pancasila, Pendidikan Agama, dan Pendidikan Kewarganegaraan.",
+      "difficulty": "HARD",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Pendidikan Kewarganegaraan", "isCorrect": true },
+        { "text": "B. Pendidikan Jasmani", "isCorrect": false },
+        { "text": "C. Pendidikan Bahasa", "isCorrect": false },
+        { "text": "D. Pendidikan Seni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan perkembangan nama mata pelajaran PKn yang benar secara kronologis adalah?",
+      "explanation": "Secara kronologis: Kewarganegaraan/Civics (1957-1968), PMP (Kurikulum 1975), kemudian PPKn (Kurikulum 1994).",
+      "difficulty": "HARD",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. CIVICS → PMP → PPKn", "isCorrect": true },
+        { "text": "B. PPKn → PMP → CIVICS", "isCorrect": false },
+        { "text": "C. PMP → CIVICS → PPKn", "isCorrect": false },
+        { "text": "D. PPKn → CIVICS → PMP", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu penyusun buku CIVICS pertama yang merupakan ahli hukum adalah?",
+      "explanation": "Mr. J.C.T. Simorangkir adalah salah satu penyusun buku CIVICS pertama di Indonesia.",
+      "difficulty": "HARD",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Mr. J.C.T. Simorangkir", "isCorrect": true },
+        { "text": "B. Miriam Budiardjo", "isCorrect": false },
+        { "text": "C. Paul Sudiyono", "isCorrect": false },
+        { "text": "D. Winarno", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Empat pilar pendidikan menurut UNESCO mencakup learning to know, learning to do, learning to be, dan?",
+      "explanation": "Empat pilar pendidikan UNESCO adalah learning to know, learning to do, learning to be, dan learning to live together.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Pilar Pendidikan UNESCO",
+      "options": [
+        { "text": "A. Learning to live together", "isCorrect": true },
+        { "text": "B. Learning to earn", "isCorrect": false },
+        { "text": "C. Learning to win", "isCorrect": false },
+        { "text": "D. Learning to rule", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pilar UNESCO \"learning to know\" berkaitan dengan pengembangan?",
+      "explanation": "Learning to know berkaitan dengan penguasaan pengetahuan (ranah kognitif).",
+      "difficulty": "HARD",
+      "tag": "Empat Pilar Pendidikan UNESCO",
+      "options": [
+        { "text": "A. Penguasaan pengetahuan", "isCorrect": true },
+        { "text": "B. Keterampilan fisik", "isCorrect": false },
+        { "text": "C. Kekayaan materi", "isCorrect": false },
+        { "text": "D. Hubungan dagang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pilar UNESCO \"learning to do\" berkaitan dengan pengembangan?",
+      "explanation": "Learning to do berkaitan dengan pengembangan keterampilan kerja (skill).",
+      "difficulty": "HARD",
+      "tag": "Empat Pilar Pendidikan UNESCO",
+      "options": [
+        { "text": "A. Keterampilan kerja", "isCorrect": true },
+        { "text": "B. Pengetahuan teori", "isCorrect": false },
+        { "text": "C. Sikap spiritual", "isCorrect": false },
+        { "text": "D. Kekuasaan politik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pilar UNESCO \"learning to be\" berkaitan dengan pengembangan?",
+      "explanation": "Learning to be berkaitan dengan pengembangan sikap (attitude) dan kepribadian.",
+      "difficulty": "HARD",
+      "tag": "Empat Pilar Pendidikan UNESCO",
+      "options": [
+        { "text": "A. Sikap dan kepribadian", "isCorrect": true },
+        { "text": "B. Keterampilan teknis", "isCorrect": false },
+        { "text": "C. Penguasaan pengetahuan", "isCorrect": false },
+        { "text": "D. Akumulasi kekayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pilar UNESCO \"learning to live together\" menekankan pentingnya kemampuan?",
+      "explanation": "Learning to live together menekankan kemampuan hidup bersama, bertoleransi, dan bekerja sama dalam keberagaman.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Pilar Pendidikan UNESCO",
+      "options": [
+        { "text": "A. Hidup bersama dan bekerja sama dalam keberagaman", "isCorrect": true },
+        { "text": "B. Bersaing secara individual", "isCorrect": false },
+        { "text": "C. Menguasai teknologi tinggi", "isCorrect": false },
+        { "text": "D. Mengumpulkan kekayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Empat pilar pendidikan yang menjadi rujukan dalam konsep pendidikan PKn dikemukakan oleh lembaga?",
+      "explanation": "Empat pilar pendidikan dikemukakan oleh UNESCO.",
+      "difficulty": "EASY",
+      "tag": "Empat Pilar Pendidikan UNESCO",
+      "options": [
+        { "text": "A. UNESCO", "isCorrect": true },
+        { "text": "B. WHO", "isCorrect": false },
+        { "text": "C. ILO", "isCorrect": false },
+        { "text": "D. UNICEF", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN merupakan empat pilar pendidikan menurut UNESCO adalah?",
+      "explanation": "Empat pilar UNESCO adalah learning to know, to do, to be, dan to live together; bukan learning to compete.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Pilar Pendidikan UNESCO",
+      "options": [
+        { "text": "A. Learning to know", "isCorrect": false },
+        { "text": "B. Learning to compete", "isCorrect": true },
+        { "text": "C. Learning to be", "isCorrect": false },
+        { "text": "D. Learning to live together", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep empat pilar UNESCO sejalan dengan pengembangan tiga ranah pendidikan, yaitu?",
+      "explanation": "Empat pilar UNESCO sejalan dengan pengembangan ranah kognitif, afektif, dan psikomotor.",
+      "difficulty": "HARD",
+      "tag": "Empat Pilar Pendidikan UNESCO",
+      "options": [
+        { "text": "A. Kognitif, afektif, dan psikomotor", "isCorrect": true },
+        { "text": "B. Fisik, kimia, dan biologi", "isCorrect": false },
+        { "text": "C. Ekonomi, politik, dan sosial", "isCorrect": false },
+        { "text": "D. Membaca, menulis, dan menghitung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu referensi utama materi PKn yang ditulis oleh Miriam Budiardjo (2017) berjudul?",
+      "explanation": "Miriam Budiardjo (2017) menulis buku berjudul \"Dasar-dasar Ilmu Politik\".",
+      "difficulty": "HARD",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Dasar-dasar Ilmu Politik", "isCorrect": true },
+        { "text": "B. Paradigma Baru PKn", "isCorrect": false },
+        { "text": "C. Pendidikan Kewarganegaraan di Perguruan Tinggi", "isCorrect": false },
+        { "text": "D. Manusia dan Masjarakat Baru Indonesia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Buku \"Paradigma Baru Pendidikan Kewarganegaraan: Panduan Kuliah di Perguruan Tinggi\" (2014) ditulis oleh?",
+      "explanation": "Buku tersebut ditulis oleh Winarno (2014).",
+      "difficulty": "HARD",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Winarno", "isCorrect": true },
+        { "text": "B. Miriam Budiardjo", "isCorrect": false },
+        { "text": "C. Paul Sudiyono", "isCorrect": false },
+        { "text": "D. Srijanti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mata kuliah Pendidikan Kewarganegaraan di perguruan tinggi termasuk dalam kelompok mata kuliah?",
+      "explanation": "PKn termasuk dalam kelompok mata kuliah Pengembangan Kepribadian (MPK) di perguruan tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Pengembangan Kepribadian", "isCorrect": true },
+        { "text": "B. Keahlian Berkarya", "isCorrect": false },
+        { "text": "C. Keilmuan dan Keterampilan", "isCorrect": false },
+        { "text": "D. Perilaku Berkarya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep \"hard skills\" dalam pendidikan umumnya berkaitan dengan?",
+      "explanation": "Hard skills berkaitan dengan kemampuan teknis/keahlian khusus yang dapat diukur, sejalan dengan ranah psikomotor dan kognitif.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Kemampuan teknis yang dapat diukur", "isCorrect": true },
+        { "text": "B. Kemampuan bersosialisasi", "isCorrect": false },
+        { "text": "C. Sikap dan emosi", "isCorrect": false },
+        { "text": "D. Spiritualitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep \"soft skills\" dalam pendidikan umumnya berkaitan dengan?",
+      "explanation": "Soft skills berkaitan dengan kemampuan non-teknis seperti komunikasi, kerja sama, dan sikap (ranah afektif).",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pendidikan",
+      "options": [
+        { "text": "A. Komunikasi, kerja sama, dan sikap", "isCorrect": true },
+        { "text": "B. Pengoperasian mesin", "isCorrect": false },
+        { "text": "C. Perhitungan matematis", "isCorrect": false },
+        { "text": "D. Pemrograman komputer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "PKn dengan pendekatan korelasi pada Kurikulum 1968 menjadikan mata pelajaran tersebut lebih?",
+      "explanation": "Dengan pendekatan korelasi, mata pelajaran PKn menjadi lebih hidup, menantang, dan bermakna.",
+      "difficulty": "HARD",
+      "tag": "Sejarah Pembelajaran PKn",
+      "options": [
+        { "text": "A. Hidup, menantang, dan bermakna", "isCorrect": true },
+        { "text": "B. Kaku dan membosankan", "isCorrect": false },
+        { "text": "C. Sulit dipahami", "isCorrect": false },
+        { "text": "D. Tidak relevan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pancasila sebagai landasan ideal PKn berfungsi sebagai sumber dari segala?",
+      "explanation": "Pancasila sebagai dasar negara menjadi sumber hukum positif (sumber dari segala sumber hukum) di Indonesia.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Sumber hukum di Indonesia", "isCorrect": true },
+        { "text": "B. Sumber kekayaan alam", "isCorrect": false },
+        { "text": "C. Sumber tenaga listrik", "isCorrect": false },
+        { "text": "D. Sumber air bersih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan PKn membentuk warga negara yang demokratis bermakna warga negara yang?",
+      "explanation": "Warga negara yang demokratis menghargai perbedaan pendapat dan berpartisipasi dalam kehidupan bernegara secara bertanggung jawab.",
+      "difficulty": "MEDIUM",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Menghargai perbedaan dan berpartisipasi secara bertanggung jawab", "isCorrect": true },
+        { "text": "B. Memaksakan kehendak sendiri", "isCorrect": false },
+        { "text": "C. Mengabaikan aturan", "isCorrect": false },
+        { "text": "D. Pasif dalam bernegara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"Dikwar\" merupakan singkatan dari?",
+      "explanation": "Dikwar merupakan singkatan/sebutan lain dari Pendidikan Kewarganegaraan.",
+      "difficulty": "EASY",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Pendidikan Kewarganegaraan", "isCorrect": true },
+        { "text": "B. Pendidikan Kewirausahaan", "isCorrect": false },
+        { "text": "C. Pendidikan Karakter", "isCorrect": false },
+        { "text": "D. Pendidikan Kewilayahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "PKn sebagai mata kuliah wajib di perguruan tinggi mendukung pengembangan kepribadian mahasiswa agar menjadi?",
+      "explanation": "PKn mengantarkan mahasiswa memantapkan kepribadiannya sebagai manusia Indonesia seutuhnya yang berkarakter.",
+      "difficulty": "EASY",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Manusia Indonesia seutuhnya yang berkarakter", "isCorrect": true },
+        { "text": "B. Tenaga kerja murah", "isCorrect": false },
+        { "text": "C. Konsumen produk asing", "isCorrect": false },
+        { "text": "D. Individu yang apatis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Warga negara yang baik menurut PKn diharapkan berperan baik di dalam maupun di luar pemerintahan, hal ini menunjukkan bahwa peran warga negara bersifat?",
+      "explanation": "Warga negara dapat berperan di dalam maupun di luar pemerintahan, menunjukkan peran yang menyeluruh/luas dalam kehidupan bernegara.",
+      "difficulty": "HARD",
+      "tag": "Konsep Kewarganegaraan & Warga Negara",
+      "options": [
+        { "text": "A. Menyeluruh, baik di dalam maupun di luar pemerintahan", "isCorrect": true },
+        { "text": "B. Hanya di dalam pemerintahan", "isCorrect": false },
+        { "text": "C. Hanya di sektor swasta", "isCorrect": false },
+        { "text": "D. Tidak ada perannya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penegasan bahwa kurikulum wajib memuat Pendidikan Pancasila, Agama, dan Kewarganegaraan menunjukkan posisi PKn sebagai mata pelajaran/kuliah?",
+      "explanation": "Penegasan dalam UU menunjukkan PKn berstatus sebagai mata pelajaran/kuliah wajib di setiap jenjang pendidikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Wajib", "isCorrect": true },
+        { "text": "B. Pilihan", "isCorrect": false },
+        { "text": "C. Tambahan", "isCorrect": false },
+        { "text": "D. Ekstrakurikuler", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan PKn yang berkaitan dengan ketahanan nasional menempatkan mahasiswa sebagai bagian dari?",
+      "explanation": "Tujuan PKn membentuk kesadaran bela negara dalam rangka ketahanan nasional sebagai geostrategi Indonesia.",
+      "difficulty": "HARD",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Geostrategi Indonesia", "isCorrect": true },
+        { "text": "B. Ekonomi global", "isCorrect": false },
+        { "text": "C. Pasar bebas", "isCorrect": false },
+        { "text": "D. Aliansi militer asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hakikat Pendidikan Kewarganegaraan adalah upaya sadar untuk membentuk warga negara yang?",
+      "explanation": "Hakikat PKn adalah membentuk warga negara yang cerdas, terampil, dan berkarakter setia kepada bangsa dan negara Indonesia (sesuai tujuan character building).",
+      "difficulty": "MEDIUM",
+      "tag": "Visi, Misi & Tujuan PKn",
+      "options": [
+        { "text": "A. Cerdas, terampil, dan berkarakter", "isCorrect": true },
+        { "text": "B. Pasif dan penurut", "isCorrect": false },
+        { "text": "C. Individualis dan apatis", "isCorrect": false },
+        { "text": "D. Berorientasi materi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "PKn di Indonesia berakar pada nilai-nilai luhur bangsa yang terkristalisasi dalam?",
+      "explanation": "Nilai-nilai luhur bangsa terkristalisasi dalam Pancasila sebagai pandangan hidup bangsa.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Ideal & Dasar Hukum",
+      "options": [
+        { "text": "A. Pancasila", "isCorrect": true },
+        { "text": "B. Konstitusi asing", "isCorrect": false },
+        { "text": "C. Hukum adat saja", "isCorrect": false },
+        { "text": "D. Ideologi liberal", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Definisi pendidikan menurut UU No. 20 Tahun 2003", "back": "Usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik aktif mengembangkan potensi dirinya.", "tag": "Konsep Pendidikan" },
+    { "front": "Tiga aspek yang dikembangkan dalam pembelajaran", "back": "Knowledge (pengetahuan/kognitif), Attitude (sikap/afektif), dan Skill (keterampilan/psikomotor).", "tag": "Konsep Pendidikan" },
+    { "front": "Empat pilar pendidikan UNESCO", "back": "Learning to know, learning to do, learning to be, dan learning to live together.", "tag": "Empat Pilar Pendidikan UNESCO" },
+    { "front": "Warga negara menurut UU No. 12 Tahun 2006 Pasal 1 ayat 1", "back": "Warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan.", "tag": "Konsep Kewarganegaraan & Warga Negara" },
+    { "front": "Kewarganegaraan menurut UU No. 12 Tahun 2006 Pasal 1 ayat 2", "back": "Segala hal ihwal yang berhubungan dengan warga negara.", "tag": "Konsep Kewarganegaraan & Warga Negara" },
+    { "front": "WNI menurut UU No. 12 Tahun 2006 Pasal 2", "back": "Orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan UU sebagai warga negara.", "tag": "Konsep Kewarganegaraan & Warga Negara" },
+    { "front": "PKn/Dikwar secara sederhana", "back": "Belajar hal-hal yang berhubungan dengan warga negara; belajar tentang keindonesiaan dan cinta tanah air.", "tag": "PKn Etimologis & Westphalia" },
+    { "front": "Perjanjian Westphalia 1648", "back": "Kesepakatan di Eropa mengakhiri perang 30 tahun; awal konsep negara modern/negara kebangsaan (nation-state) dan warga negara modern.", "tag": "PKn Etimologis & Westphalia" },
+    { "front": "Nama PKn di USA dan Malaysia", "back": "USA: Civics/Civics Education. Malaysia: Pendidikan Sivik.", "tag": "PKn di Negara Lain" },
+    { "front": "Nama PKn di UK dan Singapura", "back": "UK: Citizenship Education. Singapura: Civics and Moral Education.", "tag": "PKn di Negara Lain" },
+    { "front": "Landasan ideal PKn", "back": "Pancasila — sebagai dasar negara (sumber hukum positif), pandangan hidup bangsa (kristalisasi nilai luhur), dan ideologi negara.", "tag": "Landasan Ideal & Dasar Hukum" },
+    { "front": "Dasar hukum PKn (sebagian)", "back": "UUD 1945, UU No. 3/2002 (Pertahanan Negara), UU No. 20/2003 (Sisdiknas), UU No. 12/2012 (Pendidikan Tinggi), SK Dirjen Dikti No. 43/2006.", "tag": "Landasan Ideal & Dasar Hukum" },
+    { "front": "Visi PKn", "back": "Sumber nilai dan pedoman dalam pengembangan & penyelenggaraan prodi guna mengantarkan mahasiswa menjadi manusia Indonesia seutuhnya.", "tag": "Visi, Misi & Tujuan PKn" },
+    { "front": "Misi PKn", "back": "Membantu mahasiswa memantapkan kepribadian agar konsisten mewujudkan nilai-nilai Pancasila, rasa kebangsaan, dan cinta tanah air sepanjang hayat.", "tag": "Visi, Misi & Tujuan PKn" },
+    { "front": "Tujuan PKn", "back": "Membangun karakter (character building) bangsa: warga negara bermutu, cerdas, kritis, demokratis, dan sadar bela negara untuk ketahanan nasional.", "tag": "Visi, Misi & Tujuan PKn" },
+    { "front": "Buku CIVICS pertama di Indonesia", "back": "\"Manusia dan Masjarakat Baru Indonesia (CIVICS)\", disusun bersama antara lain oleh Soekarno dan Mr. J.C.T. Simorangkir.", "tag": "Sejarah Pembelajaran PKn" },
+    { "front": "Perkembangan nama PKn di sekolah", "back": "Kewarganegaraan (1957) → Civics (1962) → Pendidikan Kewargaan Negara (1968) → PMP (1975) → PPKn (1994).", "tag": "Sejarah Pembelajaran PKn" },
+    { "front": "Pendekatan PKn pada Kurikulum 1968", "back": "Pendekatan korelasi — PKn dikorelasikan dengan Sejarah, Ilmu Bumi, HAM, dan Ekonomi agar lebih hidup dan bermakna.", "tag": "Sejarah Pembelajaran PKn" },
+    { "front": "Dasar perubahan PMP menjadi PPKn (1994)", "back": "UU RI No. 2 Tahun 1989 tentang Sisdiknas, yang mewajibkan kurikulum memuat Pendidikan Pancasila, Agama, dan Kewarganegaraan.", "tag": "Sejarah Pembelajaran PKn" },
+    { "front": "Tiga ranah hasil belajar", "back": "Kognitif (pengetahuan), Afektif (sikap), dan Psikomotor (keterampilan) — sejalan dengan empat pilar UNESCO.", "tag": "Empat Pilar Pendidikan UNESCO" }
+  ],
+  "mindmap": [
+    { "id": "pkn", "label": "Pengantar & Konsep PKn", "color": "#6366f1", "parent": null, "content": "PKn/Dikwar adalah pembelajaran tentang segala hal ihwal warga negara dalam konteks menjadi warga negara Indonesia, berlandaskan Pancasila dan UUD 1945." },
+
+    { "id": "konsep-pendidikan", "label": "Konsep Pendidikan", "color": "#8b5cf6", "parent": "pkn", "content": "Pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran (UU No. 20/2003)." },
+    { "id": "definisi-pendidikan", "label": "Definisi Sisdiknas", "color": "#8b5cf6", "parent": "konsep-pendidikan", "content": "Agar peserta didik aktif mengembangkan potensi diri: spiritual, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, dan keterampilan." },
+    { "id": "knowledge-attitude-skill", "label": "Knowledge-Attitude-Skill", "color": "#8b5cf6", "parent": "konsep-pendidikan", "content": "Pembelajaran mengembangkan knowledge (kognitif), attitude (afektif), dan skill (psikomotor)." },
+    { "id": "hard-soft-skills", "label": "Hard & Soft Skills", "color": "#8b5cf6", "parent": "konsep-pendidikan", "content": "Hard skills (kemampuan teknis terukur) dan soft skills (komunikasi, kerja sama, sikap) dikembangkan seimbang." },
+    { "id": "fungsi-pendidikan", "label": "Fungsi Pendidikan", "color": "#8b5cf6", "parent": "konsep-pendidikan", "content": "Menurut Djaelani dkk (2014), fungsi pendidikan untuk pengembangan pribadi, warga negara, kebudayaan, dan bangsa." },
+
+    { "id": "konsep-warneg", "label": "Konsep Kewarganegaraan", "color": "#0ea5e9", "parent": "pkn", "content": "Konsep warga negara dan kewarganegaraan diatur dalam UU No. 12 Tahun 2006." },
+    { "id": "warga-negara", "label": "Warga Negara", "color": "#0ea5e9", "parent": "konsep-warneg", "content": "Warga suatu negara yang ditetapkan berdasarkan peraturan perundang-undangan (UU 12/2006 Pasal 1 ayat 1)." },
+    { "id": "kewarganegaraan", "label": "Kewarganegaraan", "color": "#0ea5e9", "parent": "konsep-warneg", "content": "Segala hal ihwal yang berhubungan dengan warga negara (UU 12/2006 Pasal 1 ayat 2)." },
+    { "id": "wni", "label": "WNI", "color": "#0ea5e9", "parent": "konsep-warneg", "content": "Orang-orang bangsa Indonesia asli dan bangsa lain yang disahkan dengan UU sebagai warga negara (Pasal 2)." },
+    { "id": "hak-kewajiban", "label": "Hak & Kewajiban", "color": "#0ea5e9", "parent": "konsep-warneg", "content": "Warga negara adalah anggota sekelompok manusia di wilayah hukum tertentu yang memiliki hak dan kewajiban." },
+
+    { "id": "etimologis", "label": "PKn Etimologis & Westphalia", "color": "#10b981", "parent": "pkn", "content": "PKn berarti belajar keindonesiaan dan menjadi warga negara; konsep warga negara modern berasal dari Westphalia 1648." },
+    { "id": "makna-etimologis", "label": "Makna Etimologis", "color": "#10b981", "parent": "etimologis", "content": "Belajar tentang keindonesiaan, menjadi manusia berkepribadian Indonesia, membangun rasa kebangsaan dan cinta tanah air." },
+    { "id": "westphalia", "label": "Westphalia 1648", "color": "#10b981", "parent": "etimologis", "content": "Kesepakatan mengakhiri perang 30 tahun di Eropa; awal konsep negara modern (nation-state) dan warga negara modern." },
+    { "id": "nation-state", "label": "Nation-State", "color": "#10b981", "parent": "etimologis", "content": "Warga negara (citizen/citoyen) adalah anggota (member) dari sebuah negara kebangsaan modern." },
+
+    { "id": "negara-lain", "label": "PKn di Negara Lain", "color": "#f59e0b", "parent": "pkn", "content": "Pembelajaran sejenis PKn ada di banyak negara, menunjukkan sifatnya yang universal (Ditjen Belmawa, 2016)." },
+    { "id": "civics-usa", "label": "Civics (USA)", "color": "#f59e0b", "parent": "negara-lain", "content": "Di USA dikenal Civics/Civics Education; di Australia Civics/Social Studies." },
+    { "id": "pendidikan-sivik", "label": "Pendidikan Sivik (Malaysia)", "color": "#f59e0b", "parent": "negara-lain", "content": "Malaysia: Pendidikan Sivik; Singapura: Civics and Moral Education." },
+    { "id": "citizenship-uk", "label": "Citizenship Education (UK)", "color": "#f59e0b", "parent": "negara-lain", "content": "UK: Citizenship Education; Jerman: Sachunterricht; Meksiko: Educacion Civicas." },
+    { "id": "life-orientation", "label": "Life Orientation (Afsel)", "color": "#f59e0b", "parent": "negara-lain", "content": "Afrika Selatan: Life Orientation; Hongaria: People and Society; Rusia: Obscesvovedinie." },
+
+    { "id": "landasan", "label": "Landasan Ideal & Dasar Hukum", "color": "#ef4444", "parent": "pkn", "content": "Landasan ideal PKn adalah Pancasila, didukung sejumlah dasar hukum perundang-undangan." },
+    { "id": "pancasila-landasan", "label": "Pancasila", "color": "#ef4444", "parent": "landasan", "content": "Pancasila sebagai dasar negara (sumber hukum positif), pandangan hidup bangsa (kristalisasi nilai luhur), dan ideologi negara." },
+    { "id": "dasar-hukum", "label": "Dasar Hukum", "color": "#ef4444", "parent": "landasan", "content": "UUD 1945, UU 3/2002 (Pertahanan), UU 20/2003 (Sisdiknas), UU 12/2012 (Dikti), SK Dirjen Dikti 43/2006." },
+    { "id": "dasar-pemikiran", "label": "Dasar Pemikiran", "color": "#ef4444", "parent": "landasan", "content": "Rasionalitas pentingnya PKn: warga negara bagian dari negara secara fisik dan psikis, berperan proporsional dan konstruktif." },
+    { "id": "mpk", "label": "MK Pengembangan Kepribadian", "color": "#ef4444", "parent": "landasan", "content": "PKn termasuk kelompok MK Pengembangan Kepribadian, di UNS ditindaklanjuti sebagai muatan kurikulum." },
+
+    { "id": "vmt", "label": "Visi, Misi & Tujuan", "color": "#ec4899", "parent": "pkn", "content": "Visi, misi, dan tujuan PKn berfokus pada character building dan pemantapan kepribadian mahasiswa (Sudiyono, 2017)." },
+    { "id": "visi-pkn", "label": "Visi", "color": "#ec4899", "parent": "vmt", "content": "Sumber nilai dan pedoman penyelenggaraan prodi untuk mengantarkan mahasiswa menjadi manusia Indonesia seutuhnya." },
+    { "id": "misi-pkn", "label": "Misi", "color": "#ec4899", "parent": "vmt", "content": "Membantu mahasiswa mewujudkan nilai Pancasila, rasa kebangsaan, dan cinta tanah air sepanjang hayat secara bertanggung jawab." },
+    { "id": "tujuan-pkn", "label": "Tujuan (Character Building)", "color": "#ec4899", "parent": "vmt", "content": "Membentuk warga negara bermutu, cerdas, kritis, demokratis, dan sadar bela negara dalam rangka ketahanan nasional." },
+
+    { "id": "sejarah", "label": "Sejarah Pembelajaran PKn", "color": "#14b8a6", "parent": "pkn", "content": "PKn berkembang dari Civics hingga PPKn melalui berbagai kurikulum di Indonesia." },
+    { "id": "civics-pertama", "label": "Buku CIVICS Pertama", "color": "#14b8a6", "parent": "sejarah", "content": "\"Manusia dan Masjarakat Baru Indonesia (CIVICS)\", disusun antara lain oleh Soekarno dan Mr. J.C.T. Simorangkir." },
+    { "id": "kewarganegaraan-1957", "label": "Kewarganegaraan (1957)", "color": "#14b8a6", "parent": "sejarah", "content": "Awal Orde Lama, membahas cara pemerolehan dan kehilangan kewarganegaraan; lalu Civics (1962)." },
+    { "id": "pmp-1975", "label": "PMP (1975)", "color": "#14b8a6", "parent": "sejarah", "content": "Kurikulum 1975: nama berubah menjadi PMP yang mengkaji Pancasila dan UUD 1945; Sejarah-Ilmu Bumi-Ekonomi jadi IPS." },
+    { "id": "ppkn-1994", "label": "PPKn (1994)", "color": "#14b8a6", "parent": "sejarah", "content": "Kurikulum 1994: PMP menjadi PPKn berdasarkan UU No. 2 Tahun 1989 tentang Sisdiknas." },
+
+    { "id": "unesco", "label": "Empat Pilar UNESCO", "color": "#8b5cf6", "parent": "pkn", "content": "Empat pilar pendidikan UNESCO menjadi rujukan pengembangan kompetensi dalam PKn." },
+    { "id": "learning-to-know", "label": "Learning to Know", "color": "#8b5cf6", "parent": "unesco", "content": "Penguasaan pengetahuan (ranah kognitif)." },
+    { "id": "learning-to-do", "label": "Learning to Do", "color": "#8b5cf6", "parent": "unesco", "content": "Pengembangan keterampilan kerja (ranah psikomotor)." },
+    { "id": "learning-to-be", "label": "Learning to Be", "color": "#8b5cf6", "parent": "unesco", "content": "Pengembangan sikap dan kepribadian (ranah afektif)." },
+    { "id": "learning-to-live", "label": "Learning to Live Together", "color": "#8b5cf6", "parent": "unesco", "content": "Kemampuan hidup bersama, toleransi, dan kerja sama dalam keberagaman." }
+  ]
+}

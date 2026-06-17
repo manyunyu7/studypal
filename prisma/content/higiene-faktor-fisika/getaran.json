@@ -1,0 +1,4240 @@
+{
+  "topic": "Getaran",
+  "order": 2,
+  "description": "Getaran (vibrasi) sebagai faktor fisika di tempat kerja, mencakup getaran lengan-tangan (HAV) dan getaran seluruh tubuh (WBV), dampak kesehatan, NAB, standar pengukuran, dan pengendaliannya.",
+  "subtopics": [
+    "Definisi & Parameter Getaran",
+    "Jenis Getaran",
+    "Getaran Lengan-Tangan (HAV)",
+    "Getaran Seluruh Tubuh (WBV)",
+    "Dampak Kesehatan & HAVS",
+    "NAB & Regulasi",
+    "Standar ISO & SNI",
+    "Alat Ukur & Satuan",
+    "Prosedur Pengukuran",
+    "Pengendalian"
+  ],
+  "questions": [
+    {
+      "text": "Apa satuan internasional (SI) yang secara tradisional digunakan untuk menggambarkan besarnya percepatan getaran?",
+      "explanation": "Percepatan getaran dinyatakan dalam meter per detik per detik atau m/s². Transduser getaran umumnya menghasilkan keluaran yang berhubungan dengan akselerasi, sehingga percepatan digunakan untuk menggambarkan getaran.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. m/s",
+          "isCorrect": false
+        },
+        {
+          "text": "B. m/s²",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. dB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tiga parameter utama yang menentukan getaran adalah frekuensi, amplitudo, dan ...",
+      "explanation": "Getaran ditentukan oleh frekuensi, amplitudo (intensitas), dan percepatan. Percepatan getaran menggambarkan besarnya perubahan kecepatan per satuan waktu.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Percepatan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tekanan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Massa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frekuensi getaran dinyatakan dalam satuan ...",
+      "explanation": "Frekuensi adalah jumlah getaran per detik, dinyatakan dalam Hertz (Hz).",
+      "difficulty": "EASY",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Hertz (Hz)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. meter (m)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. m/s²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Newton (N)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Definisi frekuensi getaran yang tepat adalah ...",
+      "explanation": "Frekuensi adalah jumlah getaran (siklus) per detik, satuannya Hz.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Jarak maksimum dari titik keseimbangan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Jumlah getaran per detik",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Laju perubahan kecepatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Perpindahan getaran dalam meter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Intensitas getaran ditentukan oleh amplitudo, yaitu ...",
+      "explanation": "Intensitas ditentukan oleh amplitudo, yaitu jarak maksimum yang dicapai tubuh dari titik keseimbangannya, dengan satuan seperti inch, cm, atau mm.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Jumlah getaran per detik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Jarak maksimum yang dicapai dari titik keseimbangan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Frekuensi dominan getaran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berat benda yang bergetar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Besarnya getaran dapat dinyatakan sebagai perpindahan getaran dengan satuan ...",
+      "explanation": "Perpindahan getaran dinyatakan dalam meter, kecepatan dalam meter per detik, dan percepatan dalam m/s².",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. meter",
+          "isCorrect": true
+        },
+        {
+          "text": "B. meter per detik",
+          "isCorrect": false
+        },
+        {
+          "text": "C. m/s²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hertz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kecepatan/velocity getaran adalah perubahan jarak per satuan waktu, dinyatakan dalam satuan ...",
+      "explanation": "Kecepatan getaran adalah perubahan jarak per satuan waktu dengan satuan m/s atau mm/s.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. m/s atau mm/s",
+          "isCorrect": true
+        },
+        {
+          "text": "B. m/s² atau mm/s²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. meter saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Percepatan/acceleration getaran didefinisikan sebagai ...",
+      "explanation": "Percepatan adalah besarnya getaran yang menunjukkan besarnya perubahan kecepatan per satuan waktu, dengan satuan m/s².",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Perubahan jarak per satuan waktu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Perubahan kecepatan per satuan waktu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Jumlah getaran per detik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jarak maksimum dari titik keseimbangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai tetapan gravitasi (1 g) yang ditimbulkan oleh kekuatan gravitasi adalah ...",
+      "explanation": "Tetapan gravitasi adalah 980,665 cm/s² atau 1 g = 9,81 m/s².",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. 9,81 m/s²",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1,0 m/s²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 98,1 m/s²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 0,981 m/s²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Arah gerakan getaran vertikal (sumbu Z) pada tubuh berada antara ...",
+      "explanation": "Arah vertikal (Z) adalah antara kaki dan kepala. Lateral (Y) antara dada samping kanan dan kiri. Depan-belakang (X) antara dada (jantung) dan punggung.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Kaki dan kepala",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dada kanan dan kiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Dada dan punggung",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tangan dan lengan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Arah gerakan getaran lateral (sumbu Y) berada antara ...",
+      "explanation": "Lateral (Y) adalah antara dada samping kanan dan kiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Kaki dan kepala",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dada samping kanan dan kiri",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Dada (jantung) dan punggung",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bahu kanan dan pinggul",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Arah gerakan getaran depan-belakang (sumbu X) berada antara ...",
+      "explanation": "Depan-belakang (X) adalah antara dada (jantung) dan punggung.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Kaki dan kepala",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dada kanan dan kiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Dada (jantung) dan punggung",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Lengan dan tangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Keluaran sebagian besar transduser getaran berhubungan dengan ...",
+      "explanation": "Kebanyakan transduser getaran menghasilkan keluaran yang berhubungan dengan akselerasi (percepatan), sehingga percepatan secara tradisional digunakan untuk menggambarkan getaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Akselerasi (percepatan)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Frekuensi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Amplitudo",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Temperatur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Getaran jenis harmonic vibration adalah gerakan yang ...",
+      "explanation": "Harmonic vibration adalah gerakan yang terdiri dari satu komponen tunggal, seperti getaran garpu tala.",
+      "difficulty": "EASY",
+      "tag": "Jenis Getaran",
+      "options": [
+        {
+          "text": "A. Terdiri dari satu komponen tunggal seperti garpu tala",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Terdiri dari beberapa komponen yang sangat kompleks",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya terjadi pada mesin besar",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak memiliki frekuensi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Getaran jenis non-harmonic vibration adalah gerakan yang ...",
+      "explanation": "Non-harmonic vibration adalah gerakan yang terdiri dari beberapa komponen yang sangat kompleks.",
+      "difficulty": "EASY",
+      "tag": "Jenis Getaran",
+      "options": [
+        {
+          "text": "A. Terdiri dari satu komponen tunggal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Terdiri dari beberapa komponen yang sangat kompleks",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Selalu berbentuk gelombang sinus murni",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak dapat diukur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Contoh getaran harmonik (satu komponen tunggal) yang paling tepat adalah ...",
+      "explanation": "Garpu tala menghasilkan getaran harmonik berupa satu komponen frekuensi tunggal.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Getaran",
+      "options": [
+        {
+          "text": "A. Garpu tala",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mesin pemecah jalan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Truk di jalan berlubang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gergaji rantai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berdasarkan kontak dengan mesin bergetar, getaran segmental adalah getaran yang ...",
+      "explanation": "Getaran segmental adalah getaran pada segmen tubuh, seperti getaran yang ditularkan melalui tangan, dikenal sebagai getaran lengan-tangan atau Hand Arm Vibration (HAV).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Getaran",
+      "options": [
+        {
+          "text": "A. Ditularkan melalui tangan (HAV)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Disalurkan melalui tempat duduk (WBV)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya terjadi pada mesin industri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak memengaruhi manusia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Getaran seluruh tubuh (WBV) adalah getaran yang disalurkan melalui ...",
+      "explanation": "Whole Body Vibration (WBV) adalah getaran yang disalurkan melalui tempat duduk atau kaki.",
+      "difficulty": "EASY",
+      "tag": "Jenis Getaran",
+      "options": [
+        {
+          "text": "A. Tempat duduk atau kaki",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Telapak tangan saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kepala",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gagang alat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Singkatan HAV dalam higiene industri merujuk pada ...",
+      "explanation": "HAV adalah Hand Arm Vibration, yaitu getaran lengan-tangan yang ditransmisikan dari proses kerja ke tangan dan lengan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Getaran Lengan-Tangan (HAV)",
+      "options": [
+        {
+          "text": "A. Hand Arm Vibration",
+          "isCorrect": true
+        },
+        {
+          "text": "B. High Amplitude Vibration",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hazard Assessment Vibration",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hand Acceleration Value",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Singkatan WBV dalam higiene industri merujuk pada ...",
+      "explanation": "WBV adalah Whole Body Vibration, yaitu getaran seluruh tubuh.",
+      "difficulty": "EASY",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Whole Body Vibration",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Wide Band Vibration",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Weighted Base Value",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Work Based Vibration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "HAV (getaran lengan-tangan) adalah getaran yang ditransmisikan dari proses kerja ke ...",
+      "explanation": "HAV adalah getaran yang ditransmisikan dari proses kerja ke tangan dan lengan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Getaran Lengan-Tangan (HAV)",
+      "options": [
+        {
+          "text": "A. Tangan dan lengan pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Punggung pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kepala pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kaki pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut yang merupakan contoh pekerjaan dengan paparan HAV adalah ...",
+      "explanation": "Contoh HAV antara lain pengoperasian perkakas listrik yang dipegang tangan seperti pemecah jalan, peralatan yang dipandu tangan seperti mesin pemotong rumput, atau memegang material yang sedang diproses mesin penggiling.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran Lengan-Tangan (HAV)",
+      "options": [
+        {
+          "text": "A. Mengoperasikan pemecah jalan (jackhammer)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengemudi truk angkat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengoperasikan traktor pertanian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berdiri di platform bergetar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan HAV menjadi berbahaya ketika ...",
+      "explanation": "HAV berbahaya ketika paparan getaran tingkat tinggi terjadi secara durasi teratur dan tingkat kekerapan sering, yang dapat menyebabkan cedera permanen.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran Lengan-Tangan (HAV)",
+      "options": [
+        {
+          "text": "A. Paparan tingkat tinggi dengan durasi teratur dan kekerapan sering",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Paparan hanya satu kali singkat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Alat dimatikan saat digunakan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Frekuensi getaran nol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jumlah HAV berhubungan dengan percepatan alat ketika dipegang dan digunakan. Getaran lengan-tangan diukur pada ...",
+      "explanation": "Getaran lengan-tangan diukur pada gagang alat saat digunakan untuk menentukan tingkat percepatan yang ditransfer ke pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran Lengan-Tangan (HAV)",
+      "options": [
+        {
+          "text": "A. Gagang alat saat digunakan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tempat duduk pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lantai tempat kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bagian luar mesin yang tidak dipegang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut alat yang menghasilkan getaran tinggi pada lengan-tangan adalah ...",
+      "explanation": "Alat getaran tinggi termasuk gergaji rantai, alat perkusi/jack palu (jackhammer), scaler, palu chipping. Kunci pas dampak (impact wrench) dan penggiling tergolong getaran sedang.",
+      "difficulty": "HARD",
+      "tag": "Getaran Lengan-Tangan (HAV)",
+      "options": [
+        {
+          "text": "A. Jack palu (jackhammer)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Obeng manual",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Palu kayu biasa",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gunting tangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan HAV secara rutin dapat menyebabkan cedera permanen pada tangan dan lengan, KECUALI kerusakan pada ...",
+      "explanation": "HAV merusak sistem peredaran darah (getaran jari putih), saraf sensorik, otot, tulang, dan sendi. Sistem pernapasan paru bukan target utama HAV.",
+      "difficulty": "HARD",
+      "tag": "Dampak Kesehatan & HAVS",
+      "options": [
+        {
+          "text": "A. Sistem pernapasan/paru",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sistem peredaran darah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Saraf sensorik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Otot, tulang, dan sendi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Gangguan sistem peredaran darah akibat HAV sering disebut sebagai ...",
+      "explanation": "Gangguan peredaran darah akibat HAV dikenal sebagai getaran jari putih (vibration white finger).",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan & HAVS",
+      "options": [
+        {
+          "text": "A. Getaran jari putih (white finger)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Carpal tunnel syndrome",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tendonitis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tennis elbow",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kerusakan tulang dan sendi akibat intensitas getaran tinggi dalam waktu lama pada lengan-tangan dikenal sebagai ...",
+      "explanation": "Paparan HAV berulang dan menahun dengan intensitas tinggi menyebabkan kerusakan tulang dan sendi yang dikenal sebagai Raynaud's Phenomenon.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan & HAVS",
+      "options": [
+        {
+          "text": "A. Raynaud's Phenomenon",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Meniere's Disease",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Parkinson's Disease",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bell's Palsy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut adalah tanda-tanda Raynaud's Phenomenon, KECUALI ...",
+      "explanation": "Tanda Raynaud's Phenomenon: rasa kaku pada tangan, kontrol otot menghilang, tidak mampu menggenggam, persepsi sensoris menurun, kesemutan, jari-jari pucat (white fingers) dan cyanosis disertai rasa gatal. Demam tinggi bukan tanda Raynaud's.",
+      "difficulty": "HARD",
+      "tag": "Dampak Kesehatan & HAVS",
+      "options": [
+        {
+          "text": "A. Demam tinggi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jari-jari pucat (white fingers)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Rasa kaku pada tangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kesemutan dan menurunnya persepsi sensoris",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Istilah \"white fingers\" pada Raynaud's Phenomenon menggambarkan kondisi ...",
+      "explanation": "White fingers adalah jari-jari yang pucat akibat gangguan peredaran darah perifer, disertai cyanosis dan rasa gatal.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan & HAVS",
+      "options": [
+        {
+          "text": "A. Jari pucat akibat gangguan peredaran darah perifer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jari memerah karena infeksi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kuku yang menebal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pembengkakan sendi jari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan getaran lengan-tangan secara berulang dan menahun menyebabkan kerusakan pada ...",
+      "explanation": "Paparan HAV berulang dan menahun menyebabkan kerusakan jaringan pembuluh darah tepi (perifer) dan jaringan lunak.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan & HAVS",
+      "options": [
+        {
+          "text": "A. Jaringan pembuluh darah tepi dan jaringan lunak",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jaringan paru-paru",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jaringan ginjal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jaringan hati",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut peraturan, produsen alat dan mesin diwajibkan oleh hukum untuk hal-hal berikut, KECUALI ...",
+      "explanation": "Produsen wajib merancang peralatan yang meminimalkan risiko cedera getaran, memberi peringatan risiko sisa getaran, memberi informasi tingkat getaran, dan petunjuk penggunaan. Mereka tidak diwajibkan mengganti biaya pengobatan pekerja.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Menanggung biaya pengobatan semua pekerja yang sakit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Merancang peralatan yang meminimalkan risiko getaran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memberi informasi tentang tingkat getaran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memberi petunjuk penggunaan untuk menghindari risiko getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cedera WBV (getaran seluruh tubuh) yang paling banyak dilaporkan adalah ...",
+      "explanation": "Cedera WBV yang paling banyak dilaporkan adalah nyeri punggung (back pain).",
+      "difficulty": "EASY",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Nyeri punggung",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jari putih",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Gangguan pendengaran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Katarak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "WBV disebabkan oleh getaran mesin yang melewati ...",
+      "explanation": "WBV disebabkan oleh getaran mesin yang melewati pantat orang yang duduk atau kaki orang yang berdiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Pantat orang yang duduk atau kaki orang yang berdiri",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Telapak tangan yang memegang alat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kepala melalui helm",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mata melalui kacamata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut adalah pekerja yang berisiko terkena WBV, KECUALI ...",
+      "explanation": "Berisiko WBV: pengemudi kendaraan/mesin konstruksi, traktor pertanian, truk angkat, kendaraan jalan raya/kereta/bus, operator mesin pemadatan dan crusher, serta pekerja di platform bergetar. Operator gerinda tangan termasuk paparan HAV, bukan WBV.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Operator gerinda tangan (handheld grinder)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengemudi traktor pertanian",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pengemudi truk angkat (forklift)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Operator mesin pemadat (compactor)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu dampak fisiologis WBV pada denyut jantung adalah ...",
+      "explanation": "Dampak fisiologis WBV antara lain denyut jantung meningkat 10-15 denyut/menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Denyut jantung meningkat 10-15 denyut/menit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Denyut jantung berhenti",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Denyut jantung turun 50 denyut/menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Denyut jantung tidak berubah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada WBV, tekanan darah meningkat pada frekuensi sekitar ...",
+      "explanation": "Tekanan darah meningkat pada frekuensi 5 Hz dan menurun pada frekuensi 10-20 Hz.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. 5 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 50 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 80 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 100 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada WBV, kapasitas vital paru menurun pada rentang frekuensi ...",
+      "explanation": "Pada frekuensi 5-7 Hz kapasitas vital menurun.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. 5-7 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 20-30 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 40-50 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 70-80 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dampak kinerja akibat WBV antara lain ...",
+      "explanation": "Dampak kinerja WBV meliputi gangguan fungsi penglihatan dan penurunan kinerja pada pekerjaan mengikuti jejak (tracking).",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Gangguan fungsi penglihatan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Peningkatan ketajaman penglihatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Peningkatan konsentrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Peningkatan kekuatan otot",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan WBV dalam waktu lama dapat menyebabkan gangguan reproduksi berupa ...",
+      "explanation": "Paparan WBV jangka panjang dapat menyebabkan abnormalitas, abortus spontan, dan perubahan menstruasi.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Abortus spontan dan perubahan menstruasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Peningkatan kesuburan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada dampak reproduksi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kehamilan ganda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada WBV, gangguan kesehatan pada dada dan perut terjadi pada rentang frekuensi ...",
+      "explanation": "Berdasarkan tabel efek WBV, frekuensi 3-9 Hz menyebabkan gangguan pada dada dan perut serta keluhan pernapasan.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. 3-9 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 13-20 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 30-40 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 60-80 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada WBV, nyeri punggung terjadi pada rentang frekuensi ...",
+      "explanation": "Berdasarkan tabel efek WBV, nyeri punggung terjadi pada frekuensi sekitar 8-12 Hz.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. 8-12 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 0,1-1 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 40-50 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 70-80 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada WBV, sakit kepala dan gangguan bicara terjadi pada rentang frekuensi ...",
+      "explanation": "Berdasarkan tabel efek WBV, sakit kepala, ketegangan otot meningkat, dan gangguan bicara terjadi pada frekuensi 13-20 Hz.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. 13-20 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 3-5 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 50-60 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 0,1-2 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, NAB getaran lengan-tangan untuk waktu pajanan 6 jam sampai dengan 8 jam per hari kerja adalah ...",
+      "explanation": "Berdasarkan Permenaker No. 5 Tahun 2018, NAB getaran lengan-tangan untuk pajanan 6-8 jam adalah 5 m/det² (resultan percepatan pada sumbu X, Y, Z).",
+      "difficulty": "EASY",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. 5 m/det²",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 6 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 10 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 20 m/det²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, NAB getaran lengan-tangan untuk pajanan 4 jam dan kurang dari 6 jam per hari adalah ...",
+      "explanation": "Berdasarkan tabel NAB getaran lengan-tangan Permenaker No. 5 Tahun 2018, pajanan 4 jam dan <6 jam memiliki NAB 6 m/det².",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. 6 m/det²",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 5 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 7 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 10 m/det²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, NAB getaran lengan-tangan untuk pajanan 2 jam dan kurang dari 4 jam per hari adalah ...",
+      "explanation": "Berdasarkan tabel NAB getaran lengan-tangan, pajanan 2 jam dan <4 jam memiliki NAB 7 m/det².",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. 7 m/det²",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 5 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 10 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 14 m/det²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, NAB getaran lengan-tangan untuk pajanan 1 jam dan kurang dari 2 jam per hari adalah ...",
+      "explanation": "Berdasarkan tabel NAB getaran lengan-tangan, pajanan 1 jam dan <2 jam memiliki NAB 10 m/det².",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. 10 m/det²",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 7 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 14 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 20 m/det²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, NAB getaran lengan-tangan untuk pajanan 0,5 jam dan kurang dari 1 jam per hari adalah ...",
+      "explanation": "Berdasarkan tabel NAB getaran lengan-tangan, pajanan 0,5 jam dan <1 jam memiliki NAB 14 m/det².",
+      "difficulty": "HARD",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. 14 m/det²",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 10 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 7 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 20 m/det²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, NAB getaran lengan-tangan untuk pajanan kurang dari 0,5 jam per hari adalah ...",
+      "explanation": "Berdasarkan tabel NAB getaran lengan-tangan, pajanan kurang dari 0,5 jam memiliki NAB 20 m/det².",
+      "difficulty": "HARD",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. 20 m/det²",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 14 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 10 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 5 m/det²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hubungan antara durasi pajanan getaran lengan-tangan dengan nilai NAB percepatan adalah ...",
+      "explanation": "Semakin singkat durasi pajanan, semakin tinggi NAB percepatan yang diperbolehkan (8 jam = 5 m/det²; <0,5 jam = 20 m/det²). Jadi durasi pendek diperbolehkan percepatan lebih tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. Semakin singkat durasi, semakin tinggi NAB percepatan yang diperbolehkan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Semakin singkat durasi, semakin rendah NAB percepatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Durasi tidak memengaruhi NAB",
+          "isCorrect": false
+        },
+        {
+          "text": "D. NAB selalu tetap 5 m/det² berapapun durasinya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Peraturan Menteri Ketenagakerjaan yang mengatur Nilai Ambang Batas faktor fisika termasuk getaran adalah ...",
+      "explanation": "Permenaker No. 5 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja mengatur NAB faktor fisika termasuk getaran.",
+      "difficulty": "EASY",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. Permenaker No. 5 Tahun 2018",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Permenaker No. 13 Tahun 2011",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Permenaker No. 8 Tahun 2010",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Permenaker No. 3 Tahun 2020",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Peraturan Menteri Kesehatan yang mengatur Standar dan Persyaratan Kesehatan Lingkungan Kerja Industri (termasuk getaran) adalah ...",
+      "explanation": "Permenkes No. 70 Tahun 2016 tentang Standar dan Persyaratan Kesehatan Lingkungan Kerja Industri mengatur batas pajanan getaran.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. Permenkes No. 70 Tahun 2016",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Permenkes No. 48 Tahun 2016",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Permenkes No. 56 Tahun 2016",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Permenkes No. 7 Tahun 2019",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika hasil pengukuran getaran tangan-lengan sebesar 12 m/det², berapa durasi pajanan yang diperbolehkan menurut perhitungan?",
+      "explanation": "Berdasarkan contoh kasus pada materi, nilai akselerasi 12 m/det² memberikan durasi pajanan yang diperbolehkan selama 1,391 jam.",
+      "difficulty": "HARD",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. Sekitar 1,4 jam (1,391 jam)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 8 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 4 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 6 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai akselerasi getaran tangan-lengan untuk durasi pajanan selain yang tercantum pada tabel Permenkes dihitung dengan ...",
+      "explanation": "Nilai Ambang Batas untuk durasi pajanan getaran tangan-lengan selain yang tercantum di tabel Permenkes dapat dihitung dengan rumus (interpolasi/persamaan), bukan ditebak.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. Rumus/perhitungan yang ditetapkan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menebak berdasarkan pengalaman",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menggunakan nilai tertinggi saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengabaikan durasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar acuan TLV ACGIH untuk nilai VDV (Vibration Dose Value) pada getaran seluruh tubuh yang disebut dalam materi adalah ...",
+      "explanation": "Pada interpretasi hasil WBV, nilai VDV dibandingkan dengan TLV ACGIH yaitu 17,0 m/det^1,75.",
+      "difficulty": "HARD",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. 17,0 m/det^1,75",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 5,0 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 2,5 m/det²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 80 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Interpretasi hasil pengukuran getaran lengan-tangan dilakukan dengan membandingkan paparan getaran dan waktu paparan dalam ...",
+      "explanation": "Interpretasi hasil pengukuran HAV memperhatikan hasil pengukuran paparan getaran serta waktu paparan dalam 8 jam kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. 8 jam kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 12 jam kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 1 jam kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 24 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar ISO yang mengatur evaluasi paparan manusia terhadap getaran seluruh tubuh (whole-body vibration) adalah ...",
+      "explanation": "ISO 2631-1:1997 mengatur Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration, Part 1: General requirements.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. ISO 2631",
+          "isCorrect": true
+        },
+        {
+          "text": "B. ISO 5349",
+          "isCorrect": false
+        },
+        {
+          "text": "C. ISO 9001",
+          "isCorrect": false
+        },
+        {
+          "text": "D. ISO 14001",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar ISO yang khusus mengatur pengukuran dan evaluasi paparan getaran lengan-tangan (hand-arm vibration) adalah ...",
+      "explanation": "ISO 5349 mengatur pengukuran dan evaluasi paparan manusia terhadap getaran yang ditransmisikan melalui tangan (hand-arm vibration).",
+      "difficulty": "MEDIUM",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. ISO 5349",
+          "isCorrect": true
+        },
+        {
+          "text": "B. ISO 2631",
+          "isCorrect": false
+        },
+        {
+          "text": "C. ISO 10816",
+          "isCorrect": false
+        },
+        {
+          "text": "D. ISO 1996",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada standar ISO 5349 untuk getaran lengan-tangan, nilai Exposure Action Value (EAV) ditetapkan sebesar ...",
+      "explanation": "Berdasarkan ISO 5349, Exposure Action Value (EAV) untuk getaran lengan-tangan adalah 2,5 m/s² A(8). Jika terlampaui, tindakan pengendalian harus dilakukan.",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. 2,5 m/s²",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 5,0 m/s²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 1,0 m/s²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 17,0 m/s²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada standar ISO 5349 untuk getaran lengan-tangan, nilai Exposure Limit Value (ELV) ditetapkan sebesar ...",
+      "explanation": "Berdasarkan ISO 5349, Exposure Limit Value (ELV) untuk getaran lengan-tangan adalah 5,0 m/s² A(8), yang merupakan batas paparan yang tidak boleh dilampaui.",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. 5,0 m/s²",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 2,5 m/s²",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 10 m/s²",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 80 m/s²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada standar getaran lengan-tangan ISO 5349, hubungan antara EAV dan ELV adalah ...",
+      "explanation": "EAV (2,5 m/s²) adalah nilai aksi paparan yang lebih rendah, sedangkan ELV (5,0 m/s²) adalah batas paparan tertinggi. ELV bernilai dua kali EAV.",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. ELV (5,0 m/s²) lebih tinggi dari EAV (2,5 m/s²)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. EAV lebih tinggi dari ELV",
+          "isCorrect": false
+        },
+        {
+          "text": "C. EAV dan ELV sama besar",
+          "isCorrect": false
+        },
+        {
+          "text": "D. ELV selalu nol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar SNI yang mengatur metode pengukuran getaran lengan-tangan adalah ...",
+      "explanation": "SNI 7054:2019 mengatur pengukuran getaran lengan-tangan (hand arm vibration).",
+      "difficulty": "MEDIUM",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. SNI 7054:2019",
+          "isCorrect": true
+        },
+        {
+          "text": "B. SNI 7186:2021",
+          "isCorrect": false
+        },
+        {
+          "text": "C. SNI 16-7063",
+          "isCorrect": false
+        },
+        {
+          "text": "D. SNI 7231:2009",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar SNI yang mengatur metode pengukuran percepatan getaran seluruh tubuh adalah ...",
+      "explanation": "SNI 7186:2021 mengatur metode pengukuran percepatan getaran seluruh tubuh (whole body vibration).",
+      "difficulty": "MEDIUM",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. SNI 7186:2021",
+          "isCorrect": true
+        },
+        {
+          "text": "B. SNI 7054:2019",
+          "isCorrect": false
+        },
+        {
+          "text": "C. SNI 7231:2009",
+          "isCorrect": false
+        },
+        {
+          "text": "D. SNI 16-7063",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar ISO yang mengatur pengukuran dan evaluasi getaran mesin (getaran mekanis) adalah ...",
+      "explanation": "ISO 10816 (digantikan oleh seri ISO 20816, contoh ISO 20816-3:2022) mengatur pengukuran dan evaluasi getaran mesin, termasuk klasifikasi zona getaran A sampai D.",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. ISO 10816 / ISO 20816",
+          "isCorrect": true
+        },
+        {
+          "text": "B. ISO 5349",
+          "isCorrect": false
+        },
+        {
+          "text": "C. ISO 2631",
+          "isCorrect": false
+        },
+        {
+          "text": "D. ISO 9612",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada evaluasi getaran mesin menurut ISO 10816, zona evaluasi diklasifikasikan ke dalam zona ...",
+      "explanation": "ISO 10816 mengklasifikasikan tingkat getaran mesin ke dalam empat zona evaluasi: A (baru/baik), B (dapat dioperasikan tanpa batasan), C (kurang memuaskan, perlu perbaikan), dan D (cukup parah, dapat merusak mesin).",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. Zona A, B, C, dan D",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Zona 1, 2, dan 3",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kelas X, Y, Z",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Level rendah dan tinggi saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada klasifikasi zona getaran mesin ISO 10816, zona yang menunjukkan getaran cukup parah dan dapat menyebabkan kerusakan mesin adalah ...",
+      "explanation": "Zona D pada ISO 10816 menandakan tingkat getaran cukup parah yang dapat menyebabkan kerusakan mesin. Zona A adalah kondisi mesin baru/baik.",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. Zona D",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Zona A",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Zona B",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Zona C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rentang frekuensi yang dievaluasi pada pengukuran getaran seluruh tubuh menurut SNI 7186:2021 adalah ...",
+      "explanation": "SNI 7186:2021 mengevaluasi paparan getaran seluruh tubuh pada rentang frekuensi 0,1 Hz sampai 80 Hz.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. 0,1 Hz sampai 80 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 20 Hz sampai 20.000 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 8 Hz sampai 1000 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 100 Hz sampai 500 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar ISO 20816-3:2022 mengatur tentang ...",
+      "explanation": "ISO 20816-3:2022 mengatur getaran mekanis — pengukuran dan evaluasi getaran mesin.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. Pengukuran dan evaluasi getaran mesin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengukuran kebisingan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Evaluasi getaran lengan-tangan saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Standar pencahayaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar ISO 2631-5:2018 secara khusus mengatur evaluasi getaran seluruh tubuh yang ...",
+      "explanation": "ISO 2631-5:2018 adalah metode untuk evaluasi getaran yang mengandung multiple shocks (banyak kejutan).",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. Mengandung multiple shocks (banyak kejutan)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya pada lengan-tangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya pada mesin industri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tanpa kejutan sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada klasifikasi evaluasi getaran mekanis, Class I (small machines) adalah mesin dengan daya ...",
+      "explanation": "Class I (small machines) adalah mesin dengan daya hingga 15 kW.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. Hingga 15 kW",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 15-75 kW",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lebih dari 300 kW",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hingga 300 kW",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada klasifikasi evaluasi getaran mekanis, Class II (medium size machines) adalah mesin dengan daya ...",
+      "explanation": "Class II adalah mesin daya 15 kW – 75 kW tanpa pondasi, atau mesin sampai 300 kW yang dipasang pada pondasi.",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. 15-75 kW (tanpa pondasi) atau sampai 300 kW pada pondasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hingga 15 kW",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lebih dari 300 kW pada pondasi kaku",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lebih dari 1000 kW",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada klasifikasi getaran mekanis, perbedaan utama antara Class III dan Class IV (keduanya >300 kW) adalah ...",
+      "explanation": "Class III dipasang pada pondasi kaku dan besar, sedangkan Class IV dipasang pada pondasi yang relatif lunak.",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. Class III pada pondasi kaku, Class IV pada pondasi relatif lunak",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Class III lebih kecil dari 15 kW",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Class IV tanpa pondasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada perbedaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berapa banyak kategori evaluasi getaran mekanis menurut standar getaran mesin pada materi?",
+      "explanation": "Terdapat 4 kategori (class) evaluasi getaran mekanis: Class I, II, III, dan IV.",
+      "difficulty": "EASY",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. 4 kategori",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 2 kategori",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 6 kategori",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 10 kategori",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat ukur yang dirancang untuk mengukur dan menganalisis getaran pada mesin dan peralatan industri (motor, pompa, kompresor) disebut ...",
+      "explanation": "Vibration Analyzer adalah alat untuk mengukur dan menganalisis getaran pada mesin dan peralatan industri, untuk mendeteksi masalah sebelum terjadi kegagalan serius.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Vibration Analyzer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sound Level Meter",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lux Meter",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Anemometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat yang dirancang untuk mengukur getaran yang dirasakan tubuh manusia melalui tangan atau seluruh tubuh disebut ...",
+      "explanation": "Human Arm Whole Body Vibration Meter (human vibration meter) mengukur tingkat paparan getaran pada tubuh manusia, contohnya PCE VM 31.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Human Arm Whole Body Vibration Meter",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Vibration Analyzer mesin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tachometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Heat Stress Monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sensor utama untuk mengukur percepatan getaran pada vibrasi meter disebut ...",
+      "explanation": "Akselerometer (accelerometer)/transducer adalah sensor untuk mengukur percepatan getaran.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Akselerometer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mikrofon",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Termokopel",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Manometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Contoh alat ukur getaran HAV dan WBV yang disebutkan dalam materi adalah ...",
+      "explanation": "Contoh alat yang disebut adalah PCE VM 31 HAWB Monitoring Vibration Meter.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. PCE VM 31",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Brüel & Kjær 2250",
+          "isCorrect": false
+        },
+        {
+          "text": "C. TES-1357",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kanomax 6036",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pemilihan akselerometer, kepekaan terhadap percepatan pada bidang tegak lurus (transverse sensitivity) sebaiknya ...",
+      "explanation": "Akselerometer dipilih dengan kepekaan terhadap percepatan pada bidang yang tegak lurus (sensitivitas melintang) kurang dari 4%.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Kurang dari 4%",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lebih dari 50%",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tepat 100%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Antara 20-30%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut adalah kondisi lingkungan yang dipertimbangkan dalam pemilihan akselerometer, KECUALI ...",
+      "explanation": "Faktor lingkungan yang dipertimbangkan: suhu, medan magnet, kelembaban udara, dan kebisingan. Warna dinding bukan faktor pemilihan akselerometer.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Warna dinding ruangan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Medan magnet",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kelembaban udara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Vibration Analyzer membantu industri terutama untuk ...",
+      "explanation": "Vibration Analyzer mendeteksi masalah pada mesin sebelum terjadi kegagalan yang serius (predictive maintenance).",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Mendeteksi masalah mesin sebelum terjadi kegagalan serius",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengukur suhu ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengukur intensitas cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengukur kadar debu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat vibrasi meter sebelum digunakan untuk pengukuran wajib dalam kondisi ...",
+      "explanation": "Salah satu persyaratan pengukuran adalah alat vibrasi meter harus terkalibrasi (untuk WBV oleh laboratorium kalibrasi terakreditasi).",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Terkalibrasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dalam keadaan baru saja dibeli",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bersuara nyaring",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berwarna terang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Adaptor pada vibrasi meter HAV berfungsi sebagai ...",
+      "explanation": "Adaptor adalah tempat pelindung akselerometer, dipasang pada telapak tangan atau pegangan alat.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Tempat pelindung akselerometer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sumber listrik alat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Layar penampil hasil",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penghasil getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan pengukuran getaran lengan-tangan menurut SNI 7054:2019 adalah ...",
+      "explanation": "Tujuan pengukuran HAV adalah mengukur percepatan getaran yang memajan lengan dan tangan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Mengukur percepatan getaran yang memajan lengan dan tangan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengukur tekanan darah pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengukur kebisingan mesin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengukur suhu permukaan alat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran HAV, percepatan getaran diukur menggunakan salah satu dari dua sistem koordinat, yaitu ...",
+      "explanation": "Arah percepatan HAV diukur dengan sistem koordinat basicentric atau biodynamic.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Basicentric atau biodynamic",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Polar atau kartesius saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Vertikal atau horizontal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Statis atau dinamis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sistem koordinat basicentric pada pengukuran HAV menunjukkan arah percepatan pada ...",
+      "explanation": "Sistem koordinat basicentric menunjukkan arah percepatan pada pegangan alat atau mesin, sedangkan biodynamic menunjukkan arah percepatan pada tangan.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Pegangan alat atau mesin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tangan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tempat duduk",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lantai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sistem koordinat biodynamic pada pengukuran HAV menunjukkan arah percepatan pada ...",
+      "explanation": "Sistem koordinat biodynamic menunjukkan arah percepatan pada tangan, sedangkan basicentric pada pegangan alat.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Tangan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pegangan alat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mesin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kaki",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran HAV (SNI 7054:2019), pengukuran percepatan getaran dilakukan pada ...",
+      "explanation": "Pengukuran HAV dilakukan pada pegangan alat atau telapak tangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Pegangan alat atau telapak tangan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tempat duduk pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kepala pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Punggung pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pelaksanaan pengukuran HAV, alat diatur pada mode pengukuran ...",
+      "explanation": "Alat diatur pada mode percepatan untuk pengukuran percepatan getaran lengan-tangan, dan pada mode rms (root mean square).",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Mode percepatan dan rms (root mean square)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mode suhu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mode tekanan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mode frekuensi audio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Durasi minimal pengukuran getaran lengan-tangan menurut SNI 7054:2019 adalah ...",
+      "explanation": "Pengukuran HAV dilakukan minimal 1 menit, atau jika menggunakan siklus, minimal dilakukan pada 2 siklus dengan mencatat durasi tiap siklus.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Minimal 1 menit (atau 2 siklus jika menggunakan siklus)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Minimal 1 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Minimal 5 detik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Minimal 108 detik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk pekerjaan dengan mayoritas perambatan getaran dari alat menuju telapak tangan, adaptor yang digunakan adalah ...",
+      "explanation": "Bila mayoritas perambatan getaran menuju telapak tangan, digunakan adaptor telapak tangan; bila tidak, digunakan adaptor pegangan alat.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Adaptor telapak tangan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Adaptor pegangan alat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Adaptor piringan karet",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Adaptor kepala",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Interpretasi hasil pengukuran getaran lengan-tangan dimaksudkan untuk ...",
+      "explanation": "Interpretasi hasil HAV dimaksudkan untuk membandingkan paparan getaran lengan-tangan dengan Nilai Ambang Batas sesuai peraturan.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Membandingkan paparan dengan Nilai Ambang Batas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghitung biaya pengukuran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menentukan warna alat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menilai estetika tempat kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran WBV (SNI 7186:2021), vibrasi meter harus terkalibrasi oleh ...",
+      "explanation": "Persyaratan WBV: vibrasi meter dalam kondisi baik dan terkalibrasi oleh laboratorium kalibrasi yang terakreditasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Laboratorium kalibrasi yang terakreditasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Operator alat sendiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Produsen alat tanpa akreditasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu dikalibrasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengukuran WBV dilakukan sesuai posisi kerja pekerja, yaitu posisi ...",
+      "explanation": "Pengukuran WBV disesuaikan dengan posisi kerja pekerja: duduk, berdiri, atau berbaring.",
+      "difficulty": "EASY",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Duduk, berdiri, atau berbaring",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya posisi duduk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya posisi berdiri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya posisi berlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran WBV, akselerometer terpasang pada pusat adaptor (mounting) berbentuk piringan karet dengan diameter ...",
+      "explanation": "Adaptor mounting WBV berbentuk piringan karet dengan diameter 250 mm ± 50 mm (ISO 10326-1:2016).",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 250 mm ± 50 mm",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 50 mm ± 10 mm",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 500 mm ± 100 mm",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 100 mm ± 25 mm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rentang pengukuran alat pada pengukuran WBV menurut prosedur SNI 7186:2021 adalah ...",
+      "explanation": "Alat WBV diatur pada rentang pengukuran 0,5 - 80 Hz.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 0,5 - 80 Hz",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 20 - 20.000 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 100 - 500 Hz",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 - 10 Hz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lama pengukuran WBV untuk getaran dengan sinyal acak stasioner adalah minimal ...",
+      "explanation": "Lama pengukuran WBV untuk getaran dengan sinyal acak stasioner adalah minimal 108 detik.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 108 detik",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 10 detik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk getaran konstan pada pengukuran WBV, pengukuran dilakukan minimal ...",
+      "explanation": "Pengukuran dilakukan minimal 2 kali untuk getaran yang konstan.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 2 kali",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 10 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 4 kali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk getaran kejut pada pengukuran WBV, periode pengukuran paling sedikit ...",
+      "explanation": "Untuk getaran kejut, periode pengukuran paling sedikit 4 kali sesuai siklus fluktuasi getaran.",
+      "difficulty": "HARD",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. 4 kali",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 2 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 1 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 108 kali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran WBV posisi kerja duduk, subjek harus ...",
+      "explanation": "Pada posisi duduk, subjek menduduki bantalan rangkaian akselerometer. Berdiri: menginjak; berbaring: menindih dengan punggung.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Menduduki bantalan rangkaian akselerometer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menginjak bantalan akselerometer",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menindih dengan punggung",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memegang akselerometer dengan tangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran WBV posisi kerja berdiri, subjek harus ...",
+      "explanation": "Pada posisi berdiri, subjek menginjak bantalan rangkaian akselerometer.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Menginjak bantalan rangkaian akselerometer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menduduki bantalan akselerometer",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menindih dengan punggung",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menggenggam dengan tangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran WBV posisi kerja berbaring, subjek harus ...",
+      "explanation": "Pada posisi berbaring, subjek menindih rangkaian akselerometer dengan punggung.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Menindih rangkaian akselerometer dengan punggung",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menduduki akselerometer",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menginjak akselerometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memegang akselerometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mode pembacaan nilai percepatan getaran pada vibrasi meter yang digunakan untuk membandingkan dengan NAB umumnya menggunakan nilai ...",
+      "explanation": "Pengukuran HAV diatur pada mode rms (root mean square) untuk membaca percepatan getaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. RMS (root mean square)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Nilai maksimum sesaat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Nilai minimum",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Nilai rata-rata aritmetik sederhana saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bila dalam pengukuran HAV diperoleh beberapa data, paparan getaran yang digunakan adalah ...",
+      "explanation": "Bila diperoleh beberapa data, paparan getaran yang digunakan adalah nilai rata-rata paparan getaran yang dihitung dengan rumus.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Nilai rata-rata paparan getaran yang dihitung dengan rumus",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Nilai terendah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Data pertama saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Data yang dipilih acak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut adalah upaya pengendalian getaran lengan-tangan (HAV), KECUALI ...",
+      "explanation": "Pengendalian HAV: lengkapi peredam, jangan melampaui NAB, kurangi waktu papar, istirahat 10 menit tiap jam, gunakan sarung tangan berlapis. Menaikkan kecepatan alat justru memperbesar getaran, bukan pengendalian.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Menaikkan kecepatan putar alat semaksimal mungkin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Melengkapi alat dengan peredam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengurangi waktu papar",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menggunakan sarung tangan berlapis (anti-getaran)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Anjuran waktu istirahat dalam pengendalian getaran lengan-tangan menurut materi adalah ...",
+      "explanation": "Pengendalian HAV menganjurkan istirahat 10 menit setiap jamnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Istirahat 10 menit setiap jam",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Istirahat 1 menit setiap jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Istirahat 2 jam setiap jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu istirahat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat pelindung diri yang dianjurkan untuk mengurangi paparan getaran lengan-tangan adalah ...",
+      "explanation": "Sarung tangan berlapis (anti-vibrasi) dianjurkan untuk mengurangi paparan getaran lengan-tangan.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Sarung tangan berlapis (anti-getaran)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kacamata gelap",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penutup telinga",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Masker debu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada hierarki pengendalian getaran lengan-tangan, penggunaan kendali jarak jauh (remote control) untuk mengoperasikan pelat getar bertujuan agar paparan getaran operator menjadi ...",
+      "explanation": "Dengan kendali jarak jauh, paparan getaran operator dapat menjadi nol karena operator tidak kontak langsung dengan alat bergetar (eliminasi).",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Nol",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dua kali lipat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tetap",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Maksimum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pendekatan pengendalian WBV dilakukan dengan mengurangi intensitas paparan, durasi, dan ...",
+      "explanation": "Pengendalian WBV dengan mengurangi intensitas paparan, durasi, dan jumlah interval paparan getaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Jumlah interval paparan getaran",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jumlah pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suhu ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Intensitas cahaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut adalah pendekatan desain untuk pengendalian WBV pada kendaraan, KECUALI ...",
+      "explanation": "Pendekatan desain WBV: kursi dan suspensi kursi, suspensi kabin, kondisi/tekanan/jenis ban, muatan kendaraan, perawatan kendaraan. Memperbesar mesin bukan pendekatan pengendalian WBV.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Memperbesar kapasitas mesin kendaraan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kursi dan suspensi kursi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suspensi kabin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kondisi, tekanan, dan jenis ban",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk mengurangi paparan WBV, pengemudi kendaraan sebaiknya duduk dengan ...",
+      "explanation": "Pengurangan WBV: pengemudi duduk dalam posisi tegak dengan punggung sepenuhnya bersentuhan dengan sandaran punggung dan dukungan lumbar.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Posisi tegak, punggung bersentuhan penuh dengan sandaran dan dukungan lumbar",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membungkuk ke depan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bersandar miring ke samping",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berdiri sambil mengemudi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengaruh peningkatan kecepatan mengemudi terhadap paparan getaran WBV adalah ...",
+      "explanation": "Peningkatan kecepatan mengemudi mengakibatkan peningkatan tingkat paparan getaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Meningkatkan tingkat paparan getaran",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menurunkan tingkat paparan getaran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak berpengaruh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghilangkan getaran sepenuhnya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kondisi permukaan jalan yang lebih efektif mengurangi magnitudo paparan getaran WBV adalah ...",
+      "explanation": "Permukaan jalan tanah berkerikil halus menghasilkan magnitudo getaran lebih rendah dibanding jalan berlubang kasar penuh lubang.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Jalan tanah berkerikil halus",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jalan berlubang kasar penuh lubang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jalan dengan banyak polisi tidur",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jalan bergelombang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut adalah upaya pengendalian sumber getaran pada WBV menurut materi, KECUALI ...",
+      "explanation": "Upaya WBV: isolasi/pasang penyangga untuk meminimalkan transmisi, kurangi waktu papar, jauhkan mesin pengontrol dari mesin bergetar, dan maintenance alat. Mempercepat keausan alat bukan pengendalian.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Membiarkan alat tidak dirawat hingga rusak",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Isolasi dan memasang penyangga untuk meminimalkan transmisi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengurangi waktu papar",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Maintenance alat secara rutin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor keterampilan dan perilaku yang memengaruhi paparan WBV pengemudi meliputi hal berikut, KECUALI ...",
+      "explanation": "Faktor keterampilan/perilaku WBV: berat badan, postur tubuh, pengalaman pengemudi, penyesuaian kursi, kecepatan mengemudi, kondisi lintasan, jadwal kerja, dan kebugaran. Merek kendaraan bukan faktor perilaku.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Merek/logo kendaraan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Postur tubuh dan pengalaman pengemudi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penyesuaian kursi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kecepatan mengemudi dan kebugaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada penanganan pemutus (breaker) untuk mengurangi getaran lengan-tangan, salah satu praktik yang dianjurkan adalah ...",
+      "explanation": "Penanganan pemutus untuk mengurangi getaran: jaga titik mol tetap tajam, istirahat sedikit demi sedikit, jangan sampai macet, jangan memaksakan pegangan anti-getaran, hentikan pemutus sebelum menarik keluar.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Menjaga agar titik mata bor/mol tetap tajam",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membiarkan alat macet",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menarik keluar pemutus saat masih menyala",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menggenggam alat sekuat mungkin tanpa henti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Proses manajemen risiko getaran secara umum mencakup tahapan berikut, KECUALI ...",
+      "explanation": "Manajemen dan kontrol getaran mencakup: identifikasi sumber, menilai eksposur, menerapkan kontrol, serta pantau dan evaluasi. Mengabaikan sumber getaran bukan bagian manajemen risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Mengabaikan sumber getaran",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Identifikasi sumber",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menilai eksposur",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menerapkan kontrol dan evaluasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sumber utama getaran di tempat kerja adalah ...",
+      "explanation": "Sumber getaran adalah kontak dengan mesin atau alat yang bergetar saat dijalankan oleh motor.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Kontak dengan mesin/alat yang bergetar",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Cahaya matahari",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suara percakapan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bau bahan kimia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Istilah lain (sinonim) untuk getaran segmental adalah ...",
+      "explanation": "Getaran segmental disebut juga getaran lokal/localized atau getaran lengan-tangan (HAV).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Getaran",
+      "options": [
+        {
+          "text": "A. Getaran lokal (localized) / lengan-tangan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Getaran seluruh tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Getaran kabin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Getaran resonansi mesin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Percepatan terbobot (weighted acceleration) untuk getaran rotasi dengan pusat rotasi pada sumbu x, y, atau z dinyatakan dalam satuan ...",
+      "explanation": "Untuk getaran translasi dinyatakan dalam m/s², sedangkan getaran rotasi dinyatakan dalam radian per detik kuadrat (rad/s²).",
+      "difficulty": "HARD",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. radian per detik kuadrat (rad/s²)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. meter per detik kuadrat (m/s²)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hertz (Hz)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. meter (m)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut definisi pada SNI 7186:2021, getaran periodik adalah getaran di mana ...",
+      "explanation": "Getaran periodik adalah getaran di mana nilai percepatan getaran berulang dalam rentang waktu tertentu dengan durasi yang sama.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Nilai percepatan berulang dalam rentang waktu tertentu dengan durasi sama",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Terjadi tidak teratur dan tidak dapat diprediksi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Terjadi singkat dan menurun seiring waktu",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak memiliki percepatan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut definisi pada SNI 7186:2021, getaran acak adalah getaran yang ...",
+      "explanation": "Getaran acak adalah getaran yang terjadi secara tidak teratur sehingga nilai percepatan getarannya tidak dapat diprediksi.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Terjadi tidak teratur sehingga percepatannya tidak dapat diprediksi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Berulang dengan durasi yang sama",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Selalu konstan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berbentuk gelombang sinus murni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut definisi pada SNI 7186:2021, getaran sementara (transient) adalah getaran yang ...",
+      "explanation": "Getaran sementara adalah getaran yang terjadi pada durasi singkat serta menurun intensitasnya seiring waktu.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Terjadi singkat dan menurun intensitasnya seiring waktu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Berulang terus-menerus selamanya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak dapat diprediksi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Selalu meningkat intensitasnya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Crest factor pada pengukuran getaran didefinisikan sebagai ...",
+      "explanation": "Crest factor adalah rasio nilai maksimum percepatan getaran dengan akar kuadrat percepatan rata-rata (rms) dengan nilai pembobotan frekuensi yang sama.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Rasio nilai maksimum percepatan terhadap nilai rms",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jumlah getaran per detik",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Selisih frekuensi tertinggi dan terendah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Perkalian amplitudo dengan frekuensi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berdasarkan crest factor, getaran konstan adalah getaran dengan crest factor ...",
+      "explanation": "Getaran konstan memiliki crest factor kurang dari atau sama dengan 9, sedangkan getaran kejut memiliki crest factor lebih dari 9.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Kurang dari atau sama dengan 9",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lebih dari 9",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sama dengan nol",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lebih dari 100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berdasarkan crest factor, getaran kejut (shock) adalah getaran dengan crest factor ...",
+      "explanation": "Getaran kejut memiliki crest factor lebih besar dari 9.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Lebih besar dari 9",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kurang dari atau sama dengan 9",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sama dengan 1",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Nol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Singkatan VDV dalam evaluasi paparan getaran adalah ...",
+      "explanation": "VDV adalah Vibration Dose Value, yaitu nilai dosis paparan getaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Vibration Dose Value (nilai dosis paparan getaran)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Vibration Damping Value",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Velocity Distribution Value",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Variable Density Vibration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Getaran seluruh tubuh menurut SNI 7186:2021 meliputi jenis getaran berikut, yaitu ...",
+      "explanation": "Getaran seluruh tubuh meliputi getaran periodik, acak, dan sementara (transient).",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Periodik, acak, dan sementara",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya periodik",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya getaran kejut",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya getaran harmonik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Metode pengukuran WBV menurut SNI 7186:2021 TIDAK dapat digunakan untuk ...",
+      "explanation": "Metode WBV tidak dapat digunakan untuk mengevaluasi getaran tunggal dengan besaran ekstrem seperti pada kejadian kecelakaan kendaraan.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Mengevaluasi getaran tunggal ekstrem seperti kecelakaan kendaraan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengukur posisi kerja duduk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengukur posisi kerja berdiri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengukur posisi kerja berbaring",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fenomena ketika frekuensi getaran luar mendekati frekuensi alami organ tubuh sehingga memperbesar amplitudo getaran disebut ...",
+      "explanation": "Resonansi terjadi ketika frekuensi getaran sumber mendekati frekuensi alami suatu organ/struktur, sehingga amplitudo getaran membesar dan dampak kesehatan meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Parameter Getaran",
+      "options": [
+        {
+          "text": "A. Resonansi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Difraksi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Refleksi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Absorpsi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alasan resonansi penting dalam getaran seluruh tubuh adalah karena ...",
+      "explanation": "Pada frekuensi resonansi organ tertentu (misalnya dada-perut 3-9 Hz, mata, kepala), amplitudo getaran membesar sehingga gangguan kesehatan pada organ tersebut paling besar.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Pada frekuensi resonansi organ, amplitudo membesar sehingga gangguan terbesar",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Resonansi selalu menghilangkan getaran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Resonansi tidak berpengaruh pada tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Resonansi hanya terjadi pada mesin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa percepatan (bukan kecepatan) yang umum dipakai menggambarkan getaran kerja?",
+      "explanation": "Karena kebanyakan transduser/akselerometer menghasilkan keluaran yang berhubungan dengan akselerasi, maka percepatan secara tradisional digunakan untuk menggambarkan getaran.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Karena transduser umumnya menghasilkan keluaran terkait akselerasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena kecepatan tidak dapat diukur",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena percepatan tidak memiliki satuan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena percepatan tidak berhubungan dengan getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mesin yang menggunakan daya 50 kW tanpa pondasi termasuk kategori getaran mekanis ...",
+      "explanation": "Mesin daya 15-75 kW tanpa pondasi termasuk Class II (medium size machines).",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. Class II",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Class I",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Class III",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Class IV",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mesin dengan penggerak utama berdaya 500 kW yang dipasang pada pondasi yang relatif lunak termasuk kategori getaran mekanis ...",
+      "explanation": "Mesin >300 kW pada pondasi relatif lunak termasuk Class IV.",
+      "difficulty": "HARD",
+      "tag": "Standar ISO & SNI",
+      "options": [
+        {
+          "text": "A. Class IV",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Class III",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Class II",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Class I",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Seorang operator gergaji rantai (chainsaw) berisiko mengalami gangguan kesehatan akibat jenis getaran ...",
+      "explanation": "Gergaji rantai dipegang dengan tangan dan menghasilkan getaran tinggi, sehingga risikonya adalah getaran lengan-tangan (HAV).",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran Lengan-Tangan (HAV)",
+      "options": [
+        {
+          "text": "A. Getaran lengan-tangan (HAV)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Getaran seluruh tubuh (WBV)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Getaran mekanis mesin saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada risiko getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Seorang pengemudi forklift sepanjang hari berisiko mengalami gangguan kesehatan akibat jenis getaran ...",
+      "explanation": "Pengemudi forklift (truk angkat) duduk dan terpapar getaran lewat tempat duduk, sehingga risikonya getaran seluruh tubuh (WBV) dengan keluhan utama nyeri punggung.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Getaran seluruh tubuh (WBV)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Getaran lengan-tangan (HAV)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Getaran harmonik garpu tala",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada risiko getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika hasil pengukuran percepatan getaran lengan-tangan seorang pekerja adalah 5 m/det² dan ia bekerja 8 jam/hari, maka kondisinya ...",
+      "explanation": "NAB getaran lengan-tangan untuk 6-8 jam adalah 5 m/det². Nilai 5 m/det² tepat berada pada batas NAB, sehingga tidak melebihi NAB namun perlu pengendalian/pemantauan.",
+      "difficulty": "HARD",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. Tepat pada batas NAB (5 m/det²)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jauh di atas NAB",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada NAB yang berlaku",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Aman tanpa perlu pemantauan apa pun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika seorang pekerja terpapar getaran lengan-tangan 8 m/det², agar tetap aman menurut Permenaker No. 5 Tahun 2018, durasi pajanannya harus ...",
+      "explanation": "Karena 8 m/det² melebihi NAB 8 jam (5 m/det²), durasi pajanan harus dipersingkat. Pada tabel, 8 m/det² berada di antara durasi 2 jam (7 m/det²) dan 1 jam (10 m/det²), sehingga pajanan harus kurang dari 2 jam.",
+      "difficulty": "HARD",
+      "tag": "NAB & Regulasi",
+      "options": [
+        {
+          "text": "A. Diperpendek (kurang dari 2 jam)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Boleh tetap 8 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Diperpanjang menjadi 12 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak dibatasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang perbedaan target organ HAV dan WBV adalah ...",
+      "explanation": "HAV terutama merusak tangan-lengan (jari putih/Raynaud's), sedangkan WBV terutama menyebabkan nyeri punggung (low back pain) dan gangguan tulang belakang.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan & HAVS",
+      "options": [
+        {
+          "text": "A. HAV menyerang tangan-lengan, WBV menyerang punggung/tulang belakang",
+          "isCorrect": true
+        },
+        {
+          "text": "B. HAV menyerang punggung, WBV menyerang jari",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Keduanya hanya menyerang pendengaran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Keduanya hanya menyerang mata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hubungan antara intensitas getaran lengan-tangan dan durasi paparan terhadap risiko cedera adalah ...",
+      "explanation": "Intensitas getaran tinggi dalam waktu lama (durasi panjang) meningkatkan risiko kerusakan tulang, sendi, serta pembuluh darah tepi (Raynaud's).",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan & HAVS",
+      "options": [
+        {
+          "text": "A. Semakin tinggi intensitas dan lama durasi, semakin besar risiko cedera",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Intensitas tinggi justru menurunkan risiko",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Durasi tidak memengaruhi risiko",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada hubungan keduanya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu dampak WBV jangka panjang pada sistem pencernaan adalah ...",
+      "explanation": "Paparan WBV jangka panjang dapat menyebabkan gangguan saluran cerna, di samping gangguan musculoskeletal dan neurologis.",
+      "difficulty": "HARD",
+      "tag": "Getaran Seluruh Tubuh (WBV)",
+      "options": [
+        {
+          "text": "A. Gangguan saluran cerna",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Peningkatan nafsu makan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Perbaikan pencernaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada dampak pencernaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manajemen getaran yang baik mengikuti urutan proses manajemen risiko, yaitu ...",
+      "explanation": "Urutan: identifikasi sumber, menilai eksposur, menerapkan kontrol, lalu pantau dan evaluasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Identifikasi sumber → menilai eksposur → menerapkan kontrol → pantau & evaluasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menerapkan kontrol → identifikasi sumber → evaluasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Evaluasi → kontrol → identifikasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya menilai eksposur saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengendalian getaran dengan menjauhkan operator/mesin pengontrol dari sumber getaran termasuk jenis pengendalian ...",
+      "explanation": "Menjauhkan operator dari mesin bergetar (misalnya remote control) mengurangi transmisi getaran ke tubuh, termasuk pengendalian rekayasa/teknik (engineering) atau substitusi jarak.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Pengendalian teknik (mengurangi transmisi ke pekerja)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengendalian administratif jadwal saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Alat pelindung diri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengendalian kebisingan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai pengukuran getaran pada mode rms adalah ...",
+      "explanation": "RMS (root mean square) memberikan nilai efektif rata-rata percepatan getaran selama periode pengukuran, yang dipakai untuk dibandingkan dengan NAB.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. RMS memberikan nilai efektif rata-rata percepatan getaran",
+          "isCorrect": true
+        },
+        {
+          "text": "B. RMS hanya merekam nilai puncak sesaat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. RMS mengukur frekuensi audio",
+          "isCorrect": false
+        },
+        {
+          "text": "D. RMS tidak relevan untuk getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran HAV, setelah pengukuran selesai langkah yang dilakukan adalah ...",
+      "explanation": "Setelah pengukuran HAV, lepaskan akselerometer dari tangan/alat, baca hasil pada monitor unit utama atau unggah ke komputer, lalu catat hasil pada formulir.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Melepas akselerometer, membaca/mengunggah hasil, dan mencatat di formulir",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Langsung membuang data",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menambah getaran ke alat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak mencatat hasil",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Posisi vibrasimeter saat pengukuran WBV sebaiknya diletakkan ...",
+      "explanation": "Vibrasimeter diletakkan pada posisi yang aman dan tidak mengganggu aktivitas pekerja; bila memungkinkan operator dapat mengoperasikan langsung selama pengukuran.",
+      "difficulty": "MEDIUM",
+      "tag": "Prosedur Pengukuran",
+      "options": [
+        {
+          "text": "A. Pada posisi aman dan tidak mengganggu aktivitas pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Di tengah sumber getaran terkuat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Di luar area kerja sehingga tidak terbaca",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Di genggaman tangan pekerja saat bekerja",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Apa tiga parameter utama getaran?",
+      "back": "Frekuensi (Hz), amplitudo/intensitas, dan percepatan (m/s²).",
+      "tag": "Definisi & Parameter Getaran"
+    },
+    {
+      "front": "Satuan percepatan getaran?",
+      "back": "Meter per detik per detik (m/s²). Transduser umumnya mengeluarkan nilai akselerasi.",
+      "tag": "Definisi & Parameter Getaran"
+    },
+    {
+      "front": "Beda HAV dan WBV?",
+      "back": "HAV (Hand Arm Vibration) = getaran lengan-tangan lewat tangan/gagang alat. WBV (Whole Body Vibration) = getaran seluruh tubuh lewat tempat duduk/kaki.",
+      "tag": "Jenis Getaran"
+    },
+    {
+      "front": "Penyakit khas akibat HAV?",
+      "back": "Getaran jari putih (vibration white finger) / Raynaud's Phenomenon: jari pucat, kaku, kesemutan, kontrol otot menghilang.",
+      "tag": "Dampak Kesehatan & HAVS"
+    },
+    {
+      "front": "Cedera WBV paling banyak dilaporkan?",
+      "back": "Nyeri punggung (low back pain).",
+      "tag": "Getaran Seluruh Tubuh (WBV)"
+    },
+    {
+      "front": "Harmonic vs non-harmonic vibration?",
+      "back": "Harmonic = satu komponen tunggal (mis. garpu tala). Non-harmonic = beberapa komponen yang sangat kompleks.",
+      "tag": "Jenis Getaran"
+    },
+    {
+      "front": "NAB getaran lengan-tangan untuk pajanan 6-8 jam (Permenaker No. 5/2018)?",
+      "back": "5 m/det². Tabel: 6-8 jam=5; 4-<6 jam=6; 2-<4 jam=7; 1-<2 jam=10; 0,5-<1 jam=14; <0,5 jam=20.",
+      "tag": "NAB & Regulasi"
+    },
+    {
+      "front": "ISO 5349 untuk HAV: nilai EAV dan ELV?",
+      "back": "EAV (Exposure Action Value) = 2,5 m/s²; ELV (Exposure Limit Value) = 5,0 m/s² A(8).",
+      "tag": "Standar ISO & SNI"
+    },
+    {
+      "front": "ISO 2631 mengatur apa?",
+      "back": "Evaluasi paparan manusia terhadap getaran seluruh tubuh (whole-body vibration).",
+      "tag": "Standar ISO & SNI"
+    },
+    {
+      "front": "ISO 10816 (ISO 20816) mengatur apa?",
+      "back": "Pengukuran & evaluasi getaran mesin; zona evaluasi A, B, C, D (A baik → D parah/merusak).",
+      "tag": "Standar ISO & SNI"
+    },
+    {
+      "front": "SNI 7054:2019 dan SNI 7186:2021 mengatur apa?",
+      "back": "SNI 7054:2019 = pengukuran getaran lengan-tangan (HAV). SNI 7186:2021 = pengukuran percepatan getaran seluruh tubuh (WBV).",
+      "tag": "Standar ISO & SNI"
+    },
+    {
+      "front": "Apa itu akselerometer?",
+      "back": "Sensor/transducer untuk mengukur percepatan getaran; bagian utama dari human vibration meter.",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Tetapan gravitasi 1 g?",
+      "back": "1 g = 9,81 m/s² (980,665 cm/s²).",
+      "tag": "Definisi & Parameter Getaran"
+    },
+    {
+      "front": "Arah sumbu getaran pada tubuh (X, Y, Z)?",
+      "back": "Z (vertikal) = kaki-kepala; Y (lateral) = dada kanan-kiri; X (depan-belakang) = dada (jantung)-punggung.",
+      "tag": "Definisi & Parameter Getaran"
+    },
+    {
+      "front": "Tanda Raynaud's Phenomenon?",
+      "back": "Rasa kaku tangan, kontrol otot hilang, tak mampu menggenggam, persepsi sensoris menurun, kesemutan, jari pucat (white fingers), cyanosis disertai gatal.",
+      "tag": "Dampak Kesehatan & HAVS"
+    },
+    {
+      "front": "Sistem koordinat pengukuran HAV?",
+      "back": "Basicentric (arah percepatan pada pegangan alat/mesin) dan biodynamic (arah percepatan pada tangan).",
+      "tag": "Prosedur Pengukuran"
+    },
+    {
+      "front": "Rentang frekuensi evaluasi WBV (SNI 7186:2021)?",
+      "back": "0,1 Hz – 80 Hz. Alat diatur pada rentang 0,5–80 Hz.",
+      "tag": "Standar ISO & SNI"
+    },
+    {
+      "front": "Crest factor: getaran konstan vs kejut?",
+      "back": "Konstan = crest factor ≤ 9; kejut (shock) = crest factor > 9.",
+      "tag": "Definisi & Parameter Getaran"
+    },
+    {
+      "front": "Pengendalian HAV?",
+      "back": "Lengkapi peredam, jangan melampaui NAB, kurangi waktu papar, istirahat 10 menit/jam, sarung tangan anti-getaran berlapis, kendali jarak jauh.",
+      "tag": "Pengendalian"
+    },
+    {
+      "front": "Pengendalian WBV pada kendaraan?",
+      "back": "Kursi & suspensi kursi/kabin, ban (kondisi/tekanan/jenis), perawatan kendaraan, postur duduk tegak dengan dukungan lumbar, kurangi kecepatan, kurangi waktu papar.",
+      "tag": "Pengendalian"
+    },
+    {
+      "front": "Apa itu VDV (Vibration Dose Value) dan berapa TLV ACGIH-nya?",
+      "back": "VDV = nilai dosis getaran kumulatif (akar pangkat empat) untuk WBV. TLV ACGIH = 17,0 m/det^1,75.",
+      "tag": "NAB & Regulasi"
+    },
+    {
+      "front": "ISO 5349 mengatur apa?",
+      "back": "Pengukuran & evaluasi paparan manusia terhadap getaran yang ditransmisikan melalui tangan (hand-arm vibration / HAV).",
+      "tag": "Standar ISO & SNI"
+    },
+    {
+      "front": "Empat kategori (Class) mesin pada evaluasi getaran mekanis?",
+      "back": "Class I: mesin kecil ≤15 kW; Class II: 15-75 kW (tanpa pondasi)/≤300 kW berpondasi; Class III: >300 kW pondasi kaku & besar; Class IV: >300 kW pondasi relatif lunak.",
+      "tag": "Standar ISO & SNI"
+    },
+    {
+      "front": "Standar untuk pengukuran & evaluasi getaran mesin industri?",
+      "back": "ISO 20816-3:2022 dan ISO 2372 (Machinery Vibration Severity); tujuannya deteksi dini kerusakan mesin.",
+      "tag": "Standar ISO & SNI"
+    },
+    {
+      "front": "Contoh alat HAV getaran tinggi vs getaran sedang?",
+      "back": "Tinggi: gergaji rantai, jack palu, kunci pas dampak, penggiling, palu chipping. Sedang: sander, gergaji jig, scaler.",
+      "tag": "Getaran Lengan-Tangan (HAV)"
+    },
+    {
+      "front": "Dampak fisiologis WBV pada denyut jantung, tekanan darah, dan kapasitas vital?",
+      "back": "Denyut jantung naik 10-15/menit; tekanan darah naik di 5 Hz dan turun di 10-20 Hz; kapasitas vital menurun pada 5-7 Hz; juga gangguan keseimbangan.",
+      "tag": "Getaran Seluruh Tubuh (WBV)"
+    },
+    {
+      "front": "Efek WBV berdasarkan rentang frekuensi?",
+      "back": "3-9 Hz: dada & perut; 4-12 Hz: kerusakan tulang rawan; 6-10 Hz: TD & jantung naik; 8-12 Hz: nyeri punggung; 13-20 Hz: sakit kepala & gangguan bicara.",
+      "tag": "Getaran Seluruh Tubuh (WBV)"
+    },
+    {
+      "front": "Siapa kelompok pekerja yang berisiko WBV?",
+      "back": "Pengemudi/operator reguler: kendaraan & alat konstruksi, traktor & mesin pertanian, truk angkat, bus/kereta/truk jalan raya, mesin pemadat & crusher, pekerja platform bergetar.",
+      "tag": "Getaran Seluruh Tubuh (WBV)"
+    },
+    {
+      "front": "Komponen alat ukur HAV (SNI 7054:2019)?",
+      "back": "Human vibration meter (unit utama), akselerometer/transducer, adaptor (telapak tangan/pegangan alat), dan kabel penghubung.",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Adaptor akselerometer untuk pengukuran WBV berbentuk apa?",
+      "back": "Piringan/disc karet berdiameter Ø250±50 mm yang diduduki, diinjak, atau ditindih punggung (sesuai posisi pengukuran).",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Durasi minimal pengukuran WBV untuk getaran acak stasioner dan getaran kejut?",
+      "back": "Getaran acak stasioner: minimal 108 detik. Getaran kejut (shock): minimal 4 siklus.",
+      "tag": "Prosedur Pengukuran"
+    },
+    {
+      "front": "Empat tahap prosedur pengukuran getaran (HAV/WBV)?",
+      "back": "Persiapan, pelaksanaan, pembacaan & perhitungan, lalu interpretasi hasil (bandingkan dengan NAB).",
+      "tag": "Prosedur Pengukuran"
+    },
+    {
+      "front": "Jenis getaran pada pengukuran WBV (SNI 7186:2021)?",
+      "back": "Periodik (berulang teratur), acak (tak teratur/tak terprediksi), dan sementara/transient (singkat & intensitasnya menurun).",
+      "tag": "Jenis Getaran"
+    },
+    {
+      "front": "Empat langkah siklus manajemen risiko getaran?",
+      "back": "1) Identifikasi sumber, 2) menilai eksposur (tingkat & durasi), 3) menerapkan kontrol (eliminasi/isolasi, administratif, APD), 4) pantau & evaluasi efektivitas.",
+      "tag": "Pengendalian"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Getaran (Vibrasi)",
+      "color": "#6366f1",
+      "parent": null,
+      "content": "Gerakan mekanis bolak-balik dari mesin/alat; sebagian energi mekanis disalurkan ke tubuh pekerja. Ditentukan oleh besaran (magnitudo) & frekuensi."
+    },
+    {
+      "id": "d",
+      "label": "Konsep Dasar",
+      "color": "#8b5cf6",
+      "parent": "root",
+      "content": "Definisi, parameter, besaran, arah, dan jenis getaran."
+    },
+    {
+      "id": "d-par",
+      "label": "Parameter",
+      "color": "#8b5cf6",
+      "parent": "d",
+      "content": "Besaran utama yang mencirikan getaran."
+    },
+    {
+      "id": "d-par-f",
+      "label": "Frekuensi (Hz)",
+      "color": "#8b5cf6",
+      "parent": "d-par",
+      "content": "Jumlah siklus getaran per detik."
+    },
+    {
+      "id": "d-par-a",
+      "label": "Amplitudo / Intensitas",
+      "color": "#8b5cf6",
+      "parent": "d-par",
+      "content": "Jarak maksimum tubuh dari titik keseimbangan (inch, cm, mm)."
+    },
+    {
+      "id": "d-par-p",
+      "label": "Percepatan",
+      "color": "#8b5cf6",
+      "parent": "d-par",
+      "content": "Laju perubahan kecepatan per satuan waktu (m/s²).\n- Paling umum dikeluarkan oleh transduser getaran"
+    },
+    {
+      "id": "d-mag",
+      "label": "Besaran Magnitudo",
+      "color": "#8b5cf6",
+      "parent": "d",
+      "content": "Cara menyatakan besarnya getaran."
+    },
+    {
+      "id": "d-mag-d",
+      "label": "Perpindahan (m)",
+      "color": "#8b5cf6",
+      "parent": "d-mag",
+      "content": "Simpangan getaran dalam satuan meter."
+    },
+    {
+      "id": "d-mag-v",
+      "label": "Kecepatan (m/s)",
+      "color": "#8b5cf6",
+      "parent": "d-mag",
+      "content": "Perubahan jarak per satuan waktu (m/s, mm/s)."
+    },
+    {
+      "id": "d-mag-a",
+      "label": "Percepatan (m/s²)",
+      "color": "#8b5cf6",
+      "parent": "d-mag",
+      "content": "Perubahan kecepatan per satuan waktu."
+    },
+    {
+      "id": "d-mag-g",
+      "label": "Tetapan Gravitasi",
+      "color": "#8b5cf6",
+      "parent": "d-mag",
+      "content": "Percepatan akibat gaya gravitasi.\n- 1 g = 9,81 m/s²\n- = 980,665 cm/s²"
+    },
+    {
+      "id": "d-ar",
+      "label": "Arah Gerakan (Sumbu)",
+      "color": "#8b5cf6",
+      "parent": "d",
+      "content": "Tiga sumbu koordinat tubuh."
+    },
+    {
+      "id": "d-ar-z",
+      "label": "Vertikal (Z)",
+      "color": "#8b5cf6",
+      "parent": "d-ar",
+      "content": "Antara kaki dan kepala."
+    },
+    {
+      "id": "d-ar-y",
+      "label": "Lateral (Y)",
+      "color": "#8b5cf6",
+      "parent": "d-ar",
+      "content": "Antara sisi kanan & kiri dada."
+    },
+    {
+      "id": "d-ar-x",
+      "label": "Depan-Belakang (X)",
+      "color": "#8b5cf6",
+      "parent": "d-ar",
+      "content": "Antara dada (jantung) & punggung."
+    },
+    {
+      "id": "d-jn",
+      "label": "Jenis Getaran",
+      "color": "#8b5cf6",
+      "parent": "d",
+      "content": "Berdasarkan komponen gelombang."
+    },
+    {
+      "id": "d-jn-h",
+      "label": "Harmonic",
+      "color": "#8b5cf6",
+      "parent": "d-jn",
+      "content": "Satu komponen tunggal, mis. garpu tala."
+    },
+    {
+      "id": "d-jn-n",
+      "label": "Non-harmonic",
+      "color": "#8b5cf6",
+      "parent": "d-jn",
+      "content": "Beberapa komponen yang sangat kompleks."
+    },
+    {
+      "id": "kl",
+      "label": "Klasifikasi (Kontak Tubuh)",
+      "color": "#a855f7",
+      "parent": "root",
+      "content": "Berdasarkan bagian tubuh yang menerima getaran dari mesin."
+    },
+    {
+      "id": "kl-seg",
+      "label": "Getaran Segmental → HAV",
+      "color": "#a855f7",
+      "parent": "kl",
+      "content": "Ditularkan melalui tangan-lengan (Hand Arm Vibration)."
+    },
+    {
+      "id": "kl-wb",
+      "label": "Getaran Seluruh Tubuh → WBV",
+      "color": "#a855f7",
+      "parent": "kl",
+      "content": "Ditularkan via tempat duduk atau kaki (Whole Body Vibration)."
+    },
+    {
+      "id": "h",
+      "label": "HAV (Getaran Lengan-Tangan)",
+      "color": "#06b6d4",
+      "parent": "root",
+      "content": "Getaran yang ditransmisikan dari alat/proses kerja ke tangan & lengan pekerja."
+    },
+    {
+      "id": "h-def",
+      "label": "Definisi & Bahaya",
+      "color": "#06b6d4",
+      "parent": "h",
+      "content": "Berbahaya bila paparan tingkat tinggi, durasi teratur & sering → cedera permanen."
+    },
+    {
+      "id": "h-src",
+      "label": "Sumber / Alat",
+      "color": "#06b6d4",
+      "parent": "h",
+      "content": "Perkakas listrik genggam, gergaji, gerinda, palu, dll."
+    },
+    {
+      "id": "h-src-sed",
+      "label": "Getaran Sedang",
+      "color": "#06b6d4",
+      "parent": "h-src",
+      "content": "Contoh alat:\n- Sander\n- Gergaji jig\n- Scaler"
+    },
+    {
+      "id": "h-src-tin",
+      "label": "Getaran Tinggi",
+      "color": "#06b6d4",
+      "parent": "h-src",
+      "content": "Contoh alat:\n- Gergaji rantai\n- Jack palu\n- Kunci pas dampak\n- Penggiling\n- Palu chipping"
+    },
+    {
+      "id": "h-ef",
+      "label": "Efek Kesehatan",
+      "color": "#06b6d4",
+      "parent": "h",
+      "content": "Paparan rutin → cedera permanen tangan & lengan.\n- Sistem yang terdampak\n- Raynaud’s Phenomenon"
+    },
+    {
+      "id": "h-ef-s",
+      "label": "Sistem Terdampak",
+      "color": "#06b6d4",
+      "parent": "h-ef",
+      "content": "Sistem tubuh yang rusak:\n- Sistem peredaran darah\n- Saraf sensorik\n- Otot\n- Tulang\n- Sendi"
+    },
+    {
+      "id": "h-ef-r",
+      "label": "Raynaud's Phenomenon",
+      "color": "#06b6d4",
+      "parent": "h-ef",
+      "content": "Vibration White Finger: kerusakan pembuluh darah tepi & jaringan lunak akibat paparan menahun."
+    },
+    {
+      "id": "h-ef-r-t",
+      "label": "Tanda-tanda",
+      "color": "#06b6d4",
+      "parent": "h-ef-r",
+      "content": "Tanda-tanda:\n- Jari pucat (white fingers)\n- Kesemutan & rasa gatal\n- Tangan kaku\n- Kontrol otot menghilang\n- Sulit memegang/menggenggam\n- Sianosis\n- Persepsi sensoris menurun"
+    },
+    {
+      "id": "h-uk",
+      "label": "Pengukuran (SNI 7054:2019)",
+      "color": "#06b6d4",
+      "parent": "h",
+      "content": "Mengukur percepatan getaran yang memajan lengan & tangan."
+    },
+    {
+      "id": "h-uk-alat",
+      "label": "Alat",
+      "color": "#06b6d4",
+      "parent": "h-uk",
+      "content": "Terdiri dari:\n- Human vibration meter (unit utama)\n- Akselerometer/transducer\n- Adaptor (telapak tangan / pegangan)\n- Kabel penghubung"
+    },
+    {
+      "id": "h-uk-koor",
+      "label": "Sistem Koordinat",
+      "color": "#06b6d4",
+      "parent": "h-uk",
+      "content": "Dua sistem koordinat:\n- Basicentric: arah pada pegangan alat\n- Biodynamic: arah pada tangan"
+    },
+    {
+      "id": "h-uk-pros",
+      "label": "Prosedur",
+      "color": "#06b6d4",
+      "parent": "h-uk",
+      "content": "Empat tahap:\n- Persiapan\n- Pelaksanaan\n- Pembacaan & perhitungan\n- Interpretasi hasil"
+    },
+    {
+      "id": "h-uk-pros-1",
+      "label": "Persiapan",
+      "color": "#06b6d4",
+      "parent": "h-uk-pros",
+      "content": "Persiapan:\n- Pilih adaptor (telapak tangan / pegangan alat)\n- Atur mode hand-arm\n- Siapkan formulir pengukuran"
+    },
+    {
+      "id": "h-uk-pros-2",
+      "label": "Pelaksanaan",
+      "color": "#06b6d4",
+      "parent": "h-uk-pros",
+      "content": "Pelaksanaan:\n- Pasang akselerometer → adaptor → tangan/alat\n- Atur mode percepatan & RMS\n- Ukur min. 1 menit atau 2 siklus\n- Baca & catat hasil"
+    },
+    {
+      "id": "h-uk-pros-3",
+      "label": "Interpretasi",
+      "color": "#06b6d4",
+      "parent": "h-uk-pros",
+      "content": "Bandingkan paparan + waktu pajanan 8 jam kerja dengan NAB."
+    },
+    {
+      "id": "h-nab",
+      "label": "NAB HAV",
+      "color": "#06b6d4",
+      "parent": "h",
+      "content": "Permenaker 5/2018 & Permenkes 70/2016."
+    },
+    {
+      "id": "h-nab-t",
+      "label": "Tabel Durasi vs NAB",
+      "color": "#06b6d4",
+      "parent": "h-nab",
+      "content": "NAB resultan percepatan (m/det²):\n- 6-8 jam: 5\n- 4-<6 jam: 6\n- 2-<4 jam: 7\n- 1-<2 jam: 10\n- 0,5-<1 jam: 14\n- <0,5 jam: 20"
+    },
+    {
+      "id": "h-kon",
+      "label": "Pengendalian HAV",
+      "color": "#06b6d4",
+      "parent": "h",
+      "content": "Hirarki kontrol untuk menurunkan paparan operator."
+    },
+    {
+      "id": "h-kon-l",
+      "label": "Langkah Kontrol",
+      "color": "#06b6d4",
+      "parent": "h-kon",
+      "content": "Langkah kontrol:\n- Lengkapi peredam getaran\n- Jangan lampaui NAB\n- Kurangi waktu papar\n- Istirahat 10 menit tiap jam\n- Gunakan sarung tangan berlapis"
+    },
+    {
+      "id": "w",
+      "label": "WBV (Getaran Seluruh Tubuh)",
+      "color": "#f59e0b",
+      "parent": "root",
+      "content": "Getaran mesin melalui pantat (duduk) atau kaki (berdiri); keluhan tersering: nyeri punggung."
+    },
+    {
+      "id": "w-risk",
+      "label": "Kelompok Berisiko",
+      "color": "#f59e0b",
+      "parent": "w",
+      "content": "Pengemudi/operator reguler:\n- Kendaraan & alat konstruksi/penggalian\n- Traktor & mesin pertanian\n- Truk angkat industri\n- Bus, kereta api, truk jalan raya\n- Mesin pemadat & crusher besar\n- Pekerja platform bergetar"
+    },
+    {
+      "id": "w-ef",
+      "label": "Efek Kesehatan",
+      "color": "#f59e0b",
+      "parent": "w",
+      "content": "Tiga kelompok dampak:\n- Fisiologis\n- Kinerja\n- Paparan jangka panjang"
+    },
+    {
+      "id": "w-ef-fis",
+      "label": "Dampak Fisiologis",
+      "color": "#f59e0b",
+      "parent": "w-ef",
+      "content": "Dampak fisiologis:\n- Denyut jantung ↑ 10-15/menit\n- TD naik di 5 Hz, turun di 10-20 Hz\n- Kapasitas vital ↓ pada 5-7 Hz\n- Gangguan keseimbangan"
+    },
+    {
+      "id": "w-ef-kin",
+      "label": "Dampak Kinerja",
+      "color": "#f59e0b",
+      "parent": "w-ef",
+      "content": "Dampak kinerja:\n- Gangguan fungsi penglihatan\n- Penurunan kinerja kerja tracking"
+    },
+    {
+      "id": "w-ef-lama",
+      "label": "Paparan Jangka Panjang",
+      "color": "#f59e0b",
+      "parent": "w-ef",
+      "content": "Paparan jangka panjang:\n- Gangguan musculoskeletal & neurologis\n- Gangguan saluran cerna\n- Abortus spontan & gangguan menstruasi\n- Nyeri otot & tulang"
+    },
+    {
+      "id": "w-ef-frek",
+      "label": "Efek per Frekuensi",
+      "color": "#f59e0b",
+      "parent": "w-ef",
+      "content": "Efek menurut frekuensi:\n- 3-9 Hz: dada & perut\n- 4-12 Hz: kerusakan tl. rawan\n- 6-10 Hz: TD & jantung ↑\n- 8-12 Hz: nyeri punggung\n- 13-20 Hz: sakit kepala, gangguan bicara"
+    },
+    {
+      "id": "w-uk",
+      "label": "Pengukuran (SNI 7186:2021)",
+      "color": "#f59e0b",
+      "parent": "w",
+      "content": "Rentang frekuensi 0,1-80 Hz; posisi duduk/berdiri/berbaring; bukan untuk getaran tunggal ekstrem."
+    },
+    {
+      "id": "w-uk-jn",
+      "label": "Jenis Getaran",
+      "color": "#f59e0b",
+      "parent": "w-uk",
+      "content": "Jenis getaran:\n- Periodik: berulang teratur\n- Acak: tak teratur, tak terprediksi\n- Sementara: singkat & intensitas menurun"
+    },
+    {
+      "id": "w-uk-def",
+      "label": "Istilah Kunci",
+      "color": "#f59e0b",
+      "parent": "w-uk",
+      "content": "Istilah kunci:\n- Crest factor: rasio puncak/RMS\n- Getaran konstan: CF ≤ 9\n- Getaran kejut: CF > 9\n- VDV: vibration dose value"
+    },
+    {
+      "id": "w-uk-alat",
+      "label": "Peralatan",
+      "color": "#f59e0b",
+      "parent": "w-uk",
+      "content": "Terdiri dari:\n- Unit utama vibrasimeter\n- Kabel penghubung\n- Akselerometer + adaptor piringan karet Ø250±50 mm"
+    },
+    {
+      "id": "w-uk-pros",
+      "label": "Prosedur",
+      "color": "#f59e0b",
+      "parent": "w-uk",
+      "content": "Empat tahap:\n- Persiapan\n- Pelaksanaan\n- Pembacaan & perhitungan\n- Interpretasi hasil"
+    },
+    {
+      "id": "w-uk-pros-1",
+      "label": "Pelaksanaan",
+      "color": "#f59e0b",
+      "parent": "w-uk-pros",
+      "content": "Pelaksanaan:\n- Posisi duduk: duduki adaptor\n- Posisi berdiri: injak adaptor\n- Posisi berbaring: tindih dengan punggung\n- Acak stasioner: min. 108 detik\n- Getaran kejut: min. 4 siklus"
+    },
+    {
+      "id": "w-nab",
+      "label": "NAB WBV",
+      "color": "#f59e0b",
+      "parent": "w",
+      "content": "TLV ACGIH VDV = 17,0 m/dt^1,75; Permenaker 5/2018."
+    },
+    {
+      "id": "w-kon",
+      "label": "Pengendalian WBV",
+      "color": "#f59e0b",
+      "parent": "w",
+      "content": "Kurangi intensitas, durasi & interval paparan."
+    },
+    {
+      "id": "w-kon-des",
+      "label": "Pendekatan Desain",
+      "color": "#f59e0b",
+      "parent": "w-kon",
+      "content": "Pendekatan desain:\n- Kursi & suspensi kursi\n- Suspensi & lokasi kabin\n- Kondisi & tekanan ban\n- Muatan & perawatan kendaraan"
+    },
+    {
+      "id": "w-kon-per",
+      "label": "Keterampilan & Perilaku",
+      "color": "#f59e0b",
+      "parent": "w-kon",
+      "content": "Keterampilan & perilaku:\n- Postur tegak + sandaran & lumbar\n- Kecepatan mengemudi\n- Kondisi lintasan\n- Jadwal kerja & kebugaran"
+    },
+    {
+      "id": "mk",
+      "label": "Getaran Mekanis (Mesin)",
+      "color": "#10b981",
+      "parent": "root",
+      "content": "Getaran pada mesin/peralatan industri untuk deteksi dini kerusakan."
+    },
+    {
+      "id": "mk-std",
+      "label": "Standar",
+      "color": "#10b981",
+      "parent": "mk",
+      "content": "Standar:\n- ISO 20816-3:2022\n- ISO 2372 (Machinery Vibration Severity)"
+    },
+    {
+      "id": "mk-cls",
+      "label": "4 Kategori (Class)",
+      "color": "#10b981",
+      "parent": "mk",
+      "content": "Evaluasi getaran mekanis berdasarkan daya & pondasi mesin."
+    },
+    {
+      "id": "mk-cls-1",
+      "label": "Class I",
+      "color": "#10b981",
+      "parent": "mk-cls",
+      "content": "Mesin kecil, daya ≤15 kW."
+    },
+    {
+      "id": "mk-cls-2",
+      "label": "Class II",
+      "color": "#10b981",
+      "parent": "mk-cls",
+      "content": "Mesin sedang, 15-75 kW (tanpa pondasi) / ≤300 kW berpondasi."
+    },
+    {
+      "id": "mk-cls-3",
+      "label": "Class III",
+      "color": "#10b981",
+      "parent": "mk-cls",
+      "content": "Mesin besar >300 kW, pondasi kaku & besar."
+    },
+    {
+      "id": "mk-cls-4",
+      "label": "Class IV",
+      "color": "#10b981",
+      "parent": "mk-cls",
+      "content": "Mesin besar >300 kW, pondasi relatif lunak."
+    },
+    {
+      "id": "mj",
+      "label": "Manajemen Risiko Getaran",
+      "color": "#ec4899",
+      "parent": "root",
+      "content": "Proses siklus pengendalian risiko paparan getaran."
+    },
+    {
+      "id": "mj-1",
+      "label": "Identifikasi Sumber",
+      "color": "#ec4899",
+      "parent": "mj",
+      "content": "Kenali alat/proses yang menghasilkan getaran."
+    },
+    {
+      "id": "mj-2",
+      "label": "Menilai Eksposur",
+      "color": "#ec4899",
+      "parent": "mj",
+      "content": "Ukur tingkat & durasi paparan pekerja."
+    },
+    {
+      "id": "mj-3",
+      "label": "Menerapkan Kontrol",
+      "color": "#ec4899",
+      "parent": "mj",
+      "content": "Eliminasi/isolasi sumber, kontrol administratif & APD."
+    },
+    {
+      "id": "mj-4",
+      "label": "Pantau & Evaluasi",
+      "color": "#ec4899",
+      "parent": "mj",
+      "content": "Monitoring berkala dan tinjau efektivitas kontrol."
+    },
+    {
+      "id": "rg",
+      "label": "Regulasi & Standar",
+      "color": "#ef4444",
+      "parent": "root",
+      "content": "Dasar hukum & standar pengukuran getaran."
+    },
+    {
+      "id": "rg-pmk",
+      "label": "Permenkes 70/2016",
+      "color": "#ef4444",
+      "parent": "rg",
+      "content": "Standar & persyaratan kesehatan lingkungan kerja industri."
+    },
+    {
+      "id": "rg-pnk",
+      "label": "Permenaker 5/2018",
+      "color": "#ef4444",
+      "parent": "rg",
+      "content": "NAB faktor fisika termasuk getaran HAV & WBV."
+    },
+    {
+      "id": "rg-sni54",
+      "label": "SNI 7054:2019",
+      "color": "#ef4444",
+      "parent": "rg",
+      "content": "Pengukuran getaran lengan tangan (HAV)."
+    },
+    {
+      "id": "rg-sni86",
+      "label": "SNI 7186:2021",
+      "color": "#ef4444",
+      "parent": "rg",
+      "content": "Metode pengukuran percepatan getaran seluruh tubuh (WBV)."
+    },
+    {
+      "id": "rg-iso",
+      "label": "Standar ISO",
+      "color": "#ef4444",
+      "parent": "rg",
+      "content": "ISO 2631-1/-5 (WBV), ISO 20816 & ISO 2372 (mesin), ISO 10326-1 (adaptor)."
+    },
+    {
+      "id": "al",
+      "label": "Alat Ukur",
+      "color": "#14b8a6",
+      "parent": "root",
+      "content": "Instrumen pengukuran getaran."
+    },
+    {
+      "id": "al-va",
+      "label": "Vibration Analyzer",
+      "color": "#14b8a6",
+      "parent": "al",
+      "content": "Mengukur & menganalisis getaran mesin industri; deteksi masalah sebelum kegagalan serius."
+    },
+    {
+      "id": "al-hv",
+      "label": "Human Vibration Meter",
+      "color": "#14b8a6",
+      "parent": "al",
+      "content": "Mengukur getaran pada tubuh manusia (HAV/WBV). Contoh: PCE VM 31."
+    },
+    {
+      "id": "al-ak",
+      "label": "Akselerometer",
+      "color": "#14b8a6",
+      "parent": "al",
+      "content": "Sensor percepatan getaran utama pada vibrasimeter."
+    },
+    {
+      "id": "al-ak-f",
+      "label": "Faktor Pemilihan",
+      "color": "#14b8a6",
+      "parent": "al-ak",
+      "content": "Faktor pemilihan:\n- Sensitivitas silang < 4%\n- Suhu lingkungan\n- Medan magnet\n- Kelembaban udara\n- Kebisingan"
+    }
+  ]
+}

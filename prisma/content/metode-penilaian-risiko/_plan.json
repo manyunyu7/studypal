@@ -1,0 +1,84 @@
+[
+  {
+    "slug": "observasi-kondisi-tindakan-tidak-aman",
+    "topic": "Observasi Kondisi dan Tindakan Tidak Aman",
+    "order": 1,
+    "subtopics_hint": [
+      "Pengertian kondisi tidak aman (unsafe condition)",
+      "Pengertian tindakan tidak aman (unsafe act)",
+      "Cara melakukan observasi K3 di area kerja/kampus",
+      "Pencatatan dan pelaporan hasil observasi",
+      "Presentasi hasil observasi secara berkelompok"
+    ],
+    "source": "Metode Penilaian Risiko (Praktik) — Praktik Hasil Observasi Kondisi dan Tindakan Tidak Aman (Tim Dosen K3)\n\nPraktik Hari Ini:\nMahasiswa melakukan praktik presentasi hasil observasi kondisi dan tindakan tidak aman di sekitar area kampus.\n\nPraktik Secara Berkelompok:\nMahasiswa melakukan presentasi hasil observasi secara berkelompok urut dari kelompok 1, 2, 3 dan 4.\n\nDurasi Presentasi:\nSetiap mahasiswa melakukan presentasi, dengan total waktu presentasi setiap kelompok 15 menit, tanya jawab 10 menit.\n\nPenilaian Praktik:\nPenilaian berdasarkan presentasi, pertanyaan dan jawaban. Koordinator masing-masing kelompok mencatat hasil presentasi, pertanyaan dan jawaban, kemudian diserahkan ke kobid. Tidak ada pengumpulan laporan praktikum pada praktik hari ini.\n\n(Catatan konsep: Observasi kondisi tidak aman (unsafe condition) dan tindakan tidak aman (unsafe act) adalah metode dasar identifikasi bahaya di tempat kerja, di mana pengamat mengidentifikasi sumber bahaya dari kondisi lingkungan/peralatan maupun perilaku pekerja, lalu mencatat, melaporkan, dan merekomendasikan pengendalian.)"
+  },
+  {
+    "slug": "jsa-jso",
+    "topic": "Job Safety Analysis (JSA) dan Job Safety Observation (JSO)",
+    "order": 2,
+    "subtopics_hint": [
+      "Pengertian dan tujuan Job Safety Analysis (JSA)",
+      "Tahapan penyusunan formulir JSA",
+      "Identifikasi bahaya per langkah pekerjaan",
+      "Pengendalian risiko pada pekerjaan berisiko tinggi",
+      "Job Safety Observation (JSO) dan safety briefing",
+      "Peran pekerja, pengawas, HSE, dan manajer dalam simulasi pekerjaan"
+    ],
+    "source": "Metode Penilaian Risiko (Praktik) — Praktik Penyusunan JSA dan JSO di tempat Kerja (Tim Dosen K3)\n\nPraktik Hari Ini — Jenis Pekerjaan:\nMahasiswa menyusun dan mengisi formulir JSA tentang jenis pekerjaan beresiko tinggi yang akan dilakukan di tempat kerja masing-masing kelompok.\nKelompok 1: Pekerjaan Konstruksi Penggalian dan Instalasi Saluran Pipa Gas LNG bawah tanah.\nKelompok 2: Pekerjaan Pembersihan Kaca Gedung Bertingkat.\nKelompok 3: Pekerjaan instalasi kabel listrik tegangan tinggi PLN.\nKelompok 4: Pekerjaan pengelasan di dalam tanki timbun BBM PT Pertamina.\n\nPraktik Secara Berkelompok:\nMahasiswa melakukan praktik penyusunan Job Safety Analisis (JSA) sesuai dengan jenis pekerjaan masing-masing kelompok.\n\nFormat Laporan Praktikum:\nLaporan ditulis tangan maksimal 2 halaman. Format: Judul, tujuan praktikum, hasil formulir JSA, kesimpulan dan saran. Laporan dikumpulkan di meja Dosen untuk diperiksa.\n\nPraktik Minggu Depan — Pelaksanaan Simulasi:\nMahasiswa melakukan praktik Roleplay / Simulasi pekerjaan beresiko tinggi sesuai dengan jenis pekerjaan masing-masing kelompok (urut dari kelompok 4, 3, 2 dan 1).\nMasing-masing kelompok membagi tugas/peran dalam melaksanakan pekerjaan (sebagai pekerja, pengawas, HSE dan manajer dsb).\nJSA wajib disosialisasikan melalui safety briefing kepada pekerja sebelum melaksanakan pekerjaan.\nPengawas memastikan pekerjaan dilaksanakan sesuai JSA dan mencatatkan hasil observasinya di form JSO (Job Safety Observation).\nTim simulasi wajib menggunakan APD lengkap yang telah tersedia di Lab. Tim simulasi boleh menggunakan alat bantu/alat peraga yang ada di lab atau peraga buatan sendiri.\n\n(Catatan konsep: JSA adalah metode untuk menguraikan suatu pekerjaan menjadi langkah-langkah, mengidentifikasi bahaya di setiap langkah, dan menentukan tindakan pengendalian. JSO adalah pengamatan langsung saat pekerjaan berlangsung untuk memastikan kesesuaian dengan JSA.)"
+  },
+  {
+    "slug": "hazop",
+    "topic": "HAZOP (Hazard and Operability Study)",
+    "order": 3,
+    "subtopics_hint": [
+      "Pengertian dan tujuan HAZOP",
+      "Guide word dan parameter proses",
+      "Penyimpangan (deviation), penyebab, dan konsekuensi",
+      "Analisis dan pengendalian risiko proses industri",
+      "Penerapan HAZOP di sektor migas, pertambangan, manufaktur, dan energi"
+    ],
+    "source": "Praktik Penyusunan HAZOP — Metode Penilaian Risiko (Tim Dosen K3)\n\nPraktik Hari Ini:\nMahasiswa melakukan praktik analisis dan pengendalian risiko menggunakan HAZOP. Mahasiswa secara berkelompok melakukan praktik analisis dan pengendalian risiko menggunakan HAZOP di salah satu sektor atau proses bisnis industri.\n\nJenis Industri:\nKelompok 1: Sektor Migas.\nKelompok 2: Sektor Pertambangan.\nKelompok 3: Sektor Manufaktur.\nKelompok 4: Sektor Energi.\n\nFormat:\nLaporan ditulis tangan maksimal 2 halaman. Format: Judul, tujuan praktikum, hasil formulir HAZOP, kesimpulan dan saran. Laporan dikumpulkan di meja Dosen untuk diperiksa.\n\n(Catatan konsep: HAZOP (Hazard and Operability Study) adalah metode identifikasi bahaya terstruktur yang menggunakan guide word/kata panduan untuk menganalisis penyimpangan parameter proses dari kondisi desain, mengidentifikasi penyebab dan konsekuensi, serta menentukan tindakan pengendalian pada suatu proses industri.)"
+  },
+  {
+    "slug": "hiradc",
+    "topic": "HIRADC (Hazard Identification, Risk Assessment and Determining Control)",
+    "order": 4,
+    "subtopics_hint": [
+      "Pengertian HIRADC dan komponennya",
+      "Identifikasi bahaya (Hazard Identification)",
+      "Penilaian risiko (Risk Assessment) — likelihood dan severity",
+      "Penentuan pengendalian (Determining Control) dan hierarki pengendalian",
+      "Penyusunan formulir HIRADC di sektor manufaktur",
+      "Presentasi dan diskusi hasil HIRADC"
+    ],
+    "source": "Metode Penilaian Risiko — PRAKTIK PENYUSUNAN HIRADC Di Sektor Manufaktur (Tim Dosen K3)\n\nPraktik Hari Ini:\nMahasiswa melakukan praktik analisis dan pengendalian risiko menggunakan HIRADC berdasarkan aktivitas produksi di sektor manufaktur. Mahasiswa secara berkelompok melakukan praktik analisis dan pengendalian risiko menggunakan HIRADC di salah satu sektor manufaktur, berdasarkan video proses produksi di sektor manufaktur.\n\nJenis sektor manufaktur:\nKelompok 1: Manufaktur Pembuatan Gelas Kaca.\nKelompok 2: Manufaktur Pembuatan Kertas.\nKelompok 3: Manufaktur Pembuatan Mobil Mainan.\nKelompok 4: Manufaktur Pembuatan Makanan Kaleng.\n\nFormat:\nLaporan ditulis tangan maksimal 2 halaman. Format: Judul, tujuan praktikum, hasil formulir HIRADC, kesimpulan dan saran. Laporan dikumpulkan di meja Dosen untuk diperiksa.\n\n--- PRAKTIK HIRADC BAGIAN 2 (keselamatan kerja) ---\n\nPraktik Hari Ini:\nMahasiswa membuat PPT singkat dan mempresentasikan hasil HIRADC yang telah dibuat pada pertemuan sebelumnya untuk didiskusikan bersama:\nKelompok 1: HIRADC Manufaktur Pembuatan Gelas Kaca.\nKelompok 2: HIRADC Manufaktur Pembuatan Kertas.\nKelompok 3: HIRADC Manufaktur Pembuatan Mobil Mainan.\nKelompok 4: HIRADC Manufaktur Pembuatan Makanan Kaleng.\nPresentasi maksimal 15 menit. Tanya jawab maksimal 10 menit.\n\n(Catatan konsep: HIRADC (Hazard Identification, Risk Assessment and Determining Control) adalah metode sistematis untuk mengidentifikasi bahaya pada setiap aktivitas pekerjaan, menilai tingkat risiko berdasarkan kemungkinan/likelihood dan keparahan/severity, lalu menentukan tindakan pengendalian sesuai hierarki pengendalian (eliminasi, substitusi, rekayasa teknik, administratif, APD).)"
+  },
+  {
+    "slug": "formulir-ijin-kerja",
+    "topic": "Formulir Ijin Kerja (Work Permit)",
+    "order": 5,
+    "subtopics_hint": [
+      "Pengertian dan tujuan ijin kerja (work permit)",
+      "Jenis-jenis ijin kerja untuk pekerjaan berisiko tinggi",
+      "Komponen formulir ijin kerja",
+      "Identifikasi bahaya dan pengendalian dalam ijin kerja",
+      "Otorisasi, persetujuan, dan penutupan ijin kerja",
+      "Komunikasi risiko kepada pekerja"
+    ],
+    "source": "Metode Penilaian Risiko (Praktik) — Praktik Penyusunan Formulir Ijin Kerja (Tim Dosen K3)\n\nPraktik Hari Ini — Topik pekerjaan berisiko tinggi:\nMahasiswa menyusun formulir ijin kerja untuk pekerjaan berisiko tinggi sesuai dengan topik masing-masing kelompok.\nKelompok 1 – Pekerjaan pembersihan kaca gedung bertingkat.\nKelompok 2 – Pekerjaan pemasangan instalasi listrik.\nKelompok 3 – Pekerjaan pembersihan ketel uap.\nKelompok 4 – Pekerjaan pengelasan pipa di SPBU.\n\nFormat Formulir Ijin Kerja:\nFormulir diketik dan dikumpulkan dalam format pdf (1-2 halaman). Formulir ijin kerja minimal berisi: Jenis ijin kerja, Lokasi Pekerjaan, Tanggal Pelaksanaan, Deskripsi Pekerjaan, Waktu mulai - selesai, data personil, identifikasi bahaya, pengendalian, otorisasi/persetujuan, penutupan ijin kerja.\n\nPraktik Pertemuan selanjutnya:\nMelakukan simulasi ijin kerja dan komunikasi risiko kepada pekerja sesuai topik dan formulir yang telah disusun hari ini.\n\n(Catatan konsep: Ijin kerja (work permit) adalah dokumen formal yang mengizinkan pelaksanaan pekerjaan berisiko tinggi dengan memastikan bahaya telah diidentifikasi, pengendalian telah disiapkan, serta adanya otorisasi/persetujuan sebelum pekerjaan dimulai dan penutupan setelah selesai.)"
+  },
+  {
+    "slug": "penilaian-risiko-semi-kuantitatif",
+    "topic": "Identifikasi Bahaya dan Penilaian Risiko Semi Kuantitatif",
+    "order": 6,
+    "subtopics_hint": [
+      "Pengertian penilaian risiko semi kuantitatif",
+      "Identifikasi bahaya di industri",
+      "Penilaian risiko dengan skala/skor (probabilitas, paparan, konsekuensi)",
+      "Perhitungan tingkat risiko dan kategorisasi",
+      "Analisis dan rekomendasi tindakan pengendalian",
+      "Penyusunan makalah dan presentasi hasil Case Method di industri"
+    ],
+    "source": "Metode penilaian risiko — Identifikasi Bahaya dan Penilaian Risiko Semi Kuantitatif (keselamatan kerja, BY TEAM DOSEN K3)\n\nCase Method (CM) di Industri:\nMahasiswa akan melaksanakan Case Method (CM) di industri dengan judul: Identifikasi Bahaya dan Penilaian Risiko Semi Kuantitatif. Jadwal CM tiap kelas akan dishare oleh tim laboratorium K3.\n\nKetentuan CM:\nMahasiswa wajib mengikuti CM sesuai jadwal yang ditentukan. Penilaian CM berdasarkan makalah yang dikumpulkan secara berkelompok.\nFormat makalah: Cover; Daftar Isi; Pendahuluan (latar belakang, tujuan, manfaat); Tinjauan Pustaka; Hasil dan Pembahasan (Gambaran umum lokasi, Hasil Identifikasi Bahaya dan Penilaian Risiko Semi Kuantitatif, Analisis dan Rekomendasi Tindakan Pengendalian); Kesimpulan dan Saran; Daftar Pustaka.\n\nPraktik Presentasi Hasil CM:\nMahasiswa melakukan praktik presentasi hasil CM di Industri. Mahasiswa melakukan presentasi hasil observasi secara berkelompok urut dari kelompok 4, 3, 2 dan 1.\nDurasi Presentasi: setiap mahasiswa melakukan presentasi, dengan total waktu presentasi setiap kelompok 15 menit, tanya jawab 10 menit.\nPenilaian Praktik: penilaian berdasarkan laporan CM, presentasi, pertanyaan dan jawaban. Koordinator masing-masing kelompok mencatat hasil presentasi, pertanyaan dan jawaban di dalam laporan CM. Laporan CM dikumpulkan lengkap dengan notulensi diskusi.\n\n(Catatan konsep: Penilaian risiko semi kuantitatif menggabungkan pendekatan kualitatif dan kuantitatif dengan memberi nilai/skor pada faktor seperti probabilitas (likelihood), tingkat paparan (exposure), dan konsekuensi/keparahan, lalu mengalikan atau menjumlahkannya untuk memperoleh tingkat risiko yang dapat dikategorikan dan diprioritaskan untuk pengendalian.)"
+  }
+]

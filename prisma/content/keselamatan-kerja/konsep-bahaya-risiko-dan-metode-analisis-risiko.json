@@ -1,0 +1,1393 @@
+{
+  "topic": "Konsep Bahaya, Risiko, dan Metode Analisis Risiko",
+  "order": 2,
+  "description": "Topik ini membahas pengertian risiko menurut ISO 45001 serta tujuan analisis risiko dalam K3. Dibahas pula tiga pendekatan analisis risiko (kualitatif, semi kuantitatif, dan kuantitatif) beserta rumus Risk Score dan contoh metode kuantitatif seperti Fault Tree, FMEA, dan QRA.",
+  "subtopics": [
+    "Definisi Risiko (ISO 45001)",
+    "Pengertian & Tujuan Analisis Risiko",
+    "Pemilihan Metode Analisis Risiko",
+    "Analisis Risiko Kualitatif",
+    "Analisis Risiko Semi Kuantitatif",
+    "Rumus Risk Score (C x E x P)",
+    "Analisis Risiko Kuantitatif",
+    "Contoh Metode Kuantitatif"
+  ],
+  "questions": [
+    {
+      "text": "Menurut ISO 45001:2018, risiko (risk) didefinisikan sebagai kombinasi dari?",
+      "explanation": "ISO 45001:2018 mendefinisikan risiko sebagai kombinasi dari kemungkinan (probability) terjadinya kejadian berbahaya dan keparahan (severity) cidera atau gangguan kesehatan.",
+      "difficulty": "EASY",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Bahaya dan kecelakaan", "isCorrect": false },
+        { "text": "B. Kemungkinan (probability) dan keparahan (severity)", "isCorrect": true },
+        { "text": "C. Frekuensi dan biaya", "isCorrect": false },
+        { "text": "D. Penyebab dan akibat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Klausul ISO 45001 yang menjadi acuan definisi risiko dalam materi adalah?",
+      "explanation": "Definisi risiko mengacu pada ISO 45001:2018 Klausul 3.19 dan 3.21.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Klausul 3.19 dan 3.21", "isCorrect": true },
+        { "text": "B. Klausul 1.1 dan 1.2", "isCorrect": false },
+        { "text": "C. Klausul 4.1 dan 4.2", "isCorrect": false },
+        { "text": "D. Klausul 5.1 dan 5.2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam definisi risiko, istilah severity merujuk pada?",
+      "explanation": "Severity adalah keparahan dampak yang dapat menyebabkan cidera atau gangguan kesehatan yang buruk.",
+      "difficulty": "EASY",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Frekuensi kejadian", "isCorrect": false },
+        { "text": "B. Keparahan dampak cidera atau gangguan kesehatan", "isCorrect": true },
+        { "text": "C. Peluang terjadinya kejadian", "isCorrect": false },
+        { "text": "D. Jumlah pekerja terpapar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam definisi risiko, istilah probability merujuk pada?",
+      "explanation": "Probability adalah kemungkinan atau peluang terjadinya suatu kejadian berbahaya.",
+      "difficulty": "EASY",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Kemungkinan terjadinya kejadian berbahaya", "isCorrect": true },
+        { "text": "B. Besarnya kerugian finansial", "isCorrect": false },
+        { "text": "C. Keparahan cidera", "isCorrect": false },
+        { "text": "D. Lama pajanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko merupakan hasil kombinasi dari dua komponen utama, yaitu?",
+      "explanation": "Risiko terbentuk dari kombinasi kemungkinan (probability) terjadinya kejadian berbahaya dan keparahan (severity) dampaknya.",
+      "difficulty": "EASY",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Biaya dan waktu", "isCorrect": false },
+        { "text": "B. Kemungkinan dan keparahan", "isCorrect": true },
+        { "text": "C. Manusia dan mesin", "isCorrect": false },
+        { "text": "D. Hazard dan control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko didefinisikan sebagai proses?",
+      "explanation": "Analisis risiko adalah proses sistematik untuk menghitung tingkat risiko yang ada.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Analisis Risiko",
+      "options": [
+        { "text": "A. Acak untuk menebak bahaya", "isCorrect": false },
+        { "text": "B. Sistematik untuk menghitung tingkat risiko", "isCorrect": true },
+        { "text": "C. Reaktif setelah kecelakaan terjadi", "isCorrect": false },
+        { "text": "D. Administratif untuk pelaporan kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama dilakukannya analisis risiko adalah?",
+      "explanation": "Tujuan analisis risiko adalah menentukan apakah risiko yang ada berada pada tingkat yang dapat diterima atau tidak dan membutuhkan pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Analisis Risiko",
+      "options": [
+        { "text": "A. Menghapus seluruh bahaya tanpa terkecuali", "isCorrect": false },
+        { "text": "B. Menentukan apakah risiko dapat diterima atau perlu dikendalikan", "isCorrect": true },
+        { "text": "C. Menghukum pekerja yang lalai", "isCorrect": false },
+        { "text": "D. Menghitung jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika hasil analisis risiko menunjukkan risiko berada pada tingkat yang tidak dapat diterima, maka langkah selanjutnya adalah?",
+      "explanation": "Risiko yang tidak dapat diterima membutuhkan tindakan pengendalian risiko untuk menurunkannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Analisis Risiko",
+      "options": [
+        { "text": "A. Membiarkan saja karena sudah dianalisis", "isCorrect": false },
+        { "text": "B. Melakukan pengendalian risiko", "isCorrect": true },
+        { "text": "C. Menghentikan seluruh produksi permanen", "isCorrect": false },
+        { "text": "D. Mengganti seluruh pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sifat dari proses analisis risiko menurut materi adalah?",
+      "explanation": "Analisis risiko bersifat sistematik, yaitu dilakukan secara terstruktur untuk menghitung tingkat risiko.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Analisis Risiko",
+      "options": [
+        { "text": "A. Sistematik", "isCorrect": true },
+        { "text": "B. Spontan", "isCorrect": false },
+        { "text": "C. Acak", "isCorrect": false },
+        { "text": "D. Intuitif tanpa data", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko bertujuan menentukan apakah risiko berada pada tingkat yang?",
+      "explanation": "Analisis risiko menilai apakah risiko berada pada tingkat yang dapat diterima (acceptable) atau tidak.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Analisis Risiko",
+      "options": [
+        { "text": "A. Dapat diterima atau tidak", "isCorrect": true },
+        { "text": "B. Mahal atau murah", "isCorrect": false },
+        { "text": "C. Lama atau cepat", "isCorrect": false },
+        { "text": "D. Mudah atau sulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu pertimbangan dalam memilih metode analisis risiko adalah kesesuaian dengan?",
+      "explanation": "Metode analisis risiko harus sesuai dengan kondisi dan kompleksitas fasilitas/instalasi serta jenis bahaya yang ada dalam operasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Jumlah pekerja yang libur", "isCorrect": false },
+        { "text": "B. Kondisi dan kompleksitas fasilitas serta jenis bahaya", "isCorrect": true },
+        { "text": "C. Warna seragam pekerja", "isCorrect": false },
+        { "text": "D. Lokasi kantin perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode analisis risiko yang baik diharapkan dapat membantu dalam hal?",
+      "explanation": "Metode analisis risiko yang baik dapat membantu menentukan pilihan cara pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Menentukan pilihan cara pengendalian risiko", "isCorrect": true },
+        { "text": "B. Menambah jumlah produksi otomatis", "isCorrect": false },
+        { "text": "C. Mengurangi gaji pekerja", "isCorrect": false },
+        { "text": "D. Mempercepat absensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu pertimbangan pemilihan metode analisis risiko terkait penentuan prioritas adalah?",
+      "explanation": "Metode harus dapat membantu membedakan tingkat bahaya secara jelas untuk menentukan prioritas langkah pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Membedakan tingkat bahaya untuk menentukan prioritas pengendalian", "isCorrect": true },
+        { "text": "B. Menyamaratakan semua bahaya", "isCorrect": false },
+        { "text": "C. Mengabaikan bahaya kecil", "isCorrect": false },
+        { "text": "D. Menunda semua pengendalian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara penerapan metode analisis risiko yang ideal sebaiknya bersifat?",
+      "explanation": "Cara penerapan metode analisis risiko sebaiknya terstruktur dan konsisten.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Berubah-ubah tiap pekerja", "isCorrect": false },
+        { "text": "B. Terstruktur dan konsisten", "isCorrect": true },
+        { "text": "C. Rahasia dan tertutup", "isCorrect": false },
+        { "text": "D. Tanpa dokumentasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemilihan metode analisis risiko mempertimbangkan jenis bahaya yang ada dalam?",
+      "explanation": "Pertimbangan mencakup jenis bahaya yang ada dalam operasi fasilitas/instalasi.",
+      "difficulty": "EASY",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Operasi fasilitas/instalasi", "isCorrect": true },
+        { "text": "B. Iklan perusahaan", "isCorrect": false },
+        { "text": "C. Laporan keuangan tahunan", "isCorrect": false },
+        { "text": "D. Jadwal cuti karyawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko kualitatif menilai tingkat risiko dengan menggunakan?",
+      "explanation": "Analisis risiko kualitatif menggunakan bentuk kata untuk menjelaskan besarnya potensi konsekuensi dan kemungkinan terjadinya.",
+      "difficulty": "EASY",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Nilai numerik yang presisi", "isCorrect": false },
+        { "text": "B. Bentuk kata (deskriptif)", "isCorrect": true },
+        { "text": "C. Rumus matematika kompleks", "isCorrect": false },
+        { "text": "D. Simulasi komputer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip analisis risiko kualitatif terkait nilai risiko adalah?",
+      "explanation": "Pada analisis kualitatif, nilai risiko tidak menunjukkan nilai numerik.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Nilai risiko ditampilkan sebagai angka presisi", "isCorrect": false },
+        { "text": "B. Nilai risiko tidak menunjukkan nilai numerik", "isCorrect": true },
+        { "text": "C. Nilai risiko selalu berupa rupiah", "isCorrect": false },
+        { "text": "D. Nilai risiko berupa persentase dosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko kualitatif memiliki kelemahan karena bersifat?",
+      "explanation": "Analisis kualitatif bersifat subjektif sehingga peluang ketidakpastian tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Objektif dengan ketidakpastian rendah", "isCorrect": false },
+        { "text": "B. Subjektif dengan peluang ketidakpastian tinggi", "isCorrect": true },
+        { "text": "C. Memerlukan data sangat detail", "isCorrect": false },
+        { "text": "D. Sangat mahal dan rumit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko kualitatif paling sesuai diterapkan untuk fasilitas yang?",
+      "explanation": "Analisis kualitatif sesuai untuk fasilitas yang sederhana/tidak rumit.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Sederhana/tidak rumit", "isCorrect": true },
+        { "text": "B. Sangat kompleks dan berisiko tinggi", "isCorrect": false },
+        { "text": "C. Berskala internasional", "isCorrect": false },
+        { "text": "D. Memiliki ribuan node proses", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kelebihan analisis risiko kualitatif dari segi waktu adalah?",
+      "explanation": "Waktu yang diperlukan untuk analisis kualitatif relatif lebih cepat.",
+      "difficulty": "EASY",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Memerlukan waktu sangat lama", "isCorrect": false },
+        { "text": "B. Waktu yang diperlukan relatif lebih cepat", "isCorrect": true },
+        { "text": "C. Tidak bisa diselesaikan tanpa software", "isCorrect": false },
+        { "text": "D. Harus dilakukan bertahun-tahun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dari sisi biaya, analisis risiko kualitatif tergolong?",
+      "explanation": "Analisis risiko kualitatif memerlukan biaya yang rendah.",
+      "difficulty": "EASY",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Biaya rendah", "isCorrect": true },
+        { "text": "B. Biaya sangat tinggi", "isCorrect": false },
+        { "text": "C. Biaya tak terbatas", "isCorrect": false },
+        { "text": "D. Tidak bisa diperkirakan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko kualitatif sering digunakan sebagai langkah awal untuk?",
+      "explanation": "Analisis kualitatif menjadi langkah awal untuk mengetahui risiko suatu kegiatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Mengetahui risiko suatu kegiatan", "isCorrect": true },
+        { "text": "B. Menghitung anggaran perusahaan", "isCorrect": false },
+        { "text": "C. Menentukan gaji pekerja", "isCorrect": false },
+        { "text": "D. Menyusun jadwal produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dua komponen yang digunakan dalam analisis risiko kualitatif adalah?",
+      "explanation": "Komponen analisis kualitatif adalah Probability/Likelihood dan Severity/Consequency.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Probability/Likelihood dan Severity/Consequency", "isCorrect": true },
+        { "text": "B. Exposure dan Cost", "isCorrect": false },
+        { "text": "C. Node dan Parameter", "isCorrect": false },
+        { "text": "D. Threat dan Top Event", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat bantu yang digunakan untuk menampilkan hasil analisis risiko kualitatif adalah?",
+      "explanation": "Analisis kualitatif menggunakan Matriks Analisis Risiko Kualitatif dan Skala Risiko Kualitatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Fault Tree Diagram", "isCorrect": false },
+        { "text": "B. Matriks dan Skala Risiko Kualitatif", "isCorrect": true },
+        { "text": "C. Audiogram", "isCorrect": false },
+        { "text": "D. Noise mapping", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko kualitatif dinilai mudah dalam hal?",
+      "explanation": "Salah satu prinsip analisis kualitatif adalah mudah diaplikasikan.",
+      "difficulty": "EASY",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Mudah diaplikasikan", "isCorrect": true },
+        { "text": "B. Sulit dipahami pekerja", "isCorrect": false },
+        { "text": "C. Hanya bisa dipakai ahli statistik", "isCorrect": false },
+        { "text": "D. Memerlukan laboratorium khusus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko semi kuantitatif menggunakan skala kualitatif yang?",
+      "explanation": "Analisis semi kuantitatif menggunakan skala kualitatif yang diberikan nilai sehingga dapat diketahui tingkat besarnya konsekuensi dan kemungkinan.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Tidak diberi nilai sama sekali", "isCorrect": false },
+        { "text": "B. Diberikan nilai (angka)", "isCorrect": true },
+        { "text": "C. Hanya berupa kata tanpa angka", "isCorrect": false },
+        { "text": "D. Berupa simulasi probabilistik penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dibandingkan analisis kualitatif, teknik analisis semi kuantitatif bersifat?",
+      "explanation": "Analisis semi kuantitatif lebih terstruktur daripada analisis risiko kualitatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Lebih terstruktur daripada kualitatif", "isCorrect": true },
+        { "text": "B. Kurang terstruktur daripada kualitatif", "isCorrect": false },
+        { "text": "C. Sama persis dengan kualitatif", "isCorrect": false },
+        { "text": "D. Tidak memiliki struktur sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan penilaian risiko pada analisis semi kuantitatif adalah untuk memberikan?",
+      "explanation": "Penilaian risiko semi kuantitatif dilakukan untuk memberikan peringkat skala.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Peringkat skala", "isCorrect": true },
+        { "text": "B. Hadiah pekerja", "isCorrect": false },
+        { "text": "C. Sanksi administratif", "isCorrect": false },
+        { "text": "D. Jadwal istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada analisis semi kuantitatif, setiap nilai yang diberikan harus menggambarkan?",
+      "explanation": "Setiap nilai harus menggambarkan derajat konsekuensi dan frekuensi pajanan terhadap bahaya serta probabilitas yang ada.",
+      "difficulty": "HARD",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Hanya konsekuensi saja", "isCorrect": false },
+        { "text": "B. Derajat konsekuensi, frekuensi pajanan, dan probabilitas", "isCorrect": true },
+        { "text": "C. Hanya frekuensi pajanan saja", "isCorrect": false },
+        { "text": "D. Hanya probabilitas saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh alat bantu yang digunakan dalam analisis risiko semi kuantitatif adalah?",
+      "explanation": "Contoh alat bantu pada analisis semi kuantitatif adalah Risk Matriks (matriks risiko).",
+      "difficulty": "EASY",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Risk Matriks", "isCorrect": true },
+        { "text": "B. Sound Level Meter", "isCorrect": false },
+        { "text": "C. Audiometer", "isCorrect": false },
+        { "text": "D. Spirometer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah pertama dalam analisis risiko semi kuantitatif adalah?",
+      "explanation": "Langkah pertama adalah identifikasi bahaya dan risiko (Task Risk Analysis).",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Menutup ijin kerja", "isCorrect": false },
+        { "text": "B. Identifikasi bahaya dan risiko (Task Risk Analysis)", "isCorrect": true },
+        { "text": "C. Membuat laporan keuangan", "isCorrect": false },
+        { "text": "D. Memberi sanksi pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah identifikasi bahaya, langkah analisis semi kuantitatif berikutnya adalah?",
+      "explanation": "Langkah berikutnya adalah penilaian risiko menggunakan nilai risiko (risk score).",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Penilaian risiko menggunakan risk score", "isCorrect": true },
+        { "text": "B. Pemberian APD", "isCorrect": false },
+        { "text": "C. Pembuatan ijin kerja panas", "isCorrect": false },
+        { "text": "D. Pelaporan ke kepolisian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah akhir dalam tahapan analisis risiko semi kuantitatif adalah?",
+      "explanation": "Langkah akhir adalah penetapan level risiko/tingkat risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Penetapan level/tingkat risiko", "isCorrect": true },
+        { "text": "B. Mengukur kebisingan", "isCorrect": false },
+        { "text": "C. Menghitung gaji", "isCorrect": false },
+        { "text": "D. Membuat audiogram", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya dalam analisis semi kuantitatif dikenal juga dengan istilah?",
+      "explanation": "Identifikasi bahaya dan risiko pada analisis semi kuantitatif disebut Task Risk Analysis.",
+      "difficulty": "HARD",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Task Risk Analysis", "isCorrect": true },
+        { "text": "B. Sound Mapping", "isCorrect": false },
+        { "text": "C. Bow-Tie Analysis", "isCorrect": false },
+        { "text": "D. Audiometry", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rumus Risk Score pada analisis risiko semi kuantitatif adalah?",
+      "explanation": "Risk Score = Consequency x Exposure x Probability.",
+      "difficulty": "EASY",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Consequency + Exposure + Probability", "isCorrect": false },
+        { "text": "B. Consequency x Exposure x Probability", "isCorrect": true },
+        { "text": "C. Probability / Severity", "isCorrect": false },
+        { "text": "D. Severity x Frekuensi - Biaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam rumus Risk Score, komponen Consequency menggambarkan?",
+      "explanation": "Consequency adalah dampak yang paling mungkin terjadi dari suatu potensi kecelakaan, termasuk cedera dan kerusakan properti.",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Frekuensi pajanan terhadap bahaya", "isCorrect": false },
+        { "text": "B. Dampak/akibat termasuk cedera dan kerusakan properti", "isCorrect": true },
+        { "text": "C. Peluang munculnya kecelakaan", "isCorrect": false },
+        { "text": "D. Jumlah pekerja yang hadir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam rumus Risk Score, komponen Exposure menggambarkan?",
+      "explanation": "Exposure adalah frekuensi pajanan terhadap bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Frekuensi pajanan terhadap bahaya", "isCorrect": true },
+        { "text": "B. Besarnya kerusakan properti", "isCorrect": false },
+        { "text": "C. Peluang kecelakaan terjadi", "isCorrect": false },
+        { "text": "D. Tingkat keparahan cedera", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam rumus Risk Score, komponen Probability menggambarkan?",
+      "explanation": "Probability adalah peluang terjadinya suatu kecelakaan mulai dari pajanan terhadap bahaya hingga menimbulkan kecelakaan dan dampaknya.",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Peluang terjadinya kecelakaan dari pajanan hingga dampaknya", "isCorrect": true },
+        { "text": "B. Frekuensi pajanan", "isCorrect": false },
+        { "text": "C. Besar kerusakan properti", "isCorrect": false },
+        { "text": "D. Jumlah jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada rumus Risk Score = C x E x P, huruf 'E' merupakan singkatan dari?",
+      "explanation": "Huruf E pada rumus Risk Score adalah Exposure (pajanan).",
+      "difficulty": "EASY",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Exposure", "isCorrect": true },
+        { "text": "B. Effort", "isCorrect": false },
+        { "text": "C. Efficiency", "isCorrect": false },
+        { "text": "D. Energy", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada rumus Risk Score = C x E x P, huruf 'C' merupakan singkatan dari?",
+      "explanation": "Huruf C pada rumus Risk Score adalah Consequency (dampak/konsekuensi).",
+      "difficulty": "EASY",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Cost", "isCorrect": false },
+        { "text": "B. Consequency", "isCorrect": true },
+        { "text": "C. Control", "isCorrect": false },
+        { "text": "D. Cause", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cedera pada pekerja dan kerusakan properti dalam Risk Score termasuk dalam komponen?",
+      "explanation": "Cedera dan kerusakan properti merupakan bagian dari Consequency (dampak).",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Exposure", "isCorrect": false },
+        { "text": "B. Probability", "isCorrect": false },
+        { "text": "C. Consequency", "isCorrect": true },
+        { "text": "D. Likelihood", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi seberapa sering pekerja terpapar bahaya dalam Risk Score dinilai melalui komponen?",
+      "explanation": "Frekuensi pajanan terhadap bahaya dinilai melalui komponen Exposure.",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Exposure", "isCorrect": true },
+        { "text": "B. Consequency", "isCorrect": false },
+        { "text": "C. Severity", "isCorrect": false },
+        { "text": "D. Control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risk Score diperoleh dengan operasi matematika berupa?",
+      "explanation": "Risk Score diperoleh dengan perkalian antara Consequency, Exposure, dan Probability.",
+      "difficulty": "EASY",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Penjumlahan", "isCorrect": false },
+        { "text": "B. Perkalian", "isCorrect": true },
+        { "text": "C. Pembagian", "isCorrect": false },
+        { "text": "D. Pengurangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko kuantitatif menentukan tingkat risiko dengan menggunakan?",
+      "explanation": "Analisis risiko kuantitatif menggunakan nilai numerik untuk menghitung konsekuensi dan probabilitas suatu kejadian.",
+      "difficulty": "EASY",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Bentuk kata deskriptif", "isCorrect": false },
+        { "text": "B. Nilai numerik", "isCorrect": true },
+        { "text": "C. Warna pada matriks saja", "isCorrect": false },
+        { "text": "D. Pengamatan visual saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip analisis risiko kuantitatif terkait kebutuhan data adalah?",
+      "explanation": "Analisis kuantitatif memerlukan data dan informasi yang mendalam.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Tidak memerlukan data sama sekali", "isCorrect": false },
+        { "text": "B. Memerlukan data dan informasi yang mendalam", "isCorrect": true },
+        { "text": "C. Cukup mengandalkan intuisi", "isCorrect": false },
+        { "text": "D. Hanya butuh data jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko kuantitatif paling tepat digunakan untuk aktivitas yang?",
+      "explanation": "Analisis kuantitatif dapat digunakan untuk aktivitas yang kompleks dan rinci.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Sangat sederhana", "isCorrect": false },
+        { "text": "B. Kompleks dan rinci", "isCorrect": true },
+        { "text": "C. Tanpa bahaya", "isCorrect": false },
+        { "text": "D. Berskala sangat kecil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dibanding metode lain, analisis risiko kuantitatif memerlukan lebih banyak?",
+      "explanation": "Analisis kuantitatif memerlukan waktu, tenaga, dan keahlian lebih tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Waktu, tenaga, dan keahlian", "isCorrect": true },
+        { "text": "B. Pekerja yang libur", "isCorrect": false },
+        { "text": "C. Ruang istirahat", "isCorrect": false },
+        { "text": "D. Alat pelindung diri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil penilaian pada analisis risiko kuantitatif dinyatakan dalam bentuk?",
+      "explanation": "Analisis kuantitatif menghasilkan perhitungan numerik atas konsekuensi dan probabilitas kejadian.",
+      "difficulty": "EASY",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Angka/numerik", "isCorrect": true },
+        { "text": "B. Kata sifat", "isCorrect": false },
+        { "text": "C. Gambar saja", "isCorrect": false },
+        { "text": "D. Simbol warna saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko kuantitatif menghitung dua hal utama, yaitu?",
+      "explanation": "Analisis kuantitatif menentukan perhitungan konsekuensi dan probabilitas suatu kejadian secara numerik.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Biaya dan keuntungan", "isCorrect": false },
+        { "text": "B. Konsekuensi dan probabilitas", "isCorrect": true },
+        { "text": "C. Gaji dan tunjangan", "isCorrect": false },
+        { "text": "D. Suhu dan kelembapan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu contoh metode analisis risiko kuantitatif adalah?",
+      "explanation": "Contoh metode analisis kuantitatif antara lain Fault Tree, Event Tree, QRA, HAZOPS, dan FMEA.",
+      "difficulty": "EASY",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Fault Tree", "isCorrect": true },
+        { "text": "B. Audiometri", "isCorrect": false },
+        { "text": "C. Noise mapping", "isCorrect": false },
+        { "text": "D. Spirometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan QRA dalam contoh metode analisis risiko kuantitatif merujuk pada?",
+      "explanation": "QRA adalah Quantitative Risk Assessment.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Quick Risk Audit", "isCorrect": false },
+        { "text": "B. Quantitative Risk Assessment", "isCorrect": true },
+        { "text": "C. Qualitative Risk Analysis", "isCorrect": false },
+        { "text": "D. Quarterly Risk Appraisal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan FMEA sebagai metode kuantitatif merujuk pada?",
+      "explanation": "FMEA adalah Failure Mode and Effects Analysis, metode untuk menganalisis mode kegagalan dan dampaknya.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Failure Mode and Effects Analysis", "isCorrect": true },
+        { "text": "B. Fire Management Emergency Action", "isCorrect": false },
+        { "text": "C. Factory Maintenance Evaluation Audit", "isCorrect": false },
+        { "text": "D. Fault Management Engineering Approach", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode yang menganalisis kombinasi penyebab kegagalan menuju satu kejadian puncak (top event) adalah?",
+      "explanation": "Fault Tree (Fault Tree Analysis) menganalisis kombinasi penyebab yang dapat menyebabkan suatu kegagalan/kejadian puncak.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Fault Tree", "isCorrect": true },
+        { "text": "B. Skala Risiko Kualitatif", "isCorrect": false },
+        { "text": "C. Risk Matriks sederhana", "isCorrect": false },
+        { "text": "D. Task Risk Analysis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode HAZOPS yang disebut dalam contoh metode kuantitatif berfokus pada?",
+      "explanation": "HAZOPS (Hazard and Operability Study) berfokus pada identifikasi penyimpangan (deviation) dari kondisi operasi normal pada proses.",
+      "difficulty": "HARD",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Pengukuran kebisingan", "isCorrect": false },
+        { "text": "B. Penyimpangan dari kondisi operasi normal", "isCorrect": true },
+        { "text": "C. Pemeriksaan pendengaran", "isCorrect": false },
+        { "text": "D. Penilaian biaya produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Event Tree sebagai contoh metode kuantitatif digunakan untuk menganalisis?",
+      "explanation": "Event Tree (Event Tree Analysis) menganalisis rangkaian kejadian/konsekuensi yang mungkin muncul setelah suatu kejadian awal.",
+      "difficulty": "HARD",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Urutan kejadian/konsekuensi setelah kejadian awal", "isCorrect": true },
+        { "text": "B. Tingkat pencahayaan ruang", "isCorrect": false },
+        { "text": "C. Frekuensi getaran mesin", "isCorrect": false },
+        { "text": "D. Status gizi pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk daftar contoh metode analisis risiko kuantitatif menurut materi?",
+      "explanation": "Contoh metode kuantitatif meliputi Fault Tree, Event Tree, QRA, HAZOPS, dan FMEA.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Event Tree dan QRA", "isCorrect": true },
+        { "text": "B. Audiometri dan spirometri", "isCorrect": false },
+        { "text": "C. Noise mapping dan kalibrasi", "isCorrect": false },
+        { "text": "D. JSA dan JSO", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya (hazard) yang tidak dikendalikan dapat berkembang menjadi?",
+      "explanation": "Bahaya yang tidak dikendalikan dapat menimbulkan risiko, yaitu peluang terjadinya kejadian berbahaya dengan dampaknya.",
+      "difficulty": "EASY",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Risiko yang menyebabkan cidera atau gangguan kesehatan", "isCorrect": true },
+        { "text": "B. Keuntungan perusahaan", "isCorrect": false },
+        { "text": "C. Penurunan biaya", "isCorrect": false },
+        { "text": "D. Peningkatan produktivitas otomatis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar internasional sistem manajemen K3 yang menjadi acuan definisi risiko adalah?",
+      "explanation": "ISO 45001:2018 adalah standar sistem manajemen K3 (Occupational Health and Safety Management System) yang menjadi acuan definisi risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. ISO 9001:2015", "isCorrect": false },
+        { "text": "B. ISO 45001:2018", "isCorrect": true },
+        { "text": "C. ISO 14001:2015", "isCorrect": false },
+        { "text": "D. ISO 27001:2013", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko merupakan bagian dari proses manajemen risiko yang berperan untuk?",
+      "explanation": "Analisis risiko berperan menghitung tingkat risiko sehingga keputusan pengendalian dapat diambil secara tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Analisis Risiko",
+      "options": [
+        { "text": "A. Menghitung tingkat risiko sebagai dasar pengambilan keputusan", "isCorrect": true },
+        { "text": "B. Menetapkan gaji pekerja", "isCorrect": false },
+        { "text": "C. Menentukan jadwal libur", "isCorrect": false },
+        { "text": "D. Menghitung pajak perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang ketidakpastian pada analisis kualitatif vs kuantitatif adalah?",
+      "explanation": "Analisis kualitatif bersifat subjektif dengan ketidakpastian tinggi, sedangkan kuantitatif lebih objektif dengan dukungan data numerik mendalam.",
+      "difficulty": "HARD",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Kualitatif memiliki ketidakpastian lebih tinggi daripada kuantitatif", "isCorrect": true },
+        { "text": "B. Kualitatif selalu lebih akurat daripada kuantitatif", "isCorrect": false },
+        { "text": "C. Keduanya tidak memiliki ketidakpastian", "isCorrect": false },
+        { "text": "D. Kuantitatif lebih subjektif daripada kualitatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemilihan metode analisis risiko yang konsisten bertujuan agar hasil penilaian?",
+      "explanation": "Cara penerapan yang terstruktur dan konsisten membuat hasil penilaian risiko lebih dapat dibandingkan dan diandalkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Dapat dibandingkan dan diandalkan", "isCorrect": true },
+        { "text": "B. Selalu berubah tiap orang", "isCorrect": false },
+        { "text": "C. Tidak perlu didokumentasikan", "isCorrect": false },
+        { "text": "D. Bersifat rahasia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks risiko kualitatif, dua sumbu yang umumnya digunakan adalah?",
+      "explanation": "Matriks risiko kualitatif umumnya menggunakan sumbu Probability/Likelihood dan Severity/Consequency.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Likelihood dan Consequency", "isCorrect": true },
+        { "text": "B. Biaya dan waktu", "isCorrect": false },
+        { "text": "C. Suhu dan kelembapan", "isCorrect": false },
+        { "text": "D. Frekuensi dan amplitudo", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika sebuah perusahaan baru ingin cepat mengetahui gambaran awal risiko kegiatannya dengan biaya rendah, metode yang paling sesuai adalah?",
+      "explanation": "Analisis risiko kualitatif sesuai untuk langkah awal mengetahui risiko, cepat, mudah, dan berbiaya rendah.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Analisis risiko kualitatif", "isCorrect": true },
+        { "text": "B. Quantitative Risk Assessment penuh", "isCorrect": false },
+        { "text": "C. Fault Tree Analysis detail", "isCorrect": false },
+        { "text": "D. Simulasi Monte Carlo", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk fasilitas yang sangat kompleks dan rinci dengan ketersediaan data lengkap, pendekatan yang paling tepat adalah?",
+      "explanation": "Analisis risiko kuantitatif cocok untuk aktivitas kompleks dan rinci karena menggunakan data numerik mendalam.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Analisis risiko kuantitatif", "isCorrect": true },
+        { "text": "B. Analisis kualitatif sederhana", "isCorrect": false },
+        { "text": "C. Tanpa analisis", "isCorrect": false },
+        { "text": "D. Pengamatan sekilas saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko semi kuantitatif dapat dipandang sebagai jembatan antara?",
+      "explanation": "Semi kuantitatif memberi nilai pada skala kualitatif, sehingga menjadi jembatan antara analisis kualitatif dan kuantitatif.",
+      "difficulty": "HARD",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Analisis kualitatif dan kuantitatif", "isCorrect": true },
+        { "text": "B. Inspeksi dan audit", "isCorrect": false },
+        { "text": "C. JSA dan JSO", "isCorrect": false },
+        { "text": "D. Preventive dan mitigative control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah aktivitas memiliki Consequency = 5, Exposure = 6, dan Probability = 3. Berapa Risk Score-nya?",
+      "explanation": "Risk Score = C x E x P = 5 x 6 x 3 = 90.",
+      "difficulty": "HARD",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. 14", "isCorrect": false },
+        { "text": "B. 90", "isCorrect": true },
+        { "text": "C. 45", "isCorrect": false },
+        { "text": "D. 30", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika Consequency = 1, Exposure = 2, dan Probability = 4, maka Risk Score sama dengan?",
+      "explanation": "Risk Score = 1 x 2 x 4 = 8.",
+      "difficulty": "HARD",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. 7", "isCorrect": false },
+        { "text": "B. 8", "isCorrect": true },
+        { "text": "C. 6", "isCorrect": false },
+        { "text": "D. 24", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Semakin besar nilai Risk Score (C x E x P), maka tingkat risiko cenderung?",
+      "explanation": "Risk Score yang besar menunjukkan tingkat risiko yang lebih tinggi sehingga prioritas pengendaliannya lebih mendesak.",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Semakin tinggi", "isCorrect": true },
+        { "text": "B. Semakin rendah", "isCorrect": false },
+        { "text": "C. Tetap sama", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil akhir penilaian risiko semi kuantitatif berupa risk score digunakan untuk?",
+      "explanation": "Risk score digunakan untuk penetapan level/tingkat risiko dan menentukan prioritas pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Penetapan level risiko dan prioritas pengendalian", "isCorrect": true },
+        { "text": "B. Menghitung upah lembur", "isCorrect": false },
+        { "text": "C. Menentukan warna seragam", "isCorrect": false },
+        { "text": "D. Menjadwalkan rapat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode analisis risiko yang menghasilkan output berupa peringkat skala bernilai (tanpa perhitungan numerik penuh seperti kuantitatif) adalah?",
+      "explanation": "Analisis semi kuantitatif memberi nilai pada skala kualitatif untuk menghasilkan peringkat skala, di antara kualitatif murni dan kuantitatif penuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Semi kuantitatif", "isCorrect": true },
+        { "text": "B. Kualitatif murni", "isCorrect": false },
+        { "text": "C. Kuantitatif penuh", "isCorrect": false },
+        { "text": "D. Observasi langsung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang TEPAT mengenai analisis risiko kualitatif adalah?",
+      "explanation": "Analisis kualitatif menggunakan bentuk kata, bersifat subjektif, cepat, murah, dan cocok untuk fasilitas sederhana.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Menggunakan bentuk kata dan cocok untuk fasilitas sederhana", "isCorrect": true },
+        { "text": "B. Selalu menghasilkan angka presisi tinggi", "isCorrect": false },
+        { "text": "C. Memerlukan biaya sangat besar", "isCorrect": false },
+        { "text": "D. Hanya untuk fasilitas sangat kompleks", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang TEPAT mengenai analisis risiko kuantitatif adalah?",
+      "explanation": "Analisis kuantitatif memakai nilai numerik, butuh data mendalam, serta lebih banyak waktu, tenaga, dan keahlian.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Memakai nilai numerik dan butuh data mendalam", "isCorrect": true },
+        { "text": "B. Tidak memerlukan data apa pun", "isCorrect": false },
+        { "text": "C. Hanya menggunakan kata sifat", "isCorrect": false },
+        { "text": "D. Selalu paling murah dan cepat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tiga jenis pendekatan analisis risiko yang dibahas dalam materi ini adalah?",
+      "explanation": "Tiga pendekatan analisis risiko adalah kualitatif, semi kuantitatif, dan kuantitatif.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Analisis Risiko",
+      "options": [
+        { "text": "A. Kualitatif, semi kuantitatif, dan kuantitatif", "isCorrect": true },
+        { "text": "B. Preventif, korektif, dan mitigatif", "isCorrect": false },
+        { "text": "C. Eliminasi, substitusi, dan APD", "isCorrect": false },
+        { "text": "D. Inspeksi, audit, dan observasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada Risk Score, komponen yang menilai seberapa sering pekerja kontak dengan bahaya dalam satuan waktu adalah?",
+      "explanation": "Exposure menilai frekuensi/seringnya pajanan pekerja terhadap bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Exposure", "isCorrect": true },
+        { "text": "B. Probability", "isCorrect": false },
+        { "text": "C. Consequency", "isCorrect": false },
+        { "text": "D. Severity", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa analisis risiko kuantitatif tidak selalu dipilih untuk semua kasus?",
+      "explanation": "Karena memerlukan data mendalam serta waktu, tenaga, dan keahlian yang lebih tinggi, sehingga tidak efisien untuk fasilitas sederhana.",
+      "difficulty": "HARD",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Memerlukan data, waktu, tenaga, dan keahlian yang tinggi", "isCorrect": true },
+        { "text": "B. Tidak pernah akurat", "isCorrect": false },
+        { "text": "C. Dilarang oleh regulasi", "isCorrect": false },
+        { "text": "D. Hanya boleh dipakai sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "QRA (Quantitative Risk Assessment) termasuk dalam kategori analisis risiko?",
+      "explanation": "QRA merupakan contoh metode analisis risiko kuantitatif.",
+      "difficulty": "EASY",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Kuantitatif", "isCorrect": true },
+        { "text": "B. Kualitatif", "isCorrect": false },
+        { "text": "C. Semi kuantitatif", "isCorrect": false },
+        { "text": "D. Deskriptif murni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi risiko menekankan bahwa risiko bukan hanya soal seberapa besar dampaknya, tetapi juga?",
+      "explanation": "Risiko adalah kombinasi keparahan (severity) dampak DAN kemungkinan (probability) terjadinya, bukan dampak saja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Seberapa besar kemungkinan terjadinya", "isCorrect": true },
+        { "text": "B. Warna rambu bahaya", "isCorrect": false },
+        { "text": "C. Jumlah dokumen ijin", "isCorrect": false },
+        { "text": "D. Lokasi parkir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Output utama dari proses analisis risiko adalah informasi mengenai?",
+      "explanation": "Output analisis risiko adalah tingkat risiko dan penilaian apakah risiko dapat diterima atau perlu dikendalikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Analisis Risiko",
+      "options": [
+        { "text": "A. Tingkat risiko dan kebutuhan pengendalian", "isCorrect": true },
+        { "text": "B. Jadwal cuti pekerja", "isCorrect": false },
+        { "text": "C. Harga jual produk", "isCorrect": false },
+        { "text": "D. Desain logo perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat metode analisis risiko yang dapat membedakan tingkat bahaya secara jelas adalah?",
+      "explanation": "Dengan membedakan tingkat bahaya secara jelas, perusahaan dapat menentukan prioritas langkah pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Penentuan prioritas pengendalian", "isCorrect": true },
+        { "text": "B. Penambahan jam istirahat", "isCorrect": false },
+        { "text": "C. Pengurangan jumlah dokumen", "isCorrect": false },
+        { "text": "D. Penurunan harga bahan baku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada analisis risiko semi kuantitatif, skala kualitatif diubah menjadi nilai agar dapat?",
+      "explanation": "Pemberian nilai pada skala kualitatif memungkinkan diketahuinya tingkat besarnya konsekuensi, kemungkinan, dan frekuensi pajanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Diketahui besarnya konsekuensi, kemungkinan, dan frekuensi pajanan", "isCorrect": true },
+        { "text": "B. Disembunyikan dari pekerja", "isCorrect": false },
+        { "text": "C. Dihapus dari dokumen", "isCorrect": false },
+        { "text": "D. Diubah menjadi grafik suhu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN merupakan contoh metode analisis risiko kuantitatif adalah?",
+      "explanation": "Audiometri adalah pemeriksaan pendengaran, bukan metode analisis risiko kuantitatif. Fault Tree, QRA, dan FMEA adalah metode kuantitatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Fault Tree", "isCorrect": false },
+        { "text": "B. Audiometri", "isCorrect": true },
+        { "text": "C. QRA", "isCorrect": false },
+        { "text": "D. FMEA", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen 'kemungkinan' dalam definisi risiko ISO 45001 dikenal dengan istilah?",
+      "explanation": "Kemungkinan dalam definisi risiko disebut probability.",
+      "difficulty": "EASY",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Probability", "isCorrect": true },
+        { "text": "B. Severity", "isCorrect": false },
+        { "text": "C. Exposure", "isCorrect": false },
+        { "text": "D. Consequence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan analisis risiko yang paling subjektif di antara ketiga jenis adalah?",
+      "explanation": "Analisis kualitatif paling subjektif karena menggunakan bentuk kata tanpa nilai numerik.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Kualitatif", "isCorrect": true },
+        { "text": "B. Semi kuantitatif", "isCorrect": false },
+        { "text": "C. Kuantitatif", "isCorrect": false },
+        { "text": "D. Ketiganya sama subjektif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "FMEA sebagai metode analisis risiko berfokus pada identifikasi?",
+      "explanation": "FMEA (Failure Mode and Effects Analysis) berfokus pada mode kegagalan dan efek/dampaknya pada sistem.",
+      "difficulty": "HARD",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Mode kegagalan dan efeknya", "isCorrect": true },
+        { "text": "B. Tingkat pencahayaan", "isCorrect": false },
+        { "text": "C. Kadar debu udara", "isCorrect": false },
+        { "text": "D. Status gizi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko yang menghitung secara numerik baik konsekuensi maupun probabilitas suatu kejadian disebut?",
+      "explanation": "Analisis risiko kuantitatif menghitung konsekuensi dan probabilitas secara numerik.",
+      "difficulty": "EASY",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Kuantitatif", "isCorrect": true },
+        { "text": "B. Kualitatif", "isCorrect": false },
+        { "text": "C. Deskriptif", "isCorrect": false },
+        { "text": "D. Naratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemilihan metode analisis risiko sebaiknya juga membantu organisasi dalam menentukan?",
+      "explanation": "Metode analisis risiko yang baik membantu menentukan pilihan cara pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Pilihan cara pengendalian risiko", "isCorrect": true },
+        { "text": "B. Menu makan siang", "isCorrect": false },
+        { "text": "C. Lokasi liburan", "isCorrect": false },
+        { "text": "D. Warna cat dinding", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risk Score yang menggunakan tiga faktor sekaligus (C, E, P) merupakan ciri khas analisis risiko?",
+      "explanation": "Rumus Risk Score = C x E x P digunakan dalam analisis risiko semi kuantitatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Semi kuantitatif", "isCorrect": true },
+        { "text": "B. Kualitatif murni", "isCorrect": false },
+        { "text": "C. Observasional", "isCorrect": false },
+        { "text": "D. Deskriptif naratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam analisis risiko, kombinasi probability dan severity menghasilkan nilai?",
+      "explanation": "Kombinasi kemungkinan (probability) dan keparahan (severity) menghasilkan nilai/tingkat risiko.",
+      "difficulty": "EASY",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Tingkat risiko", "isCorrect": true },
+        { "text": "B. Biaya produksi", "isCorrect": false },
+        { "text": "C. Jumlah pekerja", "isCorrect": false },
+        { "text": "D. Tingkat kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode analisis risiko semi kuantitatif menilai frekuensi pajanan melalui komponen?",
+      "explanation": "Frekuensi pajanan terhadap bahaya dinilai melalui komponen Exposure dalam rumus Risk Score.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Exposure", "isCorrect": true },
+        { "text": "B. Consequency", "isCorrect": false },
+        { "text": "C. Severity", "isCorrect": false },
+        { "text": "D. Likelihood", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk prinsip analisis risiko kualitatif, KECUALI?",
+      "explanation": "Memerlukan data dan informasi mendalam adalah prinsip analisis kuantitatif, bukan kualitatif. Kualitatif justru cepat, murah, dan subjektif.",
+      "difficulty": "HARD",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Memerlukan data dan informasi yang mendalam", "isCorrect": true },
+        { "text": "B. Bersifat subjektif", "isCorrect": false },
+        { "text": "C. Biaya rendah", "isCorrect": false },
+        { "text": "D. Mudah diaplikasikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen yang menggambarkan dampak terburuk yang paling mungkin terjadi dari potensi kecelakaan disebut?",
+      "explanation": "Consequency adalah dampak yang paling mungkin terjadi dari suatu potensi kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Consequency", "isCorrect": true },
+        { "text": "B. Exposure", "isCorrect": false },
+        { "text": "C. Probability", "isCorrect": false },
+        { "text": "D. Control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analisis risiko yang waktunya relatif cepat namun hasilnya kurang presisi karena tidak numerik adalah?",
+      "explanation": "Analisis kualitatif cepat dan mudah, namun nilai risikonya tidak numerik dan subjektif sehingga kurang presisi.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Kualitatif", "isCorrect": true },
+        { "text": "B. Kuantitatif", "isCorrect": false },
+        { "text": "C. Semi kuantitatif terstruktur penuh", "isCorrect": false },
+        { "text": "D. QRA", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan materi, urutan analisis risiko dari yang paling sederhana ke paling kompleks adalah?",
+      "explanation": "Urutannya: kualitatif (paling sederhana), semi kuantitatif, lalu kuantitatif (paling kompleks dan rinci).",
+      "difficulty": "MEDIUM",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Kualitatif, semi kuantitatif, kuantitatif", "isCorrect": true },
+        { "text": "B. Kuantitatif, kualitatif, semi kuantitatif", "isCorrect": false },
+        { "text": "C. Semi kuantitatif, kualitatif, kuantitatif", "isCorrect": false },
+        { "text": "D. Kuantitatif, semi kuantitatif, kualitatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil identifikasi bahaya pada analisis semi kuantitatif menjadi dasar untuk tahap?",
+      "explanation": "Setelah identifikasi bahaya (Task Risk Analysis), dilanjutkan dengan penilaian risiko menggunakan risk score, lalu penetapan level risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Penilaian risiko (risk score) dan penetapan level risiko", "isCorrect": true },
+        { "text": "B. Penutupan ijin kerja", "isCorrect": false },
+        { "text": "C. Penggajian pekerja", "isCorrect": false },
+        { "text": "D. Pemeriksaan audiometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila Consequency = 4, Exposure = 1, dan Probability = 2, maka Risk Score adalah?",
+      "explanation": "Risk Score = 4 x 1 x 2 = 8.",
+      "difficulty": "HARD",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. 8", "isCorrect": true },
+        { "text": "B. 7", "isCorrect": false },
+        { "text": "C. 6", "isCorrect": false },
+        { "text": "D. 16", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam ISO 45001, risiko yang dibahas berkaitan dengan dampak terhadap?",
+      "explanation": "Risiko dalam ISO 45001 berkaitan dengan cidera atau gangguan kesehatan (ill health) yang buruk pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Cidera atau gangguan kesehatan pekerja", "isCorrect": true },
+        { "text": "B. Keuntungan finansial perusahaan", "isCorrect": false },
+        { "text": "C. Kualitas produk akhir", "isCorrect": false },
+        { "text": "D. Reputasi merek di media", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode yang membantu menetapkan prioritas pengendalian dengan memberi nilai pada konsekuensi, pajanan, dan probabilitas adalah?",
+      "explanation": "Analisis semi kuantitatif dengan rumus Risk Score (C x E x P) memberi nilai pada ketiga komponen untuk menetapkan prioritas.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Analisis risiko semi kuantitatif", "isCorrect": true },
+        { "text": "B. Audiometri", "isCorrect": false },
+        { "text": "C. Inspeksi visual sederhana", "isCorrect": false },
+        { "text": "D. Pencatatan absensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai biaya dan kompleksitas tiga metode analisis risiko adalah?",
+      "explanation": "Kualitatif paling murah dan sederhana, kuantitatif paling mahal dan kompleks, semi kuantitatif berada di antaranya.",
+      "difficulty": "HARD",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Kualitatif termurah, kuantitatif termahal/terkompleks", "isCorrect": true },
+        { "text": "B. Kuantitatif termurah, kualitatif termahal", "isCorrect": false },
+        { "text": "C. Ketiganya berbiaya sama", "isCorrect": false },
+        { "text": "D. Semi kuantitatif paling mahal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam analisis risiko, severity yang tinggi disertai probability yang tinggi menghasilkan tingkat risiko yang?",
+      "explanation": "Karena risiko adalah kombinasi keduanya, severity tinggi dan probability tinggi menghasilkan tingkat risiko yang tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Tinggi", "isCorrect": true },
+        { "text": "B. Rendah", "isCorrect": false },
+        { "text": "C. Nol", "isCorrect": false },
+        { "text": "D. Tidak dapat dinilai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir analisis risiko adalah memastikan risiko dikelola hingga berada pada tingkat yang?",
+      "explanation": "Analisis risiko memastikan risiko berada pada tingkat yang dapat diterima (acceptable), jika tidak maka perlu dikendalikan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Analisis Risiko",
+      "options": [
+        { "text": "A. Dapat diterima (acceptable)", "isCorrect": true },
+        { "text": "B. Maksimal", "isCorrect": false },
+        { "text": "C. Tak terbatas", "isCorrect": false },
+        { "text": "D. Tidak diketahui", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fault Tree, Event Tree, QRA, HAZOPS, dan FMEA seluruhnya merupakan contoh metode analisis risiko?",
+      "explanation": "Kelima metode tersebut merupakan contoh metode analisis risiko kuantitatif.",
+      "difficulty": "EASY",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. Kuantitatif", "isCorrect": true },
+        { "text": "B. Kualitatif", "isCorrect": false },
+        { "text": "C. Naratif", "isCorrect": false },
+        { "text": "D. Observasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang membedakan analisis semi kuantitatif dari kualitatif murni adalah?",
+      "explanation": "Pada semi kuantitatif, skala kualitatif diberi nilai (angka), sedangkan kualitatif murni tidak menunjukkan nilai numerik.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Skala kualitatif diberi nilai/angka", "isCorrect": true },
+        { "text": "B. Tidak melibatkan konsekuensi", "isCorrect": false },
+        { "text": "C. Tidak melibatkan probabilitas", "isCorrect": false },
+        { "text": "D. Tidak memerlukan identifikasi bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Karena memerlukan keahlian dan data mendalam, analisis risiko kuantitatif paling jarang cocok untuk?",
+      "explanation": "Analisis kuantitatif kurang efisien untuk fasilitas yang sederhana/tidak rumit, yang lebih cocok dengan analisis kualitatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kuantitatif",
+      "options": [
+        { "text": "A. Fasilitas sederhana/tidak rumit", "isCorrect": true },
+        { "text": "B. Kilang minyak kompleks", "isCorrect": false },
+        { "text": "C. Pabrik kimia besar", "isCorrect": false },
+        { "text": "D. Instalasi berisiko tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen Probability dalam Risk Score mempertimbangkan peluang mulai dari pajanan hingga?",
+      "explanation": "Probability adalah peluang terjadinya kecelakaan mulai dari pajanan terhadap bahaya hingga menimbulkan kecelakaan dan dampaknya.",
+      "difficulty": "HARD",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Menimbulkan kecelakaan dan dampaknya", "isCorrect": true },
+        { "text": "B. Selesai jam kerja", "isCorrect": false },
+        { "text": "C. Penggajian pekerja", "isCorrect": false },
+        { "text": "D. Penutupan ijin kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan metode dan kategorinya yang benar?",
+      "explanation": "QRA termasuk metode analisis risiko kuantitatif sesuai contoh dalam materi.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh Metode Kuantitatif",
+      "options": [
+        { "text": "A. QRA - kuantitatif", "isCorrect": true },
+        { "text": "B. QRA - kualitatif", "isCorrect": false },
+        { "text": "C. FMEA - kualitatif", "isCorrect": false },
+        { "text": "D. Fault Tree - kualitatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks risiko, kategori 'sangat mungkin terjadi' menggambarkan tingginya nilai?",
+      "explanation": "Kategori seberapa mungkin terjadi menggambarkan tingginya probability/likelihood pada matriks risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis Risiko Kualitatif",
+      "options": [
+        { "text": "A. Probability/Likelihood", "isCorrect": true },
+        { "text": "B. Consequency saja", "isCorrect": false },
+        { "text": "C. Biaya saja", "isCorrect": false },
+        { "text": "D. Lama kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertimbangan utama dalam memilih metode analisis risiko yang TIDAK disebutkan materi adalah?",
+      "explanation": "Materi menyebutkan kesesuaian dengan kompleksitas, membantu pengendalian, menentukan prioritas, dan penerapan terstruktur, bukan warna seragam pekerja.",
+      "difficulty": "HARD",
+      "tag": "Pemilihan Metode Analisis Risiko",
+      "options": [
+        { "text": "A. Warna seragam pekerja", "isCorrect": true },
+        { "text": "B. Kesesuaian dengan kompleksitas fasilitas", "isCorrect": false },
+        { "text": "C. Membantu menentukan prioritas pengendalian", "isCorrect": false },
+        { "text": "D. Penerapan terstruktur dan konsisten", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dampak deviasi terhadap keselamatan, operasional, dan lingkungan dalam analisis risiko dikategorikan sebagai?",
+      "explanation": "Akibat yang muncul dari suatu potensi kejadian merupakan konsekuensi (consequence), salah satu komponen penilaian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Rumus Risk Score (C x E x P)",
+      "options": [
+        { "text": "A. Konsekuensi (consequence)", "isCorrect": true },
+        { "text": "B. Exposure", "isCorrect": false },
+        { "text": "C. Safeguard", "isCorrect": false },
+        { "text": "D. Guide word", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hubungan bahaya (hazard) dan risiko (risk) adalah?",
+      "explanation": "Bahaya adalah sumber potensi kerugian, sedangkan risiko adalah kombinasi kemungkinan dan keparahan dampak dari bahaya tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Risiko (ISO 45001)",
+      "options": [
+        { "text": "A. Risiko adalah kombinasi kemungkinan dan keparahan dampak dari suatu bahaya", "isCorrect": true },
+        { "text": "B. Bahaya dan risiko adalah istilah yang sama persis", "isCorrect": false },
+        { "text": "C. Risiko selalu lebih kecil dari bahaya secara numerik", "isCorrect": false },
+        { "text": "D. Bahaya tidak pernah menimbulkan risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahapan akhir setelah penilaian risk score dalam analisis semi kuantitatif menghasilkan?",
+      "explanation": "Tahapan akhir menghasilkan penetapan level/tingkat risiko yang menjadi dasar prioritas pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Analisis Risiko Semi Kuantitatif",
+      "options": [
+        { "text": "A. Level/tingkat risiko", "isCorrect": true },
+        { "text": "B. Audiogram", "isCorrect": false },
+        { "text": "C. Peta kebisingan", "isCorrect": false },
+        { "text": "D. Slip gaji", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Definisi Risiko (ISO 45001:2018)", "back": "Kombinasi dari kemungkinan (probability) terjadinya kejadian berbahaya dan keparahan (severity) cidera atau gangguan kesehatan yang buruk.", "tag": "Definisi Risiko (ISO 45001)" },
+    { "front": "Klausul ISO 45001 untuk definisi risiko", "back": "Klausul 3.19 dan 3.21 dari ISO 45001:2018.", "tag": "Definisi Risiko (ISO 45001)" },
+    { "front": "Dua komponen pembentuk risiko", "back": "Probability (kemungkinan) dan Severity (keparahan).", "tag": "Definisi Risiko (ISO 45001)" },
+    { "front": "Definisi Analisis Risiko", "back": "Proses sistematik untuk menghitung tingkat risiko yang ada.", "tag": "Pengertian & Tujuan Analisis Risiko" },
+    { "front": "Tujuan Analisis Risiko", "back": "Menentukan apakah risiko berada pada tingkat yang dapat diterima atau perlu pengendalian risiko.", "tag": "Pengertian & Tujuan Analisis Risiko" },
+    { "front": "Tiga jenis analisis risiko", "back": "Kualitatif, semi kuantitatif, dan kuantitatif.", "tag": "Pengertian & Tujuan Analisis Risiko" },
+    { "front": "Pertimbangan memilih metode analisis risiko", "back": "Sesuai kompleksitas fasilitas & jenis bahaya, membantu pengendalian, menentukan prioritas, serta terstruktur dan konsisten.", "tag": "Pemilihan Metode Analisis Risiko" },
+    { "front": "Analisis Risiko Kualitatif", "back": "Menilai risiko menggunakan bentuk kata (deskriptif); subjektif, cepat, murah, mudah, cocok untuk fasilitas sederhana.", "tag": "Analisis Risiko Kualitatif" },
+    { "front": "Nilai risiko pada analisis kualitatif", "back": "Tidak menunjukkan nilai numerik; bersifat subjektif sehingga ketidakpastian tinggi.", "tag": "Analisis Risiko Kualitatif" },
+    { "front": "Komponen analisis kualitatif", "back": "Probability/Likelihood dan Severity/Consequency, ditampilkan lewat Matriks & Skala Risiko Kualitatif.", "tag": "Analisis Risiko Kualitatif" },
+    { "front": "Analisis Risiko Semi Kuantitatif", "back": "Memberi nilai pada skala kualitatif; lebih terstruktur dari kualitatif, menghasilkan peringkat skala. Contoh: Risk Matriks.", "tag": "Analisis Risiko Semi Kuantitatif" },
+    { "front": "Langkah analisis semi kuantitatif", "back": "1) Identifikasi bahaya & risiko (Task Risk Analysis), 2) Penilaian risiko (risk score), 3) Penetapan level risiko.", "tag": "Analisis Risiko Semi Kuantitatif" },
+    { "front": "Rumus Risk Score", "back": "Risk Score = Consequency x Exposure x Probability (C x E x P).", "tag": "Rumus Risk Score (C x E x P)" },
+    { "front": "Consequency dalam Risk Score", "back": "Dampak yang paling mungkin terjadi dari potensi kecelakaan, termasuk cedera dan kerusakan properti.", "tag": "Rumus Risk Score (C x E x P)" },
+    { "front": "Exposure dalam Risk Score", "back": "Frekuensi pajanan terhadap bahaya.", "tag": "Rumus Risk Score (C x E x P)" },
+    { "front": "Probability dalam Risk Score", "back": "Peluang terjadinya kecelakaan mulai dari pajanan terhadap bahaya hingga menimbulkan kecelakaan dan dampaknya.", "tag": "Rumus Risk Score (C x E x P)" },
+    { "front": "Analisis Risiko Kuantitatif", "back": "Menggunakan nilai numerik untuk menghitung konsekuensi dan probabilitas; butuh data mendalam, waktu, tenaga, dan keahlian tinggi.", "tag": "Analisis Risiko Kuantitatif" },
+    { "front": "Kapan menggunakan analisis kuantitatif", "back": "Untuk aktivitas yang kompleks dan rinci dengan ketersediaan data yang mendalam.", "tag": "Analisis Risiko Kuantitatif" },
+    { "front": "Contoh metode analisis kuantitatif", "back": "Fault Tree, Event Tree, Quantitative Risk Assessment (QRA), HAZOPS, dan FMEA.", "tag": "Contoh Metode Kuantitatif" },
+    { "front": "Singkatan QRA dan FMEA", "back": "QRA = Quantitative Risk Assessment; FMEA = Failure Mode and Effects Analysis.", "tag": "Contoh Metode Kuantitatif" }
+  ],
+  "mindmap": [
+    { "id": "konsep-risiko", "label": "Konsep Bahaya, Risiko & Analisis Risiko", "color": "#6366f1", "parent": null, "content": "Topik tentang definisi risiko (ISO 45001) serta tiga metode analisis risiko: kualitatif, semi kuantitatif, dan kuantitatif." },
+    { "id": "definisi-risiko", "label": "Definisi Risiko", "color": "#8b5cf6", "parent": "konsep-risiko", "content": "Menurut ISO 45001:2018 klausul 3.19 & 3.21, risiko adalah kombinasi kemungkinan dan keparahan." },
+    { "id": "iso-45001", "label": "ISO 45001:2018", "color": "#8b5cf6", "parent": "definisi-risiko", "content": "Standar sistem manajemen K3 yang menjadi acuan definisi risiko." },
+    { "id": "probability", "label": "Probability", "color": "#8b5cf6", "parent": "definisi-risiko", "content": "Kemungkinan terjadinya kejadian berbahaya." },
+    { "id": "severity", "label": "Severity", "color": "#8b5cf6", "parent": "definisi-risiko", "content": "Keparahan dampak cidera atau gangguan kesehatan yang buruk." },
+    { "id": "analisis-risiko", "label": "Analisis Risiko", "color": "#0ea5e9", "parent": "konsep-risiko", "content": "Proses sistematik untuk menghitung tingkat risiko yang ada." },
+    { "id": "tujuan-analisis", "label": "Tujuan Analisis", "color": "#0ea5e9", "parent": "analisis-risiko", "content": "Menentukan apakah risiko dapat diterima atau perlu dikendalikan." },
+    { "id": "tiga-jenis", "label": "Tiga Jenis Metode", "color": "#0ea5e9", "parent": "analisis-risiko", "content": "Kualitatif, semi kuantitatif, dan kuantitatif." },
+    { "id": "pemilihan-metode", "label": "Pemilihan Metode", "color": "#10b981", "parent": "konsep-risiko", "content": "Pertimbangan dalam memilih metode analisis risiko yang tepat." },
+    { "id": "sesuai-kompleksitas", "label": "Sesuai Kompleksitas", "color": "#10b981", "parent": "pemilihan-metode", "content": "Cocok dengan kondisi, kompleksitas fasilitas, dan jenis bahaya operasi." },
+    { "id": "bantu-pengendalian", "label": "Bantu Pengendalian", "color": "#10b981", "parent": "pemilihan-metode", "content": "Membantu menentukan pilihan cara pengendalian risiko." },
+    { "id": "tentukan-prioritas", "label": "Tentukan Prioritas", "color": "#10b981", "parent": "pemilihan-metode", "content": "Membedakan tingkat bahaya untuk menentukan prioritas pengendalian." },
+    { "id": "terstruktur", "label": "Terstruktur & Konsisten", "color": "#10b981", "parent": "pemilihan-metode", "content": "Cara penerapan harus terstruktur dan konsisten." },
+    { "id": "kualitatif", "label": "Analisis Kualitatif", "color": "#f59e0b", "parent": "konsep-risiko", "content": "Menilai risiko dengan bentuk kata (deskriptif), tanpa nilai numerik." },
+    { "id": "kual-subjektif", "label": "Subjektif", "color": "#f59e0b", "parent": "kualitatif", "content": "Bersifat subjektif sehingga peluang ketidakpastian tinggi." },
+    { "id": "kual-sederhana", "label": "Untuk Fasilitas Sederhana", "color": "#f59e0b", "parent": "kualitatif", "content": "Cepat, murah, mudah diaplikasikan, cocok untuk fasilitas tidak rumit." },
+    { "id": "kual-komponen", "label": "Komponen & Alat", "color": "#f59e0b", "parent": "kualitatif", "content": "Probability/Likelihood & Severity/Consequency lewat Matriks dan Skala Risiko." },
+    { "id": "semi-kuantitatif", "label": "Analisis Semi Kuantitatif", "color": "#ef4444", "parent": "konsep-risiko", "content": "Memberi nilai pada skala kualitatif; lebih terstruktur, menghasilkan peringkat skala." },
+    { "id": "semi-langkah", "label": "Langkah Semi Kuantitatif", "color": "#ef4444", "parent": "semi-kuantitatif", "content": "Identifikasi bahaya (Task Risk Analysis), penilaian risk score, penetapan level risiko." },
+    { "id": "semi-contoh", "label": "Contoh: Risk Matriks", "color": "#ef4444", "parent": "semi-kuantitatif", "content": "Risk Matriks digunakan sebagai alat bantu analisis semi kuantitatif." },
+    { "id": "risk-score", "label": "Rumus Risk Score", "color": "#ec4899", "parent": "konsep-risiko", "content": "Risk Score = Consequency x Exposure x Probability." },
+    { "id": "consequency", "label": "Consequency (C)", "color": "#ec4899", "parent": "risk-score", "content": "Dampak paling mungkin terjadi, termasuk cedera dan kerusakan properti." },
+    { "id": "exposure", "label": "Exposure (E)", "color": "#ec4899", "parent": "risk-score", "content": "Frekuensi pajanan terhadap bahaya." },
+    { "id": "probability-score", "label": "Probability (P)", "color": "#ec4899", "parent": "risk-score", "content": "Peluang terjadinya kecelakaan dari pajanan hingga dampaknya." },
+    { "id": "kuantitatif", "label": "Analisis Kuantitatif", "color": "#14b8a6", "parent": "konsep-risiko", "content": "Menggunakan nilai numerik untuk menghitung konsekuensi dan probabilitas." },
+    { "id": "kuan-data", "label": "Butuh Data Mendalam", "color": "#14b8a6", "parent": "kuantitatif", "content": "Memerlukan data, waktu, tenaga, dan keahlian yang lebih tinggi." },
+    { "id": "kuan-kompleks", "label": "Untuk Aktivitas Kompleks", "color": "#14b8a6", "parent": "kuantitatif", "content": "Cocok untuk aktivitas yang kompleks dan rinci." },
+    { "id": "kuan-contoh", "label": "Contoh Metode", "color": "#14b8a6", "parent": "kuantitatif", "content": "Fault Tree, Event Tree, QRA, HAZOPS, dan FMEA." },
+    { "id": "fault-tree", "label": "Fault Tree", "color": "#14b8a6", "parent": "kuan-contoh", "content": "Menganalisis kombinasi penyebab menuju kejadian puncak (top event)." },
+    { "id": "qra", "label": "QRA", "color": "#14b8a6", "parent": "kuan-contoh", "content": "Quantitative Risk Assessment, penilaian risiko berbasis perhitungan numerik." },
+    { "id": "fmea", "label": "FMEA", "color": "#14b8a6", "parent": "kuan-contoh", "content": "Failure Mode and Effects Analysis, menganalisis mode kegagalan dan dampaknya." },
+    { "id": "hazops", "label": "HAZOPS", "color": "#14b8a6", "parent": "kuan-contoh", "content": "Mengidentifikasi penyimpangan (deviation) dari kondisi operasi normal." }
+  ]
+}

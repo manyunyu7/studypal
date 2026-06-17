@@ -1,0 +1,3055 @@
+{
+  "topic": "Safety Talk yang Efektif",
+  "order": 5,
+  "description": "Safety talk (toolbox talk) adalah komunikasi singkat, rutin, dan terstruktur tentang aspek keselamatan kerja yang dilakukan sebelum pekerjaan dimulai. Tujuannya membangun kesadaran bahaya, perilaku aman, dan budaya K3 melalui komunikasi interpersonal dua arah antara atasan dan pekerja.",
+  "subtopics": [
+    "Definisi Safety Talk",
+    "Tujuan Safety Talk",
+    "Landasan Regulasi",
+    "Model Proses Komunikasi",
+    "Prinsip Komunikasi Efektif",
+    "Teknik Persuasif & Pelaksanaan",
+    "Hambatan & Indikator Keberhasilan",
+    "Safety Talk vs Safety Briefing"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan safety talk dalam konteks K3?",
+      "explanation": "Safety talk adalah komunikasi singkat, rutin, dan terstruktur mengenai aspek keselamatan kerja yang dilakukan sebelum pekerjaan dimulai.",
+      "difficulty": "EASY",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Pelatihan formal K3 selama sehari penuh",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikasi singkat dan terstruktur tentang keselamatan sebelum pekerjaan dimulai",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Laporan tertulis insiden kecelakaan kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Audit sistem manajemen K3 tahunan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Istilah lain yang sering digunakan untuk safety talk adalah?",
+      "explanation": "Safety talk juga dikenal sebagai toolbox meeting atau toolbox talk.",
+      "difficulty": "EASY",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Toolbox talk / toolbox meeting",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Safety audit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Job safety analysis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Risk assessment",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Safety talk merupakan contoh nyata dari jenis komunikasi?",
+      "explanation": "Safety talk adalah contoh komunikasi verbal langsung, dua arah, dan persuasif berbasis risiko kerja aktual.",
+      "difficulty": "EASY",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Komunikasi tertulis satu arah",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikasi massa melalui media",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Komunikasi verbal langsung dan dua arah",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Komunikasi nonverbal saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Safety talk dilakukan antara siapa dengan siapa?",
+      "explanation": "Safety talk adalah media komunikasi interpersonal langsung antara atasan (supervisor/tim K3) dengan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Antara atasan dan pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Antara perusahaan dan pemerintah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Antara pelanggan dan penjual",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Antara dua perusahaan berbeda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kapan safety talk biasanya dilaksanakan?",
+      "explanation": "Safety talk dilakukan sebelum pekerjaan dimulai untuk meningkatkan kesadaran bahaya dan perilaku aman.",
+      "difficulty": "EASY",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Setelah pekerjaan selesai",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sebelum pekerjaan dimulai",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Saat terjadi kecelakaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya saat inspeksi mendadak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Safety talk bertujuan utama untuk meningkatkan apa pada pekerja?",
+      "explanation": "Safety talk bertujuan meningkatkan kesadaran bahaya (hazard awareness), perilaku aman, dan kepatuhan prosedur K3.",
+      "difficulty": "EASY",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Kecepatan produksi semata",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kesadaran bahaya dan perilaku aman",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Gaji dan tunjangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jumlah lembur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang tepat tentang sifat materi safety talk adalah?",
+      "explanation": "Materi safety talk bersifat spesifik sesuai pekerjaan hari itu agar relevan bagi pekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Selalu sama setiap hari tanpa perubahan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Spesifik sesuai pekerjaan hari itu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hanya membahas teori K3 umum",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berisi laporan keuangan perusahaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Safety talk membangun apa di antara anggota tim terhadap risiko?",
+      "explanation": "Safety talk membangun persepsi risiko yang sama dan perilaku kerja aman di antara tim.",
+      "difficulty": "EASY",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Persepsi risiko yang sama",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Persaingan antar pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pembagian bonus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jadwal cuti tahunan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa safety talk disebut komunikasi 'persuasif'?",
+      "explanation": "Safety talk bersifat persuasif karena berusaha mempengaruhi sikap dan perilaku pekerja berbasis risiko kerja aktual.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Karena menggunakan paksaan fisik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena berusaha mempengaruhi sikap dan perilaku aman pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena bersifat satu arah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena hanya berisi data statistik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan safety talk adalah mengingatkan pekerja tentang?",
+      "explanation": "Safety talk mengingatkan potensi bahaya spesifik pekerjaan hari itu.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Potensi bahaya spesifik pekerjaan hari itu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Target penjualan bulanan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jadwal libur nasional",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menu makan siang kantin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan safety talk dalam mencegah hal berikut adalah?",
+      "explanation": "Safety talk bertujuan mencegah kecelakaan dan penyakit akibat kerja.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Penurunan gaji",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kecelakaan dan penyakit akibat kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Keterlambatan pengiriman barang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kerusakan komputer kantor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Safety talk bertujuan menyamakan persepsi tim terhadap?",
+      "explanation": "Safety talk menyamakan persepsi tim terhadap prosedur kerja aman.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Prosedur kerja aman",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pilihan warna seragam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lokasi parkir kendaraan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tata letak meja kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan jangka panjang safety talk adalah meningkatkan?",
+      "explanation": "Safety talk bertujuan meningkatkan budaya K3 (safety culture) di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Tingkat persaingan internal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Budaya K3 (safety culture)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Konsumsi listrik pabrik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jumlah rapat formal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Safety talk juga bertujuan mendorong pekerja untuk?",
+      "explanation": "Safety talk mendorong partisipasi aktif pekerja dalam K3.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Berpartisipasi aktif dalam K3",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Bekerja lebih cepat tanpa istirahat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengabaikan prosedur untuk efisiensi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bersaing memperebutkan bonus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebagai proses komunikasi, tujuan pertama safety talk adalah membentuk?",
+      "explanation": "Sebagai proses komunikasi, safety talk pertama membentuk persepsi bahaya (risk perception).",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Persepsi bahaya (risk perception)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Struktur organisasi baru",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Anggaran proyek",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jadwal produksi tahunan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Urutan tujuan komunikasi safety talk yang benar adalah?",
+      "explanation": "Sebagai proses komunikasi: membentuk persepsi bahaya, mempengaruhi sikap, mengubah perilaku, lalu membangun budaya keselamatan.",
+      "difficulty": "HARD",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Budaya, perilaku, sikap, persepsi bahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Persepsi bahaya, sikap, perilaku, budaya keselamatan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sikap, budaya, persepsi bahaya, perilaku",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Perilaku, persepsi bahaya, budaya, sikap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam proses komunikasi safety talk, setelah membentuk persepsi bahaya, tujuan berikutnya adalah?",
+      "explanation": "Setelah membentuk persepsi bahaya, safety talk bertujuan mempengaruhi sikap (attitude) pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Mengganti seragam kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mempengaruhi sikap (attitude)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menaikkan target produksi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengubah struktur gaji",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan akhir safety talk sebagai proses komunikasi adalah?",
+      "explanation": "Tujuan akhirnya adalah membangun budaya keselamatan (safety culture) di organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Membangun budaya keselamatan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memenuhi kuota rapat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengisi waktu luang pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi jam kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Undang-Undang yang menjadi landasan kewajiban pengusaha menjamin keselamatan kerja adalah?",
+      "explanation": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja mengatur kewajiban pengusaha menjamin keselamatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Regulasi",
+      "options": [
+        {
+          "text": "A. UU No. 13 Tahun 2003",
+          "isCorrect": false
+        },
+        {
+          "text": "B. UU No. 1 Tahun 1970",
+          "isCorrect": true
+        },
+        {
+          "text": "C. UU No. 40 Tahun 2004",
+          "isCorrect": false
+        },
+        {
+          "text": "D. UU No. 11 Tahun 2020",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Peraturan yang mengatur Sistem Manajemen K3 (SMK3) dan menjadikan komunikasi K3 sebagai salah satu elemennya adalah?",
+      "explanation": "PP No. 50 Tahun 2012 tentang SMK3 menjadikan komunikasi dan konsultasi K3 sebagai elemen SMK3.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Regulasi",
+      "options": [
+        {
+          "text": "A. PP No. 50 Tahun 2012",
+          "isCorrect": true
+        },
+        {
+          "text": "B. PP No. 88 Tahun 2019",
+          "isCorrect": false
+        },
+        {
+          "text": "C. PP No. 7 Tahun 1973",
+          "isCorrect": false
+        },
+        {
+          "text": "D. PP No. 101 Tahun 2014",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Permenaker No. 5 Tahun 2018 yang menjadi landasan safety talk mengatur tentang?",
+      "explanation": "Permenaker No. 5 Tahun 2018 mengatur K3 Lingkungan Kerja, yaitu pengendalian faktor bahaya di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Landasan Regulasi",
+      "options": [
+        {
+          "text": "A. Upah minimum regional",
+          "isCorrect": false
+        },
+        {
+          "text": "B. K3 Lingkungan Kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Jaminan pensiun pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hubungan industrial",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam SMK3, safety talk dapat dipandang sebagai bentuk nyata dari?",
+      "explanation": "Safety talk adalah bentuk nyata komunikasi K3 dalam penerapan SMK3 (PP No. 50 Tahun 2012).",
+      "difficulty": "EASY",
+      "tag": "Landasan Regulasi",
+      "options": [
+        {
+          "text": "A. Audit eksternal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Komunikasi K3 dalam penerapan SMK3",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sertifikasi produk",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pelaporan pajak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Elemen SMK3 yang paling relevan dengan pelaksanaan safety talk adalah?",
+      "explanation": "Safety talk berkaitan dengan elemen komunikasi dan konsultasi K3 dalam SMK3.",
+      "difficulty": "HARD",
+      "tag": "Landasan Regulasi",
+      "options": [
+        {
+          "text": "A. Komunikasi dan konsultasi K3",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengadaan barang dan jasa",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Manajemen keuangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Rekrutmen karyawan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN landasan regulasi safety talk di Indonesia?",
+      "explanation": "Landasan safety talk adalah UU No. 1/1970, PP No. 50/2012, dan Permenaker No. 5/2018; bukan UU Cipta Kerja No. 11/2020.",
+      "difficulty": "HARD",
+      "tag": "Landasan Regulasi",
+      "options": [
+        {
+          "text": "A. UU No. 1 Tahun 1970",
+          "isCorrect": false
+        },
+        {
+          "text": "B. PP No. 50 Tahun 2012",
+          "isCorrect": false
+        },
+        {
+          "text": "C. UU No. 11 Tahun 2020 tentang Cipta Kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Permenaker No. 5 Tahun 2018",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kewajiban pengusaha untuk menjamin keselamatan kerja secara eksplisit diatur dalam?",
+      "explanation": "UU No. 1 Tahun 1970 mengatur kewajiban pengusaha menjamin keselamatan kerja bagi pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Regulasi",
+      "options": [
+        {
+          "text": "A. UU No. 1 Tahun 1970",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Permenaker No. 5 Tahun 2018",
+          "isCorrect": false
+        },
+        {
+          "text": "C. PP No. 50 Tahun 2012",
+          "isCorrect": false
+        },
+        {
+          "text": "D. ISO 45001:2018",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Model proses komunikasi yang sering digunakan untuk menjelaskan safety talk adalah model dari?",
+      "explanation": "Safety talk dapat dijelaskan dengan model proses komunikasi Harold Lasswell.",
+      "difficulty": "EASY",
+      "tag": "Model Proses Komunikasi",
+      "options": [
+        {
+          "text": "A. Harold Lasswell",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Abraham Maslow",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Frederick Taylor",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Henri Fayol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rumusan model komunikasi Lasswell yang benar adalah?",
+      "explanation": "Model Lasswell: Who - Says What - In Which Channel - To Whom - With What Effect.",
+      "difficulty": "MEDIUM",
+      "tag": "Model Proses Komunikasi",
+      "options": [
+        {
+          "text": "A. Who - Says What - In Which Channel - To Whom - With What Effect",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sender - Encoding - Noise - Decoding - Receiver",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Input - Process - Output - Feedback",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Plan - Do - Check - Act",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam model Lasswell pada safety talk, komponen 'Who' diperankan oleh?",
+      "explanation": "Komponen Who dalam safety talk adalah supervisor atau tim K3 sebagai komunikator.",
+      "difficulty": "MEDIUM",
+      "tag": "Model Proses Komunikasi",
+      "options": [
+        {
+          "text": "A. Pelanggan eksternal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Supervisor / Tim K3",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Auditor independen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pemerintah daerah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada model Lasswell, komponen 'Says What' dalam safety talk berisi?",
+      "explanation": "Says What dalam safety talk adalah bahaya dan prosedur aman hari itu.",
+      "difficulty": "MEDIUM",
+      "tag": "Model Proses Komunikasi",
+      "options": [
+        {
+          "text": "A. Bahaya dan prosedur aman hari itu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Laporan keuangan perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Daftar gaji karyawan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jadwal cuti tahunan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada model Lasswell, 'In Which Channel' pada safety talk adalah?",
+      "explanation": "Channel safety talk adalah tatap muka langsung (komunikasi interpersonal langsung).",
+      "difficulty": "MEDIUM",
+      "tag": "Model Proses Komunikasi",
+      "options": [
+        {
+          "text": "A. Surat elektronik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tatap muka langsung",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Siaran radio",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Papan pengumuman",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada model Lasswell, komponen 'To Whom' pada safety talk adalah?",
+      "explanation": "To Whom dalam safety talk adalah pekerja atau tim yang akan bekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Model Proses Komunikasi",
+      "options": [
+        {
+          "text": "A. Pekerja / tim",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pemegang saham",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Media massa",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Konsumen produk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada model Lasswell, 'With What Effect' yang diharapkan dari safety talk adalah?",
+      "explanation": "Effect yang diharapkan dari safety talk adalah perilaku kerja aman pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Model Proses Komunikasi",
+      "options": [
+        {
+          "text": "A. Peningkatan omzet penjualan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Perilaku kerja aman",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pengurangan jumlah pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Perubahan logo perusahaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Model Lasswell membantu memahami safety talk karena menjelaskan?",
+      "explanation": "Model Lasswell menjelaskan alur komunikasi dari komunikator, pesan, saluran, penerima, hingga efek yang ditimbulkan.",
+      "difficulty": "HARD",
+      "tag": "Model Proses Komunikasi",
+      "options": [
+        {
+          "text": "A. Alur komunikator, pesan, saluran, penerima, dan efek",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Struktur organisasi perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Cara menghitung anggaran K3",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tahapan rekrutmen pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Teori prinsip komunikasi efektif pada safety talk dikemukakan oleh?",
+      "explanation": "Prinsip komunikasi interpersonal yang efektif dikemukakan oleh Joseph A. DeVito.",
+      "difficulty": "EASY",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Joseph A. DeVito",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Harold Lasswell",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Shannon & Weaver",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kurt Lewin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip 'keterbukaan' dalam safety talk menurut DeVito berarti?",
+      "explanation": "Keterbukaan berarti pekerja boleh bertanya dan berbagi pengalaman near miss secara terbuka.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Pekerja boleh bertanya dan berbagi near miss",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya atasan yang boleh bicara",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Materi dirahasiakan dari pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pekerja dilarang memberi tanggapan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip 'empati' dalam safety talk berarti komunikator harus?",
+      "explanation": "Empati berarti memahami kondisi kerja pekerja agar pesan tersampaikan dengan tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Mengabaikan keluhan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Memahami kondisi kerja pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Memberi sanksi tegas tanpa penjelasan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berbicara cepat agar selesai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip 'dukungan' (supportiveness) dalam safety talk berarti?",
+      "explanation": "Prinsip dukungan berarti komunikator tidak menyalahkan pekerja, melainkan mendukung perilaku aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Tidak menyalahkan pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghukum setiap pelanggaran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengabaikan masukan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mempermalukan pekerja di depan tim",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip 'positif' (positiveness) dalam safety talk diwujudkan dengan?",
+      "explanation": "Prinsip positif diwujudkan dengan menggunakan bahasa yang tidak mengancam.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Bahasa yang tidak mengancam",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Ancaman pemecatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Nada bicara yang kasar",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sikap meremehkan pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip 'kesetaraan' (equality) dalam safety talk berarti?",
+      "explanation": "Kesetaraan berarti tidak ada jarak atau sekat antara atasan dan bawahan saat berkomunikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Tidak ada jarak atasan-bawahan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Atasan selalu lebih benar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pekerja tidak boleh menyela",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya manajer yang boleh hadir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah berikut yang merupakan salah satu dari lima prinsip komunikasi efektif DeVito?",
+      "explanation": "Lima prinsip DeVito: keterbukaan, empati, dukungan, positif, dan kesetaraan.",
+      "difficulty": "EASY",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Keterbukaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kompetisi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Otoritas mutlak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kerahasiaan total",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip komunikasi efektif DeVito yang paling tepat untuk membuat pekerja mau berbagi pengalaman near miss adalah?",
+      "explanation": "Keterbukaan memungkinkan pekerja bertanya dan berbagi pengalaman near miss tanpa rasa takut.",
+      "difficulty": "HARD",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Keterbukaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Otoritas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kerahasiaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Formalitas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika supervisor menggunakan nada mengancam saat safety talk, prinsip DeVito yang dilanggar adalah?",
+      "explanation": "Nada mengancam melanggar prinsip positif (positiveness) yang menekankan bahasa tidak mengancam.",
+      "difficulty": "HARD",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Prinsip positif",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Prinsip kecepatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Prinsip kerahasiaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Prinsip efisiensi biaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu teknik komunikasi persuasif dalam safety talk adalah menggunakan?",
+      "explanation": "Teknik persuasif safety talk menggunakan fakta kejadian nyata seperti near miss atau insiden.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Fakta kejadian nyata (near miss/insiden)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Istilah teknis yang rumit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Ancaman pemotongan gaji",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bacaan teks panjang dari kertas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Agar pesan safety talk mudah dipahami, sebaiknya menggunakan?",
+      "explanation": "Gunakan bahasa sederhana dan kontekstual agar pesan mudah dipahami pekerja.",
+      "difficulty": "EASY",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Istilah ilmiah yang asing",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Bahasa sederhana dan kontekstual",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Bahasa asing tanpa terjemahan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Singkatan teknis tanpa penjelasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Contoh pertanyaan pemantik yang baik dalam safety talk adalah?",
+      "explanation": "Pertanyaan pemantik seperti 'Apa bahaya terbesar hari ini?' mengajak pekerja berpikir dan berpartisipasi.",
+      "difficulty": "EASY",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. \"Apa bahaya terbesar hari ini?\"",
+          "isCorrect": true
+        },
+        {
+          "text": "B. \"Berapa gaji kalian bulan ini?\"",
+          "isCorrect": false
+        },
+        {
+          "text": "C. \"Siapa yang terlambat hari ini?\"",
+          "isCorrect": false
+        },
+        {
+          "text": "D. \"Kapan kalian libur?\"",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bahasa tubuh yang mendukung dalam safety talk adalah?",
+      "explanation": "Kontak mata dan bahasa tubuh terbuka mendukung komunikasi persuasif dalam safety talk.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Kontak mata dan bahasa tubuh terbuka",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Melipat tangan dan menunduk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membelakangi peserta",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membaca terus dari kertas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Langkah pertama dalam melakukan safety talk adalah?",
+      "explanation": "Langkah pertama adalah pembukaan yang berisi salam dan penyampaian tujuan untuk menarik perhatian.",
+      "difficulty": "EASY",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Tanya jawab",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pembukaan (salam dan tujuan)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Komitmen tim",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penutupan langsung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Urutan langkah safety talk yang benar adalah?",
+      "explanation": "Urutannya: pembukaan, penyampaian bahaya spesifik, pengingat prosedur aman, tanya jawab, lalu komitmen tim.",
+      "difficulty": "HARD",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Komitmen, tanya jawab, prosedur, bahaya, pembukaan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pembukaan, bahaya spesifik, pengingat prosedur, tanya jawab, komitmen",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Bahaya, pembukaan, komitmen, prosedur, tanya jawab",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tanya jawab, pembukaan, komitmen, bahaya, prosedur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Langkah kedua safety talk setelah pembukaan adalah?",
+      "explanation": "Setelah pembukaan, langkah berikutnya adalah penyampaian bahaya spesifik hari itu.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Penyampaian bahaya spesifik hari itu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Komitmen tim",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pembagian hadiah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penutupan acara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Langkah terakhir dalam safety talk adalah?",
+      "explanation": "Langkah terakhir adalah komitmen tim untuk bekerja aman pada hari itu.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Komitmen tim untuk bekerja aman",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penyampaian bahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Salam pembuka",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengisian absensi awal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengajak pekerja membuat komitmen bersama dalam safety talk bertujuan untuk?",
+      "explanation": "Mengajak komitmen bersama memperkuat keterlibatan dan tanggung jawab pekerja terhadap perilaku aman.",
+      "difficulty": "EASY",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Memperkuat keterlibatan dan tanggung jawab perilaku aman",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengisi formulir administrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menambah durasi rapat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghindari diskusi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dokumentasi yang sebaiknya dicatat dalam pelaksanaan safety talk adalah?",
+      "explanation": "Dokumentasi safety talk mencakup daftar hadir dan topik yang dibahas.",
+      "difficulty": "EASY",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Daftar hadir dan topik yang dibahas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Laporan laba rugi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Daftar inventaris kantor",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jadwal libur nasional",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Durasi ideal pelaksanaan safety talk adalah?",
+      "explanation": "Durasi ideal safety talk adalah sekitar 5-10 menit agar singkat namun efektif.",
+      "difficulty": "EASY",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. 5-10 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 1-2 jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Setengah hari kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 30-45 menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Gaya penyampaian safety talk yang efektif adalah?",
+      "explanation": "Gaya penyampaian yang efektif adalah interaktif dan dua arah, bukan ceramah satu arah.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Interaktif dan dua arah",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Ceramah panjang satu arah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membaca teks tanpa interaksi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Diam tanpa penjelasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Media yang dapat digunakan dalam safety talk antara lain?",
+      "explanation": "Safety talk bisa tanpa alat, atau menggunakan media seperti poster dan contoh APD.",
+      "difficulty": "EASY",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Poster atau contoh APD",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Proyektor film panjang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sistem suara konser",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Buku teks tebal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Peserta safety talk idealnya adalah?",
+      "explanation": "Peserta safety talk idealnya adalah seluruh anggota tim kerja yang akan bekerja.",
+      "difficulty": "EASY",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Seluruh tim kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya manajer puncak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya tamu perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya bagian keuangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu peran supervisor/tim K3 dalam safety talk adalah?",
+      "explanation": "Supervisor/tim K3 berperan menyiapkan topik relevan dan menjadi role model perilaku aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Menjadi role model perilaku aman",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengabaikan masukan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membaca teks tanpa interaksi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memberi hukuman fisik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hambatan FISIK (noise) dalam safety talk contohnya adalah?",
+      "explanation": "Hambatan fisik dalam safety talk misalnya area yang bising atau pekerja yang terburu-buru.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Area bising atau pekerja terburu-buru",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pekerja merasa sudah tahu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Istilah K3 terlalu teknis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pekerja segan bertanya pada atasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hambatan PSIKOLOGIS dalam safety talk contohnya adalah?",
+      "explanation": "Hambatan psikologis misalnya pekerja bosan atau merasa sudah tahu materinya.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Area yang bising",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pekerja bosan atau merasa sudah tahu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Istilah terlalu teknis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gangguan jaringan internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hambatan SEMANTIK dalam safety talk contohnya adalah?",
+      "explanation": "Hambatan semantik terjadi jika istilah K3 yang digunakan terlalu teknis sehingga sulit dipahami.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Istilah K3 terlalu teknis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pekerja terburu-buru",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Area kerja bising",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pekerja segan bertanya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hambatan STATUS dalam safety talk contohnya adalah?",
+      "explanation": "Hambatan status terjadi ketika pekerja segan atau enggan bertanya kepada atasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Pekerja segan bertanya pada atasan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suara mesin yang keras",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bahasa yang membingungkan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pekerja merasa bosan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Strategi mengatasi hambatan fisik berupa area bising dalam safety talk adalah?",
+      "explanation": "Strategi mengatasi hambatan fisik adalah memilih lokasi yang tenang untuk safety talk.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Memilih lokasi yang tenang",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Berbicara lebih cepat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menggunakan istilah teknis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membatalkan safety talk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Strategi mengatasi hambatan semantik dalam safety talk adalah?",
+      "explanation": "Hambatan semantik diatasi dengan menggunakan bahasa yang sederhana dan mudah dipahami.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Menggunakan bahasa sederhana",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memperbanyak istilah asing",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghindari interaksi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memperpanjang durasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Strategi mengatasi hambatan status agar pekerja mau bertanya adalah?",
+      "explanation": "Hambatan status diatasi dengan gaya dialogis yang menghapus jarak atasan-bawahan.",
+      "difficulty": "HARD",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Menggunakan gaya dialogis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menegaskan otoritas atasan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Melarang pekerja bicara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mempercepat penyampaian",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Indikator keberhasilan safety talk dari sisi pemahaman adalah pekerja mampu?",
+      "explanation": "Indikator keberhasilan adalah pekerja mampu menyebutkan bahaya hari itu.",
+      "difficulty": "EASY",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Menyebutkan bahaya hari itu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghafal seluruh peraturan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menyebutkan target penjualan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengingat tanggal lahir atasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Indikator keberhasilan safety talk dari sisi perilaku adalah?",
+      "explanation": "Indikator keberhasilan antara lain meningkatnya kepatuhan penggunaan APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Kepatuhan APD meningkat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Produksi menurun drastis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pekerja sering izin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Rapat semakin panjang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Indikator keberhasilan safety talk dari data keselamatan adalah?",
+      "explanation": "Penurunan jumlah near miss dan kecelakaan menandakan safety talk berhasil.",
+      "difficulty": "EASY",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Penurunan near miss dan kecelakaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kenaikan jumlah lembur",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penambahan jumlah mesin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Peningkatan biaya operasional",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dari sisi komunikasi, indikator keberhasilan safety talk adalah?",
+      "explanation": "Dari sisi komunikasi, keberhasilan terlihat dari adanya partisipasi aktif pekerja saat diskusi.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Partisipasi aktif pekerja saat diskusi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pekerja diam sepanjang sesi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada pertanyaan sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya atasan yang berbicara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tanda bahwa pesan inti safety talk tersampaikan dengan baik adalah?",
+      "explanation": "Pesan tersampaikan baik bila pekerja mampu mengulang pesan inti yang disampaikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Pekerja mampu mengulang pesan inti",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pekerja langsung pergi tanpa respon",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pekerja melupakan materi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada perubahan perilaku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu kelebihan utama safety talk adalah?",
+      "explanation": "Kelebihan safety talk antara lain murah dan mudah dilaksanakan.",
+      "difficulty": "EASY",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Murah dan mudah dilaksanakan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membutuhkan biaya sangat besar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memerlukan peralatan canggih",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya bisa dilakukan ahli khusus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu tantangan dalam pelaksanaan safety talk adalah?",
+      "explanation": "Tantangan safety talk antara lain dapat menjadi sekadar formalitas dan materi yang monoton.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Bisa menjadi formalitas dan monoton",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Terlalu menarik perhatian pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Selalu efektif tanpa hambatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membutuhkan dana sangat besar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Solusi agar safety talk tidak monoton adalah?",
+      "explanation": "Solusinya adalah memvariasikan topik, menggunakan studi kasus singkat, dan melibatkan pekerja bercerita.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Variasi topik dan studi kasus singkat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengulang topik yang sama persis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membaca teks lebih panjang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghilangkan sesi tanya jawab",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa safety talk yang hanya dibaca dari kertas cenderung gagal?",
+      "explanation": "Membaca dari kertas membuat pekerja tidak memperhatikan dan tidak terjadi interaksi sehingga pesan tidak efektif.",
+      "difficulty": "HARD",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Karena tidak ada interaksi dan pekerja tidak memperhatikan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena terlalu interaktif",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena durasinya terlalu singkat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena menggunakan studi kasus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perbedaan tujuan utama safety talk dibanding safety briefing adalah?",
+      "explanation": "Tujuan utama safety talk adalah meningkatkan kesadaran dan budaya K3, sedangkan safety briefing memberi instruksi keselamatan spesifik.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Meningkatkan kesadaran dan budaya K3",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memberi instruksi teknis spesifik",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghitung anggaran proyek",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Merekrut pekerja baru",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama safety briefing adalah?",
+      "explanation": "Safety briefing bertujuan memberi instruksi keselamatan spesifik sebelum pekerjaan dimulai.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Memberi instruksi keselamatan spesifik sebelum kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membangun budaya K3 jangka panjang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memberikan edukasi K3 umum",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghibur pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Waktu pelaksanaan safety talk dibandingkan safety briefing adalah?",
+      "explanation": "Safety talk bersifat rutin/berkala (harian/mingguan), sedangkan safety briefing dilakukan tepat sebelum pekerjaan dimulai.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Rutin/berkala (harian atau mingguan)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya setahun sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya saat audit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Setelah pekerjaan selesai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sifat materi safety briefing dibandingkan safety talk adalah?",
+      "explanation": "Materi safety briefing bersifat spesifik dan teknis sesuai pekerjaan hari itu, sedangkan safety talk lebih umum dan edukatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Spesifik dan teknis sesuai pekerjaan hari itu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Umum dan edukatif",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Berisi laporan keuangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tentang kebijakan cuti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Durasi safety briefing umumnya adalah?",
+      "explanation": "Durasi safety briefing umumnya 3-5 menit, lebih singkat dibanding safety talk yang 5-10 menit.",
+      "difficulty": "EASY",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. 3-5 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 30-60 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Setengah hari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 2 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Peserta safety briefing biasanya adalah?",
+      "explanation": "Peserta safety briefing hanya tim yang akan melakukan pekerjaan, sedangkan safety talk bisa seluruh pekerja/unit.",
+      "difficulty": "EASY",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Hanya tim yang akan melakukan pekerjaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Seluruh karyawan perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya manajemen puncak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tamu dan pengunjung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fokus pembahasan safety briefing adalah?",
+      "explanation": "Safety briefing fokus pada risiko kerja hari itu, izin kerja, dan bahaya lokasi spesifik.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Risiko kerja hari itu, izin kerja, bahaya lokasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Topik K3 umum seperti ergonomi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sejarah perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Rencana pemasaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang paling tepat tentang hubungan safety talk dan safety briefing adalah?",
+      "explanation": "Keduanya saling melengkapi, bukan saling menggantikan: safety talk membangun pola pikir aman, safety briefing memastikan pekerjaan hari ini aman.",
+      "difficulty": "HARD",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Keduanya saling melengkapi, bukan saling menggantikan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Safety briefing menggantikan safety talk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Keduanya sama persis tanpa perbedaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Safety talk hanya untuk manajer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Intinya, peran safety talk dibanding safety briefing adalah?",
+      "explanation": "Safety talk membangun safety awareness (pola pikir aman), sedangkan safety briefing mengendalikan risiko langsung di lapangan.",
+      "difficulty": "HARD",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Membangun safety awareness (pola pikir aman)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengendalikan risiko langsung di lapangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengganti seluruh prosedur kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghitung biaya kecelakaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fokus pembahasan safety talk yang membedakannya dari safety briefing adalah?",
+      "explanation": "Safety talk membahas topik K3 umum seperti APD, ergonomi, housekeeping, dan near miss.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Topik K3 umum (APD, ergonomi, housekeeping, near miss)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Izin kerja spesifik hari itu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bahaya satu lokasi tertentu saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Instruksi teknis mesin tertentu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lima kata kunci sukses safety talk adalah?",
+      "explanation": "Kunci sukses safety talk: Singkat, Spesifik, Interaktif, Konsisten, dan Relevan.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Singkat, Spesifik, Interaktif, Konsisten, Relevan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Panjang, Umum, Pasif, Sesekali, Acak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mahal, Rumit, Formal, Tahunan, Teoretis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Cepat, Kasar, Satu arah, Sekali, Abstrak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang paling tepat tentang hakikat safety talk adalah?",
+      "explanation": "Safety talk bukan kegiatan membaca himbauan K3, tetapi proses komunikasi yang mempengaruhi perilaku kerja aman.",
+      "difficulty": "HARD",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Proses komunikasi yang mempengaruhi perilaku kerja aman",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sekadar membaca himbauan K3",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Laporan administratif tertulis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Audit dokumen perusahaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Topik safety talk berikut yang umum dibahas adalah?",
+      "explanation": "Topik umum safety talk antara lain penggunaan APD yang benar.",
+      "difficulty": "EASY",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Penggunaan APD yang benar",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Strategi pemasaran produk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pembagian dividen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Desain logo perusahaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bahaya 'slip, trip, fall' yang sering jadi topik safety talk berarti?",
+      "explanation": "Slip, trip, fall adalah bahaya terpeleset, tersandung, dan terjatuh di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Terpeleset, tersandung, dan terjatuh",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tersengat listrik",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Keracunan bahan kimia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kebakaran ruangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Topik safety talk tentang 'manual handling' berkaitan dengan?",
+      "explanation": "Manual handling berkaitan dengan ergonomi, yaitu cara mengangkat dan memindahkan beban secara aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Ergonomi pengangkatan beban",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengaturan jadwal cuti",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penanganan dokumen arsip",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengelolaan keuangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam contoh safety talk komunikatif tentang gerinda, pendekatan yang digunakan supervisor adalah?",
+      "explanation": "Supervisor menggunakan pendekatan interaktif dengan pertanyaan dan cerita insiden nyata, bukan ceramah satu arah.",
+      "difficulty": "HARD",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Interaktif dengan pertanyaan dan cerita insiden nyata",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membaca peraturan dari kertas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memberi ancaman pemecatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Diam tanpa penjelasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mendorong pekerja berbagi pengalaman near miss dalam safety talk bermanfaat untuk?",
+      "explanation": "Berbagi near miss membantu pekerja lain belajar dari hampir-kejadian sebelum berubah menjadi kecelakaan nyata.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Belajar dari hampir-kejadian sebelum jadi kecelakaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menyalahkan pekerja yang lalai",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memperpanjang durasi rapat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengisi waktu kosong",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pelaporan insiden dan near miss sebagai topik safety talk bertujuan untuk?",
+      "explanation": "Topik pelaporan insiden mendorong budaya pelaporan agar potensi bahaya cepat ditangani.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Mendorong budaya pelaporan agar bahaya cepat ditangani",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mencari kesalahan pekerja untuk dihukum",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengisi formulir tanpa tujuan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi jumlah rapat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Safety talk yang konsisten dilakukan akan berdampak pada?",
+      "explanation": "Konsistensi pelaksanaan safety talk membangun budaya K3 dan menurunkan angka kecelakaan secara berkelanjutan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Terbentuknya budaya K3 yang berkelanjutan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Peningkatan angka kecelakaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penurunan kesadaran pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hilangnya partisipasi pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa safety talk dikategorikan sebagai komunikasi interpersonal?",
+      "explanation": "Safety talk dilakukan secara langsung dan tatap muka antarindividu (atasan-pekerja) sehingga termasuk komunikasi interpersonal.",
+      "difficulty": "HARD",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Karena dilakukan langsung tatap muka antarindividu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Karena disiarkan ke publik luas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena hanya berupa tulisan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena melalui media massa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hambatan komunikasi dalam safety talk sering disebut dengan istilah?",
+      "explanation": "Hambatan komunikasi dalam safety talk disebut noise, yang dapat berupa fisik, psikologis, semantik, atau status.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Noise (gangguan)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Feedback",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Channel",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Encoding",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mendokumentasikan pelaksanaan safety talk penting karena?",
+      "explanation": "Dokumentasi penting sebagai bukti penerapan SMK3 dan bahan evaluasi pelaksanaan safety talk.",
+      "difficulty": "MEDIUM",
+      "tag": "Landasan Regulasi",
+      "options": [
+        {
+          "text": "A. Menjadi bukti penerapan SMK3 dan bahan evaluasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menambah beban kerja tanpa manfaat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menggantikan pelaksanaan kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya untuk formalitas tanpa guna",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pendekatan yang TEPAT ketika ada pekerja melanggar APD saat safety talk adalah?",
+      "explanation": "Sesuai prinsip dukungan, sebaiknya tidak menyalahkan tetapi mengajak diskusi mengapa dan bagaimana memperbaikinya.",
+      "difficulty": "HARD",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Mengajak diskusi mengapa terjadi dan cara memperbaiki",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memarahi di depan seluruh tim",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Langsung memberi sanksi tanpa bicara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengabaikan pelanggaran tersebut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komunikasi dua arah dalam safety talk ditandai dengan adanya?",
+      "explanation": "Komunikasi dua arah ditandai adanya umpan balik (feedback) berupa pertanyaan dan tanggapan dari pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Model Proses Komunikasi",
+      "options": [
+        {
+          "text": "A. Umpan balik berupa pertanyaan dan tanggapan pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya atasan yang berbicara terus",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pekerja dilarang merespons",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Materi dibaca tanpa interaksi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manfaat safety talk bagi pembentukan budaya K3 adalah?",
+      "explanation": "Safety talk yang rutin membangun budaya K3 dengan menjadikan keselamatan sebagai kebiasaan sehari-hari.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Menjadikan keselamatan sebagai kebiasaan sehari-hari",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengabaikan prosedur demi kecepatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membuat pekerja takut bekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi komunikasi antar pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Agar safety talk tidak sekadar formalitas, hal yang harus dipastikan adalah?",
+      "explanation": "Pastikan ada interaksi nyata, materi relevan, dan keterlibatan pekerja agar tidak menjadi formalitas belaka.",
+      "difficulty": "HARD",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Ada interaksi, materi relevan, dan keterlibatan pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Cukup membaca teks dengan cepat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak melibatkan pekerja sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menggunakan istilah serumit mungkin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemilihan topik safety talk sebaiknya didasarkan pada?",
+      "explanation": "Topik safety talk sebaiknya relevan dengan pekerjaan dan bahaya aktual hari itu agar bermanfaat.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Relevansi dengan pekerjaan dan bahaya aktual hari itu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Topik yang paling menghibur",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Topik favorit atasan saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Topik acak tanpa kaitan kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penggunaan pertanyaan pemantik di awal safety talk berfungsi untuk?",
+      "explanation": "Pertanyaan pemantik berfungsi menarik perhatian dan mengaktifkan partisipasi pekerja sejak awal.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Menarik perhatian dan mengaktifkan partisipasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memperpanjang durasi tanpa tujuan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membuat pekerja bingung",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghindari interaksi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang frekuensi safety briefing adalah?",
+      "explanation": "Safety briefing dilakukan tepat sebelum pekerjaan dimulai, biasanya spesifik untuk pekerjaan/lokasi tertentu hari itu.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Talk vs Safety Briefing",
+      "options": [
+        {
+          "text": "A. Dilakukan tepat sebelum pekerjaan dimulai",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dilakukan sebulan sekali secara rutin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Dilakukan setelah pekerjaan selesai",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dilakukan hanya saat audit tahunan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa konsistensi penting dalam pelaksanaan safety talk?",
+      "explanation": "Konsistensi penting agar kesadaran keselamatan terus terjaga dan budaya K3 terbentuk secara berkelanjutan.",
+      "difficulty": "MEDIUM",
+      "tag": "Hambatan & Indikator Keberhasilan",
+      "options": [
+        {
+          "text": "A. Agar kesadaran keselamatan terus terjaga dan budaya K3 terbentuk",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Agar pekerja cepat bosan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Agar dokumentasi menumpuk",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Agar durasi kerja berkurang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Safety talk yang mengandung prinsip kesetaraan akan membuat pekerja?",
+      "explanation": "Prinsip kesetaraan membuat pekerja merasa nyaman bertanya dan berpartisipasi tanpa segan karena tidak ada jarak hierarki.",
+      "difficulty": "HARD",
+      "tag": "Prinsip Komunikasi Efektif",
+      "options": [
+        {
+          "text": "A. Merasa nyaman bertanya dan berpartisipasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Takut menyampaikan pendapat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Diam karena hierarki kaku",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Enggan hadir di sesi berikutnya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bahaya paparan B3 (bahan berbahaya dan beracun) sebagai topik safety talk penting karena?",
+      "explanation": "Paparan B3 dapat menimbulkan gangguan kesehatan serius sehingga perlu pengingat penanganan dan APD yang tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Dapat menimbulkan gangguan kesehatan serius",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tidak berbahaya bagi pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya soal kebersihan ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berkaitan dengan keuangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Topik 'stres kerja dan kelelahan' dalam safety talk relevan karena?",
+      "explanation": "Stres dan kelelahan dapat menurunkan konsentrasi dan meningkatkan risiko kecelakaan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Dapat menurunkan konsentrasi dan menambah risiko kecelakaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tidak ada kaitannya dengan keselamatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya urusan pribadi pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Soal administrasi gaji",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Inti dari kunci sukses safety talk dapat dirangkum bahwa safety talk harus?",
+      "explanation": "Safety talk harus singkat, spesifik, interaktif, konsisten, dan relevan agar efektif mengubah perilaku.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi Safety Talk",
+      "options": [
+        {
+          "text": "A. Singkat, spesifik, interaktif, konsisten, dan relevan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Panjang, teoretis, dan satu arah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mahal dan rumit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jarang dan acak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Safety talk yang menyampaikan fakta near miss nyata akan lebih persuasif karena?",
+      "explanation": "Fakta kejadian nyata membuat pekerja lebih sadar bahwa bahaya itu nyata dan bisa terjadi pada mereka.",
+      "difficulty": "HARD",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Membuat pekerja sadar bahaya itu nyata dan bisa menimpa mereka",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membuat materi lebih membingungkan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memperpanjang durasi tanpa manfaat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengalihkan perhatian dari pekerjaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat safety talk dalam meningkatkan awareness pekerja adalah?",
+      "explanation": "Safety talk meningkatkan awareness sehingga pekerja lebih waspada terhadap bahaya sebelum mulai bekerja.",
+      "difficulty": "EASY",
+      "tag": "Tujuan Safety Talk",
+      "options": [
+        {
+          "text": "A. Pekerja lebih waspada terhadap bahaya sebelum bekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pekerja mengabaikan bahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pekerja bekerja tanpa APD",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pekerja lebih ceroboh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam safety talk, peran supervisor sebagai 'role model' berarti?",
+      "explanation": "Sebagai role model, supervisor harus menunjukkan perilaku aman agar menjadi contoh nyata bagi pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Teknik Persuasif & Pelaksanaan",
+      "options": [
+        {
+          "text": "A. Menunjukkan perilaku aman sebagai contoh bagi pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya memberi perintah tanpa contoh",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membiarkan pekerja melanggar aturan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak terlibat dalam kegiatan kerja",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Apa itu safety talk?",
+      "back": "Komunikasi singkat, rutin, dan terstruktur tentang keselamatan kerja yang dilakukan sebelum pekerjaan dimulai untuk meningkatkan kesadaran bahaya dan perilaku aman.",
+      "tag": "Definisi Safety Talk"
+    },
+    {
+      "front": "Istilah lain safety talk",
+      "back": "Toolbox meeting atau toolbox talk.",
+      "tag": "Definisi Safety Talk"
+    },
+    {
+      "front": "Jenis komunikasi safety talk",
+      "back": "Komunikasi verbal langsung, dua arah, dan persuasif berbasis risiko kerja aktual.",
+      "tag": "Definisi Safety Talk"
+    },
+    {
+      "front": "Lima tujuan safety talk",
+      "back": "Mengingatkan bahaya, mencegah kecelakaan & PAK, menyamakan persepsi prosedur aman, meningkatkan budaya K3, mendorong partisipasi pekerja.",
+      "tag": "Tujuan Safety Talk"
+    },
+    {
+      "front": "Tujuan safety talk sebagai proses komunikasi",
+      "back": "Membentuk persepsi bahaya, mempengaruhi sikap, mengubah perilaku, lalu membangun budaya keselamatan.",
+      "tag": "Tujuan Safety Talk"
+    },
+    {
+      "front": "Tiga landasan regulasi safety talk",
+      "back": "UU No. 1/1970, PP No. 50/2012 (SMK3), dan Permenaker No. 5/2018 (K3 Lingkungan Kerja).",
+      "tag": "Landasan Regulasi"
+    },
+    {
+      "front": "Apa yang diatur UU No. 1 Tahun 1970?",
+      "back": "Keselamatan Kerja - kewajiban pengusaha menjamin keselamatan kerja.",
+      "tag": "Landasan Regulasi"
+    },
+    {
+      "front": "Apa yang diatur PP No. 50 Tahun 2012?",
+      "back": "SMK3 - komunikasi dan konsultasi K3 sebagai elemen SMK3.",
+      "tag": "Landasan Regulasi"
+    },
+    {
+      "front": "Model komunikasi Lasswell",
+      "back": "Who - Says What - In Which Channel - To Whom - With What Effect.",
+      "tag": "Model Proses Komunikasi"
+    },
+    {
+      "front": "Channel dan Effect safety talk (Lasswell)",
+      "back": "Channel: tatap muka langsung. Effect: perilaku kerja aman.",
+      "tag": "Model Proses Komunikasi"
+    },
+    {
+      "front": "Lima prinsip komunikasi efektif DeVito",
+      "back": "Keterbukaan, Empati, Dukungan, Positif, dan Kesetaraan.",
+      "tag": "Prinsip Komunikasi Efektif"
+    },
+    {
+      "front": "Prinsip 'positif' DeVito pada safety talk",
+      "back": "Menggunakan bahasa yang tidak mengancam.",
+      "tag": "Prinsip Komunikasi Efektif"
+    },
+    {
+      "front": "Prinsip 'kesetaraan' DeVito pada safety talk",
+      "back": "Tidak ada jarak atasan-bawahan sehingga pekerja nyaman bertanya.",
+      "tag": "Prinsip Komunikasi Efektif"
+    },
+    {
+      "front": "Teknik persuasif safety talk",
+      "back": "Fakta near miss/insiden nyata, bahasa sederhana, ajak komitmen, pertanyaan pemantik, kontak mata & bahasa tubuh terbuka.",
+      "tag": "Teknik Persuasif & Pelaksanaan"
+    },
+    {
+      "front": "Lima langkah melakukan safety talk",
+      "back": "Pembukaan, penyampaian bahaya spesifik, pengingat prosedur aman, tanya jawab, komitmen tim.",
+      "tag": "Teknik Persuasif & Pelaksanaan"
+    },
+    {
+      "front": "Durasi ideal safety talk",
+      "back": "5-10 menit, dilakukan sebelum kerja, gaya interaktif dua arah.",
+      "tag": "Teknik Persuasif & Pelaksanaan"
+    },
+    {
+      "front": "Jenis noise (hambatan) safety talk",
+      "back": "Fisik (area bising), Psikologis (bosan/merasa tahu), Semantik (istilah teknis), Status (segan bertanya pada atasan).",
+      "tag": "Hambatan & Indikator Keberhasilan"
+    },
+    {
+      "front": "Indikator keberhasilan safety talk",
+      "back": "Pekerja bisa menyebut bahaya hari itu, kepatuhan APD naik, near miss & kecelakaan turun, partisipasi aktif.",
+      "tag": "Hambatan & Indikator Keberhasilan"
+    },
+    {
+      "front": "Kunci sukses safety talk",
+      "back": "Singkat, Spesifik, Interaktif, Konsisten, Relevan.",
+      "tag": "Teknik Persuasif & Pelaksanaan"
+    },
+    {
+      "front": "Perbedaan inti safety talk vs safety briefing",
+      "back": "Safety talk = membangun pola pikir aman (rutin, umum, 5-10 menit); safety briefing = memastikan pekerjaan hari ini aman (sebelum kerja, spesifik teknis, 3-5 menit). Keduanya saling melengkapi.",
+      "tag": "Safety Talk vs Safety Briefing"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "safety-talk",
+      "label": "Safety Talk yang Efektif",
+      "color": "#6366f1",
+      "parent": null,
+      "content": "Komunikasi singkat, rutin, dan terstruktur tentang keselamatan kerja sebelum pekerjaan dimulai untuk membangun kesadaran bahaya, perilaku aman, dan budaya K3."
+    },
+    {
+      "id": "definisi",
+      "label": "Definisi",
+      "color": "#8b5cf6",
+      "parent": "safety-talk",
+      "content": "Safety talk (toolbox talk) adalah media komunikasi interpersonal langsung antara atasan dan pekerja sebelum kerja dimulai."
+    },
+    {
+      "id": "def-jenis-komunikasi",
+      "label": "Jenis Komunikasi",
+      "color": "#8b5cf6",
+      "parent": "definisi",
+      "content": "Komunikasi verbal langsung, dua arah, dan persuasif berbasis risiko kerja aktual."
+    },
+    {
+      "id": "def-hakikat",
+      "label": "Hakikat",
+      "color": "#8b5cf6",
+      "parent": "definisi",
+      "content": "Bukan sekadar membaca himbauan K3, tetapi proses komunikasi yang mempengaruhi perilaku kerja aman."
+    },
+    {
+      "id": "def-toolbox",
+      "label": "Toolbox Talk",
+      "color": "#8b5cf6",
+      "parent": "definisi",
+      "content": "Istilah lain safety talk; pertemuan singkat tim kerja membahas keselamatan tugas hari itu."
+    },
+    {
+      "id": "tujuan",
+      "label": "Tujuan",
+      "color": "#0ea5e9",
+      "parent": "safety-talk",
+      "content": "Mengingatkan bahaya, mencegah kecelakaan, menyamakan persepsi, dan membangun budaya K3."
+    },
+    {
+      "id": "tuj-cegah",
+      "label": "Cegah Kecelakaan",
+      "color": "#0ea5e9",
+      "parent": "tujuan",
+      "content": "Mencegah kecelakaan dan penyakit akibat kerja dengan mengingatkan bahaya spesifik."
+    },
+    {
+      "id": "tuj-persepsi",
+      "label": "Samakan Persepsi",
+      "color": "#0ea5e9",
+      "parent": "tujuan",
+      "content": "Menyamakan persepsi tim terhadap prosedur kerja aman dan risiko pekerjaan."
+    },
+    {
+      "id": "tuj-budaya",
+      "label": "Budaya K3",
+      "color": "#0ea5e9",
+      "parent": "tujuan",
+      "content": "Membangun safety culture dan mendorong partisipasi aktif pekerja dalam K3."
+    },
+    {
+      "id": "tuj-proses",
+      "label": "Proses Komunikasi",
+      "color": "#0ea5e9",
+      "parent": "tujuan",
+      "content": "Membentuk persepsi bahaya, mempengaruhi sikap, mengubah perilaku, membangun budaya keselamatan."
+    },
+    {
+      "id": "regulasi",
+      "label": "Landasan Regulasi",
+      "color": "#10b981",
+      "parent": "safety-talk",
+      "content": "Safety talk adalah bentuk nyata komunikasi K3 dalam penerapan SMK3 di Indonesia."
+    },
+    {
+      "id": "reg-uu1",
+      "label": "UU No. 1/1970",
+      "color": "#10b981",
+      "parent": "regulasi",
+      "content": "Keselamatan Kerja - kewajiban pengusaha menjamin keselamatan kerja pekerja."
+    },
+    {
+      "id": "reg-pp50",
+      "label": "PP No. 50/2012",
+      "color": "#10b981",
+      "parent": "regulasi",
+      "content": "SMK3 - komunikasi dan konsultasi K3 sebagai salah satu elemen SMK3."
+    },
+    {
+      "id": "reg-permenaker5",
+      "label": "Permenaker No. 5/2018",
+      "color": "#10b981",
+      "parent": "regulasi",
+      "content": "K3 Lingkungan Kerja - pengendalian faktor bahaya di tempat kerja."
+    },
+    {
+      "id": "model",
+      "label": "Model Komunikasi",
+      "color": "#f59e0b",
+      "parent": "safety-talk",
+      "content": "Safety talk dijelaskan dengan model proses komunikasi Harold Lasswell."
+    },
+    {
+      "id": "mdl-who",
+      "label": "Who",
+      "color": "#f59e0b",
+      "parent": "model",
+      "content": "Komunikator: supervisor atau tim K3 yang menyampaikan pesan keselamatan."
+    },
+    {
+      "id": "mdl-what",
+      "label": "Says What",
+      "color": "#f59e0b",
+      "parent": "model",
+      "content": "Pesan: bahaya dan prosedur aman pekerjaan hari itu."
+    },
+    {
+      "id": "mdl-channel",
+      "label": "In Which Channel",
+      "color": "#f59e0b",
+      "parent": "model",
+      "content": "Saluran: tatap muka langsung (komunikasi interpersonal)."
+    },
+    {
+      "id": "mdl-whom",
+      "label": "To Whom",
+      "color": "#f59e0b",
+      "parent": "model",
+      "content": "Penerima: pekerja atau tim yang akan melakukan pekerjaan."
+    },
+    {
+      "id": "mdl-effect",
+      "label": "With What Effect",
+      "color": "#f59e0b",
+      "parent": "model",
+      "content": "Efek yang diharapkan: perilaku kerja aman di lapangan."
+    },
+    {
+      "id": "prinsip",
+      "label": "Prinsip Efektif (DeVito)",
+      "color": "#ef4444",
+      "parent": "safety-talk",
+      "content": "Lima prinsip komunikasi interpersonal efektif menurut Joseph A. DeVito."
+    },
+    {
+      "id": "prn-keterbukaan",
+      "label": "Keterbukaan",
+      "color": "#ef4444",
+      "parent": "prinsip",
+      "content": "Pekerja boleh bertanya dan berbagi pengalaman near miss secara terbuka."
+    },
+    {
+      "id": "prn-empati",
+      "label": "Empati",
+      "color": "#ef4444",
+      "parent": "prinsip",
+      "content": "Memahami kondisi dan situasi kerja pekerja."
+    },
+    {
+      "id": "prn-dukungan",
+      "label": "Dukungan",
+      "color": "#ef4444",
+      "parent": "prinsip",
+      "content": "Tidak menyalahkan, melainkan mendukung perilaku aman."
+    },
+    {
+      "id": "prn-positif",
+      "label": "Positif",
+      "color": "#ef4444",
+      "parent": "prinsip",
+      "content": "Menggunakan bahasa yang tidak mengancam."
+    },
+    {
+      "id": "prn-kesetaraan",
+      "label": "Kesetaraan",
+      "color": "#ef4444",
+      "parent": "prinsip",
+      "content": "Tidak ada jarak atasan-bawahan sehingga pekerja nyaman berpartisipasi."
+    },
+    {
+      "id": "pelaksanaan",
+      "label": "Teknik & Pelaksanaan",
+      "color": "#ec4899",
+      "parent": "safety-talk",
+      "content": "Langkah dan teknik persuasif agar safety talk efektif mengubah perilaku."
+    },
+    {
+      "id": "pel-langkah",
+      "label": "Lima Langkah",
+      "color": "#ec4899",
+      "parent": "pelaksanaan",
+      "content": "Pembukaan, bahaya spesifik, pengingat prosedur aman, tanya jawab, komitmen tim."
+    },
+    {
+      "id": "pel-durasi",
+      "label": "Durasi & Gaya",
+      "color": "#ec4899",
+      "parent": "pelaksanaan",
+      "content": "5-10 menit, sebelum kerja, gaya interaktif dua arah, peserta seluruh tim."
+    },
+    {
+      "id": "pel-persuasif",
+      "label": "Teknik Persuasif",
+      "color": "#ec4899",
+      "parent": "pelaksanaan",
+      "content": "Fakta near miss nyata, bahasa sederhana, pertanyaan pemantik, kontak mata, ajak komitmen."
+    },
+    {
+      "id": "pel-kunci",
+      "label": "Kunci Sukses",
+      "color": "#ec4899",
+      "parent": "pelaksanaan",
+      "content": "Singkat, Spesifik, Interaktif, Konsisten, Relevan."
+    },
+    {
+      "id": "pel-dokumentasi",
+      "label": "Dokumentasi",
+      "color": "#ec4899",
+      "parent": "pelaksanaan",
+      "content": "Daftar hadir dan topik dicatat sebagai bukti penerapan SMK3."
+    },
+    {
+      "id": "hambatan",
+      "label": "Hambatan & Indikator",
+      "color": "#14b8a6",
+      "parent": "safety-talk",
+      "content": "Noise yang mengganggu serta indikator keberhasilan safety talk."
+    },
+    {
+      "id": "ham-fisik",
+      "label": "Hambatan Fisik",
+      "color": "#14b8a6",
+      "parent": "hambatan",
+      "content": "Area bising atau pekerja terburu-buru; diatasi dengan memilih lokasi tenang."
+    },
+    {
+      "id": "ham-psikologis",
+      "label": "Hambatan Psikologis",
+      "color": "#14b8a6",
+      "parent": "hambatan",
+      "content": "Pekerja bosan atau merasa sudah tahu; diatasi dengan variasi topik."
+    },
+    {
+      "id": "ham-semantik",
+      "label": "Hambatan Semantik",
+      "color": "#14b8a6",
+      "parent": "hambatan",
+      "content": "Istilah K3 terlalu teknis; diatasi dengan bahasa sederhana."
+    },
+    {
+      "id": "ham-status",
+      "label": "Hambatan Status",
+      "color": "#14b8a6",
+      "parent": "hambatan",
+      "content": "Pekerja segan bertanya pada atasan; diatasi dengan gaya dialogis."
+    },
+    {
+      "id": "ham-indikator",
+      "label": "Indikator Keberhasilan",
+      "color": "#14b8a6",
+      "parent": "hambatan",
+      "content": "Pekerja menyebut bahaya hari itu, kepatuhan APD naik, near miss turun, partisipasi aktif."
+    },
+    {
+      "id": "perbedaan",
+      "label": "Talk vs Briefing",
+      "color": "#8b5cf6",
+      "parent": "safety-talk",
+      "content": "Safety talk dan safety briefing berbeda tujuan namun saling melengkapi."
+    },
+    {
+      "id": "per-talk",
+      "label": "Safety Talk",
+      "color": "#8b5cf6",
+      "parent": "perbedaan",
+      "content": "Rutin/berkala, umum & edukatif, 5-10 menit, membangun safety awareness."
+    },
+    {
+      "id": "per-briefing",
+      "label": "Safety Briefing",
+      "color": "#8b5cf6",
+      "parent": "perbedaan",
+      "content": "Sebelum kerja, spesifik teknis, 3-5 menit, mengendalikan risiko langsung di lapangan."
+    },
+    {
+      "id": "per-saling",
+      "label": "Saling Melengkapi",
+      "color": "#8b5cf6",
+      "parent": "perbedaan",
+      "content": "Safety talk membangun pola pikir aman; briefing memastikan pekerjaan hari ini aman."
+    }
+  ]
+}

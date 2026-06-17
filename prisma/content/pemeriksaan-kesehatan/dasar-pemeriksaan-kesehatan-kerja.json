@@ -1,0 +1,1492 @@
+{
+  "topic": "Dasar-dasar Pemeriksaan Kesehatan Kerja",
+  "order": 1,
+  "description": "Pemeriksaan kesehatan kerja dasar merupakan fondasi program kesehatan kerja yang berfungsi mendeteksi dini gangguan kesehatan pekerja melalui pemeriksaan tanda vital sederhana namun bermakna. Materi ini membahas latar belakang, definisi, tujuan, faktor penentu kesehatan pekerja, faktor risiko, regulasi, bentuk pemeriksaan, serta konsep pencegahan penyakit akibat kerja (PAK).",
+  "subtopics": [
+    "Latar Belakang & Pentingnya",
+    "Definisi WHO & ILO",
+    "Tujuan & Ruang Lingkup",
+    "Empat Faktor Penentu Kesehatan",
+    "Faktor Risiko di Tempat Kerja",
+    "Regulasi & Dasar Hukum",
+    "Tiga Bentuk Pemeriksaan",
+    "Konsep Pencegahan PAK"
+  ],
+  "questions": [
+    {
+      "text": "Pemeriksaan kesehatan kerja dasar berfungsi terutama sebagai apa dalam program kesehatan kerja?",
+      "explanation": "Pemeriksaan kesehatan kerja dasar merupakan pintu gerbang dan fondasi untuk mendeteksi dini masalah kesehatan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Sarana pengobatan penyakit kronis", "isCorrect": false },
+        { "text": "B. Pintu gerbang untuk mendeteksi dini masalah kesehatan pekerja", "isCorrect": true },
+        { "text": "C. Pengganti rumah sakit perusahaan", "isCorrect": false },
+        { "text": "D. Penilaian kinerja produksi mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut data ILO tahun 2020, berapa jumlah pekerja yang meninggal setiap tahun akibat penyakit atau kecelakaan terkait pekerjaan?",
+      "explanation": "Data ILO 2020 menunjukkan lebih dari 2,3 juta pekerja meninggal setiap tahun akibat penyakit atau kecelakaan yang berhubungan dengan pekerjaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Lebih dari 200 ribu pekerja", "isCorrect": false },
+        { "text": "B. Lebih dari 2,3 juta pekerja", "isCorrect": true },
+        { "text": "C. Sekitar 50 ribu pekerja", "isCorrect": false },
+        { "text": "D. Kurang dari 1 juta pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa penyakit akibat kerja (PAK) sering tidak terdeteksi sejak dini?",
+      "explanation": "PAK sering tidak terdeteksi karena keterbatasan sistem pemantauan kesehatan di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Karena PAK tidak berbahaya", "isCorrect": false },
+        { "text": "B. Karena keterbatasan sistem pemantauan kesehatan di tempat kerja", "isCorrect": true },
+        { "text": "C. Karena pekerja selalu sehat", "isCorrect": false },
+        { "text": "D. Karena tidak ada regulasi sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa alasan utama banyak perusahaan enggan melaksanakan medical check-up rutin bagi pekerja?",
+      "explanation": "Tantangan utama adalah rendahnya kesadaran perusahaan karena pertimbangan biaya, padahal kerugian akibat menurunnya produktivitas justru lebih besar.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Pertimbangan biaya pemeriksaan", "isCorrect": true },
+        { "text": "B. Pekerja menolak diperiksa", "isCorrect": false },
+        { "text": "C. Tidak tersedia tenaga medis di kota", "isCorrect": false },
+        { "text": "D. Pemeriksaan dilarang pemerintah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen utama pemeriksaan kesehatan kerja dasar adalah pemeriksaan tanda vital yang meliputi berikut, KECUALI?",
+      "explanation": "Komponen tanda vital meliputi tekanan darah, nadi, pernapasan, suhu, dan status gizi sederhana; pemeriksaan rontgen bukan bagian tanda vital dasar.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Tekanan darah", "isCorrect": false },
+        { "text": "B. Frekuensi nadi", "isCorrect": false },
+        { "text": "C. Pemeriksaan rontgen dada lengkap", "isCorrect": true },
+        { "text": "D. Suhu tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Status gizi sederhana dalam pemeriksaan kesehatan kerja dasar dinilai melalui parameter apa?",
+      "explanation": "Status gizi sederhana dinilai melalui IMT (Indeks Massa Tubuh) dan lingkar pinggang.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. IMT dan lingkar pinggang", "isCorrect": true },
+        { "text": "B. Kadar kolesterol darah", "isCorrect": false },
+        { "text": "C. Hitung sel darah putih", "isCorrect": false },
+        { "text": "D. Tes fungsi hati", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa tenaga kesehatan kerja yang berperan melaksanakan pemeriksaan tanda vital secara terstandar di perusahaan?",
+      "explanation": "Dokter perusahaan, perawat kerja, dan petugas K3 memiliki peran penting dalam pelaksanaan pemeriksaan secara terstandar, akurat, dan berkesinambungan.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Hanya satpam perusahaan", "isCorrect": false },
+        { "text": "B. Dokter perusahaan, perawat kerja, dan petugas K3", "isCorrect": true },
+        { "text": "C. Manajer keuangan", "isCorrect": false },
+        { "text": "D. Operator mesin produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk tantangan dalam pelaksanaan pemeriksaan kesehatan kerja dasar?",
+      "explanation": "Tantangan meliputi keterbatasan SDM, alat pemeriksaan, hambatan budaya/stigma, kendala regulasi, dan kepatuhan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Kelebihan tenaga medis", "isCorrect": false },
+        { "text": "B. Keterbatasan SDM dan alat pemeriksaan", "isCorrect": true },
+        { "text": "C. Terlalu banyak anggaran", "isCorrect": false },
+        { "text": "D. Pekerja terlalu patuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemanfaatan teknologi wearable dalam kesehatan kerja modern berfungsi untuk apa?",
+      "explanation": "Teknologi wearable digunakan untuk memantau tanda vital pekerja secara real-time.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Mengganti seluruh dokter perusahaan", "isCorrect": false },
+        { "text": "B. Memantau tanda vital secara real-time", "isCorrect": true },
+        { "text": "C. Menggantikan APD pekerja", "isCorrect": false },
+        { "text": "D. Menghitung gaji pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan isu terbaru dalam kesehatan kerja akibat perubahan pola kerja?",
+      "explanation": "Isu terbaru meliputi digitalisasi (WFH, gig economy), meningkatnya gangguan mental, dan paparan akibat perubahan iklim seperti heat stress.",
+      "difficulty": "HARD",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Penurunan jumlah pekerja secara global", "isCorrect": false },
+        { "text": "B. Perubahan pola kerja akibat digitalisasi seperti WFH dan gig economy", "isCorrect": true },
+        { "text": "C. Hilangnya seluruh penyakit akibat kerja", "isCorrect": false },
+        { "text": "D. Larangan total pemeriksaan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stigma bahwa hasil pemeriksaan dapat memengaruhi status pekerjaan termasuk tantangan jenis apa?",
+      "explanation": "Stigma tersebut merupakan hambatan budaya yang menurunkan kepatuhan pekerja mengikuti pemeriksaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Tantangan budaya/stigma", "isCorrect": true },
+        { "text": "B. Tantangan teknologi", "isCorrect": false },
+        { "text": "C. Tantangan iklim", "isCorrect": false },
+        { "text": "D. Tantangan logistik bahan baku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemantauan kondisi kesehatan pekerja secara berkala bermanfaat untuk apa?",
+      "explanation": "Dengan pemantauan berkala, berbagai kelainan dapat diidentifikasi sebelum berkembang menjadi penyakit kronis atau kecacatan.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Mengidentifikasi kelainan sebelum menjadi penyakit kronis", "isCorrect": true },
+        { "text": "B. Mengurangi jam istirahat pekerja", "isCorrect": false },
+        { "text": "C. Menambah beban produksi", "isCorrect": false },
+        { "text": "D. Menghapus program K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut WHO, kesehatan kerja merupakan upaya yang ditujukan untuk apa?",
+      "explanation": "WHO mendefinisikan kesehatan kerja sebagai upaya promotif, preventif, kuratif, dan rehabilitatif untuk meningkatkan derajat kesehatan pekerja agar produktif tanpa mengorbankan keselamatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi WHO & ILO",
+      "options": [
+        { "text": "A. Hanya mengobati pekerja yang sakit", "isCorrect": false },
+        { "text": "B. Meningkatkan derajat kesehatan pekerja agar produktif tanpa mengorbankan keselamatan", "isCorrect": true },
+        { "text": "C. Meningkatkan jumlah produksi semata", "isCorrect": false },
+        { "text": "D. Mengurangi jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Empat upaya yang menjadi cakupan definisi kesehatan kerja menurut WHO adalah?",
+      "explanation": "Definisi WHO mencakup upaya promotif, preventif, kuratif, dan rehabilitatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi WHO & ILO",
+      "options": [
+        { "text": "A. Promotif, preventif, kuratif, dan rehabilitatif", "isCorrect": true },
+        { "text": "B. Produksi, distribusi, pemasaran, dan penjualan", "isCorrect": false },
+        { "text": "C. Inspeksi, audit, sanksi, dan denda", "isCorrect": false },
+        { "text": "D. Rekrutmen, pelatihan, promosi, dan PHK", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ILO, kesehatan kerja bertujuan menjaga kesehatan pekerja agar dapat bekerja dengan kondisi seperti apa?",
+      "explanation": "ILO mendefinisikan kesehatan kerja sebagai upaya menjaga kesehatan pekerja agar dapat bekerja secara aman, nyaman, dan produktif.",
+      "difficulty": "EASY",
+      "tag": "Definisi WHO & ILO",
+      "options": [
+        { "text": "A. Aman, nyaman, dan produktif", "isCorrect": true },
+        { "text": "B. Cepat dan murah", "isCorrect": false },
+        { "text": "C. Banyak lembur", "isCorrect": false },
+        { "text": "D. Tanpa istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kesehatan kerja merupakan cabang dari ilmu apa?",
+      "explanation": "Kesehatan kerja merupakan cabang ilmu kesehatan masyarakat yang fokus pada interaksi pekerjaan, lingkungan kerja, dan kesehatan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi WHO & ILO",
+      "options": [
+        { "text": "A. Ilmu ekonomi pembangunan", "isCorrect": false },
+        { "text": "B. Ilmu kesehatan masyarakat", "isCorrect": true },
+        { "text": "C. Ilmu teknik mesin", "isCorrect": false },
+        { "text": "D. Ilmu hukum perdata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fokus utama kesehatan kerja sebagai cabang ilmu kesehatan masyarakat adalah pada interaksi antara?",
+      "explanation": "Fokusnya adalah interaksi antara pekerjaan, lingkungan kerja, dan kesehatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi WHO & ILO",
+      "options": [
+        { "text": "A. Pekerjaan, lingkungan kerja, dan kesehatan pekerja", "isCorrect": true },
+        { "text": "B. Modal, laba, dan investasi", "isCorrect": false },
+        { "text": "C. Mesin, bahan baku, dan energi", "isCorrect": false },
+        { "text": "D. Pasar, harga, dan permintaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan penekanan definisi ILO dibanding WHO terletak pada aspek apa?",
+      "explanation": "ILO menekankan agar pekerja dapat bekerja secara aman dan nyaman, sementara WHO menekankan peningkatan derajat kesehatan tanpa mengorbankan keselamatan.",
+      "difficulty": "HARD",
+      "tag": "Definisi WHO & ILO",
+      "options": [
+        { "text": "A. ILO menekankan aspek keamanan dan kenyamanan kerja", "isCorrect": true },
+        { "text": "B. ILO hanya membahas aspek finansial", "isCorrect": false },
+        { "text": "C. ILO meniadakan upaya preventif", "isCorrect": false },
+        { "text": "D. ILO menolak upaya rehabilitatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Baik WHO maupun ILO sepakat bahwa kesehatan kerja mencakup empat jenis upaya. Manakah yang BUKAN termasuk?",
+      "explanation": "Empat upaya adalah promotif, preventif, kuratif, dan rehabilitatif; punitif (penghukuman) bukan bagian definisi kesehatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi WHO & ILO",
+      "options": [
+        { "text": "A. Promotif", "isCorrect": false },
+        { "text": "B. Preventif", "isCorrect": false },
+        { "text": "C. Punitif (penghukuman)", "isCorrect": true },
+        { "text": "D. Rehabilitatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya 'preventif' dalam definisi kesehatan kerja berarti?",
+      "explanation": "Preventif berarti upaya pencegahan agar gangguan kesehatan tidak terjadi pada pekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi WHO & ILO",
+      "options": [
+        { "text": "A. Upaya pencegahan agar gangguan kesehatan tidak terjadi", "isCorrect": true },
+        { "text": "B. Upaya pengobatan penyakit yang sudah ada", "isCorrect": false },
+        { "text": "C. Upaya pemulihan setelah cacat", "isCorrect": false },
+        { "text": "D. Upaya promosi produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama kesehatan kerja menurut materi adalah?",
+      "explanation": "Tujuan utama kesehatan kerja adalah melindungi pekerja dari risiko kesehatan akibat pekerjaan, meningkatkan produktivitas, serta mencegah PAK.",
+      "difficulty": "EASY",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. Meningkatkan harga jual produk", "isCorrect": false },
+        { "text": "B. Melindungi pekerja dari risiko kesehatan akibat pekerjaan dan mencegah PAK", "isCorrect": true },
+        { "text": "C. Mengurangi jumlah cabang perusahaan", "isCorrect": false },
+        { "text": "D. Menambah jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan khusus pemeriksaan tanda vital pekerja meliputi berikut, KECUALI?",
+      "explanation": "Tujuan khusus meliputi menetapkan dasar ilmiah pemeriksaan, mengidentifikasi abnormalitas, dan mempelajari respon tubuh; menaikkan target produksi bukan tujuan medis.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. Mengidentifikasi abnormalitas pada tubuh pekerja", "isCorrect": false },
+        { "text": "B. Mempelajari respon tubuh melalui tanda vital", "isCorrect": false },
+        { "text": "C. Menaikkan target produksi perusahaan", "isCorrect": true },
+        { "text": "D. Menetapkan alasan ilmiah pemeriksaan tanda vital", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ruang lingkup pemeriksaan kesehatan kerja dasar mencakup pengukuran apa saja?",
+      "explanation": "Ruang lingkup mencakup pengukuran tekanan darah, frekuensi nadi, suhu tubuh, frekuensi pernapasan, dan status gizi.",
+      "difficulty": "EASY",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. Tekanan darah, nadi, suhu, pernapasan, dan status gizi", "isCorrect": true },
+        { "text": "B. Hanya kadar gula darah", "isCorrect": false },
+        { "text": "C. Hanya tinggi badan", "isCorrect": false },
+        { "text": "D. Hanya tekanan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sasaran pemeriksaan kesehatan kerja mencakup kelompok pekerja apa saja?",
+      "explanation": "Ruang lingkup mencakup pekerja formal, pekerja informal, hingga kelompok pekerja rentan seperti pekerja anak dan perempuan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. Hanya pekerja kantoran", "isCorrect": false },
+        { "text": "B. Pekerja formal, informal, dan kelompok rentan seperti pekerja anak dan perempuan", "isCorrect": true },
+        { "text": "C. Hanya manajer senior", "isCorrect": false },
+        { "text": "D. Hanya pekerja asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital pada pekerja berperan sebagai langkah awal untuk apa?",
+      "explanation": "Pemeriksaan tanda vital menjadi langkah awal mencegah gangguan kesehatan yang dapat menurunkan produktivitas.",
+      "difficulty": "EASY",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. Langkah awal mencegah gangguan kesehatan yang menurunkan produktivitas", "isCorrect": true },
+        { "text": "B. Langkah akhir sebelum pensiun", "isCorrect": false },
+        { "text": "C. Langkah promosi jabatan", "isCorrect": false },
+        { "text": "D. Langkah pengurangan upah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan khusus adalah menetapkan alasan ilmiah dan praktis mengapa pemeriksaan tanda vital harus menjadi komponen apa?",
+      "explanation": "Tujuan khusus pertama adalah menetapkan alasan ilmiah dan praktis agar pemeriksaan tanda vital menjadi komponen rutin pemeriksaan kesehatan kerja dasar.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. Komponen rutin pemeriksaan kesehatan kerja dasar", "isCorrect": true },
+        { "text": "B. Komponen opsional tahunan", "isCorrect": false },
+        { "text": "C. Komponen administrasi keuangan", "isCorrect": false },
+        { "text": "D. Komponen pemasaran perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator status gizi sederhana yang termasuk dalam ruang lingkup pemeriksaan adalah?",
+      "explanation": "Indikator status gizi sederhana meliputi IMT dan lingkar pinggang/perut.",
+      "difficulty": "EASY",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. IMT dan lingkar perut", "isCorrect": true },
+        { "text": "B. Golongan darah", "isCorrect": false },
+        { "text": "C. Tekanan intraokular", "isCorrect": false },
+        { "text": "D. Kapasitas vital paksa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pemeriksaan tanda vital dianggap sebagai indikator yang praktis bagi kesehatan kerja?",
+      "explanation": "Tanda vital mudah diukur, cepat, biaya rendah, dan mudah dilatih sehingga praktis sebagai indikator kesehatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. Karena mudah diukur, cepat, dan biaya rendah", "isCorrect": true },
+        { "text": "B. Karena memerlukan alat laboratorium mahal", "isCorrect": false },
+        { "text": "C. Karena hanya bisa dilakukan dokter spesialis", "isCorrect": false },
+        { "text": "D. Karena memakan waktu berhari-hari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Masalah kesehatan pada pekerja ditentukan oleh berapa faktor utama?",
+      "explanation": "Masalah kesehatan pekerja ditentukan oleh empat faktor: pekerja, lingkungan, kesejahteraan, dan pelayanan kesehatan kerja.",
+      "difficulty": "EASY",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Dua faktor", "isCorrect": false },
+        { "text": "B. Tiga faktor", "isCorrect": false },
+        { "text": "C. Empat faktor", "isCorrect": true },
+        { "text": "D. Enam faktor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN termasuk empat faktor penentu masalah kesehatan pekerja?",
+      "explanation": "Empat faktor adalah pekerja, lingkungan, kesejahteraan, dan pelayanan kesehatan kerja; harga saham bukan termasuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Pekerja", "isCorrect": false },
+        { "text": "B. Lingkungan", "isCorrect": false },
+        { "text": "C. Harga saham perusahaan", "isCorrect": true },
+        { "text": "D. Pelayanan kesehatan kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor 'pekerja' dalam penentu masalah kesehatan berkaitan dengan hal apa?",
+      "explanation": "Faktor pekerja berkaitan dengan perilaku individu, budaya kerja, pengetahuan, serta ketahanan tubuh dan gizi yang berbeda-beda.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Perilaku individu, budaya kerja, dan ketahanan tubuh", "isCorrect": true },
+        { "text": "B. Harga bahan baku", "isCorrect": false },
+        { "text": "C. Lokasi geografis perusahaan", "isCorrect": false },
+        { "text": "D. Nilai tukar mata uang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketahanan tubuh dan gizi pekerja berhubungan langsung dengan apa?",
+      "explanation": "Ketahanan tubuh dan gizi pekerja berhubungan dengan tingkat ketidakhadiran kerja akibat kesakitan atau kecacatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Tingkat ketidakhadiran kerja akibat kesakitan atau kecacatan", "isCorrect": true },
+        { "text": "B. Jumlah cabang perusahaan", "isCorrect": false },
+        { "text": "C. Harga produk akhir", "isCorrect": false },
+        { "text": "D. Warna seragam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor 'lingkungan' yang menjadi penentu masalah kesehatan pekerja meliputi jenis lingkungan apa saja?",
+      "explanation": "Lingkungan meliputi fisik, kimia, biologi, ergonomi, dan psikososial yang dapat menyebabkan PAK dan kecelakaan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Hanya lingkungan fisik", "isCorrect": false },
+        { "text": "B. Fisik, kimia, biologi, ergonomi, dan psikososial", "isCorrect": true },
+        { "text": "C. Hanya lingkungan ekonomi", "isCorrect": false },
+        { "text": "D. Hanya lingkungan politik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor 'kesejahteraan' pekerja terutama ditentukan oleh apa?",
+      "explanation": "Faktor kesejahteraan ditentukan dari pendapatan; semakin tinggi pendapatan semakin sejahtera pekerja.",
+      "difficulty": "EASY",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Pendapatan pekerja", "isCorrect": true },
+        { "text": "B. Warna ruangan kerja", "isCorrect": false },
+        { "text": "C. Jumlah mesin produksi", "isCorrect": false },
+        { "text": "D. Letak gedung kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor 'pelayanan kesehatan kerja' diwujudkan melalui sarana apa?",
+      "explanation": "Pelayanan kesehatan kerja diwujudkan melalui sarana poliklinik atau kerja sama dengan jejaring pelayanan kesehatan seperti puskesmas.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Poliklinik atau kerja sama dengan puskesmas", "isCorrect": true },
+        { "text": "B. Bank perusahaan", "isCorrect": false },
+        { "text": "C. Gudang penyimpanan", "isCorrect": false },
+        { "text": "D. Kantin saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengembangan diri melalui pelatihan bagi pekerja dengan pendidikan rendah penting untuk apa?",
+      "explanation": "Kebutuhan pengembangan diri melalui pelatihan penting untuk menunjang kinerja, dan pendidikan rendah perlu ditingkatkan melalui pendidikan formal maupun non-formal.",
+      "difficulty": "HARD",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Menunjang kinerja pekerja", "isCorrect": true },
+        { "text": "B. Mengurangi gaji pekerja", "isCorrect": false },
+        { "text": "C. Menambah jam istirahat", "isCorrect": false },
+        { "text": "D. Mengganti alat produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja merupakan apa bagi perusahaan menurut konsep dasar kesehatan kerja?",
+      "explanation": "Pekerja merupakan aset perusahaan yang perlu dilindungi kesehatannya agar berkinerja optimal.",
+      "difficulty": "EASY",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Beban biaya yang harus diminimalkan", "isCorrect": false },
+        { "text": "B. Aset yang perlu dilindungi kesehatannya", "isCorrect": true },
+        { "text": "C. Komponen mesin", "isCorrect": false },
+        { "text": "D. Faktor yang tidak penting", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kesehatan kerja bertujuan agar pekerja memperoleh derajat kesehatan setinggi-tingginya pada aspek apa saja?",
+      "explanation": "Kesehatan kerja bertujuan agar pekerja memperoleh derajat kesehatan setinggi-tingginya baik fisik, mental, maupun sosial.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Fisik, mental, dan sosial", "isCorrect": true },
+        { "text": "B. Hanya fisik", "isCorrect": false },
+        { "text": "C. Hanya finansial", "isCorrect": false },
+        { "text": "D. Hanya spiritual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa banyak kategori faktor risiko kesehatan di tempat kerja yang disebutkan dalam materi?",
+      "explanation": "Terdapat lima kategori faktor risiko: fisik, kimia, biologi, ergonomi, dan psikososial.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Tiga", "isCorrect": false },
+        { "text": "B. Empat", "isCorrect": false },
+        { "text": "C. Lima", "isCorrect": true },
+        { "text": "D. Tujuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Iklim panas, kebisingan, radiasi, dan getaran termasuk faktor risiko jenis apa?",
+      "explanation": "Iklim panas, kebisingan, radiasi, dan getaran termasuk faktor risiko lingkungan fisik.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko fisik", "isCorrect": true },
+        { "text": "B. Faktor risiko kimia", "isCorrect": false },
+        { "text": "C. Faktor risiko biologi", "isCorrect": false },
+        { "text": "D. Faktor risiko psikososial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan pestisida, benzene, arsen, dan merkuri termasuk faktor risiko jenis apa?",
+      "explanation": "Pestisida, benzene, arsen, dan merkuri termasuk faktor risiko lingkungan kimia.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko fisik", "isCorrect": false },
+        { "text": "B. Faktor risiko kimia", "isCorrect": true },
+        { "text": "C. Faktor risiko biologi", "isCorrect": false },
+        { "text": "D. Faktor risiko ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Virus, bakteri, jamur, dan cacing merupakan faktor risiko jenis apa di tempat kerja?",
+      "explanation": "Virus, bakteri, jamur, dan cacing termasuk faktor risiko lingkungan biologi.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko biologi", "isCorrect": true },
+        { "text": "B. Faktor risiko fisik", "isCorrect": false },
+        { "text": "C. Faktor risiko kimia", "isCorrect": false },
+        { "text": "D. Faktor risiko psikososial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Postur kerja janggal dan gerakan repetitif termasuk faktor risiko jenis apa?",
+      "explanation": "Postur kerja janggal dan gerakan repetitif termasuk faktor risiko ergonomi.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko ergonomi", "isCorrect": true },
+        { "text": "B. Faktor risiko kimia", "isCorrect": false },
+        { "text": "C. Faktor risiko biologi", "isCorrect": false },
+        { "text": "D. Faktor risiko fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan tidak harmonis antara pimpinan dan karyawan termasuk faktor risiko jenis apa?",
+      "explanation": "Hubungan tidak harmonis serta stres dan jam kerja panjang termasuk faktor risiko psikososial.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko fisik", "isCorrect": false },
+        { "text": "B. Faktor risiko psikososial", "isCorrect": true },
+        { "text": "C. Faktor risiko biologi", "isCorrect": false },
+        { "text": "D. Faktor risiko kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres, jam kerja panjang, dan sistem shift merupakan contoh faktor risiko apa?",
+      "explanation": "Stres, jam kerja panjang, dan sistem shift termasuk faktor risiko psikososial.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko psikososial", "isCorrect": true },
+        { "text": "B. Faktor risiko ergonomi", "isCorrect": false },
+        { "text": "C. Faktor risiko fisik", "isCorrect": false },
+        { "text": "D. Faktor risiko biologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dampak faktor risiko di tempat kerja terhadap kesehatan pekerja dapat bersifat?",
+      "explanation": "Faktor risiko dapat berdampak akut maupun kronis terhadap kesehatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Akut maupun kronis", "isCorrect": true },
+        { "text": "B. Hanya sementara", "isCorrect": false },
+        { "text": "C. Tidak pernah berdampak", "isCorrect": false },
+        { "text": "D. Hanya pada mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori ergonomi menekankan pentingnya kesesuaian antara apa?",
+      "explanation": "Teori ergonomi menekankan kesesuaian antara kapasitas pekerja dan tuntutan pekerjaan untuk mencegah gangguan kesehatan.",
+      "difficulty": "HARD",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Kapasitas pekerja dan tuntutan pekerjaan", "isCorrect": true },
+        { "text": "B. Harga dan permintaan pasar", "isCorrect": false },
+        { "text": "C. Modal dan laba", "isCorrect": false },
+        { "text": "D. Mesin dan bahan bakar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan logam berat seperti crome dan bahan pelarut industri termasuk faktor risiko apa?",
+      "explanation": "Logam berat, crome, dan bahan kimia pelarut termasuk faktor risiko lingkungan kimia.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko kimia", "isCorrect": true },
+        { "text": "B. Faktor risiko fisik", "isCorrect": false },
+        { "text": "C. Faktor risiko ergonomi", "isCorrect": false },
+        { "text": "D. Faktor risiko psikososial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Model klasik dalam kesehatan kerja menekankan hubungan antara tiga elemen, yaitu?",
+      "explanation": "Model klasik menekankan hubungan antara manusia, pekerjaan, dan lingkungan.",
+      "difficulty": "HARD",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Manusia, pekerjaan, dan lingkungan", "isCorrect": true },
+        { "text": "B. Modal, mesin, dan pasar", "isCorrect": false },
+        { "text": "C. Bahan, energi, dan limbah", "isCorrect": false },
+        { "text": "D. Gaji, jabatan, dan promosi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja fisik berlebihan termasuk dalam kategori faktor risiko apa?",
+      "explanation": "Beban kerja fisik berlebihan termasuk faktor risiko ergonomi bersama postur janggal dan repetisi gerakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko ergonomi", "isCorrect": true },
+        { "text": "B. Faktor risiko biologi", "isCorrect": false },
+        { "text": "C. Faktor risiko kimia", "isCorrect": false },
+        { "text": "D. Faktor risiko psikososial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang buruk di tempat kerja termasuk kategori faktor risiko apa?",
+      "explanation": "Suhu, pencahayaan, getaran, kebisingan, dan radiasi termasuk faktor risiko lingkungan fisik.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko fisik", "isCorrect": true },
+        { "text": "B. Faktor risiko kimia", "isCorrect": false },
+        { "text": "C. Faktor risiko biologi", "isCorrect": false },
+        { "text": "D. Faktor risiko ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peraturan apa yang khusus mengatur Pemeriksaan Kesehatan Tenaga Kerja di Indonesia?",
+      "explanation": "Permenaker No. 2 Tahun 1980 mengatur kewajiban pengusaha melaksanakan pemeriksaan kesehatan pekerjanya.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Permenaker No. 2 Tahun 1980", "isCorrect": true },
+        { "text": "B. UU No. 8 Tahun 1999", "isCorrect": false },
+        { "text": "C. PP No. 100 Tahun 2012", "isCorrect": false },
+        { "text": "D. Permenkes No. 90 Tahun 2010", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Permenaker No. 2 Tahun 1980 mengatur kewajiban siapa terkait pemeriksaan kesehatan?",
+      "explanation": "Permenaker No. 2 Tahun 1980 mengatur kewajiban pengusaha untuk melaksanakan pemeriksaan kesehatan pekerjanya.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Kewajiban pengusaha melaksanakan pemeriksaan kesehatan pekerja", "isCorrect": true },
+        { "text": "B. Kewajiban pekerja membayar pemeriksaan sendiri", "isCorrect": false },
+        { "text": "C. Kewajiban pemerintah membangun rumah sakit", "isCorrect": false },
+        { "text": "D. Kewajiban pekerja mengundurkan diri jika sakit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Undang-undang manakah yang mengatur tentang Ketenagakerjaan di Indonesia?",
+      "explanation": "UU No. 13 Tahun 2003 mengatur tentang Ketenagakerjaan.",
+      "difficulty": "EASY",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. UU No. 13 Tahun 2003", "isCorrect": true },
+        { "text": "B. UU No. 36 Tahun 2009", "isCorrect": false },
+        { "text": "C. UU No. 23 Tahun 1992", "isCorrect": false },
+        { "text": "D. UU No. 1 Tahun 1970", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "UU No. 36 Tahun 2009 mengatur tentang apa?",
+      "explanation": "UU No. 36 Tahun 2009 mengatur tentang Kesehatan.",
+      "difficulty": "EASY",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Kesehatan", "isCorrect": true },
+        { "text": "B. Ketenagakerjaan", "isCorrect": false },
+        { "text": "C. Keselamatan kerja", "isCorrect": false },
+        { "text": "D. Jaminan sosial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perpres RI No. 7 Tahun 2019 mengatur tentang apa?",
+      "explanation": "Perpres RI No. 7 Tahun 2019 mengatur tentang Penyakit Akibat Kerja (PAK).",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Penyakit Akibat Kerja (PAK)", "isCorrect": true },
+        { "text": "B. Upah minimum regional", "isCorrect": false },
+        { "text": "C. Cuti tahunan pekerja", "isCorrect": false },
+        { "text": "D. Pajak penghasilan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "PP No. 44 Tahun 2015 mengatur penyelenggaraan program jaminan apa?",
+      "explanation": "PP No. 44 Tahun 2015 mengatur Penyelenggaraan Program Jaminan Kecelakaan Kerja dan Jaminan Kematian.",
+      "difficulty": "HARD",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Jaminan Kecelakaan Kerja dan Jaminan Kematian", "isCorrect": true },
+        { "text": "B. Jaminan Pendidikan", "isCorrect": false },
+        { "text": "C. Jaminan Perumahan", "isCorrect": false },
+        { "text": "D. Jaminan Pensiun saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Permenkes No. 56 Tahun 2016 berkaitan dengan apa?",
+      "explanation": "Permenkes No. 56 Tahun 2016 mengatur pelayanan penyelenggaraan Penyakit Akibat Kerja (PAK).",
+      "difficulty": "HARD",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Pelayanan penyelenggaraan PAK", "isCorrect": true },
+        { "text": "B. Standar gizi kantin", "isCorrect": false },
+        { "text": "C. Tata cara perizinan pabrik", "isCorrect": false },
+        { "text": "D. Pengupahan lembur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU No. 23 Tahun 1992, penyakit akibat kerja disebabkan oleh dua faktor utama, yaitu?",
+      "explanation": "Menurut UU No. 23 Tahun 1992, PAK disebabkan dua faktor: lingkungan kerja dan hubungan kerja.",
+      "difficulty": "HARD",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Lingkungan kerja dan hubungan kerja", "isCorrect": true },
+        { "text": "B. Genetik dan keturunan", "isCorrect": false },
+        { "text": "C. Cuaca dan musim", "isCorrect": false },
+        { "text": "D. Pola makan dan tidur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepres RI No. 22 Tahun 1993 mengatur tentang apa?",
+      "explanation": "Kepres RI No. 22 Tahun 1993 mengatur tentang Penyakit Akibat Hubungan Kerja.",
+      "difficulty": "HARD",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Penyakit Akibat Hubungan Kerja", "isCorrect": true },
+        { "text": "B. Tunjangan hari raya", "isCorrect": false },
+        { "text": "C. Sistem kontrak kerja", "isCorrect": false },
+        { "text": "D. Pengaturan jam istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut UU No. 23 Tahun 1992, setiap tempat kerja harus melaksanakan apa?",
+      "explanation": "UU No. 23 Tahun 1992 menyatakan setiap tempat kerja harus melaksanakan upaya kesehatan kerja agar tidak terjadi gangguan kesehatan pada pekerja, keluarga, masyarakat, dan lingkungan sekitar.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Upaya kesehatan kerja agar tidak terjadi gangguan kesehatan", "isCorrect": true },
+        { "text": "B. Penambahan jam kerja", "isCorrect": false },
+        { "text": "C. Pengurangan jumlah pekerja", "isCorrect": false },
+        { "text": "D. Pembangunan gedung baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah regulasi berikut yang TIDAK berkaitan langsung dengan kesehatan/keselamatan kerja?",
+      "explanation": "UU No. 36 Tahun 2009, UU No. 13 Tahun 2003, dan Permenaker No. 2 Tahun 1980 berkaitan dengan kesehatan/ketenagakerjaan, sedangkan UU tentang pajak bukan bagian regulasi ini.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. UU No. 36 Tahun 2009 tentang Kesehatan", "isCorrect": false },
+        { "text": "B. Undang-undang tentang Pajak Penghasilan", "isCorrect": true },
+        { "text": "C. Permenaker No. 2 Tahun 1980", "isCorrect": false },
+        { "text": "D. Perpres No. 7 Tahun 2019 tentang PAK", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dasar hukum tertinggi terkait hak warga negara atas pekerjaan dan penghidupan layak adalah?",
+      "explanation": "Pasal 27 ayat (2) UUD 1945 menjamin hak atas pekerjaan dan penghidupan yang layak; materi menyebut landasan konstitusional UUD 1945.",
+      "difficulty": "HARD",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. UUD 1945", "isCorrect": true },
+        { "text": "B. Permenaker No. 2 Tahun 1980", "isCorrect": false },
+        { "text": "C. PP No. 44 Tahun 2015", "isCorrect": false },
+        { "text": "D. Kepres No. 22 Tahun 1993", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa bentuk utama pemeriksaan kesehatan kerja yang dilakukan perusahaan?",
+      "explanation": "Terdapat tiga bentuk utama: pemeriksaan awal (pre-employment), berkala, dan khusus.",
+      "difficulty": "EASY",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Dua bentuk", "isCorrect": false },
+        { "text": "B. Tiga bentuk", "isCorrect": true },
+        { "text": "C. Empat bentuk", "isCorrect": false },
+        { "text": "D. Lima bentuk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan yang dilakukan sebelum pekerja diterima bekerja disebut?",
+      "explanation": "Pemeriksaan awal (pre-employment) dilakukan sebelum bekerja untuk mendapatkan pekerja yang sehat atau fit to work.",
+      "difficulty": "EASY",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Pemeriksaan awal (pre-employment)", "isCorrect": true },
+        { "text": "B. Pemeriksaan berkala", "isCorrect": false },
+        { "text": "C. Pemeriksaan khusus", "isCorrect": false },
+        { "text": "D. Pemeriksaan kembali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama pemeriksaan awal (pre-employment) adalah?",
+      "explanation": "Pemeriksaan awal bertujuan mendapatkan pekerja yang sehat atau fit to work, melalui anamnesis mendetail dan pemeriksaan tanda vital.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Mendapatkan pekerja yang sehat/fit to work", "isCorrect": true },
+        { "text": "B. Memberhentikan pekerja lama", "isCorrect": false },
+        { "text": "C. Menaikkan gaji pekerja", "isCorrect": false },
+        { "text": "D. Mengurangi jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan berkala umumnya dilakukan dalam rentang waktu berapa?",
+      "explanation": "Pemeriksaan berkala dilakukan setiap 6 bulan atau 1 tahun sekali, tergantung risiko paparan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Setiap 6 bulan atau 1 tahun sekali tergantung risiko", "isCorrect": true },
+        { "text": "B. Setiap 5 tahun sekali", "isCorrect": false },
+        { "text": "C. Hanya sekali seumur hidup", "isCorrect": false },
+        { "text": "D. Setiap hari kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan khusus dilakukan terutama untuk pekerja dengan paparan apa?",
+      "explanation": "Pemeriksaan khusus dilakukan akibat paparan tertentu yang berisiko tinggi seperti kebisingan, radiasi, dan debu berlebihan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Paparan berisiko tinggi seperti kebisingan, radiasi, dan debu", "isCorrect": true },
+        { "text": "B. Paparan sinar matahari biasa", "isCorrect": false },
+        { "text": "C. Paparan udara segar", "isCorrect": false },
+        { "text": "D. Paparan suara musik ringan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan pemeriksaan kesehatan kerja meliputi berikut, KECUALI?",
+      "explanation": "Tujuannya menentukan kemampuan kerja, mencegah penyakit/kecelakaan, dan menjamin kesehatan; menambah jumlah cacat bukan tujuan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Menentukan kemampuan karyawan melakukan pekerjaan", "isCorrect": false },
+        { "text": "B. Mencegah penyakit/kecelakaan akibat lingkungan kerja", "isCorrect": false },
+        { "text": "C. Meningkatkan jumlah pekerja yang cacat", "isCorrect": true },
+        { "text": "D. Menjamin kesehatan karyawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan pendengaran akibat bising yang dapat dideteksi melalui pemeriksaan disebut?",
+      "explanation": "Gangguan pendengaran akibat bising disebut Noise Induced Hearing Loss (NIHL).",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Noise Induced Hearing Loss (NIHL)", "isCorrect": true },
+        { "text": "B. Carpal Tunnel Syndrome", "isCorrect": false },
+        { "text": "C. Pneumokoniosis", "isCorrect": false },
+        { "text": "D. Dermatitis kontak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital dapat mendeteksi dini hipertensi yang sering diakibatkan oleh apa di lingkungan kerja?",
+      "explanation": "Hipertensi pada pekerja dapat diakibatkan stres atau paparan kebisingan di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Stres atau paparan kebisingan", "isCorrect": true },
+        { "text": "B. Pencahayaan yang baik", "isCorrect": false },
+        { "text": "C. Udara segar", "isCorrect": false },
+        { "text": "D. Jam kerja pendek", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pneumokoniosis dan COPD akibat paparan debu industri termasuk gangguan sistem apa?",
+      "explanation": "Pneumokoniosis dan COPD termasuk gangguan respirasi akibat paparan debu, asap, dan bahan kimia di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Gangguan respirasi (pernapasan)", "isCorrect": true },
+        { "text": "B. Gangguan kulit", "isCorrect": false },
+        { "text": "C. Gangguan pendengaran", "isCorrect": false },
+        { "text": "D. Gangguan pencernaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Low back pain, tendinitis, dan carpal tunnel syndrome merupakan gangguan jenis apa?",
+      "explanation": "Low back pain, tendinitis, dan carpal tunnel syndrome adalah gangguan muskuloskeletal akibat postur kerja buruk dan gerakan repetitif.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Gangguan muskuloskeletal", "isCorrect": true },
+        { "text": "B. Gangguan kardiovaskular", "isCorrect": false },
+        { "text": "C. Gangguan respirasi", "isCorrect": false },
+        { "text": "D. Gangguan metabolik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dermatitis kontak akibat paparan bahan kimia merupakan contoh penyakit akibat kerja jenis apa?",
+      "explanation": "Dermatitis kontak akibat paparan bahan kimia adalah penyakit kulit akibat kerja.",
+      "difficulty": "EASY",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Penyakit kulit akibat kerja", "isCorrect": true },
+        { "text": "B. Penyakit jantung", "isCorrect": false },
+        { "text": "C. Penyakit paru", "isCorrect": false },
+        { "text": "D. Penyakit pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Obesitas dan diabetes tipe 2 yang terkait gaya hidup sedentari pekerja termasuk gangguan jenis apa?",
+      "explanation": "Obesitas dan diabetes tipe 2 termasuk gangguan metabolik yang terkait gaya hidup sedentari.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Gangguan metabolik", "isCorrect": true },
+        { "text": "B. Gangguan muskuloskeletal", "isCorrect": false },
+        { "text": "C. Gangguan pendengaran", "isCorrect": false },
+        { "text": "D. Gangguan kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan kerja merupakan bagian dari program apa?",
+      "explanation": "Pemeriksaan kesehatan kerja merupakan salah satu program K3 yang dilakukan setiap perusahaan.",
+      "difficulty": "EASY",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Program K3 (Keselamatan dan Kesehatan Kerja)", "isCorrect": true },
+        { "text": "B. Program pemasaran", "isCorrect": false },
+        { "text": "C. Program keuangan", "isCorrect": false },
+        { "text": "D. Program rekrutmen massal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan kardiovaskular pada pekerja sering diperparah oleh faktor kerja apa?",
+      "explanation": "Gangguan kardiovaskular diperparah oleh stres kerja, shift malam, dan beban kerja berlebih.",
+      "difficulty": "HARD",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Stres kerja, shift malam, dan beban kerja berlebih", "isCorrect": true },
+        { "text": "B. Istirahat yang cukup", "isCorrect": false },
+        { "text": "C. Gizi seimbang", "isCorrect": false },
+        { "text": "D. Olahraga teratur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan yang dilakukan agar pekerja dapat kembali bekerja dengan aman setelah sakit disebut?",
+      "explanation": "Pemeriksaan kembali (return to work examination) memastikan pekerja dapat kembali bekerja dengan aman setelah sakit, terkait pencegahan tersier.",
+      "difficulty": "HARD",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Pemeriksaan kembali (return to work)", "isCorrect": true },
+        { "text": "B. Pemeriksaan awal", "isCorrect": false },
+        { "text": "C. Pemeriksaan pre-employment", "isCorrect": false },
+        { "text": "D. Pemeriksaan promosi jabatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa tingkatan pencegahan penyakit akibat kerja (PAK)?",
+      "explanation": "Terdapat tiga tingkatan pencegahan PAK: primer, sekunder, dan tersier.",
+      "difficulty": "EASY",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Dua tingkatan", "isCorrect": false },
+        { "text": "B. Tiga tingkatan", "isCorrect": true },
+        { "text": "C. Empat tingkatan", "isCorrect": false },
+        { "text": "D. Lima tingkatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencegahan primer dalam PAK dilakukan pada tahap apa?",
+      "explanation": "Pencegahan primer dilakukan sebelum terjadi gangguan kesehatan, dengan mengurangi paparan bahaya kerja dan mendeteksi faktor risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Sebelum terjadi gangguan kesehatan", "isCorrect": true },
+        { "text": "B. Setelah pekerja cacat permanen", "isCorrect": false },
+        { "text": "C. Setelah penyakit kronis berkembang", "isCorrect": false },
+        { "text": "D. Saat pekerja pensiun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencegahan sekunder dalam PAK berfokus pada apa?",
+      "explanation": "Pencegahan sekunder berfokus pada deteksi dini dan penanganan segera terhadap kelainan, misalnya pengobatan hipertensi untuk mencegah stroke.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Deteksi dini dan penanganan segera terhadap kelainan", "isCorrect": true },
+        { "text": "B. Pengurangan jumlah pekerja", "isCorrect": false },
+        { "text": "C. Promosi produk perusahaan", "isCorrect": false },
+        { "text": "D. Penambahan jam lembur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencegahan tersier dalam PAK bertujuan untuk apa?",
+      "explanation": "Pencegahan tersier bertujuan mengurangi dampak penyakit agar tidak menimbulkan kecacatan permanen.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Mengurangi dampak penyakit agar tidak menimbulkan kecacatan permanen", "isCorrect": true },
+        { "text": "B. Mencegah paparan sebelum terjadi gangguan", "isCorrect": false },
+        { "text": "C. Mendeteksi faktor risiko awal", "isCorrect": false },
+        { "text": "D. Merekrut pekerja baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh penerapan pencegahan sekunder adalah?",
+      "explanation": "Contoh pencegahan sekunder adalah pemeriksaan berkala yang memungkinkan intervensi medis dini, misalnya pengobatan hipertensi untuk mencegah stroke.",
+      "difficulty": "HARD",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Pengobatan hipertensi sejak dini untuk mencegah stroke", "isCorrect": true },
+        { "text": "B. Memasang APD sebelum bekerja", "isCorrect": false },
+        { "text": "C. Rehabilitasi pekerja yang cacat", "isCorrect": false },
+        { "text": "D. Mengganti seluruh mesin pabrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengurangi paparan bahaya kerja dengan APD dan pengendalian lingkungan termasuk pencegahan tingkat apa?",
+      "explanation": "Mengurangi paparan bahaya sebelum terjadi gangguan kesehatan termasuk pencegahan primer.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Pencegahan primer", "isCorrect": true },
+        { "text": "B. Pencegahan sekunder", "isCorrect": false },
+        { "text": "C. Pencegahan tersier", "isCorrect": false },
+        { "text": "D. Pencegahan kuartener", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan kerja dasar melibatkan tim multidisiplin yang terdiri dari?",
+      "explanation": "Tim multidisiplin terdiri dari dokter perusahaan, perawat kerja, dan ahli K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Dokter perusahaan, perawat kerja, dan ahli K3", "isCorrect": true },
+        { "text": "B. Manajer pemasaran dan akuntan", "isCorrect": false },
+        { "text": "C. Operator dan satpam", "isCorrect": false },
+        { "text": "D. Pengacara dan notaris", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peran dokter perusahaan dalam tim pemeriksaan kesehatan kerja adalah?",
+      "explanation": "Dokter perusahaan berperan dalam diagnosis dan evaluasi kesehatan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Diagnosis dan evaluasi kesehatan pekerja", "isCorrect": true },
+        { "text": "B. Mengatur keuangan perusahaan", "isCorrect": false },
+        { "text": "C. Mengoperasikan mesin produksi", "isCorrect": false },
+        { "text": "D. Memasarkan produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peran perawat kerja dalam tim pemeriksaan kesehatan kerja meliputi?",
+      "explanation": "Perawat kerja berperan dalam pemeriksaan awal, edukasi, dan tindak lanjut.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Pemeriksaan awal, edukasi, dan tindak lanjut", "isCorrect": true },
+        { "text": "B. Menyusun laporan keuangan", "isCorrect": false },
+        { "text": "C. Merancang produk baru", "isCorrect": false },
+        { "text": "D. Mengatur jadwal produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peran ahli K3 dalam tim pemeriksaan kesehatan kerja adalah?",
+      "explanation": "Ahli K3 berperan mengawasi implementasi program K3 di perusahaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Mengawasi implementasi program K3", "isCorrect": true },
+        { "text": "B. Mendiagnosis penyakit pekerja", "isCorrect": false },
+        { "text": "C. Memberi resep obat", "isCorrect": false },
+        { "text": "D. Mengatur gaji pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mendeteksi faktor risiko seperti hipertensi, obesitas, atau gangguan paru awal merupakan bagian dari pencegahan tingkat apa?",
+      "explanation": "Deteksi faktor risiko sebelum terjadi gangguan kesehatan yang nyata termasuk bagian pencegahan primer.",
+      "difficulty": "HARD",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Pencegahan primer", "isCorrect": true },
+        { "text": "B. Pencegahan tersier", "isCorrect": false },
+        { "text": "C. Rehabilitasi total", "isCorrect": false },
+        { "text": "D. Tidak ada pencegahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kembali setelah sakit untuk memastikan pekerja dapat bekerja aman termasuk pencegahan tingkat apa?",
+      "explanation": "Pemeriksaan kembali setelah sakit untuk mengurangi dampak penyakit dan kecacatan termasuk pencegahan tersier.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Pencegahan tersier", "isCorrect": true },
+        { "text": "B. Pencegahan primer", "isCorrect": false },
+        { "text": "C. Pencegahan sekunder", "isCorrect": false },
+        { "text": "D. Bukan pencegahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kerja tim multidisiplin penting dalam pemeriksaan kesehatan kerja dasar?",
+      "explanation": "Kerja tim multidisiplin penting karena memadukan keahlian diagnosis, edukasi, tindak lanjut, dan pengawasan program K3 secara komprehensif.",
+      "difficulty": "HARD",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Karena memadukan keahlian diagnosis, edukasi, dan pengawasan K3 secara komprehensif", "isCorrect": true },
+        { "text": "B. Karena mengurangi biaya gaji", "isCorrect": false },
+        { "text": "C. Karena menghapus kebutuhan dokter", "isCorrect": false },
+        { "text": "D. Karena mempercepat produksi mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencegahan PAK yang paling efektif dan diutamakan adalah tingkat?",
+      "explanation": "Pencegahan primer paling efektif karena mencegah gangguan kesehatan sebelum terjadi, sehingga lebih diutamakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Pencegahan primer", "isCorrect": true },
+        { "text": "B. Pencegahan sekunder", "isCorrect": false },
+        { "text": "C. Pencegahan tersier", "isCorrect": false },
+        { "text": "D. Tanpa pencegahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan berkala yang memungkinkan intervensi medis sejak dini paling erat kaitannya dengan pencegahan?",
+      "explanation": "Pemeriksaan berkala yang memungkinkan deteksi dan intervensi medis dini berkaitan erat dengan pencegahan sekunder.",
+      "difficulty": "HARD",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Pencegahan sekunder", "isCorrect": true },
+        { "text": "B. Pencegahan primer", "isCorrect": false },
+        { "text": "C. Pencegahan tersier", "isCorrect": false },
+        { "text": "D. Tidak terkait pencegahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "ILO 2023 menyebutkan setiap tahun terjadi lebih dari berapa kasus baru penyakit akibat kerja di dunia?",
+      "explanation": "Menurut ILO 2023, terjadi lebih dari 160 juta kasus baru penyakit akibat kerja setiap tahun di seluruh dunia.",
+      "difficulty": "HARD",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Lebih dari 160 juta kasus baru", "isCorrect": true },
+        { "text": "B. Sekitar 10 ribu kasus baru", "isCorrect": false },
+        { "text": "C. Kurang dari 1 juta kasus baru", "isCorrect": false },
+        { "text": "D. Sekitar 500 kasus baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kurangnya data epidemiologi PAK yang terintegrasi di tingkat nasional merupakan tantangan dalam hal apa?",
+      "explanation": "Kurangnya data epidemiologi PAK terintegrasi nasional menjadi tantangan dalam upaya pencegahan PAK.",
+      "difficulty": "HARD",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Tantangan dalam pencegahan PAK", "isCorrect": true },
+        { "text": "B. Tantangan dalam produksi barang", "isCorrect": false },
+        { "text": "C. Tantangan pemasaran", "isCorrect": false },
+        { "text": "D. Tantangan distribusi logistik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Variasi standar pemeriksaan antar perusahaan menjadi masalah karena?",
+      "explanation": "Variasi standar pemeriksaan antar perusahaan menyulitkan konsistensi dan menjadi tantangan dalam pencegahan PAK secara nasional.",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi & Dasar Hukum",
+      "options": [
+        { "text": "A. Menyulitkan konsistensi dan pencegahan PAK secara nasional", "isCorrect": true },
+        { "text": "B. Membuat produksi lebih cepat", "isCorrect": false },
+        { "text": "C. Menaikkan harga produk", "isCorrect": false },
+        { "text": "D. Tidak berdampak apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peluang teknologi big data dalam kesehatan kerja digunakan untuk apa?",
+      "explanation": "Big data digunakan untuk analisis kesehatan pekerja dan mendeteksi tren kesehatan, meski menghadapi isu validitas data dan privasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Analisis kesehatan pekerja dan deteksi tren kesehatan", "isCorrect": true },
+        { "text": "B. Menggantikan seluruh APD", "isCorrect": false },
+        { "text": "C. Menghapus regulasi kesehatan", "isCorrect": false },
+        { "text": "D. Menaikkan suhu ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Meningkatnya kasus gangguan mental di tempat kerja merupakan contoh isu terbaru yang berkaitan dengan faktor risiko apa?",
+      "explanation": "Gangguan mental di tempat kerja berkaitan dengan faktor risiko psikososial dan menjadi isu terbaru kesehatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko psikososial", "isCorrect": true },
+        { "text": "B. Faktor risiko fisik", "isCorrect": false },
+        { "text": "C. Faktor risiko biologi", "isCorrect": false },
+        { "text": "D. Faktor risiko kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan baru akibat perubahan iklim yang menjadi isu kesehatan kerja terbaru contohnya adalah?",
+      "explanation": "Paparan akibat perubahan iklim seperti heat stress dan polusi menjadi isu baru kesehatan kerja.",
+      "difficulty": "HARD",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Heat stress dan polusi", "isCorrect": true },
+        { "text": "B. Kenaikan upah minimum", "isCorrect": false },
+        { "text": "C. Penurunan harga bahan bakar", "isCorrect": false },
+        { "text": "D. Perubahan logo perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital sebagai deteksi dini demam dapat mengindikasikan adanya apa di tempat kerja?",
+      "explanation": "Demam yang terdeteksi melalui suhu tubuh dapat menjadi tanda penyakit infeksi di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Penyakit infeksi di tempat kerja", "isCorrect": true },
+        { "text": "B. Kelebihan gizi", "isCorrect": false },
+        { "text": "C. Pendengaran membaik", "isCorrect": false },
+        { "text": "D. Postur kerja yang benar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asma akibat kerja merupakan jenis gangguan yang dapat dideteksi melalui pemeriksaan tanda vital apa?",
+      "explanation": "Asma akibat kerja merupakan gangguan respirasi yang dapat terdeteksi melalui pemeriksaan frekuensi pernapasan dan riwayat paparan debu industri.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Pemeriksaan frekuensi pernapasan", "isCorrect": true },
+        { "text": "B. Pemeriksaan suhu tubuh saja", "isCorrect": false },
+        { "text": "C. Pengukuran tinggi badan", "isCorrect": false },
+        { "text": "D. Pengukuran lingkar lengan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu hambatan budaya yang menurunkan kepatuhan pekerja dalam pemeriksaan kesehatan adalah?",
+      "explanation": "Hambatan budaya berupa stigma bahwa hasil pemeriksaan dapat memengaruhi status pekerjaan menurunkan kepatuhan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Stigma bahwa hasil pemeriksaan memengaruhi status pekerjaan", "isCorrect": true },
+        { "text": "B. Pemeriksaan gratis", "isCorrect": false },
+        { "text": "C. Fasilitas yang lengkap", "isCorrect": false },
+        { "text": "D. Tenaga medis berlimpah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kesehatan kerja menggunakan usaha preventif dan kuratif terhadap gangguan kesehatan yang diakibatkan oleh apa?",
+      "explanation": "Kesehatan kerja menerapkan usaha preventif dan kuratif terhadap penyakit/gangguan yang diakibatkan faktor pekerjaan, lingkungan kerja, serta penyakit umum.",
+      "difficulty": "HARD",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Faktor pekerjaan, lingkungan kerja, dan penyakit umum", "isCorrect": true },
+        { "text": "B. Hanya faktor keturunan", "isCorrect": false },
+        { "text": "C. Hanya kondisi cuaca", "isCorrect": false },
+        { "text": "D. Hanya faktor usia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Edukasi pola hidup sehat dan pemeriksaan berkala minimal setahun sekali merupakan bentuk intervensi apa?",
+      "explanation": "Edukasi pola hidup sehat dan pemeriksaan berkala merupakan intervensi promotif-preventif dalam pencegahan PAK.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Pencegahan PAK",
+      "options": [
+        { "text": "A. Intervensi promotif-preventif", "isCorrect": true },
+        { "text": "B. Intervensi rehabilitatif total", "isCorrect": false },
+        { "text": "C. Intervensi bedah", "isCorrect": false },
+        { "text": "D. Intervensi finansial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan kerja membantu menjamin kesehatan karyawan agar tidak memengaruhi apa?",
+      "explanation": "Pemeriksaan menjamin kesehatan karyawan agar tidak memengaruhi kinerja, produktivitas, serta reputasi perusahaan.",
+      "difficulty": "EASY",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Kinerja, produktivitas, dan reputasi perusahaan", "isCorrect": true },
+        { "text": "B. Warna seragam kerja", "isCorrect": false },
+        { "text": "C. Lokasi pabrik", "isCorrect": false },
+        { "text": "D. Harga saham asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan kerja dasar disebut sebagai fondasi karena?",
+      "explanation": "Disebut fondasi karena menjadi dasar dari program kesehatan kerja yang efektif untuk deteksi dini dan pencegahan PAK.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Menjadi dasar program kesehatan kerja yang efektif", "isCorrect": true },
+        { "text": "B. Menggantikan seluruh layanan rumah sakit", "isCorrect": false },
+        { "text": "C. Hanya formalitas administrasi", "isCorrect": false },
+        { "text": "D. Tidak berhubungan dengan PAK", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Anamnesis mendetail pada pemeriksaan awal bertujuan untuk?",
+      "explanation": "Anamnesis mendetail pada pemeriksaan awal (pre-employment) bertujuan menilai riwayat kesehatan untuk memastikan pekerja fit to work.",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Menilai riwayat kesehatan agar pekerja fit to work", "isCorrect": true },
+        { "text": "B. Menentukan besar gaji", "isCorrect": false },
+        { "text": "C. Mengatur jadwal shift", "isCorrect": false },
+        { "text": "D. Memilih warna seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Empat faktor penentu masalah kesehatan pekerja secara berurutan adalah?",
+      "explanation": "Empat faktor adalah pekerja, lingkungan, kesejahteraan, dan pelayanan kesehatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Empat Faktor Penentu Kesehatan",
+      "options": [
+        { "text": "A. Pekerja, lingkungan, kesejahteraan, dan pelayanan kesehatan kerja", "isCorrect": true },
+        { "text": "B. Modal, mesin, pasar, dan laba", "isCorrect": false },
+        { "text": "C. Bahan, energi, produk, dan limbah", "isCorrect": false },
+        { "text": "D. Gaji, jabatan, promosi, dan pensiun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital pada pekerja tambang yang mengalami takipnea bertujuan untuk?",
+      "explanation": "Takipnea pada pekerja tambang yang terdeteksi melalui pemeriksaan napas memungkinkan rujukan dini untuk mengendalikan risiko penyakit paru seperti pneumokoniosis.",
+      "difficulty": "HARD",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Mengendalikan risiko penyakit paru sejak dini", "isCorrect": true },
+        { "text": "B. Menambah jam lembur", "isCorrect": false },
+        { "text": "C. Menaikkan produksi tambang", "isCorrect": false },
+        { "text": "D. Mengganti lokasi tambang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan khusus untuk pekerja yang terpapar kebisingan tinggi bertujuan mendeteksi gangguan apa?",
+      "explanation": "Pemeriksaan khusus pada pekerja terpapar kebisingan bertujuan mendeteksi gangguan pendengaran akibat bising (NIHL).",
+      "difficulty": "MEDIUM",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Gangguan pendengaran akibat bising (NIHL)", "isCorrect": true },
+        { "text": "B. Dermatitis kontak", "isCorrect": false },
+        { "text": "C. Diabetes tipe 2", "isCorrect": false },
+        { "text": "D. Low back pain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengintegrasian pemeriksaan kesehatan dengan sistem manajemen K3 perusahaan merupakan contoh pemanfaatan apa?",
+      "explanation": "Integrasi pemeriksaan dengan sistem manajemen K3 merupakan bagian pemanfaatan teknologi dan digitalisasi di era modern kesehatan kerja.",
+      "difficulty": "HARD",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Pemanfaatan teknologi dan digitalisasi kesehatan kerja", "isCorrect": true },
+        { "text": "B. Pengurangan jumlah tenaga kerja", "isCorrect": false },
+        { "text": "C. Penghapusan APD", "isCorrect": false },
+        { "text": "D. Peningkatan harga produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor risiko biologi di tempat kerja paling berisiko bagi pekerja di lingkungan apa?",
+      "explanation": "Faktor biologi seperti virus, bakteri, dan jamur paling berisiko di lingkungan dengan paparan vektor penyakit, misalnya rumah sakit dan laboratorium.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Lingkungan dengan paparan vektor penyakit seperti rumah sakit", "isCorrect": true },
+        { "text": "B. Ruang ber-AC sejuk", "isCorrect": false },
+        { "text": "C. Kantor administrasi steril", "isCorrect": false },
+        { "text": "D. Lapangan parkir terbuka", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan pemeriksaan kesehatan kerja untuk menentukan kemampuan karyawan didasarkan pada apa?",
+      "explanation": "Pemeriksaan bertujuan menentukan kemampuan karyawan melakukan pekerjaan berdasarkan kondisi kesehatannya.",
+      "difficulty": "EASY",
+      "tag": "Tiga Bentuk Pemeriksaan",
+      "options": [
+        { "text": "A. Kondisi kesehatan karyawan", "isCorrect": true },
+        { "text": "B. Jumlah teman kerja", "isCorrect": false },
+        { "text": "C. Lokasi rumah karyawan", "isCorrect": false },
+        { "text": "D. Hobi karyawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelompok pekerja rentan yang menjadi sasaran khusus pemeriksaan kesehatan kerja meliputi?",
+      "explanation": "Kelompok pekerja rentan meliputi pekerja anak dan pekerja perempuan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. Pekerja anak dan pekerja perempuan", "isCorrect": true },
+        { "text": "B. Manajer eksekutif", "isCorrect": false },
+        { "text": "C. Pemilik perusahaan", "isCorrect": false },
+        { "text": "D. Investor asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kerugian akibat menurunnya produktivitas pekerja sakit dianggap lebih besar daripada biaya pemeriksaan?",
+      "explanation": "Kerugian produktivitas akibat PAK berdampak signifikan terhadap perusahaan, sehingga investasi pemeriksaan lebih kecil dibanding kerugian jika pekerja sakit.",
+      "difficulty": "HARD",
+      "tag": "Latar Belakang & Pentingnya",
+      "options": [
+        { "text": "A. Karena PAK berdampak besar pada produktivitas dan keberlangsungan perusahaan", "isCorrect": true },
+        { "text": "B. Karena pemeriksaan sangat mahal", "isCorrect": false },
+        { "text": "C. Karena pekerja tidak pernah sakit", "isCorrect": false },
+        { "text": "D. Karena perusahaan tidak butuh pekerja sehat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan tanda vital sebagai deteksi dini gangguan musculoskeletal terutama terkait dengan faktor risiko apa?",
+      "explanation": "Gangguan musculoskeletal seperti low back pain terkait faktor risiko ergonomi: postur kerja buruk, manual handling salah, dan gerakan repetitif.",
+      "difficulty": "HARD",
+      "tag": "Faktor Risiko di Tempat Kerja",
+      "options": [
+        { "text": "A. Faktor risiko ergonomi", "isCorrect": true },
+        { "text": "B. Faktor risiko kimia", "isCorrect": false },
+        { "text": "C. Faktor risiko biologi", "isCorrect": false },
+        { "text": "D. Faktor risiko radiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai hubungan biaya dan manfaat pemeriksaan kesehatan kerja dasar adalah?",
+      "explanation": "Meski memerlukan biaya, pemeriksaan kesehatan kerja dasar bermanfaat besar dalam mencegah PAK dan menjaga produktivitas sehingga lebih menguntungkan jangka panjang.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan & Ruang Lingkup",
+      "options": [
+        { "text": "A. Manfaat jangka panjang lebih besar dibanding biaya pemeriksaan", "isCorrect": true },
+        { "text": "B. Biaya selalu lebih besar dari manfaat", "isCorrect": false },
+        { "text": "C. Tidak ada manfaat sama sekali", "isCorrect": false },
+        { "text": "D. Hanya menguntungkan pekerja, bukan perusahaan", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa fungsi utama pemeriksaan kesehatan kerja dasar?", "back": "Sebagai pintu gerbang dan fondasi untuk mendeteksi dini masalah kesehatan pekerja serta mencegah PAK.", "tag": "Latar Belakang & Pentingnya" },
+    { "front": "Apa komponen utama pemeriksaan kesehatan kerja dasar?", "back": "Pemeriksaan tanda vital: tekanan darah, nadi, frekuensi pernapasan, suhu tubuh, dan status gizi sederhana (IMT dan lingkar pinggang).", "tag": "Latar Belakang & Pentingnya" },
+    { "front": "Definisi kesehatan kerja menurut WHO?", "back": "Upaya promotif, preventif, kuratif, dan rehabilitatif untuk meningkatkan derajat kesehatan pekerja agar produktif tanpa mengorbankan keselamatan.", "tag": "Definisi WHO & ILO" },
+    { "front": "Definisi kesehatan kerja menurut ILO?", "back": "Upaya promotif, preventif, kuratif, dan rehabilitatif untuk menjaga kesehatan pekerja agar dapat bekerja secara aman, nyaman, dan produktif.", "tag": "Definisi WHO & ILO" },
+    { "front": "Tujuan utama kesehatan kerja?", "back": "Melindungi pekerja dari risiko kesehatan akibat pekerjaan, meningkatkan produktivitas, serta mencegah penyakit akibat kerja (PAK).", "tag": "Tujuan & Ruang Lingkup" },
+    { "front": "Apa ruang lingkup pemeriksaan kesehatan kerja dasar?", "back": "Pengukuran tekanan darah, frekuensi nadi, suhu tubuh, frekuensi pernapasan, dan status gizi; sasaran meliputi pekerja formal, informal, dan kelompok rentan.", "tag": "Tujuan & Ruang Lingkup" },
+    { "front": "Sebutkan empat faktor penentu masalah kesehatan pekerja!", "back": "Pekerja, lingkungan, kesejahteraan, dan pelayanan kesehatan kerja.", "tag": "Empat Faktor Penentu Kesehatan" },
+    { "front": "Faktor 'lingkungan' meliputi jenis lingkungan apa saja?", "back": "Lingkungan fisik, kimia, biologi, ergonomi, dan psikososial.", "tag": "Empat Faktor Penentu Kesehatan" },
+    { "front": "Apa yang menentukan faktor kesejahteraan pekerja?", "back": "Pendapatan pekerja; semakin tinggi pendapatan semakin sejahtera, ditunjang pengembangan diri melalui pelatihan.", "tag": "Empat Faktor Penentu Kesehatan" },
+    { "front": "Sebutkan lima kategori faktor risiko kesehatan di tempat kerja!", "back": "Fisik, kimia, biologi, ergonomi, dan psikososial.", "tag": "Faktor Risiko di Tempat Kerja" },
+    { "front": "Contoh faktor risiko fisik di tempat kerja?", "back": "Suhu/iklim panas, pencahayaan, getaran, kebisingan, dan radiasi.", "tag": "Faktor Risiko di Tempat Kerja" },
+    { "front": "Contoh faktor risiko ergonomi?", "back": "Postur kerja janggal, gerakan repetitif, dan beban kerja fisik berlebihan.", "tag": "Faktor Risiko di Tempat Kerja" },
+    { "front": "Permenaker No. 2 Tahun 1980 mengatur apa?", "back": "Pemeriksaan Kesehatan Tenaga Kerja, yaitu kewajiban pengusaha melaksanakan pemeriksaan kesehatan pekerjanya.", "tag": "Regulasi & Dasar Hukum" },
+    { "front": "Sebutkan tiga regulasi kesehatan kerja di Indonesia!", "back": "UU No. 36 Tahun 2009 (Kesehatan), UU No. 13 Tahun 2003 (Ketenagakerjaan), dan Perpres No. 7 Tahun 2019 (PAK).", "tag": "Regulasi & Dasar Hukum" },
+    { "front": "Menurut UU No. 23 Tahun 1992, PAK disebabkan dua faktor apa?", "back": "Lingkungan kerja dan hubungan kerja.", "tag": "Regulasi & Dasar Hukum" },
+    { "front": "Sebutkan tiga bentuk utama pemeriksaan kesehatan kerja!", "back": "Pemeriksaan awal (pre-employment), pemeriksaan berkala, dan pemeriksaan khusus.", "tag": "Tiga Bentuk Pemeriksaan" },
+    { "front": "Apa tujuan pemeriksaan awal (pre-employment)?", "back": "Mendapatkan pekerja yang sehat/fit to work melalui anamnesis mendetail dan pemeriksaan tanda vital.", "tag": "Tiga Bentuk Pemeriksaan" },
+    { "front": "Kapan pemeriksaan berkala dilakukan dan untuk apa pemeriksaan khusus?", "back": "Berkala dilakukan setiap 6 bulan atau 1 tahun tergantung risiko; khusus untuk paparan berisiko tinggi seperti kebisingan, radiasi, dan debu.", "tag": "Tiga Bentuk Pemeriksaan" },
+    { "front": "Sebutkan tiga tingkatan pencegahan PAK!", "back": "Primer (mengurangi paparan sebelum gangguan), sekunder (deteksi dini dan penanganan segera), dan tersier (mencegah kecacatan permanen).", "tag": "Konsep Pencegahan PAK" },
+    { "front": "Siapa anggota tim multidisiplin pemeriksaan kesehatan kerja?", "back": "Dokter perusahaan (diagnosis), perawat kerja (pemeriksaan awal, edukasi, tindak lanjut), dan ahli K3 (mengawasi program K3).", "tag": "Konsep Pencegahan PAK" }
+  ],
+  "mindmap": [
+    { "id": "dasar-pemeriksaan", "label": "Dasar Pemeriksaan Kesehatan Kerja", "color": "#6366f1", "parent": null, "content": "Fondasi program kesehatan kerja untuk mendeteksi dini gangguan kesehatan pekerja melalui pemeriksaan tanda vital sederhana namun bermakna." },
+
+    { "id": "latar-belakang", "label": "Latar Belakang & Pentingnya", "color": "#8b5cf6", "parent": "dasar-pemeriksaan", "content": "Pemeriksaan kesehatan kerja dasar adalah pintu gerbang deteksi dini masalah kesehatan pekerja." },
+    { "id": "data-ilo", "label": "Data ILO", "color": "#8b5cf6", "parent": "latar-belakang", "content": "ILO 2020: >2,3 juta pekerja meninggal/tahun; ILO 2023: >160 juta kasus baru PAK/tahun di dunia." },
+    { "id": "tantangan-pelaksanaan", "label": "Tantangan Pelaksanaan", "color": "#8b5cf6", "parent": "latar-belakang", "content": "Keterbatasan SDM, alat, stigma budaya, kendala regulasi, dan rendahnya kepatuhan pekerja." },
+    { "id": "biaya-vs-manfaat", "label": "Biaya vs Manfaat", "color": "#8b5cf6", "parent": "latar-belakang", "content": "Perusahaan enggan MCU rutin karena biaya, padahal kerugian produktivitas akibat PAK jauh lebih besar." },
+    { "id": "era-digital", "label": "Era Digital", "color": "#8b5cf6", "parent": "latar-belakang", "content": "Teknologi wearable, IoT, telemedicine, dan big data untuk memantau tanda vital real-time dan menganalisis tren kesehatan." },
+
+    { "id": "definisi-who-ilo", "label": "Definisi WHO & ILO", "color": "#0ea5e9", "parent": "dasar-pemeriksaan", "content": "Kesehatan kerja adalah cabang ilmu kesehatan masyarakat yang fokus pada interaksi pekerjaan, lingkungan, dan kesehatan pekerja." },
+    { "id": "definisi-who", "label": "Menurut WHO", "color": "#0ea5e9", "parent": "definisi-who-ilo", "content": "Upaya promotif, preventif, kuratif, rehabilitatif untuk meningkatkan derajat kesehatan pekerja tanpa mengorbankan keselamatan." },
+    { "id": "definisi-ilo", "label": "Menurut ILO", "color": "#0ea5e9", "parent": "definisi-who-ilo", "content": "Upaya promotif, preventif, kuratif, rehabilitatif agar pekerja bekerja secara aman, nyaman, dan produktif." },
+    { "id": "empat-upaya", "label": "Empat Upaya", "color": "#0ea5e9", "parent": "definisi-who-ilo", "content": "Promotif, preventif, kuratif, dan rehabilitatif menjadi inti definisi kesehatan kerja." },
+
+    { "id": "tujuan-lingkup", "label": "Tujuan & Ruang Lingkup", "color": "#10b981", "parent": "dasar-pemeriksaan", "content": "Tujuan utama melindungi pekerja dari risiko kesehatan, meningkatkan produktivitas, dan mencegah PAK." },
+    { "id": "tujuan-khusus", "label": "Tujuan Khusus", "color": "#10b981", "parent": "tujuan-lingkup", "content": "Menetapkan dasar ilmiah pemeriksaan tanda vital, mengidentifikasi abnormalitas, dan mempelajari respon tubuh." },
+    { "id": "ruang-lingkup", "label": "Ruang Lingkup", "color": "#10b981", "parent": "tujuan-lingkup", "content": "Pengukuran tekanan darah, nadi, suhu, pernapasan, dan status gizi oleh tenaga kesehatan kerja." },
+    { "id": "sasaran", "label": "Sasaran", "color": "#10b981", "parent": "tujuan-lingkup", "content": "Pekerja formal, informal, dan kelompok rentan seperti pekerja anak dan perempuan." },
+
+    { "id": "empat-faktor", "label": "Empat Faktor Penentu Kesehatan", "color": "#f59e0b", "parent": "dasar-pemeriksaan", "content": "Masalah kesehatan pekerja ditentukan oleh pekerja, lingkungan, kesejahteraan, dan pelayanan kesehatan kerja." },
+    { "id": "faktor-pekerja", "label": "Pekerja", "color": "#f59e0b", "parent": "empat-faktor", "content": "Perilaku individu, budaya kerja, pengetahuan, serta ketahanan tubuh dan gizi yang berbeda-beda." },
+    { "id": "faktor-lingkungan", "label": "Lingkungan", "color": "#f59e0b", "parent": "empat-faktor", "content": "Lingkungan fisik, kimia, biologi, ergonomi, dan psikososial yang dapat menyebabkan PAK dan kecelakaan." },
+    { "id": "faktor-kesejahteraan", "label": "Kesejahteraan", "color": "#f59e0b", "parent": "empat-faktor", "content": "Ditentukan pendapatan dan pengembangan diri lewat pelatihan untuk menunjang kinerja." },
+    { "id": "faktor-pelayanan", "label": "Pelayanan Kesehatan", "color": "#f59e0b", "parent": "empat-faktor", "content": "Poliklinik perusahaan atau kerja sama jejaring seperti puskesmas untuk mewujudkan kesehatan pekerja." },
+
+    { "id": "faktor-risiko", "label": "Faktor Risiko di Tempat Kerja", "color": "#ef4444", "parent": "dasar-pemeriksaan", "content": "Lima kategori faktor risiko dapat berdampak akut maupun kronis terhadap kesehatan pekerja." },
+    { "id": "risiko-fisik", "label": "Fisik", "color": "#ef4444", "parent": "faktor-risiko", "content": "Suhu, pencahayaan, getaran, kebisingan, dan radiasi." },
+    { "id": "risiko-kimia", "label": "Kimia", "color": "#ef4444", "parent": "faktor-risiko", "content": "Logam berat, pestisida, merkuri, crome, dan bahan kimia pelarut." },
+    { "id": "risiko-biologi", "label": "Biologi", "color": "#ef4444", "parent": "faktor-risiko", "content": "Bakteri, virus, jamur, dan vektor penyakit." },
+    { "id": "risiko-ergonomi", "label": "Ergonomi", "color": "#ef4444", "parent": "faktor-risiko", "content": "Postur kerja janggal, repetisi gerakan, dan beban kerja fisik berlebihan." },
+    { "id": "risiko-psikososial", "label": "Psikososial", "color": "#ef4444", "parent": "faktor-risiko", "content": "Stres, jam kerja panjang, sistem shift, dan hubungan kerja tidak harmonis." },
+
+    { "id": "regulasi", "label": "Regulasi & Dasar Hukum", "color": "#ec4899", "parent": "dasar-pemeriksaan", "content": "Pemeriksaan kesehatan kerja diatur berbagai regulasi nasional di Indonesia." },
+    { "id": "permenaker-2-1980", "label": "Permenaker 2/1980", "color": "#ec4899", "parent": "regulasi", "content": "Mengatur Pemeriksaan Kesehatan Tenaga Kerja sebagai kewajiban pengusaha." },
+    { "id": "uu-kesehatan-ketenagakerjaan", "label": "UU Kesehatan & Ketenagakerjaan", "color": "#ec4899", "parent": "regulasi", "content": "UU No. 36/2009 tentang Kesehatan dan UU No. 13/2003 tentang Ketenagakerjaan." },
+    { "id": "perpres-pp-pak", "label": "Perpres & PP terkait PAK", "color": "#ec4899", "parent": "regulasi", "content": "Perpres No. 7/2019 tentang PAK, PP No. 44/2015 tentang JKK & JKM, dan Permenkes No. 56/2016." },
+
+    { "id": "tiga-bentuk", "label": "Tiga Bentuk Pemeriksaan", "color": "#14b8a6", "parent": "dasar-pemeriksaan", "content": "Pemeriksaan kesehatan kerja sebagai program K3 terdiri dari tiga bentuk utama." },
+    { "id": "pemeriksaan-awal", "label": "Awal (Pre-employment)", "color": "#14b8a6", "parent": "tiga-bentuk", "content": "Sebelum bekerja untuk mendapatkan pekerja sehat/fit to work melalui anamnesis dan tanda vital." },
+    { "id": "pemeriksaan-berkala", "label": "Berkala", "color": "#14b8a6", "parent": "tiga-bentuk", "content": "Memantau kondisi kesehatan setiap 6 bulan atau 1 tahun tergantung risiko paparan." },
+    { "id": "pemeriksaan-khusus", "label": "Khusus", "color": "#14b8a6", "parent": "tiga-bentuk", "content": "Akibat paparan berisiko tinggi seperti kebisingan, radiasi, dan debu berlebihan." },
+    { "id": "deteksi-pak", "label": "Deteksi Dini PAK", "color": "#14b8a6", "parent": "tiga-bentuk", "content": "Tanda vital mendeteksi hipertensi, gangguan respirasi, NIHL, gangguan metabolik, dan muskuloskeletal." },
+
+    { "id": "pencegahan", "label": "Konsep Pencegahan PAK", "color": "#8b5cf6", "parent": "dasar-pemeriksaan", "content": "Pencegahan PAK melalui tim multidisiplin dan tiga tingkatan pencegahan." },
+    { "id": "pencegahan-primer", "label": "Primer", "color": "#8b5cf6", "parent": "pencegahan", "content": "Sebelum gangguan terjadi dengan mengurangi paparan bahaya dan deteksi faktor risiko." },
+    { "id": "pencegahan-sekunder", "label": "Sekunder", "color": "#8b5cf6", "parent": "pencegahan", "content": "Deteksi dini dan penanganan segera, misal pengobatan hipertensi untuk mencegah stroke." },
+    { "id": "pencegahan-tersier", "label": "Tersier", "color": "#8b5cf6", "parent": "pencegahan", "content": "Mengurangi dampak penyakit agar tidak menimbulkan kecacatan permanen." },
+    { "id": "tim-multidisiplin", "label": "Tim Multidisiplin", "color": "#8b5cf6", "parent": "pencegahan", "content": "Dokter perusahaan (diagnosis), perawat kerja (edukasi & tindak lanjut), ahli K3 (pengawasan program)." }
+  ]
+}

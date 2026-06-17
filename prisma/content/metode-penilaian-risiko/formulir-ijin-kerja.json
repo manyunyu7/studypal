@@ -1,0 +1,1253 @@
+{
+  "topic": "Formulir Ijin Kerja (Work Permit)",
+  "order": 5,
+  "description": "Ijin kerja (work permit) adalah dokumen formal yang mengizinkan pelaksanaan pekerjaan berisiko tinggi setelah memastikan bahaya telah diidentifikasi dan pengendalian disiapkan. Sistem ini mengatur otorisasi sebelum pekerjaan dimulai dan penutupan setelah pekerjaan selesai untuk mencegah kecelakaan kerja.",
+  "subtopics": [
+    "Pengertian & Tujuan Ijin Kerja",
+    "Jenis-Jenis Ijin Kerja",
+    "Komponen Formulir Ijin Kerja",
+    "Identifikasi Bahaya & Pengendalian",
+    "Otorisasi & Persetujuan",
+    "Masa Berlaku & Penutupan",
+    "Komunikasi Risiko & Simulasi"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan ijin kerja (work permit) dalam sistem K3?",
+      "explanation": "Ijin kerja adalah dokumen formal tertulis yang mengizinkan pelaksanaan pekerjaan berisiko tinggi setelah bahaya diidentifikasi dan pengendalian disiapkan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Surat tugas harian biasa untuk semua pekerja", "isCorrect": false },
+        { "text": "B. Dokumen formal yang mengizinkan pekerjaan berisiko tinggi setelah pengendalian disiapkan", "isCorrect": true },
+        { "text": "C. Slip gaji pekerja proyek", "isCorrect": false },
+        { "text": "D. Daftar hadir pekerja di lokasi kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama penerapan sistem ijin kerja adalah?",
+      "explanation": "Sistem ijin kerja bertujuan memastikan bahaya telah dikendalikan dan ada otorisasi sebelum pekerjaan berisiko tinggi dilaksanakan, sehingga mencegah kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Mempercepat pekerjaan tanpa pemeriksaan", "isCorrect": false },
+        { "text": "B. Mengurangi jumlah pekerja yang dibutuhkan", "isCorrect": false },
+        { "text": "C. Memastikan bahaya dikendalikan dan ada otorisasi sebelum pekerjaan dimulai", "isCorrect": true },
+        { "text": "D. Menambah biaya proyek perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem ijin kerja terutama diperlukan untuk jenis pekerjaan?",
+      "explanation": "Ijin kerja diterapkan pada pekerjaan non-rutin dan berisiko tinggi yang memerlukan pengendalian khusus sebelum dilaksanakan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Pekerjaan administrasi di kantor", "isCorrect": false },
+        { "text": "B. Pekerjaan rutin berisiko rendah", "isCorrect": false },
+        { "text": "C. Pekerjaan non-rutin berisiko tinggi", "isCorrect": true },
+        { "text": "D. Semua pekerjaan tanpa kecuali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ijin kerja merupakan bentuk pengendalian risiko yang termasuk kategori?",
+      "explanation": "Sistem ijin kerja adalah pengendalian administratif karena mengatur prosedur dan otorisasi pelaksanaan kerja, bukan mengubah sumber bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Pengendalian administratif", "isCorrect": true },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Pengendalian rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang sifat dokumen ijin kerja adalah?",
+      "explanation": "Ijin kerja bersifat tertulis dan formal, harus didokumentasikan, bukan persetujuan lisan agar dapat ditelusuri dan dipertanggungjawabkan.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Cukup persetujuan lisan dari mandor", "isCorrect": false },
+        { "text": "B. Tertulis, formal, dan terdokumentasi", "isCorrect": true },
+        { "text": "C. Tidak perlu tanda tangan siapa pun", "isCorrect": false },
+        { "text": "D. Boleh dibuat setelah pekerjaan selesai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat sistem ijin kerja bagi organisasi adalah?",
+      "explanation": "Sistem ijin kerja menciptakan komunikasi dan koordinasi antara pelaksana, pengawas, dan pemberi ijin sehingga semua pihak memahami bahaya dan pengendaliannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Menghapus kebutuhan akan APD", "isCorrect": false },
+        { "text": "B. Meningkatkan komunikasi dan koordinasi antar pihak terkait", "isCorrect": true },
+        { "text": "C. Menghilangkan tanggung jawab pengawas", "isCorrect": false },
+        { "text": "D. Membuat pekerjaan tidak perlu diawasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem ijin kerja dalam istilah K3 internasional sering disebut?",
+      "explanation": "Sistem ijin kerja dikenal sebagai Permit to Work (PTW) System, suatu sistem formal pengendalian pekerjaan berbahaya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Permit to Work (PTW) System", "isCorrect": true },
+        { "text": "B. Job Description System", "isCorrect": false },
+        { "text": "C. Payroll System", "isCorrect": false },
+        { "text": "D. Quality Control System", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pekerjaan berisiko tinggi tidak boleh dimulai tanpa ijin kerja yang sah?",
+      "explanation": "Tanpa ijin kerja, bahaya belum tentu teridentifikasi dan pengendalian belum terverifikasi sehingga risiko kecelakaan meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Karena akan menambah waktu istirahat", "isCorrect": false },
+        { "text": "B. Karena bahaya belum terverifikasi dan pengendalian belum dipastikan", "isCorrect": true },
+        { "text": "C. Karena pekerja belum digaji", "isCorrect": false },
+        { "text": "D. Karena alat belum dibeli", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ijin kerja membantu memastikan adanya hal berikut sebelum pekerjaan dimulai, kecuali?",
+      "explanation": "Ijin kerja memastikan identifikasi bahaya, pengendalian, dan otorisasi, namun tidak menjamin penambahan upah pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Identifikasi bahaya telah dilakukan", "isCorrect": false },
+        { "text": "B. Pengendalian telah disiapkan", "isCorrect": false },
+        { "text": "C. Otorisasi telah diberikan", "isCorrect": false },
+        { "text": "D. Kenaikan upah pekerja terjamin", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Ijin kerja panas (hot work permit) diperlukan untuk pekerjaan yang menimbulkan?",
+      "explanation": "Hot work permit diperlukan untuk pekerjaan yang menghasilkan panas, percikan api, atau nyala api seperti pengelasan, gerinda, dan pemotongan logam.",
+      "difficulty": "EASY",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Suara bising berlebih", "isCorrect": false },
+        { "text": "B. Sumber panas, percikan api, atau nyala api", "isCorrect": true },
+        { "text": "C. Pencahayaan rendah", "isCorrect": false },
+        { "text": "D. Getaran mekanis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan pengelasan pipa di SPBU paling tepat menggunakan jenis ijin kerja?",
+      "explanation": "Pengelasan menghasilkan nyala api dan percikan, sehingga membutuhkan ijin kerja panas (hot work permit), apalagi di area berbahaya kebakaran seperti SPBU.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Cold work permit", "isCorrect": false },
+        { "text": "B. Hot work permit (ijin kerja panas)", "isCorrect": true },
+        { "text": "C. Ijin kerja administrasi", "isCorrect": false },
+        { "text": "D. Ijin masuk kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ijin kerja untuk masuk ruang terbatas disebut?",
+      "explanation": "Confined space entry permit diperlukan untuk masuk ruang terbatas seperti tangki, ketel uap, atau silo yang berventilasi terbatas.",
+      "difficulty": "EASY",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Confined space entry permit", "isCorrect": true },
+        { "text": "B. Hot work permit", "isCorrect": false },
+        { "text": "C. Excavation permit", "isCorrect": false },
+        { "text": "D. Electrical permit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan pembersihan ketel uap (boiler) paling tepat memakai jenis ijin kerja?",
+      "explanation": "Pembersihan ketel uap berarti masuk ke ruang terbatas, sehingga membutuhkan ijin kerja ruang terbatas (confined space entry permit).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Ijin kerja di ketinggian", "isCorrect": false },
+        { "text": "B. Ijin kerja ruang terbatas (confined space)", "isCorrect": true },
+        { "text": "C. Ijin kerja penggalian", "isCorrect": false },
+        { "text": "D. Ijin kerja dingin biasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan pembersihan kaca gedung bertingkat memerlukan jenis ijin kerja?",
+      "explanation": "Pekerjaan di atas ketinggian tertentu (umumnya >1,8 m) memerlukan ijin kerja di ketinggian (working at height permit).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Ijin kerja di ketinggian (working at height)", "isCorrect": true },
+        { "text": "B. Ijin kerja panas", "isCorrect": false },
+        { "text": "C. Ijin kerja penggalian", "isCorrect": false },
+        { "text": "D. Ijin kerja ruang terbatas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan pemasangan instalasi listrik tegangan tinggi memerlukan jenis ijin kerja?",
+      "explanation": "Pekerjaan pada instalasi listrik bertegangan memerlukan ijin kerja listrik (electrical work permit) untuk memastikan isolasi energi dan LOTO.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Ijin kerja panas", "isCorrect": false },
+        { "text": "B. Ijin kerja listrik (electrical work permit)", "isCorrect": true },
+        { "text": "C. Ijin kerja penggalian", "isCorrect": false },
+        { "text": "D. Ijin kerja dingin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan penggalian dan instalasi pipa bawah tanah memerlukan jenis ijin kerja?",
+      "explanation": "Pekerjaan penggalian memerlukan excavation permit (ijin kerja penggalian) karena risiko longsor, utilitas bawah tanah, dan ruang terbatas.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Ijin kerja penggalian (excavation permit)", "isCorrect": true },
+        { "text": "B. Ijin kerja panas", "isCorrect": false },
+        { "text": "C. Ijin kerja ketinggian", "isCorrect": false },
+        { "text": "D. Ijin kerja listrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ijin kerja dingin (cold work permit) diberikan untuk pekerjaan yang?",
+      "explanation": "Cold work permit diberikan untuk pekerjaan yang tidak menghasilkan sumber panas/nyala api namun tetap berisiko, seperti pekerjaan mekanik tanpa percikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Menghasilkan banyak percikan api", "isCorrect": false },
+        { "text": "B. Tidak menghasilkan sumber panas atau nyala api", "isCorrect": true },
+        { "text": "C. Selalu di ruang terbatas", "isCorrect": false },
+        { "text": "D. Hanya dilakukan malam hari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh pekerjaan yang termasuk hot work adalah?",
+      "explanation": "Hot work meliputi pengelasan, pemotongan dengan gerinda, brazing, dan pekerjaan lain yang menimbulkan panas atau percikan api.",
+      "difficulty": "EASY",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Menyapu lantai", "isCorrect": false },
+        { "text": "B. Pengelasan dan pemotongan logam dengan gerinda", "isCorrect": true },
+        { "text": "C. Mengetik laporan", "isCorrect": false },
+        { "text": "D. Menyusun arsip", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ijin kerja yang mengatur isolasi sumber energi berbahaya (mekanik, listrik, hidrolik) sering dikaitkan dengan prosedur?",
+      "explanation": "Pekerjaan dengan isolasi energi dikaitkan dengan prosedur LOTO (Lockout-Tagout) untuk memastikan sumber energi terkunci dan diberi label sebelum dikerjakan.",
+      "difficulty": "HARD",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. LOTO (Lockout-Tagout)", "isCorrect": true },
+        { "text": "B. JSA", "isCorrect": false },
+        { "text": "C. MSDS", "isCorrect": false },
+        { "text": "D. SOP produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa satu pekerjaan kompleks bisa memerlukan lebih dari satu jenis ijin kerja?",
+      "explanation": "Pekerjaan kompleks dapat mengandung beberapa bahaya sekaligus (misalnya panas dan ruang terbatas) sehingga memerlukan beberapa jenis ijin kerja yang relevan.",
+      "difficulty": "HARD",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Karena pekerja ingin lembur", "isCorrect": false },
+        { "text": "B. Karena pekerjaan mengandung beberapa bahaya sekaligus", "isCorrect": true },
+        { "text": "C. Karena formulir mudah hilang", "isCorrect": false },
+        { "text": "D. Karena pengawas ingin banyak tanda tangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengelasan di dalam tangki timbun BBM memerlukan kombinasi ijin kerja?",
+      "explanation": "Pengelasan dalam tangki memerlukan kombinasi hot work permit (panas) dan confined space entry permit (ruang terbatas) karena ada dua bahaya utama.",
+      "difficulty": "HARD",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Hot work permit dan confined space entry permit", "isCorrect": true },
+        { "text": "B. Excavation permit dan electrical permit", "isCorrect": false },
+        { "text": "C. Hanya ijin masuk kantor", "isCorrect": false },
+        { "text": "D. Hanya cold work permit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen identitas pekerjaan yang wajib ada pada formulir ijin kerja adalah?",
+      "explanation": "Formulir ijin kerja minimal memuat jenis ijin, lokasi pekerjaan, tanggal pelaksanaan, dan deskripsi pekerjaan agar jelas konteksnya.",
+      "difficulty": "EASY",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Nomor rekening perusahaan", "isCorrect": false },
+        { "text": "B. Jenis ijin, lokasi, tanggal, dan deskripsi pekerjaan", "isCorrect": true },
+        { "text": "C. Daftar menu makan siang", "isCorrect": false },
+        { "text": "D. Logo perusahaan saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Informasi waktu yang harus dicantumkan pada formulir ijin kerja adalah?",
+      "explanation": "Formulir ijin kerja mencantumkan waktu mulai dan waktu selesai pekerjaan agar masa berlaku ijin jelas.",
+      "difficulty": "EASY",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Waktu mulai dan selesai pekerjaan", "isCorrect": true },
+        { "text": "B. Waktu istirahat makan siang", "isCorrect": false },
+        { "text": "C. Jam buka kantin", "isCorrect": false },
+        { "text": "D. Jadwal kereta pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Data personil dalam formulir ijin kerja berfungsi untuk?",
+      "explanation": "Data personil mencatat siapa saja yang terlibat dan bertanggung jawab dalam pekerjaan, memudahkan koordinasi dan penelusuran tanggung jawab.",
+      "difficulty": "MEDIUM",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Menghitung gaji pekerja", "isCorrect": false },
+        { "text": "B. Mengetahui pihak yang terlibat dan bertanggung jawab atas pekerjaan", "isCorrect": true },
+        { "text": "C. Menentukan jam pulang", "isCorrect": false },
+        { "text": "D. Mendata kendaraan pribadi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian formulir ijin kerja yang mendaftar potensi bahaya dari pekerjaan disebut?",
+      "explanation": "Bagian identifikasi bahaya memuat daftar potensi bahaya yang mungkin timbul selama pekerjaan berlangsung.",
+      "difficulty": "EASY",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Identifikasi bahaya", "isCorrect": true },
+        { "text": "B. Deskripsi gaji", "isCorrect": false },
+        { "text": "C. Daftar inventaris", "isCorrect": false },
+        { "text": "D. Notulen rapat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ketentuan praktik, formulir ijin kerja dikumpulkan dalam format dan jumlah halaman?",
+      "explanation": "Formulir ijin kerja diketik dan dikumpulkan dalam format PDF sebanyak 1-2 halaman.",
+      "difficulty": "MEDIUM",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Tulisan tangan 5 halaman", "isCorrect": false },
+        { "text": "B. Format PDF 1-2 halaman", "isCorrect": true },
+        { "text": "C. Format video", "isCorrect": false },
+        { "text": "D. Hanya catatan lisan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian yang menyatakan tindakan untuk mengurangi risiko pada formulir ijin kerja disebut?",
+      "explanation": "Bagian pengendalian memuat tindakan yang harus dilakukan untuk mengendalikan/mengurangi risiko bahaya yang telah diidentifikasi.",
+      "difficulty": "EASY",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Pengendalian", "isCorrect": true },
+        { "text": "B. Daftar hadir", "isCorrect": false },
+        { "text": "C. Anggaran biaya", "isCorrect": false },
+        { "text": "D. Foto dokumentasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen formulir ijin kerja yang menunjukkan persetujuan untuk memulai pekerjaan adalah?",
+      "explanation": "Bagian otorisasi/persetujuan memuat tanda tangan pihak berwenang yang menyetujui pekerjaan boleh dimulai.",
+      "difficulty": "EASY",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Otorisasi/persetujuan", "isCorrect": true },
+        { "text": "B. Deskripsi pekerjaan", "isCorrect": false },
+        { "text": "C. Lokasi pekerjaan", "isCorrect": false },
+        { "text": "D. Tanggal pelaksanaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian yang menandai bahwa pekerjaan telah selesai dan area aman kembali disebut?",
+      "explanation": "Bagian penutupan ijin kerja menandai pekerjaan telah selesai, area dirapikan, dan ijin ditutup secara formal.",
+      "difficulty": "EASY",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Penutupan ijin kerja", "isCorrect": true },
+        { "text": "B. Pembukaan ijin kerja", "isCorrect": false },
+        { "text": "C. Identifikasi bahaya", "isCorrect": false },
+        { "text": "D. Data personil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN termasuk isi minimal formulir ijin kerja sesuai ketentuan praktik?",
+      "explanation": "Isi minimal mencakup jenis ijin, lokasi, tanggal, deskripsi, waktu, personil, identifikasi bahaya, pengendalian, otorisasi, dan penutupan; daftar gaji tidak termasuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Identifikasi bahaya", "isCorrect": false },
+        { "text": "B. Otorisasi/persetujuan", "isCorrect": false },
+        { "text": "C. Daftar gaji pekerja", "isCorrect": true },
+        { "text": "D. Penutupan ijin kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa lokasi pekerjaan harus dicantumkan secara spesifik pada ijin kerja?",
+      "explanation": "Lokasi spesifik memastikan pengendalian sesuai kondisi tempat dan memudahkan pengawasan serta tanggap darurat di titik yang tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Agar pekerja mudah pulang", "isCorrect": false },
+        { "text": "B. Agar pengendalian sesuai kondisi tempat dan memudahkan pengawasan", "isCorrect": true },
+        { "text": "C. Agar perusahaan menghemat kertas", "isCorrect": false },
+        { "text": "D. Agar pekerjaan lebih lama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deskripsi pekerjaan pada formulir ijin kerja sebaiknya ditulis secara?",
+      "explanation": "Deskripsi pekerjaan harus jelas dan rinci agar bahaya dapat diidentifikasi tepat dan pengendalian sesuai dengan aktivitas yang akan dilakukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Singkat tanpa konteks", "isCorrect": false },
+        { "text": "B. Jelas dan rinci sesuai aktivitas yang dilakukan", "isCorrect": true },
+        { "text": "C. Dalam bahasa asing yang tidak dipahami pekerja", "isCorrect": false },
+        { "text": "D. Disamarkan agar tidak diketahui", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan mencantumkan tanggal pelaksanaan pada ijin kerja adalah?",
+      "explanation": "Tanggal pelaksanaan menetapkan kapan ijin berlaku dan membantu memastikan ijin tidak digunakan di luar masa berlakunya.",
+      "difficulty": "MEDIUM",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Menentukan masa berlaku ijin", "isCorrect": true },
+        { "text": "B. Menghitung lembur", "isCorrect": false },
+        { "text": "C. Menetapkan hari libur", "isCorrect": false },
+        { "text": "D. Mencatat ulang tahun pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah pertama dalam mengisi bagian identifikasi bahaya pada ijin kerja adalah?",
+      "explanation": "Langkah awal adalah mengenali potensi bahaya yang ada pada setiap tahap pekerjaan sebelum menentukan pengendaliannya.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Menandatangani penutupan", "isCorrect": false },
+        { "text": "B. Mengenali potensi bahaya pada tiap tahap pekerjaan", "isCorrect": true },
+        { "text": "C. Membayar pekerja", "isCorrect": false },
+        { "text": "D. Membeli APD baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan panas (hot work), bahaya utama yang harus diidentifikasi adalah?",
+      "explanation": "Bahaya utama hot work adalah kebakaran dan ledakan akibat percikan api yang mengenai bahan mudah terbakar di sekitar lokasi kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Kebakaran dan ledakan", "isCorrect": true },
+        { "text": "B. Kebisingan rendah", "isCorrect": false },
+        { "text": "C. Kelembapan tinggi", "isCorrect": false },
+        { "text": "D. Pencahayaan berlebih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian yang tepat untuk pekerjaan panas di area mudah terbakar adalah?",
+      "explanation": "Pengendalian hot work meliputi menyediakan APAR/fire watcher, membersihkan area dari bahan mudah terbakar, dan memastikan tidak ada gas mudah meledak.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Menambah jumlah pekerja saja", "isCorrect": false },
+        { "text": "B. Menyediakan APAR/fire watcher dan membersihkan bahan mudah terbakar", "isCorrect": true },
+        { "text": "C. Mematikan lampu ruangan", "isCorrect": false },
+        { "text": "D. Membuka semua jendela tanpa pengukuran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebelum memasuki ruang terbatas, pengendalian yang wajib dilakukan adalah?",
+      "explanation": "Pengujian gas (gas test) untuk memastikan kadar oksigen cukup dan tidak ada gas beracun/mudah terbakar wajib dilakukan sebelum masuk ruang terbatas.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Pengujian kadar gas dan oksigen (gas test)", "isCorrect": true },
+        { "text": "B. Mengecat dinding ruangan", "isCorrect": false },
+        { "text": "C. Memasang lampu hias", "isCorrect": false },
+        { "text": "D. Menambah suhu ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian utama pada pekerjaan listrik bertegangan adalah?",
+      "explanation": "Pengendalian utama pekerjaan listrik adalah isolasi sumber energi dengan LOTO (lockout-tagout) sehingga peralatan tidak dapat dialiri arus saat dikerjakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Mengandalkan sarung tangan kain biasa", "isCorrect": false },
+        { "text": "B. Isolasi sumber energi dengan LOTO", "isCorrect": true },
+        { "text": "C. Bekerja di malam hari", "isCorrect": false },
+        { "text": "D. Mengabaikan grounding", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan di ketinggian, pengendalian utama bahaya jatuh adalah?",
+      "explanation": "Pengendalian utama bahaya jatuh adalah penggunaan body harness yang dikaitkan ke anchor point yang kuat serta pemasangan pagar/jaring pengaman.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Sepatu biasa tanpa pengaman", "isCorrect": false },
+        { "text": "B. Full body harness yang dikaitkan ke anchor point", "isCorrect": true },
+        { "text": "C. Topi anyaman", "isCorrect": false },
+        { "text": "D. Kacamata hitam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan penggalian, bahaya utama yang harus dikendalikan adalah?",
+      "explanation": "Bahaya utama penggalian adalah longsoran dinding galian, sehingga perlu shoring/sloping dan pemeriksaan utilitas bawah tanah.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Longsoran dinding galian", "isCorrect": true },
+        { "text": "B. Kebisingan tinggi", "isCorrect": false },
+        { "text": "C. Pencahayaan kurang", "isCorrect": false },
+        { "text": "D. Kelebihan ventilasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hierarki pengendalian yang menjadi acuan dalam mengisi bagian pengendalian ijin kerja adalah?",
+      "explanation": "Hierarki pengendalian yang diacu adalah eliminasi, substitusi, rekayasa teknik, administratif, dan APD secara berurutan dari yang paling efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. APD, administratif, rekayasa, substitusi, eliminasi", "isCorrect": false },
+        { "text": "B. Eliminasi, substitusi, rekayasa teknik, administratif, APD", "isCorrect": true },
+        { "text": "C. Rekayasa, eliminasi, APD, substitusi, administratif", "isCorrect": false },
+        { "text": "D. Substitusi, APD, eliminasi, rekayasa, administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APD merupakan pengendalian yang ditempatkan pada bagian ijin kerja sebagai?",
+      "explanation": "APD adalah pengendalian terakhir (lapisan pertahanan terakhir) yang dipakai setelah pengendalian lain dilakukan, bukan satu-satunya pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Pengendalian pertama dan utama", "isCorrect": false },
+        { "text": "B. Lapisan pertahanan terakhir setelah pengendalian lain", "isCorrect": true },
+        { "text": "C. Pengganti seluruh pengendalian lain", "isCorrect": false },
+        { "text": "D. Pengendalian yang boleh diabaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dokumen yang sering dilampirkan untuk mendukung identifikasi bahaya pada ijin kerja adalah?",
+      "explanation": "JSA (Job Safety Analysis) sering dilampirkan karena menguraikan langkah kerja, bahaya, dan pengendalian secara rinci untuk mendukung ijin kerja.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. JSA (Job Safety Analysis)", "isCorrect": true },
+        { "text": "B. Slip gaji", "isCorrect": false },
+        { "text": "C. Brosur produk", "isCorrect": false },
+        { "text": "D. Daftar belanja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk pekerjaan dengan bahan kimia, dokumen rujukan bahaya yang relevan adalah?",
+      "explanation": "MSDS/SDS (Material/Safety Data Sheet) memberikan informasi bahaya dan penanganan bahan kimia yang relevan untuk identifikasi bahaya pada ijin kerja.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. MSDS/SDS bahan kimia", "isCorrect": true },
+        { "text": "B. Katalog seragam", "isCorrect": false },
+        { "text": "C. Buku menu", "isCorrect": false },
+        { "text": "D. Jadwal piket", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pengendalian harus disiapkan dan diverifikasi SEBELUM pekerjaan dimulai?",
+      "explanation": "Pengendalian disiapkan lebih dulu agar risiko sudah ditekan sejak awal; jika menunggu kecelakaan terjadi, pengendalian menjadi terlambat.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Agar pekerjaan terlihat sibuk", "isCorrect": false },
+        { "text": "B. Agar risiko sudah ditekan sejak awal sebelum bahaya terjadi", "isCorrect": true },
+        { "text": "C. Agar formulir terlihat penuh", "isCorrect": false },
+        { "text": "D. Agar pekerja lelah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pembersihan kaca gedung bertingkat, pengendalian tambahan terhadap cuaca yang penting adalah?",
+      "explanation": "Pekerjaan di ketinggian harus dihentikan saat angin kencang atau hujan/petir karena meningkatkan risiko jatuh, sehingga pemantauan cuaca menjadi pengendalian penting.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Menghentikan pekerjaan saat angin kencang atau cuaca buruk", "isCorrect": true },
+        { "text": "B. Bekerja lebih cepat saat hujan", "isCorrect": false },
+        { "text": "C. Mengabaikan ramalan cuaca", "isCorrect": false },
+        { "text": "D. Menambah beban di gondola", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa yang umumnya berwenang menandatangani persetujuan (otorisasi) ijin kerja?",
+      "explanation": "Otorisasi ijin kerja umumnya diberikan oleh pihak berwenang seperti pengawas, petugas HSE, atau pemberi ijin (permit issuer) yang kompeten.",
+      "difficulty": "EASY",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Pengunjung umum", "isCorrect": false },
+        { "text": "B. Pengawas/HSE/pemberi ijin yang berwenang", "isCorrect": true },
+        { "text": "C. Sopir kantin", "isCorrect": false },
+        { "text": "D. Siapa saja tanpa kompetensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pihak yang mengajukan ijin kerja dan akan melaksanakan pekerjaan disebut?",
+      "explanation": "Pelaksana/penerima ijin (permit holder/receiver) adalah pihak yang mengajukan dan bertanggung jawab melaksanakan pekerjaan sesuai ijin.",
+      "difficulty": "MEDIUM",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Permit issuer", "isCorrect": false },
+        { "text": "B. Pelaksana/penerima ijin (permit holder)", "isCorrect": true },
+        { "text": "C. Auditor eksternal", "isCorrect": false },
+        { "text": "D. Tamu perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pihak yang memeriksa pengendalian dan menerbitkan ijin kerja disebut?",
+      "explanation": "Pemberi ijin (permit issuer/authorizer) memverifikasi pengendalian telah memadai dan menerbitkan/menyetujui ijin kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Pemberi ijin (permit issuer)", "isCorrect": true },
+        { "text": "B. Pekerja baru", "isCorrect": false },
+        { "text": "C. Petugas kebersihan", "isCorrect": false },
+        { "text": "D. Pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otorisasi ijin kerja harus diberikan pada saat?",
+      "explanation": "Otorisasi diberikan sebelum pekerjaan dimulai, setelah pengendalian diverifikasi memadai, bukan setelah pekerjaan berlangsung.",
+      "difficulty": "EASY",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Setelah pekerjaan selesai", "isCorrect": false },
+        { "text": "B. Sebelum pekerjaan dimulai", "isCorrect": true },
+        { "text": "C. Saat terjadi kecelakaan", "isCorrect": false },
+        { "text": "D. Kapan saja sesuka pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa otorisasi ijin kerja sebaiknya dilakukan oleh orang yang kompeten/berwenang?",
+      "explanation": "Orang berwenang memahami bahaya dan pengendalian sehingga mampu menilai apakah pekerjaan layak dan aman untuk dimulai.",
+      "difficulty": "MEDIUM",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Agar tanda tangan terlihat rapi", "isCorrect": false },
+        { "text": "B. Agar penilaian kelayakan dan keamanan pekerjaan dapat dipertanggungjawabkan", "isCorrect": true },
+        { "text": "C. Agar pekerjaan lebih lama", "isCorrect": false },
+        { "text": "D. Agar formulir penuh tanda tangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam simulasi pekerjaan berisiko tinggi, peran yang memastikan pekerjaan sesuai JSA dan mencatat hasil observasi adalah?",
+      "explanation": "Pengawas memastikan pekerjaan dilaksanakan sesuai JSA dan mencatat hasil observasinya pada formulir JSO.",
+      "difficulty": "MEDIUM",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Pengawas", "isCorrect": true },
+        { "text": "B. Tamu", "isCorrect": false },
+        { "text": "C. Sopir", "isCorrect": false },
+        { "text": "D. Petugas kebersihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peran yang umumnya bertanggung jawab atas aspek keselamatan secara keseluruhan dalam simulasi pekerjaan adalah?",
+      "explanation": "Petugas HSE (Health, Safety, Environment) bertanggung jawab memastikan aspek keselamatan dipatuhi selama pekerjaan dilaksanakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Petugas HSE", "isCorrect": true },
+        { "text": "B. Penjaga parkir", "isCorrect": false },
+        { "text": "C. Resepsionis", "isCorrect": false },
+        { "text": "D. Kasir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam pembagian peran simulasi ijin kerja, manajer umumnya berperan sebagai?",
+      "explanation": "Manajer berperan dalam pengambilan keputusan tingkat tinggi dan penyediaan sumber daya, serta sering memberi persetujuan akhir untuk pekerjaan berisiko tinggi.",
+      "difficulty": "HARD",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Pengambil keputusan dan pemberi persetujuan tingkat tinggi", "isCorrect": true },
+        { "text": "B. Pembersih lantai", "isCorrect": false },
+        { "text": "C. Pengantar makanan", "isCorrect": false },
+        { "text": "D. Penjaga gerbang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa ijin kerja sebaiknya memiliki beberapa tanda tangan dari pihak berbeda?",
+      "explanation": "Beberapa tanda tangan memastikan adanya cek silang (verifikasi berlapis) dari pelaksana, pengawas, dan pemberi ijin sehingga keselamatan lebih terjamin.",
+      "difficulty": "MEDIUM",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Untuk memperlambat pekerjaan", "isCorrect": false },
+        { "text": "B. Untuk verifikasi berlapis dari pihak yang berbeda", "isCorrect": true },
+        { "text": "C. Untuk memenuhi kuota kertas", "isCorrect": false },
+        { "text": "D. Agar formulir terlihat resmi tanpa tujuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila kondisi di lapangan berubah dan menjadi tidak aman, pihak berwenang dapat?",
+      "explanation": "Pihak berwenang dapat membatalkan/menangguhkan ijin kerja dan menghentikan pekerjaan jika kondisi berubah menjadi tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Membiarkan pekerjaan terus berjalan", "isCorrect": false },
+        { "text": "B. Membatalkan/menangguhkan ijin dan menghentikan pekerjaan", "isCorrect": true },
+        { "text": "C. Mengabaikan perubahan kondisi", "isCorrect": false },
+        { "text": "D. Menambah pekerja tanpa evaluasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Masa berlaku ijin kerja umumnya dibatasi sampai?",
+      "explanation": "Ijin kerja umumnya berlaku untuk satu shift atau jangka waktu tertentu, dan harus diperbarui/divalidasi ulang jika pekerjaan berlanjut ke shift berikutnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Satu shift atau jangka waktu tertentu", "isCorrect": true },
+        { "text": "B. Selamanya tanpa batas", "isCorrect": false },
+        { "text": "C. Satu tahun penuh", "isCorrect": false },
+        { "text": "D. Tidak ada batas waktu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika pekerjaan belum selesai hingga masa berlaku ijin habis, maka?",
+      "explanation": "Bila masa berlaku habis dan pekerjaan belum selesai, ijin harus divalidasi ulang/diperpanjang dengan persetujuan baru sebelum pekerjaan dilanjutkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Pekerjaan langsung dilanjutkan tanpa pembaruan", "isCorrect": false },
+        { "text": "B. Ijin harus divalidasi ulang atau diperpanjang dengan persetujuan baru", "isCorrect": true },
+        { "text": "C. Ijin dibuang dan diabaikan", "isCorrect": false },
+        { "text": "D. Pekerja boleh pulang tanpa lapor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penutupan ijin kerja dilakukan setelah?",
+      "explanation": "Penutupan ijin kerja dilakukan setelah pekerjaan selesai, area dirapikan dan diperiksa aman, serta alat/material dikembalikan.",
+      "difficulty": "EASY",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Pekerjaan baru akan dimulai", "isCorrect": false },
+        { "text": "B. Pekerjaan selesai dan area diperiksa aman", "isCorrect": true },
+        { "text": "C. Pekerja istirahat makan", "isCorrect": false },
+        { "text": "D. Ijin diterbitkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu hal yang diperiksa saat penutupan ijin kerja adalah?",
+      "explanation": "Saat penutupan diperiksa bahwa area kerja telah bersih, aman, peralatan dikembalikan, dan tidak ada sisa bahaya seperti percikan api atau sumber energi aktif.",
+      "difficulty": "MEDIUM",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Jumlah uang lembur", "isCorrect": false },
+        { "text": "B. Area kerja bersih, aman, dan bebas sisa bahaya", "isCorrect": true },
+        { "text": "C. Menu makan siang pekerja", "isCorrect": false },
+        { "text": "D. Warna seragam pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penutupan ijin kerja ditandatangani oleh?",
+      "explanation": "Penutupan ijin kerja ditandatangani oleh pelaksana dan pemberi ijin/pengawas sebagai bukti pekerjaan selesai dan area dinyatakan aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Pelaksana dan pemberi ijin/pengawas", "isCorrect": true },
+        { "text": "B. Pengunjung kantin", "isCorrect": false },
+        { "text": "C. Pekerja yang tidak terlibat", "isCorrect": false },
+        { "text": "D. Tidak perlu siapa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan formal penutupan ijin kerja adalah?",
+      "explanation": "Penutupan formal memastikan pekerjaan benar-benar selesai, area dikembalikan ke kondisi aman, dan ijin tidak lagi berlaku untuk pekerjaan tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Memperpanjang masa kerja tanpa batas", "isCorrect": false },
+        { "text": "B. Memastikan pekerjaan selesai dan area kembali aman", "isCorrect": true },
+        { "text": "C. Menambah tugas baru otomatis", "isCorrect": false },
+        { "text": "D. Menghapus tanggung jawab pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika ijin kerja tidak ditutup secara formal, risiko yang dapat timbul adalah?",
+      "explanation": "Ijin yang tidak ditutup dapat menimbulkan kebingungan status pekerjaan, sisa bahaya yang tidak teratasi, dan kesalahan akses ke area yang masih berbahaya.",
+      "difficulty": "HARD",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Tidak ada risiko apa pun", "isCorrect": false },
+        { "text": "B. Sisa bahaya tak teratasi dan status pekerjaan tidak jelas", "isCorrect": true },
+        { "text": "C. Pekerja otomatis mendapat bonus", "isCorrect": false },
+        { "text": "D. Area langsung steril sendiri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dokumen ijin kerja yang sudah ditutup sebaiknya?",
+      "explanation": "Ijin kerja yang sudah ditutup sebaiknya diarsipkan/didokumentasikan sebagai catatan dan bahan evaluasi serta audit K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Langsung dibuang", "isCorrect": false },
+        { "text": "B. Diarsipkan untuk catatan, evaluasi, dan audit", "isCorrect": true },
+        { "text": "C. Dibakar di lokasi kerja", "isCorrect": false },
+        { "text": "D. Disembunyikan dari auditor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa masa berlaku ijin kerja dibatasi waktu tertentu?",
+      "explanation": "Pembatasan waktu memastikan kondisi pengendalian dievaluasi ulang secara berkala karena kondisi lapangan dapat berubah seiring waktu.",
+      "difficulty": "HARD",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Agar pekerja cepat pulang", "isCorrect": false },
+        { "text": "B. Agar kondisi pengendalian dievaluasi ulang secara berkala", "isCorrect": true },
+        { "text": "C. Agar formulir cepat habis", "isCorrect": false },
+        { "text": "D. Tanpa alasan tertentu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebelum pekerjaan dimulai, JSA wajib disosialisasikan kepada pekerja melalui?",
+      "explanation": "JSA wajib disosialisasikan melalui safety briefing kepada pekerja sebelum melaksanakan pekerjaan agar semua memahami bahaya dan pengendaliannya.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Pengumuman lewat email tanpa penjelasan", "isCorrect": false },
+        { "text": "B. Safety briefing", "isCorrect": true },
+        { "text": "C. Surat resmi setelah pekerjaan", "isCorrect": false },
+        { "text": "D. Diam saja tanpa komunikasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan komunikasi risiko kepada pekerja sebelum pekerjaan adalah?",
+      "explanation": "Komunikasi risiko bertujuan memastikan setiap pekerja memahami bahaya, pengendalian, dan perannya sehingga pekerjaan dilaksanakan dengan aman.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Agar pekerja memahami bahaya dan pengendalian", "isCorrect": true },
+        { "text": "B. Agar pekerjaan lebih lama selesai", "isCorrect": false },
+        { "text": "C. Agar pekerja merasa takut bekerja", "isCorrect": false },
+        { "text": "D. Agar formulir terisi penuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik, setelah menyusun formulir ijin kerja, pertemuan berikutnya mahasiswa melakukan?",
+      "explanation": "Pada pertemuan selanjutnya mahasiswa melakukan simulasi ijin kerja dan komunikasi risiko kepada pekerja sesuai formulir yang telah disusun.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Libur tanpa kegiatan", "isCorrect": false },
+        { "text": "B. Simulasi ijin kerja dan komunikasi risiko kepada pekerja", "isCorrect": true },
+        { "text": "C. Mengulang materi sebelumnya tanpa praktik", "isCorrect": false },
+        { "text": "D. Ujian tertulis individu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam simulasi pelaksanaan pekerjaan berisiko tinggi, tim wajib menggunakan?",
+      "explanation": "Tim simulasi wajib menggunakan APD lengkap yang telah tersedia di laboratorium sesuai jenis pekerjaan yang disimulasikan.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Pakaian bebas tanpa APD", "isCorrect": false },
+        { "text": "B. APD lengkap sesuai jenis pekerjaan", "isCorrect": true },
+        { "text": "C. Hanya topi biasa", "isCorrect": false },
+        { "text": "D. Tidak perlu perlengkapan apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komunikasi risiko yang efektif kepada pekerja sebaiknya menggunakan bahasa yang?",
+      "explanation": "Komunikasi risiko harus menggunakan bahasa yang sederhana dan dipahami pekerja agar pesan keselamatan tersampaikan dengan benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Rumit dan teknis berlebihan", "isCorrect": false },
+        { "text": "B. Sederhana dan mudah dipahami pekerja", "isCorrect": true },
+        { "text": "C. Asing dan tidak familiar", "isCorrect": false },
+        { "text": "D. Sengaja membingungkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada simulasi, dokumen yang digunakan pengawas untuk mencatat hasil pengamatan pelaksanaan adalah?",
+      "explanation": "Pengawas mencatat hasil observasinya pada formulir JSO (Job Safety Observation) untuk memastikan pekerjaan sesuai JSA dan ijin kerja.",
+      "difficulty": "HARD",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Formulir JSO (Job Safety Observation)", "isCorrect": true },
+        { "text": "B. Buku tabungan", "isCorrect": false },
+        { "text": "C. Daftar belanja", "isCorrect": false },
+        { "text": "D. Brosur produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat melibatkan pekerja dalam komunikasi risiko sebelum pekerjaan adalah?",
+      "explanation": "Melibatkan pekerja meningkatkan kesadaran, kepatuhan, dan kesempatan pekerja menyampaikan masukan tentang bahaya yang mungkin terlewat.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Mengurangi kesadaran pekerja", "isCorrect": false },
+        { "text": "B. Meningkatkan kesadaran, kepatuhan, dan masukan dari pekerja", "isCorrect": true },
+        { "text": "C. Membuat pekerja bingung", "isCorrect": false },
+        { "text": "D. Menghapus tanggung jawab pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ijin kerja yang baik harus mudah dipahami oleh pelaksana karena?",
+      "explanation": "Ijin kerja harus mudah dipahami agar pengendalian dan instruksi keselamatan dapat dilaksanakan dengan benar oleh pelaksana di lapangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Agar terlihat panjang", "isCorrect": false },
+        { "text": "B. Agar pengendalian dan instruksi dapat dilaksanakan dengan benar", "isCorrect": true },
+        { "text": "C. Agar pekerja tidak membacanya", "isCorrect": false },
+        { "text": "D. Agar formulir terlihat resmi saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem ijin kerja berkaitan erat dengan dokumen penilaian risiko karena?",
+      "explanation": "Ijin kerja mengandalkan hasil identifikasi bahaya dan penilaian risiko (misalnya JSA/HIRADC) untuk menentukan pengendalian yang dicantumkan.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Keduanya tidak berhubungan", "isCorrect": false },
+        { "text": "B. Ijin kerja mengandalkan hasil identifikasi bahaya dan penilaian risiko", "isCorrect": true },
+        { "text": "C. Ijin kerja menggantikan penilaian risiko", "isCorrect": false },
+        { "text": "D. Penilaian risiko hanya untuk pajak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan pengelasan pipa di SPBU, pengendalian penting terhadap uap BBM adalah?",
+      "explanation": "Perlu memastikan area bebas uap mudah terbakar melalui pengukuran gas dan ventilasi sebelum melakukan pengelasan agar tidak terjadi ledakan.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Memastikan area bebas uap mudah terbakar melalui gas test dan ventilasi", "isCorrect": true },
+        { "text": "B. Menambah jumlah pengelasan sekaligus", "isCorrect": false },
+        { "text": "C. Mematikan APAR agar tidak menghalangi", "isCorrect": false },
+        { "text": "D. Mengabaikan pengukuran gas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fire watcher pada pekerjaan panas bertugas untuk?",
+      "explanation": "Fire watcher mengawasi area kerja panas untuk mendeteksi dan memadamkan api dini, serta menjaga setelah pekerjaan selesai selama periode tertentu.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Mengawasi dan memadamkan api dini di area kerja panas", "isCorrect": true },
+        { "text": "B. Mengelas pipa bersama pekerja", "isCorrect": false },
+        { "text": "C. Mengatur lalu lintas kantin", "isCorrect": false },
+        { "text": "D. Mengisi daftar hadir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan ruang terbatas, peran yang berjaga di luar untuk komunikasi dan tanggap darurat disebut?",
+      "explanation": "Attendant/penjaga lubang (hole watcher) berjaga di luar ruang terbatas untuk menjaga komunikasi dengan pekerja dan menyiagakan tanggap darurat.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Attendant/penjaga ruang terbatas", "isCorrect": true },
+        { "text": "B. Tukang parkir", "isCorrect": false },
+        { "text": "C. Resepsionis", "isCorrect": false },
+        { "text": "D. Tamu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama LOTO (Lockout-Tagout) dalam ijin kerja listrik adalah?",
+      "explanation": "LOTO memastikan sumber energi terkunci (lockout) dan diberi label peringatan (tagout) sehingga tidak dapat diaktifkan secara tidak sengaja saat dikerjakan.",
+      "difficulty": "HARD",
+      "tag": "Jenis-Jenis Ijin Kerja",
+      "options": [
+        { "text": "A. Mengunci dan menandai sumber energi agar tidak aktif saat dikerjakan", "isCorrect": true },
+        { "text": "B. Menambah tegangan listrik", "isCorrect": false },
+        { "text": "C. Mempercepat aliran arus", "isCorrect": false },
+        { "text": "D. Mematikan lampu kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hubungan ijin kerja dan APD adalah?",
+      "explanation": "APD dicantumkan dalam ijin kerja sebagai bagian dari pengendalian, namun bukan satu-satunya; pengendalian lain tetap diutamakan sesuai hierarki.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. APD menggantikan semua pengendalian lain", "isCorrect": false },
+        { "text": "B. APD adalah bagian pengendalian, bukan satu-satunya", "isCorrect": true },
+        { "text": "C. APD tidak perlu ditulis di ijin kerja", "isCorrect": false },
+        { "text": "D. APD hanya untuk pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketika menjalankan praktik, setiap kelompok menyusun formulir ijin kerja sesuai?",
+      "explanation": "Setiap kelompok menyusun formulir ijin kerja sesuai topik pekerjaan berisiko tinggi masing-masing yang telah ditentukan.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Topik pekerjaan berisiko tinggi masing-masing kelompok", "isCorrect": true },
+        { "text": "B. Menu kantin", "isCorrect": false },
+        { "text": "C. Jadwal libur", "isCorrect": false },
+        { "text": "D. Pilihan acak tanpa topik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa ijin kerja perlu didokumentasikan dalam format yang dapat diarsipkan (PDF)?",
+      "explanation": "Format yang terarsip memudahkan penelusuran, audit, dan pembuktian bahwa prosedur keselamatan telah diikuti dengan benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Agar mudah dihapus", "isCorrect": false },
+        { "text": "B. Memudahkan penelusuran, audit, dan pembuktian prosedur", "isCorrect": true },
+        { "text": "C. Agar tidak bisa dibaca pekerja", "isCorrect": false },
+        { "text": "D. Agar boros tinta", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan dengan ijin kerja sebaiknya tidak dilanjutkan apabila?",
+      "explanation": "Pekerjaan tidak boleh dilanjutkan bila pengendalian tidak terpenuhi, kondisi berubah menjadi tidak aman, atau ijin sudah kedaluwarsa.",
+      "difficulty": "MEDIUM",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Cuaca cerah dan kondisi aman", "isCorrect": false },
+        { "text": "B. Pengendalian tidak terpenuhi atau ijin telah kedaluwarsa", "isCorrect": true },
+        { "text": "C. Semua APD lengkap", "isCorrect": false },
+        { "text": "D. Pengawas hadir di lokasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siklus dasar sistem ijin kerja yang benar adalah?",
+      "explanation": "Siklus ijin kerja: permohonan/penyusunan, identifikasi bahaya dan pengendalian, otorisasi, pelaksanaan dengan pengawasan, lalu penutupan.",
+      "difficulty": "HARD",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Penutupan, pelaksanaan, permohonan, otorisasi", "isCorrect": false },
+        { "text": "B. Permohonan, identifikasi & pengendalian, otorisasi, pelaksanaan, penutupan", "isCorrect": true },
+        { "text": "C. Otorisasi, penutupan, permohonan, pelaksanaan", "isCorrect": false },
+        { "text": "D. Pelaksanaan, penutupan, otorisasi, permohonan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada formulir ijin kerja, jenis ijin kerja perlu ditegaskan di awal agar?",
+      "explanation": "Penegasan jenis ijin di awal memastikan pengendalian dan persyaratan yang sesuai dengan tipe bahaya pekerjaan dapat diterapkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Formulir terlihat penuh", "isCorrect": false },
+        { "text": "B. Pengendalian dan persyaratan sesuai tipe bahaya dapat diterapkan", "isCorrect": true },
+        { "text": "C. Pekerja tidak perlu membaca", "isCorrect": false },
+        { "text": "D. Pengawas tidak perlu hadir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip penting sistem ijin kerja adalah 'tidak ada ijin, tidak ada pekerjaan' yang artinya?",
+      "explanation": "Prinsip ini menegaskan pekerjaan berisiko tinggi tidak boleh dilaksanakan sebelum ijin kerja yang sah diterbitkan dan disetujui.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Pekerjaan boleh dimulai dulu, ijin menyusul", "isCorrect": false },
+        { "text": "B. Pekerjaan berisiko tinggi tidak boleh dilaksanakan tanpa ijin yang sah", "isCorrect": true },
+        { "text": "C. Ijin hanya formalitas tanpa makna", "isCorrect": false },
+        { "text": "D. Ijin dibuat setelah kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerjaan instalasi listrik, sebelum LOTO dibuka kembali harus dipastikan?",
+      "explanation": "Sebelum LOTO dibuka, harus dipastikan semua pekerja telah keluar dari area berbahaya dan peralatan aman untuk dialiri energi kembali.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Semua pekerja telah keluar dan peralatan aman dialiri energi", "isCorrect": true },
+        { "text": "B. Pekerja masih bekerja di dalam panel", "isCorrect": false },
+        { "text": "C. Tidak perlu memeriksa siapa pun", "isCorrect": false },
+        { "text": "D. Lampu dipadamkan dahulu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya pada ijin kerja sebaiknya dilakukan dengan mempertimbangkan?",
+      "explanation": "Identifikasi bahaya mempertimbangkan kondisi lingkungan, peralatan, bahan, dan perilaku/aktivitas pekerja di setiap tahap pekerjaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Hanya warna seragam", "isCorrect": false },
+        { "text": "B. Kondisi lingkungan, peralatan, bahan, dan aktivitas pekerja", "isCorrect": true },
+        { "text": "C. Jumlah kursi di kantin", "isCorrect": false },
+        { "text": "D. Merek kendaraan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat utama dokumentasi ijin kerja terhadap budaya keselamatan organisasi adalah?",
+      "explanation": "Dokumentasi ijin kerja mendukung pembelajaran dari pengalaman, perbaikan prosedur, dan penguatan budaya keselamatan melalui evaluasi berkelanjutan.",
+      "difficulty": "HARD",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Menambah beban kertas tanpa guna", "isCorrect": false },
+        { "text": "B. Mendukung pembelajaran, perbaikan prosedur, dan budaya keselamatan", "isCorrect": true },
+        { "text": "C. Menyulitkan audit", "isCorrect": false },
+        { "text": "D. Menghapus tanggung jawab manajemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam simulasi pekerjaan berisiko tinggi, pembagian peran bertujuan untuk?",
+      "explanation": "Pembagian peran (pekerja, pengawas, HSE, manajer) bertujuan melatih koordinasi dan tanggung jawab masing-masing pihak dalam pelaksanaan yang aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Membingungkan pelaksanaan", "isCorrect": false },
+        { "text": "B. Melatih koordinasi dan tanggung jawab tiap pihak", "isCorrect": true },
+        { "text": "C. Menghapus peran pengawas", "isCorrect": false },
+        { "text": "D. Mengurangi keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan ulang (re-check) pengendalian sebelum melanjutkan pekerjaan pada shift baru penting karena?",
+      "explanation": "Kondisi lapangan dan pengendalian dapat berubah antar shift, sehingga pemeriksaan ulang memastikan area tetap aman sebelum pekerjaan dilanjutkan.",
+      "difficulty": "HARD",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Kondisi dan pengendalian dapat berubah antar shift", "isCorrect": true },
+        { "text": "B. Untuk menambah pekerjaan", "isCorrect": false },
+        { "text": "C. Agar pekerja lembur", "isCorrect": false },
+        { "text": "D. Tanpa alasan keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan berisiko tinggi yang dilaksanakan tanpa komunikasi risiko ke pekerja berpotensi menyebabkan?",
+      "explanation": "Tanpa komunikasi risiko, pekerja tidak memahami bahaya dan pengendalian sehingga berpotensi melakukan tindakan tidak aman dan mengalami kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Pekerjaan menjadi lebih aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman dan kecelakaan kerja", "isCorrect": true },
+        { "text": "C. Penghematan biaya", "isCorrect": false },
+        { "text": "D. Peningkatan produktivitas otomatis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebuah formulir ijin kerja yang lengkap memastikan keterkaitan logis antara?",
+      "explanation": "Formulir yang baik menunjukkan keterkaitan logis antara bahaya yang diidentifikasi dengan pengendalian yang ditetapkan untuk masing-masing bahaya tersebut.",
+      "difficulty": "HARD",
+      "tag": "Komponen Formulir Ijin Kerja",
+      "options": [
+        { "text": "A. Gaji dan jam kerja", "isCorrect": false },
+        { "text": "B. Bahaya yang diidentifikasi dan pengendalian yang ditetapkan", "isCorrect": true },
+        { "text": "C. Warna kertas dan jenis font", "isCorrect": false },
+        { "text": "D. Lokasi parkir dan kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peran pekerja dalam pelaksanaan ijin kerja adalah?",
+      "explanation": "Pekerja melaksanakan pekerjaan sesuai pengendalian dalam ijin kerja, memakai APD, dan melaporkan bila menemukan kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Melaksanakan pekerjaan sesuai pengendalian dan melapor kondisi tidak aman", "isCorrect": true },
+        { "text": "B. Mengabaikan APD", "isCorrect": false },
+        { "text": "C. Menyetujui ijin sendiri tanpa pengawas", "isCorrect": false },
+        { "text": "D. Bekerja tanpa membaca ijin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada ijin kerja, kolom 'waktu mulai - selesai' membantu memastikan?",
+      "explanation": "Kolom waktu memastikan pekerjaan berlangsung dalam rentang yang disetujui dan tidak melebihi masa berlaku ijin kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Masa Berlaku & Penutupan",
+      "options": [
+        { "text": "A. Pekerjaan berlangsung dalam rentang waktu yang disetujui", "isCorrect": true },
+        { "text": "B. Jam pulang pekerja kantor", "isCorrect": false },
+        { "text": "C. Jadwal makan siang", "isCorrect": false },
+        { "text": "D. Lama istirahat saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila terdapat lebih dari satu kontraktor yang bekerja di area yang sama, sistem ijin kerja membantu?",
+      "explanation": "Sistem ijin kerja membantu mengoordinasikan pekerjaan yang tumpang tindih (simultaneous operations) agar tidak saling membahayakan antar pihak.",
+      "difficulty": "HARD",
+      "tag": "Otorisasi & Persetujuan",
+      "options": [
+        { "text": "A. Mengoordinasikan pekerjaan yang tumpang tindih agar tidak saling membahayakan", "isCorrect": true },
+        { "text": "B. Membuat pekerjaan berebut alat", "isCorrect": false },
+        { "text": "C. Menghapus pengawasan", "isCorrect": false },
+        { "text": "D. Memperbanyak konflik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian praktik penyusunan formulir ijin kerja diukur terutama dari?",
+      "explanation": "Penilaian praktik diukur dari kelengkapan dan ketepatan formulir ijin kerja yang disusun serta pelaksanaan simulasi dan komunikasi risikonya.",
+      "difficulty": "EASY",
+      "tag": "Komunikasi Risiko & Simulasi",
+      "options": [
+        { "text": "A. Kelengkapan dan ketepatan formulir serta pelaksanaan simulasi", "isCorrect": true },
+        { "text": "B. Jumlah halaman terbanyak", "isCorrect": false },
+        { "text": "C. Warna sampul laporan", "isCorrect": false },
+        { "text": "D. Kecepatan mengetik saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ijin kerja yang tepat akan menyebutkan APD spesifik sesuai pekerjaan, contohnya untuk pekerjaan listrik adalah?",
+      "explanation": "Untuk pekerjaan listrik, APD spesifik mencakup sarung tangan isolasi (insulated gloves), sepatu safety berisolasi, dan alat pelindung wajah dari arc flash.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya & Pengendalian",
+      "options": [
+        { "text": "A. Sarung tangan isolasi dan sepatu berisolasi", "isCorrect": true },
+        { "text": "B. Sandal jepit", "isCorrect": false },
+        { "text": "C. Kaos tipis", "isCorrect": false },
+        { "text": "D. Topi anyaman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari keseluruhan sistem ijin kerja adalah?",
+      "explanation": "Tujuan akhir sistem ijin kerja adalah mencegah kecelakaan, melindungi pekerja, dan memastikan pekerjaan berisiko tinggi dilaksanakan secara aman dan terkendali.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Tujuan Ijin Kerja",
+      "options": [
+        { "text": "A. Mempersulit pekerjaan", "isCorrect": false },
+        { "text": "B. Mencegah kecelakaan dan memastikan pekerjaan aman dan terkendali", "isCorrect": true },
+        { "text": "C. Menambah jumlah dokumen tanpa tujuan", "isCorrect": false },
+        { "text": "D. Mengurangi gaji pekerja", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa itu ijin kerja (work permit)?", "back": "Dokumen formal tertulis yang mengizinkan pelaksanaan pekerjaan berisiko tinggi setelah bahaya diidentifikasi, pengendalian disiapkan, dan otorisasi diberikan.", "tag": "Pengertian & Tujuan Ijin Kerja" },
+    { "front": "Apa tujuan utama sistem ijin kerja?", "back": "Memastikan bahaya dikendalikan dan ada otorisasi sebelum pekerjaan berisiko tinggi dimulai sehingga mencegah kecelakaan kerja.", "tag": "Pengertian & Tujuan Ijin Kerja" },
+    { "front": "Prinsip 'no permit, no work' artinya?", "back": "Pekerjaan berisiko tinggi tidak boleh dilaksanakan sebelum ijin kerja yang sah diterbitkan dan disetujui.", "tag": "Pengertian & Tujuan Ijin Kerja" },
+    { "front": "Apa itu hot work permit?", "back": "Ijin kerja untuk pekerjaan yang menimbulkan panas/percikan/nyala api seperti pengelasan, pemotongan, dan gerinda.", "tag": "Jenis-Jenis Ijin Kerja" },
+    { "front": "Apa itu confined space entry permit?", "back": "Ijin kerja untuk masuk ruang terbatas seperti tangki, ketel uap, atau silo dengan ventilasi terbatas.", "tag": "Jenis-Jenis Ijin Kerja" },
+    { "front": "Apa itu working at height permit?", "back": "Ijin kerja untuk pekerjaan di ketinggian, misalnya pembersihan kaca gedung bertingkat, dengan risiko utama jatuh.", "tag": "Jenis-Jenis Ijin Kerja" },
+    { "front": "Apa itu electrical work permit?", "back": "Ijin kerja untuk pekerjaan pada instalasi listrik, menuntut isolasi energi dengan LOTO sebelum dikerjakan.", "tag": "Jenis-Jenis Ijin Kerja" },
+    { "front": "Apa itu excavation permit?", "back": "Ijin kerja penggalian dengan bahaya utama longsoran dinding galian dan utilitas bawah tanah.", "tag": "Jenis-Jenis Ijin Kerja" },
+    { "front": "Apa itu LOTO?", "back": "Lockout-Tagout: mengunci dan memberi label sumber energi agar tidak aktif tanpa sengaja saat pekerjaan berlangsung.", "tag": "Jenis-Jenis Ijin Kerja" },
+    { "front": "Sebutkan isi minimal formulir ijin kerja.", "back": "Jenis ijin, lokasi, tanggal, deskripsi pekerjaan, waktu mulai-selesai, data personil, identifikasi bahaya, pengendalian, otorisasi, dan penutupan.", "tag": "Komponen Formulir Ijin Kerja" },
+    { "front": "Format pengumpulan formulir ijin kerja pada praktik?", "back": "Diketik dan dikumpulkan dalam format PDF sebanyak 1-2 halaman.", "tag": "Komponen Formulir Ijin Kerja" },
+    { "front": "Hierarki pengendalian dalam ijin kerja?", "back": "Eliminasi, substitusi, rekayasa teknik, administratif, lalu APD (paling efektif ke paling kurang efektif).", "tag": "Identifikasi Bahaya & Pengendalian" },
+    { "front": "Pengendalian wajib sebelum masuk ruang terbatas?", "back": "Pengujian gas (gas test) untuk memastikan oksigen cukup dan tidak ada gas beracun/mudah terbakar, serta ventilasi.", "tag": "Identifikasi Bahaya & Pengendalian" },
+    { "front": "Tugas fire watcher pada hot work?", "back": "Mengawasi area kerja panas, mendeteksi dan memadamkan api dini, serta berjaga setelah pekerjaan selesai.", "tag": "Identifikasi Bahaya & Pengendalian" },
+    { "front": "Siapa permit issuer dan permit holder?", "back": "Permit issuer = pemberi ijin yang memverifikasi pengendalian dan menerbitkan ijin; permit holder = pelaksana yang mengajukan dan melaksanakan pekerjaan.", "tag": "Otorisasi & Persetujuan" },
+    { "front": "Kapan otorisasi ijin kerja diberikan?", "back": "Sebelum pekerjaan dimulai, setelah pengendalian diverifikasi memadai oleh pihak yang berwenang/kompeten.", "tag": "Otorisasi & Persetujuan" },
+    { "front": "Berapa lama masa berlaku ijin kerja umumnya?", "back": "Umumnya satu shift atau jangka waktu tertentu; harus divalidasi ulang jika pekerjaan berlanjut.", "tag": "Masa Berlaku & Penutupan" },
+    { "front": "Kapan ijin kerja ditutup?", "back": "Setelah pekerjaan selesai, area dirapikan dan diperiksa aman, lalu ditandatangani pelaksana dan pemberi ijin/pengawas.", "tag": "Masa Berlaku & Penutupan" },
+    { "front": "Bagaimana JSA disosialisasikan ke pekerja?", "back": "Melalui safety briefing sebelum pekerjaan dimulai agar semua memahami bahaya dan pengendaliannya.", "tag": "Komunikasi Risiko & Simulasi" },
+    { "front": "Apa yang dilakukan pada pertemuan setelah penyusunan formulir ijin kerja?", "back": "Simulasi ijin kerja dan komunikasi risiko kepada pekerja sesuai topik dan formulir yang telah disusun, dengan APD lengkap.", "tag": "Komunikasi Risiko & Simulasi" }
+  ],
+  "mindmap": [
+    { "id": "ijin-kerja", "label": "Formulir Ijin Kerja (Work Permit)", "color": "#6366f1", "parent": null, "content": "Dokumen formal yang mengizinkan pekerjaan berisiko tinggi setelah bahaya diidentifikasi, dikendalikan, dan diotorisasi." },
+    { "id": "pengertian", "label": "Pengertian & Tujuan", "color": "#8b5cf6", "parent": "ijin-kerja", "content": "Konsep dasar ijin kerja sebagai pengendalian administratif untuk pekerjaan berisiko tinggi." },
+    { "id": "definisi-ptw", "label": "Definisi PTW", "color": "#8b5cf6", "parent": "pengertian", "content": "Permit to Work System: sistem formal tertulis untuk mengontrol pekerjaan berbahaya." },
+    { "id": "tujuan-ptw", "label": "Tujuan", "color": "#8b5cf6", "parent": "pengertian", "content": "Memastikan bahaya dikendalikan dan ada otorisasi sebelum pekerjaan dimulai untuk mencegah kecelakaan." },
+    { "id": "prinsip-no-permit", "label": "No Permit No Work", "color": "#8b5cf6", "parent": "pengertian", "content": "Pekerjaan berisiko tinggi tidak boleh dilaksanakan tanpa ijin kerja yang sah dan disetujui." },
+    { "id": "jenis", "label": "Jenis-Jenis Ijin Kerja", "color": "#0ea5e9", "parent": "ijin-kerja", "content": "Berbagai tipe ijin sesuai bahaya pekerjaan yang spesifik." },
+    { "id": "hot-work", "label": "Hot Work Permit", "color": "#0ea5e9", "parent": "jenis", "content": "Untuk pekerjaan panas/api seperti pengelasan dan pemotongan; bahaya utama kebakaran/ledakan." },
+    { "id": "confined-space", "label": "Confined Space Permit", "color": "#0ea5e9", "parent": "jenis", "content": "Untuk masuk ruang terbatas seperti tangki dan ketel uap; wajib gas test sebelum masuk." },
+    { "id": "working-height", "label": "Working at Height", "color": "#0ea5e9", "parent": "jenis", "content": "Untuk pekerjaan di ketinggian seperti pembersihan kaca gedung; bahaya utama jatuh." },
+    { "id": "electrical-permit", "label": "Electrical Permit", "color": "#0ea5e9", "parent": "jenis", "content": "Untuk pekerjaan instalasi listrik; menuntut isolasi energi dengan LOTO." },
+    { "id": "excavation-permit", "label": "Excavation Permit", "color": "#0ea5e9", "parent": "jenis", "content": "Untuk pekerjaan penggalian; bahaya utama longsor dan utilitas bawah tanah." },
+    { "id": "cold-work", "label": "Cold Work Permit", "color": "#0ea5e9", "parent": "jenis", "content": "Untuk pekerjaan tanpa sumber panas/api namun tetap berisiko." },
+    { "id": "komponen", "label": "Komponen Formulir", "color": "#10b981", "parent": "ijin-kerja", "content": "Isi minimal yang wajib ada pada formulir ijin kerja." },
+    { "id": "identitas-kerja", "label": "Identitas Pekerjaan", "color": "#10b981", "parent": "komponen", "content": "Jenis ijin, lokasi, tanggal, dan deskripsi pekerjaan yang jelas." },
+    { "id": "waktu-personil", "label": "Waktu & Personil", "color": "#10b981", "parent": "komponen", "content": "Waktu mulai-selesai pekerjaan dan data personil yang terlibat dan bertanggung jawab." },
+    { "id": "bagian-bahaya", "label": "Bagian Bahaya & Pengendalian", "color": "#10b981", "parent": "komponen", "content": "Daftar identifikasi bahaya dan tindakan pengendalian untuk masing-masing bahaya." },
+    { "id": "bagian-otorisasi", "label": "Otorisasi & Penutupan", "color": "#10b981", "parent": "komponen", "content": "Persetujuan untuk memulai dan tanda penutupan setelah pekerjaan selesai." },
+    { "id": "format-pdf", "label": "Format PDF 1-2 Halaman", "color": "#10b981", "parent": "komponen", "content": "Pada praktik, formulir diketik dan dikumpulkan dalam format PDF 1-2 halaman." },
+    { "id": "bahaya-kendali", "label": "Identifikasi Bahaya & Pengendalian", "color": "#f59e0b", "parent": "ijin-kerja", "content": "Proses mengenali bahaya dan menetapkan pengendalian sesuai hierarki." },
+    { "id": "identifikasi", "label": "Identifikasi Bahaya", "color": "#f59e0b", "parent": "bahaya-kendali", "content": "Mengenali potensi bahaya dari lingkungan, peralatan, bahan, dan aktivitas pekerja tiap tahap." },
+    { "id": "hierarki", "label": "Hierarki Pengendalian", "color": "#f59e0b", "parent": "bahaya-kendali", "content": "Eliminasi, substitusi, rekayasa teknik, administratif, lalu APD." },
+    { "id": "gas-test", "label": "Gas Test & Ventilasi", "color": "#f59e0b", "parent": "bahaya-kendali", "content": "Pengujian kadar gas dan oksigen wajib sebelum masuk ruang terbatas atau hot work di area uap." },
+    { "id": "loto-fire", "label": "LOTO & Fire Watcher", "color": "#f59e0b", "parent": "bahaya-kendali", "content": "LOTO mengisolasi energi listrik; fire watcher mengawasi api pada pekerjaan panas." },
+    { "id": "dokumen-pendukung", "label": "JSA & MSDS", "color": "#f59e0b", "parent": "bahaya-kendali", "content": "JSA dan MSDS/SDS sering dilampirkan untuk mendukung identifikasi bahaya dan pengendalian." },
+    { "id": "otorisasi", "label": "Otorisasi & Persetujuan", "color": "#ef4444", "parent": "ijin-kerja", "content": "Pihak berwenang yang menyetujui dan mengawasi pelaksanaan ijin kerja." },
+    { "id": "permit-issuer", "label": "Permit Issuer", "color": "#ef4444", "parent": "otorisasi", "content": "Pemberi ijin yang memverifikasi pengendalian memadai dan menerbitkan ijin kerja." },
+    { "id": "permit-holder", "label": "Permit Holder", "color": "#ef4444", "parent": "otorisasi", "content": "Pelaksana/penerima ijin yang mengajukan dan bertanggung jawab atas pelaksanaan pekerjaan." },
+    { "id": "peran-tim", "label": "Peran Pengawas, HSE, Manajer", "color": "#ef4444", "parent": "otorisasi", "content": "Pengawas memastikan sesuai JSA, HSE menjaga aspek keselamatan, manajer memberi keputusan/sumber daya." },
+    { "id": "pembatalan", "label": "Pembatalan Ijin", "color": "#ef4444", "parent": "otorisasi", "content": "Pihak berwenang dapat menangguhkan/membatalkan ijin jika kondisi menjadi tidak aman." },
+    { "id": "berlaku-tutup", "label": "Masa Berlaku & Penutupan", "color": "#ec4899", "parent": "ijin-kerja", "content": "Pengaturan rentang waktu ijin dan penutupan formal setelah pekerjaan selesai." },
+    { "id": "masa-berlaku", "label": "Masa Berlaku", "color": "#ec4899", "parent": "berlaku-tutup", "content": "Umumnya satu shift/jangka tertentu; perlu validasi ulang jika pekerjaan berlanjut." },
+    { "id": "penutupan-formal", "label": "Penutupan Formal", "color": "#ec4899", "parent": "berlaku-tutup", "content": "Setelah pekerjaan selesai, area diperiksa aman lalu ditandatangani pelaksana dan pemberi ijin." },
+    { "id": "arsip-evaluasi", "label": "Arsip & Evaluasi", "color": "#ec4899", "parent": "berlaku-tutup", "content": "Ijin yang ditutup diarsipkan untuk catatan, audit, dan perbaikan budaya keselamatan." },
+    { "id": "komunikasi", "label": "Komunikasi Risiko & Simulasi", "color": "#14b8a6", "parent": "ijin-kerja", "content": "Penyampaian bahaya dan pengendalian kepada pekerja serta praktik simulasi." },
+    { "id": "safety-briefing", "label": "Safety Briefing", "color": "#14b8a6", "parent": "komunikasi", "content": "JSA dan ijin kerja disosialisasikan ke pekerja sebelum pekerjaan dimulai." },
+    { "id": "simulasi", "label": "Simulasi Pekerjaan", "color": "#14b8a6", "parent": "komunikasi", "content": "Roleplay pekerjaan berisiko tinggi dengan APD lengkap dan pembagian peran." },
+    { "id": "jso-observasi", "label": "JSO & Observasi", "color": "#14b8a6", "parent": "komunikasi", "content": "Pengawas mencatat hasil observasi pelaksanaan pada formulir JSO." }
+  ]
+}

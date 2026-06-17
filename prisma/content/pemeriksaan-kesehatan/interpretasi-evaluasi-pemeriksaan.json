@@ -1,0 +1,3581 @@
+{
+  "topic": "Interpretasi, Kendala, dan Evaluasi Pemeriksaan",
+  "order": 4,
+  "description": "Interpretasi hasil tanda vital adalah tahap krusial yang menilai status kesehatan pekerja saat ini dan potensi risiko jangka panjang. Materi ini mencakup interpretasi tiap parameter, analisis kombinasi, kriteria rujukan, kesalahan umum pengukuran, rekomendasi implementasi, dan evaluasi efektivitas program.",
+  "subtopics": [
+    "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+    "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+    "Kriteria rujukan dan strategi tindak lanjut",
+    "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+    "Strategi mengatasi kesalahan & studi kasus",
+    "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+    "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)"
+  ],
+  "questions": [
+    {
+      "text": "Mengapa interpretasi hasil tanda vital disebut sebagai tahap yang krusial?",
+      "explanation": "Tanda vital tidak memiliki makna tanpa analisis yang tepat; interpretasi yang benar menilai status kesehatan dan potensi risiko jangka panjang pekerja.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Karena hanya bisa dilakukan oleh dokter spesialis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena tanda vital tidak bermakna tanpa analisis yang tepat",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena membutuhkan alat yang mahal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena hasilnya selalu abnormal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut American Heart Association (2022), tekanan darah dikategorikan NORMAL bila nilainya?",
+      "explanation": "Menurut AHA 2022, tekanan darah normal adalah di bawah 120/80 mmHg.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. < 120/80 mmHg",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 120-129/<80 mmHg",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 130-139/80-89 mmHg",
+          "isCorrect": false
+        },
+        {
+          "text": "D. >=140/90 mmHg",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tekanan darah dengan sistolik 120-129 mmHg dan diastolik <80 mmHg menurut AHA 2022 dikategorikan sebagai?",
+      "explanation": "Sistolik 120-129 dengan diastolik <80 mmHg termasuk kategori prehipertensi (elevated).",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Normal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Prehipertensi (elevated)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hipertensi Stage 1",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hipertensi Stage 2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tekanan darah 130-139/80-89 mmHg menurut AHA 2022 termasuk kategori?",
+      "explanation": "Tekanan darah 130-139/80-89 mmHg dikategorikan sebagai Hipertensi Stage 1.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Prehipertensi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hipertensi Stage 1",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hipertensi Stage 2",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Normal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut AHA 2022, Hipertensi Stage 2 ditandai dengan tekanan darah?",
+      "explanation": "Hipertensi Stage 2 ditandai dengan tekanan darah lebih dari atau sama dengan 140/90 mmHg.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. >=120/80 mmHg",
+          "isCorrect": false
+        },
+        {
+          "text": "B. >=130/80 mmHg",
+          "isCorrect": false
+        },
+        {
+          "text": "C. >=140/90 mmHg",
+          "isCorrect": true
+        },
+        {
+          "text": "D. >=160/100 mmHg",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor kerja berikut yang dapat meningkatkan tekanan darah pekerja adalah?",
+      "explanation": "Stres kerja, shift malam (gangguan ritme sirkadian), dan paparan kimia seperti timbal merupakan faktor kerja yang meningkatkan tekanan darah.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Stres kerja, shift malam, dan paparan timbal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Istirahat cukup dan olahraga teratur",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pencahayaan ruang yang baik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu ruangan yang stabil",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan bahan kimia yang secara khusus disebut dapat memengaruhi peningkatan tekanan darah pekerja adalah?",
+      "explanation": "Paparan timbal (timbal/lead) disebut sebagai faktor kerja kimia yang dapat meningkatkan tekanan darah.",
+      "difficulty": "HARD",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Oksigen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Timbal (lead)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Nitrogen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karbon dioksida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tekanan darah tinggi yang tidak terkontrol dapat meningkatkan risiko berikut, KECUALI?",
+      "explanation": "TD tinggi tidak terkontrol meningkatkan risiko stroke, gagal ginjal, dan penyakit jantung koroner; bukan menyebabkan hipotermia.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Stroke",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gagal ginjal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hipotermia",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Penyakit jantung koroner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Selain risiko penyakit, tekanan darah tinggi tidak terkontrol di tempat kerja dapat meningkatkan?",
+      "explanation": "TD tinggi tidak terkontrol meningkatkan risiko kecelakaan akibat penurunan konsentrasi pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Risiko kecelakaan akibat penurunan konsentrasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Produktivitas pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suhu tubuh pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Saturasi oksigen pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frekuensi nadi normal pada orang dewasa adalah?",
+      "explanation": "Frekuensi nadi normal dewasa adalah 60-100 kali per menit.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. 40-60 kali/menit",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 60-100 kali/menit",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 100-120 kali/menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 12-20 kali/menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frekuensi nadi kurang dari 60 kali per menit disebut?",
+      "explanation": "Frekuensi nadi di bawah 60 kali per menit disebut bradikardia.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Takikardia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Bradikardia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Takipnea",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bradipnea",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frekuensi nadi lebih dari 100 kali per menit disebut?",
+      "explanation": "Frekuensi nadi di atas 100 kali per menit disebut takikardia.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Bradikardia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Takikardia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hipertensi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hipotermia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Irama nadi yang tidak teratur dapat menjadi tanda?",
+      "explanation": "Irama nadi yang tidak teratur dapat menandakan aritmia, misalnya fibrilasi atrium.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Fungsi jantung yang normal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Aritmia (misalnya fibrilasi atrium)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hipotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Heat stress",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Takikardia pada pekerja dapat dipicu oleh faktor-faktor berikut, yaitu?",
+      "explanation": "Takikardia dipicu oleh kelelahan, dehidrasi, dan paparan panas di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Kelelahan, dehidrasi, dan paparan panas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Istirahat dan relaksasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suhu ruangan dingin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pencahayaan yang cukup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bradikardia yang ditemukan pada pekerja dengan tingkat kebugaran tinggi umumnya?",
+      "explanation": "Bradikardia pada pekerja kebugaran tinggi umumnya normal, namun perlu diwaspadai bila disertai pusing atau lemas.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Selalu menandakan penyakit jantung berat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Umumnya normal, kecuali bila disertai pusing atau lemas",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tanda heat stress",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Selalu memerlukan rujukan darurat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan normal pada orang dewasa adalah?",
+      "explanation": "Frekuensi pernapasan normal dewasa adalah 12-20 kali per menit.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. 12-20 kali/menit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 20-30 kali/menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 60-100 kali/menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 6-10 kali/menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan kurang dari 12 kali per menit disebut?",
+      "explanation": "Frekuensi pernapasan di bawah 12 kali per menit disebut bradipnea.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Takipnea",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Bradipnea",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Takikardia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bradikardia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Frekuensi pernapasan lebih dari 20 kali per menit disebut?",
+      "explanation": "Frekuensi pernapasan di atas 20 kali per menit disebut takipnea.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Bradipnea",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Takipnea",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Takikardia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hipertermia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan debu, asap, atau bahan kimia di tempat kerja meningkatkan risiko terjadinya?",
+      "explanation": "Paparan debu/asap/bahan kimia meningkatkan risiko takipnea (peningkatan frekuensi pernapasan).",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Bradikardia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Takipnea",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hipotensi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hipotermia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perubahan frekuensi pernapasan pada pekerja sering menjadi tanda awal penyakit?",
+      "explanation": "Perubahan frekuensi pernapasan sering menjadi tanda awal PPOK atau asma akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. PPOK atau asma akibat kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Diabetes melitus",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Anemia defisiensi besi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gangguan muskuloskeletal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ventilasi tempat kerja yang buruk dapat memicu pekerja mengalami?",
+      "explanation": "Ventilasi yang buruk dapat memicu hiperventilasi pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Hipoventilasi total",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hiperventilasi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Bradikardia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hipotermia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suhu tubuh normal menurut interpretasi pemeriksaan kesehatan kerja adalah?",
+      "explanation": "Suhu tubuh normal adalah 36,5-37,5 derajat Celsius.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. 35,0-36,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 36,5-37,5 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 37,5-38,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 38,5-39,5 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suhu tubuh lebih dari 37,5 derajat Celsius dikategorikan sebagai?",
+      "explanation": "Suhu tubuh di atas 37,5 derajat Celsius dikategorikan sebagai hipertermia.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Hipotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hipertermia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Normotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hipoksemia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suhu tubuh kurang dari 35 derajat Celsius dikategorikan sebagai?",
+      "explanation": "Suhu tubuh di bawah 35 derajat Celsius dikategorikan sebagai hipotermia.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Hipertermia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hipotermia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sub febris",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Febris",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lingkungan kerja berikut yang berisiko menyebabkan heat stress pada pekerja adalah?",
+      "explanation": "Heat stress berisiko terjadi pada pabrik baja, tambang bawah tanah, dan dapur industri.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Ruang pendingin/freezer",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pabrik baja, tambang bawah tanah, dapur industri",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Ruang kantor ber-AC",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Laboratorium suhu rendah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lingkungan kerja yang berisiko menyebabkan cold stress pada pekerja adalah?",
+      "explanation": "Cold stress berisiko terjadi pada pekerja di ruang pendingin atau freezer.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Pabrik baja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Ruang pendingin/freezer",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Dapur industri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tambang bawah tanah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerja dengan suhu tubuh 38 derajat Celsius yang bekerja di industri panas cenderung mengalami?",
+      "explanation": "Pekerja dengan suhu 38 derajat C di industri panas cenderung mengalami dehidrasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Dehidrasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hipotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bradikardia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hipotensi berat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut WHO 2022, Indeks Massa Tubuh (IMT) yang dikategorikan NORMAL adalah?",
+      "explanation": "Menurut WHO 2022, IMT normal berada pada rentang 18,5-24,9.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. <18,5",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 18,5-24,9",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 25-29,9",
+          "isCorrect": false
+        },
+        {
+          "text": "D. >=30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut WHO 2022, IMT kurang dari 18,5 dikategorikan sebagai?",
+      "explanation": "IMT di bawah 18,5 menurut WHO 2022 dikategorikan sebagai kurus (underweight).",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Normal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kurus",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Overweight",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Obesitas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut WHO 2022, IMT pada rentang 25-29,9 dikategorikan sebagai?",
+      "explanation": "IMT 25-29,9 menurut WHO 2022 dikategorikan sebagai overweight.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Normal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kurus",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Overweight",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Obesitas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut WHO 2022, IMT lebih dari atau sama dengan 30 dikategorikan sebagai?",
+      "explanation": "IMT >=30 menurut WHO 2022 dikategorikan sebagai obesitas.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Overweight",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Obesitas",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Normal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kurus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lingkar perut normal untuk pria menurut materi interpretasi status gizi adalah?",
+      "explanation": "Lingkar perut normal untuk pria adalah kurang dari 90 cm.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. < 80 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "B. < 90 cm",
+          "isCorrect": true
+        },
+        {
+          "text": "C. < 100 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "D. < 110 cm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lingkar perut normal untuk wanita menurut materi interpretasi status gizi adalah?",
+      "explanation": "Lingkar perut normal untuk wanita adalah kurang dari 80 cm.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. < 80 cm",
+          "isCorrect": true
+        },
+        {
+          "text": "B. < 90 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "C. < 70 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "D. < 100 cm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dampak obesitas terhadap pekerja menurut interpretasi status gizi adalah?",
+      "explanation": "Obesitas menurunkan stamina dan meningkatkan risiko cedera muskuloskeletal.",
+      "difficulty": "EASY",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Meningkatkan stamina kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menurunkan stamina dan meningkatkan risiko cedera muskuloskeletal",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menurunkan risiko penyakit jantung",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak berpengaruh pada produktivitas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kekurangan gizi pada pekerja dapat menyebabkan?",
+      "explanation": "Kekurangan gizi menyebabkan kelelahan kronis pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Kelelahan kronis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Peningkatan stamina",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Peningkatan suhu tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bradikardia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kombinasi tanda vital berupa hipertensi, obesitas, dan takikardia pada pekerja menunjukkan risiko tinggi terhadap?",
+      "explanation": "Kombinasi hipertensi + obesitas + takikardia berisiko tinggi terhadap penyakit jantung koroner.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Penyakit jantung koroner",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hipotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Anemia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gangguan pendengaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Serangan jantung pada konteks penyakit jantung koroner didefinisikan sebagai?",
+      "explanation": "Serangan jantung terjadi ketika otot jantung tidak mendapat aliran darah akibat penyumbatan pembuluh darah koroner oleh plak kolesterol.",
+      "difficulty": "HARD",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Otot jantung tidak mendapat aliran darah akibat penyumbatan pembuluh koroner oleh plak kolesterol",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Peningkatan frekuensi napas yang mendadak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penurunan suhu tubuh di bawah 35 derajat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penurunan saturasi oksigen di paru-paru",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kombinasi takipnea disertai suhu tubuh yang meningkat pada pekerja paling mungkin menunjukkan?",
+      "explanation": "Kombinasi takipnea + suhu meningkat mengarah pada infeksi pernapasan akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Infeksi pernapasan akibat kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hipotermia berat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sindrom metabolik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bradikardia fisiologis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa analisis kombinasi tanda vital lebih bermanfaat dibanding analisis parameter tunggal?",
+      "explanation": "Analisis kombinasi memberikan gambaran risiko yang holistik dibanding parameter tunggal.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Karena lebih cepat dikerjakan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena memberikan gambaran risiko yang holistik",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena lebih murah biayanya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena tidak memerlukan alat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor individu yang memengaruhi interpretasi tanda vital meliputi?",
+      "explanation": "Faktor individu mencakup usia (lansia TD lebih tinggi), jenis kelamin (pria lebih berisiko hipertensi usia muda), dan riwayat penyakit kronis.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Usia, jenis kelamin, dan riwayat penyakit kronis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Shift malam dan paparan kimia",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Konflik organisasi dan beban kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kualitas alat ukur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada faktor individu interpretasi tanda vital, pekerja lansia umumnya memiliki?",
+      "explanation": "Pada lansia, tekanan darah cenderung lebih tinggi sebagai bagian faktor individu yang memengaruhi interpretasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Tekanan darah yang cenderung lebih tinggi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu tubuh yang selalu lebih tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Frekuensi napas yang selalu lebih rendah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. IMT yang selalu normal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut faktor individu, kelompok yang lebih berisiko hipertensi pada usia muda adalah?",
+      "explanation": "Pria lebih berisiko mengalami hipertensi pada usia muda dibanding wanita.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Wanita usia muda",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pria usia muda",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Anak-anak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada perbedaan jenis kelamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor lingkungan kerja yang memengaruhi interpretasi tanda vital meliputi?",
+      "explanation": "Faktor lingkungan kerja mencakup shift malam, paparan bahan berbahaya, dan ergonomi buruk.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Usia dan jenis kelamin",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Shift malam, paparan bahan berbahaya, dan ergonomi buruk",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Riwayat penyakit kronis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kalibrasi alat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor psikososial yang memengaruhi interpretasi tanda vital adalah?",
+      "explanation": "Faktor psikososial meliputi stres, beban kerja, dan konflik organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Stres, beban kerja, dan konflik organisasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Usia dan jenis kelamin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Paparan timbal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu ruangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tekanan darah yang sedikit di atas normal pada pekerja dapat menandakan?",
+      "explanation": "TD sedikit di atas normal dapat menandakan stres kerja kronis atau risiko hipertensi.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Stres kerja kronis atau risiko hipertensi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kondisi yang selalu normal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hipotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kekurangan gizi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suhu tubuh yang sedikit meningkat pada pekerja pabrik dapat menjadi indikator awal?",
+      "explanation": "Suhu sedikit meningkat pada pekerja pabrik dapat menjadi indikator awal heat stress.",
+      "difficulty": "MEDIUM",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Hipotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Heat stress",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Anemia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bradikardia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sifat interpretasi tanda vital dalam konteks kesehatan kerja mencakup analisis?",
+      "explanation": "Interpretasi tanda vital bersifat klinis individual, epidemiologis, dan preventif.",
+      "difficulty": "HARD",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi",
+      "options": [
+        {
+          "text": "A. Klinis individual, epidemiologis, dan preventif",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya klinis individual",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya administratif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya kuratif",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerja dengan tekanan darah >=140/90 mmHg yang berulang sebaiknya dirujuk ke?",
+      "explanation": "TD >=140/90 mmHg berulang menjadi kriteria rujukan ke spesialis penyakit dalam.",
+      "difficulty": "EASY",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut",
+      "options": [
+        {
+          "text": "A. Spesialis penyakit dalam",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Spesialis mata",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Spesialis kulit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Spesialis bedah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerja dengan suhu tubuh lebih dari 38,5 derajat Celsius disertai gejala sistemik sebaiknya?",
+      "explanation": "Suhu >38,5 derajat C dengan gejala sistemik menjadi kriteria rujukan untuk evaluasi infeksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut",
+      "options": [
+        {
+          "text": "A. Dirujuk untuk evaluasi infeksi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Cukup diberi istirahat 5 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Diabaikan karena normal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dirujuk ke spesialis mata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerja dengan takipnea menetap dan riwayat paparan debu sebaiknya dirujuk ke?",
+      "explanation": "Takipnea menetap dengan riwayat paparan debu menjadi kriteria rujukan ke spesialis paru.",
+      "difficulty": "EASY",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut",
+      "options": [
+        {
+          "text": "A. Spesialis jantung",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Spesialis paru",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Spesialis bedah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Spesialis THT",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Yang termasuk intervensi promotif-preventif dalam strategi tindak lanjut adalah?",
+      "explanation": "Intervensi promotif-preventif meliputi edukasi pola hidup sehat, pemeriksaan berkala minimal setahun sekali, dan fasilitas olahraga ringan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut",
+      "options": [
+        {
+          "text": "A. Edukasi pola hidup sehat dan pemeriksaan berkala",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pemutusan hubungan kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pengabaian hasil pemeriksaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penundaan rujukan medis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemeriksaan berkala dalam intervensi promotif-preventif sebaiknya dilakukan minimal?",
+      "explanation": "Pemeriksaan berkala promotif-preventif disarankan minimal setahun sekali.",
+      "difficulty": "EASY",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut",
+      "options": [
+        {
+          "text": "A. Sebulan sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Setahun sekali",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lima tahun sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sepuluh tahun sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemantauan jangka panjang dalam strategi tindak lanjut dilakukan dengan cara menganalisis hasil secara?",
+      "explanation": "Pemantauan jangka panjang menganalisis hasil secara longitudinal untuk melihat tren kesehatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut",
+      "options": [
+        {
+          "text": "A. Longitudinal untuk melihat tren",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sekali saja saat masuk kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya saat pekerja sakit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Acak tanpa pola",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama dari strategi tindak lanjut hasil pemeriksaan tanda vital adalah?",
+      "explanation": "Strategi tindak lanjut bertujuan menindaklanjuti hasil abnormal melalui rujukan, intervensi promotif-preventif, dan pemantauan jangka panjang.",
+      "difficulty": "EASY",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut",
+      "options": [
+        {
+          "text": "A. Menyimpan data tanpa tindakan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menindaklanjuti hasil abnormal dengan rujukan dan intervensi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengganti pekerja yang sakit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghentikan program kesehatan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kesalahan akibat penggunaan manset yang terlalu kecil pada pengukuran tekanan darah akan menghasilkan?",
+      "explanation": "Manset yang terlalu kecil menghasilkan pembacaan tekanan darah yang lebih tinggi (false high).",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Hasil yang lebih tinggi (false high)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hasil yang lebih rendah (false low)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hasil yang selalu tepat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada pengaruh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penggunaan manset yang terlalu besar pada pengukuran tekanan darah akan menghasilkan?",
+      "explanation": "Manset yang terlalu besar menghasilkan pembacaan tekanan darah yang lebih rendah (false low).",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Hasil yang lebih tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hasil yang lebih rendah (false low)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hasil yang selalu tepat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu tubuh meningkat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebelum pengukuran tekanan darah, pekerja idealnya beristirahat dalam posisi duduk rileks selama?",
+      "explanation": "Idealnya pekerja duduk rileks selama 5 menit sebelum pengukuran tekanan darah agar hasil akurat.",
+      "difficulty": "EASY",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. 1 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 5 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 30 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu istirahat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Posisi tubuh yang salah saat pengukuran tekanan darah, seperti kaki menyilang atau lengan tidak sejajar jantung, dapat menyebabkan?",
+      "explanation": "Posisi tubuh tidak tepat (kaki menyilang/lengan tidak sejajar jantung) menyebabkan hasil pengukuran tidak akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Hasil pengukuran tidak akurat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hasil yang selalu lebih akurat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada pengaruh sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kalibrasi alat menjadi lebih baik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Akibat dari kesalahan pengukuran tekanan darah berupa false high atau false low adalah?",
+      "explanation": "Kesalahan false high/false low dapat berakibat salah diagnosis pada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Salah diagnosis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Peningkatan produktivitas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penurunan biaya pemeriksaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kalibrasi alat otomatis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kesalahan saat menghitung frekuensi nadi berupa tekanan palpasi yang terlalu kuat dapat menyebabkan?",
+      "explanation": "Tekanan palpasi yang terlalu kuat dapat menutup aliran darah sehingga hasil nadi tidak akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Menutup aliran darah sehingga hasil tidak akurat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mempercepat pemeriksaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Meningkatkan akurasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengkalibrasi alat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Durasi minimal yang dianjurkan untuk menghitung frekuensi nadi agar akurat adalah?",
+      "explanation": "Standar minimal penghitungan nadi adalah 60 detik penuh, atau 30 detik dikalikan dua bila irama teratur.",
+      "difficulty": "HARD",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. 10 detik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 15 detik",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 60 detik (atau 30 detik dikali dua bila teratur)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 5 detik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kesalahan saat memeriksa nadi yang hanya memperhatikan frekuensi berarti mengabaikan?",
+      "explanation": "Hanya memperhatikan frekuensi berarti mengabaikan irama dan kekuatan nadi yang juga penting.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Irama dan kekuatan nadi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lokasi palpasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suhu tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tekanan darah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor berikut dapat memengaruhi hasil pengukuran frekuensi nadi secara keliru, yaitu?",
+      "explanation": "Pengaruh kafein, nikotin, stres, kecemasan, dan lingkungan bising dapat memengaruhi hasil pengukuran nadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Kafein, nikotin, stres, dan lingkungan bising",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pencahayaan ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Warna pakaian pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tinggi badan pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kesalahan utama saat menghitung frekuensi pernapasan adalah ketika pekerja?",
+      "explanation": "Bila pekerja sadar sedang diperiksa, ia dapat mengubah pola pernapasannya sehingga hasil tidak akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Sadar sedang diperiksa sehingga mengubah pola napas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sedang beristirahat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Duduk dengan nyaman",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak mengonsumsi kafein",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kesalahan dalam penghitungan frekuensi pernapasan terjadi bila penghitungan dilakukan?",
+      "explanation": "Penghitungan kurang dari satu menit penuh merupakan kesalahan dalam pengukuran frekuensi pernapasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Selama satu menit penuh",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kurang dari satu menit penuh",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Selama dua menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Saat pekerja tidur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Selain frekuensi, aspek pernapasan yang sering diabaikan dan menjadi kesalahan pengukuran adalah?",
+      "explanation": "Kesalahan pernapasan sering terjadi karena mengabaikan kualitas napas (kedalaman, irama, dan suara tambahan).",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Kualitas napas (kedalaman, irama, suara tambahan)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Warna kulit pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tinggi badan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tekanan darah pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kesalahan pengukuran suhu tubuh akibat lokasi yang tidak konsisten terjadi karena?",
+      "explanation": "Suhu aksila lebih rendah dibanding suhu oral atau timpani, sehingga lokasi yang tidak konsisten menyebabkan kesalahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Suhu aksila lebih rendah dari oral/timpani",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu oral selalu lebih rendah dari aksila",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Semua lokasi memberi hasil identik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu rektal paling tidak akurat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Waktu yang tidak tepat untuk mengukur suhu tubuh sehingga menimbulkan kesalahan adalah?",
+      "explanation": "Pengukuran suhu setelah aktivitas fisik, makanan panas, atau paparan matahari menimbulkan hasil yang keliru.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Setelah aktivitas fisik, makanan panas, atau paparan matahari",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Setelah istirahat 5 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Saat pekerja duduk tenang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Di ruangan ber-AC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengukur tinggi badan pekerja dengan alas kaki (sepatu) merupakan kesalahan karena?",
+      "explanation": "Sepatu dapat menambah tinggi 2-5 cm sehingga hasil pengukuran tinggi badan menjadi keliru.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Sepatu menambah tinggi 2-5 cm",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sepatu mengurangi tinggi badan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak berpengaruh terhadap IMT",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mempercepat pemeriksaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Timbangan yang tidak dikalibrasi dapat menyebabkan penyimpangan hasil pengukuran berat badan sekitar?",
+      "explanation": "Timbangan yang tidak dikalibrasi dapat menyimpang sekitar plus minus 2 kg.",
+      "difficulty": "HARD",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. +-0,1 kg",
+          "isCorrect": false
+        },
+        {
+          "text": "B. +-2 kg",
+          "isCorrect": true
+        },
+        {
+          "text": "C. +-10 kg",
+          "isCorrect": false
+        },
+        {
+          "text": "D. +-20 kg",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut WHO 2021, titik standar pengukuran lingkar perut yang benar adalah?",
+      "explanation": "Lingkar perut diukur di titik tengah antara rusuk terakhir (iga terbawah) dan krista iliaka.",
+      "difficulty": "HARD",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Di titik tengah antara rusuk terakhir dan krista iliaka",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tepat di pusar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Di bawah lipat paha",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Di garis ketiak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengukuran status gizi yang dilakukan setelah pekerja makan besar dapat menimbulkan kesalahan karena?",
+      "explanation": "Tidak memperhatikan waktu pengukuran, seperti mengukur setelah makan besar, dapat membuat hasil antropometri keliru.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Hasil pengukuran menjadi tidak akurat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hasil menjadi lebih akurat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak berpengaruh pada lingkar perut",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mempercepat metabolisme alat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kendala lapangan berupa keterbatasan alat medis sering dialami oleh?",
+      "explanation": "Keterbatasan alat medis sering dialami UKM (usaha kecil menengah), yang dapat disiasati dengan alat portabel.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Usaha kecil menengah (UKM)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Perusahaan multinasional besar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Rumah sakit pemerintah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Universitas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kendala lapangan berupa waktu terbatas akibat jadwal produksi dapat diatasi dengan?",
+      "explanation": "Waktu terbatas akibat jadwal produksi dapat diatasi dengan membuat jadwal pemeriksaan bergilir.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Membuat jadwal pemeriksaan bergilir",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghentikan produksi total",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membatalkan pemeriksaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi jumlah pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Resistensi pekerja terhadap pemeriksaan sering muncul karena?",
+      "explanation": "Resistensi pekerja muncul karena khawatir hasil pemeriksaan akan memengaruhi status pekerjaan; perlu diatasi dengan edukasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Khawatir hasil memengaruhi status pekerjaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pemeriksaan terlalu menyenangkan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Alat terlalu canggih",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hasil selalu normal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kondisi lingkungan lapangan yang dapat mengganggu kualitas pemeriksaan adalah?",
+      "explanation": "Kondisi lingkungan yang bising, panas, atau kurang privasi merupakan kendala lapangan yang mengganggu pemeriksaan.",
+      "difficulty": "EASY",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Lingkungan bising, panas, atau kurang privasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Ruangan tenang dan privat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pencahayaan memadai",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu ruangan stabil",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sumber utama kesalahan dalam pemeriksaan kesehatan kerja dasar antara lain?",
+      "explanation": "Kesalahan bersumber dari keterbatasan SDM, pekerja, alat ukur, lingkungan, tekanan waktu, dan budaya organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan",
+      "options": [
+        {
+          "text": "A. Keterbatasan SDM, alat ukur, lingkungan, dan tekanan waktu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kelebihan anggaran perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Terlalu banyak tenaga kesehatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Alat yang terlalu canggih",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Strategi paling mendasar untuk mengatasi kesalahan pengukuran adalah dengan?",
+      "explanation": "Standardisasi prosedur dengan SOP tertulis adalah strategi mengatasi kesalahan pengukuran.",
+      "difficulty": "EASY",
+      "tag": "Strategi mengatasi kesalahan & studi kasus",
+      "options": [
+        {
+          "text": "A. Standardisasi prosedur dengan SOP tertulis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengganti seluruh pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghentikan pemeriksaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengabaikan kesalahan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk menjaga akurasi hasil pengukuran, alat ukur tanda vital perlu?",
+      "explanation": "Kalibrasi alat secara berkala merupakan strategi penting untuk menjaga akurasi pengukuran.",
+      "difficulty": "EASY",
+      "tag": "Strategi mengatasi kesalahan & studi kasus",
+      "options": [
+        {
+          "text": "A. Dikalibrasi secara berkala",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dibiarkan tanpa perawatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Diganti setiap hari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak pernah dibersihkan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Strategi mengatasi kesalahan yang berkaitan dengan peningkatan kompetensi pemeriksa adalah?",
+      "explanation": "Pelatihan tenaga kesehatan kerja merupakan strategi untuk meningkatkan kompetensi dan mengurangi kesalahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi mengatasi kesalahan & studi kasus",
+      "options": [
+        {
+          "text": "A. Pelatihan tenaga kesehatan kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengurangi jumlah pemeriksaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghilangkan SOP",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengganti alat dengan yang lebih murah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Strategi mengatasi resistensi pekerja terhadap pemeriksaan adalah dengan?",
+      "explanation": "Edukasi pekerja menjadi strategi untuk mengatasi resistensi dan meningkatkan kepatuhan terhadap pemeriksaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi mengatasi kesalahan & studi kasus",
+      "options": [
+        {
+          "text": "A. Edukasi pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pemaksaan tanpa penjelasan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Ancaman pemecatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengabaikan kekhawatiran pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut ILO 2023, salah satu strategi mengatasi kesalahan adalah mengintegrasikan pemeriksaan dengan?",
+      "explanation": "Integrasi dengan program kesehatan perusahaan (ILO 2023) merupakan strategi mengatasi kesalahan pemeriksaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi mengatasi kesalahan & studi kasus",
+      "options": [
+        {
+          "text": "A. Program kesehatan perusahaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Program pemasaran produk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Program penghematan listrik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Program rekrutmen massal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada studi kasus Kesalahan Manset, seorang pekerja pabrik logam berusia 45 tahun salah didiagnosis hipertensi karena?",
+      "explanation": "Pada Kasus 1, pekerja salah didiagnosis hipertensi karena penggunaan manset yang terlalu kecil.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi mengatasi kesalahan & studi kasus",
+      "options": [
+        {
+          "text": "A. Penggunaan manset yang terlalu kecil",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Alat yang terlalu canggih",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pekerja terlalu tenang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu ruangan terlalu dingin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada studi kasus Kendala Waktu di perusahaan tekstil, akibat pemeriksaan yang terburu-buru adalah?",
+      "explanation": "Pada Kasus 2, pemeriksaan terburu-buru menyebabkan frekuensi pernapasan tidak dicatat.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi mengatasi kesalahan & studi kasus",
+      "options": [
+        {
+          "text": "A. Frekuensi pernapasan tidak dicatat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tekanan darah terlalu akurat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Semua data lengkap",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pekerja menjadi lebih sehat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada studi kasus pekerja tambang (Risiko Tinggi), jenis pemeriksaan tambahan yang diperlukan adalah?",
+      "explanation": "Pada Kasus 5, pekerja tambang memerlukan pemeriksaan pernapasan dan penapisan TB/penyakit paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi mengatasi kesalahan & studi kasus",
+      "options": [
+        {
+          "text": "A. Pemeriksaan pernapasan dan penapisan TB/penyakit paru",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pemeriksaan penglihatan warna",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pemeriksaan gigi rutin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pemeriksaan tinggi badan saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada studi kasus rumah sakit (Kasus 4), faktor yang memengaruhi tekanan darah dan nadi perawat adalah?",
+      "explanation": "Pada Kasus 4, beban kerja shift yang berat pada perawat memengaruhi tekanan darah dan nadi mereka.",
+      "difficulty": "MEDIUM",
+      "tag": "Strategi mengatasi kesalahan & studi kasus",
+      "options": [
+        {
+          "text": "A. Beban kerja shift yang berat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pencahayaan ruang rawat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Warna seragam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jenis makanan kantin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan implementasi pemeriksaan kesehatan kerja dasar adalah?",
+      "explanation": "Tujuan implementasi meliputi deteksi dini PAK maupun penyakit umum, monitoring berkelanjutan, dan dasar keputusan manajemen SDM.",
+      "difficulty": "EASY",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Deteksi dini PAK maupun penyakit umum",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Meningkatkan biaya pengobatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengurangi jumlah pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menambah beban administrasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Monitoring kesehatan berkelanjutan dalam implementasi pemeriksaan menghasilkan?",
+      "explanation": "Monitoring kesehatan berkelanjutan menghasilkan data longitudinal yang berguna untuk melihat tren kesehatan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Data longitudinal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Data sekali pakai",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Data yang tidak relevan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Data tanpa pencatatan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hasil pemeriksaan kesehatan dapat menjadi dasar pengambilan keputusan manajemen SDM dalam hal?",
+      "explanation": "Hasil pemeriksaan menjadi dasar keputusan penempatan, rotasi, dan intervensi terhadap pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Penempatan, rotasi, dan intervensi pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penentuan menu kantin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Desain logo perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penentuan harga produk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip dasar implementasi yang menyatakan bahwa data medis pekerja harus dirahasiakan disebut?",
+      "explanation": "Prinsip kerahasiaan menekankan bahwa data medis pekerja bersifat rahasia.",
+      "difficulty": "EASY",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Universalitas",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kerahasiaan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Keberlanjutan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Keterpaduan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip implementasi yang menekankan penggunaan prosedur standar yang seragam disebut?",
+      "explanation": "Prinsip konsistensi menekankan penggunaan prosedur standar agar hasil pemeriksaan dapat dibandingkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Konsistensi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kerahasiaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Universalitas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Keberlanjutan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip implementasi yang menekankan pemeriksaan dilakukan secara periodik disebut?",
+      "explanation": "Prinsip keberlanjutan menekankan pemeriksaan dilakukan secara periodik/berkesinambungan.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Konsistensi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Keberlanjutan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kerahasiaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Universalitas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Prinsip keterpaduan dalam implementasi pemeriksaan berarti pemeriksaan harus?",
+      "explanation": "Prinsip keterpaduan berarti pemeriksaan terintegrasi dengan program K3 perusahaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Terintegrasi dengan program K3",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Berdiri sendiri tanpa kaitan program lain",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Dilakukan hanya sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dirahasiakan dari manajemen K3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jenis pemeriksaan kesehatan kerja yang dilakukan sebelum pekerja diterima bekerja disebut?",
+      "explanation": "Pemeriksaan awal (pre-employment) dilakukan sebelum pekerja diterima bekerja.",
+      "difficulty": "EASY",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Pemeriksaan awal (pre-employment)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pemeriksaan berkala",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pemeriksaan khusus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pemeriksaan kembali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan kerja yang umumnya dilakukan setahun sekali atau sesuai tingkat risiko disebut?",
+      "explanation": "Pemeriksaan berkala dilakukan setahun sekali atau sesuai risiko paparan pekerja.",
+      "difficulty": "EASY",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Pemeriksaan awal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pemeriksaan berkala",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pemeriksaan khusus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pemeriksaan kembali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemeriksaan fungsi paru pada pekerja tambang dan pemeriksaan pendengaran pada pekerja pabrik bising termasuk jenis?",
+      "explanation": "Pemeriksaan fungsi paru pekerja tambang dan pendengaran pekerja pabrik bising termasuk pemeriksaan khusus.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Pemeriksaan awal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pemeriksaan berkala",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pemeriksaan khusus",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Pemeriksaan kembali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemeriksaan yang dilakukan setelah pekerja pulih dari sakit untuk memastikan kesiapan kembali bekerja disebut?",
+      "explanation": "Pemeriksaan kembali (return to work examination) dilakukan untuk memastikan pekerja siap kembali bekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Pemeriksaan kembali (return to work)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pemeriksaan awal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pemeriksaan khusus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pemeriksaan berkala",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Peralatan medis standar yang dibutuhkan dalam implementasi pemeriksaan kesehatan kerja meliputi?",
+      "explanation": "Peralatan standar meliputi sphygmomanometer, stetoskop, termometer, timbangan, spirometer, dan audiometer.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Sphygmomanometer, termometer, timbangan, spirometer, audiometer",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mikroskop dan sentrifus saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mesin X-ray tomografi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sound level meter dan lux meter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sistem pencatatan yang direkomendasikan dalam implementasi modern pemeriksaan kesehatan kerja adalah?",
+      "explanation": "Sistem pencatatan digital (electronic medical record/EMR) direkomendasikan untuk implementasi modern.",
+      "difficulty": "EASY",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Sistem pencatatan digital (EMR)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pencatatan lisan tanpa dokumen",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tanpa pencatatan sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya catatan pribadi pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Undang-undang yang mengatur Keselamatan Kerja di Indonesia sebagai dasar implementasi pemeriksaan adalah?",
+      "explanation": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja menjadi salah satu dasar hukum implementasi pemeriksaan kesehatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. UU No. 1 Tahun 1970",
+          "isCorrect": true
+        },
+        {
+          "text": "B. UU No. 5 Tahun 2018",
+          "isCorrect": false
+        },
+        {
+          "text": "C. UU No. 70 Tahun 2016",
+          "isCorrect": false
+        },
+        {
+          "text": "D. UU No. 44 Tahun 2015",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Undang-undang yang mengatur Kesehatan sebagai dasar implementasi pemeriksaan kesehatan kerja adalah?",
+      "explanation": "UU No. 36 Tahun 2009 tentang Kesehatan menjadi dasar hukum implementasi pemeriksaan kesehatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. UU No. 36 Tahun 2009",
+          "isCorrect": true
+        },
+        {
+          "text": "B. UU No. 13 Tahun 2003",
+          "isCorrect": false
+        },
+        {
+          "text": "C. UU No. 23 Tahun 1992",
+          "isCorrect": false
+        },
+        {
+          "text": "D. UU No. 1 Tahun 1970",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Secara global, lembaga yang menekankan pemeriksaan kesehatan kerja sebagai bagian integral SMK3 adalah?",
+      "explanation": "WHO dan ILO menekankan pemeriksaan kesehatan kerja sebagai bagian integral Sistem Manajemen K3 (SMK3).",
+      "difficulty": "EASY",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. WHO dan ILO",
+          "isCorrect": true
+        },
+        {
+          "text": "B. NASA dan ESA",
+          "isCorrect": false
+        },
+        {
+          "text": "C. UNESCO dan UNICEF",
+          "isCorrect": false
+        },
+        {
+          "text": "D. WTO dan IMF",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tantangan implementasi pemeriksaan kesehatan kerja antara lain?",
+      "explanation": "Tantangan implementasi meliputi keterbatasan anggaran, rendahnya kesadaran pekerja, beban administrasi, dan variasi kondisi industri.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Keterbatasan anggaran dan rendahnya kesadaran pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kelebihan tenaga medis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Alat yang terlalu murah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Antusiasme berlebih pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Strategi optimasi implementasi melalui pemanfaatan teknologi adalah?",
+      "explanation": "Digitalisasi sistem berbasis cloud merupakan strategi optimasi implementasi pemeriksaan kesehatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Digitalisasi sistem berbasis cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penghapusan semua catatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pemeriksaan manual saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghindari kolaborasi eksternal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada best practice Industri Otomotif Jepang, keunggulan implementasi pemeriksaannya adalah?",
+      "explanation": "Best practice Industri Otomotif Jepang menerapkan pemeriksaan digital dan integrasi data klinik-rumah sakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Pemeriksaan digital dan integrasi data klinik-rumah sakit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tanpa pencatatan data",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pemeriksaan manual sepenuhnya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada pemeriksaan berkala",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada best practice UKM Tekstil Bandung, strategi yang diterapkan adalah?",
+      "explanation": "UKM Tekstil Bandung bekerja sama dengan puskesmas dan melakukan pemeriksaan di luar jam kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Kerja sama dengan puskesmas dan pemeriksaan di luar jam kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membangun rumah sakit sendiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghentikan pemeriksaan karena biaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pemeriksaan hanya untuk manajer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa tujuan utama evaluasi efektivitas program pemeriksaan kesehatan kerja dasar?",
+      "explanation": "Evaluasi efektivitas menjawab apakah pemeriksaan menurunkan PAK, meningkatkan produktivitas, dan menurunkan absensi.",
+      "difficulty": "EASY",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Menilai apakah pemeriksaan menurunkan PAK dan meningkatkan produktivitas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menambah jumlah alat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengganti seluruh tenaga medis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Meningkatkan biaya operasional",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut WHO 2021, evaluasi program menilai tiga hal, yaitu?",
+      "explanation": "Menurut WHO 2021, evaluasi menilai output (jumlah pekerja diperiksa), outcome (penurunan insiden), dan impact (peningkatan keselamatan dan produktivitas).",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Output, outcome, dan impact",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Harga, merek, dan warna alat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lokasi, waktu, dan cuaca",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gaji, bonus, dan tunjangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam konsep evaluasi, aspek INPUT mencakup?",
+      "explanation": "Aspek input mencakup sumber daya seperti tenaga medis, fasilitas, anggaran, dan alat.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Tenaga medis, fasilitas, anggaran, dan alat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penurunan prevalensi hipertensi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kepatuhan prosedur",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jumlah pekerja diperiksa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam konsep evaluasi, aspek PROSES mencakup?",
+      "explanation": "Aspek proses mencakup kepatuhan prosedur, standar, dan keterlibatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Kepatuhan prosedur, standar, dan keterlibatan pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Anggaran dan alat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Peningkatan produktivitas",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penurunan kecelakaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penurunan prevalensi hipertensi dan obesitas serta peningkatan produktivitas merupakan bagian dari aspek evaluasi?",
+      "explanation": "Penurunan prevalensi penyakit dan peningkatan produktivitas termasuk aspek output, outcome, dan impact.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Output, outcome, dan impact",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Input",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Proses",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Persiapan alat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Indikator efektivitas program yang mengukur seberapa luas pekerja terjangkau pemeriksaan disebut?",
+      "explanation": "Cakupan pemeriksaan merupakan indikator efektivitas yang mengukur seberapa luas pekerja terjangkau program.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Cakupan pemeriksaan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Efisiensi biaya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kepuasan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kualitas pemeriksaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Indikator efektivitas yang berkaitan dengan dampak ekonomi program pemeriksaan adalah?",
+      "explanation": "Efisiensi biaya merupakan indikator efektivitas yang menilai dampak ekonomi program pemeriksaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Efisiensi biaya",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Cakupan pemeriksaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kepuasan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kualitas alat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Metode evaluasi yang membandingkan data kesehatan pekerja dari waktu ke waktu disebut?",
+      "explanation": "Metode evaluasi longitudinal membandingkan data kesehatan dari waktu ke waktu.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Metode longitudinal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Metode kuantitatif",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Metode kualitatif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Metode komparatif",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Metode evaluasi yang menggunakan wawancara dan FGD termasuk metode?",
+      "explanation": "Metode kualitatif menggunakan wawancara dan focus group discussion (FGD).",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Kuantitatif",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kualitatif",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Longitudinal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Komparatif",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Metode evaluasi yang membandingkan antar-unit atau perusahaan dengan standar tertentu disebut?",
+      "explanation": "Metode komparatif membandingkan antar-unit atau perusahaan terhadap suatu standar.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Komparatif",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kualitatif",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Longitudinal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Cost-effectiveness",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut studi Jepang (Tanaka et al. 2022), pemeriksaan berkala berhasil menurunkan hipertensi sebesar?",
+      "explanation": "Studi Tanaka et al. (2022) di Jepang menunjukkan pemeriksaan berkala menurunkan hipertensi 18% dalam 4 tahun.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. 18% dalam 4 tahun",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 10% dalam 3 tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 12% dalam 2 tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 60% dalam 10 tahun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut studi Eropa (Miller & Johansson 2021), program yang terintegrasi dengan promosi gizi menurunkan obesitas sebesar?",
+      "explanation": "Studi Miller & Johansson (2021) di Eropa menunjukkan penurunan obesitas 10% dalam 3 tahun.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. 10% dalam 3 tahun",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 18% dalam 4 tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 25% dalam 2 tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 60% dalam 10 tahun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut studi Indonesia (Prasetyo & Handayani 2023), program pemeriksaan menurunkan absensi sakit sebesar?",
+      "explanation": "Studi Prasetyo & Handayani (2023) di Indonesia menunjukkan penurunan absensi sakit 12% setelah 2 tahun.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. 12% setelah 2 tahun",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 18% setelah 4 tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 10% setelah 3 tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 25% setelah 1 tahun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada studi kasus evaluasi industri Minyak Timur Tengah, hasil cost-effectiveness menunjukkan setiap USD 1 investasi menghemat?",
+      "explanation": "Studi kasus Minyak Timur Tengah menunjukkan setiap USD 1 investasi pemeriksaan menghemat USD 3 biaya pengobatan PAK.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. USD 3 biaya pengobatan PAK",
+          "isCorrect": true
+        },
+        {
+          "text": "B. USD 1 biaya pengobatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. USD 10 biaya pengobatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak menghemat sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada studi kasus evaluasi Pertambangan Australia, pneumokoniosis berhasil turun sebesar?",
+      "explanation": "Studi kasus Pertambangan Australia yang terintegrasi dengan kualitas udara berhasil menurunkan pneumokoniosis 60% dalam 10 tahun.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. 60% dalam 10 tahun",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 18% dalam 4 tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 12% dalam 2 tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 25% dalam 5 tahun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada studi kasus evaluasi Rumah Sakit Jakarta, sinergi vaksinasi dan skrining TBC menurunkan absen akibat penyakit menular sebesar?",
+      "explanation": "Studi kasus Rumah Sakit Jakarta menunjukkan sinergi vaksinasi dan skrining TBC menurunkan absen menular 25%.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. 25%",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 60%",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 10%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 18%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu tantangan dalam pelaksanaan evaluasi program pemeriksaan kesehatan kerja adalah?",
+      "explanation": "Tantangan evaluasi meliputi keterbatasan data, kurangnya standar evaluasi nasional, kendala biaya, dan resistensi pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Keterbatasan data dan kurangnya standar evaluasi nasional",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kelebihan tenaga ahli evaluasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Anggaran yang berlimpah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Data yang terlalu lengkap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Strategi untuk meningkatkan kualitas evaluasi program antara lain?",
+      "explanation": "Strategi meningkatkan evaluasi meliputi digitalisasi data, standarisasi indikator nasional, kolaborasi eksternal, dan peningkatan kapasitas SDM.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Digitalisasi data dan standarisasi indikator nasional",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghapus pencatatan data",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghentikan kolaborasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi kapasitas SDM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Implikasi evaluasi program pemeriksaan bagi PEMERINTAH adalah menyediakan?",
+      "explanation": "Bagi pemerintah, evaluasi menyediakan data epidemiologi PAK yang berguna untuk kebijakan nasional.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Data epidemiologi PAK",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Keuntungan finansial pribadi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Materi pemasaran produk",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jadwal produksi pabrik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Implikasi evaluasi program pemeriksaan bagi PERUSAHAAN antara lain?",
+      "explanation": "Bagi perusahaan, evaluasi memberikan implikasi efisiensi biaya, produktivitas, dan reputasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Efisiensi biaya, produktivitas, dan reputasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penurunan kualitas produk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penambahan beban tanpa manfaat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengurangan jumlah pelanggan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Teknologi yang membuka peluang dalam evaluasi pemantauan kesehatan pekerja secara real time adalah?",
+      "explanation": "Wearable devices memantau nadi, TD, dan aktivitas secara real time, membuka peluang baru dalam evaluasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Wearable devices",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mesin tik manual",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Telepon kabel",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kalkulator sederhana",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada studi kasus evaluasi Teknologi Korea Selatan, aplikasi digital digunakan untuk?",
+      "explanation": "Studi kasus Korea Selatan menggunakan aplikasi digital tanda vital harian untuk deteksi pola abnormal.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Memasukkan tanda vital harian untuk deteksi pola abnormal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memesan makanan kantin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menghitung gaji pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengatur jadwal cuti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada studi kasus evaluasi Otomotif Indonesia (longitudinal 5 tahun), produktivitas pekerja meningkat sebesar?",
+      "explanation": "Studi kasus Otomotif Indonesia menunjukkan absensi turun dari 8% ke 5% dan produktivitas naik 15% dalam 5 tahun.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. 15%",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 25%",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 60%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 8%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sub febris pada interpretasi suhu tubuh berada pada rentang?",
+      "explanation": "Sub febris berada pada rentang suhu 37,5-38,5 derajat Celsius, sedangkan febris di atas 38,5 derajat Celsius.",
+      "difficulty": "HARD",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. 36,1-37,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 37,5-38,5 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "C. di atas 38,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. di bawah 35 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa pemantauan jangka panjang hasil pemeriksaan penting dalam tindak lanjut?",
+      "explanation": "Pemantauan jangka panjang penting untuk melihat tren kesehatan pekerja melalui analisis data longitudinal.",
+      "difficulty": "EASY",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut",
+      "options": [
+        {
+          "text": "A. Untuk melihat tren kesehatan pekerja dari waktu ke waktu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Untuk menambah beban administrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Untuk mengganti pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Untuk menaikkan biaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cold stress yang dialami pekerja di lingkungan dingin dapat membuat pekerja cenderung mengalami?",
+      "explanation": "Pekerja di lingkungan dingin cenderung lebih mudah terkena infeksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi",
+      "options": [
+        {
+          "text": "A. Dehidrasi berat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Infeksi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Heat stroke",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Takikardia fisiologis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu indikator efektivitas program yang menilai apakah pekerja menjalankan rujukan/saran medis adalah?",
+      "explanation": "Kepatuhan tindak lanjut merupakan indikator efektivitas yang menilai apakah pekerja menjalankan rujukan atau saran medis.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)",
+      "options": [
+        {
+          "text": "A. Kepatuhan tindak lanjut",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Cakupan pemeriksaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Efisiensi biaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kualitas alat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pendekatan partisipatif dalam strategi optimasi implementasi berarti?",
+      "explanation": "Pendekatan partisipatif melibatkan pekerja secara aktif dalam program pemeriksaan kesehatan kerja.",
+      "difficulty": "HARD",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)",
+      "options": [
+        {
+          "text": "A. Melibatkan pekerja secara aktif",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengabaikan masukan pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya melibatkan manajemen puncak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghapus peran pekerja",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Kategori tekanan darah NORMAL (AHA 2022)",
+      "back": "< 120/80 mmHg.",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi"
+    },
+    {
+      "front": "Hipertensi Stage 1 vs Stage 2 (AHA 2022)",
+      "back": "Stage 1: 130-139/80-89 mmHg; Stage 2: >=140/90 mmHg.",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi"
+    },
+    {
+      "front": "Bradikardia vs Takikardia",
+      "back": "Bradikardia: nadi <60 x/menit; Takikardia: nadi >100 x/menit. Normal 60-100 x/menit.",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi"
+    },
+    {
+      "front": "Bradipnea vs Takipnea",
+      "back": "Bradipnea: napas <12 x/menit; Takipnea: napas >20 x/menit. Normal dewasa 12-20 x/menit.",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi"
+    },
+    {
+      "front": "Interpretasi suhu tubuh",
+      "back": "Normal 36,5-37,5 C; Hipertermia >37,5 C; Hipotermia <35 C.",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi"
+    },
+    {
+      "front": "Interpretasi IMT (WHO 2022)",
+      "back": "Kurus <18,5; Normal 18,5-24,9; Overweight 25-29,9; Obesitas >=30.",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi"
+    },
+    {
+      "front": "Lingkar perut normal",
+      "back": "Pria <90 cm; Wanita <80 cm. Lebih dari itu = risiko sindrom metabolik.",
+      "tag": "Interpretasi hasil tekanan darah, nadi, pernapasan, suhu, status gizi"
+    },
+    {
+      "front": "Kombinasi tanda vital berisiko penyakit jantung koroner",
+      "back": "Hipertensi + obesitas + takikardia. Serangan jantung = otot jantung tak mendapat aliran darah akibat sumbatan plak kolesterol.",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi"
+    },
+    {
+      "front": "Kombinasi tanda vital indikasi infeksi pernapasan akibat kerja",
+      "back": "Takipnea + suhu tubuh meningkat.",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi"
+    },
+    {
+      "front": "Faktor yang memengaruhi interpretasi tanda vital",
+      "back": "Individu (usia, jenis kelamin, riwayat penyakit), lingkungan kerja (shift malam, paparan), psikososial (stres, beban kerja).",
+      "tag": "Analisis kombinasi tanda vital & faktor yang memengaruhi interpretasi"
+    },
+    {
+      "front": "Kriteria rujukan tekanan darah",
+      "back": "TD >=140/90 mmHg berulang dirujuk ke spesialis penyakit dalam.",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut"
+    },
+    {
+      "front": "Kriteria rujukan suhu & pernapasan",
+      "back": "Suhu >38,5 C + gejala sistemik dirujuk evaluasi infeksi; takipnea menetap + riwayat debu dirujuk ke spesialis paru.",
+      "tag": "Kriteria rujukan dan strategi tindak lanjut"
+    },
+    {
+      "front": "Kesalahan manset tekanan darah",
+      "back": "Manset terlalu kecil = hasil lebih tinggi (false high); terlalu besar = lebih rendah (false low).",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan"
+    },
+    {
+      "front": "Durasi minimal penghitungan nadi & napas",
+      "back": "Nadi minimal 60 detik (atau 30 detik x2 bila teratur); napas 1 menit penuh tanpa pasien sadar diperiksa.",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan"
+    },
+    {
+      "front": "Kesalahan status gizi",
+      "back": "Tinggi badan dengan sepatu menambah 2-5 cm; timbangan tak terkalibrasi menyimpang +-2 kg; lingkar perut harus di titik tengah rusuk terakhir & krista iliaka.",
+      "tag": "Kesalahan umum dalam pengukuran tiap parameter & kendala lapangan"
+    },
+    {
+      "front": "Strategi mengatasi kesalahan pemeriksaan",
+      "back": "SOP tertulis, kalibrasi alat berkala, pelatihan tenaga kesehatan, edukasi pekerja, integrasi program kesehatan (ILO 2023).",
+      "tag": "Strategi mengatasi kesalahan & studi kasus"
+    },
+    {
+      "front": "Empat jenis pemeriksaan kesehatan kerja",
+      "back": "Awal (pre-employment), Berkala, Khusus (paru tambang, pendengaran pabrik), dan Kembali (return to work).",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)"
+    },
+    {
+      "front": "Prinsip dasar implementasi",
+      "back": "Universalitas, Konsistensi, Kerahasiaan, Keberlanjutan, Keterpaduan.",
+      "tag": "Rekomendasi implementasi (tujuan, prinsip, jenis/frekuensi, sumber daya)"
+    },
+    {
+      "front": "Tiga aspek evaluasi efektivitas",
+      "back": "Input (sumber daya), Proses (kepatuhan prosedur), Output/Outcome/Impact (jumlah diperiksa, penurunan penyakit, produktivitas). WHO 2021: output, outcome, impact.",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)"
+    },
+    {
+      "front": "Hasil studi evaluasi",
+      "back": "Jepang (Tanaka 2022): hipertensi turun 18%/4thn; Eropa (Miller 2021): obesitas turun 10%/3thn; Indonesia (Prasetyo 2023): absensi turun 12%/2thn; cost-effectiveness USD 1 hemat USD 3.",
+      "tag": "Evaluasi efektivitas (input-proses-output, indikator, metode, hasil studi)"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "interpretasi-evaluasi",
+      "label": "Interpretasi, Kendala & Evaluasi",
+      "color": "#6366f1",
+      "parent": null,
+      "content": "Interpretasi hasil tanda vital adalah tahap krusial untuk menilai status kesehatan pekerja saat ini dan risiko jangka panjang, dilanjutkan dengan tindak lanjut, penanganan kendala, dan evaluasi efektivitas program."
+    },
+    {
+      "id": "interpretasi-parameter",
+      "label": "Interpretasi Parameter",
+      "color": "#8b5cf6",
+      "parent": "interpretasi-evaluasi",
+      "content": "Penilaian tiap tanda vital terhadap nilai rujukan untuk menentukan kondisi normal atau abnormal."
+    },
+    {
+      "id": "interp-td",
+      "label": "Tekanan Darah",
+      "color": "#8b5cf6",
+      "parent": "interpretasi-parameter",
+      "content": "AHA 2022: Normal <120/80; Prehipertensi 120-129/<80; Hipertensi Stage 1 130-139/80-89; Stage 2 >=140/90 mmHg."
+    },
+    {
+      "id": "interp-nadi",
+      "label": "Frekuensi Nadi",
+      "color": "#8b5cf6",
+      "parent": "interpretasi-parameter",
+      "content": "Normal 60-100 x/menit; Bradikardia <60; Takikardia >100. Irama tidak teratur dapat menandakan aritmia."
+    },
+    {
+      "id": "interp-napas",
+      "label": "Frekuensi Pernapasan",
+      "color": "#8b5cf6",
+      "parent": "interpretasi-parameter",
+      "content": "Normal 12-20 x/menit; Bradipnea <12; Takipnea >20. Perubahan dapat menjadi tanda awal PPOK atau asma akibat kerja."
+    },
+    {
+      "id": "interp-suhu",
+      "label": "Suhu Tubuh",
+      "color": "#8b5cf6",
+      "parent": "interpretasi-parameter",
+      "content": "Normal 36,5-37,5 C; Hipertermia >37,5 (heat stress); Hipotermia <35 (cold stress)."
+    },
+    {
+      "id": "interp-gizi",
+      "label": "Status Gizi",
+      "color": "#8b5cf6",
+      "parent": "interpretasi-parameter",
+      "content": "WHO 2022: Kurus <18,5; Normal 18,5-24,9; Overweight 25-29,9; Obesitas >=30. Lingkar perut normal pria <90 cm, wanita <80 cm."
+    },
+    {
+      "id": "analisis-kombinasi",
+      "label": "Analisis Kombinasi",
+      "color": "#0ea5e9",
+      "parent": "interpretasi-evaluasi",
+      "content": "Analisis gabungan beberapa tanda vital memberikan gambaran risiko yang lebih holistik dibanding parameter tunggal."
+    },
+    {
+      "id": "kombinasi-jantung",
+      "label": "Risiko Jantung Koroner",
+      "color": "#0ea5e9",
+      "parent": "analisis-kombinasi",
+      "content": "Hipertensi + obesitas + takikardia menandakan risiko tinggi penyakit jantung koroner."
+    },
+    {
+      "id": "kombinasi-infeksi",
+      "label": "Infeksi Pernapasan",
+      "color": "#0ea5e9",
+      "parent": "analisis-kombinasi",
+      "content": "Takipnea disertai suhu tubuh meningkat mengarah pada infeksi pernapasan akibat kerja."
+    },
+    {
+      "id": "faktor-individu",
+      "label": "Faktor Individu",
+      "color": "#0ea5e9",
+      "parent": "analisis-kombinasi",
+      "content": "Usia (lansia TD lebih tinggi), jenis kelamin (pria lebih berisiko hipertensi usia muda), dan riwayat penyakit kronis."
+    },
+    {
+      "id": "faktor-lingkungan",
+      "label": "Faktor Lingkungan & Psikososial",
+      "color": "#0ea5e9",
+      "parent": "analisis-kombinasi",
+      "content": "Lingkungan kerja (shift malam, paparan berbahaya, ergonomi buruk) dan psikososial (stres, beban kerja, konflik organisasi)."
+    },
+    {
+      "id": "tindak-lanjut",
+      "label": "Rujukan & Tindak Lanjut",
+      "color": "#10b981",
+      "parent": "interpretasi-evaluasi",
+      "content": "Strategi menindaklanjuti hasil abnormal melalui rujukan, intervensi, dan pemantauan."
+    },
+    {
+      "id": "kriteria-rujukan",
+      "label": "Kriteria Rujukan",
+      "color": "#10b981",
+      "parent": "tindak-lanjut",
+      "content": "TD >=140/90 berulang ke spesialis penyakit dalam; suhu >38,5 + gejala sistemik untuk evaluasi infeksi; takipnea menetap + riwayat debu ke spesialis paru."
+    },
+    {
+      "id": "intervensi-preventif",
+      "label": "Intervensi Promotif-Preventif",
+      "color": "#10b981",
+      "parent": "tindak-lanjut",
+      "content": "Edukasi pola hidup sehat, pemeriksaan berkala minimal setahun sekali, dan fasilitas olahraga ringan."
+    },
+    {
+      "id": "pemantauan-panjang",
+      "label": "Pemantauan Jangka Panjang",
+      "color": "#10b981",
+      "parent": "tindak-lanjut",
+      "content": "Hasil dianalisis secara longitudinal untuk melihat tren kesehatan pekerja."
+    },
+    {
+      "id": "kesalahan-kendala",
+      "label": "Kesalahan & Kendala",
+      "color": "#f59e0b",
+      "parent": "interpretasi-evaluasi",
+      "content": "Kesalahan pengukuran dan kendala lapangan dapat menurunkan kualitas data dan menyebabkan salah diagnosis."
+    },
+    {
+      "id": "salah-td",
+      "label": "Kesalahan Tekanan Darah",
+      "color": "#f59e0b",
+      "parent": "kesalahan-kendala",
+      "content": "Manset tidak sesuai (kecil=false high, besar=false low), pekerja terburu-buru, posisi salah, pembacaan/kalibrasi keliru."
+    },
+    {
+      "id": "salah-nadi-napas",
+      "label": "Kesalahan Nadi & Napas",
+      "color": "#f59e0b",
+      "parent": "kesalahan-kendala",
+      "content": "Palpasi terlalu kuat, durasi <60 detik, mengabaikan irama/kekuatan; pekerja sadar diperiksa mengubah pola napas."
+    },
+    {
+      "id": "salah-suhu-gizi",
+      "label": "Kesalahan Suhu & Gizi",
+      "color": "#f59e0b",
+      "parent": "kesalahan-kendala",
+      "content": "Lokasi suhu tidak konsisten, alat tak terkalibrasi; tinggi dengan sepatu (+2-5 cm), timbangan menyimpang +-2 kg, lingkar perut salah titik."
+    },
+    {
+      "id": "kendala-lapangan",
+      "label": "Kendala Lapangan",
+      "color": "#f59e0b",
+      "parent": "kesalahan-kendala",
+      "content": "Keterbatasan alat (UKM), waktu terbatas (jadwal produksi), lingkungan bising/panas/kurang privasi, dan resistensi pekerja."
+    },
+    {
+      "id": "strategi-kasus",
+      "label": "Strategi & Studi Kasus",
+      "color": "#ef4444",
+      "parent": "interpretasi-evaluasi",
+      "content": "Strategi mengatasi kesalahan dan pembelajaran dari studi kasus lapangan."
+    },
+    {
+      "id": "strategi-mengatasi",
+      "label": "Strategi Mengatasi",
+      "color": "#ef4444",
+      "parent": "strategi-kasus",
+      "content": "SOP tertulis, kalibrasi alat berkala, pelatihan tenaga kesehatan, edukasi pekerja, dan integrasi program kesehatan (ILO 2023)."
+    },
+    {
+      "id": "studi-kasus",
+      "label": "Studi Kasus",
+      "color": "#ef4444",
+      "parent": "strategi-kasus",
+      "content": "Kasus manset salah diagnosis hipertensi, kendala waktu napas tak dicatat, perawat shift berat, dan pekerja tambang perlu penapisan TB/paru."
+    },
+    {
+      "id": "implementasi",
+      "label": "Rekomendasi Implementasi",
+      "color": "#ec4899",
+      "parent": "interpretasi-evaluasi",
+      "content": "Penerapan program pemeriksaan secara terstandar dengan tujuan, prinsip, jenis, dan sumber daya yang jelas."
+    },
+    {
+      "id": "impl-tujuan",
+      "label": "Tujuan Implementasi",
+      "color": "#ec4899",
+      "parent": "implementasi",
+      "content": "Deteksi dini PAK, monitoring berkelanjutan (data longitudinal), dasar keputusan manajemen SDM, peningkatan produktivitas, dan pemenuhan regulasi."
+    },
+    {
+      "id": "impl-prinsip",
+      "label": "Prinsip Dasar",
+      "color": "#ec4899",
+      "parent": "implementasi",
+      "content": "Universalitas, Konsistensi, Kerahasiaan, Keberlanjutan, dan Keterpaduan."
+    },
+    {
+      "id": "impl-jenis",
+      "label": "Jenis & Frekuensi",
+      "color": "#ec4899",
+      "parent": "implementasi",
+      "content": "Pemeriksaan awal (pre-employment), berkala (setahun/sesuai risiko), khusus (paru tambang, pendengaran pabrik), dan kembali (return to work)."
+    },
+    {
+      "id": "impl-sumberdaya",
+      "label": "Sumber Daya",
+      "color": "#ec4899",
+      "parent": "implementasi",
+      "content": "Tenaga medis-paramedis, peralatan standar (sphygmomanometer, termometer, timbangan, spirometer, audiometer), fasilitas privat, dan sistem EMR."
+    },
+    {
+      "id": "impl-bestpractice",
+      "label": "Best Practices",
+      "color": "#ec4899",
+      "parent": "implementasi",
+      "content": "Otomotif Jepang (pemeriksaan digital terintegrasi), UKM Tekstil Bandung (kerja sama puskesmas), Pertambangan Australia (fokus paru & pendengaran)."
+    },
+    {
+      "id": "evaluasi",
+      "label": "Evaluasi Efektivitas",
+      "color": "#14b8a6",
+      "parent": "interpretasi-evaluasi",
+      "content": "Penilaian apakah program menurunkan PAK, meningkatkan produktivitas, dan menurunkan absensi. WHO 2021: output, outcome, impact."
+    },
+    {
+      "id": "eval-aspek",
+      "label": "Aspek Input-Proses-Output",
+      "color": "#14b8a6",
+      "parent": "evaluasi",
+      "content": "Input (tenaga, fasilitas, anggaran, alat); Proses (kepatuhan prosedur, keterlibatan pekerja); Output/Outcome/Impact (jumlah diperiksa, penurunan penyakit, produktivitas)."
+    },
+    {
+      "id": "eval-indikator",
+      "label": "Indikator Efektivitas",
+      "color": "#14b8a6",
+      "parent": "evaluasi",
+      "content": "Cakupan, kualitas pemeriksaan, kepatuhan tindak lanjut, penurunan PAK, absensi-produktivitas, kepuasan pekerja, dan efisiensi biaya."
+    },
+    {
+      "id": "eval-metode",
+      "label": "Metode Evaluasi",
+      "color": "#14b8a6",
+      "parent": "evaluasi",
+      "content": "Kuantitatif, kualitatif (wawancara/FGD), longitudinal, komparatif, dan cost-effectiveness."
+    },
+    {
+      "id": "eval-hasil",
+      "label": "Hasil Studi",
+      "color": "#14b8a6",
+      "parent": "evaluasi",
+      "content": "Jepang hipertensi -18%/4thn; Eropa obesitas -10%/3thn; Indonesia absensi -12%/2thn; Timur Tengah USD 1 hemat USD 3; Australia pneumokoniosis -60%/10thn."
+    }
+  ]
+}

@@ -1,0 +1,1409 @@
+{
+  "topic": "HIRADC (Hazard Identification, Risk Assessment and Determining Control)",
+  "order": 4,
+  "description": "HIRADC adalah metode sistematis untuk mengidentifikasi bahaya pada setiap aktivitas pekerjaan, menilai tingkat risiko berdasarkan kemungkinan (likelihood) dan keparahan (severity), lalu menentukan tindakan pengendalian sesuai hierarki pengendalian. Metode ini menjadi dasar manajemen risiko K3 dan banyak diterapkan di sektor manufaktur maupun industri lainnya.",
+  "subtopics": [
+    "Pengertian & Komponen HIRADC",
+    "Identifikasi Bahaya",
+    "Penilaian Risiko",
+    "Matriks & Kategori Risiko",
+    "Penentuan Pengendalian",
+    "Hierarki Pengendalian",
+    "Risiko Residual",
+    "Penyusunan Formulir & Penerapan"
+  ],
+  "questions": [
+    {
+      "text": "Kepanjangan dari HIRADC adalah?",
+      "explanation": "HIRADC adalah singkatan dari Hazard Identification, Risk Assessment and Determining Control.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Komponen HIRADC",
+      "options": [
+        { "text": "A. Hazard Identification, Risk Assessment and Determining Control", "isCorrect": true },
+        { "text": "B. Hazard Inspection, Risk Analysis and Damage Control", "isCorrect": false },
+        { "text": "C. Health Investigation, Risk Audit and Documentation Control", "isCorrect": false },
+        { "text": "D. Hazard Information, Reporting and Determination Criteria", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tiga komponen utama dalam HIRADC adalah?",
+      "explanation": "HIRADC terdiri dari tiga komponen utama: identifikasi bahaya, penilaian risiko, dan penentuan pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Komponen HIRADC",
+      "options": [
+        { "text": "A. Inspeksi, audit, dan sertifikasi", "isCorrect": false },
+        { "text": "B. Identifikasi bahaya, penilaian risiko, dan penentuan pengendalian", "isCorrect": true },
+        { "text": "C. Perencanaan, pelaksanaan, dan evaluasi", "isCorrect": false },
+        { "text": "D. Pelaporan, investigasi, dan dokumentasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama penyusunan HIRADC adalah?",
+      "explanation": "Tujuan utama HIRADC adalah mengelola risiko K3 secara proaktif agar bahaya dapat dikendalikan sebelum menimbulkan kecelakaan atau penyakit akibat kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Komponen HIRADC",
+      "options": [
+        { "text": "A. Menghukum pekerja yang lalai", "isCorrect": false },
+        { "text": "B. Mengelola risiko agar bahaya dikendalikan sebelum menimbulkan kecelakaan", "isCorrect": true },
+        { "text": "C. Meningkatkan produksi semata", "isCorrect": false },
+        { "text": "D. Mengganti seluruh peralatan kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HIRADC merupakan salah satu elemen penting dalam penerapan?",
+      "explanation": "HIRADC merupakan bagian inti dari Sistem Manajemen K3 (SMK3) dalam perencanaan pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Komponen HIRADC",
+      "options": [
+        { "text": "A. Sistem Manajemen Mutu ISO 9001", "isCorrect": false },
+        { "text": "B. Sistem Manajemen K3 (SMK3)", "isCorrect": true },
+        { "text": "C. Sistem akuntansi keuangan", "isCorrect": false },
+        { "text": "D. Sistem pemasaran produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar internasional yang menjadi acuan penerapan manajemen risiko K3 termasuk HIRADC adalah?",
+      "explanation": "ISO 45001:2018 (sebelumnya OHSAS 18001) merupakan standar sistem manajemen K3 yang mensyaratkan identifikasi bahaya dan penilaian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Komponen HIRADC",
+      "options": [
+        { "text": "A. ISO 14001", "isCorrect": false },
+        { "text": "B. ISO 45001", "isCorrect": true },
+        { "text": "C. ISO 22000", "isCorrect": false },
+        { "text": "D. ISO 27001", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HIRADC sebaiknya disusun pada tahap?",
+      "explanation": "HIRADC sebaiknya disusun pada tahap perencanaan, sebelum suatu pekerjaan atau proses dilaksanakan, agar pengendalian dapat disiapkan terlebih dahulu.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Komponen HIRADC",
+      "options": [
+        { "text": "A. Setelah terjadi kecelakaan", "isCorrect": false },
+        { "text": "B. Perencanaan, sebelum pekerjaan dilaksanakan", "isCorrect": true },
+        { "text": "C. Saat audit akhir tahun saja", "isCorrect": false },
+        { "text": "D. Setelah produk dipasarkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HIRADC bersifat dokumen yang perlu ditinjau ulang secara?",
+      "explanation": "HIRADC adalah dokumen hidup (living document) yang harus ditinjau ulang secara berkala atau ketika ada perubahan proses, peralatan, atau setelah terjadi insiden.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Komponen HIRADC",
+      "options": [
+        { "text": "A. Sekali seumur hidup pabrik", "isCorrect": false },
+        { "text": "B. Berkala dan saat ada perubahan proses atau insiden", "isCorrect": true },
+        { "text": "C. Hanya saat pergantian direktur", "isCorrect": false },
+        { "text": "D. Tidak perlu ditinjau", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengertian bahaya (hazard) dalam HIRADC adalah?",
+      "explanation": "Bahaya (hazard) adalah segala sesuatu (sumber, situasi, atau tindakan) yang berpotensi menimbulkan cedera, sakit, atau kerugian.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Kejadian yang sudah menimbulkan kerugian", "isCorrect": false },
+        { "text": "B. Sumber atau situasi yang berpotensi menimbulkan cedera atau kerugian", "isCorrect": true },
+        { "text": "C. Hasil akhir dari kecelakaan", "isCorrect": false },
+        { "text": "D. Dokumen pelaporan K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara bahaya (hazard) dan risiko (risk) adalah?",
+      "explanation": "Bahaya adalah potensi sumber kerugian, sedangkan risiko adalah kombinasi kemungkinan terjadinya dan keparahan akibat dari bahaya tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Bahaya dan risiko adalah istilah yang sama persis", "isCorrect": false },
+        { "text": "B. Bahaya adalah potensi sumber kerugian; risiko adalah kombinasi kemungkinan dan keparahannya", "isCorrect": true },
+        { "text": "C. Risiko adalah sumber, bahaya adalah akibatnya", "isCorrect": false },
+        { "text": "D. Bahaya hanya untuk mesin, risiko hanya untuk manusia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya yang berasal dari kebisingan, getaran, suhu ekstrem, dan radiasi termasuk jenis bahaya?",
+      "explanation": "Kebisingan, getaran, suhu ekstrem, pencahayaan, dan radiasi merupakan bahaya faktor fisika.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Bahaya kimia", "isCorrect": false },
+        { "text": "B. Bahaya fisika", "isCorrect": true },
+        { "text": "C. Bahaya biologi", "isCorrect": false },
+        { "text": "D. Bahaya psikososial", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya yang berasal dari paparan bahan kimia, gas beracun, debu, dan uap pelarut termasuk jenis bahaya?",
+      "explanation": "Paparan bahan kimia, gas, debu, dan uap pelarut termasuk bahaya kimia.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Bahaya fisika", "isCorrect": false },
+        { "text": "B. Bahaya kimia", "isCorrect": true },
+        { "text": "C. Bahaya ergonomi", "isCorrect": false },
+        { "text": "D. Bahaya mekanik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya yang berasal dari virus, bakteri, jamur, dan mikroorganisme lain termasuk jenis bahaya?",
+      "explanation": "Virus, bakteri, jamur, dan parasit merupakan bahaya biologi.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Bahaya biologi", "isCorrect": true },
+        { "text": "B. Bahaya kimia", "isCorrect": false },
+        { "text": "C. Bahaya fisika", "isCorrect": false },
+        { "text": "D. Bahaya listrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Postur kerja janggal, gerakan berulang, dan pengangkatan beban berlebih termasuk jenis bahaya?",
+      "explanation": "Postur janggal, gerakan berulang, dan beban berlebih termasuk bahaya ergonomi yang dapat menimbulkan gangguan otot rangka (MSDs).",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Bahaya kimia", "isCorrect": false },
+        { "text": "B. Bahaya ergonomi", "isCorrect": true },
+        { "text": "C. Bahaya biologi", "isCorrect": false },
+        { "text": "D. Bahaya radiasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja, beban kerja berlebih, kekerasan di tempat kerja, dan hubungan kerja yang buruk termasuk jenis bahaya?",
+      "explanation": "Stres, beban kerja berlebih, dan konflik di tempat kerja termasuk bahaya psikososial.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Bahaya psikososial", "isCorrect": true },
+        { "text": "B. Bahaya fisika", "isCorrect": false },
+        { "text": "C. Bahaya mekanik", "isCorrect": false },
+        { "text": "D. Bahaya kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya dari mesin berputar, bagian tajam, dan benda bergerak yang dapat menjepit atau memotong termasuk bahaya?",
+      "explanation": "Mesin berputar, gear, conveyor, dan bagian tajam termasuk bahaya mekanik yang dapat menyebabkan terjepit, terpotong, atau terbentur.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Bahaya psikososial", "isCorrect": false },
+        { "text": "B. Bahaya biologi", "isCorrect": false },
+        { "text": "C. Bahaya mekanik", "isCorrect": true },
+        { "text": "D. Bahaya kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah pertama dalam menyusun HIRADC adalah?",
+      "explanation": "Langkah pertama HIRADC adalah menguraikan aktivitas/pekerjaan menjadi langkah-langkah dan mengidentifikasi bahaya pada setiap aktivitas tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Menentukan APD yang dipakai", "isCorrect": false },
+        { "text": "B. Menguraikan aktivitas dan mengidentifikasi bahaya tiap langkah", "isCorrect": true },
+        { "text": "C. Menghitung biaya pengendalian", "isCorrect": false },
+        { "text": "D. Membuat laporan kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode identifikasi bahaya yang dilakukan dengan mengamati langsung kondisi dan tindakan di tempat kerja disebut?",
+      "explanation": "Observasi/inspeksi lapangan adalah metode identifikasi bahaya dengan mengamati langsung kondisi tidak aman dan tindakan tidak aman di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Observasi/inspeksi lapangan", "isCorrect": true },
+        { "text": "B. Audit keuangan", "isCorrect": false },
+        { "text": "C. Survei kepuasan pelanggan", "isCorrect": false },
+        { "text": "D. Wawancara rekrutmen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam identifikasi bahaya, kondisi tidak aman (unsafe condition) contohnya adalah?",
+      "explanation": "Unsafe condition adalah keadaan lingkungan/peralatan yang berbahaya, misalnya lantai licin, pelindung mesin (guard) yang rusak, atau kabel terkelupas.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Pekerja tidak memakai APD", "isCorrect": false },
+        { "text": "B. Pelindung mesin rusak atau lantai licin", "isCorrect": true },
+        { "text": "C. Pekerja bercanda saat bekerja", "isCorrect": false },
+        { "text": "D. Pekerja mengangkat beban dengan postur salah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam identifikasi bahaya, tindakan tidak aman (unsafe act) contohnya adalah?",
+      "explanation": "Unsafe act adalah perilaku berbahaya pekerja, misalnya tidak memakai APD, melepas pelindung mesin, atau bekerja dengan posisi salah.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Lantai berminyak", "isCorrect": false },
+        { "text": "B. Pencahayaan kurang", "isCorrect": false },
+        { "text": "C. Pekerja tidak memakai APD saat mengoperasikan mesin", "isCorrect": true },
+        { "text": "D. Ventilasi buruk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada proses pembuatan gelas kaca, bahaya utama saat peleburan bahan baku adalah?",
+      "explanation": "Pada peleburan kaca, suhu tungku sangat tinggi sehingga bahaya utamanya adalah paparan panas/luka bakar (bahaya fisika termal).",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Paparan suhu tinggi dan luka bakar", "isCorrect": true },
+        { "text": "B. Banjir", "isCorrect": false },
+        { "text": "C. Suhu sangat dingin", "isCorrect": false },
+        { "text": "D. Serangan hewan liar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada manufaktur pembuatan kertas, bahaya pada mesin penggulung (roller) yang sering terjadi adalah?",
+      "explanation": "Mesin roller pada pembuatan kertas berpotensi menjepit (nip point) tangan pekerja, termasuk bahaya mekanik.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Tersengat listrik statis murni", "isCorrect": false },
+        { "text": "B. Terjepit pada titik nip roller", "isCorrect": true },
+        { "text": "C. Tenggelam", "isCorrect": false },
+        { "text": "D. Radiasi nuklir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada manufaktur makanan kaleng, proses sterilisasi/pemanasan menimbulkan bahaya berupa?",
+      "explanation": "Proses sterilisasi/retort menggunakan uap dan tekanan tinggi sehingga berpotensi menimbulkan luka bakar uap panas dan ledakan bejana tekan.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Luka bakar uap panas dan tekanan tinggi", "isCorrect": true },
+        { "text": "B. Frostbite (radang dingin)", "isCorrect": false },
+        { "text": "C. Sengatan ubur-ubur", "isCorrect": false },
+        { "text": "D. Tidak ada bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya sebaiknya mempertimbangkan kondisi operasi berupa?",
+      "explanation": "Identifikasi bahaya harus mempertimbangkan kondisi normal, abnormal, dan keadaan darurat (emergency) agar lengkap.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Hanya kondisi normal", "isCorrect": false },
+        { "text": "B. Kondisi normal, abnormal, dan keadaan darurat", "isCorrect": true },
+        { "text": "C. Hanya kondisi saat audit", "isCorrect": false },
+        { "text": "D. Hanya saat mesin mati", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi risiko (risk) dalam penilaian risiko adalah?",
+      "explanation": "Risiko adalah kombinasi antara kemungkinan (likelihood) terjadinya suatu kejadian berbahaya dan keparahan (severity) akibat yang ditimbulkannya.",
+      "difficulty": "EASY",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Kombinasi kemungkinan dan keparahan suatu kejadian", "isCorrect": true },
+        { "text": "B. Jumlah pekerja di suatu area", "isCorrect": false },
+        { "text": "C. Biaya produksi per unit", "isCorrect": false },
+        { "text": "D. Lama waktu kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dua faktor utama yang dinilai dalam penilaian risiko (risk assessment) adalah?",
+      "explanation": "Penilaian risiko dilakukan dengan menilai likelihood (kemungkinan) dan severity (keparahan/konsekuensi).",
+      "difficulty": "EASY",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Biaya dan waktu", "isCorrect": false },
+        { "text": "B. Kemungkinan (likelihood) dan keparahan (severity)", "isCorrect": true },
+        { "text": "C. Suhu dan kelembapan", "isCorrect": false },
+        { "text": "D. Jumlah mesin dan jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah likelihood dalam penilaian risiko mengacu pada?",
+      "explanation": "Likelihood adalah kemungkinan atau probabilitas terjadinya suatu kejadian berbahaya.",
+      "difficulty": "EASY",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Besarnya kerugian finansial", "isCorrect": false },
+        { "text": "B. Kemungkinan/peluang terjadinya kejadian", "isCorrect": true },
+        { "text": "C. Jenis APD yang dipakai", "isCorrect": false },
+        { "text": "D. Lokasi pekerjaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah severity dalam penilaian risiko mengacu pada?",
+      "explanation": "Severity adalah tingkat keparahan atau konsekuensi/dampak dari suatu kejadian berbahaya bila terjadi.",
+      "difficulty": "EASY",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Keparahan/konsekuensi dari kejadian", "isCorrect": true },
+        { "text": "B. Frekuensi pekerja masuk kerja", "isCorrect": false },
+        { "text": "C. Jumlah shift kerja", "isCorrect": false },
+        { "text": "D. Kemungkinan terjadinya kejadian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rumus dasar penilaian tingkat risiko (risk level) dalam metode matriks adalah?",
+      "explanation": "Tingkat risiko dihitung dengan rumus Risiko = Likelihood x Severity (kemungkinan dikali keparahan).",
+      "difficulty": "MEDIUM",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Risiko = Likelihood + Biaya", "isCorrect": false },
+        { "text": "B. Risiko = Likelihood x Severity", "isCorrect": true },
+        { "text": "C. Risiko = Severity - Likelihood", "isCorrect": false },
+        { "text": "D. Risiko = Jumlah pekerja x jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan penilaian risiko yang menggunakan kategori deskriptif (rendah, sedang, tinggi) tanpa angka pasti disebut?",
+      "explanation": "Penilaian risiko kualitatif menggunakan kategori deskriptif seperti rendah, sedang, dan tinggi tanpa angka kuantitatif yang pasti.",
+      "difficulty": "MEDIUM",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Penilaian kuantitatif", "isCorrect": false },
+        { "text": "B. Penilaian kualitatif", "isCorrect": true },
+        { "text": "C. Penilaian finansial", "isCorrect": false },
+        { "text": "D. Penilaian statistik murni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada skala likelihood, nilai paling tinggi diberikan untuk kejadian yang?",
+      "explanation": "Nilai likelihood tertinggi diberikan untuk kejadian yang hampir pasti terjadi atau sering terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Hampir tidak mungkin terjadi", "isCorrect": false },
+        { "text": "B. Hampir pasti/sering terjadi", "isCorrect": true },
+        { "text": "C. Tidak pernah terjadi sama sekali", "isCorrect": false },
+        { "text": "D. Hanya terjadi di pabrik lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada skala severity, nilai paling tinggi (paling parah) diberikan untuk konsekuensi berupa?",
+      "explanation": "Nilai severity tertinggi diberikan untuk konsekuensi paling parah seperti kematian (fatality) atau cacat permanen.",
+      "difficulty": "MEDIUM",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Luka ringan/lecet", "isCorrect": false },
+        { "text": "B. Tidak ada cedera", "isCorrect": false },
+        { "text": "C. Kematian atau cacat permanen", "isCorrect": true },
+        { "text": "D. Pekerja sedikit lelah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika suatu aktivitas memiliki likelihood = 4 dan severity = 4, maka nilai risikonya adalah?",
+      "explanation": "Risiko = Likelihood x Severity = 4 x 4 = 16, yang umumnya tergolong risiko tinggi/ekstrem pada matriks 5x5.",
+      "difficulty": "MEDIUM",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. 8", "isCorrect": false },
+        { "text": "B. 16", "isCorrect": true },
+        { "text": "C. 0", "isCorrect": false },
+        { "text": "D. 1", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko yang memberi skor pada probabilitas, paparan, dan konsekuensi lalu mengalikannya disebut metode?",
+      "explanation": "Metode semi-kuantitatif (misalnya metode Fine) memberi skor pada probability, exposure, dan consequence lalu mengalikannya untuk memperoleh nilai risiko.",
+      "difficulty": "HARD",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Semi-kuantitatif", "isCorrect": true },
+        { "text": "B. Kualitatif murni", "isCorrect": false },
+        { "text": "C. Naratif", "isCorrect": false },
+        { "text": "D. Acak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian risiko harus dilakukan untuk kondisi sebelum pengendalian (existing) untuk mengetahui?",
+      "explanation": "Penilaian risiko awal (initial/existing risk) dilakukan untuk mengetahui tingkat risiko sebelum pengendalian tambahan diterapkan, sebagai dasar prioritas.",
+      "difficulty": "HARD",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Risiko awal sebelum pengendalian tambahan", "isCorrect": true },
+        { "text": "B. Harga jual produk", "isCorrect": false },
+        { "text": "C. Jumlah cuti pekerja", "isCorrect": false },
+        { "text": "D. Kapasitas gudang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat bantu visual berbentuk tabel yang memetakan likelihood terhadap severity disebut?",
+      "explanation": "Matriks risiko (risk matrix) adalah tabel yang memetakan likelihood (baris/kolom) terhadap severity untuk menentukan tingkat risiko.",
+      "difficulty": "EASY",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Diagram alir", "isCorrect": false },
+        { "text": "B. Matriks risiko (risk matrix)", "isCorrect": true },
+        { "text": "C. Diagram pohon keluarga", "isCorrect": false },
+        { "text": "D. Peta lokasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ukuran matriks risiko yang paling umum digunakan dalam HIRADC adalah?",
+      "explanation": "Matriks risiko yang umum digunakan adalah matriks 5x5, yaitu 5 tingkat likelihood dan 5 tingkat severity.",
+      "difficulty": "MEDIUM",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. 2x2", "isCorrect": false },
+        { "text": "B. 5x5", "isCorrect": true },
+        { "text": "C. 10x10", "isCorrect": false },
+        { "text": "D. 1x100", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks risiko, warna merah umumnya menunjukkan kategori risiko?",
+      "explanation": "Pada matriks risiko, warna merah menunjukkan risiko tinggi/ekstrem yang memerlukan tindakan pengendalian segera.",
+      "difficulty": "EASY",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Risiko rendah", "isCorrect": false },
+        { "text": "B. Risiko sedang", "isCorrect": false },
+        { "text": "C. Risiko tinggi/ekstrem", "isCorrect": true },
+        { "text": "D. Tidak ada risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks risiko, warna hijau umumnya menunjukkan kategori risiko?",
+      "explanation": "Warna hijau pada matriks risiko menunjukkan risiko rendah yang umumnya dapat diterima dengan pengendalian minimal.",
+      "difficulty": "EASY",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Risiko rendah", "isCorrect": true },
+        { "text": "B. Risiko ekstrem", "isCorrect": false },
+        { "text": "C. Risiko tinggi", "isCorrect": false },
+        { "text": "D. Risiko fatal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Warna kuning pada matriks risiko umumnya menunjukkan kategori risiko?",
+      "explanation": "Warna kuning pada matriks risiko menunjukkan risiko sedang (moderate) yang memerlukan pengendalian tambahan dan pemantauan.",
+      "difficulty": "MEDIUM",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Risiko sedang (moderate)", "isCorrect": true },
+        { "text": "B. Risiko nol", "isCorrect": false },
+        { "text": "C. Risiko ekstrem", "isCorrect": false },
+        { "text": "D. Risiko sangat rendah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kategori risiko menentukan prioritas pengendalian; risiko yang harus ditangani paling dahulu adalah?",
+      "explanation": "Risiko tinggi/ekstrem harus ditangani paling dahulu karena berpotensi menimbulkan akibat fatal dan kemungkinan tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Risiko rendah", "isCorrect": false },
+        { "text": "B. Risiko tinggi/ekstrem", "isCorrect": true },
+        { "text": "C. Risiko yang sudah diterima", "isCorrect": false },
+        { "text": "D. Semua sama saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tingkat risiko yang masih dapat ditoleransi organisasi tanpa pengendalian tambahan disebut?",
+      "explanation": "Risiko yang dapat diterima (acceptable risk) adalah tingkat risiko yang sudah cukup rendah sehingga dapat ditoleransi tanpa pengendalian tambahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Acceptable risk (risiko dapat diterima)", "isCorrect": true },
+        { "text": "B. Risiko ekstrem", "isCorrect": false },
+        { "text": "C. Risiko fatal", "isCorrect": false },
+        { "text": "D. Risiko tak terbatas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika hasil penilaian menunjukkan risiko ekstrem, tindakan yang tepat adalah?",
+      "explanation": "Risiko ekstrem memerlukan tindakan segera, bahkan pekerjaan dapat dihentikan sampai pengendalian memadai diterapkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Dibiarkan saja", "isCorrect": false },
+        { "text": "B. Hentikan pekerjaan dan kendalikan segera", "isCorrect": true },
+        { "text": "C. Ditunda satu tahun", "isCorrect": false },
+        { "text": "D. Cukup dicatat tanpa tindakan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks 5x5, kombinasi likelihood rendah dan severity rendah menghasilkan kategori?",
+      "explanation": "Likelihood rendah dikalikan severity rendah menghasilkan nilai risiko kecil, yang masuk kategori risiko rendah (hijau).",
+      "difficulty": "MEDIUM",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Risiko ekstrem", "isCorrect": false },
+        { "text": "B. Risiko rendah", "isCorrect": true },
+        { "text": "C. Risiko tinggi", "isCorrect": false },
+        { "text": "D. Risiko fatal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada matriks risiko, kejadian yang jarang terjadi namun konsekuensinya fatal (kematian) umumnya dikategorikan sebagai?",
+      "explanation": "Meski kemungkinannya kecil, konsekuensi fatal membuat risiko tergolong tinggi/ekstrem karena dampaknya sangat besar.",
+      "difficulty": "HARD",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Risiko rendah", "isCorrect": false },
+        { "text": "B. Risiko dapat diabaikan", "isCorrect": false },
+        { "text": "C. Risiko tinggi/ekstrem", "isCorrect": true },
+        { "text": "D. Tidak ada risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap ketiga dalam HIRADC setelah identifikasi bahaya dan penilaian risiko adalah?",
+      "explanation": "Tahap ketiga adalah determining control, yaitu menentukan tindakan pengendalian yang sesuai untuk menurunkan risiko.",
+      "difficulty": "EASY",
+      "tag": "Penentuan Pengendalian",
+      "options": [
+        { "text": "A. Menentukan pengendalian (determining control)", "isCorrect": true },
+        { "text": "B. Membuat laporan keuangan", "isCorrect": false },
+        { "text": "C. Mengganti seluruh pekerja", "isCorrect": false },
+        { "text": "D. Menutup pabrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan penentuan pengendalian dalam HIRADC adalah?",
+      "explanation": "Tujuan penentuan pengendalian adalah menurunkan tingkat risiko hingga ke tingkat yang dapat diterima (acceptable).",
+      "difficulty": "EASY",
+      "tag": "Penentuan Pengendalian",
+      "options": [
+        { "text": "A. Menambah jumlah bahaya", "isCorrect": false },
+        { "text": "B. Menurunkan risiko hingga tingkat yang dapat diterima", "isCorrect": true },
+        { "text": "C. Meningkatkan kecepatan produksi tanpa batas", "isCorrect": false },
+        { "text": "D. Mengabaikan risiko kecil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam menentukan pengendalian, urutan pertimbangan yang benar adalah memilih pengendalian yang?",
+      "explanation": "Pengendalian dipilih mengikuti hierarki, mendahulukan pengendalian yang paling efektif (eliminasi) sebelum yang kurang efektif (APD).",
+      "difficulty": "MEDIUM",
+      "tag": "Penentuan Pengendalian",
+      "options": [
+        { "text": "A. Paling murah lebih dulu", "isCorrect": false },
+        { "text": "B. Paling efektif lebih dulu sesuai hierarki", "isCorrect": true },
+        { "text": "C. Paling mudah dipasang saja", "isCorrect": false },
+        { "text": "D. Acak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian yang sudah ada saat ini sebelum tindakan tambahan disebut?",
+      "explanation": "Pengendalian yang sudah ada disebut existing control, yang dievaluasi efektivitasnya sebelum menambah pengendalian baru.",
+      "difficulty": "MEDIUM",
+      "tag": "Penentuan Pengendalian",
+      "options": [
+        { "text": "A. Existing control (pengendalian yang ada)", "isCorrect": true },
+        { "text": "B. Pengendalian masa depan", "isCorrect": false },
+        { "text": "C. Pengendalian imajiner", "isCorrect": false },
+        { "text": "D. Pengendalian darurat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penentuan pengendalian sebaiknya disertai dengan?",
+      "explanation": "Penentuan pengendalian sebaiknya disertai penanggung jawab (PIC) dan target waktu pelaksanaan agar dapat dipantau.",
+      "difficulty": "MEDIUM",
+      "tag": "Penentuan Pengendalian",
+      "options": [
+        { "text": "A. Penanggung jawab (PIC) dan target waktu", "isCorrect": true },
+        { "text": "B. Nama pelanggan", "isCorrect": false },
+        { "text": "C. Harga saham", "isCorrect": false },
+        { "text": "D. Jadwal libur nasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah pengendalian diterapkan, perlu dilakukan?",
+      "explanation": "Setelah pengendalian diterapkan, perlu dilakukan pemantauan dan tinjauan ulang untuk memastikan risiko benar-benar turun dan pengendalian efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Penentuan Pengendalian",
+      "options": [
+        { "text": "A. Pemantauan dan tinjauan ulang efektivitas", "isCorrect": true },
+        { "text": "B. Penghapusan dokumen", "isCorrect": false },
+        { "text": "C. Pemberhentian seluruh pengendalian", "isCorrect": false },
+        { "text": "D. Tidak ada tindak lanjut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan hierarki pengendalian risiko dari yang paling efektif ke paling kurang efektif adalah?",
+      "explanation": "Hierarki pengendalian: eliminasi, substitusi, rekayasa teknik (engineering), administratif, dan terakhir APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. APD, administratif, rekayasa, substitusi, eliminasi", "isCorrect": false },
+        { "text": "B. Eliminasi, substitusi, rekayasa teknik, administratif, APD", "isCorrect": true },
+        { "text": "C. Rekayasa, eliminasi, APD, substitusi, administratif", "isCorrect": false },
+        { "text": "D. Substitusi, APD, eliminasi, rekayasa, administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian paling efektif dalam hierarki pengendalian adalah?",
+      "explanation": "Eliminasi (menghilangkan sumber bahaya sepenuhnya) adalah pengendalian paling efektif karena bahayanya benar-benar hilang.",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. APD", "isCorrect": false },
+        { "text": "B. Administratif", "isCorrect": false },
+        { "text": "C. Eliminasi", "isCorrect": true },
+        { "text": "D. Rambu peringatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menghilangkan total sumber bahaya, misalnya meniadakan proses berbahaya, termasuk pengendalian?",
+      "explanation": "Menghilangkan sumber bahaya sepenuhnya adalah pengendalian eliminasi.",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": true },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengganti bahan kimia berbahaya dengan bahan yang lebih aman termasuk pengendalian?",
+      "explanation": "Mengganti sumber bahaya dengan yang lebih rendah risikonya (misal pelarut beracun diganti pelarut berbasis air) adalah substitusi.",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Substitusi", "isCorrect": true },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memasang pelindung mesin (machine guard), enclosure, atau sistem ventilasi termasuk pengendalian?",
+      "explanation": "Memasang guard, enclosure, ventilasi lokal, atau interlock adalah pengendalian rekayasa teknik (engineering control).",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Administratif", "isCorrect": false },
+        { "text": "B. APD", "isCorrect": false },
+        { "text": "C. Rekayasa teknik (engineering)", "isCorrect": true },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Membuat SOP, rotasi kerja, pelatihan, rambu, dan jadwal kerja termasuk pengendalian?",
+      "explanation": "SOP, pelatihan, rotasi kerja, rambu, dan izin kerja adalah pengendalian administratif yang mengatur cara/perilaku kerja.",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": true },
+        { "text": "D. Rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Helm, sarung tangan, kacamata pelindung, dan sepatu safety termasuk pengendalian?",
+      "explanation": "Helm, sarung tangan, kacamata, dan sepatu safety adalah Alat Pelindung Diri (APD), pengendalian terakhir dalam hierarki.",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. APD", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APD berada pada posisi paling bawah hierarki pengendalian karena?",
+      "explanation": "APD hanya melindungi individu pemakai dan tidak menghilangkan sumber bahaya, sehingga paling lemah dan menjadi pertahanan terakhir.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Harganya paling mahal", "isCorrect": false },
+        { "text": "B. Hanya melindungi individu dan tidak menghilangkan sumber bahaya", "isCorrect": true },
+        { "text": "C. Tidak boleh dipakai", "isCorrect": false },
+        { "text": "D. Selalu paling efektif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Eliminasi dan substitusi disebut sebagai pengendalian yang paling efektif karena?",
+      "explanation": "Eliminasi dan substitusi bekerja pada sumber bahaya itu sendiri, sehingga paling efektif dibandingkan pengendalian yang hanya mengatur perilaku atau melindungi individu.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Bekerja langsung pada sumber bahaya", "isCorrect": true },
+        { "text": "B. Tidak memerlukan biaya", "isCorrect": false },
+        { "text": "C. Hanya melindungi satu orang", "isCorrect": false },
+        { "text": "D. Bergantung pada kedisiplinan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada manufaktur kertas, memasang penutup pelindung pada nip point roller termasuk pengendalian?",
+      "explanation": "Memasang guard/penutup pelindung pada titik jepit roller adalah pengendalian rekayasa teknik (engineering control).",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. APD", "isCorrect": false },
+        { "text": "B. Rekayasa teknik", "isCorrect": true },
+        { "text": "C. Eliminasi", "isCorrect": false },
+        { "text": "D. Administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada manufaktur gelas kaca, memberi pekerja sarung tangan tahan panas adalah pengendalian?",
+      "explanation": "Sarung tangan tahan panas adalah APD, pengendalian terakhir untuk melindungi pekerja dari paparan panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Rekayasa teknik", "isCorrect": false },
+        { "text": "D. APD", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Mengotomasi proses berbahaya agar tidak perlu pekerja di area berbahaya termasuk pengendalian?",
+      "explanation": "Otomasi/robotisasi proses sehingga pekerja tidak terpapar bahaya merupakan pengendalian rekayasa teknik (engineering control).",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Rekayasa teknik", "isCorrect": true },
+        { "text": "B. APD", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. Eliminasi total bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi beberapa tingkat pengendalian sekaligus dalam hierarki bertujuan untuk?",
+      "explanation": "Mengkombinasikan beberapa pengendalian (misalnya rekayasa + administratif + APD) memberikan perlindungan berlapis sehingga lebih andal menurunkan risiko.",
+      "difficulty": "HARD",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Memberi perlindungan berlapis yang lebih andal", "isCorrect": true },
+        { "text": "B. Menghemat waktu kerja saja", "isCorrect": false },
+        { "text": "C. Menghapus kebutuhan SOP", "isCorrect": false },
+        { "text": "D. Menambah bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian administratif dianggap lebih lemah daripada rekayasa teknik karena?",
+      "explanation": "Pengendalian administratif bergantung pada kepatuhan dan perilaku manusia yang dapat lalai, sedangkan rekayasa teknik bekerja secara fisik tanpa bergantung perilaku.",
+      "difficulty": "HARD",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Bergantung pada kepatuhan/perilaku manusia", "isCorrect": true },
+        { "text": "B. Lebih mahal", "isCorrect": false },
+        { "text": "C. Menghilangkan sumber bahaya", "isCorrect": false },
+        { "text": "D. Tidak boleh digunakan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko yang masih tersisa setelah pengendalian diterapkan disebut?",
+      "explanation": "Risiko residual (residual risk) adalah tingkat risiko yang masih tersisa setelah tindakan pengendalian diterapkan.",
+      "difficulty": "EASY",
+      "tag": "Risiko Residual",
+      "options": [
+        { "text": "A. Risiko awal", "isCorrect": false },
+        { "text": "B. Risiko residual", "isCorrect": true },
+        { "text": "C. Risiko nol mutlak", "isCorrect": false },
+        { "text": "D. Risiko imajiner", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian ulang risiko setelah pengendalian diterapkan bertujuan untuk?",
+      "explanation": "Penilaian ulang (re-assessment) bertujuan menghitung risiko residual dan memastikan pengendalian sudah menurunkan risiko ke tingkat yang dapat diterima.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko Residual",
+      "options": [
+        { "text": "A. Menghitung risiko residual dan memastikan dapat diterima", "isCorrect": true },
+        { "text": "B. Menaikkan risiko kembali", "isCorrect": false },
+        { "text": "C. Menghapus dokumen HIRADC", "isCorrect": false },
+        { "text": "D. Menambah jumlah bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika risiko residual masih tergolong tinggi setelah pengendalian, maka?",
+      "explanation": "Bila risiko residual masih tinggi, perlu ditambahkan pengendalian lain hingga risiko turun ke tingkat yang dapat diterima.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko Residual",
+      "options": [
+        { "text": "A. Dibiarkan dan pekerjaan tetap berjalan", "isCorrect": false },
+        { "text": "B. Tambahkan pengendalian lain hingga risiko dapat diterima", "isCorrect": true },
+        { "text": "C. Dianggap sudah selesai", "isCorrect": false },
+        { "text": "D. Diabaikan saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko residual yang ideal setelah pengendalian adalah?",
+      "explanation": "Risiko residual yang ideal adalah berada pada tingkat rendah/dapat diterima (acceptable), karena risiko nol mutlak umumnya tidak realistis dicapai.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko Residual",
+      "options": [
+        { "text": "A. Tetap ekstrem", "isCorrect": false },
+        { "text": "B. Rendah/dapat diterima", "isCorrect": true },
+        { "text": "C. Lebih tinggi dari risiko awal", "isCorrect": false },
+        { "text": "D. Tidak penting", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep ALARP dalam pengelolaan risiko residual berarti risiko diturunkan?",
+      "explanation": "ALARP (As Low As Reasonably Practicable) berarti risiko diturunkan serendah mungkin sejauh dapat dilaksanakan secara wajar.",
+      "difficulty": "HARD",
+      "tag": "Risiko Residual",
+      "options": [
+        { "text": "A. Serendah mungkin sejauh praktis dapat dilaksanakan", "isCorrect": true },
+        { "text": "B. Setinggi mungkin", "isCorrect": false },
+        { "text": "C. Sampai biaya nol", "isCorrect": false },
+        { "text": "D. Sampai produksi berhenti total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa risiko nol mutlak umumnya sulit dicapai dalam praktik K3?",
+      "explanation": "Selalu ada keterbatasan teknis, biaya, dan faktor manusia, sehingga selalu tersisa risiko residual; tujuannya menurunkan ke tingkat yang dapat diterima.",
+      "difficulty": "HARD",
+      "tag": "Risiko Residual",
+      "options": [
+        { "text": "A. Karena selalu ada keterbatasan teknis, biaya, dan faktor manusia", "isCorrect": true },
+        { "text": "B. Karena pengendalian tidak pernah ada", "isCorrect": false },
+        { "text": "C. Karena bahaya selalu bertambah sendiri", "isCorrect": false },
+        { "text": "D. Karena pekerja menolak bekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kolom yang umumnya WAJIB ada dalam formulir HIRADC adalah?",
+      "explanation": "Formulir HIRADC umumnya memuat kolom aktivitas/pekerjaan, identifikasi bahaya, risiko, nilai likelihood-severity, pengendalian, dan risiko residual.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Harga jual produk dan margin laba", "isCorrect": false },
+        { "text": "B. Aktivitas, bahaya, risiko, likelihood-severity, pengendalian, risiko residual", "isCorrect": true },
+        { "text": "C. Nama pelanggan dan alamat", "isCorrect": false },
+        { "text": "D. Jadwal libur dan cuti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam praktik HIRADC sektor manufaktur, langkah awal pengisian formulir adalah?",
+      "explanation": "Langkah awal adalah menguraikan aktivitas/proses produksi menjadi tahap-tahap pekerjaan sebelum mengidentifikasi bahaya tiap tahap.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Mengisi kolom risiko residual lebih dulu", "isCorrect": false },
+        { "text": "B. Menguraikan aktivitas/proses menjadi tahapan pekerjaan", "isCorrect": true },
+        { "text": "C. Menentukan harga produk", "isCorrect": false },
+        { "text": "D. Menutup pekerjaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik HIRADC manufaktur, sumber data untuk mengidentifikasi bahaya proses produksi dapat berupa?",
+      "explanation": "Sumber data identifikasi bahaya dapat berupa video proses produksi, observasi langsung, SOP, dan data insiden sebelumnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Video proses produksi dan observasi langsung", "isCorrect": true },
+        { "text": "B. Data harga saham", "isCorrect": false },
+        { "text": "C. Ramalan cuaca", "isCorrect": false },
+        { "text": "D. Daftar menu kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik HIRADC, mahasiswa menyusun analisis berdasarkan sektor manufaktur. Salah satu sektor yang digunakan adalah?",
+      "explanation": "Sektor manufaktur dalam praktik mencakup pembuatan gelas kaca, kertas, mobil mainan, dan makanan kaleng.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Pembuatan gelas kaca", "isCorrect": true },
+        { "text": "B. Penambangan batu bara lepas pantai", "isCorrect": false },
+        { "text": "C. Penerbangan komersial", "isCorrect": false },
+        { "text": "D. Perbankan digital", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil HIRADC pada praktik manufaktur dipresentasikan dengan durasi presentasi maksimal?",
+      "explanation": "Sesuai ketentuan praktik, presentasi hasil HIRADC maksimal 15 menit dan tanya jawab maksimal 10 menit.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. 5 menit", "isCorrect": false },
+        { "text": "B. 15 menit", "isCorrect": true },
+        { "text": "C. 60 menit", "isCorrect": false },
+        { "text": "D. 90 menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Laporan praktikum HIRADC sektor manufaktur ditulis dengan format yang memuat?",
+      "explanation": "Format laporan praktikum memuat judul, tujuan praktikum, hasil formulir HIRADC, serta kesimpulan dan saran.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Judul, tujuan, hasil formulir HIRADC, kesimpulan dan saran", "isCorrect": true },
+        { "text": "B. Hanya gambar tanpa teks", "isCorrect": false },
+        { "text": "C. Laporan keuangan perusahaan", "isCorrect": false },
+        { "text": "D. Daftar hadir saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa yang sebaiknya dilibatkan dalam penyusunan HIRADC agar hasilnya akurat?",
+      "explanation": "HIRADC sebaiknya disusun melibatkan pekerja yang melakukan pekerjaan, pengawas, dan tim K3 karena merekalah yang paling paham bahaya di lapangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Hanya direktur", "isCorrect": false },
+        { "text": "B. Pekerja, pengawas, dan tim K3 secara bersama", "isCorrect": true },
+        { "text": "C. Hanya bagian pemasaran", "isCorrect": false },
+        { "text": "D. Pihak di luar perusahaan saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat penerapan HIRADC bagi perusahaan adalah?",
+      "explanation": "HIRADC membantu mencegah kecelakaan dan penyakit akibat kerja, memenuhi peraturan, dan menjadi dasar pengambilan keputusan pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Mencegah kecelakaan dan memenuhi peraturan K3", "isCorrect": true },
+        { "text": "B. Menambah jumlah kecelakaan", "isCorrect": false },
+        { "text": "C. Menghapus kewajiban K3", "isCorrect": false },
+        { "text": "D. Memperbesar risiko produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada formulir HIRADC, nilai risiko dihitung dua kali yaitu sebelum dan sesudah pengendalian agar dapat?",
+      "explanation": "Perhitungan risiko sebelum dan sesudah pengendalian memungkinkan evaluasi efektivitas pengendalian, yaitu seberapa besar risiko berhasil diturunkan.",
+      "difficulty": "HARD",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Menilai efektivitas pengendalian (penurunan risiko)", "isCorrect": true },
+        { "text": "B. Memperbanyak kolom tabel saja", "isCorrect": false },
+        { "text": "C. Menambah jumlah halaman laporan", "isCorrect": false },
+        { "text": "D. Menghapus identifikasi bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HIRADC berbeda dengan JSA (Job Safety Analysis) terutama dalam hal?",
+      "explanation": "HIRADC umumnya mencakup penilaian risiko (likelihood x severity) dengan matriks untuk seluruh aktivitas, sedangkan JSA fokus menguraikan bahaya per langkah satu pekerjaan tertentu; keduanya saling melengkapi.",
+      "difficulty": "HARD",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. HIRADC menilai risiko dengan matriks untuk cakupan aktivitas lebih luas", "isCorrect": true },
+        { "text": "B. HIRADC tidak melibatkan bahaya sama sekali", "isCorrect": false },
+        { "text": "C. JSA tidak menguraikan langkah kerja", "isCorrect": false },
+        { "text": "D. Keduanya sama persis tanpa perbedaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada proses manufaktur mobil mainan, proses pengecatan menimbulkan bahaya kimia berupa?",
+      "explanation": "Proses pengecatan/penyemprotan menimbulkan paparan uap pelarut dan partikel cat yang dapat terhirup (bahaya kimia inhalasi).",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Paparan uap pelarut dan partikel cat", "isCorrect": true },
+        { "text": "B. Suhu sangat dingin", "isCorrect": false },
+        { "text": "C. Banjir bandang", "isCorrect": false },
+        { "text": "D. Radiasi kosmik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian untuk bahaya paparan uap pelarut pada pengecatan yang paling efektif menurut hierarki adalah?",
+      "explanation": "Mengganti cat berbasis pelarut dengan cat berbasis air (substitusi) lebih efektif daripada sekadar memberi masker (APD).",
+      "difficulty": "HARD",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Hanya memberi masker pekerja", "isCorrect": false },
+        { "text": "B. Mengganti cat pelarut dengan cat berbasis air (substitusi)", "isCorrect": true },
+        { "text": "C. Memasang rambu dilarang masuk", "isCorrect": false },
+        { "text": "D. Membiarkan saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HIRADC, satu bahaya bisa menimbulkan lebih dari satu jenis risiko. Pernyataan ini?",
+      "explanation": "Benar, satu sumber bahaya dapat menimbulkan beberapa risiko berbeda, sehingga setiap konsekuensi perlu dinilai dan dikendalikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Benar, satu bahaya bisa menimbulkan beberapa risiko", "isCorrect": true },
+        { "text": "B. Salah, satu bahaya hanya satu risiko", "isCorrect": false },
+        { "text": "C. Bahaya tidak berkaitan dengan risiko", "isCorrect": false },
+        { "text": "D. Risiko selalu lebih kecil dari bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada penilaian risiko, kriteria severity tingkat menengah biasanya berupa cedera yang?",
+      "explanation": "Severity tingkat menengah biasanya berupa cedera yang memerlukan perawatan medis dan kehilangan hari kerja, namun masih dapat pulih.",
+      "difficulty": "MEDIUM",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Tidak ada cedera sama sekali", "isCorrect": false },
+        { "text": "B. Memerlukan perawatan medis dan kehilangan hari kerja", "isCorrect": true },
+        { "text": "C. Selalu fatal", "isCorrect": false },
+        { "text": "D. Hanya berupa rasa lelah ringan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya yang baik memperhatikan siapa yang dapat terpapar, mencakup?",
+      "explanation": "Identifikasi bahaya harus memperhatikan semua yang berpotensi terpapar: pekerja, kontraktor, pengunjung, dan masyarakat sekitar.",
+      "difficulty": "MEDIUM",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Hanya operator mesin", "isCorrect": false },
+        { "text": "B. Pekerja, kontraktor, pengunjung, dan masyarakat sekitar", "isCorrect": true },
+        { "text": "C. Hanya manajer", "isCorrect": false },
+        { "text": "D. Tidak perlu mempertimbangkan siapa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HIRADC, penentuan apakah suatu risiko perlu dikendalikan lebih lanjut didasarkan pada?",
+      "explanation": "Keputusan pengendalian lebih lanjut didasarkan pada perbandingan tingkat risiko dengan kriteria risiko yang dapat diterima organisasi.",
+      "difficulty": "HARD",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Perbandingan tingkat risiko dengan kriteria risiko yang dapat diterima", "isCorrect": true },
+        { "text": "B. Warna seragam pekerja", "isCorrect": false },
+        { "text": "C. Jumlah huruf pada nama mesin", "isCorrect": false },
+        { "text": "D. Cuaca hari itu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada manufaktur makanan kaleng, bahaya biologi yang perlu diidentifikasi terkait kontaminasi adalah?",
+      "explanation": "Kontaminasi bakteri (misalnya Clostridium botulinum) pada makanan kaleng merupakan bahaya biologi yang berbahaya bagi konsumen dan pekerja.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Kontaminasi bakteri pada produk", "isCorrect": true },
+        { "text": "B. Suhu ruangan yang nyaman", "isCorrect": false },
+        { "text": "C. Pencahayaan terang", "isCorrect": false },
+        { "text": "D. Lantai yang bersih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tindakan pengendalian administratif untuk pekerja di area bising contohnya?",
+      "explanation": "Pengendalian administratif untuk area bising misalnya membatasi durasi kerja (rotasi) dan menyediakan pelatihan kesadaran bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Membatasi durasi kerja dan rotasi pekerja", "isCorrect": true },
+        { "text": "B. Mengganti mesin dengan robot", "isCorrect": false },
+        { "text": "C. Memasang dinding peredam", "isCorrect": false },
+        { "text": "D. Menghapus mesin sepenuhnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen 'Determining Control' pada HIRADC menekankan bahwa pengendalian harus?",
+      "explanation": "Determining control menekankan pengendalian harus dipilih sesuai hierarki, dapat dilaksanakan, dan efektif menurunkan risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Penentuan Pengendalian",
+      "options": [
+        { "text": "A. Sesuai hierarki, dapat dilaksanakan, dan efektif menurunkan risiko", "isCorrect": true },
+        { "text": "B. Paling mahal agar terlihat serius", "isCorrect": false },
+        { "text": "C. Hanya berupa APD apa pun bahayanya", "isCorrect": false },
+        { "text": "D. Tidak perlu dijalankan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila eliminasi dan substitusi tidak memungkinkan secara teknis, pengendalian yang diutamakan berikutnya adalah?",
+      "explanation": "Bila eliminasi/substitusi tidak memungkinkan, prioritas berikutnya adalah pengendalian rekayasa teknik karena lebih efektif daripada administratif dan APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Penentuan Pengendalian",
+      "options": [
+        { "text": "A. Langsung APD saja", "isCorrect": false },
+        { "text": "B. Rekayasa teknik (engineering)", "isCorrect": true },
+        { "text": "C. Membiarkan tanpa pengendalian", "isCorrect": false },
+        { "text": "D. Hanya rambu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang tepat tentang penilaian risiko adalah?",
+      "explanation": "Penilaian risiko bersifat sistematis dan dapat berubah; risiko dinilai ulang ketika kondisi, proses, atau pengendalian berubah.",
+      "difficulty": "MEDIUM",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Risiko dinilai sekali dan tidak pernah berubah", "isCorrect": false },
+        { "text": "B. Risiko dinilai ulang ketika kondisi atau pengendalian berubah", "isCorrect": true },
+        { "text": "C. Penilaian risiko tidak perlu data", "isCorrect": false },
+        { "text": "D. Risiko hanya dinilai oleh pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada HIRADC, kategori bahaya 'terpeleset, tersandung, dan terjatuh' di lantai produksi termasuk?",
+      "explanation": "Terpeleset, tersandung, dan terjatuh (slip, trip, fall) termasuk bahaya fisik/mekanik akibat kondisi lantai dan area kerja.",
+      "difficulty": "EASY",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Bahaya terpeleset/tersandung/terjatuh", "isCorrect": true },
+        { "text": "B. Bahaya radiasi", "isCorrect": false },
+        { "text": "C. Bahaya psikososial", "isCorrect": false },
+        { "text": "D. Bahaya biologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian bahaya terpeleset pada lantai produksi yang berupa rekayasa teknik adalah?",
+      "explanation": "Memasang lantai anti-slip atau sistem drainase untuk mencegah genangan adalah pengendalian rekayasa teknik terhadap bahaya terpeleset.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Memasang lantai anti-slip dan drainase", "isCorrect": true },
+        { "text": "B. Memberi sepatu anti-slip saja", "isCorrect": false },
+        { "text": "C. Memasang rambu hati-hati licin", "isCorrect": false },
+        { "text": "D. Melarang pekerja masuk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HIRADC, dokumentasi hasil identifikasi dan penilaian penting karena?",
+      "explanation": "Dokumentasi HIRADC penting sebagai bukti penerapan SMK3, dasar tindak lanjut, dan acuan saat audit serta peninjauan ulang.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Sebagai bukti penerapan, dasar tindak lanjut, dan acuan audit", "isCorrect": true },
+        { "text": "B. Agar terlihat sibuk", "isCorrect": false },
+        { "text": "C. Untuk menambah beban administrasi tanpa guna", "isCorrect": false },
+        { "text": "D. Tidak ada gunanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nilai severity dalam HIRADC dapat mencakup dampak terhadap, kecuali?",
+      "explanation": "Severity menilai dampak terhadap manusia, peralatan/aset, lingkungan, dan reputasi; harga saham harian bukan parameter severity K3.",
+      "difficulty": "HARD",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Cedera manusia", "isCorrect": false },
+        { "text": "B. Kerusakan peralatan/aset", "isCorrect": false },
+        { "text": "C. Pencemaran lingkungan", "isCorrect": false },
+        { "text": "D. Harga saham harian", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Konsekuensi paling parah (severity tertinggi) dalam konteks K3 manufaktur adalah?",
+      "explanation": "Konsekuensi paling parah adalah kematian (fatality) atau cacat tetap pada pekerja.",
+      "difficulty": "EASY",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Lecet ringan", "isCorrect": false },
+        { "text": "B. Kematian atau cacat tetap", "isCorrect": true },
+        { "text": "C. Pekerja istirahat sebentar", "isCorrect": false },
+        { "text": "D. Mesin sedikit kotor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HIRADC sebaiknya juga mempertimbangkan persyaratan peraturan perundangan K3 yang berlaku karena?",
+      "explanation": "Pengendalian yang dipilih harus minimal memenuhi persyaratan peraturan perundangan K3 yang berlaku sebagai batas minimal kepatuhan.",
+      "difficulty": "HARD",
+      "tag": "Penentuan Pengendalian",
+      "options": [
+        { "text": "A. Pengendalian minimal harus memenuhi peraturan yang berlaku", "isCorrect": true },
+        { "text": "B. Peraturan tidak relevan dengan K3", "isCorrect": false },
+        { "text": "C. Agar bisa mengabaikan keselamatan", "isCorrect": false },
+        { "text": "D. Hanya untuk formalitas tanpa makna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada HIRADC, prioritas pengendalian diberikan kepada aktivitas dengan?",
+      "explanation": "Prioritas pengendalian diberikan pada aktivitas dengan tingkat risiko tertinggi terlebih dahulu.",
+      "difficulty": "EASY",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Risiko tertinggi lebih dahulu", "isCorrect": true },
+        { "text": "B. Risiko terendah lebih dahulu", "isCorrect": false },
+        { "text": "C. Aktivitas paling mudah saja", "isCorrect": false },
+        { "text": "D. Aktivitas paling singkat saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemantauan dan tinjauan ulang HIRADC perlu dilakukan terutama ketika?",
+      "explanation": "Tinjauan ulang dilakukan terutama saat ada perubahan proses/peralatan, regulasi baru, atau setelah terjadi insiden/kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Saat ada perubahan proses, regulasi baru, atau setelah insiden", "isCorrect": true },
+        { "text": "B. Saat pekerja libur", "isCorrect": false },
+        { "text": "C. Tidak perlu sama sekali", "isCorrect": false },
+        { "text": "D. Hanya saat pabrik tutup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam matriks risiko 5x5, jika likelihood = 2 (jarang) dan severity = 1 (tidak signifikan), nilai risikonya adalah?",
+      "explanation": "Risiko = 2 x 1 = 2, yang tergolong risiko rendah pada matriks 5x5.",
+      "difficulty": "MEDIUM",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. 2 (risiko rendah)", "isCorrect": true },
+        { "text": "B. 20 (risiko ekstrem)", "isCorrect": false },
+        { "text": "C. 12 (risiko tinggi)", "isCorrect": false },
+        { "text": "D. 0", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengisian kolom 'risiko residual' pada formulir HIRADC dilakukan?",
+      "explanation": "Kolom risiko residual diisi setelah pengendalian ditetapkan, dengan menilai ulang likelihood dan severity dengan asumsi pengendalian berjalan.",
+      "difficulty": "HARD",
+      "tag": "Risiko Residual",
+      "options": [
+        { "text": "A. Setelah pengendalian ditetapkan, dengan menilai ulang likelihood dan severity", "isCorrect": true },
+        { "text": "B. Sebelum bahaya diidentifikasi", "isCorrect": false },
+        { "text": "C. Tanpa mempertimbangkan pengendalian", "isCorrect": false },
+        { "text": "D. Secara acak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat penggunaan video proses produksi dalam praktik HIRADC manufaktur adalah?",
+      "explanation": "Video proses produksi membantu mahasiswa mengamati tahapan kerja dan mengidentifikasi bahaya secara rinci tanpa harus berada langsung di area berbahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Membantu mengamati tahapan kerja dan bahaya secara aman", "isCorrect": true },
+        { "text": "B. Menggantikan kebutuhan pengendalian", "isCorrect": false },
+        { "text": "C. Menambah bahaya di lapangan", "isCorrect": false },
+        { "text": "D. Hanya hiburan tanpa tujuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa identifikasi bahaya harus dilakukan menyeluruh sebelum penilaian risiko?",
+      "explanation": "Jika bahaya tidak teridentifikasi, risikonya tidak akan dinilai dan tidak dikendalikan, sehingga identifikasi yang menyeluruh menjadi dasar seluruh proses HIRADC.",
+      "difficulty": "HARD",
+      "tag": "Identifikasi Bahaya",
+      "options": [
+        { "text": "A. Bahaya yang tidak teridentifikasi tidak akan dinilai dan dikendalikan", "isCorrect": true },
+        { "text": "B. Agar laporan terlihat panjang", "isCorrect": false },
+        { "text": "C. Untuk menambah pekerjaan administrasi", "isCorrect": false },
+        { "text": "D. Tidak ada alasannya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian eliminasi pada manufaktur dapat dilakukan dengan cara?",
+      "explanation": "Eliminasi dapat dilakukan dengan meniadakan proses berbahaya, misalnya menghilangkan tahap kerja manual yang berisiko dengan meniadakan kebutuhannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Meniadakan proses/tahap kerja yang berbahaya", "isCorrect": true },
+        { "text": "B. Memberi APD pada pekerja", "isCorrect": false },
+        { "text": "C. Membuat SOP baru", "isCorrect": false },
+        { "text": "D. Memasang rambu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada HIRADC, kombinasi nilai likelihood tinggi dengan severity tinggi menghasilkan?",
+      "explanation": "Likelihood tinggi dikali severity tinggi menghasilkan nilai risiko terbesar, yaitu kategori risiko ekstrem yang menjadi prioritas utama pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Matriks & Kategori Risiko",
+      "options": [
+        { "text": "A. Risiko ekstrem", "isCorrect": true },
+        { "text": "B. Risiko rendah", "isCorrect": false },
+        { "text": "C. Tidak ada risiko", "isCorrect": false },
+        { "text": "D. Risiko negatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari seluruh rangkaian HIRADC adalah?",
+      "explanation": "Tujuan akhir HIRADC adalah menciptakan tempat kerja yang aman dengan mengendalikan risiko hingga tingkat yang dapat diterima sehingga mencegah kecelakaan dan PAK.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Komponen HIRADC",
+      "options": [
+        { "text": "A. Menciptakan tempat kerja aman dengan risiko terkendali", "isCorrect": true },
+        { "text": "B. Memperbanyak dokumen", "isCorrect": false },
+        { "text": "C. Menambah jam kerja", "isCorrect": false },
+        { "text": "D. Menaikkan harga jual", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hubungan HIRADC dengan kecelakaan kerja adalah?",
+      "explanation": "HIRADC bersifat preventif/proaktif, yaitu mengendalikan risiko sebelum kecelakaan terjadi, bukan menunggu kecelakaan baru bertindak.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Komponen HIRADC",
+      "options": [
+        { "text": "A. HIRADC bersifat proaktif mencegah kecelakaan sebelum terjadi", "isCorrect": true },
+        { "text": "B. HIRADC hanya dibuat setelah kecelakaan", "isCorrect": false },
+        { "text": "C. HIRADC tidak berhubungan dengan kecelakaan", "isCorrect": false },
+        { "text": "D. HIRADC memperbesar kemungkinan kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada formulir HIRADC manufaktur, kolom 'aktivitas' berisi?",
+      "explanation": "Kolom aktivitas berisi uraian tahapan pekerjaan/proses produksi yang sedang dianalisis bahayanya.",
+      "difficulty": "EASY",
+      "tag": "Penyusunan Formulir & Penerapan",
+      "options": [
+        { "text": "A. Uraian tahapan pekerjaan/proses produksi", "isCorrect": true },
+        { "text": "B. Nama pelanggan", "isCorrect": false },
+        { "text": "C. Total keuntungan", "isCorrect": false },
+        { "text": "D. Jadwal cuti pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor yang meningkatkan nilai likelihood suatu risiko antara lain?",
+      "explanation": "Likelihood meningkat bila paparan lebih sering, pengendalian lemah, dan pernah ada riwayat insiden serupa.",
+      "difficulty": "HARD",
+      "tag": "Penilaian Risiko",
+      "options": [
+        { "text": "A. Paparan sering, pengendalian lemah, dan riwayat insiden", "isCorrect": true },
+        { "text": "B. Tidak ada pekerja di area", "isCorrect": false },
+        { "text": "C. Proses sudah dihentikan total", "isCorrect": false },
+        { "text": "D. Bahaya sudah dieliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APD yang tepat untuk pekerja di area dengan bahaya partikel/debu manufaktur adalah?",
+      "explanation": "APD yang tepat untuk bahaya debu/partikel adalah masker respirator/penyaring partikulat untuk melindungi saluran pernapasan.",
+      "difficulty": "EASY",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Masker/respirator penyaring partikel", "isCorrect": true },
+        { "text": "B. Helm saja", "isCorrect": false },
+        { "text": "C. Sepatu boot karet", "isCorrect": false },
+        { "text": "D. Sarung tangan katun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inti dari hierarki pengendalian adalah mendahulukan pengendalian yang?",
+      "explanation": "Hierarki pengendalian mendahulukan pengendalian yang menghilangkan atau menurunkan bahaya pada sumbernya sebelum yang hanya melindungi individu.",
+      "difficulty": "MEDIUM",
+      "tag": "Hierarki Pengendalian",
+      "options": [
+        { "text": "A. Menghilangkan/menurunkan bahaya pada sumbernya", "isCorrect": true },
+        { "text": "B. Paling murah biayanya", "isCorrect": false },
+        { "text": "C. Paling cepat selesai", "isCorrect": false },
+        { "text": "D. Hanya bergantung pada disiplin pekerja", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa kepanjangan HIRADC?", "back": "Hazard Identification, Risk Assessment and Determining Control — metode sistematis identifikasi bahaya, penilaian risiko, dan penentuan pengendalian.", "tag": "Pengertian & Komponen HIRADC" },
+    { "front": "Tiga komponen utama HIRADC?", "back": "(1) Identifikasi bahaya, (2) Penilaian risiko, (3) Penentuan pengendalian.", "tag": "Pengertian & Komponen HIRADC" },
+    { "front": "Perbedaan bahaya (hazard) dan risiko (risk)?", "back": "Bahaya = sumber/potensi kerugian. Risiko = kombinasi kemungkinan (likelihood) dan keparahan (severity) dari bahaya itu.", "tag": "Identifikasi Bahaya" },
+    { "front": "Sebutkan jenis-jenis bahaya di tempat kerja.", "back": "Fisika, kimia, biologi, ergonomi, psikososial, dan mekanik (mesin/listrik).", "tag": "Identifikasi Bahaya" },
+    { "front": "Unsafe condition vs unsafe act?", "back": "Unsafe condition = kondisi/lingkungan berbahaya (lantai licin, guard rusak). Unsafe act = perilaku berbahaya pekerja (tak pakai APD).", "tag": "Identifikasi Bahaya" },
+    { "front": "Rumus dasar tingkat risiko?", "back": "Risiko = Likelihood (kemungkinan) x Severity (keparahan).", "tag": "Penilaian Risiko" },
+    { "front": "Apa itu likelihood dan severity?", "back": "Likelihood = peluang/kemungkinan kejadian terjadi. Severity = tingkat keparahan/konsekuensi bila kejadian terjadi.", "tag": "Penilaian Risiko" },
+    { "front": "Apa itu matriks risiko?", "back": "Tabel (umumnya 5x5) yang memetakan likelihood terhadap severity untuk menentukan kategori tingkat risiko.", "tag": "Matriks & Kategori Risiko" },
+    { "front": "Arti warna pada matriks risiko?", "back": "Hijau = risiko rendah, kuning = risiko sedang, merah = risiko tinggi/ekstrem (prioritas pengendalian segera).", "tag": "Matriks & Kategori Risiko" },
+    { "front": "Risiko mana yang diprioritaskan dikendalikan?", "back": "Risiko tinggi/ekstrem (merah) ditangani lebih dahulu karena potensi dampak besar dan kemungkinan tinggi.", "tag": "Matriks & Kategori Risiko" },
+    { "front": "Urutan hierarki pengendalian?", "back": "Eliminasi → Substitusi → Rekayasa teknik (engineering) → Administratif → APD (paling efektif ke paling lemah).", "tag": "Hierarki Pengendalian" },
+    { "front": "Contoh pengendalian eliminasi & substitusi?", "back": "Eliminasi: meniadakan proses berbahaya. Substitusi: mengganti bahan/mesin berbahaya dengan yang lebih aman.", "tag": "Hierarki Pengendalian" },
+    { "front": "Contoh pengendalian rekayasa teknik?", "back": "Pelindung mesin (guard), enclosure, ventilasi lokal, otomasi, interlock — bekerja secara fisik pada sumber.", "tag": "Hierarki Pengendalian" },
+    { "front": "Contoh pengendalian administratif & APD?", "back": "Administratif: SOP, pelatihan, rotasi kerja, rambu, izin kerja. APD: helm, sarung tangan, kacamata, sepatu safety.", "tag": "Hierarki Pengendalian" },
+    { "front": "Mengapa APD paling lemah dalam hierarki?", "back": "APD hanya melindungi individu pemakai dan tidak menghilangkan sumber bahaya, sehingga menjadi pertahanan terakhir.", "tag": "Hierarki Pengendalian" },
+    { "front": "Apa itu risiko residual?", "back": "Risiko yang masih tersisa setelah pengendalian diterapkan. Idealnya turun ke tingkat rendah/dapat diterima.", "tag": "Risiko Residual" },
+    { "front": "Apa itu ALARP?", "back": "As Low As Reasonably Practicable — risiko diturunkan serendah mungkin sejauh wajar dapat dilaksanakan.", "tag": "Risiko Residual" },
+    { "front": "Apa yang dinilai dua kali dalam formulir HIRADC?", "back": "Risiko dinilai sebelum dan sesudah pengendalian untuk mengukur efektivitas (penurunan risiko).", "tag": "Penyusunan Formulir & Penerapan" },
+    { "front": "Kolom utama formulir HIRADC?", "back": "Aktivitas, identifikasi bahaya, risiko, nilai likelihood-severity, pengendalian (sesuai hierarki), dan risiko residual.", "tag": "Penyusunan Formulir & Penerapan" },
+    { "front": "Standar internasional acuan HIRADC?", "back": "ISO 45001:2018 (sistem manajemen K3), yang mensyaratkan identifikasi bahaya, penilaian risiko, dan pengendalian.", "tag": "Pengertian & Komponen HIRADC" }
+  ],
+  "mindmap": [
+    { "id": "hiradc", "label": "HIRADC", "color": "#6366f1", "parent": null, "content": "Hazard Identification, Risk Assessment and Determining Control — metode sistematis mengelola risiko K3 dari identifikasi bahaya hingga pengendalian." },
+    { "id": "pengertian", "label": "Pengertian & Komponen", "color": "#8b5cf6", "parent": "hiradc", "content": "HIRADC adalah elemen inti SMK3/ISO 45001, disusun pada tahap perencanaan dan ditinjau ulang berkala." },
+    { "id": "tiga-komponen", "label": "Tiga Komponen", "color": "#8b5cf6", "parent": "pengertian", "content": "Identifikasi bahaya, penilaian risiko, dan penentuan pengendalian." },
+    { "id": "tujuan", "label": "Tujuan", "color": "#8b5cf6", "parent": "pengertian", "content": "Mengendalikan risiko hingga tingkat dapat diterima untuk mencegah kecelakaan dan penyakit akibat kerja." },
+    { "id": "living-document", "label": "Dokumen Hidup", "color": "#8b5cf6", "parent": "pengertian", "content": "Ditinjau ulang saat ada perubahan proses/peralatan, regulasi baru, atau setelah insiden." },
+    { "id": "identifikasi", "label": "Identifikasi Bahaya", "color": "#0ea5e9", "parent": "hiradc", "content": "Menguraikan aktivitas menjadi langkah dan mengenali sumber bahaya pada kondisi normal, abnormal, dan darurat." },
+    { "id": "jenis-bahaya", "label": "Jenis Bahaya", "color": "#0ea5e9", "parent": "identifikasi", "content": "Fisika, kimia, biologi, ergonomi, psikososial, dan mekanik/listrik." },
+    { "id": "unsafe-condition", "label": "Unsafe Condition", "color": "#0ea5e9", "parent": "identifikasi", "content": "Kondisi/lingkungan berbahaya, misal lantai licin, guard mesin rusak, kabel terkelupas." },
+    { "id": "unsafe-act", "label": "Unsafe Act", "color": "#0ea5e9", "parent": "identifikasi", "content": "Perilaku berbahaya pekerja, misal tidak memakai APD atau melepas pelindung mesin." },
+    { "id": "metode-identifikasi", "label": "Metode", "color": "#0ea5e9", "parent": "identifikasi", "content": "Observasi/inspeksi lapangan, video proses, SOP, dan data insiden sebelumnya." },
+    { "id": "penilaian", "label": "Penilaian Risiko", "color": "#10b981", "parent": "hiradc", "content": "Menilai tingkat risiko dengan rumus Risiko = Likelihood x Severity." },
+    { "id": "likelihood", "label": "Likelihood", "color": "#10b981", "parent": "penilaian", "content": "Kemungkinan/peluang terjadinya kejadian; meningkat bila paparan sering dan pengendalian lemah." },
+    { "id": "severity", "label": "Severity", "color": "#10b981", "parent": "penilaian", "content": "Tingkat keparahan/konsekuensi; tertinggi bila kematian atau cacat permanen." },
+    { "id": "pendekatan", "label": "Pendekatan", "color": "#10b981", "parent": "penilaian", "content": "Kualitatif (deskriptif), semi-kuantitatif (skor probabilitas x paparan x konsekuensi), dan kuantitatif." },
+    { "id": "matriks", "label": "Matriks & Kategori Risiko", "color": "#f59e0b", "parent": "hiradc", "content": "Tabel (umumnya 5x5) memetakan likelihood vs severity untuk menentukan kategori risiko." },
+    { "id": "warna-matriks", "label": "Kode Warna", "color": "#f59e0b", "parent": "matriks", "content": "Hijau = rendah, kuning = sedang, merah = tinggi/ekstrem." },
+    { "id": "prioritas", "label": "Prioritas", "color": "#f59e0b", "parent": "matriks", "content": "Risiko tinggi/ekstrem ditangani lebih dahulu; risiko ekstrem dapat menghentikan pekerjaan." },
+    { "id": "acceptable", "label": "Acceptable Risk", "color": "#f59e0b", "parent": "matriks", "content": "Tingkat risiko yang dapat ditoleransi organisasi tanpa pengendalian tambahan." },
+    { "id": "pengendalian", "label": "Penentuan Pengendalian", "color": "#ef4444", "parent": "hiradc", "content": "Memilih tindakan untuk menurunkan risiko ke tingkat dapat diterima, dilengkapi PIC dan target waktu." },
+    { "id": "existing-control", "label": "Existing Control", "color": "#ef4444", "parent": "pengendalian", "content": "Pengendalian yang sudah ada, dievaluasi efektivitasnya sebelum menambah yang baru." },
+    { "id": "pilih-sesuai-hierarki", "label": "Sesuai Hierarki", "color": "#ef4444", "parent": "pengendalian", "content": "Mendahulukan pengendalian paling efektif dan minimal memenuhi peraturan yang berlaku." },
+    { "id": "pemantauan", "label": "Pemantauan", "color": "#ef4444", "parent": "pengendalian", "content": "Setelah diterapkan, pengendalian dipantau dan ditinjau ulang efektivitasnya." },
+    { "id": "hierarki", "label": "Hierarki Pengendalian", "color": "#ec4899", "parent": "hiradc", "content": "Urutan dari paling efektif: eliminasi, substitusi, rekayasa teknik, administratif, APD." },
+    { "id": "eliminasi", "label": "Eliminasi", "color": "#ec4899", "parent": "hierarki", "content": "Menghilangkan sumber bahaya sepenuhnya — paling efektif." },
+    { "id": "substitusi", "label": "Substitusi", "color": "#ec4899", "parent": "hierarki", "content": "Mengganti bahan/proses berbahaya dengan yang lebih aman." },
+    { "id": "rekayasa", "label": "Rekayasa Teknik", "color": "#ec4899", "parent": "hierarki", "content": "Guard mesin, enclosure, ventilasi, otomasi — bekerja fisik pada sumber bahaya." },
+    { "id": "administratif", "label": "Administratif", "color": "#ec4899", "parent": "hierarki", "content": "SOP, pelatihan, rotasi kerja, rambu, izin kerja — bergantung pada kepatuhan manusia." },
+    { "id": "apd", "label": "APD", "color": "#ec4899", "parent": "hierarki", "content": "Helm, sarung tangan, kacamata, sepatu safety — pertahanan terakhir, hanya melindungi individu." },
+    { "id": "residual", "label": "Risiko Residual", "color": "#14b8a6", "parent": "hiradc", "content": "Risiko yang masih tersisa setelah pengendalian; idealnya rendah/dapat diterima (ALARP)." },
+    { "id": "re-assessment", "label": "Penilaian Ulang", "color": "#14b8a6", "parent": "residual", "content": "Menilai ulang likelihood dan severity setelah pengendalian untuk menghitung risiko residual." },
+    { "id": "alarp", "label": "ALARP", "color": "#14b8a6", "parent": "residual", "content": "As Low As Reasonably Practicable — turunkan risiko serendah mungkin sejauh praktis." },
+    { "id": "tambah-kontrol", "label": "Pengendalian Tambahan", "color": "#14b8a6", "parent": "residual", "content": "Bila residual masih tinggi, tambahkan pengendalian lain hingga dapat diterima." },
+    { "id": "penerapan", "label": "Formulir & Penerapan", "color": "#8b5cf6", "parent": "hiradc", "content": "Penyusunan formulir HIRADC dan penerapannya di sektor manufaktur." },
+    { "id": "kolom-formulir", "label": "Kolom Formulir", "color": "#8b5cf6", "parent": "penerapan", "content": "Aktivitas, bahaya, risiko, likelihood-severity, pengendalian, dan risiko residual." },
+    { "id": "manufaktur", "label": "Sektor Manufaktur", "color": "#8b5cf6", "parent": "penerapan", "content": "Praktik di gelas kaca, kertas, mobil mainan, dan makanan kaleng berbasis video proses produksi." },
+    { "id": "tim", "label": "Pelibatan Tim", "color": "#8b5cf6", "parent": "penerapan", "content": "Melibatkan pekerja, pengawas, dan tim K3; hasil dipresentasikan maksimal 15 menit." }
+  ]
+}

@@ -1,0 +1,1650 @@
+{
+  "topic": "Teks Rekon (Recount / Recount Text)",
+  "order": 2,
+  "description": "Teks Rekon (Recount Text) adalah teks yang menceritakan kembali peristiwa atau pengalaman yang benar-benar terjadi di masa lampau secara kronologis, objektif, dan faktual. Tujuannya adalah memberi informasi atau menghibur pembaca tentang apa yang terjadi, kapan, di mana, dan siapa yang terlibat. Ciri utamanya adalah penggunaan Simple Past Tense, kata kerja tindakan, dan kata penghubung waktu.",
+  "subtopics": [
+    "Definition & Social Function",
+    "Generic Structure",
+    "Language Features",
+    "Simple Past Tense",
+    "Time Connectives",
+    "Action Verbs & Passive Voice",
+    "Specific Nouns & Vocabulary",
+    "Example & Comprehension"
+  ],
+  "questions": [
+    {
+      "text": "What is a recount text?",
+      "explanation": "Recount text adalah teks yang menceritakan kembali (retells) peristiwa atau pengalaman yang sudah terjadi di masa lampau.",
+      "difficulty": "EASY",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. A text that describes the features of an object", "isCorrect": false },
+        { "text": "B. A text that retells past events or experiences", "isCorrect": true },
+        { "text": "C. A text that explains how to do something", "isCorrect": false },
+        { "text": "D. A text that argues for an opinion", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the main social function (purpose) of a recount text?",
+      "explanation": "Fungsi utama recount text adalah melaporkan atau menceritakan kembali peristiwa masa lampau (to inform or entertain by retelling past events).",
+      "difficulty": "EASY",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. To persuade the reader to take action", "isCorrect": false },
+        { "text": "B. To inform or entertain by retelling past events", "isCorrect": true },
+        { "text": "C. To describe a place in detail", "isCorrect": false },
+        { "text": "D. To give instructions step by step", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A factual recount is based mainly on ....",
+      "explanation": "Teks rekon fakta (factual recount) didasarkan pada fakta, data, dan bukti, bukan imajinasi atau opini penulis.",
+      "difficulty": "EASY",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. The writer's imagination", "isCorrect": false },
+        { "text": "B. Facts, data, and evidence", "isCorrect": true },
+        { "text": "C. Personal opinions and feelings only", "isCorrect": false },
+        { "text": "D. Fictional characters", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In what order are the events in a recount text usually told?",
+      "explanation": "Peristiwa dalam recount diceritakan secara kronologis (chronological order), yaitu sesuai urutan waktu kejadiannya.",
+      "difficulty": "EASY",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. Random order", "isCorrect": false },
+        { "text": "B. Order of importance", "isCorrect": false },
+        { "text": "C. Chronological (time) order", "isCorrect": true },
+        { "text": "D. Reverse alphabetical order", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which question is NOT typically answered by a recount text?",
+      "explanation": "Recount menjawab who, when, where, dan how (urutan kejadian). Pertanyaan 'how to make something' adalah ciri procedure text, bukan recount.",
+      "difficulty": "MEDIUM",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. Who was involved?", "isCorrect": false },
+        { "text": "B. When and where did it happen?", "isCorrect": false },
+        { "text": "C. How to make or do something step by step?", "isCorrect": true },
+        { "text": "D. What happened?", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A diary entry, a biography, and a news report are common examples of which text type?",
+      "explanation": "Diary, biografi, dan laporan berita menceritakan peristiwa yang sudah terjadi, sehingga termasuk recount text.",
+      "difficulty": "MEDIUM",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. Descriptive text", "isCorrect": false },
+        { "text": "B. Recount text", "isCorrect": true },
+        { "text": "C. Procedure text", "isCorrect": false },
+        { "text": "D. Analytical exposition", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A good factual recount should be ....",
+      "explanation": "Recount fakta bersifat objektif dan informatif, melaporkan peristiwa tanpa menambahkan opini atau imajinasi penulis.",
+      "difficulty": "MEDIUM",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. Subjective and full of the writer's opinions", "isCorrect": false },
+        { "text": "B. Objective and informative", "isCorrect": true },
+        { "text": "C. Imaginative and fictional", "isCorrect": false },
+        { "text": "D. Persuasive and emotional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of the following is the BEST topic for a personal recount?",
+      "explanation": "Personal recount menceritakan pengalaman pribadi, misalnya 'My holiday in Bali last year'.",
+      "difficulty": "EASY",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. How to cook fried rice", "isCorrect": false },
+        { "text": "B. My holiday in Bali last year", "isCorrect": true },
+        { "text": "C. The dangers of smoking", "isCorrect": false },
+        { "text": "D. The characteristics of a tiger", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The difference between a recount and a narrative text is that a narrative usually has ....",
+      "explanation": "Narrative memiliki konflik dan resolusi (complication & resolution), sedangkan recount hanya melaporkan urutan peristiwa tanpa konflik wajib.",
+      "difficulty": "HARD",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. A series of events in time order", "isCorrect": false },
+        { "text": "B. A complication and resolution (conflict)", "isCorrect": true },
+        { "text": "C. The use of past tense", "isCorrect": false },
+        { "text": "D. An orientation at the beginning", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What are the three main parts of the generic structure of a recount text, in order?",
+      "explanation": "Struktur recount: Orientation (orientasi), Series of Events (runtutan peristiwa), Reorientation (reorientasi).",
+      "difficulty": "EASY",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Identification, Description, Conclusion", "isCorrect": false },
+        { "text": "B. Orientation, Series of Events, Reorientation", "isCorrect": true },
+        { "text": "C. Goal, Materials, Steps", "isCorrect": false },
+        { "text": "D. Thesis, Arguments, Reiteration", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which part of a recount text introduces who, when, and where?",
+      "explanation": "Orientation adalah bagian pembuka yang memberi latar belakang: siapa, kapan, dan di mana peristiwa terjadi.",
+      "difficulty": "EASY",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Orientation", "isCorrect": true },
+        { "text": "B. Series of Events", "isCorrect": false },
+        { "text": "C. Reorientation", "isCorrect": false },
+        { "text": "D. Complication", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which part of a recount tells the events in chronological order?",
+      "explanation": "Series of Events (runtutan peristiwa) adalah inti teks yang menceritakan urutan kejadian secara kronologis.",
+      "difficulty": "EASY",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Orientation", "isCorrect": false },
+        { "text": "B. Series of Events", "isCorrect": true },
+        { "text": "C. Reorientation", "isCorrect": false },
+        { "text": "D. Resolution", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which part of a recount restates or summarizes the events at the end?",
+      "explanation": "Reorientation adalah bagian penutup yang menyatakan ulang atau menyimpulkan peristiwa, sering berisi ringkasan atau akibat.",
+      "difficulty": "EASY",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Orientation", "isCorrect": false },
+        { "text": "B. Series of Events", "isCorrect": false },
+        { "text": "C. Reorientation", "isCorrect": true },
+        { "text": "D. Identification", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which part of a recount text is considered optional?",
+      "explanation": "Reorientation bersifat opsional; sebuah recount tetap lengkap meski hanya berisi orientation dan series of events.",
+      "difficulty": "MEDIUM",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Orientation", "isCorrect": false },
+        { "text": "B. Series of Events", "isCorrect": false },
+        { "text": "C. Reorientation", "isCorrect": true },
+        { "text": "D. The title", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "\"Last Saturday, my family and I went to the National Museum in Jakarta.\" This sentence belongs to which part?",
+      "explanation": "Kalimat ini memperkenalkan kapan, siapa, dan di mana, sehingga merupakan bagian Orientation.",
+      "difficulty": "MEDIUM",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Orientation", "isCorrect": true },
+        { "text": "B. Series of Events", "isCorrect": false },
+        { "text": "C. Reorientation", "isCorrect": false },
+        { "text": "D. Complication", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "\"All in all, it was an unforgettable and meaningful trip for everyone.\" This sentence is part of the ....",
+      "explanation": "Kalimat penutup yang menyimpulkan dan memberi kesan umum termasuk Reorientation.",
+      "difficulty": "MEDIUM",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Orientation", "isCorrect": false },
+        { "text": "B. Series of Events", "isCorrect": false },
+        { "text": "C. Reorientation", "isCorrect": true },
+        { "text": "D. Description", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "\"First, we registered at the gate. Then, a guide explained the safety rules. After that, we entered the workshop.\" This passage belongs to the ....",
+      "explanation": "Bagian ini menceritakan urutan kejadian secara kronologis dengan kata penghubung waktu, sehingga termasuk Series of Events.",
+      "difficulty": "MEDIUM",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Orientation", "isCorrect": false },
+        { "text": "B. Series of Events", "isCorrect": true },
+        { "text": "C. Reorientation", "isCorrect": false },
+        { "text": "D. Coda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The orientation of a recount text mainly functions to ....",
+      "explanation": "Orientation memberikan informasi latar belakang (background) agar pembaca memahami konteks peristiwa.",
+      "difficulty": "MEDIUM",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Set the background and introduce the participants", "isCorrect": true },
+        { "text": "B. Give a personal comment about the events", "isCorrect": false },
+        { "text": "C. List the materials needed", "isCorrect": false },
+        { "text": "D. Present arguments for a thesis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which term is another common name for the 'Series of Events' part?",
+      "explanation": "Series of Events juga disebut 'Events' atau 'Record of Events', yaitu bagian yang merekam urutan kejadian.",
+      "difficulty": "HARD",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Identification", "isCorrect": false },
+        { "text": "B. Record of Events", "isCorrect": true },
+        { "text": "C. Reiteration", "isCorrect": false },
+        { "text": "D. Coda", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A reorientation that adds the writer's personal comment or evaluation about the events is sometimes called a ....",
+      "explanation": "Komentar pribadi penulis di akhir recount kadang disebut 'personal comment' atau 'coda'.",
+      "difficulty": "HARD",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Thesis", "isCorrect": false },
+        { "text": "B. Personal comment / coda", "isCorrect": true },
+        { "text": "C. Complication", "isCorrect": false },
+        { "text": "D. Abstract", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the dominant tense used in a recount text?",
+      "explanation": "Recount menceritakan peristiwa yang sudah selesai, sehingga tense dominan adalah Simple Past Tense.",
+      "difficulty": "EASY",
+      "tag": "Language Features",
+      "options": [
+        { "text": "A. Simple Present Tense", "isCorrect": false },
+        { "text": "B. Simple Past Tense", "isCorrect": true },
+        { "text": "C. Present Continuous Tense", "isCorrect": false },
+        { "text": "D. Simple Future Tense", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which type of verbs is mostly used in a recount text?",
+      "explanation": "Recount banyak menggunakan action verbs (verba tindakan) seperti went, arrived, dan explained.",
+      "difficulty": "EASY",
+      "tag": "Language Features",
+      "options": [
+        { "text": "A. Relational verbs only", "isCorrect": false },
+        { "text": "B. Action verbs", "isCorrect": true },
+        { "text": "C. Modal verbs only", "isCorrect": false },
+        { "text": "D. Linking verbs only", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which language feature is used to show the order of events in a recount?",
+      "explanation": "Time conjunctions (kata penghubung waktu) seperti first, then, dan after that menunjukkan urutan kronologis.",
+      "difficulty": "EASY",
+      "tag": "Language Features",
+      "options": [
+        { "text": "A. Adjectives", "isCorrect": false },
+        { "text": "B. Time conjunctions (connectives)", "isCorrect": true },
+        { "text": "C. Imperatives", "isCorrect": false },
+        { "text": "D. Comparatives", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Why is the passive voice often used in formal factual recounts?",
+      "explanation": "Passive voice digunakan untuk menekankan peristiwa atau objek, bukan pelakunya, sehingga laporan terasa lebih objektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Language Features",
+      "options": [
+        { "text": "A. To emphasize the doer of the action", "isCorrect": false },
+        { "text": "B. To emphasize the event or object rather than the doer", "isCorrect": true },
+        { "text": "C. To make the text shorter", "isCorrect": false },
+        { "text": "D. To express future plans", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Recount texts often use specific nouns and phrases such as names, places, and dates in order to ....",
+      "explanation": "Penggunaan nama, tempat, dan tanggal yang spesifik bertujuan menjaga keakuratan fakta (factual accuracy).",
+      "difficulty": "MEDIUM",
+      "tag": "Language Features",
+      "options": [
+        { "text": "A. Make the text more imaginative", "isCorrect": false },
+        { "text": "B. Keep the facts accurate", "isCorrect": true },
+        { "text": "C. Persuade the reader", "isCorrect": false },
+        { "text": "D. Hide the identity of participants", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of these is a typical language feature of recount text?",
+      "explanation": "Recount menggunakan past tense, action verbs, dan time conjunctions. Penggunaan imperative (kalimat perintah) adalah ciri procedure text.",
+      "difficulty": "MEDIUM",
+      "tag": "Language Features",
+      "options": [
+        { "text": "A. Imperative sentences (commands)", "isCorrect": false },
+        { "text": "B. Past tense and time conjunctions", "isCorrect": true },
+        { "text": "C. Present tense and adjectives only", "isCorrect": false },
+        { "text": "D. Questions and exclamations only", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Personal pronouns such as I, we, and they are common in recount texts because the text ....",
+      "explanation": "Recount sering menceritakan keterlibatan orang/pelaku, sehingga personal pronouns digunakan untuk merujuk para partisipan.",
+      "difficulty": "MEDIUM",
+      "tag": "Language Features",
+      "options": [
+        { "text": "A. Gives instructions to the reader", "isCorrect": false },
+        { "text": "B. Refers to the participants involved in the events", "isCorrect": true },
+        { "text": "C. Describes physical features of objects", "isCorrect": false },
+        { "text": "D. Avoids mentioning people", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Adverbs of time and place (e.g., yesterday, at the harbor) are used in recounts to ....",
+      "explanation": "Adverbs of time dan place memberi keterangan kapan dan di mana peristiwa terjadi, memperjelas konteks faktual.",
+      "difficulty": "HARD",
+      "tag": "Language Features",
+      "options": [
+        { "text": "A. Show when and where the events happened", "isCorrect": true },
+        { "text": "B. Describe the writer's feelings", "isCorrect": false },
+        { "text": "C. Give commands", "isCorrect": false },
+        { "text": "D. Compare two objects", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence uses the correct tense for a recount text?",
+      "explanation": "Recount memakai Simple Past Tense. 'We visited the factory last week' menggunakan past tense yang benar.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. We visit the factory last week.", "isCorrect": false },
+        { "text": "B. We visited the factory last week.", "isCorrect": true },
+        { "text": "C. We will visit the factory last week.", "isCorrect": false },
+        { "text": "D. We are visiting the factory last week.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of the verb \"go\"?",
+      "explanation": "'Go' adalah kata kerja tidak beraturan (irregular verb); bentuk lampaunya adalah 'went'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. goed", "isCorrect": false },
+        { "text": "B. gone", "isCorrect": false },
+        { "text": "C. went", "isCorrect": true },
+        { "text": "D. going", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of the verb \"arrive\"?",
+      "explanation": "'Arrive' adalah regular verb, bentuk lampaunya dibentuk dengan menambah -d, yaitu 'arrived'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. arrived", "isCorrect": true },
+        { "text": "B. arrove", "isCorrect": false },
+        { "text": "C. arriven", "isCorrect": false },
+        { "text": "D. arriving", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of the verb \"begin\"?",
+      "explanation": "'Begin' adalah irregular verb; bentuk lampaunya adalah 'began' (V2), sedangkan 'begun' adalah V3 (past participle).",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. beginned", "isCorrect": false },
+        { "text": "B. begun", "isCorrect": false },
+        { "text": "C. began", "isCorrect": true },
+        { "text": "D. begin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct past tense sentence.",
+      "explanation": "Bentuk lampau 'see' adalah 'saw'. 'The manager saw the report and signed it' benar.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. The manager see the report and signed it.", "isCorrect": false },
+        { "text": "B. The manager saw the report and signed it.", "isCorrect": true },
+        { "text": "C. The manager seen the report and signed it.", "isCorrect": false },
+        { "text": "D. The manager seeing the report and signed it.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the correct negative past form of \"They finished the project\"?",
+      "explanation": "Bentuk negatif Simple Past memakai 'did not + verb-1': 'They did not finish the project.'",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. They not finished the project.", "isCorrect": false },
+        { "text": "B. They did not finished the project.", "isCorrect": false },
+        { "text": "C. They did not finish the project.", "isCorrect": true },
+        { "text": "D. They don't finish the project.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which is the correct past tense question form?",
+      "explanation": "Pertanyaan Simple Past memakai 'Did + subject + verb-1': 'Did you visit the museum yesterday?'",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. Did you visited the museum yesterday?", "isCorrect": false },
+        { "text": "B. Did you visit the museum yesterday?", "isCorrect": true },
+        { "text": "C. Do you visited the museum yesterday?", "isCorrect": false },
+        { "text": "D. Are you visit the museum yesterday?", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fill in the blank: \"The conference ___ held in Jakarta last year.\"",
+      "explanation": "Kalimat pasif lampau memakai 'was/were + V3'. Karena 'conference' tunggal, jawabannya 'was'.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. is", "isCorrect": false },
+        { "text": "B. was", "isCorrect": true },
+        { "text": "C. were", "isCorrect": false },
+        { "text": "D. has", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"have\"?",
+      "explanation": "Bentuk lampau dari 'have/has' adalah 'had'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. haved", "isCorrect": false },
+        { "text": "B. has", "isCorrect": false },
+        { "text": "C. had", "isCorrect": true },
+        { "text": "D. having", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct verb: \"Yesterday, the workers ___ their safety helmets before entering the site.\"",
+      "explanation": "Bentuk lampau 'wear' adalah 'wore'. Kalimat memakai 'yesterday' sehingga harus past tense.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. wear", "isCorrect": false },
+        { "text": "B. wore", "isCorrect": true },
+        { "text": "C. wears", "isCorrect": false },
+        { "text": "D. worn", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"take\"?",
+      "explanation": "'Take' adalah irregular verb; bentuk lampaunya (V2) adalah 'took'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. taked", "isCorrect": false },
+        { "text": "B. took", "isCorrect": true },
+        { "text": "C. taken", "isCorrect": false },
+        { "text": "D. taking", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which time expression is most suitable for the Simple Past Tense?",
+      "explanation": "Keterangan waktu lampau seperti 'last night', 'yesterday', dan 'two days ago' menyertai Simple Past.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. tomorrow", "isCorrect": false },
+        { "text": "B. next week", "isCorrect": false },
+        { "text": "C. last night", "isCorrect": true },
+        { "text": "D. every day", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identify the regular verb among the following.",
+      "explanation": "Regular verb membentuk past tense dengan -ed. 'Walk' menjadi 'walked'. Go, eat, dan write adalah irregular.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. go", "isCorrect": false },
+        { "text": "B. walk", "isCorrect": true },
+        { "text": "C. eat", "isCorrect": false },
+        { "text": "D. write", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"write\"?",
+      "explanation": "'Write' adalah irregular verb; bentuk lampaunya (V2) adalah 'wrote', dan V3-nya 'written'.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. writed", "isCorrect": false },
+        { "text": "B. written", "isCorrect": false },
+        { "text": "C. wrote", "isCorrect": true },
+        { "text": "D. writing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the sentence with the correct past tense of \"run\".",
+      "explanation": "Bentuk lampau 'run' adalah 'ran'. 'The workers ran to the assembly point' benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. The workers runned to the assembly point.", "isCorrect": false },
+        { "text": "B. The workers ran to the assembly point.", "isCorrect": true },
+        { "text": "C. The workers run to the assembly point yesterday.", "isCorrect": false },
+        { "text": "D. The workers running to the assembly point.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"buy\"?",
+      "explanation": "'Buy' adalah irregular verb; bentuk lampaunya adalah 'bought'.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. buyed", "isCorrect": false },
+        { "text": "B. bought", "isCorrect": true },
+        { "text": "C. buied", "isCorrect": false },
+        { "text": "D. buing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fill in the blank: \"We ___ very tired after the long field trip.\"",
+      "explanation": "Subjek jamak 'we' memakai 'were' sebagai bentuk lampau dari 'are'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. was", "isCorrect": false },
+        { "text": "B. were", "isCorrect": true },
+        { "text": "C. is", "isCorrect": false },
+        { "text": "D. are", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"meet\"?",
+      "explanation": "'Meet' adalah irregular verb; bentuk lampaunya adalah 'met'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. meeted", "isCorrect": false },
+        { "text": "B. meet", "isCorrect": false },
+        { "text": "C. met", "isCorrect": true },
+        { "text": "D. meeting", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly uses \"did\" in a past tense question?",
+      "explanation": "Setelah 'did', kata kerja harus dalam bentuk dasar (V1): 'Where did the accident happen?'",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. Where did the accident happened?", "isCorrect": false },
+        { "text": "B. Where did the accident happen?", "isCorrect": true },
+        { "text": "C. Where the accident did happen?", "isCorrect": false },
+        { "text": "D. Where does the accident happen?", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of the following is a time connective used to start a sequence?",
+      "explanation": "'First' digunakan untuk memulai urutan peristiwa. 'Finally' menutup, sedangkan 'because' dan 'although' bukan time connective.",
+      "difficulty": "EASY",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. First", "isCorrect": true },
+        { "text": "B. Because", "isCorrect": false },
+        { "text": "C. Although", "isCorrect": false },
+        { "text": "D. However", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which time connective is best to end a sequence of events?",
+      "explanation": "'Finally' digunakan untuk menutup atau mengakhiri rangkaian peristiwa.",
+      "difficulty": "EASY",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. First", "isCorrect": false },
+        { "text": "B. Then", "isCorrect": false },
+        { "text": "C. Finally", "isCorrect": true },
+        { "text": "D. Next", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which word is a time connective?",
+      "explanation": "'After that' menunjukkan urutan waktu. 'Therefore', 'because', dan 'such as' bukan penanda urutan waktu.",
+      "difficulty": "EASY",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. Therefore", "isCorrect": false },
+        { "text": "B. After that", "isCorrect": true },
+        { "text": "C. Because", "isCorrect": false },
+        { "text": "D. Such as", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct order of time connectives to show a sequence.",
+      "explanation": "Urutan yang logis: First, then, next, finally — menandai awal hingga akhir rangkaian peristiwa.",
+      "difficulty": "MEDIUM",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. Finally, next, then, first", "isCorrect": false },
+        { "text": "B. First, then, next, finally", "isCorrect": true },
+        { "text": "C. Then, first, finally, next", "isCorrect": false },
+        { "text": "D. Next, finally, first, then", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fill in the blank: \"We registered at the office. ___, we walked into the laboratory.\"",
+      "explanation": "Untuk menunjukkan kejadian berikutnya digunakan 'After that' (setelah itu).",
+      "difficulty": "MEDIUM",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. Because", "isCorrect": false },
+        { "text": "B. After that", "isCorrect": true },
+        { "text": "C. So that", "isCorrect": false },
+        { "text": "D. In order to", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which time connective means \"at the same time\"?",
+      "explanation": "'Meanwhile' berarti 'sementara itu' atau 'pada saat yang sama'.",
+      "difficulty": "MEDIUM",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. Previously", "isCorrect": false },
+        { "text": "B. Finally", "isCorrect": false },
+        { "text": "C. Meanwhile", "isCorrect": true },
+        { "text": "D. After that", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which time connective refers to something that happened earlier (before)?",
+      "explanation": "'Previously' berarti 'sebelumnya', menunjuk peristiwa yang terjadi lebih awal.",
+      "difficulty": "MEDIUM",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. Next", "isCorrect": false },
+        { "text": "B. Previously", "isCorrect": true },
+        { "text": "C. Then", "isCorrect": false },
+        { "text": "D. Finally", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "\"On the first day, the trainees toured the plant.\" The phrase \"On the first day\" functions as a ....",
+      "explanation": "'On the first day' adalah penanda waktu (time connective/marker) yang menunjukkan kapan peristiwa terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. Time connective/marker", "isCorrect": true },
+        { "text": "B. Action verb", "isCorrect": false },
+        { "text": "C. Adjective", "isCorrect": false },
+        { "text": "D. Relational verb", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence uses a time connective correctly?",
+      "explanation": "'Then, the supervisor inspected the machines' menggunakan 'then' dengan benar untuk menandai kejadian berikutnya.",
+      "difficulty": "EASY",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. The supervisor inspected then the machines.", "isCorrect": false },
+        { "text": "B. Then, the supervisor inspected the machines.", "isCorrect": true },
+        { "text": "C. The supervisor then because inspected the machines.", "isCorrect": false },
+        { "text": "D. Inspected the supervisor then machines.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which group consists ONLY of time connectives?",
+      "explanation": "First, then, after that, finally semuanya adalah penanda urutan waktu. Pilihan lain mengandung penghubung sebab/kontras.",
+      "difficulty": "MEDIUM",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. first, then, after that, finally", "isCorrect": true },
+        { "text": "B. first, because, then, although", "isCorrect": false },
+        { "text": "C. however, then, but, finally", "isCorrect": false },
+        { "text": "D. so, next, therefore, first", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which time connective best fits: \"___ the inspection, the workers received their certificates.\" (meaning after the inspection)",
+      "explanation": "'After' menunjukkan kejadian yang terjadi setelah peristiwa lain. 'After the inspection, ...' tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. Before", "isCorrect": false },
+        { "text": "B. After", "isCorrect": true },
+        { "text": "C. While", "isCorrect": false },
+        { "text": "D. Until", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of these is an action verb?",
+      "explanation": "Action verb menunjukkan tindakan. 'Visited' (mengunjungi) adalah action verb; is/seem/appear adalah relational/linking verbs.",
+      "difficulty": "EASY",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. is", "isCorrect": false },
+        { "text": "B. visited", "isCorrect": true },
+        { "text": "C. seem", "isCorrect": false },
+        { "text": "D. appear", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence contains an action verb in the past tense?",
+      "explanation": "'The mayor opened the event' menggunakan action verb 'opened' dalam bentuk lampau.",
+      "difficulty": "EASY",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The hall was very big.", "isCorrect": false },
+        { "text": "B. The mayor opened the event.", "isCorrect": true },
+        { "text": "C. The room seemed quiet.", "isCorrect": false },
+        { "text": "D. The building is old.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of the following is a passive voice sentence in the past?",
+      "explanation": "Passive past memakai 'was/were + V3'. 'A new policy was introduced last month' adalah kalimat pasif.",
+      "difficulty": "MEDIUM",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The manager introduced a new policy.", "isCorrect": false },
+        { "text": "B. A new policy was introduced last month.", "isCorrect": true },
+        { "text": "C. The manager is introducing a new policy.", "isCorrect": false },
+        { "text": "D. The manager will introduce a new policy.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Change to passive: \"The mayor opened the event.\"",
+      "explanation": "Bentuk pasifnya: 'The event was opened by the mayor.'",
+      "difficulty": "MEDIUM",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The event was opened by the mayor.", "isCorrect": true },
+        { "text": "B. The event is opened by the mayor.", "isCorrect": false },
+        { "text": "C. The mayor was opened by the event.", "isCorrect": false },
+        { "text": "D. The event opened the mayor.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which set contains only action verbs?",
+      "explanation": "Went, arrived, explained, announced semuanya action verbs. Pilihan lain mengandung is/are/seem (relational).",
+      "difficulty": "MEDIUM",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. went, arrived, explained, announced", "isCorrect": true },
+        { "text": "B. is, are, was, were", "isCorrect": false },
+        { "text": "C. seem, appear, look, is", "isCorrect": false },
+        { "text": "D. have, has, had, is", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The correct passive past form of \"They built the factory in 1990\" is ....",
+      "explanation": "Pasifnya: 'The factory was built in 1990.'",
+      "difficulty": "MEDIUM",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The factory was built in 1990.", "isCorrect": true },
+        { "text": "B. The factory is built in 1990.", "isCorrect": false },
+        { "text": "C. The factory were built in 1990.", "isCorrect": false },
+        { "text": "D. The factory built in 1990.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Why might a factual recount prefer \"The safety briefing was given\" over \"The officer gave the safety briefing\"?",
+      "explanation": "Kalimat pasif menekankan peristiwa/objek (the safety briefing) daripada pelaku, sesuai gaya laporan formal yang objektif.",
+      "difficulty": "HARD",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. To focus on the action/event rather than the doer", "isCorrect": true },
+        { "text": "B. To make the doer more important", "isCorrect": false },
+        { "text": "C. To change the time to present", "isCorrect": false },
+        { "text": "D. To give a command", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which word in this sentence is the action verb: \"The participants discussed important issues\"?",
+      "explanation": "'Discussed' adalah action verb yang menunjukkan tindakan yang dilakukan para peserta.",
+      "difficulty": "EASY",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. participants", "isCorrect": false },
+        { "text": "B. discussed", "isCorrect": true },
+        { "text": "C. important", "isCorrect": false },
+        { "text": "D. issues", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identify the passive sentence.",
+      "explanation": "'The report was written by the safety officer' adalah pasif (was + V3 + by). Sisanya kalimat aktif.",
+      "difficulty": "MEDIUM",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The safety officer wrote the report.", "isCorrect": false },
+        { "text": "B. The report was written by the safety officer.", "isCorrect": true },
+        { "text": "C. The safety officer writes the report.", "isCorrect": false },
+        { "text": "D. The safety officer is writing the report.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Complete the action verb: \"The director ___ the new safety program last week.\"",
+      "explanation": "Bentuk lampau 'announce' adalah 'announced', cocok dengan 'last week'.",
+      "difficulty": "EASY",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. announce", "isCorrect": false },
+        { "text": "B. announced", "isCorrect": true },
+        { "text": "C. announces", "isCorrect": false },
+        { "text": "D. announcing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of these is a specific noun phrase that improves factual accuracy in a recount?",
+      "explanation": "Frasa spesifik seperti 'on August 17, 1945' memberi tanggal yang tepat, menjaga keakuratan fakta.",
+      "difficulty": "MEDIUM",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. one day", "isCorrect": false },
+        { "text": "B. on August 17, 1945", "isCorrect": true },
+        { "text": "C. some place", "isCorrect": false },
+        { "text": "D. a long time ago", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which is a proper (specific) noun suitable for a factual recount?",
+      "explanation": "'President Joko Widodo' adalah nama spesifik (proper noun) yang menjaga keakuratan fakta.",
+      "difficulty": "EASY",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. a leader", "isCorrect": false },
+        { "text": "B. President Joko Widodo", "isCorrect": true },
+        { "text": "C. someone important", "isCorrect": false },
+        { "text": "D. a person", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In K3 (OHS) English, what does \"PPE\" stand for?",
+      "explanation": "PPE = Personal Protective Equipment, yaitu Alat Pelindung Diri (APD).",
+      "difficulty": "EASY",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. Public Protection Enforcement", "isCorrect": false },
+        { "text": "B. Personal Protective Equipment", "isCorrect": true },
+        { "text": "C. Private Protective Engineering", "isCorrect": false },
+        { "text": "D. Personal Production Equipment", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The English term for \"bahaya\" in a workplace context is ....",
+      "explanation": "'Bahaya' di tempat kerja diterjemahkan sebagai 'hazard(s)'.",
+      "difficulty": "EASY",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. hazards", "isCorrect": true },
+        { "text": "B. benefits", "isCorrect": false },
+        { "text": "C. procedures", "isCorrect": false },
+        { "text": "D. locations", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The English term for \"prosedur\" is ....",
+      "explanation": "'Prosedur' dalam bahasa Inggris adalah 'procedures'.",
+      "difficulty": "EASY",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. hazards", "isCorrect": false },
+        { "text": "B. procedures", "isCorrect": true },
+        { "text": "C. equipment", "isCorrect": false },
+        { "text": "D. accidents", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which noun phrase is the MOST specific?",
+      "explanation": "'The National Museum in Jakarta' lebih spesifik daripada 'a museum', 'that place', atau 'somewhere'.",
+      "difficulty": "MEDIUM",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. a museum", "isCorrect": false },
+        { "text": "B. that place", "isCorrect": false },
+        { "text": "C. The National Museum in Jakarta", "isCorrect": true },
+        { "text": "D. somewhere", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Why does a factual recount avoid vague words like \"a lot of things\" and \"some people\"?",
+      "explanation": "Kata samar mengurangi keakuratan; recount fakta memerlukan informasi yang spesifik dan tepat.",
+      "difficulty": "HARD",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. Because they are too formal", "isCorrect": false },
+        { "text": "B. Because vague words reduce factual accuracy", "isCorrect": true },
+        { "text": "C. Because they are grammatically wrong", "isCorrect": false },
+        { "text": "D. Because they are too long", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence contains a specific time reference suitable for a factual recount?",
+      "explanation": "'The agreement was signed on January 5, 2020' memberi tanggal pasti yang akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. The agreement was signed once upon a time.", "isCorrect": false },
+        { "text": "B. The agreement was signed on January 5, 2020.", "isCorrect": true },
+        { "text": "C. The agreement was signed sometime ago.", "isCorrect": false },
+        { "text": "D. The agreement was signed someday.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The English term for \"lokasi kerja\" is ....",
+      "explanation": "'Lokasi kerja' dalam bahasa Inggris adalah 'work location(s)'.",
+      "difficulty": "EASY",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. work procedures", "isCorrect": false },
+        { "text": "B. work locations", "isCorrect": true },
+        { "text": "C. work hazards", "isCorrect": false },
+        { "text": "D. work hours", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In a safety incident recount, which detail is most important for factual accuracy?",
+      "explanation": "Waktu, tempat, dan orang yang terlibat yang spesifik penting untuk keakuratan laporan kejadian.",
+      "difficulty": "MEDIUM",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. The writer's feelings about the event", "isCorrect": false },
+        { "text": "B. The exact time, place, and people involved", "isCorrect": true },
+        { "text": "C. Imaginary causes of the accident", "isCorrect": false },
+        { "text": "D. The writer's opinion on safety", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Read: \"Last Monday, our class visited a manufacturing factory in Bekasi. First, the safety officer explained the rules. Then, we were given helmets and vests. After that, we toured the production line. Finally, we returned to school. It was a very useful experience.\" \n\nWhere did the class go?",
+      "explanation": "Teks menyebut mereka mengunjungi 'a manufacturing factory in Bekasi'.",
+      "difficulty": "EASY",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. A museum in Jakarta", "isCorrect": false },
+        { "text": "B. A manufacturing factory in Bekasi", "isCorrect": true },
+        { "text": "C. A hospital in Bandung", "isCorrect": false },
+        { "text": "D. A school in Bekasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Based on the text about the factory visit, when did the visit happen?",
+      "explanation": "Orientasi menyebutkan 'Last Monday', sehingga kunjungan terjadi Senin lalu.",
+      "difficulty": "EASY",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Last Monday", "isCorrect": true },
+        { "text": "B. Last Sunday", "isCorrect": false },
+        { "text": "C. Next Monday", "isCorrect": false },
+        { "text": "D. Yesterday morning", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the factory text, what did the students receive before touring the production line?",
+      "explanation": "Teks menyatakan 'we were given helmets and vests' sebelum berkeliling.",
+      "difficulty": "EASY",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Books and pens", "isCorrect": false },
+        { "text": "B. Helmets and vests", "isCorrect": true },
+        { "text": "C. Money and tickets", "isCorrect": false },
+        { "text": "D. Food and drinks", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the factory text, who explained the rules?",
+      "explanation": "Teks menyebut 'the safety officer explained the rules'.",
+      "difficulty": "EASY",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. The teacher", "isCorrect": false },
+        { "text": "B. The safety officer", "isCorrect": true },
+        { "text": "C. The factory owner", "isCorrect": false },
+        { "text": "D. A student", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the factory text, the sentence \"It was a very useful experience\" functions as the ....",
+      "explanation": "Kalimat penutup yang memberi kesan umum/penilaian termasuk Reorientation.",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Orientation", "isCorrect": false },
+        { "text": "B. Series of Events", "isCorrect": false },
+        { "text": "C. Reorientation", "isCorrect": true },
+        { "text": "D. Complication", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the factory text, \"we were given helmets and vests\" is an example of ....",
+      "explanation": "'Were given' adalah bentuk pasif lampau (passive voice in past tense).",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Active voice present tense", "isCorrect": false },
+        { "text": "B. Passive voice past tense", "isCorrect": true },
+        { "text": "C. Future tense", "isCorrect": false },
+        { "text": "D. Imperative", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "How many time connectives can you find in the factory text (First, Then, After that, Finally)?",
+      "explanation": "Terdapat empat penanda waktu: First, Then, After that, Finally.",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Two", "isCorrect": false },
+        { "text": "B. Three", "isCorrect": false },
+        { "text": "C. Four", "isCorrect": true },
+        { "text": "D. Five", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Read: \"Yesterday, an accident occurred at the construction site. At 10 a.m., a worker slipped on a wet floor. Immediately, the supervisor stopped the work. The injured worker was taken to the clinic. Finally, the area was cleaned and marked with a warning sign.\" \n\nWhat caused the accident?",
+      "explanation": "Teks menyatakan pekerja terpeleset di lantai basah (slipped on a wet floor).",
+      "difficulty": "EASY",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. A falling object", "isCorrect": false },
+        { "text": "B. A wet floor that made a worker slip", "isCorrect": true },
+        { "text": "C. An electrical fault", "isCorrect": false },
+        { "text": "D. A broken machine", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the accident text, what did the supervisor do immediately?",
+      "explanation": "Teks menyatakan 'the supervisor stopped the work' segera setelah kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Called the family", "isCorrect": false },
+        { "text": "B. Stopped the work", "isCorrect": true },
+        { "text": "C. Cleaned the floor", "isCorrect": false },
+        { "text": "D. Went home", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the accident text, \"The injured worker was taken to the clinic\" is a ....",
+      "explanation": "'Was taken' adalah passive voice dalam bentuk lampau.",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Active sentence", "isCorrect": false },
+        { "text": "B. Passive sentence", "isCorrect": true },
+        { "text": "C. Imperative sentence", "isCorrect": false },
+        { "text": "D. Question", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the accident text, what time did the worker slip?",
+      "explanation": "Teks menyebut 'At 10 a.m., a worker slipped'.",
+      "difficulty": "EASY",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. At 9 a.m.", "isCorrect": false },
+        { "text": "B. At 10 a.m.", "isCorrect": true },
+        { "text": "C. At 11 a.m.", "isCorrect": false },
+        { "text": "D. At noon", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the accident text, what was done to the area at the end?",
+      "explanation": "Teks menyatakan area dibersihkan dan diberi rambu peringatan ('cleaned and marked with a warning sign').",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. It was closed permanently.", "isCorrect": false },
+        { "text": "B. It was cleaned and marked with a warning sign.", "isCorrect": true },
+        { "text": "C. It was left wet.", "isCorrect": false },
+        { "text": "D. It was painted blue.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The accident text is an example of which type of recount?",
+      "explanation": "Karena melaporkan kejadian faktual (kecelakaan kerja) secara kronologis, teks ini adalah factual recount.",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Imaginative recount", "isCorrect": false },
+        { "text": "B. Factual recount", "isCorrect": true },
+        { "text": "C. Procedure text", "isCorrect": false },
+        { "text": "D. Descriptive text", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence from the accident text belongs to the orientation?",
+      "explanation": "'Yesterday, an accident occurred at the construction site' memperkenalkan kapan, apa, dan di mana (orientation).",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Yesterday, an accident occurred at the construction site.", "isCorrect": true },
+        { "text": "B. The supervisor stopped the work.", "isCorrect": false },
+        { "text": "C. The injured worker was taken to the clinic.", "isCorrect": false },
+        { "text": "D. The area was cleaned and marked.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Read: \"The training started at 8 a.m. The participants learned how to use a fire extinguisher. They practiced in the yard. The session ended at noon.\" Which time connective could best be added at the beginning of the second sentence to show sequence?",
+      "explanation": "'First' cocok untuk memulai urutan, menandai kegiatan pertama setelah pelatihan dimulai.",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Finally", "isCorrect": false },
+        { "text": "B. First", "isCorrect": true },
+        { "text": "C. Because", "isCorrect": false },
+        { "text": "D. However", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of the following best rewrites \"The team finished the inspection\" into passive voice?",
+      "explanation": "Pasifnya: 'The inspection was finished by the team.'",
+      "difficulty": "MEDIUM",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The inspection was finished by the team.", "isCorrect": true },
+        { "text": "B. The inspection is finished by the team.", "isCorrect": false },
+        { "text": "C. The team was finished by the inspection.", "isCorrect": false },
+        { "text": "D. The inspection finishes the team.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which statement about recount and descriptive texts is TRUE?",
+      "explanation": "Recount memakai Simple Past, sedangkan descriptive memakai Simple Present. Ini perbedaan utama keduanya.",
+      "difficulty": "HARD",
+      "tag": "Language Features",
+      "options": [
+        { "text": "A. Both use the simple present tense", "isCorrect": false },
+        { "text": "B. Recount uses past tense; descriptive uses present tense", "isCorrect": true },
+        { "text": "C. Both focus on physical features of objects", "isCorrect": false },
+        { "text": "D. Recount uses imperatives; descriptive uses questions", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence is grammatically correct for a recount?",
+      "explanation": "'After we had registered, the tour began' menggunakan urutan tense lampau yang benar (past perfect + simple past).",
+      "difficulty": "HARD",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. After we registered, the tour begins.", "isCorrect": false },
+        { "text": "B. After we had registered, the tour began.", "isCorrect": true },
+        { "text": "C. After we registering, the tour began.", "isCorrect": false },
+        { "text": "D. After we registers, the tour began.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"speak\"?",
+      "explanation": "'Speak' adalah irregular verb; bentuk lampaunya (V2) adalah 'spoke'.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. speaked", "isCorrect": false },
+        { "text": "B. spoke", "isCorrect": true },
+        { "text": "C. spoken", "isCorrect": false },
+        { "text": "D. speaking", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"leave\"?",
+      "explanation": "'Leave' adalah irregular verb; bentuk lampaunya adalah 'left'.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. leaved", "isCorrect": false },
+        { "text": "B. leaven", "isCorrect": false },
+        { "text": "C. left", "isCorrect": true },
+        { "text": "D. leaving", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct past tense form: \"The engineer ___ the problem and ___ a solution.\"",
+      "explanation": "Bentuk lampau yang tepat: 'identified' dan 'found' (find -> found).",
+      "difficulty": "HARD",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. identify ... find", "isCorrect": false },
+        { "text": "B. identified ... found", "isCorrect": true },
+        { "text": "C. identifies ... finds", "isCorrect": false },
+        { "text": "D. identifying ... finding", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence shows the correct use of \"meanwhile\" as a time connective?",
+      "explanation": "'The team inspected the machines; meanwhile, the others recorded the data' memakai 'meanwhile' (sementara itu) dengan benar.",
+      "difficulty": "HARD",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. The team inspected the machines because meanwhile data.", "isCorrect": false },
+        { "text": "B. The team inspected the machines; meanwhile, the others recorded the data.", "isCorrect": true },
+        { "text": "C. Meanwhile the data the team inspected machines.", "isCorrect": false },
+        { "text": "D. The team meanwhile because inspected the data.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Arrange to form a correct recount sentence: \"the / opened / mayor / event / the\"",
+      "explanation": "Susunan SVO yang benar: 'The mayor opened the event.'",
+      "difficulty": "MEDIUM",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The mayor opened the event.", "isCorrect": true },
+        { "text": "B. The event the mayor opened.", "isCorrect": false },
+        { "text": "C. Opened the mayor the event.", "isCorrect": false },
+        { "text": "D. The mayor the event opened.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly reports a past event using a specific date?",
+      "explanation": "'Indonesia proclaimed its independence on August 17, 1945' menggabungkan past tense dengan tanggal spesifik.",
+      "difficulty": "MEDIUM",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. Indonesia proclaims its independence on August 17, 1945.", "isCorrect": false },
+        { "text": "B. Indonesia proclaimed its independence on August 17, 1945.", "isCorrect": true },
+        { "text": "C. Indonesia will proclaim its independence on August 17, 1945.", "isCorrect": false },
+        { "text": "D. Indonesia proclaim its independence on August 17, 1945.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence belongs in the series of events, NOT the orientation?",
+      "explanation": "'Then, we observed the welding process' menceritakan satu kejadian dalam rangkaian, bukan latar belakang.",
+      "difficulty": "MEDIUM",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Last week, our class went on a field trip.", "isCorrect": false },
+        { "text": "B. Then, we observed the welding process.", "isCorrect": true },
+        { "text": "C. My name is Andi and I am a student.", "isCorrect": false },
+        { "text": "D. It was a sunny Monday morning.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What does a recount text NOT usually include?",
+      "explanation": "Recount fakta tidak menyertakan opini imajinatif atau khayalan; isinya peristiwa faktual.",
+      "difficulty": "MEDIUM",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. Past events", "isCorrect": false },
+        { "text": "B. Time connectives", "isCorrect": false },
+        { "text": "C. Imaginary or fictional events", "isCorrect": true },
+        { "text": "D. Action verbs in the past", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly uses an action verb and a time connective together?",
+      "explanation": "'First, the workers checked the equipment' memuat time connective (First) dan action verb lampau (checked).",
+      "difficulty": "MEDIUM",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The equipment is very heavy.", "isCorrect": false },
+        { "text": "B. First, the workers checked the equipment.", "isCorrect": true },
+        { "text": "C. The workers seem tired.", "isCorrect": false },
+        { "text": "D. Check the equipment now!", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which best describes the tone/style of a factual recount?",
+      "explanation": "Factual recount bersifat formal, objektif, dan informatif, melaporkan fakta secara netral.",
+      "difficulty": "HARD",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. Emotional and persuasive", "isCorrect": false },
+        { "text": "B. Formal, objective, and informative", "isCorrect": true },
+        { "text": "C. Humorous and imaginative", "isCorrect": false },
+        { "text": "D. Commanding and instructional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the sentence with the correct past tense of \"hold\".",
+      "explanation": "Bentuk lampau 'hold' adalah 'held'. 'The seminar was held in March' benar (pasif).",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. The seminar was holded in March.", "isCorrect": false },
+        { "text": "B. The seminar was held in March.", "isCorrect": true },
+        { "text": "C. The seminar was holds in March.", "isCorrect": false },
+        { "text": "D. The seminar was holding in March.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence is the best example of an orientation for a recount about a work training?",
+      "explanation": "Orientation memberi latar: 'Last month, twenty employees attended a safety training at the head office.'",
+      "difficulty": "MEDIUM",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. In conclusion, the training was useful.", "isCorrect": false },
+        { "text": "B. Last month, twenty employees attended a safety training at the head office.", "isCorrect": true },
+        { "text": "C. Then, they practiced first aid.", "isCorrect": false },
+        { "text": "D. Always wear your PPE.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly uses the past tense verb \"feel\"?",
+      "explanation": "Bentuk lampau 'feel' adalah 'felt'. 'Everyone felt safe after the briefing' benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. Everyone feeled safe after the briefing.", "isCorrect": false },
+        { "text": "B. Everyone felt safe after the briefing.", "isCorrect": true },
+        { "text": "C. Everyone feels safe after the briefing yesterday.", "isCorrect": false },
+        { "text": "D. Everyone feeling safe after the briefing.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the sentence \"The award was given to the safety team,\" who/what is emphasized?",
+      "explanation": "Karena pasif, fokusnya pada 'the award' (peristiwa/objek), bukan pemberi penghargaan.",
+      "difficulty": "HARD",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The doer (who gave the award)", "isCorrect": false },
+        { "text": "B. The award (the object/event)", "isCorrect": true },
+        { "text": "C. The time of the event", "isCorrect": false },
+        { "text": "D. The reason for the award", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which is the correct sequence of a recount's generic structure from beginning to end?",
+      "explanation": "Urutannya: Orientation (awal) -> Series of Events (tengah) -> Reorientation (akhir).",
+      "difficulty": "EASY",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. Reorientation -> Events -> Orientation", "isCorrect": false },
+        { "text": "B. Events -> Orientation -> Reorientation", "isCorrect": false },
+        { "text": "C. Orientation -> Series of Events -> Reorientation", "isCorrect": true },
+        { "text": "D. Orientation -> Reorientation -> Events", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence uses the wrong tense for a recount and should be corrected?",
+      "explanation": "'We arrive at the site early in the morning' salah karena recount perlu past tense ('arrived').",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. We arrived at the site early in the morning.", "isCorrect": false },
+        { "text": "B. We arrive at the site early in the morning.", "isCorrect": true },
+        { "text": "C. We left the site at noon.", "isCorrect": false },
+        { "text": "D. We saw the new machines.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The phrase \"two days ago\" indicates that the action happened in the ....",
+      "explanation": "'Two days ago' menunjuk waktu lampau, sehingga tindakan terjadi di masa lalu.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. present", "isCorrect": false },
+        { "text": "B. past", "isCorrect": true },
+        { "text": "C. future", "isCorrect": false },
+        { "text": "D. continuous present", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which connective shows that one event happened right after another?",
+      "explanation": "'Then' / 'after that' menandai peristiwa yang terjadi tepat setelah peristiwa sebelumnya.",
+      "difficulty": "EASY",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. Although", "isCorrect": false },
+        { "text": "B. Then", "isCorrect": true },
+        { "text": "C. Because", "isCorrect": false },
+        { "text": "D. So that", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A biography of a national hero is best classified as which sub-type of recount?",
+      "explanation": "Biografi melaporkan peristiwa nyata kehidupan seseorang, sehingga termasuk factual/historical recount.",
+      "difficulty": "HARD",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. Imaginative recount", "isCorrect": false },
+        { "text": "B. Factual (historical) recount", "isCorrect": true },
+        { "text": "C. Procedure", "isCorrect": false },
+        { "text": "D. Descriptive report", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence is in active voice (not passive)?",
+      "explanation": "'The committee organized the seminar' adalah aktif (subjek melakukan tindakan). Sisanya pasif.",
+      "difficulty": "MEDIUM",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. The seminar was organized by the committee.", "isCorrect": false },
+        { "text": "B. The committee organized the seminar.", "isCorrect": true },
+        { "text": "C. The report was submitted on time.", "isCorrect": false },
+        { "text": "D. The event was opened by the director.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly combines a time connective and the passive voice?",
+      "explanation": "'Finally, the certificates were handed out to the participants' menggabungkan 'finally' dengan pasif lampau dengan benar.",
+      "difficulty": "HARD",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. Finally, the certificates were handed out to the participants.", "isCorrect": true },
+        { "text": "B. Finally, the certificates hands out to the participants.", "isCorrect": false },
+        { "text": "C. Finally, hand out the certificates to the participants.", "isCorrect": false },
+        { "text": "D. Finally, the certificates is handed out to participants.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"come\"?",
+      "explanation": "'Come' adalah irregular verb; bentuk lampaunya adalah 'came'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. comed", "isCorrect": false },
+        { "text": "B. came", "isCorrect": true },
+        { "text": "C. come", "isCorrect": false },
+        { "text": "D. coming", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence is the best reorientation for a recount about a successful safety drill?",
+      "explanation": "Reorientation menutup dengan kesimpulan/kesan: 'Overall, the drill ran smoothly and everyone learned a lot.'",
+      "difficulty": "MEDIUM",
+      "tag": "Generic Structure",
+      "options": [
+        { "text": "A. The drill started at 9 a.m.", "isCorrect": false },
+        { "text": "B. Overall, the drill ran smoothly and everyone learned a lot.", "isCorrect": true },
+        { "text": "C. First, the alarm sounded.", "isCorrect": false },
+        { "text": "D. Then, we gathered at the assembly point.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"give\"?",
+      "explanation": "'Give' adalah irregular verb; bentuk lampaunya (V2) adalah 'gave'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. gived", "isCorrect": false },
+        { "text": "B. given", "isCorrect": false },
+        { "text": "C. gave", "isCorrect": true },
+        { "text": "D. giving", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identify the recount text from the following openings.",
+      "explanation": "'Last year, I joined an internship at a chemical plant' membuka cerita pengalaman lampau (recount).",
+      "difficulty": "MEDIUM",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. To make a fire extinguisher work, follow these steps.", "isCorrect": false },
+        { "text": "B. Last year, I joined an internship at a chemical plant.", "isCorrect": true },
+        { "text": "C. A helmet is a protective device worn on the head.", "isCorrect": false },
+        { "text": "D. Smoking should be banned in all workplaces.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which word is NOT a time connective?",
+      "explanation": "'Because' adalah penghubung sebab (cause), bukan penanda urutan waktu. First, then, finally adalah time connectives.",
+      "difficulty": "EASY",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. First", "isCorrect": false },
+        { "text": "B. Because", "isCorrect": true },
+        { "text": "C. Then", "isCorrect": false },
+        { "text": "D. Finally", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Read: \"On the second day, the trainees visited the laboratory. They were shown how to handle chemicals safely. Later, they wrote a short report.\" Which sentence is passive?",
+      "explanation": "'They were shown how to handle chemicals safely' memakai 'were shown' (pasif lampau).",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. On the second day, the trainees visited the laboratory.", "isCorrect": false },
+        { "text": "B. They were shown how to handle chemicals safely.", "isCorrect": true },
+        { "text": "C. Later, they wrote a short report.", "isCorrect": false },
+        { "text": "D. The trainees visited the laboratory.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the laboratory text above, the phrase \"On the second day\" is used to ....",
+      "explanation": "'On the second day' adalah penanda waktu yang menunjukkan urutan kronologis kejadian.",
+      "difficulty": "MEDIUM",
+      "tag": "Example & Comprehension",
+      "options": [
+        { "text": "A. Describe the laboratory", "isCorrect": false },
+        { "text": "B. Show the time sequence of events", "isCorrect": true },
+        { "text": "C. Give an instruction", "isCorrect": false },
+        { "text": "D. Express an opinion", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly uses \"finally\" to close a recount?",
+      "explanation": "'Finally, we went home feeling satisfied' memakai 'finally' untuk menutup rangkaian peristiwa dengan benar.",
+      "difficulty": "EASY",
+      "tag": "Time Connectives",
+      "options": [
+        { "text": "A. Finally we feeling satisfied home went.", "isCorrect": false },
+        { "text": "B. Finally, we went home feeling satisfied.", "isCorrect": true },
+        { "text": "C. We finally because home went.", "isCorrect": false },
+        { "text": "D. Home we finally went satisfied feeling.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence shows correct subject-verb agreement in the past tense?",
+      "explanation": "'The workers were trained yesterday' benar; subjek jamak 'workers' memakai 'were'.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. The workers was trained yesterday.", "isCorrect": false },
+        { "text": "B. The workers were trained yesterday.", "isCorrect": true },
+        { "text": "C. The workers is trained yesterday.", "isCorrect": false },
+        { "text": "D. The workers are trained yesterday.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which detail would make a workplace incident recount MORE factual?",
+      "explanation": "Detail spesifik seperti waktu, lokasi, dan nama yang tepat membuat laporan kejadian lebih faktual dan akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Specific Nouns & Vocabulary",
+      "options": [
+        { "text": "A. Adding the writer's feelings", "isCorrect": false },
+        { "text": "B. Adding the exact time, location, and names", "isCorrect": true },
+        { "text": "C. Adding imaginary causes", "isCorrect": false },
+        { "text": "D. Removing all dates", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"make\"?",
+      "explanation": "'Make' adalah irregular verb; bentuk lampaunya adalah 'made'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. maked", "isCorrect": false },
+        { "text": "B. made", "isCorrect": true },
+        { "text": "C. maden", "isCorrect": false },
+        { "text": "D. making", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of these is the correct passive of \"The supervisor checked all the machines\"?",
+      "explanation": "Pasifnya: 'All the machines were checked by the supervisor.'",
+      "difficulty": "HARD",
+      "tag": "Action Verbs & Passive Voice",
+      "options": [
+        { "text": "A. All the machines were checked by the supervisor.", "isCorrect": true },
+        { "text": "B. All the machines was checked by the supervisor.", "isCorrect": false },
+        { "text": "C. The supervisor were checked by all the machines.", "isCorrect": false },
+        { "text": "D. All the machines are checked by the supervisor.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence best shows the social function of a recount (to inform about what happened)?",
+      "explanation": "'The team reported what happened during the evacuation drill' menyampaikan informasi tentang peristiwa yang terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definition & Social Function",
+      "options": [
+        { "text": "A. Please follow the evacuation steps.", "isCorrect": false },
+        { "text": "B. The team reported what happened during the evacuation drill.", "isCorrect": true },
+        { "text": "C. The exit door is red and wide.", "isCorrect": false },
+        { "text": "D. We must improve our safety culture.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the past form of \"see\"?",
+      "explanation": "'See' adalah irregular verb; bentuk lampaunya (V2) adalah 'saw'.",
+      "difficulty": "EASY",
+      "tag": "Simple Past Tense",
+      "options": [
+        { "text": "A. seed", "isCorrect": false },
+        { "text": "B. saw", "isCorrect": true },
+        { "text": "C. seen", "isCorrect": false },
+        { "text": "D. seeing", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Recount text", "back": "Teks yang menceritakan kembali peristiwa atau pengalaman yang sudah terjadi di masa lampau secara kronologis.", "tag": "Definition & Social Function" },
+    { "front": "Social function of recount", "back": "To inform or entertain by retelling past events (memberi informasi atau menghibur dengan menceritakan peristiwa lampau).", "tag": "Definition & Social Function" },
+    { "front": "Factual recount", "back": "Recount berdasarkan fakta, data, dan bukti; objektif dan informatif, tanpa opini/imajinasi.", "tag": "Definition & Social Function" },
+    { "front": "Generic structure of recount", "back": "1. Orientation, 2. Series of Events, 3. Reorientation (opsional).", "tag": "Generic Structure" },
+    { "front": "Orientation", "back": "Bagian pembuka: memperkenalkan siapa, kapan, di mana, dan apa yang terjadi (latar belakang).", "tag": "Generic Structure" },
+    { "front": "Series of Events", "back": "Inti teks: menceritakan urutan kejadian secara kronologis (berdasarkan waktu).", "tag": "Generic Structure" },
+    { "front": "Reorientation", "back": "Penutup opsional: pernyataan ulang/kesimpulan atau kesan umum tentang peristiwa.", "tag": "Generic Structure" },
+    { "front": "Dominant tense in recount", "back": "Simple Past Tense, karena menceritakan peristiwa yang telah selesai.", "tag": "Language Features" },
+    { "front": "Simple Past Tense (positive)", "back": "Subject + Verb-2 (V2). Contoh: We visited the factory.", "tag": "Simple Past Tense" },
+    { "front": "Simple Past Tense (negative)", "back": "Subject + did not + Verb-1. Contoh: They did not finish the project.", "tag": "Simple Past Tense" },
+    { "front": "Simple Past Tense (question)", "back": "Did + subject + Verb-1? Contoh: Did you visit the museum?", "tag": "Simple Past Tense" },
+    { "front": "Irregular verbs (examples)", "back": "go-went, see-saw, take-took, begin-began, write-wrote, have-had, come-came, give-gave.", "tag": "Simple Past Tense" },
+    { "front": "Action verbs", "back": "Kata kerja tindakan yang menunjukkan peristiwa. Contoh: went, arrived, began, explained, visited, announced.", "tag": "Action Verbs & Passive Voice" },
+    { "front": "Passive voice (past)", "back": "was/were + Verb-3. Contoh: The event was opened by the mayor.", "tag": "Action Verbs & Passive Voice" },
+    { "front": "Why use passive in recount?", "back": "Untuk menekankan peristiwa/objek, bukan pelakunya; cocok untuk laporan formal yang objektif.", "tag": "Action Verbs & Passive Voice" },
+    { "front": "Time connectives", "back": "Kata penghubung waktu untuk urutan kronologis: first, then, next, after that, finally, meanwhile, previously.", "tag": "Time Connectives" },
+    { "front": "Meanwhile vs Previously", "back": "Meanwhile = sementara itu (pada saat yang sama). Previously = sebelumnya (lebih awal).", "tag": "Time Connectives" },
+    { "front": "Specific nouns & phrases", "back": "Memakai nama, tempat, tanggal yang tepat untuk keakuratan fakta. Contoh: President Joko Widodo, August 17, 1945.", "tag": "Specific Nouns & Vocabulary" },
+    { "front": "K3 vocabulary (English)", "back": "APD = PPE (Personal Protective Equipment); Bahaya = Hazards; Lokasi Kerja = Work Locations; Prosedur = Procedures.", "tag": "Specific Nouns & Vocabulary" },
+    { "front": "Recount vs Descriptive", "back": "Recount: past tense, action verbs, time connectives. Descriptive: present tense, adjectives, relational verbs.", "tag": "Language Features" },
+    { "front": "Recount vs Narrative", "back": "Narrative punya konflik (complication) dan resolution; recount hanya melaporkan urutan peristiwa tanpa konflik wajib.", "tag": "Definition & Social Function" },
+    { "front": "Examples of recount", "back": "Diary entry, biography, news report, personal experience, incident report.", "tag": "Example & Comprehension" }
+  ],
+  "mindmap": [
+    { "id": "recount-text", "label": "Recount Text", "color": "#6366f1", "parent": null, "content": "Teks yang menceritakan kembali peristiwa atau pengalaman masa lampau secara kronologis, objektif, dan faktual." },
+    { "id": "definition", "label": "Definition & Function", "color": "#8b5cf6", "parent": "recount-text", "content": "Recount adalah teks yang me-retell peristiwa lampau; fungsinya memberi informasi atau menghibur." },
+    { "id": "def-factual", "label": "Factual Recount", "color": "#8b5cf6", "parent": "definition", "content": "Berdasarkan fakta, data, dan bukti; bersifat objektif tanpa opini atau imajinasi." },
+    { "id": "def-purpose", "label": "Social Purpose", "color": "#8b5cf6", "parent": "definition", "content": "Melaporkan apa yang terjadi, kapan, di mana, siapa terlibat, dan bagaimana urutannya." },
+    { "id": "def-examples", "label": "Types", "color": "#8b5cf6", "parent": "definition", "content": "Personal recount, factual recount, historical/biography, dan incident report." },
+    { "id": "def-vs-narrative", "label": "vs Narrative", "color": "#8b5cf6", "parent": "definition", "content": "Narrative punya konflik dan resolusi; recount hanya melaporkan urutan peristiwa." },
+    { "id": "structure", "label": "Generic Structure", "color": "#0ea5e9", "parent": "recount-text", "content": "Tiga bagian: Orientation, Series of Events, dan Reorientation (opsional)." },
+    { "id": "struct-orientation", "label": "Orientation", "color": "#0ea5e9", "parent": "structure", "content": "Pembuka: memperkenalkan siapa, kapan, di mana, dan apa yang terjadi (latar belakang)." },
+    { "id": "struct-events", "label": "Series of Events", "color": "#0ea5e9", "parent": "structure", "content": "Inti teks: menceritakan urutan kejadian secara kronologis berdasarkan waktu." },
+    { "id": "struct-reorientation", "label": "Reorientation", "color": "#0ea5e9", "parent": "structure", "content": "Penutup opsional: pernyataan ulang, kesimpulan, atau kesan umum tentang peristiwa." },
+    { "id": "language", "label": "Language Features", "color": "#10b981", "parent": "recount-text", "content": "Ciri kebahasaan utama: past tense, action verbs, passive voice, time connectives, dan kata benda spesifik." },
+    { "id": "lang-tense", "label": "Past Tense Dominant", "color": "#10b981", "parent": "language", "content": "Simple Past Tense mendominasi karena peristiwa sudah selesai terjadi." },
+    { "id": "lang-pronouns", "label": "Personal Pronouns", "color": "#10b981", "parent": "language", "content": "I, we, they digunakan untuk merujuk para partisipan yang terlibat." },
+    { "id": "lang-adverbs", "label": "Adverbs of Time & Place", "color": "#10b981", "parent": "language", "content": "Yesterday, at the harbor: menunjukkan kapan dan di mana peristiwa terjadi." },
+    { "id": "past-tense", "label": "Simple Past Tense", "color": "#f59e0b", "parent": "recount-text", "content": "Pola: Subject + V2 (positif), did not + V1 (negatif), Did + S + V1 (tanya)." },
+    { "id": "past-regular", "label": "Regular Verbs", "color": "#f59e0b", "parent": "past-tense", "content": "Dibentuk dengan -ed/-d. Contoh: walk-walked, arrive-arrived, visit-visited." },
+    { "id": "past-irregular", "label": "Irregular Verbs", "color": "#f59e0b", "parent": "past-tense", "content": "Berubah bentuk. Contoh: go-went, see-saw, take-took, begin-began, write-wrote." },
+    { "id": "past-tobe", "label": "Was / Were", "color": "#f59e0b", "parent": "past-tense", "content": "Bentuk lampau to be: was (tunggal) dan were (jamak/you)." },
+    { "id": "past-signals", "label": "Time Signals", "color": "#f59e0b", "parent": "past-tense", "content": "Yesterday, last week, two days ago, in 1990 menyertai Simple Past." },
+    { "id": "connectives", "label": "Time Connectives", "color": "#ef4444", "parent": "recount-text", "content": "Kata penghubung waktu untuk menunjukkan urutan kronologis peristiwa." },
+    { "id": "conn-start", "label": "Starting", "color": "#ef4444", "parent": "connectives", "content": "First, on the first day: memulai rangkaian peristiwa." },
+    { "id": "conn-middle", "label": "Middle / Sequence", "color": "#ef4444", "parent": "connectives", "content": "Then, next, after that, meanwhile, previously: menghubungkan kejadian." },
+    { "id": "conn-end", "label": "Ending", "color": "#ef4444", "parent": "connectives", "content": "Finally, at last: menutup atau mengakhiri rangkaian peristiwa." },
+    { "id": "verbs-voice", "label": "Action Verbs & Passive", "color": "#ec4899", "parent": "recount-text", "content": "Action verbs menunjukkan tindakan; passive voice menekankan peristiwa/objek." },
+    { "id": "av-action", "label": "Action Verbs", "color": "#ec4899", "parent": "verbs-voice", "content": "Kata kerja tindakan lampau: went, arrived, began, explained, announced, visited." },
+    { "id": "av-passive", "label": "Passive Voice", "color": "#ec4899", "parent": "verbs-voice", "content": "was/were + V3. Contoh: The event was opened by the mayor." },
+    { "id": "av-why", "label": "Why Passive", "color": "#ec4899", "parent": "verbs-voice", "content": "Menekankan peristiwa atau objek, bukan pelakunya; cocok untuk laporan formal." },
+    { "id": "specific", "label": "Specific Nouns", "color": "#14b8a6", "parent": "recount-text", "content": "Memakai nama, tempat, tanggal spesifik untuk menjaga keakuratan fakta." },
+    { "id": "spec-names", "label": "Names & Dates", "color": "#14b8a6", "parent": "specific", "content": "Contoh: President Joko Widodo, on August 17, 1945, the National Museum." },
+    { "id": "spec-k3", "label": "K3 / OHS Vocabulary", "color": "#14b8a6", "parent": "specific", "content": "PPE (APD), Hazards (bahaya), Work Locations (lokasi kerja), Procedures (prosedur)." },
+    { "id": "spec-accuracy", "label": "Accuracy", "color": "#14b8a6", "parent": "specific", "content": "Hindari kata samar (a lot of, some people) agar fakta tetap akurat." },
+    { "id": "example", "label": "Example & Practice", "color": "#8b5cf6", "parent": "recount-text", "content": "Contoh recount: kunjungan pabrik, laporan kecelakaan kerja, pelatihan keselamatan." },
+    { "id": "ex-orientation", "label": "Sample Orientation", "color": "#8b5cf6", "parent": "example", "content": "Last Monday, our class visited a manufacturing factory in Bekasi." },
+    { "id": "ex-events", "label": "Sample Events", "color": "#8b5cf6", "parent": "example", "content": "First the officer explained the rules; then we were given helmets and vests." },
+    { "id": "ex-reorientation", "label": "Sample Reorientation", "color": "#8b5cf6", "parent": "example", "content": "All in all, it was a very useful and unforgettable experience." }
+  ]
+}

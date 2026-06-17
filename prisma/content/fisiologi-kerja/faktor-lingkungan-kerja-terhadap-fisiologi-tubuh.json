@@ -1,0 +1,1327 @@
+{
+  "topic": "Faktor Lingkungan Kerja terhadap Fisiologi Tubuh",
+  "order": 5,
+  "description": "Faktor lingkungan kerja seperti suhu, kelembaban, pencahayaan, kebisingan, getaran, dan bahan kimia dapat mempengaruhi fungsi fisiologis tubuh pekerja. Pemahaman hubungan ini penting untuk mencegah stres fisik, gangguan kesehatan, dan penurunan produktivitas.",
+  "subtopics": [
+    "Definisi Fisiologi Tubuh",
+    "Tekanan Panas",
+    "Tekanan Dingin",
+    "Kelembaban & Hidrasi",
+    "Pencahayaan & Ritme Sirkadian",
+    "Kebisingan & Respons Fisiologis",
+    "Getaran & Saraf Perifer",
+    "Bahan Kimia & Detoksifikasi",
+    "Dampak & Produktivitas",
+    "Pengendalian & Pencegahan"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan fisiologi tubuh?",
+      "explanation": "Fisiologi tubuh adalah ilmu yang mempelajari fungsi dan proses biologis yang terjadi di dalam tubuh manusia.",
+      "difficulty": "EASY",
+      "tag": "Definisi Fisiologi Tubuh",
+      "options": [
+        { "text": "A. Ilmu yang mempelajari struktur anatomi tubuh", "isCorrect": false },
+        { "text": "B. Ilmu yang mempelajari fungsi dan proses biologis dalam tubuh manusia", "isCorrect": true },
+        { "text": "C. Ilmu yang mempelajari penyakit menular", "isCorrect": false },
+        { "text": "D. Ilmu yang mempelajari lingkungan kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pemahaman hubungan antara lingkungan kerja dan fisiologi tubuh penting?",
+      "explanation": "Pemahaman ini penting untuk meningkatkan kenyamanan kerja dan mencegah gangguan kesehatan pada pekerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi Fisiologi Tubuh",
+      "options": [
+        { "text": "A. Untuk meningkatkan kenyamanan kerja dan mencegah gangguan kesehatan", "isCorrect": true },
+        { "text": "B. Untuk menaikkan gaji pekerja", "isCorrect": false },
+        { "text": "C. Untuk mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "D. Untuk memperpanjang jam kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk faktor fisik lingkungan kerja yang memengaruhi fisiologi tubuh adalah?",
+      "explanation": "Suhu, kelembaban, pencahayaan, kebisingan, dan getaran termasuk faktor fisik lingkungan kerja, sedangkan bahan kimia termasuk faktor kimia.",
+      "difficulty": "EASY",
+      "tag": "Definisi Fisiologi Tubuh",
+      "options": [
+        { "text": "A. Suhu, kelembaban, pencahayaan, kebisingan, getaran", "isCorrect": true },
+        { "text": "B. Bakteri dan virus", "isCorrect": false },
+        { "text": "C. Stres mental saja", "isCorrect": false },
+        { "text": "D. Hubungan antar rekan kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor lingkungan kerja berupa paparan bahan kimia berbahaya termasuk kategori faktor?",
+      "explanation": "Paparan bahan kimia berbahaya termasuk kategori faktor kimia, berbeda dengan faktor fisik seperti suhu dan kebisingan.",
+      "difficulty": "EASY",
+      "tag": "Definisi Fisiologi Tubuh",
+      "options": [
+        { "text": "A. Faktor fisik", "isCorrect": false },
+        { "text": "B. Faktor kimia", "isCorrect": true },
+        { "text": "C. Faktor biologi", "isCorrect": false },
+        { "text": "D. Faktor ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu lingkungan kerja yang ekstrem dapat mempengaruhi fisiologi tubuh terutama pada?",
+      "explanation": "Suhu lingkungan kerja dapat mempengaruhi suhu tubuh, sehingga perlu menghindari stres panas atau dingin.",
+      "difficulty": "EASY",
+      "tag": "Definisi Fisiologi Tubuh",
+      "options": [
+        { "text": "A. Pengaturan suhu tubuh (termoregulasi)", "isCorrect": true },
+        { "text": "B. Warna kulit", "isCorrect": false },
+        { "text": "C. Tinggi badan", "isCorrect": false },
+        { "text": "D. Golongan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Proses pengaturan suhu tubuh agar tetap stabil disebut?",
+      "explanation": "Termoregulasi adalah proses fisiologis untuk menjaga suhu inti tubuh tetap stabil sekitar 37 derajat Celsius meskipun suhu lingkungan berubah.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Termoregulasi", "isCorrect": true },
+        { "text": "B. Homeostasis cairan", "isCorrect": false },
+        { "text": "C. Metabolisme basal", "isCorrect": false },
+        { "text": "D. Respirasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu inti tubuh manusia normal yang dipertahankan oleh tubuh adalah sekitar?",
+      "explanation": "Suhu inti tubuh normal dipertahankan sekitar 37 derajat Celsius oleh mekanisme termoregulasi.",
+      "difficulty": "EASY",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. 30 derajat Celsius", "isCorrect": false },
+        { "text": "B. 37 derajat Celsius", "isCorrect": true },
+        { "text": "C. 42 derajat Celsius", "isCorrect": false },
+        { "text": "D. 25 derajat Celsius", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Respons fisiologis utama tubuh untuk membuang panas saat bekerja di lingkungan panas adalah?",
+      "explanation": "Berkeringat (evaporasi keringat) dan vasodilatasi pembuluh darah kulit adalah respons utama untuk membuang panas dari tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Menggigil dan vasokonstriksi", "isCorrect": false },
+        { "text": "B. Berkeringat dan vasodilatasi pembuluh darah kulit", "isCorrect": true },
+        { "text": "C. Penurunan denyut jantung", "isCorrect": false },
+        { "text": "D. Pengentalan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat bekerja di lingkungan panas, pembuluh darah kulit akan melebar. Proses ini disebut?",
+      "explanation": "Vasodilatasi adalah pelebaran pembuluh darah kulit untuk mengalirkan lebih banyak darah ke permukaan sehingga panas dapat dibuang ke lingkungan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Vasokonstriksi", "isCorrect": false },
+        { "text": "B. Vasodilatasi", "isCorrect": true },
+        { "text": "C. Koagulasi", "isCorrect": false },
+        { "text": "D. Hemolisis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi peningkatan suhu inti tubuh yang berbahaya akibat pajanan panas berlebih disebut?",
+      "explanation": "Heat stroke (sengatan panas) adalah kondisi darurat ketika suhu inti tubuh meningkat melebihi 40 derajat Celsius dan mekanisme pendinginan tubuh gagal.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Heat stroke", "isCorrect": true },
+        { "text": "B. Hipotermia", "isCorrect": false },
+        { "text": "C. Frostbite", "isCorrect": false },
+        { "text": "D. Presbikusis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelelahan disertai keringat berlebih, lemas, dan pusing akibat kehilangan cairan saat kerja panas disebut?",
+      "explanation": "Heat exhaustion (kelelahan panas) terjadi akibat kehilangan cairan dan elektrolit berlebih melalui keringat, dengan gejala lemas, pusing, dan mual.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Heat cramps", "isCorrect": false },
+        { "text": "B. Heat exhaustion", "isCorrect": true },
+        { "text": "C. Heat stroke", "isCorrect": false },
+        { "text": "D. Hipotermia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kram otot akibat kehilangan garam (elektrolit) melalui keringat saat bekerja di lingkungan panas disebut?",
+      "explanation": "Heat cramps adalah kram otot yang terjadi akibat hilangnya natrium/garam dari tubuh melalui keringat yang berlebihan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Heat cramps", "isCorrect": true },
+        { "text": "B. Heat rash", "isCorrect": false },
+        { "text": "C. Frostbite", "isCorrect": false },
+        { "text": "D. Tinnitus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indeks yang umum digunakan untuk menilai tekanan panas di lingkungan kerja adalah?",
+      "explanation": "ISBB (Indeks Suhu Basah dan Bola) atau WBGT (Wet Bulb Globe Temperature) digunakan untuk menilai tekanan panas di lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. ISBB / WBGT", "isCorrect": true },
+        { "text": "B. Indeks massa tubuh (IMT)", "isCorrect": false },
+        { "text": "C. Indeks bias", "isCorrect": false },
+        { "text": "D. Indeks lux", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Proses adaptasi fisiologis tubuh terhadap pajanan panas secara bertahap disebut?",
+      "explanation": "Aklimatisasi adalah proses penyesuaian fisiologis tubuh terhadap lingkungan panas, sehingga tubuh lebih efisien membuang panas dan mempertahankan keseimbangan cairan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Aklimatisasi", "isCorrect": true },
+        { "text": "B. Dehidrasi", "isCorrect": false },
+        { "text": "C. Vasokonstriksi", "isCorrect": false },
+        { "text": "D. Sirkadian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang teraklimatisasi terhadap panas akan menunjukkan respons keringat yang?",
+      "explanation": "Pekerja teraklimatisasi mulai berkeringat lebih awal dan lebih banyak namun dengan kadar garam lebih rendah, sehingga pembuangan panas lebih efisien.",
+      "difficulty": "HARD",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Lebih lambat dan lebih sedikit", "isCorrect": false },
+        { "text": "B. Lebih awal, lebih banyak, dengan kadar garam lebih rendah", "isCorrect": true },
+        { "text": "C. Berhenti total", "isCorrect": false },
+        { "text": "D. Hanya pada malam hari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat bekerja di lingkungan dingin, respons fisiologis tubuh untuk mempertahankan panas adalah?",
+      "explanation": "Pada lingkungan dingin, tubuh melakukan vasokonstriksi pembuluh darah kulit dan menggigil (shivering) untuk menghasilkan dan mempertahankan panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Dingin",
+      "options": [
+        { "text": "A. Berkeringat dan vasodilatasi", "isCorrect": false },
+        { "text": "B. Vasokonstriksi dan menggigil (shivering)", "isCorrect": true },
+        { "text": "C. Peningkatan laju keringat", "isCorrect": false },
+        { "text": "D. Pelebaran pori-pori kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyempitan pembuluh darah kulit saat bekerja di lingkungan dingin untuk menahan panas disebut?",
+      "explanation": "Vasokonstriksi adalah penyempitan pembuluh darah kulit untuk mengurangi aliran darah ke permukaan, sehingga kehilangan panas berkurang.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Dingin",
+      "options": [
+        { "text": "A. Vasodilatasi", "isCorrect": false },
+        { "text": "B. Vasokonstriksi", "isCorrect": true },
+        { "text": "C. Evaporasi", "isCorrect": false },
+        { "text": "D. Konveksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi penurunan suhu inti tubuh di bawah normal akibat pajanan dingin berlebih disebut?",
+      "explanation": "Hipotermia adalah kondisi ketika suhu inti tubuh turun di bawah 35 derajat Celsius akibat pajanan dingin, dapat membahayakan fungsi organ vital.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Dingin",
+      "options": [
+        { "text": "A. Hipertermia", "isCorrect": false },
+        { "text": "B. Hipotermia", "isCorrect": true },
+        { "text": "C. Hipoksia", "isCorrect": false },
+        { "text": "D. Hipertensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kerusakan jaringan tubuh (umumnya jari, telinga, hidung) akibat pembekuan pada suhu sangat dingin disebut?",
+      "explanation": "Frostbite (radang beku) adalah kerusakan jaringan akibat pembekuan cairan sel, sering terjadi pada bagian tubuh perifer seperti jari tangan, jari kaki, dan telinga.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Dingin",
+      "options": [
+        { "text": "A. Heat stroke", "isCorrect": false },
+        { "text": "B. Frostbite", "isCorrect": true },
+        { "text": "C. Tinnitus", "isCorrect": false },
+        { "text": "D. Dermatitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mekanisme tubuh menghasilkan panas melalui kontraksi otot involunter pada lingkungan dingin disebut?",
+      "explanation": "Menggigil (shivering thermogenesis) adalah kontraksi otot rangka involunter yang cepat untuk menghasilkan panas metabolik saat suhu tubuh turun.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Dingin",
+      "options": [
+        { "text": "A. Menggigil (shivering)", "isCorrect": true },
+        { "text": "B. Berkeringat", "isCorrect": false },
+        { "text": "C. Evaporasi", "isCorrect": false },
+        { "text": "D. Vasodilatasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pajanan dingin pada tangan dapat menurunkan kemampuan motorik karena?",
+      "explanation": "Dingin menyebabkan penurunan suhu otot dan saraf, kekakuan jari, serta penurunan ketangkasan (dexterity) yang meningkatkan risiko kecelakaan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Dingin",
+      "options": [
+        { "text": "A. Penurunan suhu otot dan saraf sehingga jari kaku dan ketangkasan menurun", "isCorrect": true },
+        { "text": "B. Peningkatan aliran darah ke jari", "isCorrect": false },
+        { "text": "C. Peningkatan produksi keringat", "isCorrect": false },
+        { "text": "D. Peningkatan suhu inti tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelembaban udara yang terlalu tinggi di lingkungan kerja panas akan?",
+      "explanation": "Kelembaban tinggi menghambat penguapan keringat, sehingga pembuangan panas dari tubuh menjadi tidak efektif dan risiko tekanan panas meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelembaban & Hidrasi",
+      "options": [
+        { "text": "A. Menghambat penguapan keringat sehingga pembuangan panas tidak efektif", "isCorrect": true },
+        { "text": "B. Mempercepat penguapan keringat", "isCorrect": false },
+        { "text": "C. Menurunkan suhu tubuh secara langsung", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh pada tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelembaban lingkungan kerja dapat mempengaruhi fisiologi tubuh terutama pada aspek?",
+      "explanation": "Kelembaban mempengaruhi kelembaban kulit dan keseimbangan cairan tubuh, di mana kelembaban rendah dapat mempercepat dehidrasi.",
+      "difficulty": "EASY",
+      "tag": "Kelembaban & Hidrasi",
+      "options": [
+        { "text": "A. Kelembaban kulit dan keseimbangan cairan (dehidrasi)", "isCorrect": true },
+        { "text": "B. Kemampuan mendengar", "isCorrect": false },
+        { "text": "C. Ketajaman penglihatan warna", "isCorrect": false },
+        { "text": "D. Tinggi badan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi kekurangan cairan tubuh akibat keringat berlebih yang tidak diganti disebut?",
+      "explanation": "Dehidrasi adalah kondisi kekurangan cairan tubuh, sering terjadi pada pekerja di lingkungan panas yang banyak berkeringat tanpa cukup minum.",
+      "difficulty": "EASY",
+      "tag": "Kelembaban & Hidrasi",
+      "options": [
+        { "text": "A. Edema", "isCorrect": false },
+        { "text": "B. Dehidrasi", "isCorrect": true },
+        { "text": "C. Hipertensi", "isCorrect": false },
+        { "text": "D. Anemia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara terbaik mencegah dehidrasi pada pekerja di lingkungan panas adalah?",
+      "explanation": "Minum air secara teratur (sebelum merasa haus) dan mengganti elektrolit yang hilang melalui keringat adalah cara mencegah dehidrasi.",
+      "difficulty": "EASY",
+      "tag": "Kelembaban & Hidrasi",
+      "options": [
+        { "text": "A. Minum air teratur dan mengganti elektrolit", "isCorrect": true },
+        { "text": "B. Menahan minum agar tidak sering ke toilet", "isCorrect": false },
+        { "text": "C. Minum kopi sebanyak-banyaknya", "isCorrect": false },
+        { "text": "D. Mengurangi istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain dehidrasi, kelembaban kulit yang terganggu akibat lingkungan dapat menyebabkan?",
+      "explanation": "Kelembaban lingkungan yang tidak tepat dapat mengganggu kelembaban kulit dan menyebabkan masalah kulit seperti iritasi atau dermatitis.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelembaban & Hidrasi",
+      "options": [
+        { "text": "A. Gangguan kulit/iritasi", "isCorrect": true },
+        { "text": "B. Gangguan pendengaran", "isCorrect": false },
+        { "text": "C. Kerusakan saraf perifer", "isCorrect": false },
+        { "text": "D. Buta warna", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Minuman yang paling tepat untuk mengganti cairan dan elektrolit pekerja yang banyak berkeringat adalah?",
+      "explanation": "Air mineral atau larutan elektrolit (oralit) lebih tepat untuk mengganti cairan dan garam yang hilang, dibandingkan minuman berkafein yang bersifat diuretik.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelembaban & Hidrasi",
+      "options": [
+        { "text": "A. Air mineral atau larutan elektrolit", "isCorrect": true },
+        { "text": "B. Kopi pekat", "isCorrect": false },
+        { "text": "C. Minuman beralkohol", "isCorrect": false },
+        { "text": "D. Minuman bersoda manis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencahayaan lingkungan kerja yang tidak tepat dapat mempengaruhi fisiologi tubuh terutama pada?",
+      "explanation": "Pencahayaan mempengaruhi ritme sirkadian dan dapat menyebabkan gangguan penglihatan serta kelelahan mata.",
+      "difficulty": "EASY",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Ritme sirkadian dan penglihatan", "isCorrect": true },
+        { "text": "B. Kemampuan mendengar", "isCorrect": false },
+        { "text": "C. Fungsi ginjal", "isCorrect": false },
+        { "text": "D. Pembekuan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siklus biologis tubuh selama sekitar 24 jam yang dipengaruhi oleh cahaya disebut?",
+      "explanation": "Ritme sirkadian adalah siklus biologis sekitar 24 jam yang mengatur tidur-bangun, suhu tubuh, dan hormon, dan sangat dipengaruhi oleh paparan cahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Ritme sirkadian", "isCorrect": true },
+        { "text": "B. Refleks patela", "isCorrect": false },
+        { "text": "C. Metabolisme basal", "isCorrect": false },
+        { "text": "D. Homeostasis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hormon yang produksinya dipengaruhi cahaya dan berperan mengatur tidur adalah?",
+      "explanation": "Melatonin adalah hormon yang diproduksi saat gelap dan berperan mengatur siklus tidur; cahaya terang menekan produksinya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Insulin", "isCorrect": false },
+        { "text": "B. Melatonin", "isCorrect": true },
+        { "text": "C. Adrenalin", "isCorrect": false },
+        { "text": "D. Tiroksin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang kurang (gelap) di tempat kerja dapat menyebabkan?",
+      "explanation": "Pencahayaan yang kurang menyebabkan kelelahan mata (eyestrain), sakit kepala, dan meningkatkan risiko kecelakaan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Kelelahan mata dan sakit kepala", "isCorrect": true },
+        { "text": "B. Peningkatan pendengaran", "isCorrect": false },
+        { "text": "C. Peningkatan kekuatan otot", "isCorrect": false },
+        { "text": "D. Penurunan suhu tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja shift malam berisiko mengalami gangguan kesehatan karena?",
+      "explanation": "Kerja shift malam mengganggu ritme sirkadian alami tubuh, menyebabkan gangguan tidur, kelelahan, dan gangguan metabolik.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Gangguan ritme sirkadian", "isCorrect": true },
+        { "text": "B. Peningkatan ketajaman penglihatan", "isCorrect": false },
+        { "text": "C. Penurunan kebisingan", "isCorrect": false },
+        { "text": "D. Peningkatan kelembaban kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Satuan yang digunakan untuk mengukur tingkat pencahayaan (iluminasi) di tempat kerja adalah?",
+      "explanation": "Lux adalah satuan tingkat pencahayaan/iluminasi, diukur menggunakan alat bernama lux meter.",
+      "difficulty": "EASY",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Desibel (dB)", "isCorrect": false },
+        { "text": "B. Lux", "isCorrect": true },
+        { "text": "C. Hertz (Hz)", "isCorrect": false },
+        { "text": "D. Pascal (Pa)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Silau (glare) akibat pencahayaan berlebih dapat menyebabkan?",
+      "explanation": "Silau menyebabkan ketidaknyamanan visual, kelelahan mata, dan penurunan ketajaman penglihatan sementara yang dapat mengganggu kinerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Ketidaknyamanan dan kelelahan mata", "isCorrect": true },
+        { "text": "B. Peningkatan kekuatan otot", "isCorrect": false },
+        { "text": "C. Peningkatan pendengaran", "isCorrect": false },
+        { "text": "D. Penurunan suhu tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebisingan lingkungan kerja terutama mempengaruhi fisiologi tubuh pada sistem?",
+      "explanation": "Kebisingan mempengaruhi kemampuan mendengar dan dapat menyebabkan gangguan pendengaran pada sistem auditori.",
+      "difficulty": "EASY",
+      "tag": "Kebisingan & Respons Fisiologis",
+      "options": [
+        { "text": "A. Sistem pendengaran (auditori)", "isCorrect": true },
+        { "text": "B. Sistem pencernaan", "isCorrect": false },
+        { "text": "C. Sistem kemih", "isCorrect": false },
+        { "text": "D. Sistem reproduksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan pendengaran akibat pajanan kebisingan yang bersifat menetap disebut?",
+      "explanation": "NIHL (Noise-Induced Hearing Loss) adalah gangguan pendengaran akibat bising yang bersifat permanen karena kerusakan sel rambut koklea.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebisingan & Respons Fisiologis",
+      "options": [
+        { "text": "A. Presbikusis", "isCorrect": false },
+        { "text": "B. NIHL (Noise-Induced Hearing Loss)", "isCorrect": true },
+        { "text": "C. Vertigo", "isCorrect": false },
+        { "text": "D. Tinnitus sementara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain gangguan pendengaran, pajanan kebisingan tinggi dapat menimbulkan respons fisiologis non-auditori berupa?",
+      "explanation": "Kebisingan dapat memicu respons stres tubuh berupa peningkatan tekanan darah, denyut jantung, dan kadar hormon stres.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebisingan & Respons Fisiologis",
+      "options": [
+        { "text": "A. Peningkatan tekanan darah dan denyut jantung", "isCorrect": true },
+        { "text": "B. Penurunan suhu tubuh", "isCorrect": false },
+        { "text": "C. Peningkatan ketajaman penglihatan", "isCorrect": false },
+        { "text": "D. Penebalan kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hormon stres yang meningkat sebagai respons fisiologis tubuh terhadap kebisingan adalah?",
+      "explanation": "Kebisingan mengaktifkan respons stres tubuh, meningkatkan hormon kortisol dan adrenalin yang dapat memicu hipertensi dan gangguan kardiovaskular.",
+      "difficulty": "HARD",
+      "tag": "Kebisingan & Respons Fisiologis",
+      "options": [
+        { "text": "A. Kortisol dan adrenalin", "isCorrect": true },
+        { "text": "B. Insulin dan glukagon", "isCorrect": false },
+        { "text": "C. Melatonin", "isCorrect": false },
+        { "text": "D. Estrogen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sensasi berdenging di telinga (tanpa sumber bunyi luar) yang menyertai pajanan bising disebut?",
+      "explanation": "Tinnitus adalah sensasi mendengar dengingan tanpa sumber bunyi eksternal, sering menjadi gejala awal gangguan pendengaran akibat bising.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebisingan & Respons Fisiologis",
+      "options": [
+        { "text": "A. Vertigo", "isCorrect": false },
+        { "text": "B. Tinnitus", "isCorrect": true },
+        { "text": "C. Migrain", "isCorrect": false },
+        { "text": "D. Otitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebisingan tinggi di tempat kerja juga mengganggu fisiologi tubuh melalui?",
+      "explanation": "Kebisingan dapat mengganggu komunikasi, konsentrasi, dan kualitas tidur, sehingga menurunkan kinerja dan meningkatkan risiko kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebisingan & Respons Fisiologis",
+      "options": [
+        { "text": "A. Gangguan komunikasi, konsentrasi, dan tidur", "isCorrect": true },
+        { "text": "B. Peningkatan kekuatan otot", "isCorrect": false },
+        { "text": "C. Penurunan suhu tubuh", "isCorrect": false },
+        { "text": "D. Peningkatan kelembaban kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nilai Ambang Batas kebisingan untuk pajanan 8 jam kerja menurut Permenaker No. 5 Tahun 2018 adalah?",
+      "explanation": "NAB kebisingan untuk pajanan 8 jam per hari adalah 85 dBA menurut Permenaker No. 5 Tahun 2018.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebisingan & Respons Fisiologis",
+      "options": [
+        { "text": "A. 80 dBA", "isCorrect": false },
+        { "text": "B. 85 dBA", "isCorrect": true },
+        { "text": "C. 90 dBA", "isCorrect": false },
+        { "text": "D. 100 dBA", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Getaran lingkungan kerja terutama mempengaruhi fisiologi tubuh pada aspek?",
+      "explanation": "Getaran mempengaruhi kemampuan motorik dan dapat menyebabkan gangguan saraf perifer pada pekerja.",
+      "difficulty": "EASY",
+      "tag": "Getaran & Saraf Perifer",
+      "options": [
+        { "text": "A. Kemampuan motorik dan saraf perifer", "isCorrect": true },
+        { "text": "B. Kemampuan mendengar saja", "isCorrect": false },
+        { "text": "C. Ketajaman penglihatan warna", "isCorrect": false },
+        { "text": "D. Fungsi paru-paru saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Getaran yang merambat dari alat genggam (gerinda, bor) ke tangan dan lengan disebut?",
+      "explanation": "Hand-Arm Vibration (getaran tangan-lengan) merambat dari alat genggam bergetar ke tangan dan lengan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran & Saraf Perifer",
+      "options": [
+        { "text": "A. Whole-Body Vibration", "isCorrect": false },
+        { "text": "B. Hand-Arm Vibration (HAV)", "isCorrect": true },
+        { "text": "C. Resonansi akustik", "isCorrect": false },
+        { "text": "D. Vibrasi sirkadian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Getaran tangan-lengan jangka panjang dapat menyebabkan gangguan saraf dan pembuluh darah jari yang dikenal sebagai?",
+      "explanation": "HAVS (Hand-Arm Vibration Syndrome), termasuk fenomena white finger (jari memutih), terjadi akibat kerusakan saraf perifer dan pembuluh darah jari oleh getaran.",
+      "difficulty": "HARD",
+      "tag": "Getaran & Saraf Perifer",
+      "options": [
+        { "text": "A. White finger / HAVS", "isCorrect": true },
+        { "text": "B. Carpal heat stroke", "isCorrect": false },
+        { "text": "C. Presbikusis", "isCorrect": false },
+        { "text": "D. Frostbite", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Getaran yang merambat ke seluruh tubuh melalui tempat duduk atau lantai kendaraan disebut?",
+      "explanation": "Whole-Body Vibration (getaran seluruh tubuh) merambat melalui tempat duduk atau lantai, misalnya pada pengemudi alat berat dan truk.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran & Saraf Perifer",
+      "options": [
+        { "text": "A. Hand-Arm Vibration", "isCorrect": false },
+        { "text": "B. Whole-Body Vibration (WBV)", "isCorrect": true },
+        { "text": "C. Resonansi tonal", "isCorrect": false },
+        { "text": "D. Getaran impulsif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pajanan getaran seluruh tubuh (WBV) jangka panjang dapat menyebabkan gangguan fisiologis berupa?",
+      "explanation": "WBV jangka panjang dapat menyebabkan gangguan tulang belakang (nyeri punggung bawah), gangguan pencernaan, dan kelelahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran & Saraf Perifer",
+      "options": [
+        { "text": "A. Nyeri punggung bawah dan gangguan tulang belakang", "isCorrect": true },
+        { "text": "B. Buta warna", "isCorrect": false },
+        { "text": "C. Peningkatan pendengaran", "isCorrect": false },
+        { "text": "D. Peningkatan kelembaban kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala awal gangguan saraf perifer akibat getaran tangan-lengan biasanya berupa?",
+      "explanation": "Gejala awal HAVS antara lain kesemutan, mati rasa (kebas), dan penurunan sensitivitas pada jari tangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran & Saraf Perifer",
+      "options": [
+        { "text": "A. Kesemutan dan mati rasa pada jari", "isCorrect": true },
+        { "text": "B. Demam tinggi", "isCorrect": false },
+        { "text": "C. Penurunan pendengaran", "isCorrect": false },
+        { "text": "D. Sakit kepala berdenyut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara mengurangi pajanan getaran tangan-lengan pada pekerja adalah?",
+      "explanation": "Penggunaan sarung tangan anti-getar (anti-vibration gloves), alat dengan peredam getaran, dan pembatasan durasi pajanan dapat mengurangi risiko HAVS.",
+      "difficulty": "MEDIUM",
+      "tag": "Getaran & Saraf Perifer",
+      "options": [
+        { "text": "A. Sarung tangan anti-getar dan alat dengan peredam getaran", "isCorrect": true },
+        { "text": "B. Meningkatkan kecepatan putaran alat", "isCorrect": false },
+        { "text": "C. Menggenggam alat lebih erat", "isCorrect": false },
+        { "text": "D. Memperpanjang waktu pemakaian alat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan bahan kimia berbahaya mempengaruhi fisiologi tubuh terutama pada kemampuan tubuh untuk?",
+      "explanation": "Paparan bahan kimia mempengaruhi kemampuan tubuh menghilangkan racun (detoksifikasi), dan jika berlebihan dapat menyebabkan keracunan.",
+      "difficulty": "EASY",
+      "tag": "Bahan Kimia & Detoksifikasi",
+      "options": [
+        { "text": "A. Menghilangkan racun (detoksifikasi)", "isCorrect": true },
+        { "text": "B. Mengatur tinggi badan", "isCorrect": false },
+        { "text": "C. Mengatur warna mata", "isCorrect": false },
+        { "text": "D. Mengatur pertumbuhan rambut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Organ tubuh yang paling berperan dalam proses detoksifikasi bahan kimia adalah?",
+      "explanation": "Hati (liver) adalah organ utama detoksifikasi yang memetabolisme racun, dibantu ginjal yang membuang sisa racun melalui urin.",
+      "difficulty": "MEDIUM",
+      "tag": "Bahan Kimia & Detoksifikasi",
+      "options": [
+        { "text": "A. Jantung", "isCorrect": false },
+        { "text": "B. Hati (liver)", "isCorrect": true },
+        { "text": "C. Limpa", "isCorrect": false },
+        { "text": "D. Pankreas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jalur masuk utama bahan kimia berbahaya ke dalam tubuh pekerja adalah melalui?",
+      "explanation": "Bahan kimia dapat masuk melalui inhalasi (pernapasan), absorpsi kulit, dan ingesti (tertelan), dengan inhalasi sebagai jalur paling umum di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Bahan Kimia & Detoksifikasi",
+      "options": [
+        { "text": "A. Inhalasi, kontak kulit, dan tertelan", "isCorrect": true },
+        { "text": "B. Hanya melalui mata", "isCorrect": false },
+        { "text": "C. Hanya melalui telinga", "isCorrect": false },
+        { "text": "D. Hanya melalui rambut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Akumulasi bahan kimia berbahaya yang melebihi kapasitas detoksifikasi tubuh menyebabkan?",
+      "explanation": "Bila pajanan bahan kimia melebihi kapasitas detoksifikasi tubuh, terjadi keracunan (intoksikasi) yang dapat merusak organ.",
+      "difficulty": "EASY",
+      "tag": "Bahan Kimia & Detoksifikasi",
+      "options": [
+        { "text": "A. Keracunan (intoksikasi)", "isCorrect": true },
+        { "text": "B. Peningkatan imunitas", "isCorrect": false },
+        { "text": "C. Penurunan kebisingan", "isCorrect": false },
+        { "text": "D. Peningkatan ketajaman pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APD yang tepat untuk mencegah masuknya bahan kimia melalui jalur pernapasan adalah?",
+      "explanation": "Masker/respirator merupakan APD yang tepat untuk mencegah inhalasi debu dan gas kimia berbahaya melalui saluran pernapasan.",
+      "difficulty": "EASY",
+      "tag": "Bahan Kimia & Detoksifikasi",
+      "options": [
+        { "text": "A. Masker/respirator", "isCorrect": true },
+        { "text": "B. Ear plug", "isCorrect": false },
+        { "text": "C. Helm", "isCorrect": false },
+        { "text": "D. Sepatu boot", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Paparan bahan kimia tertentu (misal pelarut organik) dapat memberikan efek pada sistem saraf berupa?",
+      "explanation": "Pelarut organik dan logam berat tertentu bersifat neurotoksik, dapat menyebabkan kerusakan saraf, pusing, dan penurunan konsentrasi.",
+      "difficulty": "HARD",
+      "tag": "Bahan Kimia & Detoksifikasi",
+      "options": [
+        { "text": "A. Kerusakan saraf (neurotoksik), pusing, dan penurunan konsentrasi", "isCorrect": true },
+        { "text": "B. Peningkatan ketajaman penglihatan", "isCorrect": false },
+        { "text": "C. Penguatan tulang", "isCorrect": false },
+        { "text": "D. Peningkatan produksi keringat yang sehat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemantauan biologis (biological monitoring) pada pekerja terpajan kimia bertujuan untuk?",
+      "explanation": "Pemantauan biologis mengukur kadar zat kimia atau metabolitnya dalam tubuh (darah/urin) untuk menilai besarnya pajanan yang terserap.",
+      "difficulty": "HARD",
+      "tag": "Bahan Kimia & Detoksifikasi",
+      "options": [
+        { "text": "A. Menilai besarnya pajanan kimia yang terserap dalam tubuh", "isCorrect": true },
+        { "text": "B. Mengukur tingkat kebisingan", "isCorrect": false },
+        { "text": "C. Mengukur suhu ruangan", "isCorrect": false },
+        { "text": "D. Mengukur pencahayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu dampak faktor lingkungan kerja terhadap fisiologi tubuh berupa stres fisik adalah?",
+      "explanation": "Stres fisik akibat faktor lingkungan kerja antara lain kelelahan, sakit kepala, dan gangguan tidur.",
+      "difficulty": "EASY",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Kelelahan, sakit kepala, dan gangguan tidur", "isCorrect": true },
+        { "text": "B. Peningkatan kekuatan otot", "isCorrect": false },
+        { "text": "C. Peningkatan tinggi badan", "isCorrect": false },
+        { "text": "D. Peningkatan ketajaman pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor lingkungan kerja yang buruk dapat menyebabkan penurunan produktivitas karena?",
+      "explanation": "Faktor lingkungan kerja yang buruk menyebabkan kelelahan, gangguan konsentrasi, dan penurunan kinerja yang berujung pada penurunan produktivitas.",
+      "difficulty": "EASY",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Kelelahan, gangguan konsentrasi, dan penurunan kinerja", "isCorrect": true },
+        { "text": "B. Peningkatan semangat kerja", "isCorrect": false },
+        { "text": "C. Penurunan kebutuhan istirahat", "isCorrect": false },
+        { "text": "D. Peningkatan suhu tubuh yang sehat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan kesehatan akibat faktor lingkungan kerja dapat berupa?",
+      "explanation": "Faktor lingkungan kerja dapat menyebabkan gangguan kesehatan seperti penyakit pernapasan, penyakit kulit, dan gangguan organ lainnya.",
+      "difficulty": "EASY",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Penyakit pernapasan dan penyakit kulit", "isCorrect": true },
+        { "text": "B. Bertambahnya tinggi badan", "isCorrect": false },
+        { "text": "C. Membaiknya penglihatan", "isCorrect": false },
+        { "text": "D. Menguatnya pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit yang timbul akibat pekerjaan dan/atau lingkungan kerja disebut?",
+      "explanation": "Penyakit Akibat Kerja (PAK) adalah penyakit yang disebabkan oleh pekerjaan atau lingkungan kerja, termasuk akibat faktor fisik, kimia, dan ergonomi.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Penyakit Akibat Kerja (PAK)", "isCorrect": true },
+        { "text": "B. Penyakit menular seksual", "isCorrect": false },
+        { "text": "C. Penyakit keturunan", "isCorrect": false },
+        { "text": "D. Penyakit musiman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi beberapa faktor lingkungan kerja (panas + bising + getaran) sekaligus cenderung?",
+      "explanation": "Pajanan beberapa faktor lingkungan secara bersamaan dapat saling memperberat (efek sinergis), meningkatkan beban fisiologis dan risiko gangguan kesehatan.",
+      "difficulty": "HARD",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Saling memperberat beban fisiologis tubuh", "isCorrect": true },
+        { "text": "B. Saling meniadakan dampaknya", "isCorrect": false },
+        { "text": "C. Tidak berpengauh sama sekali", "isCorrect": false },
+        { "text": "D. Menyehatkan tubuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pekerja perlu melakukan pemeriksaan kesehatan secara berkala terkait faktor lingkungan kerja?",
+      "explanation": "Pemeriksaan kesehatan berkala bertujuan mendeteksi dini gangguan kesehatan akibat faktor lingkungan kerja agar dapat ditangani sebelum bertambah parah.",
+      "difficulty": "EASY",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Untuk mendeteksi dini gangguan kesehatan akibat lingkungan kerja", "isCorrect": true },
+        { "text": "B. Untuk menambah jam kerja", "isCorrect": false },
+        { "text": "C. Untuk mengurangi upah", "isCorrect": false },
+        { "text": "D. Untuk membeli alat baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara mengurangi dampak faktor lingkungan kerja dengan menggunakan alat pelindung diri (APD) contohnya?",
+      "explanation": "Penggunaan APD seperti masker, sarung tangan, dan kacamata pelindung dapat mengurangi dampak faktor lingkungan kerja terhadap tubuh.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Masker, sarung tangan, dan kacamata pelindung", "isCorrect": true },
+        { "text": "B. Memperpanjang jam kerja", "isCorrect": false },
+        { "text": "C. Mengurangi istirahat", "isCorrect": false },
+        { "text": "D. Menaikkan suhu ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengatur suhu, kelembaban, dan pencahayaan agar nyaman termasuk upaya pengendalian berupa?",
+      "explanation": "Mengatur kondisi lingkungan kerja (suhu, kelembaban, pencahayaan) agar nyaman merupakan upaya pengaturan lingkungan kerja untuk mengurangi dampak fisiologis.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Pengaturan lingkungan kerja yang nyaman", "isCorrect": true },
+        { "text": "B. Pengurangan upah", "isCorrect": false },
+        { "text": "C. Penambahan beban kerja", "isCorrect": false },
+        { "text": "D. Penghapusan istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengambil istirahat yang cukup di sela kerja bermanfaat untuk?",
+      "explanation": "Istirahat yang cukup membantu pemulihan tubuh dan mengurangi dampak faktor lingkungan kerja seperti kelelahan dan gangguan konsentrasi.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Mengurangi kelelahan dan gangguan konsentrasi", "isCorrect": true },
+        { "text": "B. Meningkatkan kebisingan", "isCorrect": false },
+        { "text": "C. Meningkatkan paparan kimia", "isCorrect": false },
+        { "text": "D. Menurunkan kualitas tidur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya pengendalian tekanan panas yang termasuk pengendalian administratif adalah?",
+      "explanation": "Pengaturan siklus kerja-istirahat (work-rest cycle), rotasi kerja, dan penyediaan air minum merupakan pengendalian administratif terhadap tekanan panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Pengaturan siklus kerja-istirahat dan penyediaan air minum", "isCorrect": true },
+        { "text": "B. Mengganti seluruh atap pabrik", "isCorrect": false },
+        { "text": "C. Memberi APD telinga", "isCorrect": false },
+        { "text": "D. Memasang lampu lebih terang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian teknis (engineering control) untuk mengurangi tekanan panas di tempat kerja contohnya?",
+      "explanation": "Pemasangan ventilasi, exhaust fan, AC, dan isolasi sumber panas merupakan pengendalian teknis untuk menurunkan tekanan panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Pemasangan ventilasi, AC, dan isolasi sumber panas", "isCorrect": true },
+        { "text": "B. Memberikan ear plug", "isCorrect": false },
+        { "text": "C. Memperketat jadwal lembur", "isCorrect": false },
+        { "text": "D. Menambah beban angkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian faktor lingkungan kerja yang paling efektif menurut hirarki pengendalian adalah?",
+      "explanation": "Eliminasi (menghilangkan sumber bahaya) berada di puncak hirarki pengendalian dan merupakan cara paling efektif, sedangkan APD adalah cara terakhir.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Eliminasi sumber bahaya", "isCorrect": true },
+        { "text": "B. Penggunaan APD", "isCorrect": false },
+        { "text": "C. Rotasi kerja", "isCorrect": false },
+        { "text": "D. Pemasangan rambu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan APD berada pada posisi mana dalam hirarki pengendalian faktor lingkungan kerja?",
+      "explanation": "APD berada pada posisi paling bawah hirarki pengendalian karena hanya melindungi individu tanpa menghilangkan sumber bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Paling bawah (pilihan terakhir)", "isCorrect": true },
+        { "text": "B. Paling atas (paling efektif)", "isCorrect": false },
+        { "text": "C. Di atas eliminasi", "isCorrect": false },
+        { "text": "D. Di atas substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aklimatisasi sebelum bekerja di lingkungan panas sebaiknya dilakukan secara?",
+      "explanation": "Aklimatisasi dilakukan secara bertahap selama beberapa hari (umumnya 7-14 hari) dengan menambah durasi pajanan panas secara perlahan agar tubuh menyesuaikan diri.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Bertahap selama beberapa hari", "isCorrect": true },
+        { "text": "B. Langsung penuh sejak hari pertama", "isCorrect": false },
+        { "text": "C. Hanya saat malam hari", "isCorrect": false },
+        { "text": "D. Tidak perlu sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencahayaan tempat kerja sebaiknya disesuaikan dengan?",
+      "explanation": "Tingkat pencahayaan harus disesuaikan dengan jenis pekerjaan dan ketelitian yang dibutuhkan; pekerjaan halus memerlukan lux lebih tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Jenis dan tingkat ketelitian pekerjaan", "isCorrect": true },
+        { "text": "B. Warna seragam pekerja", "isCorrect": false },
+        { "text": "C. Jumlah pekerja perempuan", "isCorrect": false },
+        { "text": "D. Merek mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk mengurangi dampak kebisingan pada pekerja, pengendalian terbaik dilakukan pada?",
+      "explanation": "Pengendalian kebisingan paling baik dilakukan pada sumber bunyi (misal peredam mesin), baru kemudian pada jalur rambat dan penerima (pekerja).",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Sumber bunyi terlebih dahulu", "isCorrect": true },
+        { "text": "B. Hanya pada pekerja", "isCorrect": false },
+        { "text": "C. Hanya pada rambu peringatan", "isCorrect": false },
+        { "text": "D. Tidak perlu dikendalikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat utama dari upaya mengurangi dampak faktor lingkungan kerja terhadap fisiologi tubuh adalah?",
+      "explanation": "Mengurangi dampak faktor lingkungan kerja meningkatkan kenyamanan dan kesehatan pekerja serta menjaga produktivitas kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Meningkatkan kesehatan, kenyamanan, dan produktivitas pekerja", "isCorrect": true },
+        { "text": "B. Menambah biaya tanpa manfaat", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "D. Memperpanjang jam lembur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mekanisme perpindahan panas dari tubuh ke lingkungan melalui penguapan keringat disebut?",
+      "explanation": "Evaporasi adalah perpindahan panas melalui penguapan keringat dari permukaan kulit, mekanisme penting saat suhu lingkungan tinggi.",
+      "difficulty": "HARD",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Evaporasi", "isCorrect": true },
+        { "text": "B. Radiasi", "isCorrect": false },
+        { "text": "C. Konduksi", "isCorrect": false },
+        { "text": "D. Vasokonstriksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada lingkungan kerja yang sangat panas, mekanisme pembuangan panas tubuh yang paling dominan adalah?",
+      "explanation": "Ketika suhu lingkungan mendekati atau melebihi suhu kulit, radiasi dan konveksi tidak efektif, sehingga evaporasi keringat menjadi mekanisme dominan.",
+      "difficulty": "HARD",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Evaporasi (penguapan keringat)", "isCorrect": true },
+        { "text": "B. Radiasi langsung", "isCorrect": false },
+        { "text": "C. Konduksi ke udara", "isCorrect": false },
+        { "text": "D. Menggigil", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Respons fisiologis kardiovaskular saat bekerja di lingkungan panas adalah?",
+      "explanation": "Di lingkungan panas, denyut jantung meningkat dan curah jantung dibagi antara otot yang bekerja dan kulit untuk membuang panas, sehingga membebani sistem kardiovaskular.",
+      "difficulty": "HARD",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Peningkatan denyut jantung dan beban kardiovaskular", "isCorrect": true },
+        { "text": "B. Penurunan denyut jantung drastis", "isCorrect": false },
+        { "text": "C. Penghentian aliran darah ke kulit", "isCorrect": false },
+        { "text": "D. Penurunan kebutuhan oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor individu yang mempengaruhi kerentanan seseorang terhadap faktor lingkungan kerja adalah?",
+      "explanation": "Usia, jenis kelamin, status kesehatan, dan tingkat kebugaran merupakan faktor individu yang mempengaruhi kerentanan terhadap dampak faktor lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Usia, jenis kelamin, dan status kesehatan", "isCorrect": true },
+        { "text": "B. Merek pakaian", "isCorrect": false },
+        { "text": "C. Warna mobil", "isCorrect": false },
+        { "text": "D. Hobi di rumah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pakaian pelindung khusus untuk pekerja di lingkungan dingin sebaiknya bersifat?",
+      "explanation": "Pakaian untuk lingkungan dingin sebaiknya berlapis, menahan panas (insulasi), dan menjaga tubuh tetap kering agar tidak kehilangan panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Dingin",
+      "options": [
+        { "text": "A. Berlapis, menahan panas, dan menjaga tetap kering", "isCorrect": true },
+        { "text": "B. Tipis dan menyerap air", "isCorrect": false },
+        { "text": "C. Terbuka dan berventilasi penuh", "isCorrect": false },
+        { "text": "D. Berbahan logam dingin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gangguan tidur yang dialami pekerja akibat ritme sirkadian terganggu paling tepat dicegah dengan?",
+      "explanation": "Pengaturan pencahayaan yang tepat dan manajemen jadwal shift membantu menjaga ritme sirkadian dan mencegah gangguan tidur.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Pengaturan pencahayaan dan manajemen jadwal shift", "isCorrect": true },
+        { "text": "B. Menambah kebisingan", "isCorrect": false },
+        { "text": "C. Menaikkan suhu ekstrem", "isCorrect": false },
+        { "text": "D. Menghapus istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir pengelolaan faktor lingkungan kerja dari sudut pandang fisiologi adalah menjaga?",
+      "explanation": "Tujuan akhirnya adalah menjaga homeostasis (keseimbangan internal tubuh) agar fungsi fisiologis tetap normal meskipun ada faktor lingkungan kerja.",
+      "difficulty": "HARD",
+      "tag": "Definisi Fisiologi Tubuh",
+      "options": [
+        { "text": "A. Homeostasis (keseimbangan internal tubuh)", "isCorrect": true },
+        { "text": "B. Peningkatan kebisingan", "isCorrect": false },
+        { "text": "C. Penurunan jumlah pekerja", "isCorrect": false },
+        { "text": "D. Pemborosan energi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang bekerja di ruang dingin (cold storage) berisiko mengalami gangguan fisiologis berupa?",
+      "explanation": "Pekerja cold storage berisiko hipotermia, frostbite pada bagian perifer, serta penurunan ketangkasan tangan akibat suhu rendah.",
+      "difficulty": "MEDIUM",
+      "tag": "Tekanan Dingin",
+      "options": [
+        { "text": "A. Hipotermia dan penurunan ketangkasan tangan", "isCorrect": true },
+        { "text": "B. Heat stroke", "isCorrect": false },
+        { "text": "C. Dehidrasi berat akibat keringat", "isCorrect": false },
+        { "text": "D. Silau berlebih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mekanisme perpindahan panas tubuh melalui kontak langsung dengan benda/permukaan yang lebih dingin disebut?",
+      "explanation": "Konduksi adalah perpindahan panas melalui kontak langsung, misalnya tangan menyentuh permukaan logam dingin sehingga panas tubuh berpindah ke benda tersebut.",
+      "difficulty": "HARD",
+      "tag": "Tekanan Dingin",
+      "options": [
+        { "text": "A. Konduksi", "isCorrect": true },
+        { "text": "B. Evaporasi", "isCorrect": false },
+        { "text": "C. Radiasi", "isCorrect": false },
+        { "text": "D. Termoregulasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi getaran yang berbahaya pada tubuh terjadi terutama saat frekuensi getaran mendekati frekuensi alami organ tubuh. Fenomena ini disebut?",
+      "explanation": "Resonansi terjadi ketika frekuensi getaran luar mendekati frekuensi alami organ tubuh, memperbesar amplitudo getaran dan memperberat dampak fisiologis.",
+      "difficulty": "HARD",
+      "tag": "Getaran & Saraf Perifer",
+      "options": [
+        { "text": "A. Resonansi", "isCorrect": true },
+        { "text": "B. Difraksi", "isCorrect": false },
+        { "text": "C. Refraksi", "isCorrect": false },
+        { "text": "D. Aklimatisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor lingkungan kerja yang dapat saling memperberat efek pajanan getaran tangan-lengan adalah?",
+      "explanation": "Suhu dingin memperberat efek getaran tangan-lengan karena keduanya sama-sama menyebabkan vasokonstriksi dan gangguan sirkulasi jari, mempercepat white finger.",
+      "difficulty": "HARD",
+      "tag": "Getaran & Saraf Perifer",
+      "options": [
+        { "text": "A. Suhu dingin", "isCorrect": true },
+        { "text": "B. Pencahayaan terang", "isCorrect": false },
+        { "text": "C. Kelembaban tinggi yang hangat", "isCorrect": false },
+        { "text": "D. Warna dinding ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Debu dan gas berbahaya di lingkungan kerja terutama menimbulkan iritasi dan gangguan pada sistem?",
+      "explanation": "Debu dan gas berbahaya menimbulkan iritasi saluran pernapasan dan meningkatkan risiko penyakit pernapasan akibat kerja.",
+      "difficulty": "EASY",
+      "tag": "Bahan Kimia & Detoksifikasi",
+      "options": [
+        { "text": "A. Sistem pernapasan", "isCorrect": true },
+        { "text": "B. Sistem pendengaran", "isCorrect": false },
+        { "text": "C. Sistem rangka", "isCorrect": false },
+        { "text": "D. Sistem reproduksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ventilasi yang memadai di tempat kerja berperan dalam mengurangi dampak fisiologis dengan cara?",
+      "explanation": "Ventilasi yang memadai mengurangi akumulasi gas berbahaya, debu, panas, dan kelembaban di udara, sehingga menurunkan beban fisiologis tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Mengurangi akumulasi gas, debu, panas, dan kelembaban", "isCorrect": true },
+        { "text": "B. Menaikkan kebisingan", "isCorrect": false },
+        { "text": "C. Menambah silau", "isCorrect": false },
+        { "text": "D. Meningkatkan getaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang BUKAN merupakan cara mengurangi dampak faktor lingkungan kerja terhadap fisiologi tubuh adalah?",
+      "explanation": "Memperpanjang jam kerja tanpa istirahat justru memperberat dampak fisiologis; cara yang benar adalah penggunaan APD, pengaturan lingkungan, istirahat cukup, dan pemeriksaan kesehatan.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Memperpanjang jam kerja tanpa istirahat", "isCorrect": true },
+        { "text": "B. Menggunakan APD yang sesuai", "isCorrect": false },
+        { "text": "C. Mengatur lingkungan kerja yang nyaman", "isCorrect": false },
+        { "text": "D. Melakukan pemeriksaan kesehatan berkala", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres panas yang berkepanjangan dapat mempengaruhi sistem saraf pusat sehingga menimbulkan?",
+      "explanation": "Stres panas berlebih dapat menyebabkan kebingungan, penurunan kesadaran, dan gangguan koordinasi karena pengaruh suhu tinggi pada sistem saraf pusat.",
+      "difficulty": "HARD",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Kebingungan dan penurunan kesadaran", "isCorrect": true },
+        { "text": "B. Peningkatan ketajaman pendengaran", "isCorrect": false },
+        { "text": "C. Penguatan otot", "isCorrect": false },
+        { "text": "D. Peningkatan produksi melatonin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran faktor lingkungan kerja sebelum menentukan pengendalian disebut sebagai tahap?",
+      "explanation": "Pengukuran/monitoring lingkungan kerja merupakan bagian dari identifikasi dan penilaian (assessment) bahaya sebelum menentukan langkah pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Identifikasi dan penilaian bahaya", "isCorrect": true },
+        { "text": "B. Pemberian upah", "isCorrect": false },
+        { "text": "C. Rekrutmen pekerja", "isCorrect": false },
+        { "text": "D. Pemasaran produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang terpajan pencahayaan layar komputer dalam waktu lama berisiko mengalami?",
+      "explanation": "Pajanan layar yang lama menyebabkan computer vision syndrome berupa mata lelah, kering, kabur, dan sakit kepala.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Mata lelah, kering, dan kabur (computer vision syndrome)", "isCorrect": true },
+        { "text": "B. Frostbite pada jari", "isCorrect": false },
+        { "text": "C. Gangguan pendengaran permanen", "isCorrect": false },
+        { "text": "D. Kram otot akibat garam hilang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu strategi pencegahan agar tubuh tetap mampu beradaptasi terhadap faktor lingkungan kerja adalah?",
+      "explanation": "Melakukan aktivitas fisik teratur dan menjaga kebugaran meningkatkan kapasitas adaptasi fisiologis tubuh terhadap tekanan lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Menjaga kebugaran dengan aktivitas fisik teratur", "isCorrect": true },
+        { "text": "B. Menghindari semua olahraga", "isCorrect": false },
+        { "text": "C. Mengurangi konsumsi air", "isCorrect": false },
+        { "text": "D. Memperbanyak lembur malam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kebisingan yang mengganggu komunikasi antar pekerja dapat secara tidak langsung meningkatkan risiko?",
+      "explanation": "Gangguan komunikasi akibat bising dapat menyebabkan kesalahan instruksi dan menurunkan kewaspadaan, sehingga meningkatkan risiko kecelakaan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kebisingan & Respons Fisiologis",
+      "options": [
+        { "text": "A. Kecelakaan kerja", "isCorrect": true },
+        { "text": "B. Peningkatan produktivitas", "isCorrect": false },
+        { "text": "C. Perbaikan pendengaran", "isCorrect": false },
+        { "text": "D. Penurunan tekanan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama mempelajari pengaruh faktor lingkungan kerja terhadap fisiologi tubuh dalam K3 adalah?",
+      "explanation": "Tujuannya untuk merancang lingkungan dan cara kerja yang sehat sehingga mencegah penyakit akibat kerja dan menjaga produktivitas.",
+      "difficulty": "EASY",
+      "tag": "Definisi Fisiologi Tubuh",
+      "options": [
+        { "text": "A. Mencegah penyakit akibat kerja dan menjaga produktivitas", "isCorrect": true },
+        { "text": "B. Mengurangi jumlah karyawan", "isCorrect": false },
+        { "text": "C. Menaikkan harga produk", "isCorrect": false },
+        { "text": "D. Memperpanjang masa percobaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dampak dehidrasi berat pada pekerja di lingkungan panas terhadap fungsi fisiologis adalah?",
+      "explanation": "Dehidrasi berat menurunkan volume darah, meningkatkan denyut jantung, dan menurunkan kemampuan tubuh membuang panas sehingga memperparah tekanan panas.",
+      "difficulty": "HARD",
+      "tag": "Kelembaban & Hidrasi",
+      "options": [
+        { "text": "A. Menurunkan volume darah dan kemampuan membuang panas", "isCorrect": true },
+        { "text": "B. Meningkatkan ketajaman pendengaran", "isCorrect": false },
+        { "text": "C. Menurunkan denyut jantung", "isCorrect": false },
+        { "text": "D. Meningkatkan produksi melatonin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Suhu lingkungan kerja yang nyaman (zona kenyamanan termal) bagi pekerja Indonesia umumnya berkisar?",
+      "explanation": "Zona kenyamanan termal di Indonesia umumnya berkisar 24-26 derajat Celsius dengan kelembaban sedang, di mana tubuh tidak perlu bekerja keras untuk termoregulasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelembaban & Hidrasi",
+      "options": [
+        { "text": "A. Sekitar 24-26 derajat Celsius", "isCorrect": true },
+        { "text": "B. Sekitar 5-10 derajat Celsius", "isCorrect": false },
+        { "text": "C. Sekitar 40-45 derajat Celsius", "isCorrect": false },
+        { "text": "D. Sekitar 0 derajat Celsius", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mekanisme perpindahan panas tubuh ke lingkungan melalui pancaran gelombang elektromagnetik tanpa kontak disebut?",
+      "explanation": "Radiasi adalah perpindahan panas melalui pancaran gelombang inframerah tanpa kontak langsung, misalnya panas dari tubuh ke dinding dingin di sekitarnya.",
+      "difficulty": "HARD",
+      "tag": "Tekanan Panas",
+      "options": [
+        { "text": "A. Radiasi", "isCorrect": true },
+        { "text": "B. Konduksi", "isCorrect": false },
+        { "text": "C. Evaporasi", "isCorrect": false },
+        { "text": "D. Aklimatisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan penyakit jantung sebaiknya dibatasi bekerja di lingkungan panas karena?",
+      "explanation": "Lingkungan panas meningkatkan beban kerja jantung (denyut dan curah jantung naik), sehingga berisiko bagi pekerja dengan gangguan kardiovaskular.",
+      "difficulty": "HARD",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Panas meningkatkan beban kerja jantung", "isCorrect": true },
+        { "text": "B. Panas menurunkan denyut jantung berlebihan", "isCorrect": false },
+        { "text": "C. Panas tidak berpengaruh pada jantung", "isCorrect": false },
+        { "text": "D. Panas memperbaiki fungsi jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kacamata pelindung (goggles) digunakan untuk melindungi mata dari faktor lingkungan kerja berupa?",
+      "explanation": "Kacamata pelindung melindungi mata dari percikan bahan kimia, debu, dan radiasi/silau yang dapat merusak penglihatan.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Percikan kimia, debu, dan silau", "isCorrect": true },
+        { "text": "B. Kebisingan", "isCorrect": false },
+        { "text": "C. Getaran tangan", "isCorrect": false },
+        { "text": "D. Dehidrasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor lingkungan kerja yang mempengaruhi ritme sirkadian dan dapat menekan produksi melatonin adalah?",
+      "explanation": "Cahaya terang, terutama cahaya biru di malam hari, menekan produksi melatonin dan mengganggu ritme sirkadian pekerja shift malam.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Pencahayaan terang (terutama cahaya biru)", "isCorrect": true },
+        { "text": "B. Suhu dingin", "isCorrect": false },
+        { "text": "C. Kebisingan rendah", "isCorrect": false },
+        { "text": "D. Getaran lemah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Respons fisiologis tubuh terhadap stres lingkungan kerja yang melibatkan hormon adrenalin dan kortisol disebut?",
+      "explanation": "Respons stres (fight or flight) mengaktifkan sistem saraf simpatis dan hormon adrenalin serta kortisol, meningkatkan denyut jantung dan tekanan darah.",
+      "difficulty": "HARD",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Respons stres (fight or flight)", "isCorrect": true },
+        { "text": "B. Refleks menelan", "isCorrect": false },
+        { "text": "C. Aklimatisasi dingin", "isCorrect": false },
+        { "text": "D. Vasodilatasi pasif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan teliti seperti merakit komponen kecil memerlukan tingkat pencahayaan yang?",
+      "explanation": "Pekerjaan teliti dengan objek kecil memerlukan tingkat pencahayaan (lux) yang lebih tinggi agar mata tidak cepat lelah dan hasil kerja akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencahayaan & Ritme Sirkadian",
+      "options": [
+        { "text": "A. Lebih tinggi", "isCorrect": true },
+        { "text": "B. Lebih rendah", "isCorrect": false },
+        { "text": "C. Gelap total", "isCorrect": false },
+        { "text": "D. Tidak memerlukan cahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah pertama dalam strategi pengendalian dampak faktor lingkungan kerja terhadap fisiologi adalah?",
+      "explanation": "Langkah pertama adalah mengidentifikasi faktor lingkungan kerja dan menilai risikonya, baru kemudian merancang dan menerapkan pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Pencegahan",
+      "options": [
+        { "text": "A. Identifikasi faktor lingkungan dan penilaian risiko", "isCorrect": true },
+        { "text": "B. Langsung membeli APD termahal", "isCorrect": false },
+        { "text": "C. Memberhentikan semua pekerja", "isCorrect": false },
+        { "text": "D. Menaikkan target produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang berkeringat banyak dan hanya minum air putih tanpa elektrolit berisiko mengalami?",
+      "explanation": "Mengganti cairan hanya dengan air putih tanpa elektrolit dapat menyebabkan hiponatremia (kadar natrium darah rendah) dan kram otot.",
+      "difficulty": "HARD",
+      "tag": "Kelembaban & Hidrasi",
+      "options": [
+        { "text": "A. Hiponatremia dan kram otot", "isCorrect": true },
+        { "text": "B. Hipertermia langsung", "isCorrect": false },
+        { "text": "C. Frostbite", "isCorrect": false },
+        { "text": "D. Gangguan pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara umum, dampak faktor lingkungan kerja terhadap fisiologi tubuh bergantung pada?",
+      "explanation": "Besarnya dampak bergantung pada intensitas pajanan, lama (durasi) pajanan, dan kerentanan individu pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak & Produktivitas",
+      "options": [
+        { "text": "A. Intensitas pajanan, durasi pajanan, dan kerentanan individu", "isCorrect": true },
+        { "text": "B. Warna pakaian pekerja saja", "isCorrect": false },
+        { "text": "C. Jumlah hari libur", "isCorrect": false },
+        { "text": "D. Merek mesin produksi", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Fisiologi Tubuh", "back": "Ilmu yang mempelajari fungsi dan proses biologis yang terjadi di dalam tubuh manusia. Faktor lingkungan kerja dapat mengganggu fungsi fisiologis ini.", "tag": "Definisi Fisiologi Tubuh" },
+    { "front": "Faktor Lingkungan Kerja", "back": "Faktor fisik (suhu, kelembaban, pencahayaan, kebisingan, getaran) dan faktor kimia (bahan kimia berbahaya) yang dapat mempengaruhi fisiologi tubuh pekerja.", "tag": "Definisi Fisiologi Tubuh" },
+    { "front": "Termoregulasi", "back": "Proses pengaturan suhu inti tubuh agar tetap stabil sekitar 37 derajat Celsius. Panas dibuang lewat berkeringat & vasodilatasi; panas dipertahankan lewat menggigil & vasokonstriksi.", "tag": "Tekanan Panas" },
+    { "front": "Respons tubuh terhadap PANAS", "back": "Vasodilatasi pembuluh darah kulit + berkeringat (evaporasi) untuk membuang panas. Denyut jantung meningkat (beban kardiovaskular naik).", "tag": "Tekanan Panas" },
+    { "front": "Heat stroke vs Heat exhaustion vs Heat cramps", "back": "Heat stroke = suhu inti >40 C, darurat. Heat exhaustion = lemas/pusing akibat kehilangan cairan. Heat cramps = kram otot akibat kehilangan garam.", "tag": "Tekanan Panas" },
+    { "front": "Aklimatisasi panas", "back": "Adaptasi fisiologis bertahap (7-14 hari) terhadap panas. Pekerja teraklimatisasi berkeringat lebih awal, lebih banyak, dengan kadar garam lebih rendah.", "tag": "Tekanan Panas" },
+    { "front": "Mekanisme perpindahan panas", "back": "Radiasi (pancaran tanpa kontak), Konduksi (kontak langsung), Konveksi (aliran udara), Evaporasi (penguapan keringat). Di lingkungan sangat panas, evaporasi paling dominan.", "tag": "Tekanan Panas" },
+    { "front": "Respons tubuh terhadap DINGIN", "back": "Vasokonstriksi pembuluh darah kulit (menahan panas) + menggigil/shivering (menghasilkan panas metabolik).", "tag": "Tekanan Dingin" },
+    { "front": "Hipotermia vs Frostbite", "back": "Hipotermia = suhu inti tubuh turun di bawah 35 C. Frostbite = pembekuan jaringan pada bagian perifer (jari, telinga, hidung).", "tag": "Tekanan Dingin" },
+    { "front": "Dingin & motorik", "back": "Suhu rendah menurunkan suhu otot & saraf sehingga jari kaku dan ketangkasan (dexterity) menurun, meningkatkan risiko kecelakaan kerja.", "tag": "Tekanan Dingin" },
+    { "front": "Kelembaban & pembuangan panas", "back": "Kelembaban tinggi menghambat penguapan keringat sehingga panas sulit dibuang -> tekanan panas meningkat. Kelembaban rendah mempercepat dehidrasi.", "tag": "Kelembaban & Hidrasi" },
+    { "front": "Dehidrasi", "back": "Kekurangan cairan tubuh akibat keringat berlebih tanpa penggantian. Dicegah dengan minum air teratur + mengganti elektrolit. Air putih saja berlebihan -> hiponatremia.", "tag": "Kelembaban & Hidrasi" },
+    { "front": "Ritme Sirkadian", "back": "Siklus biologis ~24 jam yang mengatur tidur-bangun, suhu tubuh, dan hormon; sangat dipengaruhi cahaya. Kerja shift malam mengganggunya.", "tag": "Pencahayaan & Ritme Sirkadian" },
+    { "front": "Melatonin & cahaya", "back": "Melatonin = hormon pengatur tidur, diproduksi saat gelap. Cahaya terang (terutama cahaya biru) menekan produksinya.", "tag": "Pencahayaan & Ritme Sirkadian" },
+    { "front": "Dampak pencahayaan buruk", "back": "Kurang cahaya -> kelelahan mata, sakit kepala, risiko kecelakaan. Silau (glare) -> ketidaknyamanan visual. Satuan iluminasi = lux (alat: lux meter).", "tag": "Pencahayaan & Ritme Sirkadian" },
+    { "front": "Kebisingan: efek auditori vs non-auditori", "back": "Auditori: NIHL (permanen), tinnitus, TTS. Non-auditori: tekanan darah & denyut jantung naik, stres (kortisol/adrenalin), gangguan tidur & komunikasi. NAB 85 dBA/8 jam.", "tag": "Kebisingan & Respons Fisiologis" },
+    { "front": "Getaran: HAV vs WBV", "back": "Hand-Arm Vibration (alat genggam) -> HAVS/white finger, kesemutan/kebas jari. Whole-Body Vibration (kendaraan) -> nyeri punggung bawah, gangguan tulang belakang.", "tag": "Getaran & Saraf Perifer" },
+    { "front": "White finger / HAVS", "back": "Gangguan saraf perifer & pembuluh darah jari akibat getaran tangan-lengan kronis. Diperberat oleh suhu dingin. Dicegah dengan sarung tangan anti-getar & batasi durasi.", "tag": "Getaran & Saraf Perifer" },
+    { "front": "Bahan kimia & detoksifikasi", "back": "Jalur masuk: inhalasi, kontak kulit, tertelan. Hati = organ detoksifikasi utama (dibantu ginjal). Pajanan berlebih -> keracunan (intoksikasi). Pelarut organik bersifat neurotoksik.", "tag": "Bahan Kimia & Detoksifikasi" },
+    { "front": "Dampak faktor lingkungan kerja", "back": "Stres fisik (lelah, sakit kepala, gangguan tidur), gangguan kesehatan (PAK), penurunan produktivitas. Bergantung pada intensitas, durasi pajanan, & kerentanan individu.", "tag": "Dampak & Produktivitas" },
+    { "front": "Cara mengurangi dampak lingkungan kerja", "back": "Gunakan APD sesuai, atur lingkungan (suhu/kelembaban/pencahayaan/ventilasi) nyaman, istirahat cukup, dan pemeriksaan kesehatan berkala.", "tag": "Pengendalian & Pencegahan" },
+    { "front": "Hirarki pengendalian", "back": "Eliminasi > Substitusi > Engineering (ventilasi/AC/peredam) > Administratif (rotasi, work-rest cycle) > APD (paling bawah). Kendalikan sumber dulu, baru penerima.", "tag": "Pengendalian & Pencegahan" },
+    { "front": "Homeostasis", "back": "Keseimbangan internal tubuh. Tujuan akhir pengelolaan faktor lingkungan kerja adalah menjaga homeostasis agar fungsi fisiologis tetap normal.", "tag": "Definisi Fisiologi Tubuh" }
+  ],
+  "mindmap": [
+    { "id": "root", "label": "Faktor Lingkungan Kerja & Fisiologi Tubuh", "color": "#6366f1", "parent": null, "content": "Faktor lingkungan kerja (suhu, kelembaban, pencahayaan, kebisingan, getaran, bahan kimia) dapat mempengaruhi fungsi fisiologis tubuh pekerja. Pemahamannya penting untuk kenyamanan kerja dan pencegahan gangguan kesehatan." },
+    { "id": "konsep", "label": "Konsep Dasar", "color": "#8b5cf6", "parent": "root", "content": "Fisiologi tubuh = ilmu fungsi dan proses biologis dalam tubuh manusia. Faktor lingkungan kerja menekan fungsi ini dan tubuh berespons untuk menjaga keseimbangan." },
+    { "id": "konsep-def", "label": "Definisi Fisiologi", "color": "#8b5cf6", "parent": "konsep", "content": "Fisiologi tubuh adalah ilmu yang mempelajari fungsi dan proses biologis yang terjadi di dalam tubuh manusia." },
+    { "id": "konsep-homeo", "label": "Homeostasis", "color": "#8b5cf6", "parent": "konsep", "content": "Keseimbangan internal tubuh. Tujuan akhir pengelolaan lingkungan kerja adalah menjaga homeostasis agar fungsi fisiologis tetap normal." },
+    { "id": "konsep-faktor", "label": "Jenis Faktor", "color": "#8b5cf6", "parent": "konsep", "content": "Faktor fisik: suhu, kelembaban, pencahayaan, kebisingan, getaran. Faktor kimia: bahan kimia berbahaya (debu, gas, pelarut)." },
+    { "id": "panas", "label": "Tekanan Panas", "color": "#ef4444", "parent": "root", "content": "Suhu lingkungan tinggi membebani termoregulasi. Tubuh membuang panas lewat vasodilatasi & evaporasi keringat; denyut jantung meningkat." },
+    { "id": "panas-termo", "label": "Termoregulasi", "color": "#ef4444", "parent": "panas", "content": "Pengaturan suhu inti tubuh stabil ~37 C. Saat panas: vasodilatasi pembuluh kulit + berkeringat untuk membuang panas." },
+    { "id": "panas-transfer", "label": "Perpindahan Panas", "color": "#ef4444", "parent": "panas", "content": "Radiasi (pancaran tanpa kontak), konduksi (kontak langsung), konveksi (aliran udara), evaporasi (penguapan keringat). Di lingkungan sangat panas, evaporasi paling dominan." },
+    { "id": "panas-gangguan", "label": "Gangguan Panas", "color": "#ef4444", "parent": "panas", "content": "Heat cramps (kram otot, kehilangan garam), heat exhaustion (lemas/pusing, kehilangan cairan), heat stroke (suhu inti >40 C, darurat medis)." },
+    { "id": "panas-aklim", "label": "Aklimatisasi", "color": "#ef4444", "parent": "panas", "content": "Adaptasi bertahap 7-14 hari. Pekerja teraklimatisasi berkeringat lebih awal, lebih banyak, dengan kadar garam lebih rendah." },
+    { "id": "panas-isbb", "label": "Penilaian (ISBB/WBGT)", "color": "#ef4444", "parent": "panas", "content": "Tekanan panas dinilai dengan indeks ISBB (Indeks Suhu Basah dan Bola) atau WBGT." },
+    { "id": "dingin", "label": "Tekanan Dingin", "color": "#0ea5e9", "parent": "root", "content": "Suhu rendah memicu tubuh mempertahankan panas lewat vasokonstriksi dan menggigil. Risiko hipotermia, frostbite, dan penurunan ketangkasan." },
+    { "id": "dingin-respon", "label": "Respons Dingin", "color": "#0ea5e9", "parent": "dingin", "content": "Vasokonstriksi pembuluh kulit (menahan panas) + menggigil/shivering (menghasilkan panas metabolik dari kontraksi otot)." },
+    { "id": "dingin-hipo", "label": "Hipotermia", "color": "#0ea5e9", "parent": "dingin", "content": "Penurunan suhu inti tubuh di bawah 35 C akibat pajanan dingin, dapat mengganggu fungsi organ vital." },
+    { "id": "dingin-frost", "label": "Frostbite", "color": "#0ea5e9", "parent": "dingin", "content": "Kerusakan jaringan akibat pembekuan, umum pada bagian perifer: jari tangan, jari kaki, telinga, hidung." },
+    { "id": "dingin-motorik", "label": "Penurunan Motorik", "color": "#0ea5e9", "parent": "dingin", "content": "Dingin menurunkan suhu otot & saraf -> jari kaku, ketangkasan menurun, risiko kecelakaan naik. Diperberat bila ada getaran tangan." },
+    { "id": "lembab", "label": "Kelembaban & Hidrasi", "color": "#10b981", "parent": "root", "content": "Kelembaban mempengaruhi pembuangan panas dan keseimbangan cairan kulit/tubuh." },
+    { "id": "lembab-panas", "label": "Kelembaban & Panas", "color": "#10b981", "parent": "lembab", "content": "Kelembaban tinggi menghambat penguapan keringat sehingga panas sulit dibuang dan tekanan panas meningkat." },
+    { "id": "lembab-dehidrasi", "label": "Dehidrasi", "color": "#10b981", "parent": "lembab", "content": "Kekurangan cairan akibat keringat berlebih. Dehidrasi berat menurunkan volume darah & kemampuan membuang panas." },
+    { "id": "lembab-hidrasi", "label": "Penggantian Cairan", "color": "#10b981", "parent": "lembab", "content": "Minum air teratur + ganti elektrolit (oralit). Air putih saja berlebihan tanpa garam berisiko hiponatremia & kram otot." },
+    { "id": "cahaya", "label": "Pencahayaan & Sirkadian", "color": "#f59e0b", "parent": "root", "content": "Pencahayaan mempengaruhi ritme sirkadian dan penglihatan. Diukur dalam lux dengan lux meter." },
+    { "id": "cahaya-sirkadian", "label": "Ritme Sirkadian", "color": "#f59e0b", "parent": "cahaya", "content": "Siklus biologis ~24 jam pengatur tidur-bangun, suhu tubuh, dan hormon. Kerja shift malam mengganggunya." },
+    { "id": "cahaya-melatonin", "label": "Melatonin", "color": "#f59e0b", "parent": "cahaya", "content": "Hormon pengatur tidur, diproduksi saat gelap. Cahaya terang (terutama cahaya biru) menekan produksinya." },
+    { "id": "cahaya-mata", "label": "Gangguan Penglihatan", "color": "#f59e0b", "parent": "cahaya", "content": "Kurang cahaya -> mata lelah, sakit kepala, risiko kecelakaan. Silau (glare) -> ketidaknyamanan visual. Pekerjaan teliti butuh lux lebih tinggi." },
+    { "id": "bising", "label": "Kebisingan", "color": "#ec4899", "parent": "root", "content": "Kebisingan mempengaruhi pendengaran (auditori) dan memicu respons stres (non-auditori). NAB 85 dBA untuk 8 jam." },
+    { "id": "bising-audit", "label": "Efek Auditori", "color": "#ec4899", "parent": "bising", "content": "NIHL (gangguan pendengaran permanen akibat kerusakan sel rambut koklea), tinnitus (telinga berdenging), TTS (pergeseran ambang sementara)." },
+    { "id": "bising-nonaudit", "label": "Efek Non-Auditori", "color": "#ec4899", "parent": "bising", "content": "Respons stres: tekanan darah & denyut jantung naik, hormon kortisol/adrenalin meningkat, gangguan tidur & konsentrasi." },
+    { "id": "bising-komunikasi", "label": "Gangguan Komunikasi", "color": "#ec4899", "parent": "bising", "content": "Kebisingan mengganggu komunikasi antar pekerja, menurunkan kewaspadaan, dan meningkatkan risiko kecelakaan kerja." },
+    { "id": "getar", "label": "Getaran", "color": "#14b8a6", "parent": "root", "content": "Getaran mempengaruhi kemampuan motorik dan saraf perifer. Dapat menyebabkan resonansi pada organ tubuh." },
+    { "id": "getar-hav", "label": "Hand-Arm Vibration", "color": "#14b8a6", "parent": "getar", "content": "Getaran dari alat genggam (gerinda, bor) ke tangan-lengan. Menyebabkan HAVS/white finger: kesemutan, kebas, gangguan pembuluh darah jari." },
+    { "id": "getar-wbv", "label": "Whole-Body Vibration", "color": "#14b8a6", "parent": "getar", "content": "Getaran ke seluruh tubuh lewat tempat duduk/lantai (pengemudi alat berat). Menyebabkan nyeri punggung bawah & gangguan tulang belakang." },
+    { "id": "getar-resonansi", "label": "Resonansi", "color": "#14b8a6", "parent": "getar", "content": "Terjadi saat frekuensi getaran mendekati frekuensi alami organ tubuh, memperbesar amplitudo dan memperberat dampak fisiologis." },
+    { "id": "kimia", "label": "Bahan Kimia", "color": "#8b5cf6", "parent": "root", "content": "Bahan kimia berbahaya membebani kemampuan tubuh menghilangkan racun (detoksifikasi). Pajanan berlebih -> keracunan." },
+    { "id": "kimia-jalur", "label": "Jalur Masuk", "color": "#8b5cf6", "parent": "kimia", "content": "Inhalasi (pernapasan, paling umum), kontak/absorpsi kulit, dan ingesti (tertelan)." },
+    { "id": "kimia-detoks", "label": "Detoksifikasi", "color": "#8b5cf6", "parent": "kimia", "content": "Hati = organ detoksifikasi utama, dibantu ginjal membuang racun lewat urin. Pelarut organik bersifat neurotoksik." },
+    { "id": "kimia-napas", "label": "Iritasi Pernapasan", "color": "#8b5cf6", "parent": "kimia", "content": "Debu & gas berbahaya mengiritasi saluran pernapasan dan meningkatkan risiko penyakit pernapasan akibat kerja." },
+    { "id": "dampak", "label": "Dampak & Produktivitas", "color": "#0ea5e9", "parent": "root", "content": "Dampak bergantung pada intensitas pajanan, durasi, dan kerentanan individu (usia, jenis kelamin, status kesehatan)." },
+    { "id": "dampak-stres", "label": "Stres Fisik", "color": "#0ea5e9", "parent": "dampak", "content": "Kelelahan, sakit kepala, dan gangguan tidur akibat faktor lingkungan kerja." },
+    { "id": "dampak-kesehatan", "label": "Gangguan Kesehatan (PAK)", "color": "#0ea5e9", "parent": "dampak", "content": "Penyakit Akibat Kerja: penyakit pernapasan, penyakit kulit, gangguan pendengaran, dan gangguan organ lain." },
+    { "id": "dampak-produktivitas", "label": "Penurunan Produktivitas", "color": "#0ea5e9", "parent": "dampak", "content": "Kelelahan, gangguan konsentrasi, dan penurunan kinerja menyebabkan produktivitas menurun." },
+    { "id": "kendali", "label": "Pengendalian & Pencegahan", "color": "#10b981", "parent": "root", "content": "Mengurangi dampak lewat hirarki pengendalian, APD, pengaturan lingkungan, istirahat, dan pemeriksaan kesehatan berkala." },
+    { "id": "kendali-hirarki", "label": "Hirarki Pengendalian", "color": "#10b981", "parent": "kendali", "content": "Eliminasi > Substitusi > Engineering (ventilasi/AC/peredam/isolasi) > Administratif (rotasi, work-rest cycle) > APD (paling bawah)." },
+    { "id": "kendali-apd", "label": "APD", "color": "#10b981", "parent": "kendali", "content": "Masker/respirator (kimia), ear plug/muff (bising), sarung tangan anti-getar (getaran), kacamata pelindung (silau/percikan), pakaian insulasi (dingin)." },
+    { "id": "kendali-lingkungan", "label": "Pengaturan Lingkungan", "color": "#10b981", "parent": "kendali", "content": "Mengatur suhu, kelembaban, pencahayaan, dan ventilasi agar nyaman untuk mengurangi beban fisiologis tubuh." },
+    { "id": "kendali-istirahat", "label": "Istirahat & Kesehatan", "color": "#10b981", "parent": "kendali", "content": "Istirahat cukup (work-rest cycle), aktivitas fisik teratur untuk kebugaran, dan pemeriksaan kesehatan berkala untuk deteksi dini PAK." }
+  ]
+}

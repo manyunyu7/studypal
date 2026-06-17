@@ -1,0 +1,1513 @@
+{
+  "topic": "Kepemimpinan",
+  "order": 7,
+  "description": "Kepemimpinan (leadership) adalah proses memengaruhi, memotivasi, dan menggerakkan orang lain agar berkontribusi terhadap pencapaian tujuan organisasi. Topik ini mencakup pengertian, teori-teori kepemimpinan, berbagai gaya kepemimpinan, perbedaan pemimpin dan manajer, serta penerapan kepemimpinan dalam keselamatan kerja (safety leadership).",
+  "subtopics": [
+    "Pengertian & Konsep Dasar",
+    "Jenis Berdasarkan Lingkup",
+    "Teori Kepemimpinan",
+    "Gaya Kepemimpinan",
+    "Transformasional vs Transaksional",
+    "Pemimpin vs Manajer",
+    "Karakteristik Pemimpin Efektif",
+    "Safety Leadership"
+  ],
+  "questions": [
+    {
+      "text": "Apa pengertian kepemimpinan (leadership) yang paling tepat?",
+      "explanation": "Kepemimpinan adalah proses memengaruhi, memotivasi, dan membuat orang lain berkontribusi terhadap kesuksesan dan efektivitas organisasi dalam mencapai tujuannya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Konsep Dasar",
+      "options": [
+        { "text": "A. Proses memerintah bawahan tanpa kompromi", "isCorrect": false },
+        { "text": "B. Proses memengaruhi dan memotivasi orang lain untuk mencapai tujuan organisasi", "isCorrect": true },
+        { "text": "C. Jabatan formal tertinggi dalam organisasi", "isCorrect": false },
+        { "text": "D. Kemampuan mengelola keuangan perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inti dari aktivitas kepemimpinan adalah kemampuan untuk?",
+      "explanation": "Inti kepemimpinan adalah kemampuan memengaruhi orang lain agar mau bergerak mencapai tujuan bersama.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Konsep Dasar",
+      "options": [
+        { "text": "A. Memengaruhi orang lain", "isCorrect": true },
+        { "text": "B. Menghukum bawahan", "isCorrect": false },
+        { "text": "C. Mengumpulkan kekayaan", "isCorrect": false },
+        { "text": "D. Bekerja sendiri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepemimpinan terhadap diri sendiri agar tidak mengalami kegagalan dalam menjalani hidup disebut?",
+      "explanation": "Self leadership adalah kepemimpinan terhadap diri sendiri agar tidak mengalami kegagalan dalam menjalani hidup.",
+      "difficulty": "EASY",
+      "tag": "Jenis Berdasarkan Lingkup",
+      "options": [
+        { "text": "A. Team leadership", "isCorrect": false },
+        { "text": "B. Self leadership", "isCorrect": true },
+        { "text": "C. Organizational leadership", "isCorrect": false },
+        { "text": "D. Servant leadership", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepemimpinan yang berfokus pada memimpin orang lain dalam sebuah kelompok kecil disebut?",
+      "explanation": "Team leadership berarti memimpin orang lain, yaitu menjadi team leader atau pemimpin kelompok.",
+      "difficulty": "EASY",
+      "tag": "Jenis Berdasarkan Lingkup",
+      "options": [
+        { "text": "A. Self leadership", "isCorrect": false },
+        { "text": "B. Organizational leadership", "isCorrect": false },
+        { "text": "C. Team leadership", "isCorrect": true },
+        { "text": "D. Global leadership", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepemimpinan yang lingkupnya memimpin seluruh organisasi disebut?",
+      "explanation": "Organizational leadership adalah kepemimpinan pada lingkup organisasi, yaitu pemimpin organisasi secara keseluruhan.",
+      "difficulty": "EASY",
+      "tag": "Jenis Berdasarkan Lingkup",
+      "options": [
+        { "text": "A. Self leadership", "isCorrect": false },
+        { "text": "B. Team leadership", "isCorrect": false },
+        { "text": "C. Organizational leadership", "isCorrect": true },
+        { "text": "D. Personal leadership", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan lingkupnya, kepemimpinan dibagi menjadi tiga jenis, yaitu?",
+      "explanation": "Berdasarkan lingkup, kepemimpinan terbagi menjadi self leadership, team leadership, dan organizational leadership.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Berdasarkan Lingkup",
+      "options": [
+        { "text": "A. Otokratis, demokratis, laissez faire", "isCorrect": false },
+        { "text": "B. Self, team, dan organizational leadership", "isCorrect": true },
+        { "text": "C. Transformasional, transaksional, situasional", "isCorrect": false },
+        { "text": "D. Formal, informal, semiformal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan di mana pemimpin mendelegasikan otoritas dan mengajak pengikut berpartisipasi dalam pengambilan keputusan disebut?",
+      "explanation": "Kepemimpinan demokratis mendelegasikan otoritas dan mengajak pengikut berpartisipasi dalam proses pengambilan keputusan.",
+      "difficulty": "EASY",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Otokratis", "isCorrect": false },
+        { "text": "B. Demokratis", "isCorrect": true },
+        { "text": "C. Laissez faire", "isCorrect": false },
+        { "text": "D. Transaksional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu ciri utama pemimpin demokratis adalah?",
+      "explanation": "Pemimpin demokratis merupakan pendengar yang baik bagi pengikutnya dan pekerja tim yang baik, serta menghargai masukan anggota.",
+      "difficulty": "EASY",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Pendengar yang baik dan menghargai masukan anggota", "isCorrect": true },
+        { "text": "B. Memutuskan segalanya sendiri", "isCorrect": false },
+        { "text": "C. Membiarkan tim tanpa arahan", "isCorrect": false },
+        { "text": "D. Mengancam bawahan agar patuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada gaya kepemimpinan demokratis, komitmen dalam kerja tim dapat dirasakan melalui?",
+      "explanation": "Dalam gaya demokratis, komitmen kerja tim muncul melalui partisipasi aktif dari tiap anggota karena setiap masukan dihargai.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Ancaman dan sanksi", "isCorrect": false },
+        { "text": "B. Partisipasi aktif tiap anggota", "isCorrect": true },
+        { "text": "C. Pengawasan ketat terus-menerus", "isCorrect": false },
+        { "text": "D. Tidak adanya aturan sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan di mana pemimpin memiliki kekuasaan absolut dan tanggung jawab penuh atas timnya disebut?",
+      "explanation": "Kepemimpinan otokratis adalah gaya di mana pemimpin memiliki kekuasaan absolut dan tanggung jawab penuh dalam memimpin timnya.",
+      "difficulty": "EASY",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Demokratis", "isCorrect": false },
+        { "text": "B. Afiliatif", "isCorrect": false },
+        { "text": "C. Otokratis", "isCorrect": true },
+        { "text": "D. Visioner", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu ciri pemimpin otokratis adalah?",
+      "explanation": "Pemimpin otokratis memimpin dengan memberi perintah, memberi ancaman kepada bawahan, dan memiliki kontrol ketat terhadap organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Mendelegasikan keputusan ke tim", "isCorrect": false },
+        { "text": "B. Memberi perintah dan kontrol ketat terhadap organisasi", "isCorrect": true },
+        { "text": "C. Membiarkan anggota memutuskan sendiri", "isCorrect": false },
+        { "text": "D. Mengutamakan harmoni di atas tugas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan otokratis dianggap paling layak digunakan ketika?",
+      "explanation": "Gaya otokratis layak digunakan ketika perusahaan sedang menghadapi krisis yang membutuhkan keputusan cepat dan tegas.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Saat suasana tim sangat santai", "isCorrect": false },
+        { "text": "B. Saat perusahaan menghadapi krisis", "isCorrect": true },
+        { "text": "C. Saat semua keputusan ingin didelegasikan", "isCorrect": false },
+        { "text": "D. Saat tidak ada target sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin otokratis terhadap aktivitas kerja anggotanya cenderung?",
+      "explanation": "Pemimpin otokratis selalu memonitor berjalannya aktivitas kerja secara terus-menerus.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Memonitor secara terus-menerus", "isCorrect": true },
+        { "text": "B. Membiarkan tanpa pengawasan", "isCorrect": false },
+        { "text": "C. Menyerahkan pengawasan ke anggota", "isCorrect": false },
+        { "text": "D. Tidak peduli pada hasil kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan yang mementingkan harmoni antar anggota tim dan membantu menyelesaikan konflik disebut?",
+      "explanation": "Kepemimpinan afiliatif mementingkan harmoni antar anggota, berempati, meningkatkan semangat, dan membantu menyelesaikan konflik.",
+      "difficulty": "EASY",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Otokratis", "isCorrect": false },
+        { "text": "B. Afiliatif", "isCorrect": true },
+        { "text": "C. Transaksional", "isCorrect": false },
+        { "text": "D. Birokratis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin afiliatif menciptakan harmoni dalam tim dengan cara?",
+      "explanation": "Pemimpin afiliatif menciptakan harmoni dengan membantu membangun hubungan antar para anggotanya.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Memberi ancaman", "isCorrect": false },
+        { "text": "B. Membangun hubungan antar anggota", "isCorrect": true },
+        { "text": "C. Membatasi komunikasi tim", "isCorrect": false },
+        { "text": "D. Mengabaikan emosi anggota", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan yang menginspirasi dan memotivasi anggota dengan berpegang teguh pada visi yang ditetapkan disebut?",
+      "explanation": "Kepemimpinan visioner menginspirasi dan memotivasi anggota tim serta berpegang teguh pada visi yang telah ditetapkan.",
+      "difficulty": "EASY",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Visioner", "isCorrect": true },
+        { "text": "B. Otokratis", "isCorrect": false },
+        { "text": "C. Laissez faire", "isCorrect": false },
+        { "text": "D. Transaksional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin visioner mengomunikasikan kepada timnya secara jelas mengenai?",
+      "explanation": "Pemimpin visioner mengomunikasikan dengan jelas bagaimana cara mencapai visi dan mengapa semua usaha tim diperlukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Cara mencapai visi dan alasan usaha tim diperlukan", "isCorrect": true },
+        { "text": "B. Daftar hukuman bagi pelanggar", "isCorrect": false },
+        { "text": "C. Rincian gaji tiap anggota", "isCorrect": false },
+        { "text": "D. Jadwal istirahat saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan visioner paling diperlukan ketika?",
+      "explanation": "Gaya visioner diperlukan ketika bisnis membutuhkan visi yang baru atau perubahan yang drastis.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Saat tidak ada perubahan apa pun", "isCorrect": false },
+        { "text": "B. Saat bisnis membutuhkan visi baru atau perubahan drastis", "isCorrect": true },
+        { "text": "C. Saat krisis keuangan mendesak", "isCorrect": false },
+        { "text": "D. Saat tim tidak ingin tujuan apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan yang memberikan saran efektif serta mendorong anggota lebih aktif memberi ide dan pendapat adalah?",
+      "explanation": "Kepemimpinan afiliatif memberikan saran efektif dan mendorong anggota tim lebih aktif memberi ide dan pendapat.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Otokratis", "isCorrect": false },
+        { "text": "B. Afiliatif", "isCorrect": true },
+        { "text": "C. Transaksional", "isCorrect": false },
+        { "text": "D. Direktif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan di mana pemimpin memberikan kebebasan penuh kepada anggota untuk mengambil keputusan dengan minim campur tangan disebut?",
+      "explanation": "Gaya laissez faire (bebas/delegatif) memberikan kebebasan penuh kepada anggota dengan campur tangan pemimpin yang minimal.",
+      "difficulty": "EASY",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Otokratis", "isCorrect": false },
+        { "text": "B. Demokratis", "isCorrect": false },
+        { "text": "C. Laissez faire", "isCorrect": true },
+        { "text": "D. Birokratis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah lain yang sering dipakai untuk gaya kepemimpinan laissez faire adalah?",
+      "explanation": "Laissez faire sering disebut gaya kepemimpinan bebas atau delegatif karena pemimpin menyerahkan banyak keputusan kepada anggota.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Gaya delegatif/bebas", "isCorrect": true },
+        { "text": "B. Gaya direktif", "isCorrect": false },
+        { "text": "C. Gaya koersif", "isCorrect": false },
+        { "text": "D. Gaya birokratis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan laissez faire paling cocok diterapkan pada kondisi?",
+      "explanation": "Laissez faire cocok bila anggota tim sangat ahli, mandiri, dan termotivasi sehingga mampu bekerja tanpa banyak arahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Tim baru yang belum berpengalaman", "isCorrect": false },
+        { "text": "B. Tim yang ahli, mandiri, dan termotivasi", "isCorrect": true },
+        { "text": "C. Situasi krisis darurat", "isCorrect": false },
+        { "text": "D. Tim yang butuh pengawasan ketat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelemahan utama gaya kepemimpinan laissez faire bila diterapkan pada tim yang belum matang adalah?",
+      "explanation": "Pada tim belum matang, laissez faire dapat menimbulkan kebingungan arah, koordinasi lemah, dan produktivitas menurun karena minim arahan.",
+      "difficulty": "HARD",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Pengawasan terlalu ketat", "isCorrect": false },
+        { "text": "B. Keputusan terlalu lambat karena pemimpin dominan", "isCorrect": false },
+        { "text": "C. Kebingungan arah dan koordinasi yang lemah", "isCorrect": true },
+        { "text": "D. Anggota tidak boleh berpendapat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori kepemimpinan yang berasumsi bahwa pemimpin dilahirkan dengan sifat-sifat bawaan tertentu disebut teori?",
+      "explanation": "Teori sifat (trait theory) berasumsi pemimpin memiliki sifat bawaan tertentu seperti percaya diri, integritas, dan kecerdasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Teori perilaku", "isCorrect": false },
+        { "text": "B. Teori sifat (trait theory)", "isCorrect": true },
+        { "text": "C. Teori situasional", "isCorrect": false },
+        { "text": "D. Teori kontingensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan \"pemimpin dilahirkan, bukan dibentuk\" paling sesuai dengan teori kepemimpinan?",
+      "explanation": "Ungkapan leaders are born, not made mencerminkan teori sifat (trait theory) yang menekankan karakter bawaan pemimpin.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Teori sifat", "isCorrect": true },
+        { "text": "B. Teori perilaku", "isCorrect": false },
+        { "text": "C. Teori transformasional", "isCorrect": false },
+        { "text": "D. Teori jalur-tujuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori kepemimpinan yang menekankan pada apa yang dilakukan pemimpin (perilakunya), bukan sifat bawaannya, disebut teori?",
+      "explanation": "Teori perilaku (behavioral theory) menekankan pada apa yang dilakukan pemimpin, sehingga kepemimpinan dapat dipelajari.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Teori sifat", "isCorrect": false },
+        { "text": "B. Teori perilaku", "isCorrect": true },
+        { "text": "C. Teori karismatik", "isCorrect": false },
+        { "text": "D. Teori situasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Implikasi penting dari teori perilaku kepemimpinan adalah bahwa kepemimpinan?",
+      "explanation": "Karena fokus pada perilaku, teori perilaku menyiratkan bahwa kepemimpinan dapat dipelajari dan dilatih, bukan semata bawaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Hanya milik orang dengan bakat lahir", "isCorrect": false },
+        { "text": "B. Dapat dipelajari dan dilatih", "isCorrect": true },
+        { "text": "C. Tidak dapat diubah seumur hidup", "isCorrect": false },
+        { "text": "D. Ditentukan oleh keturunan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori kepemimpinan yang menyatakan gaya kepemimpinan terbaik tergantung pada situasi dan kematangan pengikut disebut teori?",
+      "explanation": "Teori situasional menyatakan tidak ada satu gaya terbaik; gaya yang efektif bergantung pada situasi dan kematangan pengikut.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Teori sifat", "isCorrect": false },
+        { "text": "B. Teori situasional", "isCorrect": true },
+        { "text": "C. Teori the great man", "isCorrect": false },
+        { "text": "D. Teori atribusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Model kepemimpinan situasional yang dikembangkan oleh Hersey dan Blanchard menekankan penyesuaian gaya berdasarkan?",
+      "explanation": "Model Hersey-Blanchard menekankan penyesuaian gaya pemimpin terhadap tingkat kematangan atau kesiapan (readiness) pengikut.",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Besarnya gaji pemimpin", "isCorrect": false },
+        { "text": "B. Tingkat kematangan/kesiapan pengikut", "isCorrect": true },
+        { "text": "C. Usia pemimpin", "isCorrect": false },
+        { "text": "D. Jumlah cabang perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Empat gaya dalam model kepemimpinan situasional Hersey-Blanchard adalah?",
+      "explanation": "Model Hersey-Blanchard memiliki empat gaya: telling (directing), selling (coaching), participating (supporting), dan delegating.",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Telling, selling, participating, delegating", "isCorrect": true },
+        { "text": "B. Otokratis, demokratis, afiliatif, visioner", "isCorrect": false },
+        { "text": "C. Sifat, perilaku, situasi, atribusi", "isCorrect": false },
+        { "text": "D. Inisiasi, struktur, konsiderasi, kontingensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori kontingensi Fiedler menyatakan bahwa efektivitas pemimpin tergantung pada kesesuaian antara gaya pemimpin dengan?",
+      "explanation": "Teori kontingensi Fiedler menyatakan efektivitas tergantung kesesuaian gaya pemimpin dengan tingkat kemenguntungkan (favorability) situasi.",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Tingkat kemenguntungkan situasi", "isCorrect": true },
+        { "text": "B. Warna seragam perusahaan", "isCorrect": false },
+        { "text": "C. Usia rata-rata bawahan", "isCorrect": false },
+        { "text": "D. Lokasi geografis kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori kepemimpinan yang menekankan bahwa pemimpin membantu pengikut mencapai tujuan dengan memperjelas jalur (path) menuju tujuan adalah?",
+      "explanation": "Teori jalur-tujuan (path-goal theory) menekankan peran pemimpin memperjelas jalur dan menghilangkan hambatan agar pengikut mencapai tujuan.",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Teori sifat", "isCorrect": false },
+        { "text": "B. Teori jalur-tujuan (path-goal)", "isCorrect": true },
+        { "text": "C. Teori otokratis", "isCorrect": false },
+        { "text": "D. Teori the great man", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori kepemimpinan klasik yang menganggap sejarah dibentuk oleh tokoh-tokoh besar berbakat disebut teori?",
+      "explanation": "Teori the great man (orang besar) menganggap pemimpin hebat lahir dengan bakat istimewa dan membentuk jalannya sejarah.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. The great man theory", "isCorrect": true },
+        { "text": "B. Teori perilaku", "isCorrect": false },
+        { "text": "C. Teori transaksional", "isCorrect": false },
+        { "text": "D. Teori kontingensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan perkembangan teori kepemimpinan dari yang paling awal hingga lebih modern secara umum adalah?",
+      "explanation": "Perkembangan teori kepemimpinan umumnya: teori sifat, lalu teori perilaku, kemudian teori situasional/kontingensi.",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Situasional, perilaku, sifat", "isCorrect": false },
+        { "text": "B. Sifat, perilaku, situasional", "isCorrect": true },
+        { "text": "C. Perilaku, sifat, situasional", "isCorrect": false },
+        { "text": "D. Situasional, sifat, perilaku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan transformasional terutama menekankan pada?",
+      "explanation": "Kepemimpinan transformasional menekankan inspirasi, visi, dan perubahan sehingga pengikut termotivasi melampaui kepentingan pribadi demi tujuan bersama.",
+      "difficulty": "MEDIUM",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Pertukaran imbalan atas kinerja", "isCorrect": false },
+        { "text": "B. Inspirasi, visi, dan perubahan", "isCorrect": true },
+        { "text": "C. Pengawasan kesalahan secara ketat", "isCorrect": false },
+        { "text": "D. Penghindaran keputusan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan transaksional berfokus pada?",
+      "explanation": "Kepemimpinan transaksional berfokus pada pertukaran (transaksi) antara pemimpin dan pengikut berupa imbalan atau hukuman atas kinerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Pertukaran imbalan dan hukuman atas kinerja", "isCorrect": true },
+        { "text": "B. Mengubah nilai-nilai pengikut", "isCorrect": false },
+        { "text": "C. Menanamkan visi jangka panjang", "isCorrect": false },
+        { "text": "D. Membiarkan anggota tanpa target", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen \"reward berdasarkan pencapaian target yang disepakati\" merupakan ciri kepemimpinan?",
+      "explanation": "Contingent reward (imbalan berdasarkan target yang disepakati) adalah komponen khas kepemimpinan transaksional.",
+      "difficulty": "MEDIUM",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Transformasional", "isCorrect": false },
+        { "text": "B. Transaksional", "isCorrect": true },
+        { "text": "C. Afiliatif", "isCorrect": false },
+        { "text": "D. Visioner murni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu komponen utama kepemimpinan transformasional menurut Bass adalah?",
+      "explanation": "Komponen transformasional (Bass) meliputi idealized influence, inspirational motivation, intellectual stimulation, dan individualized consideration.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Contingent reward", "isCorrect": false },
+        { "text": "B. Inspirational motivation", "isCorrect": true },
+        { "text": "C. Management by exception", "isCorrect": false },
+        { "text": "D. Laissez faire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen \"idealized influence\" pada kepemimpinan transformasional berarti pemimpin berperan sebagai?",
+      "explanation": "Idealized influence berarti pemimpin menjadi teladan/panutan (role model) yang dikagumi, dihormati, dan dipercaya pengikut.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Pengawas kesalahan", "isCorrect": false },
+        { "text": "B. Teladan/panutan yang dikagumi", "isCorrect": true },
+        { "text": "C. Pemberi hukuman", "isCorrect": false },
+        { "text": "D. Pencatat absensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen kepemimpinan transaksional di mana pemimpin hanya bertindak saat terjadi penyimpangan atau masalah disebut?",
+      "explanation": "Management by exception adalah komponen transaksional di mana pemimpin bertindak hanya ketika muncul penyimpangan atau kesalahan dari standar.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Management by exception", "isCorrect": true },
+        { "text": "B. Intellectual stimulation", "isCorrect": false },
+        { "text": "C. Idealized influence", "isCorrect": false },
+        { "text": "D. Inspirational motivation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara kepemimpinan transformasional dan transaksional adalah?",
+      "explanation": "Transformasional mengubah dan menginspirasi pengikut melampaui kepentingan diri, sedangkan transaksional menukar kinerja dengan imbalan/hukuman.",
+      "difficulty": "MEDIUM",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Keduanya identik", "isCorrect": false },
+        { "text": "B. Transformasional menginspirasi perubahan, transaksional menukar kinerja dengan imbalan", "isCorrect": true },
+        { "text": "C. Transformasional fokus pada hukuman saja", "isCorrect": false },
+        { "text": "D. Transaksional tidak melibatkan pengikut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komponen \"intellectual stimulation\" pada kepemimpinan transformasional mendorong pengikut untuk?",
+      "explanation": "Intellectual stimulation mendorong pengikut berpikir kritis, kreatif, dan menantang cara-cara lama dalam menyelesaikan masalah.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Mengikuti aturan tanpa bertanya", "isCorrect": false },
+        { "text": "B. Berpikir kritis dan kreatif", "isCorrect": true },
+        { "text": "C. Menunggu perintah selalu", "isCorrect": false },
+        { "text": "D. Menghindari inovasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang memperhatikan kebutuhan pengembangan tiap individu secara personal menunjukkan komponen transformasional?",
+      "explanation": "Individualized consideration adalah perhatian pemimpin pada kebutuhan pengembangan tiap individu sebagai mentor atau pembina.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Individualized consideration", "isCorrect": true },
+        { "text": "B. Contingent reward", "isCorrect": false },
+        { "text": "C. Management by exception", "isCorrect": false },
+        { "text": "D. Laissez faire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan paling mendasar antara pemimpin (leader) dan manajer (manager) adalah?",
+      "explanation": "Manajer mengelola dan menjaga sistem berjalan (doing things right), sedangkan pemimpin memberi arah dan menciptakan perubahan (doing the right things).",
+      "difficulty": "MEDIUM",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Keduanya sama persis", "isCorrect": false },
+        { "text": "B. Pemimpin menciptakan arah/perubahan, manajer menjaga sistem berjalan", "isCorrect": true },
+        { "text": "C. Pemimpin hanya mengatur anggaran", "isCorrect": false },
+        { "text": "D. Manajer tidak punya bawahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ungkapan klasik \"managers do things right, leaders do the right things\" menggambarkan bahwa pemimpin lebih menekankan pada?",
+      "explanation": "Pemimpin menekankan melakukan hal yang benar (efektivitas/arah), sedangkan manajer menekankan melakukan hal dengan benar (efisiensi/prosedur).",
+      "difficulty": "MEDIUM",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Efisiensi prosedur", "isCorrect": false },
+        { "text": "B. Melakukan hal yang benar (arah dan efektivitas)", "isCorrect": true },
+        { "text": "C. Mengisi formulir administratif", "isCorrect": false },
+        { "text": "D. Mengatur jam istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber pengaruh seorang manajer umumnya berasal dari?",
+      "explanation": "Manajer memperoleh pengaruh dari otoritas formal/jabatan, sedangkan pemimpin dapat memengaruhi tanpa harus memiliki jabatan formal.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Otoritas formal/jabatan", "isCorrect": true },
+        { "text": "B. Karisma semata", "isCorrect": false },
+        { "text": "C. Kekuatan fisik", "isCorrect": false },
+        { "text": "D. Tidak ada sumber pengaruh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang hubungan kepemimpinan dan manajemen?",
+      "explanation": "Seseorang bisa menjadi manajer tanpa menjadi pemimpin yang baik, dan seseorang bisa menjadi pemimpin tanpa jabatan manajerial; keduanya idealnya saling melengkapi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Setiap manajer pasti pemimpin yang baik", "isCorrect": false },
+        { "text": "B. Pemimpin dan manajer adalah peran yang dapat berbeda namun saling melengkapi", "isCorrect": true },
+        { "text": "C. Pemimpin tidak boleh menjadi manajer", "isCorrect": false },
+        { "text": "D. Manajemen tidak perlu kepemimpinan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Orientasi waktu yang umumnya lebih kuat pada seorang pemimpin dibanding manajer adalah?",
+      "explanation": "Pemimpin cenderung berorientasi jangka panjang dan visioner, sedangkan manajer cenderung berorientasi jangka pendek dan operasional.",
+      "difficulty": "HARD",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Visi jangka panjang", "isCorrect": true },
+        { "text": "B. Laporan harian saja", "isCorrect": false },
+        { "text": "C. Hanya masa lalu", "isCorrect": false },
+        { "text": "D. Tidak ada orientasi waktu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manajer biasanya bertanya \"bagaimana dan kapan\", sedangkan pemimpin lebih sering bertanya?",
+      "explanation": "Pemimpin cenderung bertanya \"apa dan mengapa\" untuk menantang status quo, sementara manajer fokus pada \"bagaimana dan kapan\".",
+      "difficulty": "HARD",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. \"Apa dan mengapa\"", "isCorrect": true },
+        { "text": "B. \"Berapa lembur\"", "isCorrect": false },
+        { "text": "C. \"Siapa yang absen\"", "isCorrect": false },
+        { "text": "D. \"Di mana parkir\"", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang efektif menurut materi harus memiliki sikap untuk terus?",
+      "explanation": "Pemimpin efektif harus terus berinovasi dalam membangun nilai dan penerapannya dalam bisnis, tidak terpaku pada cara konvensional.",
+      "difficulty": "EASY",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Berpaku pada cara lama", "isCorrect": false },
+        { "text": "B. Berinovasi membangun nilai dalam bisnis", "isCorrect": true },
+        { "text": "C. Menghindari perubahan", "isCorrect": false },
+        { "text": "D. Mengabaikan tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu peran pemimpin efektif terhadap visi perusahaan adalah?",
+      "explanation": "Pemimpin efektif harus menginspirasi dan memotivasi semua orang dalam perusahaan untuk mencapai visi bersama.",
+      "difficulty": "EASY",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Menyimpan visi untuk diri sendiri", "isCorrect": false },
+        { "text": "B. Menginspirasi semua orang mencapai visi bersama", "isCorrect": true },
+        { "text": "C. Mengabaikan tujuan jangka panjang", "isCorrect": false },
+        { "text": "D. Membatasi informasi visi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agar dapat menggerakkan timnya, pemimpin yang efektif sebaiknya menjadi?",
+      "explanation": "Pemimpin efektif harus menjadi teladan (role model) yang baik bagi para pekerjanya dan memotivasi mereka meningkatkan kemampuan dan kinerja.",
+      "difficulty": "EASY",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Teladan yang baik bagi pekerja", "isCorrect": true },
+        { "text": "B. Penonton pasif", "isCorrect": false },
+        { "text": "C. Pengkritik tanpa solusi", "isCorrect": false },
+        { "text": "D. Sosok yang tidak hadir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kemampuan memahami dan mengelola perasaan diri sendiri serta orang lain disebut?",
+      "explanation": "Kecerdasan emosional (emotional intelligence) adalah kemampuan memahami dan mengelola emosi diri sendiri serta orang lain; pemimpin efektif perlu memilikinya tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Kecerdasan emosional", "isCorrect": true },
+        { "text": "B. Kecerdasan finansial", "isCorrect": false },
+        { "text": "C. Kecerdasan spasial", "isCorrect": false },
+        { "text": "D. Kecepatan fisik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin dengan kecerdasan emosional tinggi mampu untuk?",
+      "explanation": "Pemimpin dengan kecerdasan emosional tinggi mampu memahami perasaan tiap pekerja, menghargainya, dan membangun hubungan yang baik.",
+      "difficulty": "MEDIUM",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Mengabaikan perasaan pekerja", "isCorrect": false },
+        { "text": "B. Memahami perasaan pekerja dan membangun hubungan baik", "isCorrect": true },
+        { "text": "C. Hanya fokus pada angka", "isCorrect": false },
+        { "text": "D. Menjaga jarak dari semua orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memberi akses informasi dan memberdayakan pekerja agar bekerja dengan seluruh kemampuannya disebut?",
+      "explanation": "Pemberdayaan (empowerment) berarti memungkinkan anggota bertindak dengan memberi akses informasi dan keleluasaan untuk bekerja optimal.",
+      "difficulty": "MEDIUM",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Pemberdayaan (empowerment) tim", "isCorrect": true },
+        { "text": "B. Mikromanajemen", "isCorrect": false },
+        { "text": "C. Sentralisasi penuh", "isCorrect": false },
+        { "text": "D. Pembatasan informasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang memberdayakan pekerjanya berarti?",
+      "explanation": "Memberdayakan berarti memungkinkan para anggota bertindak dengan memberi akses informasi dan ruang untuk menggunakan seluruh kemampuan mereka.",
+      "difficulty": "MEDIUM",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Mengontrol setiap langkah kecil", "isCorrect": false },
+        { "text": "B. Memberi akses informasi dan keleluasaan bekerja", "isCorrect": true },
+        { "text": "C. Menutup akses data", "isCorrect": false },
+        { "text": "D. Melarang pengambilan keputusan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa inovasi penting bagi seorang pemimpin yang efektif?",
+      "explanation": "Inovasi penting agar pemimpin terus membangun nilai dan penerapannya dalam bisnis, tidak terus berpaku pada cara konvensional yang mungkin usang.",
+      "difficulty": "MEDIUM",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Agar terlihat sibuk", "isCorrect": false },
+        { "text": "B. Agar terus membangun nilai dan tidak terpaku cara lama", "isCorrect": true },
+        { "text": "C. Agar mengurangi tanggung jawab", "isCorrect": false },
+        { "text": "D. Agar menghindari pengambilan keputusan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penerapan prinsip kepemimpinan untuk membangun budaya keselamatan di tempat kerja dikenal sebagai?",
+      "explanation": "Safety leadership adalah kepemimpinan yang berfokus pada keselamatan, yaitu menggerakkan dan memengaruhi pekerja agar berperilaku aman.",
+      "difficulty": "EASY",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Safety leadership", "isCorrect": true },
+        { "text": "B. Safety audit", "isCorrect": false },
+        { "text": "C. Safety patrol", "isCorrect": false },
+        { "text": "D. Safety sign", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu peran kunci pemimpin dalam membangun budaya keselamatan (safety culture) adalah?",
+      "explanation": "Pemimpin harus menjadi role model perilaku aman karena keteladanan pimpinan sangat memengaruhi perilaku keselamatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Menjadi teladan perilaku aman (role model)", "isCorrect": true },
+        { "text": "B. Mengabaikan pelanggaran K3", "isCorrect": false },
+        { "text": "C. Menyerahkan K3 sepenuhnya ke pekerja", "isCorrect": false },
+        { "text": "D. Melarang pelaporan insiden", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Komitmen manajemen puncak terhadap K3 dalam safety leadership penting karena?",
+      "explanation": "Komitmen pimpinan puncak menjadi penentu arah dan sumber daya program K3, serta menunjukkan keseriusan organisasi terhadap keselamatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Tidak berpengaruh pada pekerja", "isCorrect": false },
+        { "text": "B. Menentukan arah, sumber daya, dan keseriusan program K3", "isCorrect": true },
+        { "text": "C. Hanya formalitas tanpa dampak", "isCorrect": false },
+        { "text": "D. Menambah beban tanpa manfaat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan transformasional dianggap efektif dalam K3 karena mampu?",
+      "explanation": "Kepemimpinan transformasional efektif dalam K3 karena menginspirasi pekerja untuk peduli keselamatan melampaui sekadar kepatuhan terhadap aturan.",
+      "difficulty": "HARD",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Menumbuhkan kepedulian keselamatan melampaui kepatuhan", "isCorrect": true },
+        { "text": "B. Menghapus semua prosedur K3", "isCorrect": false },
+        { "text": "C. Mengandalkan hukuman semata", "isCorrect": false },
+        { "text": "D. Mengabaikan partisipasi pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang safety leader yang baik akan mendorong pekerja untuk?",
+      "explanation": "Safety leader yang baik mendorong pekerja melaporkan kondisi tidak aman dan near miss tanpa takut disalahkan, sehingga bahaya cepat tertangani.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Menyembunyikan insiden", "isCorrect": false },
+        { "text": "B. Melaporkan kondisi tidak aman dan near miss", "isCorrect": true },
+        { "text": "C. Mengabaikan APD", "isCorrect": false },
+        { "text": "D. Bekerja melebihi batas demi target", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan gaya otokratis dalam konteks K3 paling tepat ketika?",
+      "explanation": "Gaya otokratis tepat saat keadaan darurat/krisis K3 yang memerlukan keputusan cepat dan tegas, misalnya evakuasi saat kebakaran.",
+      "difficulty": "HARD",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Diskusi panjang tentang kebijakan", "isCorrect": false },
+        { "text": "B. Keadaan darurat yang butuh keputusan cepat", "isCorrect": true },
+        { "text": "C. Pelatihan rutin biasa", "isCorrect": false },
+        { "text": "D. Penyusunan anggaran tahunan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator keberhasilan safety leadership di lapangan antara lain?",
+      "explanation": "Keberhasilan safety leadership terlihat dari meningkatnya kepatuhan K3, partisipasi pekerja, dan menurunnya angka kecelakaan serta near miss.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Naiknya angka kecelakaan", "isCorrect": false },
+        { "text": "B. Meningkatnya kepatuhan K3 dan menurunnya kecelakaan", "isCorrect": true },
+        { "text": "C. Menurunnya pelaporan insiden karena ditutupi", "isCorrect": false },
+        { "text": "D. Berkurangnya pelatihan K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang gaya kepemimpinan otokratis adalah?",
+      "explanation": "Otokratis memusatkan keputusan pada pemimpin dengan kontrol ketat; cepat dalam krisis tetapi dapat menekan partisipasi dan kreativitas anggota.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Selalu meningkatkan partisipasi anggota", "isCorrect": false },
+        { "text": "B. Cepat dalam krisis namun dapat menekan partisipasi", "isCorrect": true },
+        { "text": "C. Tidak pernah cocok untuk situasi apa pun", "isCorrect": false },
+        { "text": "D. Identik dengan laissez faire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelebihan utama gaya kepemimpinan demokratis adalah?",
+      "explanation": "Kelebihan gaya demokratis adalah menumbuhkan komitmen, kreativitas, dan kepuasan anggota karena mereka dilibatkan dalam pengambilan keputusan.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Keputusan paling cepat di antara semua gaya", "isCorrect": false },
+        { "text": "B. Menumbuhkan komitmen dan kepuasan anggota", "isCorrect": true },
+        { "text": "C. Tidak memerlukan komunikasi", "isCorrect": false },
+        { "text": "D. Meniadakan peran pemimpin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelemahan gaya kepemimpinan demokratis dalam situasi mendesak adalah?",
+      "explanation": "Gaya demokratis cenderung lambat dalam pengambilan keputusan saat darurat karena memerlukan diskusi dan konsensus.",
+      "difficulty": "HARD",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Pengambilan keputusan bisa lambat saat darurat", "isCorrect": true },
+        { "text": "B. Mengabaikan pendapat anggota", "isCorrect": false },
+        { "text": "C. Terlalu otoriter", "isCorrect": false },
+        { "text": "D. Tidak melibatkan tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pemimpin yang menyesuaikan gayanya dari telling menjadi delegating seiring matangnya tim menerapkan pendekatan?",
+      "explanation": "Penyesuaian gaya sesuai kematangan tim adalah inti pendekatan kepemimpinan situasional (Hersey-Blanchard).",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Kepemimpinan situasional", "isCorrect": true },
+        { "text": "B. Teori sifat", "isCorrect": false },
+        { "text": "C. The great man theory", "isCorrect": false },
+        { "text": "D. Kepemimpinan otokratis murni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepemimpinan karismatik bertumpu pada?",
+      "explanation": "Kepemimpinan karismatik bertumpu pada daya tarik pribadi (karisma) pemimpin yang membuat pengikut kagum, percaya, dan ingin meneladani.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Daya tarik pribadi (karisma) pemimpin", "isCorrect": true },
+        { "text": "B. Besarnya anggaran", "isCorrect": false },
+        { "text": "C. Sistem absensi", "isCorrect": false },
+        { "text": "D. Ukuran kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepemimpinan yang menempatkan kepentingan dan pengembangan pengikut di atas kepentingan diri pemimpin disebut?",
+      "explanation": "Servant leadership (kepemimpinan yang melayani) menempatkan kebutuhan dan pengembangan pengikut sebagai prioritas utama pemimpin.",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Servant leadership", "isCorrect": true },
+        { "text": "B. Otokratis", "isCorrect": false },
+        { "text": "C. Transaksional", "isCorrect": false },
+        { "text": "D. Laissez faire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Motivasi memengaruhi orang lain merupakan bagian inti dari definisi kepemimpinan karena tanpa pengaruh maka?",
+      "explanation": "Tanpa kemampuan memengaruhi dan memotivasi, seseorang tidak dapat menggerakkan orang lain mencapai tujuan, sehingga tidak terjadi kepemimpinan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengertian & Konsep Dasar",
+      "options": [
+        { "text": "A. Tujuan organisasi tetap tercapai sendiri", "isCorrect": false },
+        { "text": "B. Tidak terjadi penggerakan orang menuju tujuan", "isCorrect": true },
+        { "text": "C. Pemimpin makin kuat", "isCorrect": false },
+        { "text": "D. Tim semakin termotivasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari proses kepemimpinan dalam organisasi adalah?",
+      "explanation": "Tujuan akhir kepemimpinan adalah membuat orang lain berkontribusi terhadap kesuksesan dan efektivitas organisasi dalam mencapai tujuannya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Konsep Dasar",
+      "options": [
+        { "text": "A. Pencapaian tujuan organisasi", "isCorrect": true },
+        { "text": "B. Kepuasan pribadi pemimpin", "isCorrect": false },
+        { "text": "C. Menambah jumlah aturan", "isCorrect": false },
+        { "text": "D. Memperbanyak rapat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Self leadership menjadi fondasi penting karena?",
+      "explanation": "Self leadership penting karena seseorang yang mampu memimpin dirinya sendiri lebih siap memimpin orang lain dan tidak mudah gagal dalam menjalani hidup.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Berdasarkan Lingkup",
+      "options": [
+        { "text": "A. Tidak berkaitan dengan memimpin orang lain", "isCorrect": false },
+        { "text": "B. Menjadi dasar sebelum memimpin orang lain", "isCorrect": true },
+        { "text": "C. Hanya untuk pemimpin organisasi besar", "isCorrect": false },
+        { "text": "D. Hanya soal mengatur keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin demokratis yang mendelegasikan otoritas berarti ia?",
+      "explanation": "Mendelegasikan otoritas berarti pemimpin membagi sebagian kewenangan pengambilan keputusan kepada anggota tim untuk berpartisipasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Mempertahankan semua keputusan untuk diri sendiri", "isCorrect": false },
+        { "text": "B. Membagi kewenangan keputusan kepada anggota", "isCorrect": true },
+        { "text": "C. Menghapus seluruh aturan", "isCorrect": false },
+        { "text": "D. Memberi ancaman kepada anggota", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin afiliatif sangat berperan ketika tim sedang mengalami?",
+      "explanation": "Pemimpin afiliatif sangat berperan saat tim mengalami konflik atau penurunan moral karena ia membangun hubungan dan menyelesaikan konflik antar anggota.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Konflik antar anggota atau penurunan moral", "isCorrect": true },
+        { "text": "B. Kondisi sangat stabil tanpa masalah", "isCorrect": false },
+        { "text": "C. Krisis keuangan ekstrem", "isCorrect": false },
+        { "text": "D. Tidak ada tim sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin visioner berpegang teguh pada visi dan mendorong anggotanya untuk?",
+      "explanation": "Pemimpin visioner mendorong anggotanya menjalankan tugas selaras dengan tujuan besar (visi) yang ingin dicapai bersama.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Bekerja selaras dengan tujuan besar bersama", "isCorrect": true },
+        { "text": "B. Mengabaikan visi organisasi", "isCorrect": false },
+        { "text": "C. Bekerja tanpa arah", "isCorrect": false },
+        { "text": "D. Menentang tujuan organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk empat gaya kepemimpinan menurut materi (berdasarkan pendekatan)?",
+      "explanation": "Empat gaya yang dibahas dalam materi adalah demokratis, otokratis, afiliatif, dan visioner.",
+      "difficulty": "EASY",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Demokratis, otokratis, afiliatif, visioner", "isCorrect": true },
+        { "text": "B. Sifat, perilaku, situasi, atribusi", "isCorrect": false },
+        { "text": "C. Telling, selling, participating, delegating", "isCorrect": false },
+        { "text": "D. Verbal, nonverbal, visual, tertulis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang efektif memandang kegagalan anggota sebaiknya sebagai?",
+      "explanation": "Pemimpin efektif yang berempati dan memberdayakan memandang kegagalan sebagai peluang belajar, bukan semata bahan hukuman.",
+      "difficulty": "MEDIUM",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Peluang belajar dan perbaikan", "isCorrect": true },
+        { "text": "B. Alasan langsung untuk memecat", "isCorrect": false },
+        { "text": "C. Hal yang harus disembunyikan", "isCorrect": false },
+        { "text": "D. Sesuatu yang diabaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam teori perilaku, dua dimensi perilaku pemimpin yang banyak dikaji adalah?",
+      "explanation": "Studi Ohio State mengidentifikasi dua dimensi perilaku pemimpin: initiating structure (orientasi tugas) dan consideration (orientasi hubungan).",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Initiating structure dan consideration", "isCorrect": true },
+        { "text": "B. Karisma dan transaksi", "isCorrect": false },
+        { "text": "C. Sifat dan situasi", "isCorrect": false },
+        { "text": "D. Visi dan misi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan kepemimpinan yang menyatakan tidak ada satu gaya terbaik untuk semua situasi disebut pendekatan?",
+      "explanation": "Pendekatan kontingensi/situasional menyatakan tidak ada satu gaya terbaik; efektivitas bergantung pada faktor situasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Pendekatan kontingensi/situasional", "isCorrect": true },
+        { "text": "B. Pendekatan sifat murni", "isCorrect": false },
+        { "text": "C. The great man theory", "isCorrect": false },
+        { "text": "D. Pendekatan karismatik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada gaya 'telling' (directing) dalam kepemimpinan situasional, pemimpin paling cocok untuk pengikut yang?",
+      "explanation": "Gaya telling cocok untuk pengikut dengan kematangan rendah (kurang mampu dan kurang mau) sehingga butuh arahan dan instruksi jelas.",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Sangat ahli dan mandiri", "isCorrect": false },
+        { "text": "B. Berkematangan rendah dan butuh banyak arahan", "isCorrect": true },
+        { "text": "C. Tidak memerlukan pemimpin", "isCorrect": false },
+        { "text": "D. Berpengalaman dan termotivasi tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada gaya 'delegating' dalam kepemimpinan situasional, pemimpin cocok diterapkan untuk pengikut yang?",
+      "explanation": "Gaya delegating cocok untuk pengikut dengan kematangan tinggi (mampu dan mau) sehingga pemimpin dapat menyerahkan tanggung jawab kepada mereka.",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Berkematangan tinggi (mampu dan mau)", "isCorrect": true },
+        { "text": "B. Baru dan belum terampil", "isCorrect": false },
+        { "text": "C. Tidak termotivasi sama sekali", "isCorrect": false },
+        { "text": "D. Selalu butuh perintah detail", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepemimpinan transaksional cenderung mempertahankan keadaan yang ada (status quo), sedangkan transformasional cenderung?",
+      "explanation": "Transaksional mempertahankan status quo melalui pertukaran imbalan, sedangkan transformasional mendorong perubahan dan inovasi.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Mendorong perubahan dan inovasi", "isCorrect": true },
+        { "text": "B. Menolak semua perubahan", "isCorrect": false },
+        { "text": "C. Mengabaikan tujuan organisasi", "isCorrect": false },
+        { "text": "D. Hanya memberi hukuman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang manajer berfokus pada mengorganisasi sumber daya dan menjaga ketertiban, sedangkan pemimpin lebih berfokus pada?",
+      "explanation": "Pemimpin berfokus pada memberi inspirasi, menetapkan arah/visi, dan menggerakkan perubahan, bukan sekadar menjaga ketertiban operasional.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Mengisi dokumen rutin", "isCorrect": false },
+        { "text": "B. Menetapkan arah/visi dan menginspirasi perubahan", "isCorrect": true },
+        { "text": "C. Mengatur stok gudang", "isCorrect": false },
+        { "text": "D. Mengabaikan tujuan organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepemimpinan dan manajemen idealnya?",
+      "explanation": "Idealnya kepemimpinan dan manajemen berjalan saling melengkapi; organisasi sehat memerlukan keduanya secara seimbang.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Saling bertentangan dan tidak boleh ada bersamaan", "isCorrect": false },
+        { "text": "B. Saling melengkapi dan dibutuhkan bersama", "isCorrect": true },
+        { "text": "C. Tidak ada hubungan sama sekali", "isCorrect": false },
+        { "text": "D. Hanya salah satu yang diperlukan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin K3 yang konsisten menegakkan aturan keselamatan namun tetap mendengarkan masukan pekerja menggabungkan gaya?",
+      "explanation": "Menegakkan aturan secara konsisten sekaligus mendengarkan masukan mencerminkan perpaduan ketegasan dan demokratis/partisipatif dalam safety leadership.",
+      "difficulty": "HARD",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Ketegasan dan partisipatif (demokratis)", "isCorrect": true },
+        { "text": "B. Laissez faire dan abai", "isCorrect": false },
+        { "text": "C. Pasif dan menghindar", "isCorrect": false },
+        { "text": "D. Otoriter tanpa komunikasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara safety leader menumbuhkan partisipasi pekerja dalam K3 adalah?",
+      "explanation": "Safety leader menumbuhkan partisipasi dengan melibatkan pekerja dalam identifikasi bahaya dan menghargai laporan serta usulan keselamatan mereka.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Melibatkan pekerja dalam identifikasi bahaya", "isCorrect": true },
+        { "text": "B. Melarang pekerja berpendapat", "isCorrect": false },
+        { "text": "C. Menyembunyikan data kecelakaan", "isCorrect": false },
+        { "text": "D. Mengabaikan usulan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang hanya peduli pada target produksi dan mengabaikan keselamatan menunjukkan lemahnya?",
+      "explanation": "Mengabaikan keselamatan demi produksi menunjukkan lemahnya safety leadership dan komitmen K3 dari pimpinan.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Komitmen safety leadership", "isCorrect": true },
+        { "text": "B. Kemampuan finansial", "isCorrect": false },
+        { "text": "C. Keterampilan teknis", "isCorrect": false },
+        { "text": "D. Penguasaan bahasa asing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang sukses menanamkan nilai keselamatan sebagai bagian dari identitas organisasi telah membangun?",
+      "explanation": "Menanamkan nilai keselamatan sebagai bagian identitas organisasi berarti membangun budaya keselamatan (safety culture) yang kuat.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Budaya keselamatan (safety culture)", "isCorrect": true },
+        { "text": "B. Hambatan komunikasi", "isCorrect": false },
+        { "text": "C. Konflik internal", "isCorrect": false },
+        { "text": "D. Birokrasi berlebih", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang mendelegasikan keputusan keselamatan rutin kepada tim K3 yang sudah berpengalaman menerapkan prinsip?",
+      "explanation": "Mendelegasikan keputusan kepada tim yang sudah mampu mencerminkan pemberdayaan (empowerment) sekaligus gaya delegatif sesuai kematangan tim.",
+      "difficulty": "HARD",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Pemberdayaan/delegasi pada tim yang matang", "isCorrect": true },
+        { "text": "B. Mikromanajemen ketat", "isCorrect": false },
+        { "text": "C. Pengabaian tanggung jawab K3", "isCorrect": false },
+        { "text": "D. Sentralisasi penuh keputusan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Karakteristik pemimpin efektif terkait keteladanan dapat dirangkum sebagai?",
+      "explanation": "Pemimpin efektif menjadi teladan (role model) bagi pekerja sekaligus memotivasi mereka meningkatkan kemampuan dan kinerja.",
+      "difficulty": "EASY",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Menjadi teladan dan memotivasi peningkatan kinerja", "isCorrect": true },
+        { "text": "B. Menjaga jarak dari semua pekerja", "isCorrect": false },
+        { "text": "C. Tidak peduli kinerja tim", "isCorrect": false },
+        { "text": "D. Menghindari tanggung jawab", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang menghargai perasaan anggota dan membangun hubungan baik menunjukkan tingginya?",
+      "explanation": "Menghargai perasaan anggota dan membangun hubungan baik adalah cerminan tingginya kecerdasan emosional pemimpin.",
+      "difficulty": "MEDIUM",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Kecerdasan emosional", "isCorrect": true },
+        { "text": "B. Kekuatan fisik", "isCorrect": false },
+        { "text": "C. Kecepatan mengetik", "isCorrect": false },
+        { "text": "D. Penguasaan akuntansi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan afiliatif paling menonjolkan orientasi pada?",
+      "explanation": "Gaya afiliatif menonjolkan orientasi pada hubungan dan harmoni antar manusia (people-oriented), bukan semata tugas.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Hubungan dan harmoni antar anggota", "isCorrect": true },
+        { "text": "B. Tugas dan target semata", "isCorrect": false },
+        { "text": "C. Hukuman dan ancaman", "isCorrect": false },
+        { "text": "D. Pengabaian anggota", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan ciri pemimpin demokratis?",
+      "explanation": "Memberikan ancaman kepada bawahan adalah ciri pemimpin otokratis, bukan demokratis. Pemimpin demokratis mendengarkan dan melibatkan anggota.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Memberikan ancaman kepada bawahan", "isCorrect": true },
+        { "text": "B. Pendengar yang baik", "isCorrect": false },
+        { "text": "C. Menghargai masukan anggota", "isCorrect": false },
+        { "text": "D. Pekerja tim yang baik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN termasuk jenis kepemimpinan berdasarkan lingkup?",
+      "explanation": "Kepemimpinan transaksional adalah gaya/pendekatan, bukan jenis berdasarkan lingkup. Lingkup mencakup self, team, dan organizational leadership.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Berdasarkan Lingkup",
+      "options": [
+        { "text": "A. Self leadership", "isCorrect": false },
+        { "text": "B. Team leadership", "isCorrect": false },
+        { "text": "C. Kepemimpinan transaksional", "isCorrect": true },
+        { "text": "D. Organizational leadership", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin transformasional dalam K3 akan menempatkan keselamatan sebagai?",
+      "explanation": "Pemimpin transformasional menjadikan keselamatan sebagai nilai dan visi bersama, bukan sekadar kewajiban dengan imbalan-hukuman.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Nilai dan visi bersama", "isCorrect": true },
+        { "text": "B. Beban yang harus dihindari", "isCorrect": false },
+        { "text": "C. Urusan masing-masing pekerja saja", "isCorrect": false },
+        { "text": "D. Hal yang tidak penting", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang supervisor yang memberi bonus kepada tim yang nihil kecelakaan dalam sebulan menerapkan komponen kepemimpinan?",
+      "explanation": "Memberi bonus atas pencapaian (nihil kecelakaan) adalah contingent reward, ciri kepemimpinan transaksional.",
+      "difficulty": "MEDIUM",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Transaksional (contingent reward)", "isCorrect": true },
+        { "text": "B. Idealized influence", "isCorrect": false },
+        { "text": "C. Intellectual stimulation", "isCorrect": false },
+        { "text": "D. Laissez faire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengaruh seorang pemimpin yang tidak memegang jabatan formal namun dihormati dan diikuti disebut pemimpin?",
+      "explanation": "Pemimpin informal adalah orang yang memengaruhi dan diikuti tanpa memegang otoritas jabatan formal, berbeda dari manajer formal.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Pemimpin informal", "isCorrect": true },
+        { "text": "B. Manajer puncak", "isCorrect": false },
+        { "text": "C. Direktur formal", "isCorrect": false },
+        { "text": "D. Supervisor administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi utama manajemen yang umumnya tidak menjadi fokus utama seorang pemimpin adalah?",
+      "explanation": "Fungsi manajemen seperti perencanaan rinci, pengorganisasian, dan pengendalian operasional lebih melekat pada manajer; pemimpin lebih fokus pada arah dan motivasi.",
+      "difficulty": "HARD",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Pengendalian dan pengorganisasian operasional rinci", "isCorrect": true },
+        { "text": "B. Menetapkan visi", "isCorrect": false },
+        { "text": "C. Menginspirasi tim", "isCorrect": false },
+        { "text": "D. Menggerakkan perubahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gaya kepemimpinan visioner berbeda dari afiliatif karena visioner lebih menekankan?",
+      "explanation": "Visioner lebih menekankan tujuan/visi besar dan arah masa depan, sedangkan afiliatif lebih menekankan harmoni dan hubungan antar anggota.",
+      "difficulty": "HARD",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Visi dan arah masa depan", "isCorrect": true },
+        { "text": "B. Hukuman bagi pelanggar", "isCorrect": false },
+        { "text": "C. Pengawasan ketat", "isCorrect": false },
+        { "text": "D. Ketiadaan tujuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin otokratis memegang kontrol ketat sehingga pengambilan keputusan menjadi?",
+      "explanation": "Karena kekuasaan terpusat, keputusan pemimpin otokratis cenderung cepat namun kurang melibatkan partisipasi anggota.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Cepat namun kurang partisipatif", "isCorrect": true },
+        { "text": "B. Lambat dan sangat partisipatif", "isCorrect": false },
+        { "text": "C. Tidak pernah terjadi", "isCorrect": false },
+        { "text": "D. Selalu didelegasikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inti perbedaan teori sifat dan teori perilaku terletak pada fokus terhadap?",
+      "explanation": "Teori sifat fokus pada siapa pemimpin (karakter bawaan), sedangkan teori perilaku fokus pada apa yang dilakukan pemimpin (tindakan).",
+      "difficulty": "HARD",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Karakter bawaan vs tindakan pemimpin", "isCorrect": true },
+        { "text": "B. Gaji vs jabatan", "isCorrect": false },
+        { "text": "C. Usia vs gender", "isCorrect": false },
+        { "text": "D. Lokasi vs waktu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pemimpin yang menanamkan ideologi dan menumbuhkan rasa memiliki tugas pada anggota tim sedang menjalankan fungsi kepemimpinan dalam hal?",
+      "explanation": "Menanamkan ideologi dan menumbuhkan rasa memiliki tugas berkaitan dengan membangun komitmen dan budaya, ciri kepemimpinan yang menginspirasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Membangun komitmen dan rasa memiliki tim", "isCorrect": true },
+        { "text": "B. Menghindari komunikasi", "isCorrect": false },
+        { "text": "C. Mengurangi motivasi anggota", "isCorrect": false },
+        { "text": "D. Memperlemah budaya organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan yang tepat antara gaya kepemimpinan dan situasi penerapannya?",
+      "explanation": "Otokratis cocok saat krisis, demokratis saat butuh partisipasi, visioner saat butuh perubahan/visi baru, afiliatif saat ada konflik tim.",
+      "difficulty": "HARD",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Otokratis - saat krisis mendesak", "isCorrect": true },
+        { "text": "B. Demokratis - saat darurat butuh keputusan instan", "isCorrect": false },
+        { "text": "C. Visioner - saat tidak ada perubahan apa pun", "isCorrect": false },
+        { "text": "D. Afiliatif - saat butuh kontrol ketat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep dasar kepemimpinan menyatakan bahwa pemimpin membuat orang lain berkontribusi terhadap?",
+      "explanation": "Kepemimpinan membuat orang lain berkontribusi terhadap kesuksesan dan efektivitas organisasi dalam mencapai tujuannya.",
+      "difficulty": "EASY",
+      "tag": "Pengertian & Konsep Dasar",
+      "options": [
+        { "text": "A. Kesuksesan dan efektivitas organisasi", "isCorrect": true },
+        { "text": "B. Keuntungan pribadi pemimpin", "isCorrect": false },
+        { "text": "C. Penambahan birokrasi", "isCorrect": false },
+        { "text": "D. Pengurangan komunikasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang memberi kebebasan penuh namun tetap bertanggung jawab atas hasil akhir tim adalah ciri penerapan yang seimbang dari gaya?",
+      "explanation": "Laissez faire memberi kebebasan penuh kepada tim, namun pemimpin yang bijak tetap memegang tanggung jawab atas hasil akhir.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Laissez faire", "isCorrect": true },
+        { "text": "B. Otokratis", "isCorrect": false },
+        { "text": "C. Transaksional ketat", "isCorrect": false },
+        { "text": "D. Koersif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat penerapan kepemimpinan demokratis dalam program K3 adalah?",
+      "explanation": "Kepemimpinan demokratis dalam K3 meningkatkan partisipasi pekerja sehingga identifikasi bahaya lebih lengkap dan komitmen keselamatan lebih kuat.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Meningkatkan partisipasi dan komitmen K3 pekerja", "isCorrect": true },
+        { "text": "B. Menutup saluran pelaporan bahaya", "isCorrect": false },
+        { "text": "C. Mengurangi keterlibatan pekerja", "isCorrect": false },
+        { "text": "D. Menghapus prosedur keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang mengembangkan kemampuan diri sendiri sebelum memimpin orang lain telah menjalankan?",
+      "explanation": "Mengembangkan diri sendiri sebelum memimpin orang lain merupakan inti dari self leadership.",
+      "difficulty": "EASY",
+      "tag": "Jenis Berdasarkan Lingkup",
+      "options": [
+        { "text": "A. Self leadership", "isCorrect": true },
+        { "text": "B. Organizational leadership", "isCorrect": false },
+        { "text": "C. Kepemimpinan otokratis", "isCorrect": false },
+        { "text": "D. Kepemimpinan transaksional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin transaksional yang memantau pekerjaan dan menindak hanya bila ada kesalahan menerapkan?",
+      "explanation": "Memantau dan menindak hanya saat terjadi kesalahan adalah management by exception, komponen kepemimpinan transaksional.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Management by exception", "isCorrect": true },
+        { "text": "B. Inspirational motivation", "isCorrect": false },
+        { "text": "C. Individualized consideration", "isCorrect": false },
+        { "text": "D. Idealized influence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam organisasi modern, kombinasi terbaik sering kali adalah pemimpin yang juga?",
+      "explanation": "Kombinasi ideal adalah sosok yang mampu memimpin (arah, inspirasi) sekaligus mengelola (perencanaan, pengendalian) secara seimbang.",
+      "difficulty": "MEDIUM",
+      "tag": "Pemimpin vs Manajer",
+      "options": [
+        { "text": "A. Mampu mengelola (manajemen) dengan baik", "isCorrect": true },
+        { "text": "B. Menolak semua fungsi manajemen", "isCorrect": false },
+        { "text": "C. Mengabaikan visi", "isCorrect": false },
+        { "text": "D. Tidak peduli pada tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang mendorong anggotanya menantang asumsi lama dan mencari solusi kreatif paling sesuai dengan komponen?",
+      "explanation": "Mendorong anggota menantang asumsi lama dan berpikir kreatif adalah intellectual stimulation pada kepemimpinan transformasional.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Intellectual stimulation", "isCorrect": true },
+        { "text": "B. Contingent reward", "isCorrect": false },
+        { "text": "C. Management by exception", "isCorrect": false },
+        { "text": "D. Laissez faire", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin efektif sebaiknya menghindari sikap?",
+      "explanation": "Pemimpin efektif harus berinovasi dan tidak terus berpaku pada cara-cara konvensional yang dapat menghambat kemajuan.",
+      "difficulty": "EASY",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Berpaku terus pada cara konvensional", "isCorrect": true },
+        { "text": "B. Berinovasi", "isCorrect": false },
+        { "text": "C. Menginspirasi tim", "isCorrect": false },
+        { "text": "D. Menjadi teladan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemimpin yang berempati terhadap sesama, meningkatkan semangat anggota, dan menyelesaikan konflik menerapkan gaya?",
+      "explanation": "Empati, peningkatan semangat, dan penyelesaian konflik antar anggota adalah karakteristik gaya kepemimpinan afiliatif.",
+      "difficulty": "EASY",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Afiliatif", "isCorrect": true },
+        { "text": "B. Otokratis", "isCorrect": false },
+        { "text": "C. Visioner", "isCorrect": false },
+        { "text": "D. Transaksional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Safety leadership yang kuat pada akhirnya akan menurunkan?",
+      "explanation": "Safety leadership yang kuat menumbuhkan perilaku aman sehingga menurunkan angka kecelakaan, penyakit akibat kerja, dan kerugian organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Safety Leadership",
+      "options": [
+        { "text": "A. Angka kecelakaan dan penyakit akibat kerja", "isCorrect": true },
+        { "text": "B. Partisipasi pekerja dalam K3", "isCorrect": false },
+        { "text": "C. Kesadaran keselamatan", "isCorrect": false },
+        { "text": "D. Kepatuhan terhadap prosedur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang paling tepat menggambarkan kepemimpinan situasional adalah?",
+      "explanation": "Kepemimpinan situasional menyatakan pemimpin yang efektif menyesuaikan gayanya dengan situasi dan kematangan pengikut, bukan memakai satu gaya tetap.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Kepemimpinan",
+      "options": [
+        { "text": "A. Pemimpin menyesuaikan gaya dengan situasi dan kematangan pengikut", "isCorrect": true },
+        { "text": "B. Hanya ada satu gaya terbaik untuk semua kondisi", "isCorrect": false },
+        { "text": "C. Pemimpin dilahirkan dengan sifat tetap", "isCorrect": false },
+        { "text": "D. Gaya pemimpin tidak boleh berubah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pemimpin yang dengan jelas menjelaskan mengapa setiap usaha tim diperlukan untuk mencapai tujuan besar menerapkan gaya?",
+      "explanation": "Menjelaskan dengan jelas cara dan alasan mencapai visi adalah ciri khas gaya kepemimpinan visioner.",
+      "difficulty": "MEDIUM",
+      "tag": "Gaya Kepemimpinan",
+      "options": [
+        { "text": "A. Visioner", "isCorrect": true },
+        { "text": "B. Otokratis", "isCorrect": false },
+        { "text": "C. Laissez faire", "isCorrect": false },
+        { "text": "D. Transaksional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kepemimpinan yang sehat mensyaratkan keseimbangan antara orientasi tugas dan orientasi?",
+      "explanation": "Kepemimpinan efektif menyeimbangkan orientasi tugas (penyelesaian pekerjaan) dan orientasi hubungan (kepedulian pada manusia).",
+      "difficulty": "MEDIUM",
+      "tag": "Karakteristik Pemimpin Efektif",
+      "options": [
+        { "text": "A. Orientasi hubungan/manusia", "isCorrect": true },
+        { "text": "B. Orientasi pada hukuman", "isCorrect": false },
+        { "text": "C. Orientasi pada birokrasi", "isCorrect": false },
+        { "text": "D. Orientasi pada status semata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan contoh penerapan organizational leadership?",
+      "explanation": "Organizational leadership adalah memimpin seluruh organisasi, misalnya seorang direktur menetapkan strategi dan arah perusahaan secara menyeluruh.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Berdasarkan Lingkup",
+      "options": [
+        { "text": "A. Direktur menetapkan strategi seluruh perusahaan", "isCorrect": true },
+        { "text": "B. Seseorang mengatur jadwal pribadinya", "isCorrect": false },
+        { "text": "C. Ketua kelompok kecil membagi tugas timnya", "isCorrect": false },
+        { "text": "D. Pekerja mengelola emosinya sendiri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan kepemimpinan yang menggabungkan unsur transformasional dan transaksional secara fleksibel sering disebut model?",
+      "explanation": "Model full range leadership (Bass & Avolio) mencakup spektrum dari laissez faire, transaksional, hingga transformasional yang digunakan secara fleksibel.",
+      "difficulty": "HARD",
+      "tag": "Transformasional vs Transaksional",
+      "options": [
+        { "text": "A. Full range leadership", "isCorrect": true },
+        { "text": "B. The great man theory", "isCorrect": false },
+        { "text": "C. Teori sifat", "isCorrect": false },
+        { "text": "D. Path-goal theory", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Definisi kepemimpinan (leadership)", "back": "Proses memengaruhi, memotivasi, dan membuat orang lain berkontribusi pada kesuksesan dan efektivitas organisasi dalam mencapai tujuan.", "tag": "Pengertian & Konsep Dasar" },
+    { "front": "Inti aktivitas kepemimpinan", "back": "Kemampuan memengaruhi orang lain agar bergerak menuju tujuan bersama.", "tag": "Pengertian & Konsep Dasar" },
+    { "front": "Self leadership", "back": "Kepemimpinan terhadap diri sendiri agar tidak gagal dalam menjalani hidup; fondasi sebelum memimpin orang lain.", "tag": "Jenis Berdasarkan Lingkup" },
+    { "front": "Team leadership", "back": "Kepemimpinan untuk memimpin orang lain dalam kelompok (team leader).", "tag": "Jenis Berdasarkan Lingkup" },
+    { "front": "Organizational leadership", "back": "Kepemimpinan pada lingkup seluruh organisasi.", "tag": "Jenis Berdasarkan Lingkup" },
+    { "front": "Kepemimpinan demokratis", "back": "Mendelegasikan otoritas, mengajak partisipasi, pendengar baik, menghargai masukan anggota.", "tag": "Gaya Kepemimpinan" },
+    { "front": "Kepemimpinan otokratis", "back": "Kekuasaan absolut, memberi perintah & ancaman, kontrol ketat, memonitor terus-menerus; cocok saat krisis.", "tag": "Gaya Kepemimpinan" },
+    { "front": "Kepemimpinan afiliatif", "back": "Mementingkan harmoni, berempati, meningkatkan semangat, dan menyelesaikan konflik antar anggota.", "tag": "Gaya Kepemimpinan" },
+    { "front": "Kepemimpinan visioner", "back": "Menginspirasi dan memotivasi melalui visi; mengomunikasikan cara dan alasan mencapai visi; cocok saat butuh perubahan drastis.", "tag": "Gaya Kepemimpinan" },
+    { "front": "Kepemimpinan laissez faire", "back": "Gaya bebas/delegatif; memberi kebebasan penuh dengan campur tangan minimal; cocok untuk tim ahli dan mandiri.", "tag": "Gaya Kepemimpinan" },
+    { "front": "Teori sifat (trait theory)", "back": "Pemimpin dilahirkan dengan sifat bawaan tertentu (leaders are born, not made).", "tag": "Teori Kepemimpinan" },
+    { "front": "Teori perilaku (behavioral)", "back": "Menekankan apa yang dilakukan pemimpin; kepemimpinan dapat dipelajari dan dilatih.", "tag": "Teori Kepemimpinan" },
+    { "front": "Teori situasional", "back": "Gaya terbaik tergantung situasi dan kematangan pengikut (Hersey-Blanchard: telling, selling, participating, delegating).", "tag": "Teori Kepemimpinan" },
+    { "front": "Kepemimpinan transformasional", "back": "Menginspirasi perubahan & visi; komponen: idealized influence, inspirational motivation, intellectual stimulation, individualized consideration.", "tag": "Transformasional vs Transaksional" },
+    { "front": "Kepemimpinan transaksional", "back": "Pertukaran imbalan/hukuman atas kinerja; komponen: contingent reward dan management by exception.", "tag": "Transformasional vs Transaksional" },
+    { "front": "Pemimpin vs manajer", "back": "Pemimpin: doing the right things (arah, visi, perubahan). Manajer: doing things right (efisiensi, prosedur, ketertiban).", "tag": "Pemimpin vs Manajer" },
+    { "front": "Sumber pengaruh manajer", "back": "Otoritas formal/jabatan; sedangkan pemimpin bisa memengaruhi tanpa jabatan formal.", "tag": "Pemimpin vs Manajer" },
+    { "front": "Karakteristik pemimpin efektif", "back": "Berinovasi, menginspirasi visi bersama, menjadi teladan, kecerdasan emosional tinggi, memberdayakan tim.", "tag": "Karakteristik Pemimpin Efektif" },
+    { "front": "Kecerdasan emosional pemimpin", "back": "Kemampuan memahami & mengelola perasaan diri dan orang lain; membangun hubungan baik dengan anggota.", "tag": "Karakteristik Pemimpin Efektif" },
+    { "front": "Pemberdayaan (empowerment)", "back": "Memberi akses informasi dan keleluasaan agar anggota bekerja dengan seluruh kemampuannya.", "tag": "Karakteristik Pemimpin Efektif" },
+    { "front": "Safety leadership", "back": "Kepemimpinan yang menggerakkan dan memengaruhi pekerja agar berperilaku aman dan membangun budaya keselamatan.", "tag": "Safety Leadership" },
+    { "front": "Peran pemimpin dalam safety culture", "back": "Menjadi role model perilaku aman, berkomitmen pada K3, dan mendorong pelaporan kondisi tidak aman serta near miss.", "tag": "Safety Leadership" }
+  ],
+  "mindmap": [
+    { "id": "kepemimpinan", "label": "Kepemimpinan", "color": "#6366f1", "parent": null, "content": "Proses memengaruhi, memotivasi, dan menggerakkan orang lain untuk mencapai tujuan organisasi." },
+    { "id": "konsep-dasar", "label": "Pengertian & Konsep", "color": "#8b5cf6", "parent": "kepemimpinan", "content": "Kepemimpinan (leadership) adalah proses memengaruhi orang lain agar berkontribusi pada kesuksesan organisasi." },
+    { "id": "inti-pengaruh", "label": "Inti: Pengaruh", "color": "#8b5cf6", "parent": "konsep-dasar", "content": "Inti kepemimpinan adalah kemampuan memengaruhi dan memotivasi orang lain." },
+    { "id": "tujuan-kepemimpinan", "label": "Tujuan", "color": "#8b5cf6", "parent": "konsep-dasar", "content": "Membuat orang lain berkontribusi terhadap efektivitas dan pencapaian tujuan organisasi." },
+    { "id": "lingkup", "label": "Jenis (Lingkup)", "color": "#0ea5e9", "parent": "kepemimpinan", "content": "Berdasarkan lingkup: self, team, dan organizational leadership." },
+    { "id": "self-leadership", "label": "Self Leadership", "color": "#0ea5e9", "parent": "lingkup", "content": "Memimpin diri sendiri agar tidak gagal dalam menjalani hidup; fondasi memimpin orang lain." },
+    { "id": "team-leadership", "label": "Team Leadership", "color": "#0ea5e9", "parent": "lingkup", "content": "Memimpin orang lain sebagai team leader/pemimpin kelompok." },
+    { "id": "org-leadership", "label": "Organizational Leadership", "color": "#0ea5e9", "parent": "lingkup", "content": "Memimpin seluruh organisasi, misalnya menetapkan strategi perusahaan." },
+    { "id": "teori", "label": "Teori Kepemimpinan", "color": "#10b981", "parent": "kepemimpinan", "content": "Berkembang dari teori sifat, teori perilaku, hingga teori situasional/kontingensi." },
+    { "id": "teori-sifat", "label": "Teori Sifat", "color": "#10b981", "parent": "teori", "content": "Pemimpin dilahirkan dengan sifat bawaan (leaders are born, not made)." },
+    { "id": "teori-perilaku", "label": "Teori Perilaku", "color": "#10b981", "parent": "teori", "content": "Fokus pada apa yang dilakukan pemimpin; kepemimpinan dapat dipelajari dan dilatih." },
+    { "id": "teori-situasional", "label": "Teori Situasional", "color": "#10b981", "parent": "teori", "content": "Gaya terbaik tergantung situasi dan kematangan pengikut (Hersey-Blanchard)." },
+    { "id": "teori-kontingensi", "label": "Teori Kontingensi", "color": "#10b981", "parent": "teori", "content": "Fiedler: efektivitas tergantung kesesuaian gaya dengan kemenguntungkan situasi." },
+    { "id": "path-goal", "label": "Teori Jalur-Tujuan", "color": "#10b981", "parent": "teori", "content": "Path-goal: pemimpin memperjelas jalur dan menghilangkan hambatan menuju tujuan." },
+    { "id": "gaya", "label": "Gaya Kepemimpinan", "color": "#f59e0b", "parent": "kepemimpinan", "content": "Empat gaya utama: demokratis, otokratis, afiliatif, dan visioner; ditambah laissez faire." },
+    { "id": "demokratis", "label": "Demokratis", "color": "#f59e0b", "parent": "gaya", "content": "Mendelegasikan otoritas, mengajak partisipasi, pendengar baik, menghargai masukan." },
+    { "id": "otokratis", "label": "Otokratis", "color": "#f59e0b", "parent": "gaya", "content": "Kekuasaan absolut, memberi perintah & ancaman, kontrol ketat; cocok saat krisis." },
+    { "id": "afiliatif", "label": "Afiliatif", "color": "#f59e0b", "parent": "gaya", "content": "Mementingkan harmoni, empati, dan penyelesaian konflik antar anggota." },
+    { "id": "visioner", "label": "Visioner", "color": "#f59e0b", "parent": "gaya", "content": "Menginspirasi lewat visi; cocok saat butuh visi baru atau perubahan drastis." },
+    { "id": "laissez-faire", "label": "Laissez Faire", "color": "#f59e0b", "parent": "gaya", "content": "Gaya bebas/delegatif; kebebasan penuh, cocok untuk tim ahli dan mandiri." },
+    { "id": "trans", "label": "Transformasional vs Transaksional", "color": "#ef4444", "parent": "kepemimpinan", "content": "Dua pendekatan: transformasional menginspirasi perubahan, transaksional menukar kinerja dengan imbalan." },
+    { "id": "transformasional", "label": "Transformasional", "color": "#ef4444", "parent": "trans", "content": "Menginspirasi pengikut melampaui kepentingan diri demi tujuan bersama." },
+    { "id": "if-influence", "label": "Idealized Influence", "color": "#ef4444", "parent": "transformasional", "content": "Pemimpin menjadi teladan yang dikagumi dan dipercaya." },
+    { "id": "inspirational", "label": "Inspirational Motivation", "color": "#ef4444", "parent": "transformasional", "content": "Memberi inspirasi dan visi yang memotivasi pengikut." },
+    { "id": "intellectual", "label": "Intellectual Stimulation", "color": "#ef4444", "parent": "transformasional", "content": "Mendorong berpikir kritis, kreatif, dan menantang cara lama." },
+    { "id": "individualized", "label": "Individualized Consideration", "color": "#ef4444", "parent": "transformasional", "content": "Perhatian pada kebutuhan pengembangan tiap individu sebagai mentor." },
+    { "id": "transaksional", "label": "Transaksional", "color": "#ef4444", "parent": "trans", "content": "Pertukaran imbalan/hukuman atas kinerja; cenderung menjaga status quo." },
+    { "id": "contingent-reward", "label": "Contingent Reward", "color": "#ef4444", "parent": "transaksional", "content": "Imbalan diberikan berdasarkan pencapaian target yang disepakati." },
+    { "id": "mbe", "label": "Management by Exception", "color": "#ef4444", "parent": "transaksional", "content": "Pemimpin bertindak hanya saat terjadi penyimpangan atau kesalahan." },
+    { "id": "leader-manager", "label": "Pemimpin vs Manajer", "color": "#ec4899", "parent": "kepemimpinan", "content": "Pemimpin memberi arah & inspirasi; manajer menjaga sistem dan ketertiban berjalan." },
+    { "id": "fokus-pemimpin", "label": "Fokus Pemimpin", "color": "#ec4899", "parent": "leader-manager", "content": "Doing the right things: visi, arah, perubahan, jangka panjang." },
+    { "id": "fokus-manajer", "label": "Fokus Manajer", "color": "#ec4899", "parent": "leader-manager", "content": "Doing things right: efisiensi, prosedur, pengorganisasian, jangka pendek." },
+    { "id": "saling-lengkap", "label": "Saling Melengkapi", "color": "#ec4899", "parent": "leader-manager", "content": "Organisasi sehat membutuhkan kepemimpinan dan manajemen secara seimbang." },
+    { "id": "efektif", "label": "Pemimpin Efektif", "color": "#14b8a6", "parent": "kepemimpinan", "content": "Karakteristik: inovatif, inspiratif, teladan, cerdas emosional, dan memberdayakan tim." },
+    { "id": "inovasi", "label": "Inovasi", "color": "#14b8a6", "parent": "efektif", "content": "Terus berinovasi membangun nilai, tidak berpaku pada cara konvensional." },
+    { "id": "teladan", "label": "Teladan & Inspirasi", "color": "#14b8a6", "parent": "efektif", "content": "Menjadi role model dan menginspirasi semua orang mencapai visi bersama." },
+    { "id": "eq", "label": "Kecerdasan Emosional", "color": "#14b8a6", "parent": "efektif", "content": "Memahami perasaan pekerja, menghargainya, dan membangun hubungan baik." },
+    { "id": "empowerment", "label": "Pemberdayaan Tim", "color": "#14b8a6", "parent": "efektif", "content": "Memberi akses informasi dan keleluasaan agar pekerja bekerja optimal." },
+    { "id": "safety", "label": "Safety Leadership", "color": "#8b5cf6", "parent": "kepemimpinan", "content": "Penerapan kepemimpinan untuk membangun perilaku aman dan budaya keselamatan." },
+    { "id": "role-model-safety", "label": "Role Model K3", "color": "#8b5cf6", "parent": "safety", "content": "Pemimpin menjadi teladan perilaku aman bagi seluruh pekerja." },
+    { "id": "komitmen-k3", "label": "Komitmen Manajemen", "color": "#8b5cf6", "parent": "safety", "content": "Komitmen pimpinan menentukan arah, sumber daya, dan keseriusan program K3." },
+    { "id": "partisipasi-k3", "label": "Partisipasi Pekerja", "color": "#8b5cf6", "parent": "safety", "content": "Mendorong pelaporan kondisi tidak aman dan near miss serta keterlibatan pekerja dalam K3." }
+  ]
+}

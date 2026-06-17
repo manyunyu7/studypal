@@ -1,0 +1,1540 @@
+{
+  "topic": "Observasi Kondisi dan Tindakan Tidak Aman",
+  "order": 1,
+  "description": "Observasi kondisi tidak aman (unsafe condition) dan tindakan tidak aman (unsafe act) merupakan metode dasar identifikasi bahaya di tempat kerja. Pengamat mengidentifikasi sumber bahaya dari kondisi lingkungan/peralatan maupun perilaku pekerja, lalu mencatat, melaporkan, dan merekomendasikan pengendalian untuk mencegah kecelakaan.",
+  "subtopics": [
+    "Konsep Dasar Bahaya & Risiko",
+    "Kondisi Tidak Aman (Unsafe Condition)",
+    "Tindakan Tidak Aman (Unsafe Act)",
+    "Teori Penyebab Kecelakaan",
+    "Metode Observasi K3 (BBS)",
+    "Pencatatan & Pelaporan",
+    "Near Miss & Kartu STOP",
+    "Tindak Lanjut & Pengendalian"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan kondisi tidak aman (unsafe condition)?",
+      "explanation": "Kondisi tidak aman adalah keadaan fisik lingkungan kerja, peralatan, atau material yang berpotensi menimbulkan kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Perilaku pekerja yang ceroboh saat bekerja", "isCorrect": false },
+        { "text": "B. Keadaan fisik lingkungan atau peralatan yang berpotensi menimbulkan kecelakaan", "isCorrect": true },
+        { "text": "C. Kondisi keuangan perusahaan yang buruk", "isCorrect": false },
+        { "text": "D. Cuaca yang tidak menentu di luar gedung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan tindakan tidak aman (unsafe act)?",
+      "explanation": "Tindakan tidak aman adalah perilaku atau perbuatan pekerja yang menyimpang dari prosedur aman dan berpotensi menyebabkan kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Perilaku pekerja yang menyimpang dari prosedur aman", "isCorrect": true },
+        { "text": "B. Lantai licin yang tidak diberi rambu", "isCorrect": false },
+        { "text": "C. Mesin tanpa pelindung (guarding)", "isCorrect": false },
+        { "text": "D. Pencahayaan ruangan yang kurang memadai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh berikut yang termasuk kondisi tidak aman adalah?",
+      "explanation": "Lantai licin tanpa rambu peringatan merupakan kondisi fisik lingkungan yang berbahaya, sehingga tergolong unsafe condition.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Pekerja merokok di area dilarang merokok", "isCorrect": false },
+        { "text": "B. Lantai licin tanpa rambu peringatan", "isCorrect": true },
+        { "text": "C. Pekerja bekerja sambil bercanda", "isCorrect": false },
+        { "text": "D. Pekerja tidak memakai APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh berikut yang termasuk tindakan tidak aman adalah?",
+      "explanation": "Tidak menggunakan APD saat bekerja adalah perilaku pekerja yang menyimpang dari prosedur aman, sehingga tergolong unsafe act.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kabel listrik terkelupas di lantai", "isCorrect": false },
+        { "text": "B. Tangga yang sudah rapuh", "isCorrect": false },
+        { "text": "C. Pekerja tidak menggunakan APD saat bekerja", "isCorrect": true },
+        { "text": "D. Ventilasi ruangan yang buruk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya (hazard) dalam konteks K3 didefinisikan sebagai?",
+      "explanation": "Bahaya adalah sumber, situasi, atau tindakan yang berpotensi menimbulkan cedera atau gangguan kesehatan.",
+      "difficulty": "EASY",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Kerugian yang sudah pasti terjadi", "isCorrect": false },
+        { "text": "B. Sumber atau situasi yang berpotensi menimbulkan cedera atau gangguan kesehatan", "isCorrect": true },
+        { "text": "C. Biaya pengobatan korban kecelakaan", "isCorrect": false },
+        { "text": "D. Jumlah pekerja yang absen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko (risk) dalam K3 merupakan kombinasi dari?",
+      "explanation": "Risiko adalah kombinasi dari kemungkinan (likelihood) terjadinya kejadian berbahaya dengan tingkat keparahan (severity) akibatnya.",
+      "difficulty": "EASY",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Kemungkinan terjadinya kejadian dan tingkat keparahan akibatnya", "isCorrect": true },
+        { "text": "B. Jumlah mesin dan jumlah pekerja", "isCorrect": false },
+        { "text": "C. Suhu dan kelembapan ruangan", "isCorrect": false },
+        { "text": "D. Biaya produksi dan keuntungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama observasi kondisi dan tindakan tidak aman di tempat kerja adalah?",
+      "explanation": "Observasi bertujuan mengidentifikasi bahaya sejak dini agar dapat dikendalikan sebelum menimbulkan kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Mencari pekerja yang akan dipecat", "isCorrect": false },
+        { "text": "B. Mengidentifikasi bahaya sejak dini agar dapat dikendalikan", "isCorrect": true },
+        { "text": "C. Menambah beban kerja pengawas", "isCorrect": false },
+        { "text": "D. Mengurangi gaji pekerja yang lalai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Behavior Based Safety (BBS) merupakan pendekatan keselamatan yang berfokus pada?",
+      "explanation": "BBS adalah pendekatan keselamatan yang berfokus pada perilaku/tindakan pekerja melalui observasi dan umpan balik.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Perilaku/tindakan pekerja melalui observasi dan umpan balik", "isCorrect": true },
+        { "text": "B. Pembelian mesin baru", "isCorrect": false },
+        { "text": "C. Pengurangan jumlah karyawan", "isCorrect": false },
+        { "text": "D. Peningkatan target produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kejadian hampir celaka yang tidak menimbulkan cedera atau kerugian disebut?",
+      "explanation": "Near miss (nyaris celaka) adalah kejadian yang hampir menimbulkan kecelakaan namun tidak sampai menimbulkan cedera atau kerugian.",
+      "difficulty": "EASY",
+      "tag": "Near Miss & Kartu STOP",
+      "options": [
+        { "text": "A. Fatality", "isCorrect": false },
+        { "text": "B. Near miss (nyaris celaka)", "isCorrect": true },
+        { "text": "C. Lost time injury", "isCorrect": false },
+        { "text": "D. First aid case", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa pelaporan near miss penting dalam program K3?",
+      "explanation": "Pelaporan near miss penting karena menjadi peringatan dini untuk mencegah kecelakaan serupa yang lebih parah di kemudian hari.",
+      "difficulty": "MEDIUM",
+      "tag": "Near Miss & Kartu STOP",
+      "options": [
+        { "text": "A. Untuk memberi sanksi kepada pekerja", "isCorrect": false },
+        { "text": "B. Sebagai peringatan dini untuk mencegah kecelakaan yang lebih parah", "isCorrect": true },
+        { "text": "C. Untuk menambah dokumen administrasi saja", "isCorrect": false },
+        { "text": "D. Untuk menaikkan premi asuransi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mesin gerinda yang dioperasikan tanpa pelindung roda gerinda (machine guarding) termasuk?",
+      "explanation": "Mesin tanpa pelindung adalah kondisi fisik peralatan yang berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Near miss", "isCorrect": false },
+        { "text": "D. Kecelakaan kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang melepas pelindung mesin agar bekerja lebih cepat termasuk?",
+      "explanation": "Melepas pelindung mesin adalah perbuatan/perilaku pekerja yang menyimpang dari prosedur aman, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian rekayasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut teori Domino Heinrich, penyebab langsung kecelakaan didominasi oleh?",
+      "explanation": "Heinrich menyatakan sekitar 88% kecelakaan disebabkan oleh tindakan tidak aman (unsafe act) dari faktor manusia.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Kondisi tidak aman saja", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman (unsafe act) dari faktor manusia", "isCorrect": true },
+        { "text": "C. Takdir dan nasib", "isCorrect": false },
+        { "text": "D. Cuaca buruk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut teori Domino Heinrich, jika satu kartu domino (penyebab) dihilangkan maka?",
+      "explanation": "Dalam teori domino Heinrich, menghilangkan salah satu kartu (terutama unsafe act/condition) memutus rangkaian sehingga kecelakaan dapat dicegah.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Kecelakaan tetap terjadi", "isCorrect": false },
+        { "text": "B. Rangkaian terputus sehingga kecelakaan dapat dicegah", "isCorrect": true },
+        { "text": "C. Risiko menjadi dua kali lipat", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh apa-apa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa persen kecelakaan kerja yang menurut Heinrich disebabkan oleh tindakan tidak aman?",
+      "explanation": "Menurut Heinrich, sekitar 88% kecelakaan disebabkan tindakan tidak aman, 10% kondisi tidak aman, dan 2% faktor lain.",
+      "difficulty": "HARD",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. 50%", "isCorrect": false },
+        { "text": "B. 88%", "isCorrect": true },
+        { "text": "C. 25%", "isCorrect": false },
+        { "text": "D. 100%", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah pertama yang dilakukan sebelum melakukan observasi K3 di area kerja adalah?",
+      "explanation": "Sebelum observasi, perlu menentukan area/objek yang diamati dan menyiapkan formulir/checklist observasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Langsung menegur semua pekerja", "isCorrect": false },
+        { "text": "B. Menentukan area/objek dan menyiapkan checklist observasi", "isCorrect": true },
+        { "text": "C. Memberhentikan seluruh produksi", "isCorrect": false },
+        { "text": "D. Menghapus seluruh rambu K3", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat bantu berupa daftar periksa yang digunakan saat observasi K3 disebut?",
+      "explanation": "Checklist (daftar periksa) digunakan untuk memandu observasi agar item bahaya yang diamati tidak terlewat.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Checklist (daftar periksa)", "isCorrect": true },
+        { "text": "B. Audiogram", "isCorrect": false },
+        { "text": "C. Anemometer", "isCorrect": false },
+        { "text": "D. Spirometer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kabel listrik yang terkelupas dan tergeletak di lantai basah merupakan?",
+      "explanation": "Kabel terkelupas di lantai basah adalah kondisi fisik lingkungan yang berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang mengangkat beban berat dengan posisi membungkuk (bukan menekuk lutut) merupakan?",
+      "explanation": "Mengangkat beban dengan postur salah adalah perilaku kerja menyimpang, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Pengendalian teknik", "isCorrect": false },
+        { "text": "D. Eliminasi bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil observasi kondisi dan tindakan tidak aman sebaiknya dicatat dalam bentuk?",
+      "explanation": "Hasil observasi dicatat dalam formulir/laporan observasi yang berisi temuan bahaya, lokasi, dan rekomendasi pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Formulir/laporan observasi", "isCorrect": true },
+        { "text": "B. Hanya diingat dalam hati", "isCorrect": false },
+        { "text": "C. Disebarkan sebagai gosip", "isCorrect": false },
+        { "text": "D. Dibiarkan tanpa dicatat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Informasi minimal yang perlu dicatat dalam laporan hasil observasi K3 adalah?",
+      "explanation": "Laporan observasi minimal memuat lokasi, jenis temuan (kondisi/tindakan tidak aman), uraian bahaya, dan rekomendasi pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Nama atasan dan gaji pekerja", "isCorrect": false },
+        { "text": "B. Lokasi, jenis temuan, uraian bahaya, dan rekomendasi pengendalian", "isCorrect": true },
+        { "text": "C. Jumlah keuntungan perusahaan", "isCorrect": false },
+        { "text": "D. Warna seragam pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah temuan observasi dicatat, langkah berikutnya yang tepat adalah?",
+      "explanation": "Setelah dicatat, temuan harus dilaporkan kepada pihak terkait dan ditindaklanjuti dengan rekomendasi pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Dilaporkan dan ditindaklanjuti dengan pengendalian", "isCorrect": true },
+        { "text": "B. Dibuang agar tidak menjadi beban", "isCorrect": false },
+        { "text": "C. Disimpan rahasia selamanya", "isCorrect": false },
+        { "text": "D. Diabaikan karena tidak penting", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kartu STOP (Safety Training Observation Program) digunakan untuk?",
+      "explanation": "Kartu STOP digunakan untuk mencatat hasil observasi perilaku dan kondisi keselamatan serta memberi umpan balik kepada pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Near Miss & Kartu STOP",
+      "options": [
+        { "text": "A. Mencatat hasil observasi keselamatan dan memberi umpan balik", "isCorrect": true },
+        { "text": "B. Menghentikan seluruh produksi pabrik", "isCorrect": false },
+        { "text": "C. Mengukur tingkat kebisingan", "isCorrect": false },
+        { "text": "D. Menghitung gaji lembur pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam program BBS, ketika pengamat melihat perilaku tidak aman, tindakan yang tepat adalah?",
+      "explanation": "Dalam BBS, pengamat memberi umpan balik konstruktif (intervensi positif) agar pekerja menyadari dan memperbaiki perilakunya.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Mendiamkan dan mencatat untuk pemecatan", "isCorrect": false },
+        { "text": "B. Memberi umpan balik konstruktif agar pekerja memperbaiki perilaku", "isCorrect": true },
+        { "text": "C. Memarahi pekerja di depan umum", "isCorrect": false },
+        { "text": "D. Melaporkan ke polisi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencahayaan ruang kerja yang terlalu redup sehingga pekerja sulit melihat termasuk?",
+      "explanation": "Pencahayaan yang buruk adalah kondisi fisik lingkungan yang berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Near miss", "isCorrect": false },
+        { "text": "D. Kondisi aman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang bergurau dan mengganggu rekan saat mengoperasikan mesin termasuk?",
+      "explanation": "Bergurau saat mengoperasikan mesin adalah perilaku menyimpang yang dapat mengalihkan konsentrasi, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Pengendalian administratif", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori penyebab kecelakaan yang menggambarkan kecelakaan terjadi ketika lubang pada beberapa lapisan pertahanan sejajar adalah?",
+      "explanation": "Teori Swiss Cheese (James Reason) menggambarkan kecelakaan terjadi ketika lubang/kelemahan pada beberapa lapisan pertahanan kebetulan sejajar.",
+      "difficulty": "HARD",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Teori Swiss Cheese (James Reason)", "isCorrect": true },
+        { "text": "B. Teori Big Bang", "isCorrect": false },
+        { "text": "C. Teori Relativitas", "isCorrect": false },
+        { "text": "D. Teori Maslow", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam piramida kecelakaan Heinrich, kejadian yang paling banyak jumlahnya di dasar piramida adalah?",
+      "explanation": "Pada piramida kecelakaan, near miss dan unsafe act/condition berada di dasar dengan jumlah terbanyak, sedangkan fatality paling sedikit di puncak.",
+      "difficulty": "HARD",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Kematian (fatality)", "isCorrect": false },
+        { "text": "B. Near miss dan tindakan/kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Cedera berat", "isCorrect": false },
+        { "text": "D. Cacat permanen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor yang melatarbelakangi terjadinya tindakan tidak aman antara lain?",
+      "explanation": "Tindakan tidak aman dapat dilatarbelakangi kurangnya pengetahuan/pelatihan, sikap abai, kelelahan, atau tekanan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kurangnya pengetahuan, sikap abai, dan kelelahan", "isCorrect": true },
+        { "text": "B. Warna cat dinding pabrik", "isCorrect": false },
+        { "text": "C. Jumlah jendela ruangan", "isCorrect": false },
+        { "text": "D. Merek mesin yang digunakan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyimpanan bahan kimia berbahaya tanpa label dan tanpa wadah yang sesuai merupakan?",
+      "explanation": "Penyimpanan bahan kimia tanpa label/wadah sesuai adalah kondisi lingkungan yang berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": true },
+        { "text": "B. Tindakan tidak aman", "isCorrect": false },
+        { "text": "C. Near miss", "isCorrect": false },
+        { "text": "D. Pengendalian eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan pemberian umpan balik (feedback) dalam observasi BBS adalah?",
+      "explanation": "Umpan balik bertujuan memperkuat perilaku aman dan memperbaiki perilaku tidak aman secara positif tanpa menyalahkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Memperkuat perilaku aman dan memperbaiki perilaku tidak aman", "isCorrect": true },
+        { "text": "B. Menghukum pekerja yang lalai", "isCorrect": false },
+        { "text": "C. Menambah kuota produksi", "isCorrect": false },
+        { "text": "D. Mengurangi jumlah pengawas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat observasi, pengamat menemukan pekerja memanjat tangga tanpa pegangan dan membawa barang berat. Temuan ini tergolong?",
+      "explanation": "Memanjat tangga dengan cara berbahaya adalah perilaku pekerja yang menyimpang, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada praktik presentasi hasil observasi, koordinator kelompok bertugas?",
+      "explanation": "Koordinator kelompok mencatat hasil presentasi, pertanyaan, dan jawaban, kemudian menyerahkannya ke kobid.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Mencatat hasil presentasi, pertanyaan, dan jawaban", "isCorrect": true },
+        { "text": "B. Menilai dosen", "isCorrect": false },
+        { "text": "C. Membuat laporan keuangan", "isCorrect": false },
+        { "text": "D. Mengatur jadwal kuliah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Total waktu presentasi setiap kelompok dalam praktik observasi adalah?",
+      "explanation": "Total waktu presentasi setiap kelompok adalah 15 menit, dengan tanya jawab 10 menit.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. 5 menit", "isCorrect": false },
+        { "text": "B. 15 menit", "isCorrect": true },
+        { "text": "C. 30 menit", "isCorrect": false },
+        { "text": "D. 60 menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah teridentifikasi adanya kondisi tidak aman berupa lantai licin, pengendalian paling tepat adalah?",
+      "explanation": "Lantai licin sebaiknya segera dibersihkan/dikeringkan dan diberi rambu peringatan sebagai pengendalian sumber bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Membiarkan karena akan kering sendiri", "isCorrect": false },
+        { "text": "B. Membersihkan/mengeringkan lantai dan memasang rambu peringatan", "isCorrect": true },
+        { "text": "C. Menutup seluruh pabrik", "isCorrect": false },
+        { "text": "D. Memecat petugas kebersihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian paling efektif menurut hierarki pengendalian untuk menghilangkan sumber bahaya adalah?",
+      "explanation": "Eliminasi (menghilangkan sumber bahaya) berada di puncak hierarki dan merupakan pengendalian paling efektif.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. APD", "isCorrect": false },
+        { "text": "B. Eliminasi", "isCorrect": true },
+        { "text": "C. Pengendalian administratif", "isCorrect": false },
+        { "text": "D. Rambu peringatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan hierarki pengendalian risiko dari yang paling efektif adalah?",
+      "explanation": "Hierarki pengendalian: eliminasi, substitusi, rekayasa teknik, administratif, lalu APD sebagai pilihan terakhir.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. APD, administratif, teknik, substitusi, eliminasi", "isCorrect": false },
+        { "text": "B. Eliminasi, substitusi, rekayasa teknik, administratif, APD", "isCorrect": true },
+        { "text": "C. Teknik, eliminasi, APD, substitusi, administratif", "isCorrect": false },
+        { "text": "D. Administratif, APD, eliminasi, teknik, substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemasangan rambu 'Awas Licin' dan prosedur kerja aman termasuk pengendalian?",
+      "explanation": "Pemasangan rambu dan prosedur kerja aman merupakan pengendalian administratif karena mengatur perilaku/informasi tanpa mengubah sumber bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Administratif", "isCorrect": true },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memasang pelindung (guarding) pada bagian mesin yang berputar termasuk pengendalian?",
+      "explanation": "Memasang guarding pada mesin adalah pengendalian rekayasa teknik (engineering control) karena memodifikasi peralatan untuk mengisolasi bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Rekayasa teknik (engineering control)", "isCorrect": true },
+        { "text": "B. APD", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengamat observasi K3 sebaiknya memiliki sikap?",
+      "explanation": "Pengamat harus objektif, teliti, dan tidak menyalahkan agar observasi mendorong perbaikan, bukan ketakutan.",
+      "difficulty": "EASY",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Objektif, teliti, dan tidak menyalahkan", "isCorrect": true },
+        { "text": "B. Subjektif dan emosional", "isCorrect": false },
+        { "text": "C. Acuh dan terburu-buru", "isCorrect": false },
+        { "text": "D. Menutupi temuan bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan contoh tindakan aman (safe act) sebagai lawan dari unsafe act?",
+      "explanation": "Menggunakan APD lengkap sesuai prosedur adalah perilaku aman (safe act), kebalikan dari tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Melepas helm karena gerah", "isCorrect": false },
+        { "text": "B. Menggunakan APD lengkap sesuai prosedur", "isCorrect": true },
+        { "text": "C. Mengangkat beban sambil membungkuk", "isCorrect": false },
+        { "text": "D. Merokok di area mudah terbakar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tangga darurat yang terhalang tumpukan barang merupakan?",
+      "explanation": "Jalur/tangga darurat yang terhalang adalah kondisi lingkungan berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identifikasi bahaya melalui observasi termasuk dalam tahap mana pada manajemen risiko?",
+      "explanation": "Observasi kondisi/tindakan tidak aman merupakan bagian dari tahap identifikasi bahaya (hazard identification) dalam manajemen risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Identifikasi bahaya", "isCorrect": true },
+        { "text": "B. Evaluasi finansial", "isCorrect": false },
+        { "text": "C. Rekrutmen pekerja", "isCorrect": false },
+        { "text": "D. Pemasaran produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsekuensi atau keparahan (severity) dalam penilaian risiko menggambarkan?",
+      "explanation": "Severity menggambarkan tingkat keparahan dampak/akibat bila kecelakaan terjadi, misalnya dari cedera ringan hingga kematian.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Seberapa parah dampak bila kecelakaan terjadi", "isCorrect": true },
+        { "text": "B. Berapa kali mesin dibersihkan", "isCorrect": false },
+        { "text": "C. Jumlah pintu keluar", "isCorrect": false },
+        { "text": "D. Harga bahan baku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kemungkinan (likelihood) dalam penilaian risiko menggambarkan?",
+      "explanation": "Likelihood menggambarkan seberapa besar peluang/kemungkinan suatu kejadian berbahaya akan terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Seberapa besar peluang kejadian berbahaya terjadi", "isCorrect": true },
+        { "text": "B. Berat beban yang diangkat", "isCorrect": false },
+        { "text": "C. Suhu mesin", "isCorrect": false },
+        { "text": "D. Jumlah shift kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat melakukan observasi, sebaiknya pengamat juga mendokumentasikan temuan dengan?",
+      "explanation": "Foto/dokumentasi visual membantu memperjelas temuan bahaya dan mendukung pelaporan serta tindak lanjut.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Foto/dokumentasi visual temuan", "isCorrect": true },
+        { "text": "B. Menghapus bukti agar tidak menakuti", "isCorrect": false },
+        { "text": "C. Menggambar kartun lucu", "isCorrect": false },
+        { "text": "D. Tidak perlu dokumentasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang menggunakan peralatan listrik dengan tangan basah merupakan?",
+      "explanation": "Menggunakan peralatan listrik dengan tangan basah adalah perilaku menyimpang yang berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Pengendalian teknik", "isCorrect": false },
+        { "text": "D. Kondisi aman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stop kontak yang rusak dan mengeluarkan percikan api merupakan?",
+      "explanation": "Stop kontak rusak yang memercikkan api adalah kondisi fisik peralatan berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Near miss", "isCorrect": false },
+        { "text": "D. Kondisi aman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat program observasi BBS bagi perusahaan adalah?",
+      "explanation": "BBS menurunkan angka kecelakaan dengan membangun budaya keselamatan melalui observasi dan perbaikan perilaku berkelanjutan.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Menurunkan angka kecelakaan dan membangun budaya keselamatan", "isCorrect": true },
+        { "text": "B. Menaikkan harga jual produk", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah rapat", "isCorrect": false },
+        { "text": "D. Menghilangkan kebutuhan APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi observasi K3 yang baik di tempat kerja sebaiknya dilakukan secara?",
+      "explanation": "Observasi K3 sebaiknya dilakukan secara rutin/berkala dan berkelanjutan agar bahaya baru cepat teridentifikasi.",
+      "difficulty": "EASY",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Rutin/berkala dan berkelanjutan", "isCorrect": true },
+        { "text": "B. Hanya sekali seumur perusahaan", "isCorrect": false },
+        { "text": "C. Hanya saat ada inspeksi pemerintah", "isCorrect": false },
+        { "text": "D. Tidak pernah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang perbedaan unsafe condition dan unsafe act?",
+      "explanation": "Unsafe condition berkaitan dengan keadaan lingkungan/peralatan, sedangkan unsafe act berkaitan dengan perilaku/perbuatan manusia.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Keduanya sama persis", "isCorrect": false },
+        { "text": "B. Unsafe condition soal lingkungan/peralatan, unsafe act soal perilaku manusia", "isCorrect": true },
+        { "text": "C. Unsafe act selalu soal peralatan", "isCorrect": false },
+        { "text": "D. Unsafe condition selalu soal perilaku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang tidak mematikan mesin saat membersihkannya merupakan?",
+      "explanation": "Membersihkan mesin tanpa mematikannya (tanpa LOTO) adalah perilaku menyimpang berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": true },
+        { "text": "B. Kondisi tidak aman", "isCorrect": false },
+        { "text": "C. Pengendalian eliminasi", "isCorrect": false },
+        { "text": "D. Kondisi aman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prosedur penguncian dan pelabelan sumber energi mesin sebelum perbaikan disebut?",
+      "explanation": "LOTO (Lockout-Tagout) adalah prosedur penguncian dan pelabelan sumber energi agar mesin tidak menyala saat diperbaiki.",
+      "difficulty": "HARD",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. LOTO (Lockout-Tagout)", "isCorrect": true },
+        { "text": "B. SLM", "isCorrect": false },
+        { "text": "C. NRR", "isCorrect": false },
+        { "text": "D. MSDS", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tumpahan oli di lantai bengkel yang belum dibersihkan merupakan?",
+      "explanation": "Tumpahan oli di lantai adalah kondisi lingkungan berbahaya (berpotensi terpeleset), sehingga tergolong kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat presentasi hasil observasi, kelompok lain diberi kesempatan untuk?",
+      "explanation": "Setelah presentasi, terdapat sesi tanya jawab selama 10 menit untuk berdiskusi dan mengajukan pertanyaan.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Mengajukan pertanyaan dalam sesi tanya jawab", "isCorrect": true },
+        { "text": "B. Meninggalkan ruangan", "isCorrect": false },
+        { "text": "C. Tidur", "isCorrect": false },
+        { "text": "D. Mengganti topik presentasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk kondisi aman (bukan temuan observasi bahaya)?",
+      "explanation": "Lantai bersih dan kering dengan rambu yang jelas merupakan kondisi aman, bukan kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Lantai bersih dan kering dengan rambu yang jelas", "isCorrect": true },
+        { "text": "B. Kabel terkelupas di lantai", "isCorrect": false },
+        { "text": "C. Mesin tanpa pelindung", "isCorrect": false },
+        { "text": "D. Tangga rapuh tanpa pegangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip BBS adalah keselamatan merupakan tanggung jawab?",
+      "explanation": "Dalam BBS, keselamatan adalah tanggung jawab bersama seluruh pekerja, bukan hanya petugas K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Hanya petugas K3", "isCorrect": false },
+        { "text": "B. Tanggung jawab bersama seluruh pekerja", "isCorrect": true },
+        { "text": "C. Hanya direktur", "isCorrect": false },
+        { "text": "D. Hanya pemerintah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang berlari di area kerja yang banyak rintangan merupakan?",
+      "explanation": "Berlari di area berisiko adalah perilaku menyimpang yang berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat Pelindung Diri (APD) dalam hierarki pengendalian risiko berada pada posisi?",
+      "explanation": "APD berada pada posisi paling bawah hierarki karena hanya melindungi individu tanpa menghilangkan sumber bahaya.",
+      "difficulty": "EASY",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Paling atas (paling efektif)", "isCorrect": false },
+        { "text": "B. Paling bawah (pilihan terakhir)", "isCorrect": true },
+        { "text": "C. Di atas eliminasi", "isCorrect": false },
+        { "text": "D. Di atas rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengganti bahan kimia berbahaya dengan bahan yang lebih aman termasuk pengendalian?",
+      "explanation": "Mengganti sumber bahaya dengan yang lebih rendah risikonya termasuk pengendalian substitusi.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Substitusi", "isCorrect": true },
+        { "text": "B. APD", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam piramida kecelakaan, hubungan near miss dengan kecelakaan fatal adalah?",
+      "explanation": "Banyaknya near miss yang tidak ditangani dapat berujung pada kecelakaan yang lebih serius hingga fatal, sehingga near miss harus diwaspadai.",
+      "difficulty": "HARD",
+      "tag": "Near Miss & Kartu STOP",
+      "options": [
+        { "text": "A. Tidak ada hubungan sama sekali", "isCorrect": false },
+        { "text": "B. Banyak near miss yang diabaikan dapat berujung kecelakaan fatal", "isCorrect": true },
+        { "text": "C. Near miss selalu lebih parah dari fatal", "isCorrect": false },
+        { "text": "D. Near miss hanya terjadi pada manajer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Yang membedakan near miss dengan kecelakaan (accident) adalah?",
+      "explanation": "Near miss tidak menimbulkan cedera/kerugian, sedangkan kecelakaan (accident) sudah menimbulkan cedera atau kerugian nyata.",
+      "difficulty": "MEDIUM",
+      "tag": "Near Miss & Kartu STOP",
+      "options": [
+        { "text": "A. Near miss tidak menimbulkan cedera, kecelakaan sudah menimbulkan cedera/kerugian", "isCorrect": true },
+        { "text": "B. Near miss selalu lebih mahal", "isCorrect": false },
+        { "text": "C. Keduanya selalu sama", "isCorrect": false },
+        { "text": "D. Near miss hanya terjadi di kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat observasi area kampus, mahasiswa menemukan kabel listrik melintang di jalur pejalan kaki. Temuan ini tergolong?",
+      "explanation": "Kabel melintang di jalur pejalan kaki adalah kondisi lingkungan berbahaya (berpotensi tersandung), sehingga tergolong kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mahasiswa melihat teman menggunakan ponsel sambil menuruni tangga curam. Temuan ini tergolong?",
+      "explanation": "Menggunakan ponsel sambil menuruni tangga adalah perilaku menyimpang yang berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari rangkaian observasi, pencatatan, dan pelaporan bahaya adalah?",
+      "explanation": "Tujuan akhirnya adalah mencegah kecelakaan kerja melalui pengendalian bahaya yang teridentifikasi.",
+      "difficulty": "EASY",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Mencegah kecelakaan melalui pengendalian bahaya", "isCorrect": true },
+        { "text": "B. Menambah pekerjaan administrasi", "isCorrect": false },
+        { "text": "C. Menghukum pekerja", "isCorrect": false },
+        { "text": "D. Menaikkan biaya operasional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor manusia (human factor) yang sering menjadi penyebab tindakan tidak aman antara lain?",
+      "explanation": "Faktor manusia meliputi kelelahan, stres, kurang konsentrasi, dan kurang pelatihan yang memicu tindakan tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Kelelahan, stres, dan kurang pelatihan", "isCorrect": true },
+        { "text": "B. Warna dinding ruangan", "isCorrect": false },
+        { "text": "C. Jenis lantai keramik", "isCorrect": false },
+        { "text": "D. Merek seragam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Teori Domino Heinrich menggambarkan kecelakaan sebagai?",
+      "explanation": "Teori Domino menggambarkan kecelakaan sebagai rangkaian peristiwa berurutan yang saling memengaruhi seperti kartu domino yang berjatuhan.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Rangkaian peristiwa berurutan yang saling memengaruhi", "isCorrect": true },
+        { "text": "B. Peristiwa tunggal tanpa sebab", "isCorrect": false },
+        { "text": "C. Hal yang tidak bisa dicegah", "isCorrect": false },
+        { "text": "D. Akibat takdir semata", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APD yang tersedia tetapi tidak dipakai oleh pekerja menunjukkan adanya?",
+      "explanation": "APD tersedia namun tidak dipakai menunjukkan tindakan tidak aman dari pekerja, bukan masalah ketersediaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Pengendalian eliminasi", "isCorrect": false },
+        { "text": "D. Kondisi aman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APD yang tidak disediakan perusahaan padahal pekerjaan berbahaya menunjukkan adanya?",
+      "explanation": "Tidak tersedianya APD pada pekerjaan berbahaya adalah kekurangan kondisi/lingkungan kerja, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "HARD",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": true },
+        { "text": "B. Tindakan tidak aman", "isCorrect": false },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam observasi K3, mengapa penting mengamati baik kondisi maupun tindakan?",
+      "explanation": "Karena kecelakaan dapat dipicu oleh kondisi tidak aman maupun tindakan tidak aman, keduanya perlu diamati agar pengendalian menyeluruh.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Karena kecelakaan dapat dipicu oleh keduanya", "isCorrect": true },
+        { "text": "B. Karena hanya kondisi yang berbahaya", "isCorrect": false },
+        { "text": "C. Karena hanya tindakan yang berbahaya", "isCorrect": false },
+        { "text": "D. Karena keduanya tidak berbahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat menemukan tindakan tidak aman saat observasi, prioritas pertama pengamat adalah?",
+      "explanation": "Jika ada bahaya yang dapat menimbulkan cedera segera, pengamat memprioritaskan menghentikan/mengintervensi perilaku tersebut demi keselamatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Menghentikan/mengintervensi perilaku berbahaya demi keselamatan", "isCorrect": true },
+        { "text": "B. Menunggu sampai terjadi kecelakaan", "isCorrect": false },
+        { "text": "C. Mengabaikan dan melanjutkan", "isCorrect": false },
+        { "text": "D. Mencatat untuk dipakai memecat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inspeksi K3 berbeda dengan observasi BBS terutama karena inspeksi lebih fokus pada?",
+      "explanation": "Inspeksi K3 umumnya lebih fokus pada kondisi fisik (peralatan, lingkungan), sedangkan BBS lebih fokus pada perilaku pekerja.",
+      "difficulty": "HARD",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Kondisi fisik (peralatan dan lingkungan)", "isCorrect": true },
+        { "text": "B. Laporan keuangan", "isCorrect": false },
+        { "text": "C. Target penjualan", "isCorrect": false },
+        { "text": "D. Jadwal cuti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APAR (Alat Pemadam Api Ringan) yang sudah kedaluwarsa dan tidak diisi ulang merupakan?",
+      "explanation": "APAR kedaluwarsa adalah kondisi peralatan keselamatan yang tidak layak/berbahaya saat dibutuhkan, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengabaikan rambu peringatan bahaya yang sudah terpasang merupakan?",
+      "explanation": "Mengabaikan rambu peringatan adalah perilaku menyimpang dari prosedur aman, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelaporan hasil observasi sebaiknya disampaikan kepada?",
+      "explanation": "Hasil observasi disampaikan kepada pihak yang berwenang (pengawas/petugas K3/manajemen) agar dapat ditindaklanjuti.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Pihak berwenang (pengawas/petugas K3/manajemen)", "isCorrect": true },
+        { "text": "B. Pesaing perusahaan", "isCorrect": false },
+        { "text": "C. Media sosial pribadi", "isCorrect": false },
+        { "text": "D. Tidak perlu disampaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tindakan tidak aman dan kondisi tidak aman dalam teori Heinrich disebut sebagai?",
+      "explanation": "Dalam teori domino Heinrich, unsafe act dan unsafe condition merupakan penyebab langsung (immediate cause) kecelakaan.",
+      "difficulty": "HARD",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Penyebab langsung (immediate cause)", "isCorrect": true },
+        { "text": "B. Akibat akhir", "isCorrect": false },
+        { "text": "C. Faktor lingkungan eksternal", "isCorrect": false },
+        { "text": "D. Hasil keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyebab dasar (basic cause) di balik unsafe act dan unsafe condition sering berupa?",
+      "explanation": "Penyebab dasar meliputi faktor personal (kurang pengetahuan/keterampilan) dan faktor pekerjaan (manajemen, prosedur, lingkungan) yang lemah.",
+      "difficulty": "HARD",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Faktor personal dan faktor pekerjaan/manajemen yang lemah", "isCorrect": true },
+        { "text": "B. Warna lantai", "isCorrect": false },
+        { "text": "C. Jenis makanan kantin", "isCorrect": false },
+        { "text": "D. Cuaca di luar negeri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat observasi, frekuensi (frequency) suatu temuan bahaya yang sering muncul menandakan?",
+      "explanation": "Temuan bahaya yang sering muncul menandakan adanya masalah sistemik yang perlu prioritas pengendalian lebih tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Masalah sistemik yang perlu prioritas pengendalian", "isCorrect": true },
+        { "text": "B. Hal yang boleh diabaikan", "isCorrect": false },
+        { "text": "C. Kondisi yang sudah aman", "isCorrect": false },
+        { "text": "D. Tidak perlu tindak lanjut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mahasiswa menemukan hidran/exit darurat di kampus tidak diberi penunjuk arah yang jelas. Temuan ini tergolong?",
+      "explanation": "Jalur evakuasi/exit tanpa penunjuk jelas adalah kekurangan kondisi lingkungan keselamatan, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": true },
+        { "text": "B. Tindakan tidak aman", "isCorrect": false },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang menumpuk barang melebihi batas tinggi aman pada rak penyimpanan merupakan?",
+      "explanation": "Menumpuk barang melebihi batas aman adalah perbuatan pekerja yang menyimpang dan berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": true },
+        { "text": "B. Kondisi tidak aman", "isCorrect": false },
+        { "text": "C. Pengendalian teknik", "isCorrect": false },
+        { "text": "D. Kondisi aman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa keuntungan menggunakan checklist standar saat observasi dibanding tanpa checklist?",
+      "explanation": "Checklist standar membuat observasi lebih sistematis dan konsisten sehingga mengurangi risiko ada item bahaya yang terlewat.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Observasi lebih sistematis dan mengurangi item yang terlewat", "isCorrect": true },
+        { "text": "B. Membuat observasi lebih lama tanpa manfaat", "isCorrect": false },
+        { "text": "C. Menghapus kebutuhan pelaporan", "isCorrect": false },
+        { "text": "D. Mengurangi keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ventilasi yang buruk sehingga gas berbahaya terakumulasi di ruang kerja merupakan?",
+      "explanation": "Ventilasi buruk yang menyebabkan akumulasi gas berbahaya adalah kondisi lingkungan berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam praktik observasi hari ini, apakah ada pengumpulan laporan praktikum?",
+      "explanation": "Pada praktik presentasi hasil observasi ini tidak ada pengumpulan laporan praktikum; koordinator hanya mencatat dan menyerahkan ke kobid.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Tidak ada pengumpulan laporan praktikum", "isCorrect": true },
+        { "text": "B. Wajib mengumpulkan 10 halaman", "isCorrect": false },
+        { "text": "C. Harus berupa video", "isCorrect": false },
+        { "text": "D. Dikumpulkan dalam bahasa Inggris", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang menggunakan APD secara tidak benar (misal masker dipasang longgar) tetap tergolong?",
+      "explanation": "Menggunakan APD dengan cara salah adalah perilaku menyimpang yang mengurangi perlindungan, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": true },
+        { "text": "B. Kondisi tidak aman", "isCorrect": false },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan dari memberikan rekomendasi pengendalian pada laporan observasi adalah?",
+      "explanation": "Rekomendasi pengendalian memberi arah tindakan perbaikan agar bahaya yang ditemukan benar-benar dieliminasi atau dikurangi.",
+      "difficulty": "EASY",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Memberi arah tindakan perbaikan untuk mengurangi bahaya", "isCorrect": true },
+        { "text": "B. Memperpanjang laporan saja", "isCorrect": false },
+        { "text": "C. Menyalahkan pekerja", "isCorrect": false },
+        { "text": "D. Menambah biaya tanpa tujuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian terhadap tindakan tidak aman paling efektif jika ditangani dengan?",
+      "explanation": "Tindakan tidak aman umumnya ditangani lewat pelatihan, pengawasan, prosedur kerja aman, dan pembentukan budaya keselamatan (administratif/perilaku).",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Pelatihan, pengawasan, dan budaya keselamatan", "isCorrect": true },
+        { "text": "B. Membiarkan saja", "isCorrect": false },
+        { "text": "C. Menambah jam kerja", "isCorrect": false },
+        { "text": "D. Mengurangi rambu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang melompati pagar pengaman area berbahaya untuk jalan pintas merupakan?",
+      "explanation": "Melompati pagar pengaman demi jalan pintas adalah perilaku menyimpang berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pagar pengaman (railing) yang rusak/patah di area ketinggian merupakan?",
+      "explanation": "Railing rusak di area ketinggian adalah kondisi fisik berbahaya (risiko jatuh), sehingga tergolong kondisi tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": false },
+        { "text": "B. Kondisi tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam observasi BBS, mencatat juga perilaku aman (safe behavior) bertujuan untuk?",
+      "explanation": "Mencatat perilaku aman bertujuan memberi penguatan positif (reinforcement) agar perilaku baik tersebut dipertahankan.",
+      "difficulty": "HARD",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Memberi penguatan positif agar perilaku aman dipertahankan", "isCorrect": true },
+        { "text": "B. Memberi hukuman", "isCorrect": false },
+        { "text": "C. Menambah beban kerja", "isCorrect": false },
+        { "text": "D. Tidak ada tujuan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah urutan tahapan yang benar dalam siklus observasi K3?",
+      "explanation": "Siklus observasi K3: mengamati, mengidentifikasi bahaya, mencatat, melaporkan, lalu menindaklanjuti dengan pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Mengamati - mengidentifikasi - mencatat - melaporkan - menindaklanjuti", "isCorrect": true },
+        { "text": "B. Menindaklanjuti - melaporkan - mengamati - mencatat", "isCorrect": false },
+        { "text": "C. Mencatat - mengamati - mengabaikan", "isCorrect": false },
+        { "text": "D. Melaporkan - mengamati - selesai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hierarki pengendalian rekayasa teknik (engineering control) bertujuan untuk?",
+      "explanation": "Engineering control bertujuan mengisolasi atau mengurangi bahaya pada sumbernya melalui modifikasi peralatan/proses, bukan mengubah perilaku.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Mengisolasi/mengurangi bahaya pada sumbernya melalui modifikasi teknis", "isCorrect": true },
+        { "text": "B. Mengubah jam istirahat", "isCorrect": false },
+        { "text": "C. Membagikan masker saja", "isCorrect": false },
+        { "text": "D. Menambah rambu saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu hambatan pekerja melaporkan near miss adalah?",
+      "explanation": "Hambatan pelaporan near miss antara lain rasa takut disalahkan/dihukum, sehingga budaya tanpa menyalahkan (no-blame) perlu dibangun.",
+      "difficulty": "HARD",
+      "tag": "Near Miss & Kartu STOP",
+      "options": [
+        { "text": "A. Rasa takut disalahkan atau dihukum", "isCorrect": true },
+        { "text": "B. Terlalu banyak hadiah", "isCorrect": false },
+        { "text": "C. Pelaporan terlalu mudah", "isCorrect": false },
+        { "text": "D. Tidak ada bahaya sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Budaya keselamatan yang mendorong pelaporan tanpa menghukum pelapor disebut budaya?",
+      "explanation": "Budaya no-blame (just culture) mendorong pelaporan jujur tanpa menghukum pelapor, sehingga bahaya cepat teridentifikasi.",
+      "difficulty": "HARD",
+      "tag": "Near Miss & Kartu STOP",
+      "options": [
+        { "text": "A. No-blame (just culture)", "isCorrect": true },
+        { "text": "B. Budaya menghukum", "isCorrect": false },
+        { "text": "C. Budaya diam", "isCorrect": false },
+        { "text": "D. Budaya konsumtif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan yang benar antara contoh dan kategorinya?",
+      "explanation": "Mesin tanpa pelindung adalah kondisi tidak aman, sedangkan tidak memakai APD adalah tindakan tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Mesin tanpa pelindung = kondisi tidak aman; tidak memakai APD = tindakan tidak aman", "isCorrect": true },
+        { "text": "B. Mesin tanpa pelindung = tindakan tidak aman; tidak memakai APD = kondisi tidak aman", "isCorrect": false },
+        { "text": "C. Keduanya kondisi tidak aman", "isCorrect": false },
+        { "text": "D. Keduanya tindakan tidak aman", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang menjalankan forklift dengan kecepatan tinggi di gudang ramai merupakan?",
+      "explanation": "Mengoperasikan forklift ngebut di area ramai adalah perilaku menyimpang berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jalur forklift yang tidak diberi marka/garis pembatas dengan jalur pejalan kaki merupakan?",
+      "explanation": "Tidak adanya pemisahan marka jalur forklift dan pejalan kaki adalah kondisi lingkungan berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": true },
+        { "text": "B. Tindakan tidak aman", "isCorrect": false },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa observasi K3 disebut sebagai pengendalian proaktif (proactive)?",
+      "explanation": "Observasi bersifat proaktif karena mengidentifikasi dan menangani bahaya sebelum kecelakaan terjadi, bukan setelahnya (reaktif).",
+      "difficulty": "HARD",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Karena menangani bahaya sebelum kecelakaan terjadi", "isCorrect": true },
+        { "text": "B. Karena dilakukan setelah kecelakaan", "isCorrect": false },
+        { "text": "C. Karena hanya menghitung korban", "isCorrect": false },
+        { "text": "D. Karena tidak berhubungan dengan bahaya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Indikator keselamatan yang bersifat leading indicator antara lain?",
+      "explanation": "Jumlah observasi/near miss yang dilaporkan merupakan leading indicator karena mengukur upaya pencegahan sebelum kecelakaan terjadi.",
+      "difficulty": "HARD",
+      "tag": "Near Miss & Kartu STOP",
+      "options": [
+        { "text": "A. Jumlah observasi dan near miss yang dilaporkan", "isCorrect": true },
+        { "text": "B. Jumlah kematian", "isCorrect": false },
+        { "text": "C. Jumlah hari hilang akibat cedera", "isCorrect": false },
+        { "text": "D. Total biaya kompensasi korban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat presentasi, urutan kelompok yang melakukan presentasi pada praktik observasi adalah?",
+      "explanation": "Pada praktik observasi ini, presentasi dilakukan urut dari kelompok 1, 2, 3, dan 4.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Urut dari kelompok 1, 2, 3, dan 4", "isCorrect": true },
+        { "text": "B. Urut dari kelompok 4, 3, 2, dan 1", "isCorrect": false },
+        { "text": "C. Acak", "isCorrect": false },
+        { "text": "D. Hanya kelompok 1", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang tidak memasang pengaman/sabuk keselamatan saat bekerja di ketinggian merupakan?",
+      "explanation": "Tidak memakai sabuk keselamatan (body harness) di ketinggian adalah perilaku menyimpang berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem proteksi kebakaran (alarm/sprinkler) yang tidak berfungsi merupakan?",
+      "explanation": "Sistem proteksi kebakaran yang tidak berfungsi adalah kondisi peralatan keselamatan yang berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": true },
+        { "text": "B. Tindakan tidak aman", "isCorrect": false },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila ditemukan banyak tindakan tidak aman yang sama berulang, akar masalahnya sering terletak pada?",
+      "explanation": "Pengulangan tindakan tidak aman yang sama sering berakar pada lemahnya pelatihan, pengawasan, atau prosedur kerja (faktor manajemen).",
+      "difficulty": "HARD",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Lemahnya pelatihan, pengawasan, atau prosedur (faktor manajemen)", "isCorrect": true },
+        { "text": "B. Nasib buruk pekerja", "isCorrect": false },
+        { "text": "C. Warna seragam", "isCorrect": false },
+        { "text": "D. Jenis lampu ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian yang menghentikan total penggunaan proses/alat berbahaya disebut?",
+      "explanation": "Eliminasi adalah pengendalian yang menghilangkan sumber bahaya secara total, misalnya menghentikan penggunaan alat/proses berbahaya.",
+      "difficulty": "EASY",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": true },
+        { "text": "B. APD", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. Rambu peringatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian praktik observasi didasarkan pada?",
+      "explanation": "Penilaian praktik observasi didasarkan pada presentasi, pertanyaan, dan jawaban dari masing-masing kelompok.",
+      "difficulty": "EASY",
+      "tag": "Pencatatan & Pelaporan",
+      "options": [
+        { "text": "A. Presentasi, pertanyaan, dan jawaban", "isCorrect": true },
+        { "text": "B. Tinggi badan mahasiswa", "isCorrect": false },
+        { "text": "C. Jumlah teman", "isCorrect": false },
+        { "text": "D. Warna baju", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang menggunakan peralatan bukan untuk fungsinya (misal kunci pas sebagai palu) merupakan?",
+      "explanation": "Menggunakan alat tidak sesuai fungsinya adalah perilaku menyimpang yang berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Tindakan tidak aman", "isCorrect": true },
+        { "text": "B. Kondisi tidak aman", "isCorrect": false },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perkakas tangan (hand tool) yang aus, retak, atau rusak namun masih dipakai merupakan?",
+      "explanation": "Perkakas yang rusak/aus adalah kondisi peralatan yang berbahaya, sehingga tergolong kondisi tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": true },
+        { "text": "B. Tindakan tidak aman", "isCorrect": false },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan tujuan akhir penerapan teori penyebab kecelakaan dalam observasi?",
+      "explanation": "Memahami teori penyebab kecelakaan membantu menghilangkan penyebab langsung dan dasar sehingga rangkaian kecelakaan dapat diputus/dicegah.",
+      "difficulty": "MEDIUM",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Memutus rangkaian penyebab agar kecelakaan dapat dicegah", "isCorrect": true },
+        { "text": "B. Mempercepat terjadinya kecelakaan", "isCorrect": false },
+        { "text": "C. Menambah jumlah bahaya", "isCorrect": false },
+        { "text": "D. Mengabaikan keselamatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep observasi kondisi dan tindakan tidak aman merupakan dasar dari metode identifikasi bahaya lanjutan seperti?",
+      "explanation": "Observasi unsafe condition/act menjadi dasar metode lanjutan seperti JSA, HIRADC, dan HAZOP yang lebih terstruktur.",
+      "difficulty": "HARD",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. JSA, HIRADC, dan HAZOP", "isCorrect": true },
+        { "text": "B. Laporan laba rugi", "isCorrect": false },
+        { "text": "C. Audit pajak", "isCorrect": false },
+        { "text": "D. Survei pemasaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang membersihkan tumpahan oli tanpa diperintah dan memasang rambu peringatan menunjukkan?",
+      "explanation": "Membersihkan tumpahan dan memasang rambu adalah perilaku aman (safe act) yang patut diberi penguatan positif.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Perilaku aman (safe act)", "isCorrect": true },
+        { "text": "B. Tindakan tidak aman", "isCorrect": false },
+        { "text": "C. Kondisi tidak aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat mengamati area kerja, pengamat sebaiknya memperhatikan bahaya dari aspek?",
+      "explanation": "Pengamat memperhatikan bahaya menyeluruh: kondisi lingkungan/peralatan dan perilaku pekerja, agar identifikasi tidak parsial.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Kondisi lingkungan/peralatan sekaligus perilaku pekerja", "isCorrect": true },
+        { "text": "B. Hanya pakaian pekerja", "isCorrect": false },
+        { "text": "C. Hanya warna mesin", "isCorrect": false },
+        { "text": "D. Hanya jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah rekomendasi pengendalian diberikan, langkah evaluasi yang penting adalah?",
+      "explanation": "Penting memverifikasi/memonitor apakah tindakan pengendalian telah dilaksanakan dan efektif mengurangi bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Memantau apakah pengendalian dilaksanakan dan efektif", "isCorrect": true },
+        { "text": "B. Melupakan temuan", "isCorrect": false },
+        { "text": "C. Menghapus laporan", "isCorrect": false },
+        { "text": "D. Tidak melakukan apa-apa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang TEPAT mengenai pentingnya observasi tindakan tidak aman menurut data Heinrich adalah?",
+      "explanation": "Karena mayoritas kecelakaan (88%) dipicu tindakan tidak aman, observasi perilaku menjadi sangat penting untuk pencegahan.",
+      "difficulty": "HARD",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Observasi perilaku penting karena mayoritas kecelakaan dipicu tindakan tidak aman", "isCorrect": true },
+        { "text": "B. Tindakan tidak aman tidak relevan", "isCorrect": false },
+        { "text": "C. Hanya kondisi tidak aman yang penting", "isCorrect": false },
+        { "text": "D. Observasi tidak ada gunanya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh near miss saat observasi?",
+      "explanation": "Benda jatuh tepat di samping pekerja tanpa mengenainya adalah near miss karena hampir celaka namun tidak ada cedera.",
+      "difficulty": "MEDIUM",
+      "tag": "Near Miss & Kartu STOP",
+      "options": [
+        { "text": "A. Benda jatuh di samping pekerja tanpa mengenainya", "isCorrect": true },
+        { "text": "B. Pekerja patah tulang akibat tertimpa", "isCorrect": false },
+        { "text": "C. Pekerja meninggal karena ledakan", "isCorrect": false },
+        { "text": "D. Pekerja dirawat di rumah sakit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat utama mahasiswa melakukan observasi K3 di area kampus dalam praktik ini adalah?",
+      "explanation": "Praktik melatih mahasiswa mengenali kondisi dan tindakan tidak aman secara nyata serta menyusun rekomendasi pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Melatih mengenali bahaya nyata dan menyusun rekomendasi pengendalian", "isCorrect": true },
+        { "text": "B. Menambah waktu libur", "isCorrect": false },
+        { "text": "C. Mengurangi jam belajar", "isCorrect": false },
+        { "text": "D. Tidak ada manfaatnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat memberi umpan balik atas tindakan tidak aman, pendekatan yang dianjurkan adalah?",
+      "explanation": "Pendekatan yang dianjurkan adalah komunikasi dua arah yang menghormati pekerja, fokus pada perilaku bukan pribadi, agar perbaikan berkelanjutan.",
+      "difficulty": "HARD",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Komunikasi dua arah, fokus pada perilaku bukan menyerang pribadi", "isCorrect": true },
+        { "text": "B. Memarahi keras di depan umum", "isCorrect": false },
+        { "text": "C. Diam dan mencatat untuk sanksi", "isCorrect": false },
+        { "text": "D. Mengabaikan sepenuhnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi tidak aman dan tindakan tidak aman bila tidak dikendalikan dapat berujung pada?",
+      "explanation": "Bila tidak dikendalikan, unsafe condition dan unsafe act dapat menyebabkan kecelakaan kerja, cedera, atau kerugian.",
+      "difficulty": "EASY",
+      "tag": "Konsep Dasar Bahaya & Risiko",
+      "options": [
+        { "text": "A. Kecelakaan kerja, cedera, atau kerugian", "isCorrect": true },
+        { "text": "B. Kenaikan gaji otomatis", "isCorrect": false },
+        { "text": "C. Penurunan suhu ruangan", "isCorrect": false },
+        { "text": "D. Tidak ada dampak apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang merokok di dekat tangki penyimpanan bahan bakar merupakan?",
+      "explanation": "Merokok di dekat bahan mudah terbakar adalah perilaku menyimpang berbahaya, sehingga tergolong tindakan tidak aman.",
+      "difficulty": "EASY",
+      "tag": "Tindakan Tidak Aman (Unsafe Act)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": false },
+        { "text": "B. Tindakan tidak aman", "isCorrect": true },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Pengendalian eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Genangan air di sekitar panel listrik bertegangan merupakan?",
+      "explanation": "Genangan air di dekat panel listrik adalah kondisi lingkungan berbahaya (risiko sengatan listrik), sehingga tergolong kondisi tidak aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Kondisi Tidak Aman (Unsafe Condition)",
+      "options": [
+        { "text": "A. Kondisi tidak aman", "isCorrect": true },
+        { "text": "B. Tindakan tidak aman", "isCorrect": false },
+        { "text": "C. Kondisi aman", "isCorrect": false },
+        { "text": "D. Near miss", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa observasi tidak boleh hanya berhenti pada pencatatan temuan?",
+      "explanation": "Pencatatan tanpa tindak lanjut tidak mengurangi bahaya; temuan harus dilaporkan dan ditindaklanjuti dengan pengendalian agar bermanfaat.",
+      "difficulty": "MEDIUM",
+      "tag": "Tindak Lanjut & Pengendalian",
+      "options": [
+        { "text": "A. Karena tanpa tindak lanjut bahaya tidak berkurang", "isCorrect": true },
+        { "text": "B. Karena pencatatan dilarang", "isCorrect": false },
+        { "text": "C. Karena temuan tidak penting", "isCorrect": false },
+        { "text": "D. Karena akan menambah keselamatan secara otomatis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu prinsip dalam teori James Reason (Swiss Cheese) adalah pentingnya?",
+      "explanation": "Model Swiss Cheese menekankan pentingnya beberapa lapisan pertahanan (defense in depth) agar bila satu gagal, lapisan lain masih mencegah kecelakaan.",
+      "difficulty": "HARD",
+      "tag": "Teori Penyebab Kecelakaan",
+      "options": [
+        { "text": "A. Beberapa lapisan pertahanan (defense in depth)", "isCorrect": true },
+        { "text": "B. Mengandalkan satu pertahanan saja", "isCorrect": false },
+        { "text": "C. Menghilangkan semua pertahanan", "isCorrect": false },
+        { "text": "D. Mengabaikan pencegahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat mahasiswa mengamati dan menemukan rekan tidak memakai sarung tangan saat menangani benda tajam, tindakan terbaik adalah?",
+      "explanation": "Tindakan terbaik adalah mengingatkan secara baik dan mencatat temuan untuk pelaporan/rekomendasi, sesuai prinsip observasi K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Observasi K3 (BBS)",
+      "options": [
+        { "text": "A. Mengingatkan dengan baik dan mencatat temuan untuk tindak lanjut", "isCorrect": true },
+        { "text": "B. Membiarkan dan menertawakan", "isCorrect": false },
+        { "text": "C. Langsung melaporkan ke rektor", "isCorrect": false },
+        { "text": "D. Ikut tidak memakai sarung tangan", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Kondisi tidak aman (unsafe condition)", "back": "Keadaan fisik lingkungan kerja, peralatan, atau material yang berpotensi menimbulkan kecelakaan. Contoh: lantai licin, mesin tanpa pelindung.", "tag": "Kondisi Tidak Aman (Unsafe Condition)" },
+    { "front": "Tindakan tidak aman (unsafe act)", "back": "Perilaku/perbuatan pekerja yang menyimpang dari prosedur aman dan berpotensi menyebabkan kecelakaan. Contoh: tidak memakai APD, bergurau saat operasikan mesin.", "tag": "Tindakan Tidak Aman (Unsafe Act)" },
+    { "front": "Bahaya (hazard)", "back": "Sumber, situasi, atau tindakan yang berpotensi menimbulkan cedera atau gangguan kesehatan.", "tag": "Konsep Dasar Bahaya & Risiko" },
+    { "front": "Risiko (risk)", "back": "Kombinasi kemungkinan (likelihood) terjadinya kejadian berbahaya dengan tingkat keparahan (severity) akibatnya.", "tag": "Konsep Dasar Bahaya & Risiko" },
+    { "front": "Near miss (nyaris celaka)", "back": "Kejadian yang hampir menimbulkan kecelakaan tetapi tidak sampai menimbulkan cedera atau kerugian. Penting dilaporkan sebagai peringatan dini.", "tag": "Near Miss & Kartu STOP" },
+    { "front": "Behavior Based Safety (BBS)", "back": "Pendekatan keselamatan yang berfokus pada perilaku pekerja melalui observasi, umpan balik, dan penguatan perilaku aman.", "tag": "Metode Observasi K3 (BBS)" },
+    { "front": "Teori Domino Heinrich", "back": "Kecelakaan adalah rangkaian peristiwa berurutan; menghilangkan satu kartu (unsafe act/condition) memutus rangkaian. ~88% kecelakaan akibat tindakan tidak aman.", "tag": "Teori Penyebab Kecelakaan" },
+    { "front": "Teori Swiss Cheese (James Reason)", "back": "Kecelakaan terjadi ketika lubang/kelemahan pada beberapa lapisan pertahanan kebetulan sejajar. Menekankan defense in depth.", "tag": "Teori Penyebab Kecelakaan" },
+    { "front": "Kartu STOP", "back": "Safety Training Observation Program — kartu untuk mencatat hasil observasi perilaku/kondisi keselamatan dan memberi umpan balik kepada pekerja.", "tag": "Near Miss & Kartu STOP" },
+    { "front": "Checklist observasi", "back": "Daftar periksa yang memandu observasi K3 agar sistematis dan item bahaya tidak terlewat.", "tag": "Pencatatan & Pelaporan" },
+    { "front": "Hierarki pengendalian risiko", "back": "Urutan dari paling efektif: Eliminasi - Substitusi - Rekayasa teknik - Administratif - APD.", "tag": "Tindak Lanjut & Pengendalian" },
+    { "front": "Eliminasi", "back": "Menghilangkan sumber bahaya secara total; pengendalian paling efektif di puncak hierarki.", "tag": "Tindak Lanjut & Pengendalian" },
+    { "front": "Pengendalian administratif", "back": "Mengatur cara/waktu kerja: prosedur kerja aman, rambu, pelatihan, rotasi kerja — tanpa mengubah sumber bahaya.", "tag": "Tindak Lanjut & Pengendalian" },
+    { "front": "LOTO (Lockout-Tagout)", "back": "Prosedur penguncian dan pelabelan sumber energi mesin agar tidak menyala saat sedang diperbaiki/dibersihkan.", "tag": "Tindak Lanjut & Pengendalian" },
+    { "front": "Penyebab langsung kecelakaan", "back": "Menurut Heinrich, penyebab langsung adalah tindakan tidak aman (unsafe act) dan kondisi tidak aman (unsafe condition).", "tag": "Teori Penyebab Kecelakaan" },
+    { "front": "Penyebab dasar kecelakaan", "back": "Faktor personal (kurang pengetahuan/keterampilan) dan faktor pekerjaan/manajemen (prosedur, pengawasan lemah) di balik unsafe act/condition.", "tag": "Teori Penyebab Kecelakaan" },
+    { "front": "Siklus observasi K3", "back": "Mengamati - mengidentifikasi bahaya - mencatat - melaporkan - menindaklanjuti dengan pengendalian.", "tag": "Metode Observasi K3 (BBS)" },
+    { "front": "Just culture / no-blame", "back": "Budaya keselamatan yang mendorong pelaporan jujur (near miss, bahaya) tanpa menghukum pelapor, agar bahaya cepat teridentifikasi.", "tag": "Near Miss & Kartu STOP" },
+    { "front": "Leading vs lagging indicator", "back": "Leading: jumlah observasi & near miss dilaporkan (proaktif). Lagging: jumlah kecelakaan/hari hilang (reaktif).", "tag": "Near Miss & Kartu STOP" },
+    { "front": "Isi laporan observasi K3", "back": "Minimal memuat lokasi, jenis temuan (kondisi/tindakan tidak aman), uraian bahaya, dan rekomendasi pengendalian, didukung foto.", "tag": "Pencatatan & Pelaporan" },
+    { "front": "Observasi sebagai pengendalian proaktif", "back": "Observasi mengidentifikasi dan menangani bahaya sebelum kecelakaan terjadi (proaktif), berbeda dari investigasi setelah kecelakaan (reaktif).", "tag": "Konsep Dasar Bahaya & Risiko" }
+  ],
+  "mindmap": [
+    { "id": "observasi-k3", "label": "Observasi Kondisi & Tindakan Tidak Aman", "color": "#6366f1", "parent": null, "content": "Metode dasar identifikasi bahaya: mengamati kondisi lingkungan/peralatan dan perilaku pekerja, lalu mencatat, melaporkan, dan merekomendasikan pengendalian." },
+
+    { "id": "konsep-dasar", "label": "Konsep Dasar Bahaya & Risiko", "color": "#8b5cf6", "parent": "observasi-k3", "content": "Memahami bahaya (hazard) dan risiko (risk) sebagai dasar identifikasi dan pengendalian di tempat kerja." },
+    { "id": "hazard", "label": "Bahaya (Hazard)", "color": "#8b5cf6", "parent": "konsep-dasar", "content": "Sumber, situasi, atau tindakan yang berpotensi menimbulkan cedera atau gangguan kesehatan." },
+    { "id": "risk", "label": "Risiko (Risk)", "color": "#8b5cf6", "parent": "konsep-dasar", "content": "Kombinasi kemungkinan (likelihood) terjadinya kejadian berbahaya dengan tingkat keparahan (severity) akibatnya." },
+    { "id": "proaktif", "label": "Pengendalian Proaktif", "color": "#8b5cf6", "parent": "konsep-dasar", "content": "Observasi bersifat proaktif karena menangani bahaya sebelum kecelakaan terjadi, bukan setelahnya." },
+
+    { "id": "unsafe-condition", "label": "Kondisi Tidak Aman", "color": "#0ea5e9", "parent": "observasi-k3", "content": "Keadaan fisik lingkungan, peralatan, atau material yang berpotensi menimbulkan kecelakaan (unsafe condition)." },
+    { "id": "uc-lantai", "label": "Lantai Licin", "color": "#0ea5e9", "parent": "unsafe-condition", "content": "Lantai licin/basah tanpa rambu peringatan berpotensi menyebabkan terpeleset." },
+    { "id": "uc-mesin", "label": "Mesin Tanpa Pelindung", "color": "#0ea5e9", "parent": "unsafe-condition", "content": "Mesin berputar tanpa guarding atau pelindung yang berbahaya bagi operator." },
+    { "id": "uc-listrik", "label": "Bahaya Listrik", "color": "#0ea5e9", "parent": "unsafe-condition", "content": "Kabel terkelupas, stop kontak rusak, atau genangan air dekat panel listrik." },
+    { "id": "uc-apd-tiada", "label": "APD Tidak Tersedia", "color": "#0ea5e9", "parent": "unsafe-condition", "content": "Tidak tersedianya APD/peralatan keselamatan padahal pekerjaan berbahaya." },
+
+    { "id": "unsafe-act", "label": "Tindakan Tidak Aman", "color": "#10b981", "parent": "observasi-k3", "content": "Perilaku/perbuatan pekerja yang menyimpang dari prosedur aman dan berpotensi menimbulkan kecelakaan (unsafe act)." },
+    { "id": "ua-apd", "label": "Tidak Memakai APD", "color": "#10b981", "parent": "unsafe-act", "content": "Tidak menggunakan atau salah memakai alat pelindung diri saat bekerja." },
+    { "id": "ua-prosedur", "label": "Mengabaikan Prosedur", "color": "#10b981", "parent": "unsafe-act", "content": "Melepas pelindung mesin, mengabaikan rambu, atau memakai alat bukan untuk fungsinya." },
+    { "id": "ua-postur", "label": "Postur/Cara Kerja Salah", "color": "#10b981", "parent": "unsafe-act", "content": "Mengangkat beban membungkuk, berlari di area rintangan, bekerja sambil bergurau." },
+    { "id": "ua-faktor", "label": "Faktor Penyebab", "color": "#10b981", "parent": "unsafe-act", "content": "Kurang pengetahuan/pelatihan, sikap abai, kelelahan, stres, atau tekanan kerja." },
+
+    { "id": "teori-kecelakaan", "label": "Teori Penyebab Kecelakaan", "color": "#f59e0b", "parent": "observasi-k3", "content": "Kerangka yang menjelaskan bagaimana unsafe act/condition memicu kecelakaan." },
+    { "id": "domino", "label": "Teori Domino Heinrich", "color": "#f59e0b", "parent": "teori-kecelakaan", "content": "Kecelakaan adalah rangkaian peristiwa; ~88% akibat tindakan tidak aman. Menghilangkan satu kartu memutus rangkaian." },
+    { "id": "swiss-cheese", "label": "Swiss Cheese (Reason)", "color": "#f59e0b", "parent": "teori-kecelakaan", "content": "Kecelakaan terjadi ketika lubang pada beberapa lapisan pertahanan sejajar; menekankan defense in depth." },
+    { "id": "piramida", "label": "Piramida Kecelakaan", "color": "#f59e0b", "parent": "teori-kecelakaan", "content": "Near miss & unsafe act/condition paling banyak di dasar; fatality paling sedikit di puncak." },
+    { "id": "penyebab-langsung-dasar", "label": "Penyebab Langsung & Dasar", "color": "#f59e0b", "parent": "teori-kecelakaan", "content": "Penyebab langsung: unsafe act/condition. Penyebab dasar: faktor personal dan faktor pekerjaan/manajemen." },
+
+    { "id": "metode-bbs", "label": "Metode Observasi K3 (BBS)", "color": "#ef4444", "parent": "observasi-k3", "content": "Behavior Based Safety: observasi perilaku & kondisi, beri umpan balik konstruktif, perkuat perilaku aman." },
+    { "id": "bbs-langkah", "label": "Langkah Observasi", "color": "#ef4444", "parent": "metode-bbs", "content": "Tentukan area/objek, siapkan checklist, amati kondisi & perilaku, dokumentasikan temuan." },
+    { "id": "bbs-feedback", "label": "Umpan Balik", "color": "#ef4444", "parent": "metode-bbs", "content": "Komunikasi dua arah, fokus pada perilaku bukan pribadi, intervensi positif demi keselamatan." },
+    { "id": "bbs-sikap", "label": "Sikap Pengamat", "color": "#ef4444", "parent": "metode-bbs", "content": "Objektif, teliti, tidak menyalahkan; keselamatan tanggung jawab bersama seluruh pekerja." },
+    { "id": "bbs-rutin", "label": "Observasi Berkala", "color": "#ef4444", "parent": "metode-bbs", "content": "Dilakukan rutin dan berkelanjutan agar bahaya baru cepat teridentifikasi." },
+
+    { "id": "pencatatan", "label": "Pencatatan & Pelaporan", "color": "#ec4899", "parent": "observasi-k3", "content": "Hasil observasi dicatat dalam formulir, dilaporkan ke pihak berwenang, dan dipresentasikan." },
+    { "id": "rec-form", "label": "Formulir/Checklist", "color": "#ec4899", "parent": "pencatatan", "content": "Memuat lokasi, jenis temuan, uraian bahaya, rekomendasi, didukung foto/dokumentasi." },
+    { "id": "rec-lapor", "label": "Pelaporan", "color": "#ec4899", "parent": "pencatatan", "content": "Temuan dilaporkan kepada pengawas/petugas K3/manajemen untuk ditindaklanjuti." },
+    { "id": "rec-presentasi", "label": "Presentasi Kelompok", "color": "#ec4899", "parent": "pencatatan", "content": "Praktik: presentasi 15 menit + tanya jawab 10 menit, koordinator mencatat hasil ke kobid." },
+
+    { "id": "near-miss", "label": "Near Miss & Kartu STOP", "color": "#14b8a6", "parent": "observasi-k3", "content": "Kejadian nyaris celaka dilaporkan sebagai peringatan dini; kartu STOP mencatat observasi." },
+    { "id": "nm-definisi", "label": "Definisi Near Miss", "color": "#14b8a6", "parent": "near-miss", "content": "Hampir celaka tanpa cedera/kerugian; berbeda dari accident yang sudah menimbulkan kerugian." },
+    { "id": "nm-stop", "label": "Kartu STOP", "color": "#14b8a6", "parent": "near-miss", "content": "Safety Training Observation Program untuk mencatat observasi keselamatan dan memberi umpan balik." },
+    { "id": "nm-budaya", "label": "Budaya Pelaporan", "color": "#14b8a6", "parent": "near-miss", "content": "Just culture / no-blame mendorong pelaporan jujur tanpa menghukum pelapor." },
+
+    { "id": "tindak-lanjut", "label": "Tindak Lanjut & Pengendalian", "color": "#8b5cf6", "parent": "observasi-k3", "content": "Temuan ditindaklanjuti dengan pengendalian sesuai hierarki dan dipantau efektivitasnya." },
+    { "id": "tl-hierarki", "label": "Hierarki Pengendalian", "color": "#8b5cf6", "parent": "tindak-lanjut", "content": "Eliminasi - Substitusi - Rekayasa teknik - Administratif - APD (dari paling efektif)." },
+    { "id": "tl-teknik", "label": "Rekayasa Teknik", "color": "#8b5cf6", "parent": "tindak-lanjut", "content": "Memasang guarding mesin, LOTO, modifikasi alat untuk mengisolasi bahaya pada sumbernya." },
+    { "id": "tl-admin", "label": "Administratif & APD", "color": "#8b5cf6", "parent": "tindak-lanjut", "content": "Prosedur kerja aman, rambu, pelatihan, pengawasan, dan APD sebagai pilihan terakhir." },
+    { "id": "tl-monitor", "label": "Pemantauan", "color": "#8b5cf6", "parent": "tindak-lanjut", "content": "Verifikasi apakah pengendalian dilaksanakan dan efektif mengurangi bahaya." }
+  ]
+}

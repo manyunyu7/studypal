@@ -1,0 +1,3089 @@
+{
+  "topic": "Pencahayaan",
+  "order": 4,
+  "description": "Pencahayaan sebagai faktor fisika di tempat kerja: konsep cahaya, besaran dan satuan, alat ukur lux meter, standar pencahayaan, jenis dan sistem pencahayaan, glare/kontras/refleksi, metode pengukuran, dampak kesehatan, serta pengendaliannya.",
+  "subtopics": [
+    "Konsep & Besaran Cahaya",
+    "Satuan & Alat Ukur",
+    "Iluminansi vs Luminansi",
+    "Standar Pencahayaan per Pekerjaan",
+    "Jenis & Sistem Pencahayaan",
+    "Glare, Kontras & Refleksi",
+    "Metode Pengukuran",
+    "Dampak Kesehatan",
+    "Pengendalian"
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Pencahayaan (Penerangan)",
+      "parent": null,
+      "color": "#6366f1",
+      "content": "Penerangan di tempat kerja: cahaya yang memungkinkan tenaga kerja melihat objek dengan baik, jelas, dan tanpa upaya yang dipaksakan, sesuai jenis pekerjaan.\n- Penerangan yang cukup dan diatur baik menciptakan lingkungan kerja nyaman dan menggairahkan kerja\n- Cahaya adalah suatu bentuk energi"
+    },
+    {
+      "id": "k",
+      "label": "Konsep Dasar",
+      "parent": "root",
+      "color": "#8b5cf6",
+      "content": "Pengertian penerangan yang baik, pentingnya pencahayaan, dan persyaratan umum pencahayaan tempat kerja."
+    },
+    {
+      "id": "k-baik",
+      "label": "Penerangan yang Baik",
+      "parent": "k",
+      "color": "#8b5cf6",
+      "content": "Penerangan yang memungkinkan tenaga kerja melihat objek dengan baik, jelas, dan tanpa upaya yang dipaksakan, serta sesuai dengan jenis pekerjaan."
+    },
+    {
+      "id": "k-penting",
+      "label": "Mengapa Penting",
+      "parent": "k",
+      "color": "#8b5cf6",
+      "content": "Pencahayaan berdampak pada kemampuan melihat dan menyelesaikan pekerjaan. Penting karena memengaruhi:\n- Keselamatan (terutama pabrik, gudang, fasilitas penyimpanan)\n- Emosi dan produktivitas\n- Kenyamanan dan kegairahan kerja"
+    },
+    {
+      "id": "k-penting-selamat",
+      "label": "Keselamatan",
+      "parent": "k-penting",
+      "color": "#8b5cf6",
+      "content": "Tingkat pencahayaan yang tepat penting untuk keselamatan. Pencahayaan tidak memadai meningkatkan kemungkinan terjadinya insiden dan cedera, terutama di lingkungan pabrik dan fasilitas penyimpanan."
+    },
+    {
+      "id": "k-penting-prod",
+      "label": "Produktivitas & Emosi",
+      "parent": "k-penting",
+      "color": "#8b5cf6",
+      "content": "Tingkat cahaya memengaruhi emosi dan produktivitas. Pencahayaan tepat menciptakan lingkungan hangat dan menarik yang mendorong relaksasi dan produktivitas; pencahayaan tidak memadai berdampak sebaliknya."
+    },
+    {
+      "id": "k-syarat",
+      "label": "Persyaratan Umum",
+      "parent": "k",
+      "color": "#8b5cf6",
+      "content": "Sistem pencahayaan harus dipertimbangkan pada tahap desain dan instalasi, dengan tujuan:\n- Mengakomodasi perubahan kegiatan kerja dan perkembangan konstruksi\n- Memastikan keselamatan: bahaya terlihat dan cukup terang\n- Mempertimbangkan jenis tugas pekerjaan\n- Menciptakan lingkungan kerja dengan pencahayaan sesuai\n- Menyediakan lingkungan visual yang aman dan nyaman"
+    },
+    {
+      "id": "b",
+      "label": "Besaran & Satuan",
+      "parent": "root",
+      "color": "#06b6d4",
+      "content": "Unit pengukuran pencahayaan: fluks cahaya (lumen), iluminasi (lux/footcandle), dan dua pendekatan satuan (fisika vs subyektif)."
+    },
+    {
+      "id": "b-lumen",
+      "label": "Lumen (lm)",
+      "parent": "b",
+      "color": "#06b6d4",
+      "content": "Unit pengukuran jumlah cahaya tampak yang dapat dilihat mata manusia. Fluks cahaya dari sumber tertentu diukur dalam lumen.\n- Semakin tinggi output lumen, semakin terang/tinggi intensitas sumber\n- Semakin rendah lumen, semakin redup\n- Saat membeli bola lampu berdasarkan kecerahan, yang dicari adalah lumen, bukan watt"
+    },
+    {
+      "id": "b-lumen-watt",
+      "label": "Lumen vs Watt",
+      "parent": "b-lumen",
+      "color": "#06b6d4",
+      "content": "Watt hanya menentukan konsumsi energi bola lampu, bukan kecerahannya. Kecerahan sebenarnya diukur dengan lumen."
+    },
+    {
+      "id": "b-flux",
+      "label": "Fluks Cahaya (Luminous Flux)",
+      "parent": "b",
+      "color": "#06b6d4",
+      "content": "Cara mengukur daya yang dirasakan atau jumlah total output cahaya dari sumber cahaya.\n- Dinyatakan dalam lumen\n- Diperlukan area permukaan 1 meter persegi (lux) untuk menentukan nilai fluks cahaya\n- Sumber memancarkan cahaya ke segala arah; total pengukuran ditampilkan sebagai fluks cahaya"
+    },
+    {
+      "id": "b-flux-power",
+      "label": "Setara Daya",
+      "parent": "b-flux",
+      "color": "#06b6d4",
+      "content": "Fluks cahaya setara dengan daya (power). Sumber satu lilin memancarkan fluks cahaya sebesar satu daya lilin atau 4π lumens."
+    },
+    {
+      "id": "b-ilum",
+      "label": "Iluminasi",
+      "parent": "b",
+      "color": "#06b6d4",
+      "content": "Metrik untuk mengukur intensitas cahaya di dalam ruang, yaitu jumlah cahaya (lumens) yang jatuh pada suatu permukaan.\n- Diukur dalam footcandle atau lux\n- Satuan: lumen per kaki persegi (footcandle) atau lumen per meter persegi (lux)\n- Mengevaluasi apakah cahaya cukup untuk tugas visual"
+    },
+    {
+      "id": "b-lux",
+      "label": "Lux",
+      "parent": "b",
+      "color": "#06b6d4",
+      "content": "Satuan ukuran jumlah lumen yang jatuh pada satu meter persegi suatu permukaan.\n- 1 lux = 1 lumen per meter persegi\n- 1000 lumen disebar pada 1 m² = 1000 lux (kecerahan hari mendung)\n- 1000 lumen disebar pada 10 m² = 100 lux (lebih redup)"
+    },
+    {
+      "id": "b-lux-jarak",
+      "label": "Definisi via Jarak",
+      "parent": "b-lux",
+      "color": "#06b6d4",
+      "content": "Intensitas pada jarak satu meter dari lilin standar adalah satu meter-lilin atau satu lux."
+    },
+    {
+      "id": "b-fc",
+      "label": "Footcandle",
+      "parent": "b",
+      "color": "#06b6d4",
+      "content": "Ukuran intensitas cahaya, yaitu jumlah lumen per kaki persegi.\n- 1 footcandle = 1 lumen per kaki persegi\n- Intensitas pada jarak satu kaki dari lilin standar = satu footcandle\n- Diukur dengan foot-candle meter (meteran pencahayaan fotografi)"
+    },
+    {
+      "id": "b-fc-konv",
+      "label": "Konversi ke Lux",
+      "parent": "b-fc",
+      "color": "#06b6d4",
+      "content": "1 footcandle = 10,8 lux. Konversi ini dipakai untuk menerjemahkan kebutuhan pencahayaan antar sistem satuan."
+    },
+    {
+      "id": "b-fc-banding",
+      "label": "Contoh Perbandingan",
+      "parent": "b-fc",
+      "color": "#06b6d4",
+      "content": "Contoh perbandingan footcandle dan lux:\n- Ruang kelas (classroom): 30-50 footcandle / 300-500 lux\n- Laboratorium profesional: 75-120 footcandle / 750-1200 lux"
+    },
+    {
+      "id": "b-unit",
+      "label": "Dua Pendekatan Satuan",
+      "parent": "b",
+      "color": "#06b6d4",
+      "content": "Unit pengukuran pencahayaan dibedakan secara fisika dan secara subyektif (berdasarkan kemampuan mata manusia)."
+    },
+    {
+      "id": "b-unit-fisika",
+      "label": "Satuan Fisika",
+      "parent": "b-unit",
+      "color": "#06b6d4",
+      "content": "Cahaya sebagai energi diukur dalam satuan energi (joule, kalori) atau kuantum (kuanta, einstein).\n- 6 x 10^23 kuanta = 1 mol cahaya (1 einstein, terminologi lama)\n- Daya diukur dalam watt (1 watt = 1 joule/detik)\n- Intensitas = daya per unit penampang (watt m^-2 atau einstein m^-2 detik^-1)"
+    },
+    {
+      "id": "b-unit-fisika-alat",
+      "label": "Alat Ukur Fisika",
+      "parent": "b-unit-fisika",
+      "color": "#06b6d4",
+      "content": "Intensitas cahaya diukur misalnya dengan pengukur cahaya LICOR atau pengukur QSL (quantum scalar irradiance). Tipe QSL dianggap lebih akurat karena kolektornya berbentuk bola, bukan pelat datar."
+    },
+    {
+      "id": "b-unit-subj",
+      "label": "Satuan Subyektif",
+      "parent": "b-unit",
+      "color": "#06b6d4",
+      "content": "Berdasarkan kecerahan yang terlihat oleh mata manusia. Satuannya meliputi lilin, lumen, footcandle, dan lux.\n- Didasarkan pada penglihatan manusia\n- Berguna untuk menentukan tingkat pencahayaan aman dan nyaman (sekolah, kantor)\n- Sumber memiliki luminositas satu lilin jika outputnya cocok dengan lilin standar"
+    },
+    {
+      "id": "b-unit-konv",
+      "label": "Konversi Bergantung Panjang Gelombang",
+      "parent": "b-unit",
+      "color": "#06b6d4",
+      "content": "Konversi unit fisik ke subjektif bergantung visibilitas relatif panjang gelombang (panjang gelombang tertentu lebih terlihat mata). Karena itu konversi lux ke μmol foton hanya perkiraan.\n- Contoh: 1000 lux = 16-20 μmol foton m^-2 s^-1 (Lux x ~0,0165)"
+    },
+    {
+      "id": "j",
+      "label": "Jenis Pencahayaan",
+      "parent": "root",
+      "color": "#f59e0b",
+      "content": "Contoh dan klasifikasi pencahayaan tempat kerja: umum, akses/tangga, darurat, serta dalam vs luar gedung."
+    },
+    {
+      "id": "j-umum",
+      "label": "Pencahayaan Umum",
+      "parent": "j",
+      "color": "#f59e0b",
+      "content": "Pencahayaan menyeluruh untuk area kerja secara umum, menerangi keseluruhan ruangan tanpa fokus pada satu titik kerja tertentu."
+    },
+    {
+      "id": "j-akses",
+      "label": "Akses & Tangga",
+      "parent": "j",
+      "color": "#f59e0b",
+      "content": "Pencahayaan untuk jalur akses dan tangga agar pergerakan orang aman."
+    },
+    {
+      "id": "j-darurat",
+      "label": "Pencahayaan Darurat",
+      "parent": "j",
+      "color": "#f59e0b",
+      "content": "Pencahayaan kondisi darurat yang membutuhkan tenaga baterai.\n- Dipasang di tangga, lorong, dan di samping switchboard\n- Memungkinkan akses dan keluar yang aman saat kehilangan daya dan tidak ada cahaya alami yang cukup"
+    },
+    {
+      "id": "j-lokal",
+      "label": "Pencahayaan Lokal/Setempat",
+      "parent": "j",
+      "color": "#f59e0b",
+      "content": "Pencahayaan terfokus pada tempat/area kerja tertentu (misalnya permukaan meja kerja), terpisah dari pencahayaan umum ruangan."
+    },
+    {
+      "id": "j-lokasi",
+      "label": "Dalam vs Luar Gedung",
+      "parent": "j",
+      "color": "#f59e0b",
+      "content": "Persyaratan pencahayaan lingkungan kerja dikelompokkan menjadi pencahayaan dalam gedung industri dan pencahayaan di luar gedung industri."
+    },
+    {
+      "id": "j-lokasi-luar",
+      "label": "Luar Gedung",
+      "parent": "j-lokasi",
+      "color": "#f59e0b",
+      "content": "Pencahayaan luar gedung (pencahayaan umum) mengatur area kerja yang tidak diakses pada malam hari atau area dengan kegiatan kerja yang bersifat intermittent, di mana pencahayaan dapat dengan mudah dinyalakan dan dimatikan."
+    },
+    {
+      "id": "e",
+      "label": "Efek pada Pekerja",
+      "parent": "root",
+      "color": "#10b981",
+      "content": "Intensitas penerangan yang kurang maupun berlebih dapat menyebabkan gangguan kesehatan dan keselamatan."
+    },
+    {
+      "id": "e-kurang",
+      "label": "Pencahayaan Kurang",
+      "parent": "e",
+      "color": "#10b981",
+      "content": "Pencahayaan tidak memadai menyebabkan:\n- Kelelahan mata\n- Sakit kepala\n- Kesulitan untuk fokus"
+    },
+    {
+      "id": "e-berlebih",
+      "label": "Pencahayaan Berlebih",
+      "parent": "e",
+      "color": "#10b981",
+      "content": "Kecerahan berlebihan menyebabkan:\n- Silau (glare)\n- Ketidaknyamanan"
+    },
+    {
+      "id": "e-kerja",
+      "label": "Dampak Kinerja & Insiden",
+      "parent": "e",
+      "color": "#10b981",
+      "content": "Pencahayaan tidak memadai berdampak pada kemampuan melihat dan menyelesaikan pekerjaan, serta meningkatkan kemungkinan terjadinya insiden dan cedera di tempat kerja."
+    },
+    {
+      "id": "s",
+      "label": "Standar & Regulasi",
+      "parent": "root",
+      "color": "#ef4444",
+      "content": "Peraturan dan standar yang mengatur intensitas penerangan di Indonesia."
+    },
+    {
+      "id": "s-permenaker",
+      "label": "Permenaker No. 5 Tahun 2018",
+      "parent": "s",
+      "color": "#ef4444",
+      "content": "Peraturan Menteri Tenaga Kerja Nomor 5 Tahun 2018, mengatur Nilai Ambang Batas faktor fisika termasuk intensitas penerangan di tempat kerja."
+    },
+    {
+      "id": "s-permenkes",
+      "label": "Permenkes No. 70 Tahun 2016",
+      "parent": "s",
+      "color": "#ef4444",
+      "content": "Peraturan Menteri Kesehatan No. 70 Tahun 2016 menetapkan persyaratan pencahayaan spesifik untuk tiap jenis area/pekerjaan/aktivitas pada berbagai industri (dalam atau luar gedung).\n- Persyaratan dinyatakan dalam satuan Lux\n- Merupakan nilai tingkat pencahayaan yang disarankan"
+    },
+    {
+      "id": "s-permenkes-dalam",
+      "label": "Dalam Gedung",
+      "parent": "s-permenkes",
+      "color": "#ef4444",
+      "content": "Persyaratan pencahayaan dalam gedung industri, mencakup zona lalu lintas dan area umum dalam gedung, serta persyaratan berdasarkan jenis industri."
+    },
+    {
+      "id": "s-permenkes-luar",
+      "label": "Luar Gedung",
+      "parent": "s-permenkes",
+      "color": "#ef4444",
+      "content": "Persyaratan pencahayaan di luar gedung lingkungan kerja (pencahayaan umum), termasuk berdasarkan jenis industri:\n- Fasilitas anjungan pengeboran lepas pantai minyak dan gas\n- Industri petrokimia dan bahan kimia berbahaya\n- Instalasi pembangkit tenaga listrik"
+    },
+    {
+      "id": "s-permenkes-pedoman",
+      "label": "Pedoman & Toleransi",
+      "parent": "s-permenkes",
+      "color": "#ef4444",
+      "content": "Nilai persyaratan adalah nilai yang sedapat mungkin dipenuhi sesuai jenis area dan pekerjaan. Suatu lingkungan kerja dikatakan memenuhi persyaratan apabila perbedaannya maksimal 10% dari nilai tingkat pencahayaan yang dipersyaratkan."
+    },
+    {
+      "id": "s-esdm",
+      "label": "Permen ESDM No. 13",
+      "parent": "s",
+      "color": "#ef4444",
+      "content": "Peraturan Menteri ESDM tentang pencahayaan (disebut sebagai No. 13 Tahun 2021, juga dirujuk versi No. 13 Tahun 2012 pada materi), mengatur ketentuan pencahayaan pada sektor terkait ESDM."
+    },
+    {
+      "id": "s-sni",
+      "label": "SNI 7062:2019",
+      "parent": "s",
+      "color": "#ef4444",
+      "content": "Standar Nasional Indonesia No. 7062:2019 (Ralat 1 2020), standar nasional yang mengatur pengukuran intensitas penerangan di tempat kerja."
+    },
+    {
+      "id": "s-pmp",
+      "label": "PMP No. 7 Tahun 1964",
+      "parent": "s",
+      "color": "#ef4444",
+      "content": "Nilai Ambang Batas pencahayaan pada formulir survei dirujuk sesuai Peraturan Menteri Perburuhan (PMP) No. 7 Tahun 1964."
+    },
+    {
+      "id": "p",
+      "label": "Pengukuran",
+      "parent": "root",
+      "color": "#ec4899",
+      "content": "Alat, persyaratan, tata cara, dan metode pengukuran intensitas penerangan, serta observasi dan formulir survei."
+    },
+    {
+      "id": "p-alat",
+      "label": "Alat Ukur (Luxmeter)",
+      "parent": "p",
+      "color": "#ec4899",
+      "content": "Pengukuran intensitas penerangan memakai luxmeter yang hasilnya dapat langsung dibaca.\n- Mengubah energi cahaya menjadi energi listrik\n- Arus listrik menggerakkan jarum skala\n- Pada alat digital, energi listrik diubah menjadi angka pada layar"
+    },
+    {
+      "id": "p-syarat",
+      "label": "Persyaratan Pengukuran",
+      "parent": "p",
+      "color": "#ec4899",
+      "content": "Kondisi yang harus dipenuhi sebelum pengukuran:\n- Pintu ruangan dalam keadaan sesuai kondisi tempat pekerjaan dilakukan\n- Lampu ruangan dinyalakan sesuai kondisi pekerjaan"
+    },
+    {
+      "id": "p-tatacara",
+      "label": "Tata Cara",
+      "parent": "p",
+      "color": "#ec4899",
+      "content": "Langkah pengukuran dengan luxmeter:\n- Hidupkan luxmeter yang telah dikalibrasi dengan membuka penutup sensor\n- Bawa alat ke titik pengukuran (setempat atau umum)\n- Baca hasil setelah angka stabil\n- Catat hasil pada lembar pencatatan\n- Matikan luxmeter setelah selesai"
+    },
+    {
+      "id": "p-tatacara-nol",
+      "label": "Pengaturan Nol",
+      "parent": "p-tatacara",
+      "color": "#ec4899",
+      "content": "Sebelum pengukuran, tutup fotosel dengan bahan tidak tembus cahaya dan pastikan jarum/display menunjukkan angka 0. Sebelum pembacaan, pindahkan penutup dan biarkan sel terpapar cahaya selama 5 menit."
+    },
+    {
+      "id": "p-tatacara-tinggi",
+      "label": "Posisi & Ketinggian",
+      "parent": "p-tatacara",
+      "color": "#ec4899",
+      "content": "Aturan posisi pengukuran:\n- Bidang horizontal: setinggi ± 0,85 m di atas lantai\n- Tangga atau koridor: luxmeter diletakkan di lantai/tempat injakan kaki\n- Bidang vertikal atau condong: pembacaan pada bidang relevan"
+    },
+    {
+      "id": "p-tatacara-lampu",
+      "label": "Waktu Tunggu Lampu",
+      "parent": "p-tatacara",
+      "color": "#ec4899",
+      "content": "Bila sumber cahaya berupa lampu TL atau lampu merkuri, pembacaan dilakukan paling sedikit 5 menit setelah lampu menyala (agar keluaran cahaya stabil)."
+    },
+    {
+      "id": "p-tatacara-surveyor",
+      "label": "Pakaian Surveyor",
+      "parent": "p-tatacara",
+      "color": "#ec4899",
+      "content": "Pakaian surveyor hendaknya berwarna gelap untuk mencegah pantulan cahaya dari pakaian surveyor yang dapat mengganggu pembacaan."
+    },
+    {
+      "id": "p-tatacara-normal",
+      "label": "Kondisi Kerja Normal",
+      "parent": "p-tatacara",
+      "color": "#ec4899",
+      "content": "Pembacaan dilakukan dengan keadaan perabot dan penghuni ruang pada posisi kerja normal."
+    },
+    {
+      "id": "p-tatacara-alami",
+      "label": "Cahaya Alami + Buatan",
+      "parent": "p-tatacara",
+      "color": "#ec4899",
+      "content": "Bila ruang memakai cahaya alami dan buatan:\n- Ukur dengan semua lampu menyala dan tirai dibuka (hasil a), baca setelah 5 menit\n- Matikan lampu, ukur kembali (hasil b)\n- Hasil cahaya buatan = (a) dikurangi (b); cek ulang bila meragukan (malam hari)"
+    },
+    {
+      "id": "p-metode",
+      "label": "Metode per Jenis Penerangan",
+      "parent": "p",
+      "color": "#ec4899",
+      "content": "Cara pengukuran dibedakan berdasarkan macam penerangan: umum (regular vs irregular) dan lokal."
+    },
+    {
+      "id": "p-metode-umum",
+      "label": "Penerangan Umum",
+      "parent": "p-metode",
+      "color": "#ec4899",
+      "content": "Pengukuran penerangan umum:\n- Ruang teratur (regular): tidak ada hambatan/sekat, titik pengukuran berjarak 90-100 cm\n- Ruang tidak teratur (irregular): ada penghalang/susunan lampu tidak teratur, titik pengukuran acak dan banyak"
+    },
+    {
+      "id": "p-metode-lokal",
+      "label": "Penerangan Lokal",
+      "parent": "p-metode",
+      "color": "#ec4899",
+      "content": "Pengukuran penerangan lokal:\n- Luxmeter diletakkan pada dasar tempat kerja (misalnya meja)\n- Pengukuran dilakukan lebih dari satu kali kemudian dirata-rata"
+    },
+    {
+      "id": "p-pantulan",
+      "label": "Pengukuran Pantulan",
+      "parent": "p",
+      "color": "#ec4899",
+      "content": "Mengukur cahaya yang dipantulkan permukaan:\n- Hadapkan fotosel ke dinding/meja, lalu angkat menjauh perlahan hingga angka tetap (nilai B = intensitas pantulan)\n- Ukur intensitas cahaya lokal/sumber (nilai A)"
+    },
+    {
+      "id": "p-pantulan-nilai",
+      "label": "Nilai Pantulan Dianjurkan",
+      "parent": "p-pantulan",
+      "color": "#ec4899",
+      "content": "Nilai pantulan yang dianjurkan per permukaan:\n- Langit-langit: 80-90%\n- Dinding: 40-60%\n- Meja, kursi & mesin: 25-45%\n- Lantai: 20%"
+    },
+    {
+      "id": "p-observasi",
+      "label": "Observasi",
+      "parent": "p",
+      "color": "#ec4899",
+      "content": "Pengamatan kualitatif kondisi pencahayaan tempat kerja, mencakup:\n- Kenyamanan tempat kerja secara keseluruhan\n- Kecukupan pencahayaan umum dan kebutuhan supplementary lighting\n- Kebersihan lampu (armatur) dan jadwal pembersihan\n- Jumlah lampu yang rusak\n- Kesesuaian warna dinding/langit-langit/lantai dengan nilai pantulan\n- Ada/tidaknya sumber kesilauan dan bayangan yang mengganggu"
+    },
+    {
+      "id": "p-formulir",
+      "label": "Formulir Survei",
+      "parent": "p",
+      "color": "#ec4899",
+      "content": "Formulir survei pencahayaan mencatat data perusahaan, unit kerja, tanggal, waktu (siang/malam), cuaca, alat, serta karakteristik tempat kerja."
+    },
+    {
+      "id": "p-formulir-karakter",
+      "label": "Karakteristik Tempat Kerja",
+      "parent": "p-formulir",
+      "color": "#ec4899",
+      "content": "Identifikasi tempat kerja: panjang, lebar, tinggi (bila tidak teratur, diuraikan), serta gambaran dinding, langit-langit, dan lantai (bahan, warna, susunan, keadaan permukaan)."
+    },
+    {
+      "id": "p-formulir-lampu",
+      "label": "Data Lampu & Armatur",
+      "parent": "p-formulir",
+      "color": "#ec4899",
+      "content": "Data lampu yang dicatat:\n- Jenis dan spesifikasi lampu\n- Jumlah lampu per armatur dan jumlah armatur\n- Banyaknya deretan dan jumlah armatur per deret\n- Tinggi dan jarak pemasangan antar armatur\n- Keadaan armatur (bersih/sedang/kotor)"
+    },
+    {
+      "id": "p-analisis",
+      "label": "Analisis Hasil",
+      "parent": "p",
+      "color": "#ec4899",
+      "content": "Perhitungan hasil pengukuran intensitas dan pantulan."
+    },
+    {
+      "id": "p-analisis-rata",
+      "label": "Rata-rata Intensitas",
+      "parent": "p-analisis",
+      "color": "#ec4899",
+      "content": "Intensitas pencahayaan umum dan lokal dihitung sebagai jumlah semua intensitas dibagi jumlah titik pengukuran:\n- Intensitas (lux) = (IP1 + IP2 + ... + IPn) / n"
+    },
+    {
+      "id": "p-analisis-pantul",
+      "label": "Persen Pantulan",
+      "parent": "p-analisis",
+      "color": "#ec4899",
+      "content": "Persentase pantulan dihitung dari intensitas pantulan dibagi intensitas sumber:\n- % pantulan = (intensitas pantulan / intensitas sumber) x 100% = (B / A) x 100%"
+    },
+    {
+      "id": "h",
+      "label": "Perhitungan Kebutuhan Cahaya",
+      "parent": "root",
+      "color": "#14b8a6",
+      "content": "Panduan menghitung jumlah cahaya yang dibutuhkan dalam ruangan, dalam tiga langkah."
+    },
+    {
+      "id": "h-l1",
+      "label": "Langkah 1: Ukur Ruangan",
+      "parent": "h",
+      "color": "#14b8a6",
+      "content": "Ukur dimensi (luas) ruangan yang akan diterangi sebagai dasar perhitungan kebutuhan cahaya."
+    },
+    {
+      "id": "h-l2",
+      "label": "Langkah 2: Tentukan Footcandle/Lux",
+      "parent": "h",
+      "color": "#14b8a6",
+      "content": "Tentukan footcandle atau lux yang dibutuhkan ruangan.\n- Footcandle: seberapa terang cahaya berjarak satu kaki dari sumber\n- Lux: seberapa terang cahaya berjarak satu meter dari sumber\n- Kebutuhan bervariasi per jenis ruang (1 footcandle = 10,8 lux)"
+    },
+    {
+      "id": "h-l2-tabel",
+      "label": "Kebutuhan per Ruang",
+      "parent": "h-l2",
+      "color": "#14b8a6",
+      "content": "Footcandle yang dibutuhkan per jenis ruang:\n- Ruang tamu: 10-20\n- Dapur: 30-40\n- Ruang makan: 30-40\n- Ruang tidur: 10-20\n- Lorong: 5-10\n- Kamar mandi: 70-80"
+    },
+    {
+      "id": "h-l3",
+      "label": "Langkah 3: Tentukan Lumen",
+      "parent": "h",
+      "color": "#14b8a6",
+      "content": "Tentukan lumen yang diperlukan dengan mengalikan luas ruangan dengan kebutuhan footcandle.\n- Contoh: ruang tamu 100 kaki² butuh 10-20 footcandle = 1.000-2.000 lumen\n- Contoh: ruang makan 100 kaki² butuh 30-40 footcandle = 3.000-4.000 lumen"
+    },
+    {
+      "id": "h-contoh",
+      "label": "Contoh Perhitungan",
+      "parent": "h",
+      "color": "#14b8a6",
+      "content": "Untuk ruang rata-rata 250 kaki², dibutuhkan sekitar 5.000 lumen sebagai sumber cahaya utama (20 footcandle x 250 kaki²).\n- Di atas meja makan: sekitar 30 lumen per kaki²; meja 6 x 3 kaki = 540 lumen"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Apa satuan iluminansi (tingkat pencahayaan) dalam SI?",
+      "back": "Lux (lx), yaitu lumen per meter persegi (lm/m2).",
+      "tag": "Satuan & Alat Ukur"
+    },
+    {
+      "front": "Apa itu lumen (lm)?",
+      "back": "Satuan fluks cahaya, yaitu jumlah total cahaya tampak yang dipancarkan sumber dan dapat dilihat mata manusia.",
+      "tag": "Konsep & Besaran Cahaya"
+    },
+    {
+      "front": "Definisi 1 lux?",
+      "back": "1 lux = 1 lumen yang jatuh merata pada permukaan seluas 1 meter persegi (1 lm/m2).",
+      "tag": "Satuan & Alat Ukur"
+    },
+    {
+      "front": "Konversi footcandle ke lux?",
+      "back": "1 footcandle = 10,76 lux (dibulatkan 10,8 lux); footcandle = lumen per kaki persegi.",
+      "tag": "Satuan & Alat Ukur"
+    },
+    {
+      "front": "Apa beda iluminansi dan luminansi?",
+      "back": "Iluminansi = cahaya yang jatuh ke permukaan (lux). Luminansi = cahaya yang dipancarkan/dipantulkan permukaan ke arah mata (cd/m2).",
+      "tag": "Iluminansi vs Luminansi"
+    },
+    {
+      "front": "Apa alat ukur tingkat pencahayaan?",
+      "back": "Lux meter (luxmeter), mengubah energi cahaya menjadi energi listrik yang ditampilkan sebagai angka lux.",
+      "tag": "Satuan & Alat Ukur"
+    },
+    {
+      "front": "Apa satuan intensitas cahaya (luminous intensity)?",
+      "back": "Candela (cd), dalam istilah lama disebut lilin (candle).",
+      "tag": "Konsep & Besaran Cahaya"
+    },
+    {
+      "front": "Peraturan utama standar pencahayaan kerja di Indonesia?",
+      "back": "Permenaker No. 5 Tahun 2018; juga Permenkes No. 70 Tahun 2016 dan SNI 7062:2019.",
+      "tag": "Standar Pencahayaan per Pekerjaan"
+    },
+    {
+      "front": "Toleransi pemenuhan tingkat pencahayaan menurut pedoman?",
+      "back": "Maksimal perbedaan 10% dari nilai tingkat pencahayaan yang dipersyaratkan.",
+      "tag": "Standar Pencahayaan per Pekerjaan"
+    },
+    {
+      "front": "Tiga sistem pencahayaan berdasarkan distribusinya?",
+      "back": "Pencahayaan umum (merata seluruh ruang), pencahayaan lokal/setempat (di area kerja tertentu), dan gabungan.",
+      "tag": "Jenis & Sistem Pencahayaan"
+    },
+    {
+      "front": "Tinggi bidang pengukuran iluminansi horizontal umum?",
+      "back": "Sekitar +0,85 m di atas lantai (setinggi bidang kerja).",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Nilai pantulan yang dianjurkan untuk langit-langit?",
+      "back": "80 - 90%.",
+      "tag": "Glare, Kontras & Refleksi"
+    },
+    {
+      "front": "Nilai pantulan yang dianjurkan untuk dinding dan lantai?",
+      "back": "Dinding 40 - 60%; lantai sekitar 20%.",
+      "tag": "Glare, Kontras & Refleksi"
+    },
+    {
+      "front": "Apa itu silau (glare)?",
+      "back": "Ketidaknyamanan/gangguan penglihatan akibat kecerahan berlebih atau kontras kecerahan yang terlalu tinggi dalam lapang pandang.",
+      "tag": "Glare, Kontras & Refleksi"
+    },
+    {
+      "front": "Rumus rata-rata intensitas pencahayaan?",
+      "back": "Intensitas (lux) = jumlah semua nilai titik pengukuran / jumlah titik pengukuran.",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Cara hitung kebutuhan lumen ruangan (metode lumen sederhana)?",
+      "back": "Lumen dibutuhkan = luas ruangan x kebutuhan footcandle (atau lux) ruangan tersebut.",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Dampak kesehatan pencahayaan kurang memadai?",
+      "back": "Kelelahan mata (asthenopia), sakit kepala, sulit fokus, dan meningkatnya risiko insiden/cedera.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Jarak titik pengukuran penerangan umum pada ruang teratur?",
+      "back": "Sekitar 90 - 100 cm antar titik pengukuran.",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Berapa lumen yang dipancarkan sumber 1 candela?",
+      "back": "4 pi lumen (kurang lebih 12,57 lumen).",
+      "tag": "Konsep & Besaran Cahaya"
+    },
+    {
+      "front": "Mengapa pakaian surveyor sebaiknya gelap saat mengukur?",
+      "back": "Untuk mencegah pantulan cahaya dari pakaian yang dapat mempengaruhi hasil pembacaan lux meter.",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Apa beda lumen dan watt pada lampu?",
+      "back": "Lumen mengukur kecerahan (jumlah cahaya tampak yang dipancarkan); watt hanya menentukan konsumsi energi lampu, bukan kecerahannya.",
+      "tag": "Konsep & Besaran Cahaya"
+    },
+    {
+      "front": "Apa yang dimaksud pencahayaan alami dan pencahayaan buatan?",
+      "back": "Pencahayaan alami bersumber dari sinar matahari; pencahayaan buatan bersumber dari lampu (mis. TL, pijar, LED).",
+      "tag": "Jenis & Sistem Pencahayaan"
+    },
+    {
+      "front": "Apa fungsi pencahayaan darurat dan sumber tenaganya?",
+      "back": "Memungkinkan akses dan keluar yang aman saat listrik padam; bertenaga baterai dan dipasang di tangga, lorong, serta di samping switchboard.",
+      "tag": "Jenis & Sistem Pencahayaan"
+    },
+    {
+      "front": "Mengapa pencahayaan yang berlebihan tidak baik?",
+      "back": "Kecerahan berlebih menimbulkan silau (glare) dan ketidaknyamanan visual.",
+      "tag": "Dampak Kesehatan"
+    },
+    {
+      "front": "Bagaimana cara kerja lux meter mengubah cahaya menjadi angka?",
+      "back": "Lux meter mengubah energi cahaya menjadi energi listrik; arus listrik menggerakkan jarum skala, dan pada alat digital diubah menjadi angka pada layar.",
+      "tag": "Satuan & Alat Ukur"
+    },
+    {
+      "front": "Berapa nilai pantulan yang dianjurkan untuk meja, kursi, dan mesin?",
+      "back": "Sekitar 25 - 45%.",
+      "tag": "Glare, Kontras & Refleksi"
+    },
+    {
+      "front": "Bagaimana rumus menghitung persen pantulan permukaan?",
+      "back": "% pantulan = (intensitas pantulan / intensitas sumber) x 100% = (B / A) x 100%.",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Bagaimana mengukur pencahayaan ruang yang memakai cahaya alami dan buatan sekaligus?",
+      "back": "Ukur dengan semua lampu menyala dan tirai terbuka (a), lalu matikan lampu dan ukur lagi (b); nilai cahaya buatan = a - b.",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Berapa lama waktu tunggu sebelum membaca lux meter untuk lampu TL atau merkuri?",
+      "back": "Paling sedikit 5 menit setelah lampu menyala, agar keluaran cahaya stabil.",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Di mana lux meter diletakkan saat mengukur penerangan pada tangga atau koridor?",
+      "back": "Di lantai atau pada tempat injakan kaki (bukan setinggi 0,85 m seperti bidang horizontal umum).",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Apa beda pengukuran penerangan umum ruang teratur (regular) dan tidak teratur (irregular)?",
+      "back": "Ruang teratur: tanpa hambatan/sekat, titik ukur berjarak 90-100 cm. Ruang tidak teratur: ada penghalang/susunan lampu tak teratur, titik ukur acak dan banyak.",
+      "tag": "Metode Pengukuran"
+    },
+    {
+      "front": "Peraturan Menteri Kesehatan apa yang mengatur persyaratan pencahayaan tempat kerja, dan dalam satuan apa?",
+      "back": "Permenkes No. 70 Tahun 2016, dinyatakan dalam satuan lux sebagai nilai tingkat pencahayaan yang disarankan.",
+      "tag": "Standar Pencahayaan per Pekerjaan"
+    },
+    {
+      "front": "Berapa contoh tingkat pencahayaan ruang kelas dan laboratorium profesional?",
+      "back": "Ruang kelas 30-50 footcandle (300-500 lux); laboratorium profesional 75-120 footcandle (750-1200 lux).",
+      "tag": "Standar Pencahayaan per Pekerjaan"
+    },
+    {
+      "front": "Apa saja yang diamati dalam observasi kualitatif kondisi pencahayaan tempat kerja?",
+      "back": "Kenyamanan, kecukupan pencahayaan, kebersihan armatur lampu, jumlah lampu rusak, kesesuaian warna ruang dengan nilai pantulan, serta ada/tidaknya sumber kesilauan dan bayangan mengganggu.",
+      "tag": "Metode Pengukuran"
+    }
+  ],
+  "questions": [
+    {
+      "text": "Apa satuan internasional (SI) untuk tingkat pencahayaan (iluminansi)?",
+      "explanation": "Iluminansi atau tingkat pencahayaan diukur dalam lux, yaitu lumen per meter persegi.",
+      "difficulty": "EASY",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. Lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lux",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Candela",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Watt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lumen merupakan satuan untuk besaran cahaya yang disebut...",
+      "explanation": "Lumen (lm) adalah satuan fluks cahaya, yaitu total cahaya tampak yang dipancarkan sumber.",
+      "difficulty": "EASY",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Intensitas cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Luminansi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Fluks cahaya",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Iluminansi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Definisi 1 lux yang benar adalah...",
+      "explanation": "1 lux setara dengan 1 lumen yang jatuh merata pada permukaan seluas 1 meter persegi.",
+      "difficulty": "EASY",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. 1 lumen per kaki persegi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1 lumen per meter persegi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 1 candela per meter persegi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 watt per meter persegi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat yang digunakan untuk mengukur tingkat pencahayaan di tempat kerja adalah...",
+      "explanation": "Lux meter mengubah energi cahaya menjadi energi listrik yang ditampilkan sebagai nilai lux.",
+      "difficulty": "EASY",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. Sound level meter",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lux meter",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Anemometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Psikrometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Peraturan Menteri Tenaga Kerja yang mengatur tingkat pencahayaan di lingkungan kerja adalah...",
+      "explanation": "Permenaker No. 5 Tahun 2018 tentang K3 Lingkungan Kerja mengatur standar pencahayaan.",
+      "difficulty": "EASY",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. Permenaker No. 5 Tahun 2018",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Permenaker No. 13 Tahun 2011",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Permenaker No. 3 Tahun 2020",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Permenaker No. 8 Tahun 2010",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Konversi yang benar antara footcandle dan lux adalah...",
+      "explanation": "1 footcandle setara dengan kurang lebih 10,76 lux (sering dibulatkan menjadi 10,8 lux).",
+      "difficulty": "EASY",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. 1 footcandle = 1 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1 footcandle = 100 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 1 footcandle = 10,76 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 1 footcandle = 0,1 lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cahaya pada dasarnya merupakan suatu bentuk...",
+      "explanation": "Cahaya adalah suatu bentuk energi yang dapat diukur dalam satuan energi maupun satuan kuantum.",
+      "difficulty": "EASY",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Massa",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Energi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tekanan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang baik di tempat kerja memungkinkan pekerja...",
+      "explanation": "Penerangan yang baik memungkinkan pekerja melihat objek dengan jelas tanpa upaya yang dipaksakan.",
+      "difficulty": "EASY",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Bekerja dalam gelap",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Melihat objek dengan jelas tanpa upaya dipaksakan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengurangi jumlah lampu",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghemat seluruh energi listrik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan intensitas cahaya (luminous intensity) adalah...",
+      "explanation": "Intensitas cahaya diukur dalam candela (cd), yang dalam istilah lama disebut lilin.",
+      "difficulty": "EASY",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Candela",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Joule",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sumber cahaya yang termasuk pencahayaan alami adalah...",
+      "explanation": "Pencahayaan alami bersumber dari sinar matahari, berbeda dari pencahayaan buatan (lampu).",
+      "difficulty": "EASY",
+      "tag": "Jenis & Sistem Pencahayaan",
+      "options": [
+        {
+          "text": "A. Lampu TL",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lampu pijar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sinar matahari",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Lampu LED",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang menerangi seluruh ruangan secara merata disebut pencahayaan...",
+      "explanation": "Pencahayaan umum (general lighting) memberikan tingkat pencahayaan merata di seluruh ruang.",
+      "difficulty": "EASY",
+      "tag": "Jenis & Sistem Pencahayaan",
+      "options": [
+        {
+          "text": "A. Lokal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Umum",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Darurat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Aksen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu dampak pencahayaan yang tidak memadai bagi pekerja adalah...",
+      "explanation": "Pencahayaan yang tidak memadai menyebabkan kelelahan mata, sakit kepala, dan kesulitan fokus.",
+      "difficulty": "EASY",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Pendengaran menurun",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kelelahan mata dan sakit kepala",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tekanan darah naik drastis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gangguan pencernaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kecerahan yang berlebihan di lapang pandang dapat menyebabkan...",
+      "explanation": "Kecerahan berlebih menimbulkan silau (glare) dan ketidaknyamanan visual.",
+      "difficulty": "EASY",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. Silau dan ketidaknyamanan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penurunan suhu ruang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Peningkatan kelembapan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Footcandle adalah satuan iluminansi yang setara dengan...",
+      "explanation": "1 footcandle adalah jumlah lumen per kaki persegi (lumen/ft2).",
+      "difficulty": "EASY",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. Lumen per meter persegi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lumen per kaki persegi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Candela per meter persegi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Watt per kaki persegi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan pencahayaan menurut Permenkes No. 70 Tahun 2016 dinyatakan dalam...",
+      "explanation": "Persyaratan pencahayaan lingkungan kerja industri dinyatakan dalam satuan lux.",
+      "difficulty": "EASY",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. Lux",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Desibel",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Candela",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Watt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang difokuskan pada area atau tugas kerja tertentu disebut pencahayaan...",
+      "explanation": "Pencahayaan lokal/setempat menerangi area kerja spesifik, misalnya di atas meja kerja.",
+      "difficulty": "EASY",
+      "tag": "Jenis & Sistem Pencahayaan",
+      "options": [
+        {
+          "text": "A. Umum",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lokal/setempat",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Alami",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Difus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pencahayaan lokal, lux meter diletakkan pada...",
+      "explanation": "Pada penerangan lokal, lux meter diletakkan pada dasar tempat kerja, misalnya permukaan meja.",
+      "difficulty": "EASY",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Langit-langit",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dasar tempat kerja (mis. meja)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Atas kepala surveyor",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Luar jendela",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebelum digunakan, lux meter sebaiknya...",
+      "explanation": "Lux meter harus dikalibrasi terlebih dahulu sebelum digunakan agar hasil pengukuran akurat.",
+      "difficulty": "EASY",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. Dipanaskan di bawah lampu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dikalibrasi terlebih dahulu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Direndam air",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dibiarkan mati",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai pantulan (reflektansi) yang dianjurkan untuk langit-langit adalah...",
+      "explanation": "Nilai pantulan yang dianjurkan untuk langit-langit adalah 80 - 90%.",
+      "difficulty": "EASY",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. 20%",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 40 - 60%",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 80 - 90%",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 5 - 10%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Watt pada bola lampu menunjukkan...",
+      "explanation": "Watt menentukan konsumsi energi lampu, bukan tingkat kecerahan; kecerahan ditunjukkan oleh lumen.",
+      "difficulty": "EASY",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Tingkat kecerahan cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Konsumsi energi lampu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Warna cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Umur lampu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cahaya yang jatuh pada suatu permukaan disebut...",
+      "explanation": "Iluminansi (tingkat pencahayaan) adalah cahaya yang jatuh pada permukaan, diukur dalam lux.",
+      "difficulty": "EASY",
+      "tag": "Iluminansi vs Luminansi",
+      "options": [
+        {
+          "text": "A. Luminansi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Iluminansi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Fluks cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Intensitas cahaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Standar Nasional Indonesia yang mengatur pengukuran pencahayaan adalah...",
+      "explanation": "SNI 7062:2019 mengatur pengukuran intensitas penerangan di tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. SNI 7062:2019",
+          "isCorrect": true
+        },
+        {
+          "text": "B. SNI 16-7063",
+          "isCorrect": false
+        },
+        {
+          "text": "C. SNI 03-2018",
+          "isCorrect": false
+        },
+        {
+          "text": "D. SNI 19-2005",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Semakin tinggi output lumen sebuah lampu, maka cahaya yang dihasilkan...",
+      "explanation": "Semakin tinggi output lumen, semakin terang atau tinggi intensitas sumber cahaya.",
+      "difficulty": "EASY",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Semakin redup",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Semakin terang",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tidak berubah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hilang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan darurat di tangga dan lorong sebaiknya bertenaga...",
+      "explanation": "Pencahayaan darurat membutuhkan sumber bertenaga baterai agar tetap menyala saat listrik padam.",
+      "difficulty": "EASY",
+      "tag": "Jenis & Sistem Pencahayaan",
+      "options": [
+        {
+          "text": "A. Surya saja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Baterai",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Generator manual",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lilin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kelelahan mata akibat pencahayaan buruk dikenal dengan istilah medis...",
+      "explanation": "Asthenopia adalah istilah untuk kelelahan mata, salah satu dampak pencahayaan yang buruk.",
+      "difficulty": "EASY",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Miopia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Asthenopia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Presbiopia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Katarak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengukuran iluminansi pada bidang horizontal umumnya dilakukan setinggi...",
+      "explanation": "Pengukuran bidang horizontal dilakukan setinggi sekitar +0,85 m di atas lantai.",
+      "difficulty": "EASY",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. +0,85 m di atas lantai",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 2 m di atas lantai",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tepat di lantai",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Setinggi langit-langit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fluks cahaya merupakan ukuran dari...",
+      "explanation": "Fluks cahaya adalah jumlah total output cahaya dari sumber, diukur dalam lumen.",
+      "difficulty": "EASY",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Total output cahaya dari sumber",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu warna cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kecepatan cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Panjang gelombang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang menggabungkan penerangan umum dan setempat disebut sistem...",
+      "explanation": "Sistem gabungan menggunakan kombinasi pencahayaan umum dan lokal/setempat.",
+      "difficulty": "EASY",
+      "tag": "Jenis & Sistem Pencahayaan",
+      "options": [
+        {
+          "text": "A. Umum murni",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gabungan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Darurat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak langsung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai pantulan yang dianjurkan untuk lantai adalah sekitar...",
+      "explanation": "Nilai pantulan yang dianjurkan untuk lantai adalah sekitar 20%.",
+      "difficulty": "EASY",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. 20%",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 50%",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 80%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 95%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang tepat di tempat kerja penting terutama untuk...",
+      "explanation": "Tingkat pencahayaan yang tepat penting untuk keselamatan, terutama di pabrik dan fasilitas penyimpanan.",
+      "difficulty": "EASY",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Menambah kebisingan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Keselamatan dan mengurangi insiden",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menaikkan suhu ruang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi ventilasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara iluminansi dan luminansi adalah...",
+      "explanation": "Iluminansi adalah cahaya yang jatuh ke permukaan (lux), sedangkan luminansi adalah cahaya yang dipancarkan/dipantulkan permukaan ke mata (cd/m2).",
+      "difficulty": "HARD",
+      "tag": "Iluminansi vs Luminansi",
+      "options": [
+        {
+          "text": "A. Keduanya diukur dalam lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Iluminansi cahaya jatuh ke permukaan, luminansi cahaya dari permukaan ke mata",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Iluminansi diukur dalam candela, luminansi dalam lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada perbedaan, hanya istilah berbeda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan luminansi (brightness suatu permukaan) adalah...",
+      "explanation": "Luminansi diukur dalam candela per meter persegi (cd/m2).",
+      "difficulty": "HARD",
+      "tag": "Iluminansi vs Luminansi",
+      "options": [
+        {
+          "text": "A. Lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Candela per meter persegi (cd/m2)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Watt per meter persegi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika sumber 1.000 lumen disebarkan merata pada permukaan seluas 1 m2, maka iluminansinya adalah...",
+      "explanation": "1.000 lumen / 1 m2 = 1.000 lux.",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. 100 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1.000 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 10 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 10.000 lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika 1.000 lumen disebarkan pada permukaan seluas 10 m2, iluminansinya menjadi...",
+      "explanation": "1.000 lumen / 10 m2 = 100 lux; semakin luas area, semakin rendah iluminansinya.",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. 1.000 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 10.000 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 100 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 10 lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk pekerjaan kantor seperti membaca dan menulis, tingkat pencahayaan minimum yang umum dipersyaratkan adalah...",
+      "explanation": "Pekerjaan baca-tulis/kantor umumnya membutuhkan sekitar 300 lux.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. 50 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 100 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 300 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 2.000 lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerjaan kasar yang tidak terus menerus umumnya hanya membutuhkan tingkat pencahayaan sekitar...",
+      "explanation": "Pekerjaan kasar membutuhkan tingkat pencahayaan rendah, sekitar 100 lux.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. 100 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 500 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 1.000 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 2.000 lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerjaan yang membutuhkan ketelitian tinggi (mis. pemeriksaan detail halus) umumnya memerlukan pencahayaan...",
+      "explanation": "Pekerjaan teliti memerlukan tingkat pencahayaan tinggi, berkisar 500-1.000 lux atau lebih.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. 50 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 100 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 300 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 500-1.000 lux atau lebih",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Suatu lingkungan kerja dikatakan memenuhi persyaratan tingkat pencahayaan apabila perbedaannya maksimal...",
+      "explanation": "Pedoman menyebutkan perbedaan maksimal 10% dari nilai tingkat pencahayaan yang dipersyaratkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. 5%",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 10%",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 25%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 50%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada ruang teratur (regular), jarak antar titik pengukuran penerangan umum yang dianjurkan adalah...",
+      "explanation": "Pada ruang teratur tanpa penghalang, titik pengukuran berjarak 90 - 100 cm.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. 30 - 40 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 90 - 100 cm",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 2 - 3 m",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 10 - 20 cm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rumus rata-rata intensitas pencahayaan dari beberapa titik pengukuran adalah...",
+      "explanation": "Intensitas rata-rata (lux) = jumlah semua nilai titik pengukuran dibagi jumlah titik pengukuran.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Jumlah nilai titik dibagi jumlah titik",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Nilai titik tertinggi saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jumlah nilai titik dikali jumlah titik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Selisih nilai tertinggi dan terendah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut metode lumen sederhana, jumlah lumen yang dibutuhkan suatu ruangan dihitung dengan...",
+      "explanation": "Lumen dibutuhkan = luas ruangan dikalikan kebutuhan footcandle (atau lux) ruangan tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Luas ruangan dibagi kebutuhan footcandle",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Luas ruangan dikali kebutuhan footcandle",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kebutuhan footcandle dibagi luas ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Jumlah lampu dikali watt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ruang seluas 100 kaki persegi yang membutuhkan 10-20 footcandle akan memerlukan lumen sebanyak...",
+      "explanation": "100 ft2 x 10-20 fc = 1.000 - 2.000 lumen.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. 100 - 200 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1.000 - 2.000 lumen",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 10 - 20 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 10.000 - 20.000 lumen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada ruang tidak teratur (irregular), karakteristik titik pengukurannya adalah...",
+      "explanation": "Ruang tidak teratur memiliki penghalang dan susunan lampu tidak teratur sehingga titik pengukuran dibuat acak dan banyak.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Hanya satu titik di tengah",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Acak dan banyak",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Selalu 90-100 cm beraturan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya di sudut ruangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebelum membaca, sensor lux meter dibiarkan terpapar cahaya selama beberapa saat agar...",
+      "explanation": "Sel/sensor dibiarkan terpapar cahaya (sekitar 5 menit) hingga didapat nilai angka yang stabil.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Sensor menjadi panas",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Nilai pembacaan stabil",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Baterai terisi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Cahaya berkurang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Saat mengukur di tempat dengan sumber lampu TL atau merkuri, pembacaan dilakukan paling sedikit setelah...",
+      "explanation": "Pembacaan dilakukan minimal 5 menit setelah lampu TL/merkuri menyala agar outputnya stabil.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. 30 detik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 5 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 1 jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran di tangga atau koridor, lux meter sebaiknya diletakkan di...",
+      "explanation": "Pada tangga atau koridor, lux meter diletakkan di lantai atau tempat injakan kaki.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Setinggi mata",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lantai atau tempat injakan kaki",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Langit-langit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Di dinding",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rumus persentase pantulan (reflektansi) suatu permukaan adalah...",
+      "explanation": "% pantulan = (intensitas pantulan / intensitas sumber) x 100%.",
+      "difficulty": "MEDIUM",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. (intensitas sumber / intensitas pantulan) x 100%",
+          "isCorrect": false
+        },
+        {
+          "text": "B. (intensitas pantulan / intensitas sumber) x 100%",
+          "isCorrect": true
+        },
+        {
+          "text": "C. intensitas pantulan x intensitas sumber",
+          "isCorrect": false
+        },
+        {
+          "text": "D. intensitas sumber - intensitas pantulan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai pantulan yang dianjurkan untuk dinding adalah...",
+      "explanation": "Nilai pantulan yang dianjurkan untuk dinding adalah 40 - 60%.",
+      "difficulty": "MEDIUM",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. 80 - 90%",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 40 - 60%",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 20%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 5 - 10%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai pantulan yang dianjurkan untuk meja, kursi, dan mesin adalah...",
+      "explanation": "Nilai pantulan yang dianjurkan untuk meja, kursi, dan mesin adalah 25 - 45%.",
+      "difficulty": "MEDIUM",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. 25 - 45%",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 80 - 90%",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 60 - 70%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 5 - 10%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengukuran intensitas pencahayaan gabungan (cahaya alami + buatan) dilakukan dengan cara...",
+      "explanation": "Hasil gabungan = pembacaan dengan semua lampu menyala dan tirai terbuka dikurangi pembacaan saat lampu dimatikan (cahaya alami saja); namun pada praktik pengukuran, nilai total dengan semua sumber yang relevan diukur.",
+      "difficulty": "HARD",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Hanya mematikan semua lampu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengukur dengan lampu menyala dan tirai dibuka, lalu dibandingkan tanpa lampu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengukur di luar gedung saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menutup semua jendela dan lampu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Warna pakaian surveyor yang dianjurkan saat pengukuran pencahayaan adalah...",
+      "explanation": "Pakaian surveyor sebaiknya berwarna gelap untuk mencegah pantulan cahaya dari pakaian.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Putih cerah",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gelap",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kuning",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bebas, tidak berpengaruh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sumber cahaya dengan 1 candela memancarkan fluks cahaya total sebesar...",
+      "explanation": "Sumber satu lilin (candela) memancarkan fluks cahaya sebesar 4 pi lumen.",
+      "difficulty": "HARD",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. 1 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 4 pi lumen",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 100 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 2 pi lumen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan pada laboratorium profesional menurut materi berkisar antara...",
+      "explanation": "Laboratorium profesional membutuhkan sekitar 75-120 footcandle atau 750-1.200 lux.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. 100-200 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 300-500 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 750-1.200 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 50-100 lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tingkat pencahayaan untuk ruang kelas (classroom) menurut materi adalah...",
+      "explanation": "Ruang kelas membutuhkan sekitar 30-50 footcandle atau 300-500 lux.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. 300-500 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 50-100 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 1.000-2.000 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 10-50 lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebelum pengukuran dimulai, fotosel lux meter ditutup dengan bahan tidak tembus cahaya untuk memastikan...",
+      "explanation": "Penutupan fotosel memastikan jarum/display menunjukkan angka nol (0) sebagai titik awal.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Display menunjukkan angka maksimum",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Display menunjukkan angka nol (0)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Baterai terisi penuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sensor menjadi panas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pembacaan pencahayaan dilakukan dengan keadaan perabot dan penghuni ruang pada posisi...",
+      "explanation": "Pembacaan dilakukan dalam kondisi perabot dan penghuni pada posisi kerja normal agar representatif.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Posisi kerja normal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Ruangan kosong total",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Semua orang berdiri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Perabot dikeluarkan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengukuran intensitas penerangan setempat (lokal) sebaiknya dilakukan...",
+      "explanation": "Pengukuran lokal dilakukan lebih dari satu kali kemudian dirata-rata untuk hasil yang akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Sekali saja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lebih dari satu kali lalu dirata-rata",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hanya di malam hari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tanpa lampu menyala",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang berlebihan (over-illumination) cenderung menimbulkan masalah berupa...",
+      "explanation": "Pencahayaan berlebih menimbulkan silau, ketidaknyamanan, dan pemborosan energi.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Penglihatan menjadi lebih tajam permanen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Silau dan ketidaknyamanan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mata menjadi lebih sehat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu tubuh turun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Saat mengukur tingkat iluminasi pada bidang vertikal atau condong, pembacaan harus dilakukan...",
+      "explanation": "Pada bidang vertikal/condong, pembacaan dilakukan pada bidang yang relevan dengan orientasi tugas tersebut.",
+      "difficulty": "HARD",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Selalu pada bidang horizontal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pada bidang relevan (vertikal/condong tersebut)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Di lantai",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Di langit-langit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lux meter bekerja dengan prinsip mengubah...",
+      "explanation": "Lux meter mengubah energi cahaya menjadi energi listrik (arus) untuk menggerakkan jarum atau menampilkan angka.",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. Energi listrik menjadi cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Energi cahaya menjadi energi listrik",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Energi panas menjadi cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Energi suara menjadi listrik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan di luar gedung (pencahayaan umum) menurut Permenkes No. 70/2016 mengatur area kerja yang...",
+      "explanation": "Pencahayaan luar gedung mengatur area yang tidak diakses pada malam hari atau berkegiatan intermittent yang lampunya mudah dinyalakan/dimatikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. Selalu diakses 24 jam terus menerus",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tidak diakses malam hari atau berkegiatan intermittent",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hanya area dalam ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya laboratorium",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Persyaratan pencahayaan lingkungan kerja industri menurut Permenkes 70/2016 dikelompokkan menjadi...",
+      "explanation": "Dikelompokkan menjadi persyaratan pencahayaan dalam gedung industri dan di luar gedung industri.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. Pencahayaan siang dan malam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pencahayaan dalam gedung dan luar gedung industri",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pencahayaan lampu dan matahari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pencahayaan kantor dan rumah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Iluminansi 1.000 lux menurut materi setara dengan kecerahan pada kondisi...",
+      "explanation": "Materi menyebutkan 1.000 lux setara dengan kecerahan pada hari yang mendung.",
+      "difficulty": "HARD",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. Tengah malam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hari yang mendung",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Ruang gelap",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sinar matahari langsung tengah hari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengukuran pantulan dilakukan dengan menghadapkan fotosel ke dinding/meja kemudian...",
+      "explanation": "Fotosel dihadapkan ke permukaan lalu diangkat menjauh perlahan hingga angka/jarum tetap (nilai pantulan B).",
+      "difficulty": "HARD",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. Ditekan ke permukaan kuat-kuat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Diangkat menjauh perlahan hingga angka tetap",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Ditutup rapat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dibalik menghadap lampu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu hal yang diobservasi dalam survei pencahayaan terkait pemeliharaan adalah...",
+      "explanation": "Observasi mencakup kebersihan lampu dan armatur serta kapan terakhir dibersihkan, karena debu menurunkan output cahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Warna seragam pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kebersihan lampu dan armatur",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Jumlah pintu ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Merek komputer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kondisi pintu dan lampu ruangan saat pengukuran pencahayaan harus...",
+      "explanation": "Pintu dan lampu ruangan harus dalam keadaan sesuai dengan kondisi tempat pekerjaan biasa dilakukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Semua ditutup dan dimatikan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sesuai kondisi tempat kerja sebenarnya",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Semua dibuka maksimal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak diperhatikan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor pemeliharaan (maintenance factor) dalam perancangan pencahayaan diperlukan karena...",
+      "explanation": "Output cahaya menurun seiring waktu akibat penuaan lampu dan penumpukan debu/kotoran, sehingga faktor pemeliharaan memperhitungkan penurunan tersebut.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Cahaya bertambah terang seiring waktu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Output cahaya menurun akibat penuaan lampu dan debu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lampu tidak pernah kotor",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dinding selalu memantulkan 100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kontras yang baik antara objek dan latar belakang akan...",
+      "explanation": "Kontras yang memadai meningkatkan visibilitas objek sehingga tugas visual lebih mudah dikerjakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. Menurunkan visibilitas objek",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Meningkatkan visibilitas objek",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menyebabkan silau total",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak berpengaruh pada penglihatan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Selain Permenaker 5/2018 dan Permenkes 70/2016, peraturan lain yang disebut terkait pencahayaan adalah...",
+      "explanation": "Materi menyebut Peraturan Menteri ESDM (terkait pertambangan) sebagai salah satu regulasi pencahayaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. Permen ESDM",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Permen Pertanian",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Permen Perdagangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Permen Pariwisata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang tepat dapat memengaruhi aspek psikologis pekerja berupa...",
+      "explanation": "Tingkat cahaya dapat memengaruhi emosi dan produktivitas; pencahayaan tepat menciptakan lingkungan yang mendorong produktivitas.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Emosi dan produktivitas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tinggi badan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Berat badan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Golongan darah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada sistem pencahayaan, fungsi pencahayaan lokal/setempat adalah untuk...",
+      "explanation": "Pencahayaan lokal menambah penerangan pada tugas detail tertentu yang tidak cukup terterangi pencahayaan umum.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis & Sistem Pencahayaan",
+      "options": [
+        {
+          "text": "A. Menerangi seluruh ruang secara merata",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menambah penerangan pada tugas detail tertentu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menggantikan cahaya matahari sepenuhnya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya untuk dekorasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan alami memiliki keunggulan utama dibanding pencahayaan buatan, yaitu...",
+      "explanation": "Pencahayaan alami hemat energi dan memberi kualitas cahaya yang nyaman, namun intensitasnya tidak stabil sepanjang hari.",
+      "difficulty": "HARD",
+      "tag": "Jenis & Sistem Pencahayaan",
+      "options": [
+        {
+          "text": "A. Selalu konstan sepanjang hari",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hemat energi listrik",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tidak dipengaruhi cuaca",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tersedia penuh di malam hari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu pertanyaan observasi survei pencahayaan adalah jumlah lampu yang...",
+      "explanation": "Observasi mencakup berapa jumlah lampu yang telah rusak, karena memengaruhi total iluminansi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Telah rusak",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Berwarna kuning",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bermerek impor",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berbentuk bulat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada lampu pijar, cahaya dipancarkan ke segala arah dan total pengukurannya ditampilkan sebagai...",
+      "explanation": "Total cahaya yang dipancarkan ke segala arah ditampilkan sebagai fluks cahaya (lumen).",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Fluks cahaya (lumen)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tingkat pencahayaan (lux)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Luminansi (cd/m2)",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu (Kelvin)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Saat membeli bola lampu berdasarkan tingkat kecerahannya, parameter yang harus dilihat adalah...",
+      "explanation": "Untuk kecerahan, yang dilihat adalah lumen, bukan watt; watt hanya menyatakan konsumsi energi.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Watt",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lumen",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Volt",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Ampere",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sumber cahaya dikatakan memiliki luminositas satu lilin (candela) jika...",
+      "explanation": "Sumber memiliki luminositas satu lilin jika outputnya secara visual cocok dengan lilin standar.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Mengonsumsi 1 watt",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Outputnya tampak cocok dengan lilin standar",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Memancarkan 1 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berukuran sebesar lilin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Intensitas cahaya pada jarak satu meter dari lilin standar adalah...",
+      "explanation": "Satu meter dari lilin standar menghasilkan satu meter-lilin atau satu lux.",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. Satu footcandle",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Satu lux",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Satu lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Satu candela",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Intensitas cahaya pada jarak satu kaki dari lilin standar adalah...",
+      "explanation": "Satu kaki dari lilin standar menghasilkan satu footcandle.",
+      "difficulty": "MEDIUM",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. Satu footcandle",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Satu lux",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Satu lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Satu candela",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan untuk akses dan tangga termasuk dalam kategori contoh pencahayaan...",
+      "explanation": "Materi mengkategorikan pencahayaan akses, tangga, dan kondisi darurat sebagai contoh pencahayaan tempat kerja umum.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis & Sistem Pencahayaan",
+      "options": [
+        {
+          "text": "A. Tempat kerja (umum, akses, darurat)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dekoratif rumah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pertanian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Fotografi studio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sistem pencahayaan harus dipertimbangkan sejak tahap...",
+      "explanation": "Sistem pencahayaan harus dipertimbangkan pada tahap desain dan instalasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Setelah gedung dibongkar",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Desain dan instalasi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hanya saat audit akhir",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu dipertimbangkan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika sebuah ruang rata-rata seluas 250 kaki persegi membutuhkan 20 footcandle, total lumen yang diperlukan adalah...",
+      "explanation": "20 fc x 250 ft2 = 5.000 lumen.",
+      "difficulty": "HARD",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. 500 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 5.000 lumen",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 50.000 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 250 lumen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu hal yang diperiksa dalam observasi adalah apakah ditemukan sumber...",
+      "explanation": "Observasi memeriksa apakah ditemukan sumber kesilauan (glare) dan bayangan yang mengganggu.",
+      "difficulty": "MEDIUM",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. Kesilauan dan bayangan mengganggu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sumber air",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sumber suara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sumber getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama mempertimbangkan jenis tugas pekerjaan dalam desain pencahayaan adalah...",
+      "explanation": "Tingkat pencahayaan harus disesuaikan dengan jenis tugas; tugas detail butuh lebih banyak cahaya daripada tugas kasar.",
+      "difficulty": "MEDIUM",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. Menyamakan semua ruang pada lux yang sama",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menyesuaikan tingkat cahaya dengan kebutuhan visual tugas",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengurangi jumlah pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menambah kebisingan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan yang tidak memadai di pabrik dan fasilitas penyimpanan dapat meningkatkan...",
+      "explanation": "Pencahayaan tidak memadai meningkatkan kemungkinan terjadinya insiden dan cedera.",
+      "difficulty": "MEDIUM",
+      "tag": "Dampak Kesehatan",
+      "options": [
+        {
+          "text": "A. Kemungkinan insiden dan cedera",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Efisiensi energi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Umur lampu",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kenyamanan visual",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lumen menjadi metrik yang lebih berguna ketika dikaitkan dengan...",
+      "explanation": "Lumen menjadi lebih berguna ketika dikaitkan dengan area permukaan tertentu, menghasilkan penerangan (lux/footcandle).",
+      "difficulty": "HARD",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Warna lampu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Area permukaan tertentu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Harga lampu",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Merek lampu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan umum di luar gedung sering disebut juga pencahayaan...",
+      "explanation": "Pada Permenkes 70/2016, pencahayaan luar gedung disebut sebagai pencahayaan umum lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis & Sistem Pencahayaan",
+      "options": [
+        {
+          "text": "A. Pencahayaan umum",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pencahayaan lokal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pencahayaan darurat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pencahayaan aksen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Persyaratan pencahayaan luar gedung berdasar jenis industri mencakup, antara lain, fasilitas...",
+      "explanation": "Mencakup anjungan pengeboran lepas pantai minyak dan gas, industri petrokimia, dan pembangkit tenaga listrik.",
+      "difficulty": "HARD",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. Anjungan pengeboran lepas pantai migas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sekolah dasar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pasar tradisional",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Taman bermain anak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam survei pencahayaan, data karakteristik tempat kerja yang dicatat meliputi...",
+      "explanation": "Formulir survei mencatat dimensi (panjang, lebar, tinggi) serta gambaran dinding, langit-langit, dan lantai tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Panjang, lebar, tinggi serta kondisi permukaan ruang",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya nama perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jumlah karyawan saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Omzet perusahaan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebuah ruang berukuran 5 m x 4 m membutuhkan tingkat pencahayaan 300 lux. Berapa total fluks cahaya minimum (tanpa faktor rugi) yang diperlukan?",
+      "explanation": "Luas = 20 m2; lumen = 300 lux x 20 m2 = 6.000 lumen.",
+      "difficulty": "HARD",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. 1.500 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 6.000 lumen",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 600 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 60.000 lumen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suatu titik pengukuran menunjukkan nilai 280, 300, 320, dan 300 lux. Rata-rata iluminansinya adalah...",
+      "explanation": "(280+300+320+300)/4 = 1.200/4 = 300 lux.",
+      "difficulty": "HARD",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. 280 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 300 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 320 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1.200 lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Intensitas cahaya sumber (A) = 500 lux dan intensitas pantulan dinding (B) = 250 lux. Berapa persen pantulan dindingnya?",
+      "explanation": "% pantulan = (250/500) x 100% = 50%, masih dalam rentang anjuran dinding 40-60%.",
+      "difficulty": "HARD",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. 25%",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 50%",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 75%",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 200%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebuah ruang membaca dipersyaratkan 300 lux dengan toleransi 10%. Hasil pengukuran 260 lux. Kesimpulan yang tepat adalah...",
+      "explanation": "Batas bawah toleransi = 300 - 10% = 270 lux. Karena 260 lux di bawah 270 lux, ruang tersebut tidak memenuhi persyaratan.",
+      "difficulty": "HARD",
+      "tag": "Standar Pencahayaan per Pekerjaan",
+      "options": [
+        {
+          "text": "A. Memenuhi karena di atas 250 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tidak memenuhi karena di bawah batas toleransi 270 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Memenuhi tepat di nilai standar",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berlebih dari standar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa luminansi (cd/m2) lebih relevan daripada iluminansi (lux) untuk menilai silau dari layar atau permukaan mengkilap?",
+      "explanation": "Silau berkaitan dengan kecerahan yang dipancarkan permukaan ke mata, yaitu luminansi, bukan sekadar cahaya yang jatuh ke permukaan (iluminansi).",
+      "difficulty": "HARD",
+      "tag": "Iluminansi vs Luminansi",
+      "options": [
+        {
+          "text": "A. Karena lux tidak bisa diukur",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena silau berkaitan dengan kecerahan permukaan ke mata (luminansi)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena luminansi selalu lebih kecil",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena iluminansi hanya untuk lampu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebuah lampu 4.000 lumen menerangi area 20 m2 secara merata. Berapa iluminansi rata-rata yang dihasilkan?",
+      "explanation": "Iluminansi = 4.000 lumen / 20 m2 = 200 lux.",
+      "difficulty": "HARD",
+      "tag": "Satuan & Alat Ukur",
+      "options": [
+        {
+          "text": "A. 80 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 200 lux",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 2.000 lux",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 800 lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran cahaya gabungan (alami + buatan), nilai kontribusi cahaya buatan diperoleh dengan cara...",
+      "explanation": "Pembacaan gabungan (lampu menyala + tirai terbuka) dikurangi pembacaan saat lampu dimatikan (cahaya alami saja) memberi kontribusi cahaya buatan.",
+      "difficulty": "HARD",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. Pembacaan gabungan dikurangi pembacaan cahaya alami saja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pembacaan cahaya alami dibagi dua",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pembacaan gabungan dikali dua",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pembacaan lampu ditambah cahaya alami",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa konversi antara lux dan satuan kuantum (mikromol foton m-2 s-1) hanya dapat dilakukan secara perkiraan?",
+      "explanation": "Karena konversi bergantung pada panjang gelombang; sensitivitas mata manusia berbeda untuk tiap panjang gelombang, sehingga konversi bersifat aproksimasi.",
+      "difficulty": "HARD",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Karena lux tidak punya satuan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena konversi bergantung pada panjang gelombang cahaya",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena alat ukurnya selalu rusak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena lux dan kuantum sama persis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suatu meja makan berukuran 6 x 3 kaki memerlukan 30 lumen per kaki persegi. Total lumen yang dibutuhkan di atas meja adalah...",
+      "explanation": "Luas = 18 ft2; lumen = 30 x 18 = 540 lumen.",
+      "difficulty": "HARD",
+      "tag": "Metode Pengukuran",
+      "options": [
+        {
+          "text": "A. 180 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 540 lumen",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 90 lumen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 5.400 lumen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencahayaan dengan iluminansi cukup namun distribusi tidak merata (rasio max-min tinggi) tetap berpotensi mengganggu karena...",
+      "explanation": "Distribusi tidak merata menimbulkan kontras kecerahan berlebih antar area, memicu kelelahan mata saat pandangan berpindah-pindah meski rata-rata lux memadai.",
+      "difficulty": "HARD",
+      "tag": "Glare, Kontras & Refleksi",
+      "options": [
+        {
+          "text": "A. Total lumen menjadi nol",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kontras kecerahan berlebih memicu kelelahan mata saat pandangan berpindah",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lux otomatis berubah jadi candela",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lampu menjadi lebih awet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dua bola lampu memiliki watt sama tetapi lumen berbeda (800 lm dan 1.200 lm). Pernyataan yang benar adalah...",
+      "explanation": "Watt hanya menyatakan konsumsi energi; lampu dengan 1.200 lm lebih terang dan lebih efisien (lebih banyak cahaya per watt).",
+      "difficulty": "HARD",
+      "tag": "Konsep & Besaran Cahaya",
+      "options": [
+        {
+          "text": "A. Keduanya sama terang karena watt sama",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lampu 1.200 lm lebih terang dan lebih efisien",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lampu 800 lm lebih terang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lumen tidak memengaruhi kecerahan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penurunan iluminansi terukur dari waktu ke waktu pada ruang yang sama paling mungkin disebabkan oleh, kecuali...",
+      "explanation": "Penurunan disebabkan lampu menua, debu pada armatur, dan dinding menggelap; menambah jumlah lampu baru justru menaikkan (bukan menurunkan) iluminansi.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Penuaan/degradasi lampu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Penumpukan debu pada armatur",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menambah lampu baru yang berfungsi",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Permukaan dinding menjadi kusam",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

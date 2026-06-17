@@ -1,0 +1,1415 @@
+{
+  "topic": "Tata Laksana Kerumahtanggaan",
+  "order": 5,
+  "description": "Tata Laksana Kerumahtanggaan (Industrial Housekeeping) bukan sekadar aktivitas bersih-bersih, melainkan sistem manajemen untuk mengatur alur material, penempatan alat, dan pemeliharaan fasilitas. Tujuannya mencegah kecelakaan, meningkatkan efisiensi, mengurangi risiko kebakaran, serta membangun citra profesional dan budaya kerja. Penerapannya berlandaskan lima upaya yang dikenal sebagai 5S/5R Jepang.",
+  "subtopics": [
+    "Definisi & Tujuan",
+    "Seiri (Ringkas)",
+    "Seiton (Rapi)",
+    "Seiso (Resik)",
+    "Seiketsu (Rawat)",
+    "Shitsuke (Rajin)",
+    "Penyimpanan & Pelabelan"
+  ],
+  "questions": [
+    {
+      "text": "Apa pengertian Tata Laksana Kerumahtanggaan (Industrial Housekeeping) yang paling tepat?",
+      "explanation": "Industrial Housekeeping bukan sekadar aktivitas bersih-bersih, melainkan sistem manajemen untuk mengatur alur material, penempatan alat, dan pemeliharaan fasilitas.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Kegiatan menyapu dan mengepel lantai setiap pagi", "isCorrect": false },
+        { "text": "B. Sistem manajemen untuk mengatur alur material, penempatan alat, dan pemeliharaan fasilitas", "isCorrect": true },
+        { "text": "C. Tugas khusus petugas kebersihan tanpa keterlibatan pekerja", "isCorrect": false },
+        { "text": "D. Aktivitas membuang sampah di akhir hari kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai Industrial Housekeeping adalah?",
+      "explanation": "Industrial Housekeeping bukan sekadar aktivitas bersih-bersih seperti menyapu, tetapi merupakan sebuah sistem manajemen.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Sama persis dengan aktivitas menyapu", "isCorrect": false },
+        { "text": "B. Lebih dari sekadar bersih-bersih, yaitu sistem manajemen", "isCorrect": true },
+        { "text": "C. Hanya berlaku untuk gudang", "isCorrect": false },
+        { "text": "D. Tidak berkaitan dengan keselamatan kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut ini yang TERMASUK tujuan utama Tata Laksana Kerumahtanggaan adalah?",
+      "explanation": "Tujuan utama housekeeping antara lain mencegah kecelakaan (tersandung, jatuh, tertimpa benda).",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Menambah jumlah barang di area kerja", "isCorrect": false },
+        { "text": "B. Mencegah kecelakaan seperti tersandung, jatuh, dan tertimpa benda", "isCorrect": true },
+        { "text": "C. Memperlambat alur produksi", "isCorrect": false },
+        { "text": "D. Menghapus prosedur tertulis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kecelakaan kerja yang secara langsung dapat dicegah dengan housekeeping yang baik adalah?",
+      "explanation": "Housekeeping mencegah kecelakaan seperti tersandung, terpeleset, jatuh, dan tertimpa benda akibat barang berserakan.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Tersandung, jatuh, dan tertimpa benda", "isCorrect": true },
+        { "text": "B. Tersengat listrik dari petir", "isCorrect": false },
+        { "text": "C. Keracunan makanan kantin", "isCorrect": false },
+        { "text": "D. Gangguan pendengaran akibat bising", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa housekeeping yang baik dapat meningkatkan efisiensi kerja?",
+      "explanation": "Dengan penataan yang baik, alat mudah ditemukan sehingga waktu pencarian berkurang dan pekerjaan lebih lancar.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Karena pekerja boleh bekerja lebih lama", "isCorrect": false },
+        { "text": "B. Karena alat mudah ditemukan sehingga waktu pencarian berkurang", "isCorrect": true },
+        { "text": "C. Karena jumlah alat dikurangi sebanyak mungkin", "isCorrect": false },
+        { "text": "D. Karena pekerja tidak perlu istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyimpanan bahan kimia yang rapi dan tertib berkaitan langsung dengan tujuan housekeeping untuk?",
+      "explanation": "Penyimpanan bahan kimia yang rapi mengurangi risiko kebakaran, salah satu tujuan utama housekeeping.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Meningkatkan kebisingan", "isCorrect": false },
+        { "text": "B. Mengurangi risiko kebakaran", "isCorrect": true },
+        { "text": "C. Menambah kelembapan udara", "isCorrect": false },
+        { "text": "D. Mempercepat korosi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain aspek teknis, housekeeping yang baik juga bertujuan menciptakan?",
+      "explanation": "Housekeeping menciptakan citra profesional dan moral kerja (semangat kerja) yang tinggi.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Citra profesional dan moral kerja yang tinggi", "isCorrect": true },
+        { "text": "B. Suasana kerja yang menegangkan", "isCorrect": false },
+        { "text": "C. Persaingan tidak sehat antar pekerja", "isCorrect": false },
+        { "text": "D. Pengurangan jam istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kecelakaan terpeleset karena lantai kotor dapat dicegah melalui housekeeping. Hal ini berkaitan dengan tujuan?",
+      "explanation": "Salah satu tujuan housekeeping adalah mencegah kecelakaan, misalnya terpeleset karena lantai kotor.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Mencegah kecelakaan kerja", "isCorrect": true },
+        { "text": "B. Menambah konsumsi listrik", "isCorrect": false },
+        { "text": "C. Mengurangi ruang udara", "isCorrect": false },
+        { "text": "D. Memperbanyak stok bahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Housekeeping yang baik dapat mencegah timbulnya penyakit di tempat kerja, yang dikenal dengan istilah?",
+      "explanation": "Salah satu tujuan housekeeping adalah mencegah timbulnya Penyakit Akibat Kerja (PAK).",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Penyakit Akibat Kerja (PAK)", "isCorrect": true },
+        { "text": "B. Penyakit menular seksual", "isCorrect": false },
+        { "text": "C. Penyakit keturunan", "isCorrect": false },
+        { "text": "D. Penyakit bawaan lahir", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Melalui kenyamanan lingkungan fisik, housekeeping yang baik diharapkan dapat meningkatkan?",
+      "explanation": "Housekeeping meningkatkan produktivitas melalui kenyamanan lingkungan fisik tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Produktivitas kerja", "isCorrect": true },
+        { "text": "B. Tingkat kebisingan", "isCorrect": false },
+        { "text": "C. Jumlah kecelakaan", "isCorrect": false },
+        { "text": "D. Biaya perbaikan mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lima upaya ketatarumahtanggaan yang baik diadopsi dari konsep manajemen asal negara?",
+      "explanation": "Lima upaya housekeeping ini dikenal sebagai 5S (Jepang) yang di Indonesia diterjemahkan menjadi 5R.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Amerika Serikat", "isCorrect": false },
+        { "text": "B. Jepang", "isCorrect": true },
+        { "text": "C. Jerman", "isCorrect": false },
+        { "text": "D. Korea Selatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep 5S Jepang di Indonesia dikenal dengan istilah?",
+      "explanation": "5S Jepang (Seiri, Seiton, Seiso, Seiketsu, Shitsuke) diterjemahkan menjadi 5R di Indonesia.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. 3M", "isCorrect": false },
+        { "text": "B. 5R", "isCorrect": true },
+        { "text": "C. 4P", "isCorrect": false },
+        { "text": "D. 6K", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah upaya pokok dalam ketatarumahtanggaan yang baik (5S/5R)?",
+      "explanation": "Ketatarumahtanggaan yang baik meliputi lima upaya yang dikenal sebagai 5S/5R.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Tiga", "isCorrect": false },
+        { "text": "B. Empat", "isCorrect": false },
+        { "text": "C. Lima", "isCorrect": true },
+        { "text": "D. Enam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan lima upaya housekeeping (5S) yang benar adalah?",
+      "explanation": "Urutan 5S adalah Seiri (Ringkas), Seiton (Rapi), Seiso (Resik), Seiketsu (Rawat), Shitsuke (Rajin).",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Seiton, Seiri, Seiso, Shitsuke, Seiketsu", "isCorrect": false },
+        { "text": "B. Seiri, Seiton, Seiso, Seiketsu, Shitsuke", "isCorrect": true },
+        { "text": "C. Seiso, Seiri, Seiton, Seiketsu, Shitsuke", "isCorrect": false },
+        { "text": "D. Shitsuke, Seiketsu, Seiso, Seiton, Seiri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan lima upaya housekeeping versi Indonesia (5R) yang benar adalah?",
+      "explanation": "Urutan 5R adalah Ringkas, Rapi, Resik, Rawat, Rajin (sepadan dengan Seiri, Seiton, Seiso, Seiketsu, Shitsuke).",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Rapi, Ringkas, Resik, Rajin, Rawat", "isCorrect": false },
+        { "text": "B. Ringkas, Rapi, Resik, Rawat, Rajin", "isCorrect": true },
+        { "text": "C. Resik, Rapi, Ringkas, Rawat, Rajin", "isCorrect": false },
+        { "text": "D. Rajin, Rawat, Resik, Rapi, Ringkas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang menggambarkan housekeeping sebagai sistem manajemen, bukan sekadar bersih-bersih?",
+      "explanation": "Housekeeping mengatur alur material, penempatan alat, dan pemeliharaan fasilitas secara terencana, bukan hanya membersihkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Cukup menyapu lantai sekali sehari", "isCorrect": false },
+        { "text": "B. Mengatur alur material, penempatan alat, dan pemeliharaan fasilitas secara sistematis", "isCorrect": true },
+        { "text": "C. Membuang semua barang tanpa dipilah", "isCorrect": false },
+        { "text": "D. Menumpuk barang di sudut ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat kerja, perkakas, dan bahan harus ditata dan disimpan secara rapi dan tertib agar?",
+      "explanation": "Penataan yang rapi menjamin kelancaran pekerjaan dan tidak menimbulkan bahaya kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Penyimpanan & Pelabelan",
+      "options": [
+        { "text": "A. Menambah beban kerja", "isCorrect": false },
+        { "text": "B. Menjamin kelancaran pekerjaan dan tidak menimbulkan bahaya kecelakaan", "isCorrect": true },
+        { "text": "C. Menyulitkan pengambilan alat", "isCorrect": false },
+        { "text": "D. Mempercepat keausan alat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahan di tempat kerja sebaiknya disimpan di mana?",
+      "explanation": "Bahan harus disimpan di gudang dan diberi label yang jelas untuk membedakan barang-barang tersebut.",
+      "difficulty": "EASY",
+      "tag": "Penyimpanan & Pelabelan",
+      "options": [
+        { "text": "A. Di lorong jalan", "isCorrect": false },
+        { "text": "B. Di gudang dan diberi label yang jelas", "isCorrect": true },
+        { "text": "C. Di dekat pintu darurat", "isCorrect": false },
+        { "text": "D. Di atas meja kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama pemberian label yang jelas pada bahan yang disimpan adalah?",
+      "explanation": "Label yang jelas berguna untuk membedakan barang-barang sehingga mudah dikenali dan tidak salah ambil.",
+      "difficulty": "EASY",
+      "tag": "Penyimpanan & Pelabelan",
+      "options": [
+        { "text": "A. Membedakan barang-barang agar mudah dikenali", "isCorrect": true },
+        { "text": "B. Memperindah gudang saja", "isCorrect": false },
+        { "text": "C. Menambah berat barang", "isCorrect": false },
+        { "text": "D. Menyembunyikan isi barang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah Jepang \"Seiri\" diterjemahkan dalam 5R menjadi?",
+      "explanation": "Seiri berarti Ringkas, yaitu pemisahan barang yang perlu dari yang tidak perlu.",
+      "difficulty": "EASY",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Rapi", "isCorrect": false },
+        { "text": "B. Ringkas", "isCorrect": true },
+        { "text": "C. Resik", "isCorrect": false },
+        { "text": "D. Rajin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam bahasa Indonesia, upaya Pemisahan dikenal dengan istilah 5R?",
+      "explanation": "Pemisahan = Seiri = Ringkas, yaitu memisahkan barang yang diperlukan dari yang tidak.",
+      "difficulty": "EASY",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Ringkas", "isCorrect": true },
+        { "text": "B. Rapi", "isCorrect": false },
+        { "text": "C. Rawat", "isCorrect": false },
+        { "text": "D. Resik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya Pemisahan (Seiri/Ringkas) bermakna?",
+      "explanation": "Seiri adalah memisahkan alat, perkakas, dan bahan yang diperlukan dari yang sudah tidak berfungsi atau jarang digunakan.",
+      "difficulty": "EASY",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Membersihkan semua peralatan", "isCorrect": false },
+        { "text": "B. Memisahkan barang yang diperlukan dari yang tidak diperlukan", "isCorrect": true },
+        { "text": "C. Menata barang sesuai posisi tetap", "isCorrect": false },
+        { "text": "D. Membuat audit internal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode khusus yang digunakan dalam tahap Seiri (Ringkas) untuk menandai barang yang tidak diperlukan adalah?",
+      "explanation": "Metode Red Tag (Label Merah) diberikan pada barang yang tidak diperlukan agar segera disingkirkan dari area kerja inti.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Green Tag", "isCorrect": false },
+        { "text": "B. Red Tag (Label Merah)", "isCorrect": true },
+        { "text": "C. Blue Card", "isCorrect": false },
+        { "text": "D. White List", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa fungsi dari pemberian Red Tag (Label Merah) pada suatu barang?",
+      "explanation": "Red Tag menandai barang yang tidak diperlukan agar segera disingkirkan dari area kerja inti.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Menandai barang yang paling sering dipakai", "isCorrect": false },
+        { "text": "B. Menandai barang tidak diperlukan untuk disingkirkan dari area kerja", "isCorrect": true },
+        { "text": "C. Menandai barang yang baru dibeli", "isCorrect": false },
+        { "text": "D. Menandai barang berbahaya yang harus disimpan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan K3 dari tahap Seiri (Ringkas) adalah?",
+      "explanation": "Seiri mengurangi tumpukan barang yang dapat menghalangi akses evakuasi, menjadi sumber api, atau menghalangi aliran udara ventilasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Menambah jumlah barang cadangan", "isCorrect": false },
+        { "text": "B. Mengurangi tumpukan barang yang menghalangi akses evakuasi", "isCorrect": true },
+        { "text": "C. Mempersulit pengambilan alat", "isCorrect": false },
+        { "text": "D. Menutup jalur ventilasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tumpukan barang yang tidak diperlukan dapat menjadi bahaya K3 karena, kecuali?",
+      "explanation": "Tumpukan barang dapat menghalangi akses evakuasi, menjadi sumber api, dan menghalangi aliran udara ventilasi; bukan mempercepat evakuasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Menghalangi akses evakuasi", "isCorrect": false },
+        { "text": "B. Mempercepat dan memperlancar evakuasi", "isCorrect": true },
+        { "text": "C. Menjadi sumber api", "isCorrect": false },
+        { "text": "D. Menghalangi aliran udara ventilasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Barang yang sudah tidak berfungsi atau jarang digunakan sebaiknya diperlakukan dengan?",
+      "explanation": "Pada tahap Seiri, barang yang tidak diperlukan dipisahkan dan diberi Red Tag untuk disingkirkan dari area kerja inti.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Dibiarkan menumpuk di area kerja", "isCorrect": false },
+        { "text": "B. Dipisahkan dan disingkirkan dari area kerja inti", "isCorrect": true },
+        { "text": "C. Disimpan di meja kerja utama", "isCorrect": false },
+        { "text": "D. Dijadikan penghias ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah Jepang \"Seiton\" dalam 5R diterjemahkan menjadi?",
+      "explanation": "Seiton berarti Rapi, yaitu penataan barang sesuai posisi yang ditetapkan.",
+      "difficulty": "EASY",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Ringkas", "isCorrect": false },
+        { "text": "B. Rapi", "isCorrect": true },
+        { "text": "C. Resik", "isCorrect": false },
+        { "text": "D. Rawat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya Penataan dalam istilah Jepang disebut?",
+      "explanation": "Penataan = Seiton = Rapi, yaitu menata alat sesuai posisi yang ditetapkan.",
+      "difficulty": "EASY",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Seiri", "isCorrect": false },
+        { "text": "B. Seiton", "isCorrect": true },
+        { "text": "C. Seiso", "isCorrect": false },
+        { "text": "D. Shitsuke", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip terkenal yang menjadi inti dari tahap Seiton (Rapi) adalah?",
+      "explanation": "Prinsip Seiton adalah \"A place for everything and everything in its place\" (setiap barang punya tempatnya dan harus berada di tempatnya).",
+      "difficulty": "MEDIUM",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. \"Cleanliness is next to godliness\"", "isCorrect": false },
+        { "text": "B. \"A place for everything and everything in its place\"", "isCorrect": true },
+        { "text": "C. \"Safety first, production later\"", "isCorrect": false },
+        { "text": "D. \"Time is money\"", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Makna prinsip \"A place for everything and everything in its place\" adalah?",
+      "explanation": "Artinya setiap barang punya tempatnya, dan setiap barang harus berada di tempatnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Semua barang harus dibuang", "isCorrect": false },
+        { "text": "B. Setiap barang punya tempatnya dan harus berada di tempatnya", "isCorrect": true },
+        { "text": "C. Tempat kerja harus selalu kosong", "isCorrect": false },
+        { "text": "D. Barang boleh diletakkan di mana saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan K3 dari tahap Seiton (Rapi) antara lain?",
+      "explanation": "Seiton mencegah kecelakaan akibat salah ambil alat dan meminimalkan gerakan berlebih (ergonomi) yang memicu kelelahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Mencegah kecelakaan akibat salah ambil alat dan meminimalkan gerakan berlebih", "isCorrect": true },
+        { "text": "B. Menambah jumlah gerakan kerja", "isCorrect": false },
+        { "text": "C. Memperbanyak barang di area kerja", "isCorrect": false },
+        { "text": "D. Menghapus label barang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penataan barang yang baik dapat meminimalkan gerakan berlebih pekerja. Hal ini berkaitan dengan aspek?",
+      "explanation": "Meminimalkan gerakan berlebih untuk mencegah kelelahan berkaitan dengan aspek ergonomi.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Ergonomi", "isCorrect": true },
+        { "text": "B. Akustik", "isCorrect": false },
+        { "text": "C. Pencahayaan", "isCorrect": false },
+        { "text": "D. Toksikologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya menata alat, perkakas, dan bahan sesuai dengan posisi yang ditetapkan termasuk tahap?",
+      "explanation": "Menata barang sesuai posisi yang ditetapkan adalah definisi tahap Seiton (Rapi).",
+      "difficulty": "EASY",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiton (Rapi)", "isCorrect": true },
+        { "text": "C. Seiso (Resik)", "isCorrect": false },
+        { "text": "D. Shitsuke (Rajin)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah Jepang \"Seiso\" dalam 5R berarti?",
+      "explanation": "Seiso berarti Resik, yaitu membersihkan alat, perkakas, dan bahan secara rutin.",
+      "difficulty": "EASY",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Rapi", "isCorrect": false },
+        { "text": "B. Resik", "isCorrect": true },
+        { "text": "C. Rawat", "isCorrect": false },
+        { "text": "D. Rajin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya Pembersihan dalam istilah Jepang disebut?",
+      "explanation": "Pembersihan = Seiso = Resik, yaitu membersihkan alat secara rutin.",
+      "difficulty": "EASY",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Seiton", "isCorrect": false },
+        { "text": "B. Seiso", "isCorrect": true },
+        { "text": "C. Seiketsu", "isCorrect": false },
+        { "text": "D. Seiri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan kunci mengenai tahap Seiso (Resik) yang membedakannya dari sekadar membersihkan adalah?",
+      "explanation": "Dalam Seiso, pembersihan adalah bentuk inspeksi; saat membersihkan mesin, pekerja dapat mendeteksi kerusakan dini.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Pembersihan adalah bentuk inspeksi", "isCorrect": true },
+        { "text": "B. Pembersihan cukup dilakukan setahun sekali", "isCorrect": false },
+        { "text": "C. Pembersihan tidak boleh dilakukan pekerja", "isCorrect": false },
+        { "text": "D. Pembersihan hanya untuk lantai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat melakukan pembersihan mesin (Seiso), pekerja dapat sekaligus mendeteksi hal-hal berikut, kecuali?",
+      "explanation": "Saat membersihkan, pekerja dapat mendeteksi kebocoran oli, kabel terkelupas, atau kerusakan dini, bukan menambah kerusakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Kebocoran oli", "isCorrect": false },
+        { "text": "B. Kabel terkelupas", "isCorrect": false },
+        { "text": "C. Kerusakan dini sebelum terjadi kecelakaan", "isCorrect": false },
+        { "text": "D. Menambah jumlah kerusakan mesin", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Mengapa pembersihan rutin dalam Seiso disebut sebagai bentuk inspeksi?",
+      "explanation": "Karena saat membersihkan, pekerja dapat mendeteksi kebocoran oli, kabel terkelupas, atau kerusakan dini sebelum terjadi kecelakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Karena membersihkan butuh waktu lama", "isCorrect": false },
+        { "text": "B. Karena saat membersihkan dapat dideteksi kerusakan dini secara langsung", "isCorrect": true },
+        { "text": "C. Karena pembersihan dilakukan oleh inspektur eksternal", "isCorrect": false },
+        { "text": "D. Karena membersihkan harus dicatat di buku besar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kerusakan dini seperti kebocoran oli dan kabel terkelupas paling mungkin terdeteksi pada tahap?",
+      "explanation": "Deteksi kebocoran oli dan kabel terkelupas terjadi saat pembersihan rutin (Seiso/Resik), karena membersihkan = inspeksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiton (Rapi)", "isCorrect": false },
+        { "text": "C. Seiso (Resik)", "isCorrect": true },
+        { "text": "D. Shitsuke (Rajin)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Frekuensi pembersihan alat, perkakas, dan bahan dalam tahap Seiso sebaiknya dilakukan secara?",
+      "explanation": "Seiso adalah upaya membersihkan alat, perkakas, dan bahan secara rutin.",
+      "difficulty": "EASY",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Sesekali bila ada waktu", "isCorrect": false },
+        { "text": "B. Rutin", "isCorrect": true },
+        { "text": "C. Hanya saat audit", "isCorrect": false },
+        { "text": "D. Hanya saat ada tamu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah Jepang \"Seiketsu\" dalam 5R berarti?",
+      "explanation": "Seiketsu berarti Rawat, yaitu menetapkan dan melaksanakan prosedur (standarisasi).",
+      "difficulty": "EASY",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Ringkas", "isCorrect": false },
+        { "text": "B. Resik", "isCorrect": false },
+        { "text": "C. Rawat", "isCorrect": true },
+        { "text": "D. Rajin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya Standarisasi dalam istilah Jepang disebut?",
+      "explanation": "Standarisasi = Seiketsu = Rawat, yaitu menetapkan dan melaksanakan prosedur kebersihan, penempatan, dan penataan.",
+      "difficulty": "EASY",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Seiso", "isCorrect": false },
+        { "text": "B. Seiketsu", "isCorrect": true },
+        { "text": "C. Shitsuke", "isCorrect": false },
+        { "text": "D. Seiton", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan K3 utama dari tahap Seiketsu (Rawat) adalah?",
+      "explanation": "Seiketsu menciptakan konsistensi melalui prosedur tertulis sehingga kondisi rapi tidak hanya bertahan sementara.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Menciptakan konsistensi melalui prosedur tertulis", "isCorrect": true },
+        { "text": "B. Membuang seluruh dokumen", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "D. Menghapus standar kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut konsep Seiketsu, tanpa adanya prosedur tertulis (SOP), kondisi rapi akan?",
+      "explanation": "Tanpa prosedur tertulis (SOP), kondisi rapi hanya akan bertahan sementara.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Bertahan selamanya", "isCorrect": false },
+        { "text": "B. Hanya bertahan sementara", "isCorrect": true },
+        { "text": "C. Semakin membaik dengan sendirinya", "isCorrect": false },
+        { "text": "D. Tidak terpengaruh sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Singkatan SOP dalam konteks Seiketsu (Rawat) merujuk pada?",
+      "explanation": "SOP adalah Standard Operating Procedure, yaitu prosedur tertulis yang menjamin konsistensi standar kerja.",
+      "difficulty": "EASY",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Standard Operating Procedure (prosedur operasi baku)", "isCorrect": true },
+        { "text": "B. Safety Officer Position", "isCorrect": false },
+        { "text": "C. Sistem Otomatis Pekerja", "isCorrect": false },
+        { "text": "D. Standar Operasional Pabrik tunggal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut tahap Seiketsu, agar housekeeping konsisten, semua orang di tempat kerja harus?",
+      "explanation": "Seiketsu menekankan bahwa semua orang di tempat kerja harus memiliki standar yang sama.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Memiliki standar yang sama", "isCorrect": true },
+        { "text": "B. Membuat standar masing-masing", "isCorrect": false },
+        { "text": "C. Mengabaikan prosedur", "isCorrect": false },
+        { "text": "D. Bekerja tanpa aturan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah Jepang \"Shitsuke\" dalam 5R berarti?",
+      "explanation": "Shitsuke berarti Rajin, yaitu pengembangan kedisiplinan agar housekeeping menjadi budaya kerja.",
+      "difficulty": "EASY",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Ringkas", "isCorrect": false },
+        { "text": "B. Rapi", "isCorrect": false },
+        { "text": "C. Rawat", "isCorrect": false },
+        { "text": "D. Rajin", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Upaya Pengembangan Kedisiplinan dalam istilah Jepang disebut?",
+      "explanation": "Pengembangan Kedisiplinan = Shitsuke = Rajin.",
+      "difficulty": "EASY",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Seiketsu", "isCorrect": false },
+        { "text": "B. Shitsuke", "isCorrect": true },
+        { "text": "C. Seiso", "isCorrect": false },
+        { "text": "D. Seiri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan K3 dari tahap Shitsuke (Rajin) adalah?",
+      "explanation": "Shitsuke bertujuan menjadikan ketatarumahtanggaan sebagai budaya kerja yang berkelanjutan.",
+      "difficulty": "MEDIUM",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Menjadikan ketatarumahtanggaan sebagai budaya kerja", "isCorrect": true },
+        { "text": "B. Menghentikan seluruh kegiatan housekeeping", "isCorrect": false },
+        { "text": "C. Membatasi housekeeping hanya satu hari", "isCorrect": false },
+        { "text": "D. Menghapus audit internal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kegiatan yang termasuk dalam tahap Shitsuke (Rajin) adalah?",
+      "explanation": "Shitsuke meliputi evaluasi rutin (audit internal) dan pembaruan prosedur bila ada alat atau teknologi baru.",
+      "difficulty": "MEDIUM",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Membuang seluruh prosedur lama", "isCorrect": false },
+        { "text": "B. Evaluasi rutin (audit internal) dan pembaruan prosedur", "isCorrect": true },
+        { "text": "C. Menghindari pemeriksaan tempat kerja", "isCorrect": false },
+        { "text": "D. Menumpuk barang tidak terpakai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pembaruan prosedur housekeeping perlu dilakukan terutama ketika?",
+      "explanation": "Dalam Shitsuke, prosedur diperbarui jika terdapat alat atau teknologi baru di lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Terdapat alat atau teknologi baru di lingkungan kerja", "isCorrect": true },
+        { "text": "B. Tidak ada perubahan apapun", "isCorrect": false },
+        { "text": "C. Pekerja sedang libur", "isCorrect": false },
+        { "text": "D. Gudang sedang kosong", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Audit internal secara rutin merupakan bagian penting dari tahap?",
+      "explanation": "Audit internal (evaluasi rutin) merupakan bagian dari Shitsuke (Rajin) untuk menjaga kedisiplinan housekeeping.",
+      "difficulty": "MEDIUM",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiton (Rapi)", "isCorrect": false },
+        { "text": "C. Shitsuke (Rajin)", "isCorrect": true },
+        { "text": "D. Seiso (Resik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan istilah Jepang-Indonesia yang BENAR adalah?",
+      "explanation": "Seiri = Ringkas (Pemisahan), Seiton = Rapi (Penataan), Seiso = Resik (Pembersihan), Seiketsu = Rawat (Standarisasi), Shitsuke = Rajin (Kedisiplinan).",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Seiri = Rapi", "isCorrect": false },
+        { "text": "B. Seiton = Rapi", "isCorrect": true },
+        { "text": "C. Seiso = Rawat", "isCorrect": false },
+        { "text": "D. Shitsuke = Resik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan istilah yang TIDAK tepat adalah?",
+      "explanation": "Seiso = Resik (Pembersihan), bukan Ringkas; Ringkas adalah Seiri.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Seiri = Ringkas", "isCorrect": false },
+        { "text": "B. Seiton = Rapi", "isCorrect": false },
+        { "text": "C. Seiso = Ringkas", "isCorrect": true },
+        { "text": "D. Seiketsu = Rawat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi yang benar untuk tahap Pemisahan adalah?",
+      "explanation": "Pemisahan = Seiri = Ringkas, ditandai dengan metode Red Tag.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Pemisahan = Seiri = Ringkas", "isCorrect": true },
+        { "text": "B. Pemisahan = Seiton = Rapi", "isCorrect": false },
+        { "text": "C. Pemisahan = Seiso = Resik", "isCorrect": false },
+        { "text": "D. Pemisahan = Shitsuke = Rajin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi yang benar untuk tahap Penataan adalah?",
+      "explanation": "Penataan = Seiton = Rapi, dengan prinsip \"a place for everything and everything in its place\".",
+      "difficulty": "MEDIUM",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Penataan = Seiri = Ringkas", "isCorrect": false },
+        { "text": "B. Penataan = Seiton = Rapi", "isCorrect": true },
+        { "text": "C. Penataan = Seiketsu = Rawat", "isCorrect": false },
+        { "text": "D. Penataan = Seiso = Resik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi yang benar untuk tahap Pembersihan adalah?",
+      "explanation": "Pembersihan = Seiso = Resik, di mana membersihkan dipahami sebagai inspeksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Pembersihan = Seiso = Resik", "isCorrect": true },
+        { "text": "B. Pembersihan = Seiton = Rapi", "isCorrect": false },
+        { "text": "C. Pembersihan = Seiri = Ringkas", "isCorrect": false },
+        { "text": "D. Pembersihan = Shitsuke = Rajin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi yang benar untuk tahap Standarisasi adalah?",
+      "explanation": "Standarisasi = Seiketsu = Rawat, yang menekankan SOP tertulis dan standar yang sama.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Standarisasi = Seiso = Resik", "isCorrect": false },
+        { "text": "B. Standarisasi = Seiketsu = Rawat", "isCorrect": true },
+        { "text": "C. Standarisasi = Seiri = Ringkas", "isCorrect": false },
+        { "text": "D. Standarisasi = Seiton = Rapi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi yang benar untuk tahap Pengembangan Kedisiplinan adalah?",
+      "explanation": "Pengembangan Kedisiplinan = Shitsuke = Rajin, yang menekankan budaya kerja dan audit internal.",
+      "difficulty": "MEDIUM",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Pengembangan Kedisiplinan = Seiketsu = Rawat", "isCorrect": false },
+        { "text": "B. Pengembangan Kedisiplinan = Shitsuke = Rajin", "isCorrect": true },
+        { "text": "C. Pengembangan Kedisiplinan = Seiso = Resik", "isCorrect": false },
+        { "text": "D. Pengembangan Kedisiplinan = Seiri = Ringkas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap pertama dalam penerapan 5S/5R adalah?",
+      "explanation": "Tahap pertama adalah Seiri (Ringkas), yaitu memisahkan barang yang perlu dari yang tidak perlu.",
+      "difficulty": "EASY",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Seiton (Rapi)", "isCorrect": false },
+        { "text": "B. Seiri (Ringkas)", "isCorrect": true },
+        { "text": "C. Seiso (Resik)", "isCorrect": false },
+        { "text": "D. Shitsuke (Rajin)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap terakhir (kelima) dalam penerapan 5S/5R adalah?",
+      "explanation": "Tahap kelima adalah Shitsuke (Rajin), yaitu menjadikan housekeeping sebagai budaya kerja yang berkelanjutan.",
+      "difficulty": "EASY",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiketsu (Rawat)", "isCorrect": false },
+        { "text": "C. Shitsuke (Rajin)", "isCorrect": true },
+        { "text": "D. Seiso (Resik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah memisahkan barang yang perlu (Seiri), tahap berikutnya yang dilakukan adalah?",
+      "explanation": "Setelah Seiri (Ringkas), tahap berikutnya adalah Seiton (Rapi), yaitu menata barang sesuai posisinya.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Seiton (Rapi)", "isCorrect": true },
+        { "text": "B. Shitsuke (Rajin)", "isCorrect": false },
+        { "text": "C. Seiketsu (Rawat)", "isCorrect": false },
+        { "text": "D. Kembali ke awal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap yang berada di antara Seiton (Rapi) dan Seiketsu (Rawat) adalah?",
+      "explanation": "Urutannya adalah Seiton (Rapi), lalu Seiso (Resik), kemudian Seiketsu (Rawat).",
+      "difficulty": "MEDIUM",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiso (Resik)", "isCorrect": true },
+        { "text": "C. Shitsuke (Rajin)", "isCorrect": false },
+        { "text": "D. Tidak ada", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap yang fokus pada pembuatan prosedur tertulis (SOP) untuk menjaga konsistensi adalah?",
+      "explanation": "Seiketsu (Rawat/Standarisasi) menekankan SOP tertulis agar standar housekeeping konsisten.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiton (Rapi)", "isCorrect": false },
+        { "text": "C. Seiketsu (Rawat)", "isCorrect": true },
+        { "text": "D. Seiso (Resik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap yang menekankan pembentukan budaya kerja dan kedisiplinan jangka panjang adalah?",
+      "explanation": "Shitsuke (Rajin) menjadikan housekeeping sebagai budaya kerja melalui kedisiplinan, audit, dan pembaruan prosedur.",
+      "difficulty": "MEDIUM",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Shitsuke (Rajin)", "isCorrect": true },
+        { "text": "B. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "C. Seiso (Resik)", "isCorrect": false },
+        { "text": "D. Seiton (Rapi)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode Red Tag merupakan ciri khas dari tahap?",
+      "explanation": "Metode Red Tag (Label Merah) digunakan dalam tahap Seiri (Ringkas) untuk menandai barang yang tidak diperlukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Seiton (Rapi)", "isCorrect": false },
+        { "text": "B. Seiri (Ringkas)", "isCorrect": true },
+        { "text": "C. Seiketsu (Rawat)", "isCorrect": false },
+        { "text": "D. Shitsuke (Rajin)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip \"setiap barang punya tempatnya dan harus berada di tempatnya\" adalah ciri tahap?",
+      "explanation": "Prinsip tersebut adalah inti dari Seiton (Rapi/Penataan).",
+      "difficulty": "MEDIUM",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Seiton (Rapi)", "isCorrect": true },
+        { "text": "B. Seiso (Resik)", "isCorrect": false },
+        { "text": "C. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "D. Shitsuke (Rajin)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep \"membersihkan = inspeksi\" merupakan inti dari tahap?",
+      "explanation": "Konsep \"pembersihan adalah bentuk inspeksi\" merupakan inti tahap Seiso (Resik).",
+      "difficulty": "MEDIUM",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiton (Rapi)", "isCorrect": false },
+        { "text": "C. Seiso (Resik)", "isCorrect": true },
+        { "text": "D. Seiketsu (Rawat)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja menemukan barang yang sudah tidak berfungsi dan memberinya label merah agar disingkirkan. Tindakan ini termasuk?",
+      "explanation": "Memberi Red Tag pada barang tak berfungsi adalah penerapan Seiri (Ringkas).",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": true },
+        { "text": "B. Seiton (Rapi)", "isCorrect": false },
+        { "text": "C. Seiso (Resik)", "isCorrect": false },
+        { "text": "D. Seiketsu (Rawat)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja menggambar garis batas dan memberi label posisi setiap alat di papan perkakas. Tindakan ini termasuk?",
+      "explanation": "Menetapkan posisi tetap setiap alat agar mudah dikembalikan adalah penerapan Seiton (Rapi).",
+      "difficulty": "MEDIUM",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiton (Rapi)", "isCorrect": true },
+        { "text": "C. Shitsuke (Rajin)", "isCorrect": false },
+        { "text": "D. Seiso (Resik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat membersihkan mesin rutin, pekerja menemukan kabel yang terkelupas dan segera melapor. Hal ini menunjukkan tahap?",
+      "explanation": "Menemukan kabel terkelupas saat membersihkan adalah contoh Seiso (Resik) di mana pembersihan menjadi inspeksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Seiton (Rapi)", "isCorrect": false },
+        { "text": "B. Seiso (Resik)", "isCorrect": true },
+        { "text": "C. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "D. Seiketsu (Rawat)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perusahaan menyusun SOP tertulis tentang penempatan dan penataan alat agar semua shift bekerja dengan standar sama. Ini adalah?",
+      "explanation": "Menetapkan SOP tertulis untuk konsistensi standar adalah penerapan Seiketsu (Rawat).",
+      "difficulty": "MEDIUM",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Seiketsu (Rawat)", "isCorrect": true },
+        { "text": "B. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "C. Seiso (Resik)", "isCorrect": false },
+        { "text": "D. Shitsuke (Rajin)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tim K3 melakukan audit internal bulanan dan memperbarui prosedur saat ada mesin baru. Ini adalah penerapan?",
+      "explanation": "Audit internal rutin dan pembaruan prosedur adalah penerapan Shitsuke (Rajin).",
+      "difficulty": "MEDIUM",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Seiton (Rapi)", "isCorrect": false },
+        { "text": "B. Shitsuke (Rajin)", "isCorrect": true },
+        { "text": "C. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "D. Seiso (Resik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya \"memisahkan alat, perkakas, dan bahan yang diperlukan dari yang tidak diperlukan\" sesuai dengan butir ketatarumahtanggaan yang baik, yaitu?",
+      "explanation": "Memisahkan barang yang diperlukan dari yang tidak adalah upaya pertama (Seiri/Ringkas).",
+      "difficulty": "EASY",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Pemisahan (Seiri/Ringkas)", "isCorrect": true },
+        { "text": "B. Penataan (Seiton/Rapi)", "isCorrect": false },
+        { "text": "C. Pembersihan (Seiso/Resik)", "isCorrect": false },
+        { "text": "D. Standarisasi (Seiketsu/Rawat)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya \"menetapkan dan melaksanakan prosedur kebersihan, penempatan, dan penataan\" termasuk butir?",
+      "explanation": "Menetapkan dan melaksanakan prosedur adalah tahap Seiketsu (Rawat/Standarisasi).",
+      "difficulty": "MEDIUM",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Pemisahan (Ringkas)", "isCorrect": false },
+        { "text": "B. Standarisasi (Rawat)", "isCorrect": true },
+        { "text": "C. Pembersihan (Resik)", "isCorrect": false },
+        { "text": "D. Penataan (Rapi)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Upaya \"mengembangkan prosedur kebersihan, penempatan, dan penataan secara berkelanjutan\" termasuk butir?",
+      "explanation": "Mengembangkan prosedur secara berkelanjutan adalah tahap Shitsuke (Rajin).",
+      "difficulty": "MEDIUM",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Pengembangan Kedisiplinan (Rajin)", "isCorrect": true },
+        { "text": "B. Pemisahan (Ringkas)", "isCorrect": false },
+        { "text": "C. Penataan (Rapi)", "isCorrect": false },
+        { "text": "D. Pembersihan (Resik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara Seiketsu (Rawat) dan Shitsuke (Rajin) adalah?",
+      "explanation": "Seiketsu menetapkan dan melaksanakan prosedur (standarisasi), sedangkan Shitsuke mengembangkan dan menjaga kedisiplinan agar menjadi budaya kerja.",
+      "difficulty": "HARD",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Seiketsu membuang barang, Shitsuke menyimpannya", "isCorrect": false },
+        { "text": "B. Seiketsu menetapkan/melaksanakan prosedur, Shitsuke menjaga & mengembangkan disiplin sebagai budaya", "isCorrect": true },
+        { "text": "C. Keduanya sama persis tanpa perbedaan", "isCorrect": false },
+        { "text": "D. Seiketsu hanya untuk gudang, Shitsuke hanya untuk kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara Seiri (Ringkas) dan Seiton (Rapi) adalah?",
+      "explanation": "Seiri memisahkan barang perlu dari tak perlu, sedangkan Seiton menata barang yang tersisa pada posisi tetapnya.",
+      "difficulty": "HARD",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Seiri menata barang, Seiton membuangnya", "isCorrect": false },
+        { "text": "B. Seiri memisahkan perlu/tak perlu, Seiton menata yang perlu di posisi tetapnya", "isCorrect": true },
+        { "text": "C. Keduanya berarti membersihkan", "isCorrect": false },
+        { "text": "D. Seiri hanya untuk mesin, Seiton untuk dokumen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya kebakaran dapat berkurang melalui Seiri karena?",
+      "explanation": "Seiri mengurangi tumpukan barang tak terpakai yang dapat menjadi sumber api/bahan bakar kebakaran.",
+      "difficulty": "HARD",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Menambah bahan mudah terbakar", "isCorrect": false },
+        { "text": "B. Menghilangkan tumpukan barang yang dapat menjadi sumber api", "isCorrect": true },
+        { "text": "C. Menutup semua ventilasi", "isCorrect": false },
+        { "text": "D. Menyimpan oli di lorong", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jalur evakuasi yang tetap lapang dan bebas hambatan paling didukung oleh penerapan tahap?",
+      "explanation": "Seiri (Ringkas) mengurangi tumpukan barang yang dapat menghalangi akses/jalur evakuasi.",
+      "difficulty": "HARD",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": true },
+        { "text": "B. Seiso (Resik)", "isCorrect": false },
+        { "text": "C. Seiketsu (Rawat)", "isCorrect": false },
+        { "text": "D. Shitsuke (Rajin)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manfaat ergonomi dari penataan barang (Seiton) terutama berupa?",
+      "explanation": "Seiton meminimalkan gerakan berlebih sehingga mengurangi kelelahan pekerja (manfaat ergonomi).",
+      "difficulty": "HARD",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Menambah gerakan membungkuk", "isCorrect": false },
+        { "text": "B. Meminimalkan gerakan berlebih sehingga mengurangi kelelahan", "isCorrect": true },
+        { "text": "C. Memperjauh letak alat dari pekerja", "isCorrect": false },
+        { "text": "D. Menambah beban angkat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kesalahan mengambil alat (salah ambil) yang berpotensi menyebabkan kecelakaan paling dicegah oleh tahap?",
+      "explanation": "Seiton (Rapi) mencegah kecelakaan akibat salah ambil alat karena setiap barang punya tempat dan label yang jelas.",
+      "difficulty": "HARD",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Seiso (Resik)", "isCorrect": false },
+        { "text": "B. Seiton (Rapi)", "isCorrect": true },
+        { "text": "C. Shitsuke (Rajin)", "isCorrect": false },
+        { "text": "D. Seiri (Ringkas)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan bahwa \"kondisi rapi hanya bertahan sementara tanpa SOP\" menegaskan pentingnya?",
+      "explanation": "Pernyataan ini menegaskan pentingnya standarisasi tertulis (Seiketsu/Rawat) agar hasil 5S bertahan.",
+      "difficulty": "HARD",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Membuang seluruh prosedur", "isCorrect": false },
+        { "text": "B. Standarisasi (Seiketsu) melalui SOP tertulis", "isCorrect": true },
+        { "text": "C. Mengabaikan audit", "isCorrect": false },
+        { "text": "D. Menambah barang tak terpakai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agar penerapan 5S/5R tidak kembali ke kondisi semula (relapse), tahap yang paling berperan menjaga keberlanjutan adalah?",
+      "explanation": "Shitsuke (Rajin) menjaga keberlanjutan melalui disiplin, audit, dan budaya kerja sehingga tidak terjadi relapse.",
+      "difficulty": "HARD",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiton (Rapi)", "isCorrect": false },
+        { "text": "C. Shitsuke (Rajin)", "isCorrect": true },
+        { "text": "D. Seiso (Resik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa bahan kimia perlu disimpan rapi di gudang dan diberi label?",
+      "explanation": "Penyimpanan rapi dengan label membedakan barang, mengurangi risiko kebakaran, dan mencegah salah ambil bahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyimpanan & Pelabelan",
+      "options": [
+        { "text": "A. Untuk mempersulit identifikasi", "isCorrect": false },
+        { "text": "B. Untuk membedakan barang, mengurangi risiko kebakaran, dan mencegah salah ambil", "isCorrect": true },
+        { "text": "C. Untuk menambah berat gudang", "isCorrect": false },
+        { "text": "D. Hanya untuk keperluan estetika", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pelabelan bahan yang jelas paling erat kaitannya dengan dua tahap 5S, yaitu?",
+      "explanation": "Pelabelan mendukung Seiton (Rapi/penataan & identifikasi posisi) dan Seiketsu (Rawat/standarisasi prosedur).",
+      "difficulty": "HARD",
+      "tag": "Penyimpanan & Pelabelan",
+      "options": [
+        { "text": "A. Seiton (Rapi) dan Seiketsu (Rawat)", "isCorrect": true },
+        { "text": "B. Seiso (Resik) dan Shitsuke (Rajin)", "isCorrect": false },
+        { "text": "C. Seiri (Ringkas) dan Shitsuke (Rajin)", "isCorrect": false },
+        { "text": "D. Seiso (Resik) saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penataan alat, perkakas, dan bahan yang rapi dan tertib bertujuan menjamin kelancaran pekerjaan sekaligus?",
+      "explanation": "Penataan rapi menjamin kelancaran pekerjaan dan tidak menimbulkan bahaya kecelakaan.",
+      "difficulty": "EASY",
+      "tag": "Penyimpanan & Pelabelan",
+      "options": [
+        { "text": "A. Tidak menimbulkan bahaya kecelakaan", "isCorrect": true },
+        { "text": "B. Meningkatkan risiko tersandung", "isCorrect": false },
+        { "text": "C. Menutup jalur evakuasi", "isCorrect": false },
+        { "text": "D. Memperlambat produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh penerapan housekeeping yang BENAR di area kerja?",
+      "explanation": "Menyimpan bahan di gudang dengan label jelas dan menata alat pada posisi tetap adalah housekeeping yang benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyimpanan & Pelabelan",
+      "options": [
+        { "text": "A. Menumpuk bahan di lorong jalan", "isCorrect": false },
+        { "text": "B. Menyimpan bahan di gudang berlabel dan menata alat pada posisi tetap", "isCorrect": true },
+        { "text": "C. Membiarkan kabel berserakan di lantai", "isCorrect": false },
+        { "text": "D. Meletakkan perkakas di tangga darurat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang SALAH tentang tujuan housekeeping adalah?",
+      "explanation": "Housekeeping bertujuan mencegah kecelakaan, mengurangi kebakaran, meningkatkan efisiensi/produktivitas; bukan menambah penyakit akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Mencegah kecelakaan kerja", "isCorrect": false },
+        { "text": "B. Menambah angka penyakit akibat kerja", "isCorrect": true },
+        { "text": "C. Mengurangi risiko kebakaran", "isCorrect": false },
+        { "text": "D. Meningkatkan produktivitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah tujuan housekeeping yang berkaitan dengan aspek psikososial/citra organisasi, yaitu?",
+      "explanation": "Housekeeping menciptakan citra profesional dan moral kerja yang tinggi, yang merupakan aspek psikososial/organisasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Citra profesional dan moral kerja yang tinggi", "isCorrect": true },
+        { "text": "B. Penurunan suhu mesin", "isCorrect": false },
+        { "text": "C. Penambahan kebisingan", "isCorrect": false },
+        { "text": "D. Pengurangan kadar oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat housekeeping terkait keselamatan adalah mencegah kecelakaan akibat lantai becek/licin. Hal ini paling didukung oleh tahap?",
+      "explanation": "Seiso (Resik) memastikan lantai bersih dan kering sehingga mencegah terpeleset karena lantai kotor/becek.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Seiso (Resik)", "isCorrect": true },
+        { "text": "B. Seiketsu (Rawat)", "isCorrect": false },
+        { "text": "C. Shitsuke (Rajin)", "isCorrect": false },
+        { "text": "D. Seiri (Ringkas)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep 5R Ringkas-Rapi-Resik-Rawat-Rajin merupakan terjemahan berurutan dari 5S?",
+      "explanation": "Ringkas=Seiri, Rapi=Seiton, Resik=Seiso, Rawat=Seiketsu, Rajin=Shitsuke.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Seiton-Seiri-Seiso-Shitsuke-Seiketsu", "isCorrect": false },
+        { "text": "B. Seiri-Seiton-Seiso-Seiketsu-Shitsuke", "isCorrect": true },
+        { "text": "C. Seiso-Seiton-Seiri-Seiketsu-Shitsuke", "isCorrect": false },
+        { "text": "D. Seiri-Seiso-Seiton-Shitsuke-Seiketsu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"Pemisahan\" pada lima upaya housekeeping sepadan dengan?",
+      "explanation": "Pemisahan = Seiri = Ringkas.",
+      "difficulty": "EASY",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Seiton/Rapi", "isCorrect": false },
+        { "text": "B. Seiri/Ringkas", "isCorrect": true },
+        { "text": "C. Seiso/Resik", "isCorrect": false },
+        { "text": "D. Shitsuke/Rajin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"Penataan\" pada lima upaya housekeeping sepadan dengan?",
+      "explanation": "Penataan = Seiton = Rapi.",
+      "difficulty": "EASY",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Seiton/Rapi", "isCorrect": true },
+        { "text": "B. Seiri/Ringkas", "isCorrect": false },
+        { "text": "C. Seiketsu/Rawat", "isCorrect": false },
+        { "text": "D. Seiso/Resik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"Pembersihan\" pada lima upaya housekeeping sepadan dengan?",
+      "explanation": "Pembersihan = Seiso = Resik.",
+      "difficulty": "EASY",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Seiso/Resik", "isCorrect": true },
+        { "text": "B. Seiton/Rapi", "isCorrect": false },
+        { "text": "C. Shitsuke/Rajin", "isCorrect": false },
+        { "text": "D. Seiri/Ringkas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"Standarisasi\" pada lima upaya housekeeping sepadan dengan?",
+      "explanation": "Standarisasi = Seiketsu = Rawat.",
+      "difficulty": "EASY",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Seiso/Resik", "isCorrect": false },
+        { "text": "B. Seiketsu/Rawat", "isCorrect": true },
+        { "text": "C. Shitsuke/Rajin", "isCorrect": false },
+        { "text": "D. Seiton/Rapi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah \"Pengembangan Kedisiplinan\" pada lima upaya housekeeping sepadan dengan?",
+      "explanation": "Pengembangan Kedisiplinan = Shitsuke = Rajin.",
+      "difficulty": "EASY",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Shitsuke/Rajin", "isCorrect": true },
+        { "text": "B. Seiketsu/Rawat", "isCorrect": false },
+        { "text": "C. Seiso/Resik", "isCorrect": false },
+        { "text": "D. Seiri/Ringkas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap yang berfokus pada pengurangan jumlah barang di area kerja adalah?",
+      "explanation": "Seiri (Ringkas) berfokus pada memisahkan dan mengurangi barang yang tidak diperlukan.",
+      "difficulty": "EASY",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": true },
+        { "text": "B. Seiton (Rapi)", "isCorrect": false },
+        { "text": "C. Seiso (Resik)", "isCorrect": false },
+        { "text": "D. Seiketsu (Rawat)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hubungan housekeeping dengan ventilasi adalah?",
+      "explanation": "Tumpukan barang yang tidak diperlukan (kurangnya Seiri) dapat menghalangi aliran udara ventilasi.",
+      "difficulty": "HARD",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Tumpukan barang tak terpakai dapat menghalangi aliran udara ventilasi", "isCorrect": true },
+        { "text": "B. Tumpukan barang memperbaiki sirkulasi udara", "isCorrect": false },
+        { "text": "C. Housekeeping tidak ada kaitannya dengan ventilasi", "isCorrect": false },
+        { "text": "D. Barang menumpuk menambah kadar oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan tujuan K3 dan tahap 5S yang TEPAT?",
+      "explanation": "Deteksi kerusakan dini melalui pembersihan adalah tujuan K3 dari Seiso (Resik).",
+      "difficulty": "HARD",
+      "tag": "Seiso (Resik)",
+      "options": [
+        { "text": "A. Deteksi kerusakan dini -> Seiso (Resik)", "isCorrect": true },
+        { "text": "B. Deteksi kerusakan dini -> Seiri (Ringkas)", "isCorrect": false },
+        { "text": "C. Deteksi kerusakan dini -> Seiton (Rapi)", "isCorrect": false },
+        { "text": "D. Deteksi kerusakan dini -> Shitsuke (Rajin)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan housekeeping adalah meningkatkan efisiensi kerja. Tahap yang paling mendukung tujuan ini adalah?",
+      "explanation": "Seiton (Rapi) membuat alat mudah ditemukan sehingga efisiensi kerja meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiton (Rapi)",
+      "options": [
+        { "text": "A. Seiton (Rapi)", "isCorrect": true },
+        { "text": "B. Seiso (Resik)", "isCorrect": false },
+        { "text": "C. Shitsuke (Rajin)", "isCorrect": false },
+        { "text": "D. Seiketsu (Rawat)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika sebuah perusahaan baru menerapkan 5S, langkah paling awal yang harus dilakukan adalah?",
+      "explanation": "Langkah awal adalah Seiri (Ringkas): memisahkan barang yang perlu dari yang tidak perlu sebelum menata.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Memisahkan barang yang perlu dari yang tidak (Seiri)", "isCorrect": true },
+        { "text": "B. Membuat budaya disiplin (Shitsuke)", "isCorrect": false },
+        { "text": "C. Menulis SOP (Seiketsu)", "isCorrect": false },
+        { "text": "D. Membersihkan semua mesin (Seiso)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Housekeeping yang baik membantu menjaga akses evakuasi tetap lapang. Hal ini paling penting saat terjadi?",
+      "explanation": "Akses evakuasi yang lapang sangat penting saat keadaan darurat seperti kebakaran, agar pekerja dapat keluar dengan cepat.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Keadaan darurat/kebakaran", "isCorrect": true },
+        { "text": "B. Jam istirahat siang", "isCorrect": false },
+        { "text": "C. Rapat manajemen", "isCorrect": false },
+        { "text": "D. Pembagian gaji", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemberian Red Tag termasuk dalam aktivitas memilah barang. Setelah diberi Red Tag, barang tersebut sebaiknya?",
+      "explanation": "Barang ber-Red Tag adalah barang tidak diperlukan yang segera disingkirkan dari area kerja inti.",
+      "difficulty": "MEDIUM",
+      "tag": "Seiri (Ringkas)",
+      "options": [
+        { "text": "A. Dikembalikan ke meja kerja", "isCorrect": false },
+        { "text": "B. Disingkirkan dari area kerja inti", "isCorrect": true },
+        { "text": "C. Ditumpuk di pintu darurat", "isCorrect": false },
+        { "text": "D. Dipakai sebagai alat utama", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut termasuk lima upaya ketatarumahtanggaan yang baik, KECUALI?",
+      "explanation": "Lima upaya adalah memisahkan, menata, membersihkan, menetapkan/melaksanakan prosedur, dan mengembangkan prosedur; bukan menambah tumpukan barang.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Memisahkan alat dan bahan yang diperlukan dari yang tidak", "isCorrect": false },
+        { "text": "B. Menambah tumpukan barang di area kerja", "isCorrect": true },
+        { "text": "C. Membersihkan alat secara rutin", "isCorrect": false },
+        { "text": "D. Menetapkan prosedur penempatan dan penataan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan K3 \"menciptakan konsistensi standar\" merupakan hasil utama dari penerapan?",
+      "explanation": "Konsistensi standar adalah tujuan K3 dari Seiketsu (Rawat/Standarisasi).",
+      "difficulty": "MEDIUM",
+      "tag": "Seiketsu (Rawat)",
+      "options": [
+        { "text": "A. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "B. Seiton (Rapi)", "isCorrect": false },
+        { "text": "C. Seiketsu (Rawat)", "isCorrect": true },
+        { "text": "D. Seiso (Resik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang paling tepat mengenai hubungan kelima tahap 5S adalah?",
+      "explanation": "Kelima tahap saling berurutan dan saling melengkapi; tanpa Seiketsu dan Shitsuke, hasil Seiri-Seiton-Seiso tidak akan bertahan.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Tahapnya berdiri sendiri dan tidak saling berkaitan", "isCorrect": false },
+        { "text": "B. Saling berurutan dan melengkapi; tanpa Rawat & Rajin, hasil Ringkas-Rapi-Resik tak bertahan", "isCorrect": true },
+        { "text": "C. Cukup menerapkan satu tahap saja", "isCorrect": false },
+        { "text": "D. Urutan tahap boleh dibalik tanpa konsekuensi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang auditor K3 menilai apakah pekerja konsisten mengembalikan alat ke tempatnya dan menjalankan SOP kebersihan. Penilaian ini paling mencerminkan tahap?",
+      "explanation": "Penilaian kedisiplinan dan konsistensi melalui audit adalah ciri Shitsuke (Rajin).",
+      "difficulty": "HARD",
+      "tag": "Shitsuke (Rajin)",
+      "options": [
+        { "text": "A. Shitsuke (Rajin)", "isCorrect": true },
+        { "text": "B. Seiri (Ringkas)", "isCorrect": false },
+        { "text": "C. Seiton (Rapi)", "isCorrect": false },
+        { "text": "D. Seiso (Resik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan manfaat langsung penerapan 5S/5R di tempat kerja?",
+      "explanation": "5S meningkatkan keselamatan, efisiensi, dan citra; tidak menambah risiko tersandung yang justru ingin dicegah.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Meningkatkan keselamatan kerja", "isCorrect": false },
+        { "text": "B. Meningkatkan efisiensi", "isCorrect": false },
+        { "text": "C. Meningkatkan risiko tersandung dan tertimpa benda", "isCorrect": true },
+        { "text": "D. Meningkatkan citra profesional", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inti gagasan Industrial Housekeeping dibanding kebersihan biasa terletak pada?",
+      "explanation": "Inti housekeeping adalah pendekatan sistem manajemen (alur material, penempatan, pemeliharaan), bukan sekadar tindakan membersihkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Pendekatan sistem manajemen yang terencana", "isCorrect": true },
+        { "text": "B. Penggunaan sapu yang lebih besar", "isCorrect": false },
+        { "text": "C. Frekuensi menyapu yang lebih sering saja", "isCorrect": false },
+        { "text": "D. Jumlah petugas kebersihan yang lebih banyak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyimpanan alat dan bahan secara rapi dan tertib di gudang berlabel merupakan perwujudan dari prinsip?",
+      "explanation": "Penyimpanan rapi pada posisi tetap dengan label mencerminkan prinsip Seiton (Rapi): a place for everything and everything in its place.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyimpanan & Pelabelan",
+      "options": [
+        { "text": "A. \"A place for everything and everything in its place\" (Seiton)", "isCorrect": true },
+        { "text": "B. \"Buang semua barang\" (Seiri)", "isCorrect": false },
+        { "text": "C. \"Bersihkan tiap jam\" (Seiso)", "isCorrect": false },
+        { "text": "D. \"Audit harian\" (Shitsuke)", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa itu Industrial Housekeeping?", "back": "Sistem manajemen untuk mengatur alur material, penempatan alat, dan pemeliharaan fasilitas; bukan sekadar bersih-bersih.", "tag": "Definisi & Tujuan" },
+    { "front": "Sebutkan empat tujuan utama housekeeping.", "back": "Mencegah kecelakaan (tersandung/jatuh/tertimpa), meningkatkan efisiensi, mengurangi risiko kebakaran, dan menciptakan citra profesional & moral kerja tinggi.", "tag": "Definisi & Tujuan" },
+    { "front": "Lima upaya housekeeping (5S/5R) berasal dari negara?", "back": "Jepang (5S), di Indonesia diterjemahkan menjadi 5R.", "tag": "Definisi & Tujuan" },
+    { "front": "Urutan 5S yang benar?", "back": "Seiri, Seiton, Seiso, Seiketsu, Shitsuke.", "tag": "Definisi & Tujuan" },
+    { "front": "Urutan 5R yang benar?", "back": "Ringkas, Rapi, Resik, Rawat, Rajin.", "tag": "Definisi & Tujuan" },
+    { "front": "Seiri = ? (Indonesia & makna)", "back": "Ringkas / Pemisahan: memisahkan barang yang diperlukan dari yang tidak diperlukan.", "tag": "Seiri (Ringkas)" },
+    { "front": "Metode khas tahap Seiri?", "back": "Red Tag (Label Merah): menandai barang tak diperlukan agar disingkirkan dari area kerja inti.", "tag": "Seiri (Ringkas)" },
+    { "front": "Tujuan K3 dari Seiri (Ringkas)?", "back": "Mengurangi tumpukan barang yang menghalangi akses evakuasi, menjadi sumber api, atau menghalangi ventilasi.", "tag": "Seiri (Ringkas)" },
+    { "front": "Seiton = ? (Indonesia & makna)", "back": "Rapi / Penataan: menata alat & bahan sesuai posisi yang ditetapkan.", "tag": "Seiton (Rapi)" },
+    { "front": "Prinsip inti Seiton (Rapi)?", "back": "\"A place for everything and everything in its place\" — setiap barang punya tempatnya dan harus di tempatnya.", "tag": "Seiton (Rapi)" },
+    { "front": "Tujuan K3 dari Seiton (Rapi)?", "back": "Mencegah kecelakaan akibat salah ambil alat dan meminimalkan gerakan berlebih (ergonomi).", "tag": "Seiton (Rapi)" },
+    { "front": "Seiso = ? (Indonesia & makna)", "back": "Resik / Pembersihan: membersihkan alat, perkakas, dan bahan secara rutin.", "tag": "Seiso (Resik)" },
+    { "front": "Mengapa pembersihan = inspeksi (Seiso)?", "back": "Saat membersihkan, pekerja dapat mendeteksi kebocoran oli, kabel terkelupas, atau kerusakan dini sebelum terjadi kecelakaan.", "tag": "Seiso (Resik)" },
+    { "front": "Seiketsu = ? (Indonesia & makna)", "back": "Rawat / Standarisasi: menetapkan & melaksanakan prosedur (SOP) kebersihan, penempatan, dan penataan.", "tag": "Seiketsu (Rawat)" },
+    { "front": "Mengapa SOP penting dalam Seiketsu?", "back": "Tanpa prosedur tertulis, kondisi rapi hanya bertahan sementara; SOP menciptakan konsistensi & standar yang sama bagi semua orang.", "tag": "Seiketsu (Rawat)" },
+    { "front": "Shitsuke = ? (Indonesia & makna)", "back": "Rajin / Pengembangan Kedisiplinan: menjadikan housekeeping sebagai budaya kerja berkelanjutan.", "tag": "Shitsuke (Rajin)" },
+    { "front": "Kegiatan utama dalam Shitsuke (Rajin)?", "back": "Evaluasi rutin (audit internal) dan pembaruan prosedur saat ada alat/teknologi baru.", "tag": "Shitsuke (Rajin)" },
+    { "front": "Di mana bahan disimpan dan diberi apa?", "back": "Disimpan di gudang dan diberi label yang jelas untuk membedakan barang.", "tag": "Penyimpanan & Pelabelan" },
+    { "front": "Tujuan penataan alat & bahan secara rapi-tertib?", "back": "Menjamin kelancaran pekerjaan dan tidak menimbulkan bahaya kecelakaan.", "tag": "Penyimpanan & Pelabelan" },
+    { "front": "Pasangkan: Pemisahan-Penataan-Pembersihan-Standarisasi-Kedisiplinan dengan 5S.", "back": "Pemisahan=Seiri, Penataan=Seiton, Pembersihan=Seiso, Standarisasi=Seiketsu, Kedisiplinan=Shitsuke.", "tag": "Definisi & Tujuan" }
+  ],
+  "mindmap": [
+    { "id": "tata-laksana-kerumahtanggaan", "label": "Tata Laksana Kerumahtanggaan", "color": "#6366f1", "parent": null, "content": "Industrial Housekeeping: sistem manajemen mengatur alur material, penempatan alat, dan pemeliharaan fasilitas berbasis 5S/5R." },
+    { "id": "definisi-tujuan", "label": "Definisi & Tujuan", "color": "#8b5cf6", "parent": "tata-laksana-kerumahtanggaan", "content": "Bukan sekadar bersih-bersih, melainkan sistem manajemen tempat kerja." },
+    { "id": "def-sistem", "label": "Bukan Sekadar Bersih-bersih", "color": "#8b5cf6", "parent": "definisi-tujuan", "content": "Mengatur alur material, penempatan alat, dan pemeliharaan fasilitas secara terencana." },
+    { "id": "tuj-kecelakaan", "label": "Cegah Kecelakaan", "color": "#8b5cf6", "parent": "definisi-tujuan", "content": "Mencegah tersandung, jatuh, terpeleset, dan tertimpa benda." },
+    { "id": "tuj-efisiensi", "label": "Tingkatkan Efisiensi", "color": "#8b5cf6", "parent": "definisi-tujuan", "content": "Alat mudah ditemukan sehingga pekerjaan lebih lancar dan produktif." },
+    { "id": "tuj-kebakaran", "label": "Kurangi Risiko Kebakaran", "color": "#8b5cf6", "parent": "definisi-tujuan", "content": "Penyimpanan bahan kimia yang rapi mengurangi sumber dan penyebaran api." },
+    { "id": "tuj-citra", "label": "Citra & Moral Kerja", "color": "#8b5cf6", "parent": "definisi-tujuan", "content": "Menciptakan citra profesional dan moral kerja yang tinggi." },
+    { "id": "tuj-pak", "label": "Cegah PAK & Naikkan Produktivitas", "color": "#8b5cf6", "parent": "definisi-tujuan", "content": "Mencegah Penyakit Akibat Kerja dan meningkatkan produktivitas lewat kenyamanan fisik." },
+    { "id": "seiri", "label": "Seiri (Ringkas)", "color": "#0ea5e9", "parent": "tata-laksana-kerumahtanggaan", "content": "Pemisahan: memisahkan barang yang diperlukan dari yang tidak diperlukan." },
+    { "id": "seiri-makna", "label": "Pemisahan", "color": "#0ea5e9", "parent": "seiri", "content": "Pisahkan alat/bahan yang dipakai dari yang sudah tidak berfungsi atau jarang dipakai." },
+    { "id": "seiri-redtag", "label": "Metode Red Tag", "color": "#0ea5e9", "parent": "seiri", "content": "Memberi Label Merah pada barang tak diperlukan agar segera disingkirkan dari area kerja inti." },
+    { "id": "seiri-k3", "label": "Tujuan K3", "color": "#0ea5e9", "parent": "seiri", "content": "Mengurangi tumpukan yang menghalangi evakuasi, menjadi sumber api, atau menutup ventilasi." },
+    { "id": "seiton", "label": "Seiton (Rapi)", "color": "#10b981", "parent": "tata-laksana-kerumahtanggaan", "content": "Penataan: menata alat dan bahan sesuai posisi yang ditetapkan." },
+    { "id": "seiton-makna", "label": "Penataan", "color": "#10b981", "parent": "seiton", "content": "Setiap barang ditempatkan pada posisi tetap yang sudah ditentukan." },
+    { "id": "seiton-prinsip", "label": "Prinsip Inti", "color": "#10b981", "parent": "seiton", "content": "\"A place for everything and everything in its place.\"" },
+    { "id": "seiton-k3", "label": "Tujuan K3", "color": "#10b981", "parent": "seiton", "content": "Cegah kecelakaan salah ambil alat & minimalkan gerakan berlebih (ergonomi)." },
+    { "id": "seiso", "label": "Seiso (Resik)", "color": "#f59e0b", "parent": "tata-laksana-kerumahtanggaan", "content": "Pembersihan: membersihkan alat, perkakas, dan bahan secara rutin." },
+    { "id": "seiso-makna", "label": "Pembersihan Rutin", "color": "#f59e0b", "parent": "seiso", "content": "Membersihkan alat dan area kerja secara berkala dan teratur." },
+    { "id": "seiso-inspeksi", "label": "Pembersihan = Inspeksi", "color": "#f59e0b", "parent": "seiso", "content": "Saat membersihkan, terdeteksi kebocoran oli, kabel terkelupas, atau kerusakan dini." },
+    { "id": "seiso-k3", "label": "Tujuan K3", "color": "#f59e0b", "parent": "seiso", "content": "Deteksi dini kerusakan sebelum menjadi kecelakaan; lantai bersih cegah terpeleset." },
+    { "id": "seiketsu", "label": "Seiketsu (Rawat)", "color": "#ef4444", "parent": "tata-laksana-kerumahtanggaan", "content": "Standarisasi: menetapkan & melaksanakan prosedur kebersihan, penempatan, dan penataan." },
+    { "id": "seiketsu-sop", "label": "SOP Tertulis", "color": "#ef4444", "parent": "seiketsu", "content": "Prosedur tertulis menjaga kondisi rapi agar tidak hanya bertahan sementara." },
+    { "id": "seiketsu-konsisten", "label": "Konsistensi Standar", "color": "#ef4444", "parent": "seiketsu", "content": "Semua orang di tempat kerja memiliki standar yang sama." },
+    { "id": "shitsuke", "label": "Shitsuke (Rajin)", "color": "#ec4899", "parent": "tata-laksana-kerumahtanggaan", "content": "Pengembangan Kedisiplinan: menjadikan housekeeping sebagai budaya kerja." },
+    { "id": "shitsuke-budaya", "label": "Budaya Kerja", "color": "#ec4899", "parent": "shitsuke", "content": "Disiplin housekeeping ditanamkan sebagai kebiasaan berkelanjutan." },
+    { "id": "shitsuke-audit", "label": "Audit Internal", "color": "#ec4899", "parent": "shitsuke", "content": "Evaluasi rutin untuk memastikan penerapan 5S tetap konsisten." },
+    { "id": "shitsuke-perbarui", "label": "Pembaruan Prosedur", "color": "#ec4899", "parent": "shitsuke", "content": "Memperbarui prosedur bila ada alat atau teknologi baru di tempat kerja." },
+    { "id": "penyimpanan", "label": "Penyimpanan & Pelabelan", "color": "#14b8a6", "parent": "tata-laksana-kerumahtanggaan", "content": "Alat & bahan ditata rapi-tertib; bahan disimpan di gudang dan diberi label." },
+    { "id": "penyimpanan-gudang", "label": "Simpan di Gudang", "color": "#14b8a6", "parent": "penyimpanan", "content": "Bahan disimpan di gudang agar area kerja inti tidak penuh dan aman." },
+    { "id": "penyimpanan-label", "label": "Pelabelan Jelas", "color": "#14b8a6", "parent": "penyimpanan", "content": "Label jelas membedakan barang, cegah salah ambil, dan kurangi risiko." },
+    { "id": "penyimpanan-rapi", "label": "Rapi & Tertib", "color": "#14b8a6", "parent": "penyimpanan", "content": "Penataan rapi menjamin kelancaran kerja dan tidak menimbulkan bahaya kecelakaan." }
+  ]
+}

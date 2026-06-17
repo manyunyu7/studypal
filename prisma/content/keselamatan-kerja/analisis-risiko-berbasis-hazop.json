@@ -1,0 +1,1371 @@
+{
+  "topic": "Analisis Risiko Berbasis HAZOP",
+  "order": 5,
+  "description": "HAZOP (Hazard and Operability Study) adalah metode analisis risiko yang sistematis untuk mengidentifikasi penyimpangan (deviation) dari kondisi operasi normal dalam suatu sistem proses. Metode ini menggunakan kombinasi Guide Word dan Parameter untuk menemukan deviasi, lalu menilai penyebab, konsekuensi, pengaman yang ada, dan tindakan yang diperlukan.",
+  "subtopics": [
+    "Latar Belakang HAZOP",
+    "Definisi HAZOP",
+    "Tujuan HAZOP",
+    "Core Elements HAZOP",
+    "Node & Parameter",
+    "Guide Word & Deviation",
+    "Cause & Consequence",
+    "Safeguard & Action Required"
+  ],
+  "questions": [
+    {
+      "text": "Apa kepanjangan dari HAZOP?",
+      "explanation": "HAZOP adalah singkatan dari Hazard and Operability Study, yaitu studi bahaya dan keteroperasian.",
+      "difficulty": "EASY",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Hazard and Operating Procedure", "isCorrect": false },
+        { "text": "B. Hazard and Operability Study", "isCorrect": true },
+        { "text": "C. Hazardous Operation Plan", "isCorrect": false },
+        { "text": "D. Hazard Operational Process", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP secara mendasar adalah metode analisis risiko yang berfungsi untuk mengidentifikasi apa?",
+      "explanation": "HAZOP merupakan metode sistematis untuk mengidentifikasi penyimpangan (deviation) dari kondisi operasi normal dalam suatu sistem proses.",
+      "difficulty": "EASY",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Penyimpangan dari kondisi operasi normal", "isCorrect": true },
+        { "text": "B. Jumlah pekerja yang cedera", "isCorrect": false },
+        { "text": "C. Biaya produksi pabrik", "isCorrect": false },
+        { "text": "D. Kepuasan pelanggan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut latar belakangnya, kecelakaan kerja disebabkan oleh interaksi antara berbagai kegagalan. Manakah yang TIDAK termasuk faktor tersebut?",
+      "explanation": "Kecelakaan kerja merupakan hasil interaksi antara kegagalan manusia, peralatan, proses, serta sistem manajemen, bukan harga saham perusahaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang HAZOP",
+      "options": [
+        { "text": "A. Kegagalan manusia", "isCorrect": false },
+        { "text": "B. Kegagalan peralatan", "isCorrect": false },
+        { "text": "C. Harga saham perusahaan", "isCorrect": true },
+        { "text": "D. Kegagalan sistem manajemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan analisis risiko yang dibutuhkan menurut latar belakang HAZOP bersifat?",
+      "explanation": "Kondisi modern menuntut pendekatan yang tidak hanya reaktif, tetapi juga proaktif dan komprehensif.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang HAZOP",
+      "options": [
+        { "text": "A. Hanya reaktif", "isCorrect": false },
+        { "text": "B. Proaktif dan komprehensif", "isCorrect": true },
+        { "text": "C. Acak dan tidak terstruktur", "isCorrect": false },
+        { "text": "D. Hanya berbasis intuisi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang membedakan metode HAZOP dengan teori kecelakaan kerja?",
+      "explanation": "Berbeda dengan teori kecelakaan yang menjelaskan penyebab kecelakaan, HAZOP merupakan metode analisis yang lebih teknis dan sistematis untuk mendukung pengambilan keputusan manajemen risiko.",
+      "difficulty": "HARD",
+      "tag": "Latar Belakang HAZOP",
+      "options": [
+        { "text": "A. HAZOP hanya menjelaskan penyebab kecelakaan", "isCorrect": false },
+        { "text": "B. HAZOP merupakan metode teknis dan sistematis untuk mendukung pengambilan keputusan", "isCorrect": true },
+        { "text": "C. HAZOP tidak memerlukan data", "isCorrect": false },
+        { "text": "D. HAZOP hanya berlaku untuk kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP termasuk dalam kategori analisis risiko yang mana?",
+      "explanation": "HAZOP adalah salah satu contoh metode analisis risiko kuantitatif yang bersifat teknis dan rinci.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Analisis risiko kualitatif murni", "isCorrect": false },
+        { "text": "B. Analisis risiko kuantitatif", "isCorrect": true },
+        { "text": "C. Analisis tanpa data sama sekali", "isCorrect": false },
+        { "text": "D. Analisis biaya saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kata 'Operability' dalam HAZOP merujuk pada aspek apa?",
+      "explanation": "Operability merujuk pada keteroperasian, yaitu kemampuan sistem proses untuk dijalankan sesuai kondisi operasi normal yang direncanakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Kemampuan finansial perusahaan", "isCorrect": false },
+        { "text": "B. Keteroperasian sistem proses", "isCorrect": true },
+        { "text": "C. Jumlah karyawan operasional", "isCorrect": false },
+        { "text": "D. Lokasi geografis pabrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP paling tepat diterapkan pada jenis sistem seperti apa?",
+      "explanation": "HAZOP dirancang untuk menganalisis sistem proses (process system) yang kompleks dan rinci, seperti instalasi pipa, pompa, dan turbin.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Sistem proses yang kompleks", "isCorrect": true },
+        { "text": "B. Sistem administrasi sederhana", "isCorrect": false },
+        { "text": "C. Sistem penggajian", "isCorrect": false },
+        { "text": "D. Sistem antrian kantin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tujuan utama HAZOP adalah mengidentifikasi potensi apa?",
+      "explanation": "Tujuan pertama HAZOP adalah mengidentifikasi potensi bahaya (hazard) dalam sistem proses.",
+      "difficulty": "EASY",
+      "tag": "Tujuan HAZOP",
+      "options": [
+        { "text": "A. Potensi keuntungan", "isCorrect": false },
+        { "text": "B. Potensi bahaya (hazard)", "isCorrect": true },
+        { "text": "C. Potensi pasar", "isCorrect": false },
+        { "text": "D. Potensi promosi jabatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan tujuan HAZOP berkaitan dengan proses operasi?",
+      "explanation": "Salah satu tujuan HAZOP adalah menemukan penyimpangan proses (deviation) dari kondisi normal.",
+      "difficulty": "EASY",
+      "tag": "Tujuan HAZOP",
+      "options": [
+        { "text": "A. Menemukan penyimpangan proses (deviation)", "isCorrect": true },
+        { "text": "B. Menghitung pajak perusahaan", "isCorrect": false },
+        { "text": "C. Merekrut tenaga kerja baru", "isCorrect": false },
+        { "text": "D. Membuat laporan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah menemukan deviasi, tujuan HAZOP berikutnya adalah menilai apa?",
+      "explanation": "Salah satu tujuan HAZOP adalah menilai penyebab (cause) dan konsekuensi (consequence) dari deviasi yang ditemukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan HAZOP",
+      "options": [
+        { "text": "A. Penyebab dan konsekuensi deviasi", "isCorrect": true },
+        { "text": "B. Gaji pekerja", "isCorrect": false },
+        { "text": "C. Jam kerja lembur", "isCorrect": false },
+        { "text": "D. Harga bahan baku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir dari analisis HAZOP adalah menentukan apa?",
+      "explanation": "Tujuan akhir HAZOP adalah menentukan pengendalian risiko yang tepat untuk mengatasi bahaya yang teridentifikasi.",
+      "difficulty": "EASY",
+      "tag": "Tujuan HAZOP",
+      "options": [
+        { "text": "A. Pengendalian risiko", "isCorrect": true },
+        { "text": "B. Anggaran tahunan", "isCorrect": false },
+        { "text": "C. Jadwal libur", "isCorrect": false },
+        { "text": "D. Struktur organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berapa jumlah core elements (elemen inti) dalam HAZOP?",
+      "explanation": "HAZOP memiliki 4 core elements yaitu Node, Parameter, Guide Word, dan Deviation.",
+      "difficulty": "MEDIUM",
+      "tag": "Core Elements HAZOP",
+      "options": [
+        { "text": "A. 2 elemen", "isCorrect": false },
+        { "text": "B. 3 elemen", "isCorrect": false },
+        { "text": "C. 4 elemen", "isCorrect": true },
+        { "text": "D. 6 elemen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang termasuk core elements HAZOP?",
+      "explanation": "Core elements HAZOP terdiri dari Node, Parameter, Guide Word, dan Deviation.",
+      "difficulty": "EASY",
+      "tag": "Core Elements HAZOP",
+      "options": [
+        { "text": "A. Node, Parameter, Guide Word, Deviation", "isCorrect": true },
+        { "text": "B. Profit, Loss, Income, Expense", "isCorrect": false },
+        { "text": "C. Man, Machine, Money, Market", "isCorrect": false },
+        { "text": "D. Plan, Do, Check, Act", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HAZOP, Deviation merupakan kesimpulan dari kombinasi apa?",
+      "explanation": "Deviation (penyimpangan) merupakan hasil kombinasi dari Guide Word dan Parameter.",
+      "difficulty": "MEDIUM",
+      "tag": "Core Elements HAZOP",
+      "options": [
+        { "text": "A. Guide Word + Parameter", "isCorrect": true },
+        { "text": "B. Cause + Consequence", "isCorrect": false },
+        { "text": "C. Node + Safeguard", "isCorrect": false },
+        { "text": "D. Action + Cost", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan Node dalam HAZOP?",
+      "explanation": "Node adalah bagian dari proses, sistem, atau peralatan yang dianalisis, misalnya pipa, pompa, atau turbin.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Bagian proses/sistem/peralatan yang dianalisis", "isCorrect": true },
+        { "text": "B. Kata kunci penyimpangan", "isCorrect": false },
+        { "text": "C. Variabel proses", "isCorrect": false },
+        { "text": "D. Dampak kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang merupakan contoh Node dalam HAZOP?",
+      "explanation": "Contoh Node adalah pipa, pompa, mesin, turbin, dan conveyor, yaitu bagian peralatan yang dianalisis.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Pompa", "isCorrect": true },
+        { "text": "B. More (lebih)", "isCorrect": false },
+        { "text": "C. Tekanan", "isCorrect": false },
+        { "text": "D. High Pressure", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan Parameter dalam HAZOP?",
+      "explanation": "Parameter adalah variabel proses yang dianalisis, contohnya flow (aliran), pressure (tekanan), dan temperature (suhu).",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Bagian peralatan yang dianalisis", "isCorrect": false },
+        { "text": "B. Variabel proses", "isCorrect": true },
+        { "text": "C. Kata kunci penyimpangan", "isCorrect": false },
+        { "text": "D. Tindakan pengendalian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang merupakan contoh Parameter dalam HAZOP?",
+      "explanation": "Contoh Parameter proses adalah flow (aliran), pressure (tekanan), dan temperature (suhu).",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Pressure (Tekanan)", "isCorrect": true },
+        { "text": "B. Pipa", "isCorrect": false },
+        { "text": "C. No (Tidak Ada)", "isCorrect": false },
+        { "text": "D. Sensor alarm", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Parameter 'Flow' dalam HAZOP mengacu pada variabel proses apa?",
+      "explanation": "Flow mengacu pada aliran fluida (cairan atau gas) dalam sistem proses.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Aliran", "isCorrect": true },
+        { "text": "B. Tekanan", "isCorrect": false },
+        { "text": "C. Suhu", "isCorrect": false },
+        { "text": "D. Volume tetap", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Parameter 'Temperature' dalam HAZOP berkaitan dengan variabel apa?",
+      "explanation": "Temperature adalah parameter proses yang berkaitan dengan suhu sistem.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Suhu", "isCorrect": true },
+        { "text": "B. Aliran", "isCorrect": false },
+        { "text": "C. Tekanan", "isCorrect": false },
+        { "text": "D. Kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada analisis HAZOP sebuah pipa, jika yang ditinjau adalah aliran fluida, maka 'pipa' berperan sebagai apa?",
+      "explanation": "Pipa adalah bagian peralatan yang dianalisis, sehingga berperan sebagai Node, sedangkan aliran adalah Parameter.",
+      "difficulty": "HARD",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Node", "isCorrect": true },
+        { "text": "B. Parameter", "isCorrect": false },
+        { "text": "C. Guide Word", "isCorrect": false },
+        { "text": "D. Deviation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pasangan Node dan Parameter yang benar dalam HAZOP?",
+      "explanation": "Node adalah peralatan (pompa) dan Parameter adalah variabel proses (tekanan), sehingga pompa-tekanan adalah pasangan yang benar.",
+      "difficulty": "HARD",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Node: Pompa, Parameter: Tekanan", "isCorrect": true },
+        { "text": "B. Node: Aliran, Parameter: Pipa", "isCorrect": false },
+        { "text": "C. Node: More, Parameter: Turbin", "isCorrect": false },
+        { "text": "D. Node: Suhu, Parameter: Reverse", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan Guide Word dalam HAZOP?",
+      "explanation": "Guide Word adalah kata kunci yang digunakan untuk membantu menemukan penyimpangan, contohnya No, More, Less, dan Reverse.",
+      "difficulty": "EASY",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Variabel proses", "isCorrect": false },
+        { "text": "B. Kata kunci penyimpangan", "isCorrect": true },
+        { "text": "C. Bagian peralatan", "isCorrect": false },
+        { "text": "D. Dampak kecelakaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide Word 'No' dalam HAZOP berarti apa?",
+      "explanation": "Guide Word 'No' berarti tidak ada, misalnya tidak ada aliran (No Flow) atau tidak ada tekanan (No Pressure).",
+      "difficulty": "EASY",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Tidak Ada", "isCorrect": true },
+        { "text": "B. Lebih", "isCorrect": false },
+        { "text": "C. Kurang", "isCorrect": false },
+        { "text": "D. Terbalik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide Word 'More' dalam HAZOP berarti apa?",
+      "explanation": "Guide Word 'More' berarti lebih, menunjukkan parameter yang melebihi nilai normal, misalnya More Pressure (tekanan lebih).",
+      "difficulty": "EASY",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Tidak Ada", "isCorrect": false },
+        { "text": "B. Lebih", "isCorrect": true },
+        { "text": "C. Kurang", "isCorrect": false },
+        { "text": "D. Terbalik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide Word 'Less' dalam HAZOP berarti apa?",
+      "explanation": "Guide Word 'Less' berarti kurang, menunjukkan parameter yang berada di bawah nilai normal, misalnya Less Flow (aliran kurang).",
+      "difficulty": "EASY",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Lebih", "isCorrect": false },
+        { "text": "B. Tidak Ada", "isCorrect": false },
+        { "text": "C. Kurang", "isCorrect": true },
+        { "text": "D. Terbalik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide Word 'Reverse' dalam HAZOP berarti apa?",
+      "explanation": "Guide Word 'Reverse' berarti terbalik, contohnya Reverse Flow yaitu aliran yang berbalik arah dari kondisi normal.",
+      "difficulty": "EASY",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Lebih", "isCorrect": false },
+        { "text": "B. Terbalik", "isCorrect": true },
+        { "text": "C. Kurang", "isCorrect": false },
+        { "text": "D. Tidak Ada", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviation 'No Flow' terbentuk dari kombinasi Guide Word dan Parameter apa?",
+      "explanation": "No Flow terbentuk dari Guide Word 'No' (tidak ada) digabung dengan Parameter 'Flow' (aliran).",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Guide Word 'No' + Parameter 'Flow'", "isCorrect": true },
+        { "text": "B. Guide Word 'More' + Parameter 'Pressure'", "isCorrect": false },
+        { "text": "C. Guide Word 'Reverse' + Parameter 'Temperature'", "isCorrect": false },
+        { "text": "D. Node 'Pipa' + Parameter 'Flow'", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviation 'High Pressure' merupakan hasil kombinasi dari?",
+      "explanation": "High Pressure terbentuk dari Guide Word 'High/More' yang dikombinasikan dengan Parameter 'Pressure' (tekanan).",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Guide Word 'High' + Parameter 'Pressure'", "isCorrect": true },
+        { "text": "B. Guide Word 'No' + Parameter 'Flow'", "isCorrect": false },
+        { "text": "C. Node 'Pompa' + Guide Word 'Less'", "isCorrect": false },
+        { "text": "D. Parameter 'Temperature' + Node 'Pipa'", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan Deviation dalam HAZOP?",
+      "explanation": "Deviation adalah kondisi yang menyimpang dari normal, yang merupakan kesimpulan dari kombinasi Guide Word dan Parameter.",
+      "difficulty": "EASY",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Kondisi yang menyimpang dari normal", "isCorrect": true },
+        { "text": "B. Bagian peralatan yang aman", "isCorrect": false },
+        { "text": "C. Sistem pengaman otomatis", "isCorrect": false },
+        { "text": "D. Tindakan perbaikan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang merupakan contoh Deviation dalam HAZOP?",
+      "explanation": "Reverse Flow (aliran terbalik) adalah contoh Deviation karena merupakan kombinasi Guide Word 'Reverse' dan Parameter 'Flow'.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Reverse Flow (Aliran Terbalik)", "isCorrect": true },
+        { "text": "B. Pompa sentrifugal", "isCorrect": false },
+        { "text": "C. Sensor tekanan", "isCorrect": false },
+        { "text": "D. Inspeksi rutin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika sebuah deviasi 'No Pressure' ditemukan, apa arti deviasi tersebut?",
+      "explanation": "No Pressure berarti tidak ada tekanan, yaitu kondisi menyimpang di mana tekanan yang seharusnya ada menjadi hilang.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Tidak ada tekanan", "isCorrect": true },
+        { "text": "B. Tekanan berlebih", "isCorrect": false },
+        { "text": "C. Tekanan terbalik", "isCorrect": false },
+        { "text": "D. Tekanan normal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa Guide Word digunakan secara sistematis dalam HAZOP?",
+      "explanation": "Guide Word digunakan secara sistematis agar seluruh kemungkinan penyimpangan parameter dapat dieksplorasi secara menyeluruh dan tidak ada yang terlewat.",
+      "difficulty": "HARD",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Agar seluruh kemungkinan penyimpangan dieksplorasi menyeluruh", "isCorrect": true },
+        { "text": "B. Agar analisis lebih cepat selesai tanpa data", "isCorrect": false },
+        { "text": "C. Untuk menggantikan peran tim analis", "isCorrect": false },
+        { "text": "D. Untuk menghitung biaya proyek", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan Possible Cause dalam HAZOP?",
+      "explanation": "Possible Cause adalah faktor yang menyebabkan terjadinya deviasi (penyimpangan).",
+      "difficulty": "EASY",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Faktor yang menyebabkan terjadinya deviasi", "isCorrect": true },
+        { "text": "B. Dampak setelah deviasi terjadi", "isCorrect": false },
+        { "text": "C. Sistem pengaman yang tersedia", "isCorrect": false },
+        { "text": "D. Tindakan tambahan yang diperlukan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertanyaan kunci untuk menganalisis Possible Cause adalah?",
+      "explanation": "Pertanyaan kunci Possible Cause adalah 'Kenapa deviasi/penyimpangan ini bisa terjadi?'.",
+      "difficulty": "MEDIUM",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Kenapa deviasi ini bisa terjadi?", "isCorrect": true },
+        { "text": "B. Apa yang sudah tersedia untuk melindungi sistem?", "isCorrect": false },
+        { "text": "C. Apa yang harus dilakukan agar lebih aman?", "isCorrect": false },
+        { "text": "D. Berapa biaya pengendaliannya?", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviasi dalam HAZOP bisa berasal dari berbagai sumber. Manakah yang termasuk sumber Possible Cause?",
+      "explanation": "Deviasi bisa berasal dari kegagalan alat, kesalahan manusia, atau kondisi lingkungan.",
+      "difficulty": "MEDIUM",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Kegagalan alat, kesalahan manusia, kondisi lingkungan", "isCorrect": true },
+        { "text": "B. Keuntungan, kerugian, modal", "isCorrect": false },
+        { "text": "C. Promosi, demosi, rotasi", "isCorrect": false },
+        { "text": "D. Harga, kualitas, kuantitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan Possible Consequence dalam HAZOP?",
+      "explanation": "Possible Consequence adalah dampak atau akibat jika deviasi benar-benar terjadi.",
+      "difficulty": "EASY",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Dampak atau akibat jika deviasi terjadi", "isCorrect": true },
+        { "text": "B. Penyebab deviasi", "isCorrect": false },
+        { "text": "C. Kata kunci penyimpangan", "isCorrect": false },
+        { "text": "D. Variabel proses", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertanyaan kunci untuk menganalisis Possible Consequence adalah?",
+      "explanation": "Pertanyaan kunci Possible Consequence adalah 'Apa yang akan terjadi jika masalah ini tidak dikendalikan?'.",
+      "difficulty": "MEDIUM",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Apa yang akan terjadi jika masalah ini tidak dikendalikan?", "isCorrect": true },
+        { "text": "B. Kenapa deviasi ini bisa terjadi?", "isCorrect": false },
+        { "text": "C. Siapa yang bertanggung jawab atas biaya?", "isCorrect": false },
+        { "text": "D. Kapan inspeksi dilakukan?", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Possible Consequence dalam HAZOP dapat berdampak pada aspek apa saja?",
+      "explanation": "Konsekuensi dapat berdampak pada keselamatan, kesehatan, operasional, dan lingkungan.",
+      "difficulty": "MEDIUM",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Keselamatan, kesehatan, operasional, dan lingkungan", "isCorrect": true },
+        { "text": "B. Hanya keselamatan saja", "isCorrect": false },
+        { "text": "C. Hanya keuangan saja", "isCorrect": false },
+        { "text": "D. Hanya reputasi saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh: 'Pompa rusak' pada deviasi No Flow termasuk komponen HAZOP yang mana?",
+      "explanation": "Pompa rusak adalah faktor penyebab terjadinya deviasi, sehingga termasuk Possible Cause.",
+      "difficulty": "HARD",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Possible Cause", "isCorrect": true },
+        { "text": "B. Possible Consequence", "isCorrect": false },
+        { "text": "C. Safeguard", "isCorrect": false },
+        { "text": "D. Guide Word", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh: 'Reaktor meledak akibat tekanan berlebih' termasuk komponen HAZOP yang mana?",
+      "explanation": "Reaktor meledak adalah dampak/akibat yang muncul jika deviasi tekanan berlebih terjadi, sehingga termasuk Possible Consequence.",
+      "difficulty": "HARD",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Possible Consequence", "isCorrect": true },
+        { "text": "B. Possible Cause", "isCorrect": false },
+        { "text": "C. Node", "isCorrect": false },
+        { "text": "D. Parameter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan Safeguard dalam HAZOP?",
+      "explanation": "Safeguard adalah sistem atau mekanisme pengamanan yang sudah ada untuk mencegah atau mengurangi dampak deviasi.",
+      "difficulty": "EASY",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Sistem pengamanan yang sudah ada", "isCorrect": true },
+        { "text": "B. Penyebab terjadinya deviasi", "isCorrect": false },
+        { "text": "C. Dampak deviasi", "isCorrect": false },
+        { "text": "D. Variabel proses", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertanyaan kunci untuk menganalisis Safeguard adalah?",
+      "explanation": "Pertanyaan kunci Safeguard adalah 'Apa yang sudah tersedia untuk melindungi sistem?'.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Apa yang sudah tersedia untuk melindungi sistem?", "isCorrect": true },
+        { "text": "B. Kenapa deviasi ini bisa terjadi?", "isCorrect": false },
+        { "text": "C. Apa dampak deviasi?", "isCorrect": false },
+        { "text": "D. Berapa keuntungan perusahaan?", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang merupakan contoh Safeguard dalam HAZOP?",
+      "explanation": "Safeguard dapat berupa alat (sensor, alarm), sistem (shutdown), atau prosedur yang sudah ada.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Sensor, alarm, dan sistem shutdown", "isCorrect": true },
+        { "text": "B. Pompa rusak", "isCorrect": false },
+        { "text": "C. Kebocoran gas", "isCorrect": false },
+        { "text": "D. Aliran terbalik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan Action Required dalam HAZOP?",
+      "explanation": "Action Required adalah tindakan tambahan yang perlu dilakukan untuk mengurangi atau menghilangkan risiko.",
+      "difficulty": "EASY",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Tindakan tambahan untuk mengurangi atau menghilangkan risiko", "isCorrect": true },
+        { "text": "B. Sistem pengaman yang sudah ada", "isCorrect": false },
+        { "text": "C. Penyebab deviasi", "isCorrect": false },
+        { "text": "D. Bagian peralatan yang dianalisis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertanyaan kunci untuk menentukan Action Required adalah?",
+      "explanation": "Pertanyaan kunci Action Required adalah 'Apa yang harus dilakukan agar risiko lebih aman?'.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Apa yang harus dilakukan agar risiko lebih aman?", "isCorrect": true },
+        { "text": "B. Apa yang sudah tersedia untuk melindungi sistem?", "isCorrect": false },
+        { "text": "C. Kenapa deviasi ini bisa terjadi?", "isCorrect": false },
+        { "text": "D. Apa dampak deviasi?", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Action Required dalam HAZOP berupa implementasi dari konsep apa?",
+      "explanation": "Action Required berupa implementasi hirarki pengendalian risiko untuk menentukan tindakan tambahan yang tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Hirarki pengendalian risiko", "isCorrect": true },
+        { "text": "B. Struktur organisasi perusahaan", "isCorrect": false },
+        { "text": "C. Laporan keuangan", "isCorrect": false },
+        { "text": "D. Jadwal produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang menjadi dasar penentuan Action Required dalam HAZOP?",
+      "explanation": "Hirarki pengendalian risiko digunakan sebagai dasar penentuan Action Required.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Hirarki pengendalian risiko", "isCorrect": true },
+        { "text": "B. Anggaran pemasaran", "isCorrect": false },
+        { "text": "C. Survei kepuasan pelanggan", "isCorrect": false },
+        { "text": "D. Audit keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan teratas dalam hirarki pengendalian risiko yang dipakai untuk Action Required HAZOP adalah?",
+      "explanation": "Hirarki pengendalian risiko dimulai dari Eliminasi sebagai tingkat tertinggi dan paling efektif.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": true },
+        { "text": "B. Alat Pelindung Diri", "isCorrect": false },
+        { "text": "C. Administrasi", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tingkat paling rendah dan paling kurang efektif dalam hirarki pengendalian risiko adalah?",
+      "explanation": "Alat Pelindung Diri (APD) berada pada tingkat paling rendah dalam hirarki pengendalian risiko.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Alat Pelindung Diri (APD)", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Engineering Control", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemasangan safety valve (katup pengaman) pada sistem bertekanan termasuk komponen HAZOP yang mana?",
+      "explanation": "Safety valve yang sudah terpasang untuk melindungi sistem termasuk Safeguard, yaitu pengaman yang sudah ada.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Safeguard", "isCorrect": true },
+        { "text": "B. Action Required", "isCorrect": false },
+        { "text": "C. Possible Cause", "isCorrect": false },
+        { "text": "D. Deviation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara Safeguard dan Action Required dalam HAZOP adalah?",
+      "explanation": "Safeguard adalah pengaman yang SUDAH ADA, sedangkan Action Required adalah tindakan tambahan yang BELUM ada namun PERLU dilakukan.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Safeguard sudah ada, Action Required adalah tindakan tambahan yang perlu dilakukan", "isCorrect": true },
+        { "text": "B. Safeguard adalah penyebab, Action Required adalah dampak", "isCorrect": false },
+        { "text": "C. Keduanya sama persis", "isCorrect": false },
+        { "text": "D. Safeguard untuk biaya, Action Required untuk jadwal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada deviasi 'More Pressure' di sebuah boiler, apa Possible Cause yang paling mungkin?",
+      "explanation": "Penyebab tekanan berlebih bisa berupa kegagalan katup pengaman atau pemanasan berlebih, yaitu kegagalan alat sebagai Possible Cause.",
+      "difficulty": "HARD",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Kegagalan katup pengaman atau pemanasan berlebih", "isCorrect": true },
+        { "text": "B. Boiler meledak", "isCorrect": false },
+        { "text": "C. Pemasangan alarm tekanan", "isCorrect": false },
+        { "text": "D. Inspeksi rutin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam urutan analisis HAZOP, setelah deviasi diidentifikasi, langkah berikutnya adalah menganalisis?",
+      "explanation": "Setelah deviasi diidentifikasi, langkah berikutnya adalah menganalisis Possible Cause (penyebab) dan Possible Consequence (konsekuensi).",
+      "difficulty": "MEDIUM",
+      "tag": "Core Elements HAZOP",
+      "options": [
+        { "text": "A. Possible Cause dan Possible Consequence", "isCorrect": true },
+        { "text": "B. Harga produk", "isCorrect": false },
+        { "text": "C. Promosi karyawan", "isCorrect": false },
+        { "text": "D. Anggaran tahunan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan logis komponen analisis HAZOP yang benar adalah?",
+      "explanation": "Urutan analisis HAZOP adalah Deviation, lalu Cause, Consequence, Safeguard, dan terakhir Action Required.",
+      "difficulty": "HARD",
+      "tag": "Core Elements HAZOP",
+      "options": [
+        { "text": "A. Deviation - Cause - Consequence - Safeguard - Action Required", "isCorrect": true },
+        { "text": "B. Action Required - Safeguard - Deviation - Cause - Consequence", "isCorrect": false },
+        { "text": "C. Safeguard - Cause - Action Required - Deviation - Consequence", "isCorrect": false },
+        { "text": "D. Consequence - Deviation - Action Required - Safeguard - Cause", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa HAZOP dianggap sebagai metode yang sistematis?",
+      "explanation": "HAZOP sistematis karena menganalisis setiap node dengan kombinasi parameter dan guide word secara terstruktur, sehingga tidak ada penyimpangan yang terlewat.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Menganalisis tiap node dengan kombinasi parameter dan guide word secara terstruktur", "isCorrect": true },
+        { "text": "B. Mengandalkan tebakan acak", "isCorrect": false },
+        { "text": "C. Hanya menganalisis satu titik saja", "isCorrect": false },
+        { "text": "D. Tidak memerlukan tim", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada deviasi 'No Flow' dalam sistem perpipaan, apa Possible Consequence yang mungkin terjadi?",
+      "explanation": "Tidak adanya aliran dapat menyebabkan proses terhenti, peralatan overheat, atau kerusakan pompa, yaitu dampak operasional sebagai Possible Consequence.",
+      "difficulty": "HARD",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Proses terhenti dan peralatan overheat", "isCorrect": true },
+        { "text": "B. Pompa tersumbat (penyebab)", "isCorrect": false },
+        { "text": "C. Pemasangan flow meter", "isCorrect": false },
+        { "text": "D. Audit dokumen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa yang umumnya melakukan analisis HAZOP?",
+      "explanation": "HAZOP umumnya dilakukan oleh tim multidisiplin (engineer proses, K3, operator) karena memerlukan keahlian dan pengetahuan teknis yang beragam.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Tim multidisiplin yang terdiri dari berbagai keahlian", "isCorrect": true },
+        { "text": "B. Hanya satu orang manajer keuangan", "isCorrect": false },
+        { "text": "C. Pekerja tanpa pengetahuan teknis", "isCorrect": false },
+        { "text": "D. Pelanggan perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang BENAR mengenai hubungan Node dan Parameter dalam HAZOP?",
+      "explanation": "Setiap Node dianalisis dengan menerapkan berbagai Parameter proses, lalu dikombinasikan dengan Guide Word untuk menemukan deviasi.",
+      "difficulty": "HARD",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Setiap Node dianalisis dengan berbagai Parameter proses", "isCorrect": true },
+        { "text": "B. Node dan Parameter tidak memiliki hubungan", "isCorrect": false },
+        { "text": "C. Parameter menggantikan Node", "isCorrect": false },
+        { "text": "D. Node hanya dianalisis sekali tanpa parameter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviation 'Reverse Flow' (aliran terbalik) pada sistem perpipaan paling mungkin disebabkan oleh?",
+      "explanation": "Aliran terbalik dapat disebabkan oleh kegagalan check valve (katup searah) atau perbedaan tekanan, yaitu kegagalan alat sebagai Possible Cause.",
+      "difficulty": "HARD",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Kegagalan check valve atau perbedaan tekanan", "isCorrect": true },
+        { "text": "B. Pemasangan alarm", "isCorrect": false },
+        { "text": "C. Inspeksi berkala", "isCorrect": false },
+        { "text": "D. Pelatihan operator", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide Word dan Parameter dikombinasikan untuk tujuan apa dalam HAZOP?",
+      "explanation": "Kombinasi Guide Word dan Parameter digunakan untuk membentuk Deviation, yaitu mengidentifikasi kondisi menyimpang dari normal.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Membentuk Deviation", "isCorrect": true },
+        { "text": "B. Menghitung biaya", "isCorrect": false },
+        { "text": "C. Menentukan gaji", "isCorrect": false },
+        { "text": "D. Membuat struktur organisasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsekuensi deviasi pada keselamatan bisa berupa apa?",
+      "explanation": "Konsekuensi deviasi pada aspek keselamatan dapat berupa kebakaran, ledakan, atau cedera pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Kebakaran, ledakan, atau cedera pekerja", "isCorrect": true },
+        { "text": "B. Kenaikan harga saham", "isCorrect": false },
+        { "text": "C. Peningkatan produktivitas", "isCorrect": false },
+        { "text": "D. Promosi jabatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada turbin sebagai Node, parameter 'temperature' dengan guide word 'More' membentuk deviasi apa?",
+      "explanation": "Kombinasi Guide Word 'More' dan Parameter 'temperature' membentuk deviasi 'High Temperature' (suhu tinggi).",
+      "difficulty": "HARD",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. High Temperature (Suhu Tinggi)", "isCorrect": true },
+        { "text": "B. No Flow (Tidak Ada Aliran)", "isCorrect": false },
+        { "text": "C. Reverse Pressure (Tekanan Terbalik)", "isCorrect": false },
+        { "text": "D. Less Pressure (Tekanan Kurang)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa manfaat utama dari pendekatan HAZOP yang proaktif?",
+      "explanation": "Pendekatan proaktif HAZOP memungkinkan bahaya teridentifikasi dan dikendalikan sebelum kecelakaan benar-benar terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang HAZOP",
+      "options": [
+        { "text": "A. Bahaya dapat dikendalikan sebelum kecelakaan terjadi", "isCorrect": true },
+        { "text": "B. Kecelakaan ditangani setelah terjadi saja", "isCorrect": false },
+        { "text": "C. Mengurangi jumlah karyawan", "isCorrect": false },
+        { "text": "D. Meningkatkan harga produk", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Conveyor pada sistem pemindahan material dalam HAZOP berperan sebagai apa?",
+      "explanation": "Conveyor adalah bagian peralatan yang dianalisis, sehingga berperan sebagai Node.",
+      "difficulty": "MEDIUM",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Node", "isCorrect": true },
+        { "text": "B. Parameter", "isCorrect": false },
+        { "text": "C. Guide Word", "isCorrect": false },
+        { "text": "D. Safeguard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa identifikasi Possible Cause penting dalam HAZOP?",
+      "explanation": "Identifikasi Possible Cause penting karena memungkinkan tindakan pengendalian diarahkan pada akar penyebab deviasi, bukan sekadar gejalanya.",
+      "difficulty": "HARD",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Agar pengendalian diarahkan pada akar penyebab deviasi", "isCorrect": true },
+        { "text": "B. Agar biaya analisis lebih murah", "isCorrect": false },
+        { "text": "C. Agar laporan terlihat panjang", "isCorrect": false },
+        { "text": "D. Agar tidak perlu safeguard", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem shutdown otomatis pada reaktor yang sudah terpasang termasuk komponen HAZOP yang mana?",
+      "explanation": "Sistem shutdown otomatis yang sudah ada untuk melindungi sistem termasuk Safeguard.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Safeguard", "isCorrect": true },
+        { "text": "B. Possible Cause", "isCorrect": false },
+        { "text": "C. Deviation", "isCorrect": false },
+        { "text": "D. Guide Word", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika dari analisis ditemukan bahwa safeguard yang ada belum cukup, maka tim HAZOP akan menetapkan?",
+      "explanation": "Jika safeguard yang ada belum cukup, tim HAZOP menetapkan Action Required, yaitu tindakan tambahan untuk mengurangi risiko.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Action Required (tindakan tambahan)", "isCorrect": true },
+        { "text": "B. Guide Word baru", "isCorrect": false },
+        { "text": "C. Node baru", "isCorrect": false },
+        { "text": "D. Parameter baru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan manakah yang BENAR mengenai tujuan HAZOP secara keseluruhan?",
+      "explanation": "Tujuan HAZOP mencakup mengidentifikasi bahaya, menemukan deviasi, menilai cause dan consequence, serta menentukan pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan HAZOP",
+      "options": [
+        { "text": "A. Mengidentifikasi bahaya, menemukan deviasi, menilai cause-consequence, dan menentukan pengendalian", "isCorrect": true },
+        { "text": "B. Hanya menghitung keuntungan perusahaan", "isCorrect": false },
+        { "text": "C. Hanya membuat laporan tahunan", "isCorrect": false },
+        { "text": "D. Hanya merekrut pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviasi 'Less Temperature' (suhu kurang) terbentuk dari Guide Word apa?",
+      "explanation": "Less Temperature terbentuk dari Guide Word 'Less' (kurang) yang dikombinasikan dengan Parameter 'Temperature'.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Less (Kurang)", "isCorrect": true },
+        { "text": "B. More (Lebih)", "isCorrect": false },
+        { "text": "C. Reverse (Terbalik)", "isCorrect": false },
+        { "text": "D. No (Tidak Ada)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kesalahan manusia (human error) dalam pengoperasian valve dapat menjadi apa dalam HAZOP?",
+      "explanation": "Kesalahan manusia adalah salah satu sumber Possible Cause yang dapat menyebabkan deviasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Possible Cause", "isCorrect": true },
+        { "text": "B. Safeguard", "isCorrect": false },
+        { "text": "C. Action Required", "isCorrect": false },
+        { "text": "D. Node", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa fokus utama analisis HAZOP dibandingkan analisis lain?",
+      "explanation": "Fokus utama HAZOP adalah mengidentifikasi penyimpangan (deviation) dari kondisi operasi normal secara sistematis pada sistem proses.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Penyimpangan dari kondisi operasi normal", "isCorrect": true },
+        { "text": "B. Perhitungan laba rugi", "isCorrect": false },
+        { "text": "C. Kepuasan pelanggan", "isCorrect": false },
+        { "text": "D. Strategi pemasaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ventilasi darurat dan alarm deteksi gas yang ditambahkan setelah analisis menemukan kekurangan termasuk?",
+      "explanation": "Bila ditambahkan sebagai hasil rekomendasi analisis untuk mengurangi risiko, ventilasi darurat dan alarm termasuk Action Required.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Action Required", "isCorrect": true },
+        { "text": "B. Possible Cause", "isCorrect": false },
+        { "text": "C. Deviation", "isCorrect": false },
+        { "text": "D. Parameter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam HAZOP, apa hubungan antara Deviation dan Possible Consequence?",
+      "explanation": "Possible Consequence adalah dampak yang muncul jika Deviation (penyimpangan) benar-benar terjadi dan tidak dikendalikan.",
+      "difficulty": "MEDIUM",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Consequence adalah dampak yang muncul jika deviasi terjadi", "isCorrect": true },
+        { "text": "B. Consequence adalah penyebab deviasi", "isCorrect": false },
+        { "text": "C. Consequence adalah pengaman deviasi", "isCorrect": false },
+        { "text": "D. Keduanya tidak berhubungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa HAZOP membutuhkan data dan informasi yang mendalam?",
+      "explanation": "Sebagai metode kuantitatif yang teknis, HAZOP membutuhkan data mendalam untuk menganalisis sistem proses yang kompleks secara akurat.",
+      "difficulty": "HARD",
+      "tag": "Latar Belakang HAZOP",
+      "options": [
+        { "text": "A. Karena menganalisis sistem proses yang kompleks secara teknis dan akurat", "isCorrect": true },
+        { "text": "B. Karena hanya untuk formalitas", "isCorrect": false },
+        { "text": "C. Karena tidak ada metode lain", "isCorrect": false },
+        { "text": "D. Karena untuk mengisi waktu luang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah urutan yang benar untuk membentuk sebuah Deviation dalam HAZOP?",
+      "explanation": "Deviation dibentuk dengan memilih Node, menentukan Parameter, lalu menerapkan Guide Word untuk menghasilkan penyimpangan.",
+      "difficulty": "HARD",
+      "tag": "Core Elements HAZOP",
+      "options": [
+        { "text": "A. Pilih Node, tentukan Parameter, terapkan Guide Word", "isCorrect": true },
+        { "text": "B. Hitung biaya, buat laporan, lapor manajer", "isCorrect": false },
+        { "text": "C. Tentukan consequence dulu, baru cause", "isCorrect": false },
+        { "text": "D. Pasang safeguard, baru cari deviasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa output akhir yang dihasilkan dari sebuah studi HAZOP?",
+      "explanation": "Output akhir HAZOP adalah daftar deviasi beserta penyebab, konsekuensi, safeguard yang ada, dan rekomendasi tindakan (action required) untuk pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan HAZOP",
+      "options": [
+        { "text": "A. Daftar deviasi dengan cause, consequence, safeguard, dan action required", "isCorrect": true },
+        { "text": "B. Laporan keuangan tahunan", "isCorrect": false },
+        { "text": "C. Daftar gaji karyawan", "isCorrect": false },
+        { "text": "D. Jadwal cuti pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi lingkungan ekstrem seperti suhu tinggi dapat menjadi apa dalam HAZOP?",
+      "explanation": "Kondisi lingkungan adalah salah satu sumber Possible Cause yang dapat memicu terjadinya deviasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Possible Cause", "isCorrect": true },
+        { "text": "B. Action Required", "isCorrect": false },
+        { "text": "C. Safeguard", "isCorrect": false },
+        { "text": "D. Guide Word", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan manakah yang membedakan Safeguard dari Possible Cause?",
+      "explanation": "Safeguard adalah mekanisme pengaman untuk melindungi sistem, sedangkan Possible Cause adalah faktor yang menyebabkan deviasi terjadi.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Safeguard melindungi sistem, Cause menyebabkan deviasi", "isCorrect": true },
+        { "text": "B. Keduanya adalah dampak deviasi", "isCorrect": false },
+        { "text": "C. Keduanya adalah jenis guide word", "isCorrect": false },
+        { "text": "D. Safeguard menyebabkan deviasi, Cause melindungi sistem", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mesin sebagai bagian yang dianalisis dalam HAZOP merupakan contoh dari?",
+      "explanation": "Mesin adalah contoh Node, yaitu bagian dari proses/sistem/peralatan yang dianalisis.",
+      "difficulty": "EASY",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Node", "isCorrect": true },
+        { "text": "B. Deviation", "isCorrect": false },
+        { "text": "C. Guide Word", "isCorrect": false },
+        { "text": "D. Consequence", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Guide Word 'High' dalam HAZOP umumnya digunakan untuk menggambarkan?",
+      "explanation": "Guide Word 'High' menggambarkan nilai parameter yang tinggi/melebihi normal, contohnya High Pressure (tekanan tinggi).",
+      "difficulty": "EASY",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Nilai parameter yang tinggi/melebihi normal", "isCorrect": true },
+        { "text": "B. Nilai parameter yang nol", "isCorrect": false },
+        { "text": "C. Arah aliran terbalik", "isCorrect": false },
+        { "text": "D. Tidak ada perubahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam praktiknya, HAZOP membantu proses pengambilan keputusan dalam hal apa?",
+      "explanation": "HAZOP merupakan metode teknis dan sistematis yang mendukung proses pengambilan keputusan dalam manajemen risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Latar Belakang HAZOP",
+      "options": [
+        { "text": "A. Manajemen risiko", "isCorrect": true },
+        { "text": "B. Manajemen pemasaran", "isCorrect": false },
+        { "text": "C. Manajemen keuangan", "isCorrect": false },
+        { "text": "D. Manajemen sumber daya manusia saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan core element HAZOP?",
+      "explanation": "Safeguard bukan core element, melainkan komponen analisis lanjutan. Core elements HAZOP adalah Node, Parameter, Guide Word, dan Deviation.",
+      "difficulty": "HARD",
+      "tag": "Core Elements HAZOP",
+      "options": [
+        { "text": "A. Safeguard", "isCorrect": true },
+        { "text": "B. Node", "isCorrect": false },
+        { "text": "C. Parameter", "isCorrect": false },
+        { "text": "D. Guide Word", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada deviasi 'High Pressure' di sebuah bejana tekan, apa Possible Consequence yang paling berbahaya?",
+      "explanation": "Tekanan berlebih dapat menyebabkan bejana pecah atau meledak, yaitu konsekuensi keselamatan yang berbahaya.",
+      "difficulty": "HARD",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Bejana pecah atau meledak", "isCorrect": true },
+        { "text": "B. Katup pengaman gagal (penyebab)", "isCorrect": false },
+        { "text": "C. Pemasangan sensor tekanan", "isCorrect": false },
+        { "text": "D. Audit rutin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa HAZOP lebih cocok untuk fasilitas/instalasi yang kompleks?",
+      "explanation": "HAZOP cocok untuk fasilitas kompleks karena menganalisis sistem proses secara rinci, sistematis, dan teknis dengan banyak node dan parameter.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Karena menganalisis sistem proses secara rinci dan sistematis", "isCorrect": true },
+        { "text": "B. Karena tidak perlu data", "isCorrect": false },
+        { "text": "C. Karena cepat dan murah tanpa keahlian", "isCorrect": false },
+        { "text": "D. Karena hanya untuk fasilitas sederhana", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan bahan anti karat pada pipa untuk mencegah kebocoran sebagai langkah yang sudah ada termasuk?",
+      "explanation": "Penggunaan bahan anti karat yang sudah diterapkan untuk mencegah deviasi termasuk Safeguard.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Safeguard", "isCorrect": true },
+        { "text": "B. Possible Cause", "isCorrect": false },
+        { "text": "C. Deviation", "isCorrect": false },
+        { "text": "D. Guide Word", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang terjadi jika sebuah deviasi tidak memiliki safeguard maupun action required yang memadai?",
+      "explanation": "Tanpa safeguard dan action required yang memadai, risiko dari deviasi tetap tinggi dan berpotensi menyebabkan kecelakaan.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Risiko tetap tinggi dan berpotensi menyebabkan kecelakaan", "isCorrect": true },
+        { "text": "B. Deviasi otomatis hilang", "isCorrect": false },
+        { "text": "C. Proses menjadi lebih aman", "isCorrect": false },
+        { "text": "D. Tidak ada dampak apapun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada sistem perpipaan, parameter 'flow' dengan guide word 'Less' membentuk deviasi apa?",
+      "explanation": "Kombinasi Guide Word 'Less' dan Parameter 'flow' membentuk deviasi 'Less Flow' (aliran kurang).",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Less Flow (Aliran Kurang)", "isCorrect": true },
+        { "text": "B. High Pressure (Tekanan Tinggi)", "isCorrect": false },
+        { "text": "C. No Temperature (Tidak Ada Suhu)", "isCorrect": false },
+        { "text": "D. Reverse Pressure (Tekanan Terbalik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tim HAZOP yang ideal sebaiknya bersifat?",
+      "explanation": "Tim HAZOP sebaiknya multidisiplin (lintas keahlian) agar analisis penyimpangan, penyebab, dan konsekuensi dapat dilakukan secara komprehensif.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Multidisiplin/lintas keahlian", "isCorrect": true },
+        { "text": "B. Terdiri dari satu disiplin saja", "isCorrect": false },
+        { "text": "C. Hanya bagian keuangan", "isCorrect": false },
+        { "text": "D. Tanpa keahlian teknis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertanyaan 'Apa yang sudah tersedia untuk melindungi sistem?' digunakan untuk mengidentifikasi komponen HAZOP apa?",
+      "explanation": "Pertanyaan tersebut adalah pertanyaan kunci untuk mengidentifikasi Safeguard.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Safeguard", "isCorrect": true },
+        { "text": "B. Possible Cause", "isCorrect": false },
+        { "text": "C. Possible Consequence", "isCorrect": false },
+        { "text": "D. Deviation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa HAZOP termasuk pendekatan komprehensif?",
+      "explanation": "HAZOP komprehensif karena menganalisis seluruh aspek mulai dari penyimpangan, penyebab, konsekuensi, pengaman, hingga tindakan pengendalian dalam satu kerangka.",
+      "difficulty": "HARD",
+      "tag": "Latar Belakang HAZOP",
+      "options": [
+        { "text": "A. Menganalisis deviasi, penyebab, konsekuensi, safeguard, dan tindakan dalam satu kerangka", "isCorrect": true },
+        { "text": "B. Hanya melihat satu aspek tunggal", "isCorrect": false },
+        { "text": "C. Mengabaikan penyebab kecelakaan", "isCorrect": false },
+        { "text": "D. Tidak memiliki struktur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviasi 'No Flow' pada pompa pendingin sebuah reaktor dapat berkonsekuensi pada?",
+      "explanation": "Tidak adanya aliran pendingin menyebabkan suhu reaktor naik tak terkendali yang berpotensi overheat hingga ledakan, yaitu konsekuensi keselamatan.",
+      "difficulty": "HARD",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Suhu reaktor naik tak terkendali (overheat)", "isCorrect": true },
+        { "text": "B. Pompa mati (penyebab)", "isCorrect": false },
+        { "text": "C. Pemasangan flow switch", "isCorrect": false },
+        { "text": "D. Pelatihan operator", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Inspeksi rutin dan prosedur kerja yang sudah berjalan untuk mencegah deviasi termasuk?",
+      "explanation": "Inspeksi rutin dan prosedur yang sudah berjalan termasuk Safeguard karena merupakan mekanisme pengamanan yang sudah ada.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Safeguard", "isCorrect": true },
+        { "text": "B. Possible Cause", "isCorrect": false },
+        { "text": "C. Possible Consequence", "isCorrect": false },
+        { "text": "D. Guide Word", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa peran Parameter dalam membentuk sebuah Deviation?",
+      "explanation": "Parameter (variabel proses) dikombinasikan dengan Guide Word untuk membentuk Deviation, sehingga parameter menentukan variabel mana yang menyimpang.",
+      "difficulty": "MEDIUM",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. Menentukan variabel proses yang menyimpang", "isCorrect": true },
+        { "text": "B. Menentukan biaya pengendalian", "isCorrect": false },
+        { "text": "C. Menentukan jumlah pekerja", "isCorrect": false },
+        { "text": "D. Menggantikan node", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang paling tepat tentang sifat dasar metode HAZOP?",
+      "explanation": "HAZOP bersifat sistematis dan terstruktur dalam mengidentifikasi penyimpangan operasi normal pada sistem proses.",
+      "difficulty": "EASY",
+      "tag": "Definisi HAZOP",
+      "options": [
+        { "text": "A. Sistematis dan terstruktur", "isCorrect": true },
+        { "text": "B. Acak dan tidak teratur", "isCorrect": false },
+        { "text": "C. Berdasarkan keberuntungan", "isCorrect": false },
+        { "text": "D. Hanya berdasarkan opini satu orang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jika tim HAZOP menemukan bahwa sebuah node memiliki deviasi dengan konsekuensi tinggi namun safeguard lemah, prioritas tindakannya adalah?",
+      "explanation": "Dengan konsekuensi tinggi dan safeguard lemah, prioritasnya adalah menetapkan Action Required yang kuat mengikuti hirarki pengendalian (idealnya eliminasi/engineering control).",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Menetapkan Action Required mengikuti hirarki pengendalian", "isCorrect": true },
+        { "text": "B. Mengabaikan deviasi tersebut", "isCorrect": false },
+        { "text": "C. Mengganti node dengan parameter", "isCorrect": false },
+        { "text": "D. Menghentikan analisis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan HAZOP 'menentukan pengendalian risiko' berhubungan langsung dengan komponen analisis?",
+      "explanation": "Menentukan pengendalian risiko berhubungan langsung dengan Action Required, yaitu tindakan tambahan berdasarkan hirarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan HAZOP",
+      "options": [
+        { "text": "A. Action Required", "isCorrect": true },
+        { "text": "B. Guide Word", "isCorrect": false },
+        { "text": "C. Node", "isCorrect": false },
+        { "text": "D. Parameter", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa perbedaan mendasar antara Parameter dan Guide Word dalam HAZOP?",
+      "explanation": "Parameter adalah variabel proses (seperti tekanan, aliran), sedangkan Guide Word adalah kata kunci modifikasi (seperti No, More, Less) yang diterapkan pada parameter.",
+      "difficulty": "HARD",
+      "tag": "Core Elements HAZOP",
+      "options": [
+        { "text": "A. Parameter adalah variabel proses, Guide Word adalah kata kunci modifikasi", "isCorrect": true },
+        { "text": "B. Keduanya adalah jenis peralatan", "isCorrect": false },
+        { "text": "C. Parameter adalah kata kunci, Guide Word adalah peralatan", "isCorrect": false },
+        { "text": "D. Keduanya tidak berkaitan dengan deviasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila pada deviasi tertentu ditemukan banyak safeguard yang sudah memadai, maka tim HAZOP dapat menyimpulkan bahwa?",
+      "explanation": "Bila safeguard sudah memadai, risiko deviasi tersebut sudah cukup terkendali sehingga mungkin tidak memerlukan action required tambahan.",
+      "difficulty": "HARD",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Risiko sudah cukup terkendali", "isCorrect": true },
+        { "text": "B. Risiko pasti meningkat", "isCorrect": false },
+        { "text": "C. Deviasi harus dihapus", "isCorrect": false },
+        { "text": "D. Node harus diganti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah contoh deviasi yang dibentuk dari Guide Word 'No'?",
+      "explanation": "No Flow (tidak ada aliran) adalah deviasi yang dibentuk dari Guide Word 'No' dan Parameter 'Flow'.",
+      "difficulty": "EASY",
+      "tag": "Guide Word & Deviation",
+      "options": [
+        { "text": "A. No Flow (Tidak Ada Aliran)", "isCorrect": true },
+        { "text": "B. High Pressure (Tekanan Tinggi)", "isCorrect": false },
+        { "text": "C. More Temperature (Suhu Lebih)", "isCorrect": false },
+        { "text": "D. Reverse Flow (Aliran Terbalik)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "HAZOP membantu membedakan tingkat bahaya secara jelas dengan tujuan untuk?",
+      "explanation": "Membedakan tingkat bahaya secara jelas membantu menentukan prioritas langkah pengendalian risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Tujuan HAZOP",
+      "options": [
+        { "text": "A. Menentukan prioritas langkah pengendalian", "isCorrect": true },
+        { "text": "B. Menentukan gaji karyawan", "isCorrect": false },
+        { "text": "C. Menghitung pajak", "isCorrect": false },
+        { "text": "D. Menyusun jadwal libur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Deviasi pada parameter 'level' (ketinggian) cairan dalam tangki dengan guide word 'More' dapat menyebabkan konsekuensi?",
+      "explanation": "Level yang lebih tinggi dari normal (More Level) dapat menyebabkan tangki meluap (overflow), yaitu konsekuensi operasional dan lingkungan.",
+      "difficulty": "HARD",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Tangki meluap (overflow)", "isCorrect": true },
+        { "text": "B. Tangki kosong", "isCorrect": false },
+        { "text": "C. Pemasangan level sensor (safeguard)", "isCorrect": false },
+        { "text": "D. Inspeksi tangki (action)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apa yang menjadi titik fokus analisis ketika sebuah Node dipilih dalam HAZOP?",
+      "explanation": "Ketika sebuah Node dipilih, fokusnya adalah menganalisis parameter-parameter prosesnya dengan guide word untuk menemukan deviasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Node & Parameter",
+      "options": [
+        { "text": "A. Menganalisis parameter proses node tersebut dengan guide word", "isCorrect": true },
+        { "text": "B. Menghitung harga jual node", "isCorrect": false },
+        { "text": "C. Mengganti node dengan yang baru", "isCorrect": false },
+        { "text": "D. Menjual node ke pihak lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara umum, HAZOP digolongkan sebagai metode analisis risiko yang bersifat?",
+      "explanation": "HAZOP bersifat proaktif karena mengidentifikasi potensi penyimpangan dan bahaya sebelum kecelakaan terjadi.",
+      "difficulty": "EASY",
+      "tag": "Latar Belakang HAZOP",
+      "options": [
+        { "text": "A. Proaktif", "isCorrect": true },
+        { "text": "B. Reaktif murni", "isCorrect": false },
+        { "text": "C. Pasif", "isCorrect": false },
+        { "text": "D. Spekulatif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pertanyaan 'Apa yang harus dilakukan agar risiko lebih aman?' mengarah pada penentuan?",
+      "explanation": "Pertanyaan tersebut adalah pertanyaan kunci untuk menentukan Action Required.",
+      "difficulty": "MEDIUM",
+      "tag": "Safeguard & Action Required",
+      "options": [
+        { "text": "A. Action Required", "isCorrect": true },
+        { "text": "B. Safeguard", "isCorrect": false },
+        { "text": "C. Possible Cause", "isCorrect": false },
+        { "text": "D. Node", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah rangkaian yang benar menggambarkan alur kerja HAZOP dari awal hingga akhir?",
+      "explanation": "Alur HAZOP: pilih Node, tentukan Parameter, terapkan Guide Word untuk dapat Deviation, lalu analisis Cause, Consequence, Safeguard, dan Action Required.",
+      "difficulty": "HARD",
+      "tag": "Core Elements HAZOP",
+      "options": [
+        { "text": "A. Node → Parameter → Guide Word → Deviation → Cause → Consequence → Safeguard → Action Required", "isCorrect": true },
+        { "text": "B. Action Required → Safeguard → Consequence → Cause → Deviation → Node", "isCorrect": false },
+        { "text": "C. Deviation → Node → Action Required → Parameter", "isCorrect": false },
+        { "text": "D. Safeguard → Guide Word → Node → Cause", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa penilaian konsekuensi (consequence) penting dalam HAZOP?",
+      "explanation": "Penilaian konsekuensi penting untuk memahami seberapa besar dampak deviasi terhadap keselamatan, kesehatan, operasional, dan lingkungan, sehingga prioritas pengendalian bisa ditetapkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Cause & Consequence",
+      "options": [
+        { "text": "A. Untuk memahami besarnya dampak dan menetapkan prioritas pengendalian", "isCorrect": true },
+        { "text": "B. Untuk menghitung keuntungan", "isCorrect": false },
+        { "text": "C. Untuk mengganti node", "isCorrect": false },
+        { "text": "D. Untuk menghapus parameter", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Apa kepanjangan HAZOP?", "back": "Hazard and Operability Study, yaitu studi bahaya dan keteroperasian.", "tag": "Definisi HAZOP" },
+    { "front": "Definisi HAZOP", "back": "Metode analisis risiko sistematis untuk mengidentifikasi penyimpangan (deviation) dari kondisi operasi normal dalam sistem proses.", "tag": "Definisi HAZOP" },
+    { "front": "4 Tujuan HAZOP", "back": "1) Identifikasi potensi bahaya, 2) Menemukan deviasi, 3) Menilai cause & consequence, 4) Menentukan pengendalian risiko.", "tag": "Tujuan HAZOP" },
+    { "front": "4 Core Elements HAZOP", "back": "Node, Parameter, Guide Word, dan Deviation.", "tag": "Core Elements HAZOP" },
+    { "front": "Apa itu Node?", "back": "Bagian dari proses/sistem/peralatan yang dianalisis. Contoh: pipa, pompa, mesin, turbin, conveyor.", "tag": "Node & Parameter" },
+    { "front": "Apa itu Parameter?", "back": "Variabel proses yang dianalisis. Contoh: flow (aliran), pressure (tekanan), temperature (suhu).", "tag": "Node & Parameter" },
+    { "front": "Apa itu Guide Word?", "back": "Kata kunci untuk menemukan penyimpangan. Contoh: No, More, Less, Reverse, High.", "tag": "Guide Word & Deviation" },
+    { "front": "Apa itu Deviation?", "back": "Kondisi yang menyimpang dari normal, hasil kombinasi Guide Word + Parameter. Contoh: No Pressure, High Pressure, Reverse Flow.", "tag": "Guide Word & Deviation" },
+    { "front": "Deviation terbentuk dari?", "back": "Kombinasi Guide Word + Parameter. Misalnya 'No' + 'Flow' = No Flow.", "tag": "Guide Word & Deviation" },
+    { "front": "Arti Guide Word: No, More, Less, Reverse", "back": "No = Tidak Ada, More = Lebih, Less = Kurang, Reverse = Terbalik.", "tag": "Guide Word & Deviation" },
+    { "front": "Apa itu Possible Cause?", "back": "Faktor yang menyebabkan terjadinya deviasi. Pertanyaan kunci: 'Kenapa deviasi ini bisa terjadi?'", "tag": "Cause & Consequence" },
+    { "front": "Apa itu Possible Consequence?", "back": "Dampak/akibat jika deviasi terjadi. Pertanyaan kunci: 'Apa yang terjadi jika tidak dikendalikan?'", "tag": "Cause & Consequence" },
+    { "front": "Sumber Possible Cause", "back": "Kegagalan alat, kesalahan manusia, dan kondisi lingkungan.", "tag": "Cause & Consequence" },
+    { "front": "Aspek dampak Possible Consequence", "back": "Keselamatan, kesehatan, operasional, dan lingkungan.", "tag": "Cause & Consequence" },
+    { "front": "Apa itu Safeguard?", "back": "Sistem/mekanisme pengamanan yang SUDAH ADA untuk mencegah/mengurangi dampak deviasi. Contoh: sensor, alarm, shutdown.", "tag": "Safeguard & Action Required" },
+    { "front": "Apa itu Action Required?", "back": "Tindakan tambahan yang PERLU dilakukan untuk mengurangi/menghilangkan risiko. Pertanyaan: 'Apa yang harus dilakukan agar lebih aman?'", "tag": "Safeguard & Action Required" },
+    { "front": "Beda Safeguard vs Action Required", "back": "Safeguard = pengaman yang sudah ada; Action Required = tindakan tambahan yang belum ada namun perlu dilakukan.", "tag": "Safeguard & Action Required" },
+    { "front": "Dasar penentuan Action Required", "back": "Hirarki pengendalian risiko: Eliminasi, Substitusi, Engineering Control, Administrasi, APD.", "tag": "Safeguard & Action Required" },
+    { "front": "Latar belakang HAZOP", "back": "Kecelakaan adalah interaksi kegagalan manusia, peralatan, proses, dan manajemen, sehingga butuh analisis proaktif dan komprehensif.", "tag": "Latar Belakang HAZOP" },
+    { "front": "Alur kerja HAZOP", "back": "Node → Parameter → Guide Word → Deviation → Cause → Consequence → Safeguard → Action Required.", "tag": "Core Elements HAZOP" }
+  ],
+  "mindmap": [
+    { "id": "hazop", "label": "Analisis Risiko Berbasis HAZOP", "color": "#6366f1", "parent": null, "content": "Metode analisis risiko sistematis untuk mengidentifikasi penyimpangan (deviation) dari kondisi operasi normal dalam sistem proses." },
+    { "id": "latar-belakang", "label": "Latar Belakang", "color": "#8b5cf6", "parent": "hazop", "content": "Kecelakaan kerja adalah hasil interaksi kegagalan manusia, peralatan, proses, dan manajemen, sehingga butuh analisis yang proaktif." },
+    { "id": "lb-multifaktor", "label": "Penyebab Multifaktor", "color": "#8b5cf6", "parent": "latar-belakang", "content": "Kecelakaan tidak disebabkan faktor tunggal, melainkan interaksi kegagalan manusia, peralatan, proses, dan sistem manajemen." },
+    { "id": "lb-proaktif", "label": "Pendekatan Proaktif", "color": "#8b5cf6", "parent": "latar-belakang", "content": "Diperlukan pendekatan yang tidak hanya reaktif, tetapi proaktif dan komprehensif untuk mengelola risiko." },
+    { "id": "lb-teknis", "label": "Metode Teknis & Sistematis", "color": "#8b5cf6", "parent": "latar-belakang", "content": "HAZOP mendukung pengambilan keputusan manajemen risiko secara teknis dan sistematis, berbeda dari teori kecelakaan." },
+    { "id": "definisi", "label": "Definisi HAZOP", "color": "#0ea5e9", "parent": "hazop", "content": "Hazard and Operability Study: metode sistematis mengidentifikasi penyimpangan dari kondisi operasi normal pada sistem proses." },
+    { "id": "def-kepanjangan", "label": "Hazard & Operability", "color": "#0ea5e9", "parent": "definisi", "content": "Hazard = bahaya, Operability = keteroperasian sistem proses sesuai kondisi normal." },
+    { "id": "def-kuantitatif", "label": "Metode Kuantitatif", "color": "#0ea5e9", "parent": "definisi", "content": "HAZOP termasuk analisis risiko kuantitatif yang cocok untuk sistem proses kompleks dan rinci." },
+    { "id": "def-tim", "label": "Tim Multidisiplin", "color": "#0ea5e9", "parent": "definisi", "content": "Dilakukan oleh tim lintas keahlian (engineer proses, K3, operator) agar analisis komprehensif." },
+    { "id": "tujuan", "label": "Tujuan HAZOP", "color": "#10b981", "parent": "hazop", "content": "Empat tujuan utama: identifikasi bahaya, temukan deviasi, nilai cause-consequence, dan tentukan pengendalian risiko." },
+    { "id": "tuj-bahaya", "label": "Identifikasi Bahaya", "color": "#10b981", "parent": "tujuan", "content": "Mengidentifikasi potensi bahaya (hazard) yang ada dalam sistem proses." },
+    { "id": "tuj-deviasi", "label": "Temukan Deviasi", "color": "#10b981", "parent": "tujuan", "content": "Menemukan penyimpangan proses (deviation) dari kondisi operasi normal." },
+    { "id": "tuj-nilai", "label": "Nilai Cause & Consequence", "color": "#10b981", "parent": "tujuan", "content": "Menilai penyebab (cause) dan konsekuensi (consequence) dari deviasi yang teridentifikasi." },
+    { "id": "tuj-kendali", "label": "Tentukan Pengendalian", "color": "#10b981", "parent": "tujuan", "content": "Menentukan pengendalian risiko yang sesuai untuk mengatasi bahaya." },
+    { "id": "core", "label": "Core Elements", "color": "#f59e0b", "parent": "hazop", "content": "Empat elemen inti HAZOP: Node, Parameter, Guide Word, dan Deviation." },
+    { "id": "core-node", "label": "Node", "color": "#f59e0b", "parent": "core", "content": "Bagian proses/sistem/peralatan yang dianalisis. Contoh: pipa, pompa, mesin, turbin, conveyor." },
+    { "id": "core-parameter", "label": "Parameter", "color": "#f59e0b", "parent": "core", "content": "Variabel proses yang ditinjau. Contoh: flow (aliran), pressure (tekanan), temperature (suhu)." },
+    { "id": "core-guideword", "label": "Guide Word", "color": "#f59e0b", "parent": "core", "content": "Kata kunci penyimpangan. Contoh: No (tidak ada), More (lebih), Less (kurang), Reverse (terbalik), High (tinggi)." },
+    { "id": "core-deviation", "label": "Deviation", "color": "#f59e0b", "parent": "core", "content": "Kondisi menyimpang dari normal, kesimpulan dari Guide Word + Parameter. Contoh: No Pressure, High Pressure, Reverse Flow." },
+    { "id": "core-kombinasi", "label": "Kombinasi GW + Parameter", "color": "#f59e0b", "parent": "core", "content": "Deviation dibentuk dari kombinasi Guide Word dan Parameter, misalnya 'No' + 'Flow' = No Flow." },
+    { "id": "guideword-detail", "label": "Jenis Guide Word", "color": "#ef4444", "parent": "hazop", "content": "Kata kunci yang diterapkan pada parameter untuk membentuk berbagai deviasi secara sistematis." },
+    { "id": "gw-no", "label": "No (Tidak Ada)", "color": "#ef4444", "parent": "guideword-detail", "content": "Parameter hilang sepenuhnya. Contoh: No Flow (tidak ada aliran), No Pressure (tidak ada tekanan)." },
+    { "id": "gw-more", "label": "More / High (Lebih)", "color": "#ef4444", "parent": "guideword-detail", "content": "Parameter melebihi nilai normal. Contoh: High Pressure (tekanan tinggi), More Temperature." },
+    { "id": "gw-less", "label": "Less (Kurang)", "color": "#ef4444", "parent": "guideword-detail", "content": "Parameter di bawah nilai normal. Contoh: Less Flow (aliran kurang), Less Temperature." },
+    { "id": "gw-reverse", "label": "Reverse (Terbalik)", "color": "#ef4444", "parent": "guideword-detail", "content": "Arah parameter berbalik dari normal. Contoh: Reverse Flow (aliran terbalik)." },
+    { "id": "analisis-lanjut", "label": "Analisis Lanjutan", "color": "#ec4899", "parent": "hazop", "content": "Setelah deviasi ditemukan: analisis Possible Cause, Possible Consequence, Safeguard, dan Action Required." },
+    { "id": "al-cause", "label": "Possible Cause", "color": "#ec4899", "parent": "analisis-lanjut", "content": "Faktor penyebab deviasi. Pertanyaan kunci: 'Kenapa deviasi ini bisa terjadi?' Sumber: alat, manusia, lingkungan." },
+    { "id": "al-consequence", "label": "Possible Consequence", "color": "#ec4899", "parent": "analisis-lanjut", "content": "Dampak jika deviasi terjadi. Pertanyaan kunci: 'Apa yang terjadi jika tidak dikendalikan?' Aspek: keselamatan, kesehatan, operasional, lingkungan." },
+    { "id": "al-pertanyaan", "label": "Pertanyaan Kunci", "color": "#ec4899", "parent": "analisis-lanjut", "content": "Setiap komponen analisis dipandu pertanyaan kunci untuk memastikan analisis menyeluruh dan terstruktur." },
+    { "id": "pengaman", "label": "Pengamanan & Tindakan", "color": "#14b8a6", "parent": "hazop", "content": "Safeguard sebagai pengaman yang sudah ada dan Action Required sebagai tindakan tambahan berbasis hirarki pengendalian." },
+    { "id": "pg-safeguard", "label": "Safeguard", "color": "#14b8a6", "parent": "pengaman", "content": "Pengaman yang SUDAH ada untuk mencegah/mengurangi dampak deviasi. Contoh: sensor, alarm, sistem shutdown, prosedur." },
+    { "id": "pg-action", "label": "Action Required", "color": "#14b8a6", "parent": "pengaman", "content": "Tindakan tambahan yang PERLU dilakukan untuk mengurangi/menghilangkan risiko. Pertanyaan: 'Apa yang harus dilakukan agar lebih aman?'" },
+    { "id": "pg-hirarki", "label": "Hirarki Pengendalian", "color": "#14b8a6", "parent": "pengaman", "content": "Dasar penentuan Action Required: Eliminasi, Substitusi, Engineering Control, Administrasi, APD." },
+    { "id": "pg-beda", "label": "Safeguard vs Action", "color": "#14b8a6", "parent": "pengaman", "content": "Safeguard = sudah ada; Action Required = belum ada tetapi perlu dilakukan untuk menurunkan risiko." }
+  ]
+}

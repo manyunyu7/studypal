@@ -1,0 +1,1752 @@
+{
+  "topic": "Konsep Higiene Industri",
+  "order": 1,
+  "description": "Higiene industri adalah ilmu dan seni mengantisipasi, mengenali, mengevaluasi, dan mengendalikan faktor bahaya lingkungan kerja untuk melindungi kesehatan pekerja. Topik ini mencakup definisi menurut para pakar, tujuan, ruang lingkup empat tahap, lima faktor bahaya, hirarki pengendalian, serta sejarah perkembangannya.",
+  "subtopics": [
+    "Definisi & Tujuan",
+    "Antisipasi",
+    "Rekognisi",
+    "Evaluasi",
+    "Pengendalian & Hirarki",
+    "Faktor Bahaya",
+    "Sejarah"
+  ],
+  "questions": [
+    {
+      "text": "Menurut International Occupational Hygiene Association (IOHA), higiene industri adalah disiplin yang melakukan empat hal terhadap health hazards di lingkungan kerja, yaitu?",
+      "explanation": "IOHA mendefinisikan higiene industri sebagai disiplin anticipating, recognizing, evaluating, dan controlling health hazards di lingkungan kerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Mengukur, mencatat, melaporkan, dan menyimpan", "isCorrect": false },
+        { "text": "B. Mengantisipasi, mengenali, mengevaluasi, dan mengendalikan", "isCorrect": true },
+        { "text": "C. Merencanakan, melaksanakan, memeriksa, dan menindaklanjuti", "isCorrect": false },
+        { "text": "D. Mengamati, menganalisis, melatih, dan mengawasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Empat tahap ruang lingkup higiene industri secara berurutan adalah?",
+      "explanation": "Ruang lingkup higiene industri terdiri dari empat tahap: antisipasi, rekognisi, evaluasi, dan pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Antisipasi, rekognisi, evaluasi, pengendalian", "isCorrect": true },
+        { "text": "B. Rekognisi, antisipasi, pengendalian, evaluasi", "isCorrect": false },
+        { "text": "C. Evaluasi, antisipasi, rekognisi, pengendalian", "isCorrect": false },
+        { "text": "D. Pengendalian, evaluasi, rekognisi, antisipasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Soeripto (2008), higiene industri adalah ilmu dan seni yang mampu mengantisipasi, mengenal, mengevaluasi, dan mengendalikan?",
+      "explanation": "Soeripto (2008) menekankan pengendalian faktor bahaya yang timbul di lingkungan kerja yang dapat mengakibatkan gangguan kesehatan dan kesejahteraan.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Keuntungan ekonomi perusahaan", "isCorrect": false },
+        { "text": "B. Faktor bahaya yang timbul di lingkungan kerja", "isCorrect": true },
+        { "text": "C. Jumlah produksi pabrik", "isCorrect": false },
+        { "text": "D. Disiplin kerja karyawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi higiene industri sebagai 'science and art devoted to the anticipation, recognition, evaluation, and control of those environmental factors or stresses arising in or from the workplace' dikemukakan dalam buku karya?",
+      "explanation": "Definisi tersebut tercantum dalam Fundamentals of Industrial Hygiene karya Barbara A. Plog.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Suma'mur", "isCorrect": false },
+        { "text": "B. Soeripto", "isCorrect": false },
+        { "text": "C. Barbara A. Plog", "isCorrect": true },
+        { "text": "D. Georgius Agricola", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Suma'mur (2013), higiene industri adalah spesialisasi dalam ilmu higiene yang lingkup dedikasinya adalah?",
+      "explanation": "Suma'mur (2013) menyatakan higiene industri mengenali, mengukur, dan melakukan penilaian terhadap faktor penyebab gangguan kesehatan atau penyakit dalam lingkungan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Mengenali, mengukur, dan menilai faktor penyebab gangguan kesehatan di lingkungan kerja", "isCorrect": true },
+        { "text": "B. Mengobati pekerja yang sakit akibat kerja", "isCorrect": false },
+        { "text": "C. Menyusun jadwal produksi perusahaan", "isCorrect": false },
+        { "text": "D. Menghitung upah dan kompensasi pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut Suma'mur (2009), tujuan higiene industri dalam kesehatan kerja adalah mencapai derajat kesehatan tenaga kerja seoptimal mungkin guna?",
+      "explanation": "Suma'mur (2009) menyatakan tujuannya untuk menyejahterakan tenaga kerja dalam meningkatkan produktivitas, berdasarkan perbaikan daya kerja faktor manusia dalam produksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Mengurangi jumlah pekerja", "isCorrect": false },
+        { "text": "B. Menyejahterakan tenaga kerja dan meningkatkan produktivitas", "isCorrect": true },
+        { "text": "C. Menambah jam kerja lembur", "isCorrect": false },
+        { "text": "D. Menurunkan biaya bahan baku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut situs ILOCIS, tujuan higiene okupasi mencakup perlindungan dan promosi kesehatan pekerja, perlindungan lingkungan, dan kontribusi pada?",
+      "explanation": "ILOCIS menyebutkan tujuan higiene okupasi termasuk kontribusi pada keselamatan dan pembangunan berkelanjutan (safe and sustainable development).",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Pertumbuhan laba maksimal", "isCorrect": false },
+        { "text": "B. Keselamatan dan pembangunan berkelanjutan", "isCorrect": true },
+        { "text": "C. Ekspansi pasar global", "isCorrect": false },
+        { "text": "D. Otomatisasi penuh produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Nama lain yang sering digunakan untuk higiene industri adalah?",
+      "explanation": "Higiene industri juga dikenal sebagai higiene okupasi (occupational hygiene), istilah yang dipakai antara lain oleh IOHA dan ILOCIS.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Higiene okupasi (occupational hygiene)", "isCorrect": true },
+        { "text": "B. Toksikologi klinik", "isCorrect": false },
+        { "text": "C. Epidemiologi lingkungan", "isCorrect": false },
+        { "text": "D. Kedokteran forensik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Higiene industri sering disebut sebagai 'ilmu dan seni'. Maksud dari kata 'seni' dalam definisi ini adalah?",
+      "explanation": "Kata 'seni' menekankan penerapan (mempelajari dan menerapkan) antisipasi, rekognisi, evaluasi, dan pengendalian risiko kerja di industri, bukan sekadar teori.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Kemampuan menggambar denah pabrik", "isCorrect": false },
+        { "text": "B. Penerapan praktis antisipasi, rekognisi, evaluasi, dan pengendalian risiko kerja", "isCorrect": true },
+        { "text": "C. Keindahan tata letak ruangan kerja", "isCorrect": false },
+        { "text": "D. Desain seragam pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Higiene industri merupakan bagian dari ilmu apa, terutama menangani risiko yang bersifat bio-kimiawi-fisik?",
+      "explanation": "Higiene industri adalah bagian dari Ilmu Kesehatan Kerja yang menangani identifikasi, evaluasi, dan pengendalian risiko kesehatan, terutama bersifat bio-kimiawi-fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Ilmu Manajemen Produksi", "isCorrect": false },
+        { "text": "B. Ilmu Kesehatan Kerja", "isCorrect": true },
+        { "text": "C. Ilmu Ekonomi Industri", "isCorrect": false },
+        { "text": "D. Ilmu Hukum Ketenagakerjaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap higiene industri yang merupakan kegiatan memprediksi potensi bahaya yang ada di tempat kerja disebut?",
+      "explanation": "Antisipasi adalah kegiatan memprediksi potensi bahaya di tempat kerja sebelum bahaya menjadi nyata.",
+      "difficulty": "EASY",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Antisipasi", "isCorrect": true },
+        { "text": "B. Rekognisi", "isCorrect": false },
+        { "text": "C. Evaluasi", "isCorrect": false },
+        { "text": "D. Pengendalian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kunci utama dalam tahapan antisipasi adalah?",
+      "explanation": "Kunci dalam tahap antisipasi adalah informasi, misalnya karakteristik bangunan, mesin, proses kerja, bahan baku, dan karakteristik pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Alat ukur canggih", "isCorrect": false },
+        { "text": "B. Informasi", "isCorrect": true },
+        { "text": "C. Anggaran besar", "isCorrect": false },
+        { "text": "D. Jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama tahap antisipasi adalah?",
+      "explanation": "Tujuan antisipasi adalah mengetahui potensi bahaya dan risiko lebih dini sebelum menjadi bahaya nyata, serta mempersiapkan tindakan sebelum proses dijalankan.",
+      "difficulty": "MEDIUM",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Mengobati pekerja yang sudah sakit", "isCorrect": false },
+        { "text": "B. Mengetahui potensi bahaya dan risiko lebih dini sebelum menjadi nyata", "isCorrect": true },
+        { "text": "C. Menghitung biaya produksi", "isCorrect": false },
+        { "text": "D. Menentukan upah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahapan melakukan antisipasi terdiri dari berapa langkah?",
+      "explanation": "Tahap antisipasi terdiri dari 3 langkah: pengumpulan informasi, analisis dan diskusi, serta pembuatan hasil antisipasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. 2 langkah", "isCorrect": false },
+        { "text": "B. 3 langkah", "isCorrect": true },
+        { "text": "C. 4 langkah", "isCorrect": false },
+        { "text": "D. 5 langkah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Langkah pertama dalam tahapan antisipasi adalah?",
+      "explanation": "Langkah pertama antisipasi adalah pengumpulan informasi melalui studi literatur, penelitian, dokumen perusahaan, survey lapangan, legislasi, dan pengalaman masa lalu.",
+      "difficulty": "MEDIUM",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Pembuatan hasil antisipasi", "isCorrect": false },
+        { "text": "B. Pengumpulan informasi", "isCorrect": true },
+        { "text": "C. Pengukuran konsentrasi", "isCorrect": false },
+        { "text": "D. Pemasangan APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil akhir dari tahap antisipasi berupa?",
+      "explanation": "Hasil tahap antisipasi adalah daftar potensi bahaya dan risiko, yang dapat dikelompokkan berdasarkan lokasi, kelompok pekerja, jenis bahaya, atau tahapan proses.",
+      "difficulty": "MEDIUM",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Audiogram pekerja", "isCorrect": false },
+        { "text": "B. Daftar potensi bahaya dan risiko", "isCorrect": true },
+        { "text": "C. Sertifikat pelatihan", "isCorrect": false },
+        { "text": "D. Laporan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Daftar potensi bahaya hasil antisipasi dapat dikelompokkan berdasarkan, kecuali?",
+      "explanation": "Daftar bahaya dikelompokkan berdasarkan lokasi/unit, kelompok pekerja, jenis potensi bahaya, atau tahapan proses produksi; bukan berdasarkan harga saham perusahaan.",
+      "difficulty": "HARD",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Lokasi atau unit", "isCorrect": false },
+        { "text": "B. Kelompok pekerja", "isCorrect": false },
+        { "text": "C. Harga saham perusahaan", "isCorrect": true },
+        { "text": "D. Tahapan proses produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu sumber informasi pada langkah pengumpulan informasi tahap antisipasi adalah pengalaman pada masa lalu. Sumber lain yang termasuk adalah?",
+      "explanation": "Sumber informasi antisipasi meliputi studi literatur, penelitian terkait, dokumen perusahaan, survey lapangan, dan legislasi yang berlaku.",
+      "difficulty": "HARD",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Survey lapangan dan legislasi yang berlaku", "isCorrect": true },
+        { "text": "B. Hasil audiometri tahunan", "isCorrect": false },
+        { "text": "C. Data penjualan produk", "isCorrect": false },
+        { "text": "D. Sampel udara di laboratorium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap higiene industri yang mengenali bahaya secara lebih detail dan komprehensif dengan metode sistematis sehingga hasilnya objektif disebut?",
+      "explanation": "Rekognisi adalah serangkaian kegiatan mengenali bahaya secara detail dengan metode sistematis agar hasilnya objektif dan dapat dipertanggungjawabkan.",
+      "difficulty": "EASY",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Antisipasi", "isCorrect": false },
+        { "text": "B. Rekognisi", "isCorrect": true },
+        { "text": "C. Eliminasi", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada tahap rekognisi biasanya dilakukan pengukuran untuk mendapatkan informasi tentang?",
+      "explanation": "Pada rekognisi dilakukan pengukuran untuk mengetahui konsentrasi, dosis, ukuran partikel, jenis, kandungan, atau struktur dan sifat bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Konsentrasi, dosis, ukuran partikel, jenis, dan sifat bahaya", "isCorrect": true },
+        { "text": "B. Harga bahan baku", "isCorrect": false },
+        { "text": "C. Jumlah produk cacat", "isCorrect": false },
+        { "text": "D. Tingkat absensi pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara antisipasi dan rekognisi adalah?",
+      "explanation": "Pada antisipasi kita hanya memprediksi bahaya, sedangkan pada rekognisi kita sudah harus mengetahui detail terkait bahaya dan risiko yang ada.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Antisipasi mengukur, rekognisi memprediksi", "isCorrect": false },
+        { "text": "B. Antisipasi memprediksi bahaya, rekognisi mengetahui detail bahaya secara nyata", "isCorrect": true },
+        { "text": "C. Keduanya sama persis", "isCorrect": false },
+        { "text": "D. Antisipasi dilakukan setelah pengendalian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan tahap rekognisi antara lain adalah?",
+      "explanation": "Tujuan rekognisi adalah mengetahui karakteristik bahaya secara detail (sifat, kandungan, efek, severity, pola pajanan), sumber bahaya, area berisiko, proses dan pekerja yang berisiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Menentukan gaji pekerja", "isCorrect": false },
+        { "text": "B. Mengetahui karakteristik bahaya secara detail serta pekerja yang berisiko", "isCorrect": true },
+        { "text": "C. Merancang logo perusahaan", "isCorrect": false },
+        { "text": "D. Menyusun anggaran tahunan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah metode yang dapat dilaksanakan dalam tahapan rekognisi, kecuali?",
+      "explanation": "Metode rekognisi meliputi menyelidiki laporan kecelakaan, pemeriksaan fisik kesehatan pekerja, inspeksi, studi literatur, pengukuran, Preliminary Hazard Analysis, dan Job Safety Analysis; bukan penetapan harga jual produk.",
+      "difficulty": "HARD",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Job Safety Analysis", "isCorrect": false },
+        { "text": "B. Inspeksi P2K3", "isCorrect": false },
+        { "text": "C. Penetapan harga jual produk", "isCorrect": true },
+        { "text": "D. Preliminary Hazard Analysis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode rekognisi untuk menganalisis bahaya pada sistem operasi baru disebut?",
+      "explanation": "Preliminary Hazard Analysis (PHA) digunakan dalam rekognisi untuk menganalisis bahaya pada sistem operasi baru.",
+      "difficulty": "HARD",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Preliminary Hazard Analysis", "isCorrect": true },
+        { "text": "B. Noise mapping", "isCorrect": false },
+        { "text": "C. Audiometri", "isCorrect": false },
+        { "text": "D. Spirometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Metode rekognisi yang menganalisis bahaya pada setiap langkah suatu pekerjaan disebut?",
+      "explanation": "Job Safety Analysis (JSA) adalah metode rekognisi yang menguraikan dan menganalisis bahaya pada tiap langkah pekerjaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Job Safety Analysis (JSA)", "isCorrect": true },
+        { "text": "B. Hazard Operability Study", "isCorrect": false },
+        { "text": "C. Fault Tree Analysis", "isCorrect": false },
+        { "text": "D. Event Tree Analysis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu metode rekognisi adalah memberikan kesempatan kepada pekerja untuk?",
+      "explanation": "Salah satu metode rekognisi adalah memberi kesempatan pekerja memberi tahu manajemen ketika ada bahaya, sehingga bahaya terdeteksi lebih cepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Memberi tahu manajemen ketika ada bahaya", "isCorrect": true },
+        { "text": "B. Menetapkan upah lembur", "isCorrect": false },
+        { "text": "C. Memilih merek mesin", "isCorrect": false },
+        { "text": "D. Mengatur jadwal cuti", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jenis inspeksi yang termasuk metode rekognisi antara lain inspeksi rutin alat, inspeksi harian, inspeksi manajemen, dan?",
+      "explanation": "Inspeksi dalam rekognisi mencakup inspeksi rutin alat, inspeksi harian di tempat kerja, inspeksi manajemen, dan inspeksi P2K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Inspeksi P2K3", "isCorrect": true },
+        { "text": "B. Inspeksi pajak", "isCorrect": false },
+        { "text": "C. Inspeksi keuangan", "isCorrect": false },
+        { "text": "D. Inspeksi pemasaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap higiene industri yang menilai risiko paparan melalui penilaian paparan kerja untuk menentukan apakah tingkat paparan masih dalam batas yang dapat diterima disebut?",
+      "explanation": "Evaluasi adalah penilaian risiko paparan kerja untuk menentukan apakah tingkat paparan masih dalam batas yang dapat diterima dan perlu tidaknya pengendalian tambahan.",
+      "difficulty": "EASY",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Antisipasi", "isCorrect": false },
+        { "text": "B. Rekognisi", "isCorrect": false },
+        { "text": "C. Evaluasi", "isCorrect": true },
+        { "text": "D. Pengendalian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemantauan paparan dalam tahap evaluasi sebaiknya dilakukan oleh?",
+      "explanation": "Pemantauan paparan dalam evaluasi dilakukan oleh tenaga yang berkualifikasi higiene industri atau higiene kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Petugas kebersihan", "isCorrect": false },
+        { "text": "B. Tenaga berkualifikasi higiene industri", "isCorrect": true },
+        { "text": "C. Manajer keuangan", "isCorrect": false },
+        { "text": "D. Operator mesin tanpa pelatihan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada evaluasi paparan faktor kimia, penilaian yang menggunakan penilaian profesional berdasarkan durasi, besarnya paparan, dan toksisitas zat disebut?",
+      "explanation": "Penilaian paparan kualitatif menggunakan penilaian profesional (professional judgement) berdasarkan durasi, besarnya paparan, dan toksisitas zat.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Penilaian paparan kualitatif", "isCorrect": true },
+        { "text": "B. Penilaian paparan kuantitatif", "isCorrect": false },
+        { "text": "C. Penilaian finansial", "isCorrect": false },
+        { "text": "D. Penilaian administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada evaluasi paparan faktor kimia, penilaian paparan kuantitatif dilakukan antara lain melalui?",
+      "explanation": "Penilaian paparan kuantitatif kimia dilakukan melalui pengambilan sampel udara, instrumen pembacaan langsung, dan membandingkan dengan batas pemaparan seperti PEL OSHA atau NAB.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Wawancara kepuasan kerja", "isCorrect": false },
+        { "text": "B. Pengambilan sampel udara dan instrumen pembacaan langsung", "isCorrect": true },
+        { "text": "C. Survei harga pasar", "isCorrect": false },
+        { "text": "D. Audit laporan keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada evaluasi paparan kebisingan (faktor fisika), alat yang digunakan untuk mengukur paparan pribadi pekerja adalah?",
+      "explanation": "Untuk evaluasi paparan kebisingan, dosimeter digunakan mengukur paparan pribadi, sedangkan sound level meter untuk mengukur kebisingan lingkungan/area.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Lux meter", "isCorrect": false },
+        { "text": "B. Dosimeter", "isCorrect": true },
+        { "text": "C. Anemometer", "isCorrect": false },
+        { "text": "D. Termometer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada evaluasi paparan radiasi ionisasi, pemantauan pribadi jangka panjang dilakukan menggunakan?",
+      "explanation": "Untuk radiasi ionisasi, lencana atau cincin film radiasi (film badge) digunakan untuk pemantauan pribadi jangka panjang, dan batas dosisnya ditetapkan pemerintah.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Sound level meter", "isCorrect": false },
+        { "text": "B. Lencana atau cincin film radiasi (film badge)", "isCorrect": true },
+        { "text": "C. Lux meter", "isCorrect": false },
+        { "text": "D. Dosimeter kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada evaluasi paparan faktor fisika, instrumen survei dapat digunakan untuk mendeteksi dosis radiasi dari?",
+      "explanation": "Instrumen survei digunakan untuk mendeteksi dosis radiasi dari bidang/medan radiasi (radiation field) pada radiasi ionisasi.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Bidang/medan radiasi", "isCorrect": true },
+        { "text": "B. Tekanan darah pekerja", "isCorrect": false },
+        { "text": "C. Suhu ruangan", "isCorrect": false },
+        { "text": "D. Kelembapan udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh metode evaluasi paparan faktor ergonomi yang disebutkan dalam materi adalah?",
+      "explanation": "Contoh evaluasi faktor ergonomi adalah persamaan pengangkatan NIOSH (NIOSH lifting equation) dan evaluasi ergonomis kantor.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Persamaan pengangkatan NIOSH", "isCorrect": true },
+        { "text": "B. Audiometri", "isCorrect": false },
+        { "text": "C. Sampling udara", "isCorrect": false },
+        { "text": "D. Film badge", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk radiasi non-ionisasi (elektromagnet), pemilihan instrumen pengukuran didasarkan pada?",
+      "explanation": "Pada evaluasi radiasi non-ionisasi, pemilihan instrumen didasarkan pada jenis radiasi non-pengion yang ditemui, dan batas paparannya ditetapkan pemerintah.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Jenis radiasi non-pengion yang ditemui", "isCorrect": true },
+        { "text": "B. Warna seragam pekerja", "isCorrect": false },
+        { "text": "C. Jumlah mesin di ruangan", "isCorrect": false },
+        { "text": "D. Harga instrumen termurah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian paparan kuantitatif dalam evaluasi sering membandingkan hasil dengan batas pemaparan resmi seperti PEL dari lembaga?",
+      "explanation": "Penilaian kuantitatif membandingkan hasil dengan Permissible Exposure Limit (PEL) OSHA, nilai ACGIH, dan Nilai Ambang Batas (NAB).",
+      "difficulty": "HARD",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. OSHA dan ACGIH", "isCorrect": true },
+        { "text": "B. ISO dan IEC", "isCorrect": false },
+        { "text": "C. PBB dan UNESCO", "isCorrect": false },
+        { "text": "D. FIFA dan IOC", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap higiene industri yang menerapkan langkah-langkah untuk meminimalkan atau menghilangkan paparan pekerja terhadap zat berbahaya disebut?",
+      "explanation": "Pengendalian adalah penerapan langkah-langkah untuk meminimalkan atau menghilangkan paparan pekerja saat paparan ditentukan tidak dapat diterima (melebihi ambang batas).",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Antisipasi", "isCorrect": false },
+        { "text": "B. Rekognisi", "isCorrect": false },
+        { "text": "C. Evaluasi", "isCorrect": false },
+        { "text": "D. Pengendalian", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Urutan hirarki pengendalian dari yang paling efektif hingga paling kurang efektif adalah?",
+      "explanation": "Hirarki pengendalian: eliminasi, substitusi, rekayasa teknik (engineering), administratif, lalu APD sebagai pilihan terakhir.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. APD, administratif, rekayasa teknik, substitusi, eliminasi", "isCorrect": false },
+        { "text": "B. Eliminasi, substitusi, rekayasa teknik, administratif, APD", "isCorrect": true },
+        { "text": "C. Substitusi, eliminasi, APD, administratif, rekayasa teknik", "isCorrect": false },
+        { "text": "D. Rekayasa teknik, eliminasi, substitusi, APD, administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut materi, meskipun orang sering memikirkannya pertama, kontrol yang seharusnya menjadi pilihan TERAKHIR setelah eliminasi, substitusi, kontrol teknik, dan administratif adalah?",
+      "explanation": "APD (Alat Pelindung Diri) harus menjadi kontrol terakhir yang diterapkan setelah eliminasi, substitusi, kontrol teknik, dan administratif dipertimbangkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Alat Pelindung Diri (APD)", "isCorrect": true },
+        { "text": "D. Rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian paparan dengan menghilangkan sumber bahaya sepenuhnya disebut?",
+      "explanation": "Eliminasi adalah pengendalian dengan menghilangkan sumber bahaya sepenuhnya, dan merupakan pilihan paling efektif di puncak hirarki.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": true },
+        { "text": "B. Substitusi", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengganti bahan kimia berbahaya dengan alternatif yang lebih aman termasuk pengendalian jenis?",
+      "explanation": "Mengganti bahan berbahaya dengan alternatif yang lebih aman adalah substitusi, yang berada tinggi dalam hirarki pengendalian.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. Substitusi", "isCorrect": true },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Administratif", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengendalian bahaya kimia, penggunaan ventilasi pembuangan lokal (local exhaust ventilation), isolasi proses, dan metode basah termasuk pengendalian?",
+      "explanation": "Ventilasi pembuangan lokal, isolasi/penutupan proses, dan metode basah termasuk rekayasa teknik (engineering control) untuk meminimalkan kontak dengan bahan kimia.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Administratif", "isCorrect": false },
+        { "text": "B. Rekayasa teknik (engineering)", "isCorrect": true },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Merotasi penugasan pekerjaan, menyesuaikan jadwal kerja, dan pelatihan termasuk pengendalian jenis?",
+      "explanation": "Merotasi tugas, menyesuaikan jadwal kerja, dan pelatihan termasuk pengendalian administratif dan praktek kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Administratif dan praktek kerja", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Substitusi", "isCorrect": false },
+        { "text": "D. Rekayasa teknik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh APD untuk pengendalian bahaya kimia menurut materi adalah?",
+      "explanation": "Contoh APD bahaya kimia meliputi pakaian pelindung bahan kimia, perlindungan pernapasan, sarung tangan tahan bahan kimia, serta pelindung mata dan wajah.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Pakaian pelindung kimia dan sarung tangan tahan bahan kimia", "isCorrect": true },
+        { "text": "B. Ventilasi lokal", "isCorrect": false },
+        { "text": "C. Rotasi kerja", "isCorrect": false },
+        { "text": "D. Substitusi bahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengendalian bahaya kebisingan, pemasangan bahan penyerap suara dan hambatan akustik termasuk pengendalian?",
+      "explanation": "Bahan penyerap suara dan hambatan akustik, serta perlakuan/relokasi sumber, termasuk rekayasa teknik untuk pengendalian kebisingan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Rekayasa teknik", "isCorrect": true },
+        { "text": "B. Administratif", "isCorrect": false },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengendalian bahaya kebisingan, contoh APD yang digunakan adalah?",
+      "explanation": "APD untuk pengendalian kebisingan adalah pelindung pendengaran (hearing protection) seperti ear plug atau ear muff.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Sarung tangan", "isCorrect": false },
+        { "text": "B. Pelindung pendengaran", "isCorrect": true },
+        { "text": "C. Respirator", "isCorrect": false },
+        { "text": "D. Kacamata las", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengendalian kebisingan, penyesuaian jadwal kerja dan pelatihan termasuk pengendalian?",
+      "explanation": "Penyesuaian jadwal kerja dan pelatihan adalah pengendalian administratif terhadap bahaya kebisingan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Administratif", "isCorrect": true },
+        { "text": "B. Eliminasi", "isCorrect": false },
+        { "text": "C. Rekayasa teknik", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Prinsip pengendalian utama untuk radiasi non-pengion (ionisasi) menurut materi adalah?",
+      "explanation": "Pengendalian radiasi pengion mengikuti prinsip waktu, jarak, dan pelindung (time, distance, shielding).",
+      "difficulty": "HARD",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Waktu, jarak, dan pelindung", "isCorrect": true },
+        { "text": "B. Suhu, tekanan, dan volume", "isCorrect": false },
+        { "text": "C. Warna, bentuk, dan ukuran", "isCorrect": false },
+        { "text": "D. Biaya, waktu, dan mutu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian radiasi non-pengion melalui pelindung, penutup yang saling bertautan (interlock), dan pengoperasian jarak jauh termasuk pengendalian?",
+      "explanation": "Pelindung, interlock, dan pengoperasian jarak jauh termasuk rekayasa teknik untuk mengendalikan bahaya radiasi non-pengion.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Rekayasa teknik", "isCorrect": true },
+        { "text": "B. Administratif", "isCorrect": false },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hirarki kontrol digunakan untuk memandu keputusan pengendalian paparan ketika paparan zat berbahaya ditentukan sebagai?",
+      "explanation": "Pengendalian diterapkan ketika paparan zat berbahaya ditentukan sebagai hal yang tidak dapat diterima (melebihi ambang batas).",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Sudah aman sepenuhnya", "isCorrect": false },
+        { "text": "B. Tidak dapat diterima (melebihi ambang batas)", "isCorrect": true },
+        { "text": "C. Tidak terdeteksi sama sekali", "isCorrect": false },
+        { "text": "D. Menguntungkan secara ekonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Memasang rambu-rambu peringatan di area radiasi termasuk dalam pengendalian?",
+      "explanation": "Pemasangan rambu peringatan dan pelatihan termasuk pengendalian administratif terhadap bahaya radiasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Administratif", "isCorrect": true },
+        { "text": "B. Rekayasa teknik", "isCorrect": false },
+        { "text": "C. Eliminasi", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Lima faktor bahaya lingkungan kerja menurut materi adalah?",
+      "explanation": "Lima faktor bahaya lingkungan kerja adalah fisika, kimia, biologi, ergonomi, dan psikologi.",
+      "difficulty": "EASY",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Fisika, kimia, biologi, ergonomi, psikologi", "isCorrect": true },
+        { "text": "B. Mekanik, listrik, panas, dingin, basah", "isCorrect": false },
+        { "text": "C. Internal, eksternal, alami, buatan, campuran", "isCorrect": false },
+        { "text": "D. Ringan, sedang, berat, kronik, akut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya yang berasal dari makhluk hidup seperti jamur, virus, bakteri, serangga, dan tumbuhan beracun termasuk faktor bahaya?",
+      "explanation": "Faktor bahaya biologi berasal dari makhluk hidup seperti jamur, virus, bakteri, serangga, unggas, binatang buas, dan tumbuhan beracun.",
+      "difficulty": "EASY",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Fisika", "isCorrect": false },
+        { "text": "B. Kimia", "isCorrect": false },
+        { "text": "C. Biologi", "isCorrect": true },
+        { "text": "D. Ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya yang disebabkan oleh sifat fisika suatu benda, alat, atau tempat kerja seperti iklim kerja, kebisingan, getaran, dan pencahayaan termasuk faktor bahaya?",
+      "explanation": "Faktor bahaya fisika berasal dari sifat fisika benda/tempat kerja seperti iklim kerja, kebisingan, getaran, gelombang radio, sinar UV, medan magnet, tekanan udara, dan pencahayaan.",
+      "difficulty": "EASY",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Fisika", "isCorrect": true },
+        { "text": "B. Kimia", "isCorrect": false },
+        { "text": "C. Biologi", "isCorrect": false },
+        { "text": "D. Psikologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahan kimia beracun, reaktif, radioaktif, mudah meledak, mudah terbakar, iritan, dan korosi termasuk faktor bahaya?",
+      "explanation": "Faktor bahaya kimia mencakup bahan kimia beracun, reaktif, radioaktif, mudah meledak, mudah terbakar, iritan, dan korosif.",
+      "difficulty": "EASY",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Biologi", "isCorrect": false },
+        { "text": "B. Kimia", "isCorrect": true },
+        { "text": "C. Fisika", "isCorrect": false },
+        { "text": "D. Ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahaya yang diakibatkan oleh cara kerja, posisi kerja, postur tubuh yang tidak sesuai, dan pengangkatan beban melebihi kapasitas termasuk faktor bahaya?",
+      "explanation": "Faktor bahaya ergonomi diakibatkan cara kerja, posisi/postur kerja yang tidak sesuai, desain alat dan tempat kerja yang salah, serta pengangkatan beban berlebih.",
+      "difficulty": "EASY",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Psikologi", "isCorrect": false },
+        { "text": "B. Ergonomi", "isCorrect": true },
+        { "text": "C. Kimia", "isCorrect": false },
+        { "text": "D. Biologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ketaksaan peran, konflik peran, beban kerja berlebih kualitatif dan kuantitatif, serta tanggung jawab terhadap orang lain termasuk faktor bahaya?",
+      "explanation": "Faktor bahaya psikologi meliputi ketaksaan peran, konflik peran, beban kerja berlebih kualitatif/kuantitatif, pengembangan karir, dan tanggung jawab terhadap orang lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Ergonomi", "isCorrect": false },
+        { "text": "B. Fisika", "isCorrect": false },
+        { "text": "C. Psikologi", "isCorrect": true },
+        { "text": "D. Biologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut termasuk contoh faktor bahaya fisika, kecuali?",
+      "explanation": "Contoh faktor fisika: iklim kerja, kebisingan, getaran, gelombang radio, sinar UV, medan magnet, tekanan udara, pencahayaan. Virus adalah faktor biologi.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Kebisingan", "isCorrect": false },
+        { "text": "B. Getaran", "isCorrect": false },
+        { "text": "C. Virus", "isCorrect": true },
+        { "text": "D. Pencahayaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor bahaya psikologi yang dimaksud dengan 'beban kerja berlebih secara kuantitatif' adalah?",
+      "explanation": "Beban kerja berlebih kuantitatif berkaitan dengan jumlah/volume pekerjaan yang terlalu banyak, berbeda dengan kualitatif yang berkaitan dengan kesulitan/kerumitan tugas.",
+      "difficulty": "HARD",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Jumlah/volume pekerjaan yang terlalu banyak", "isCorrect": true },
+        { "text": "B. Tugas yang terlalu sulit secara teknis", "isCorrect": false },
+        { "text": "C. Lingkungan kerja yang terlalu panas", "isCorrect": false },
+        { "text": "D. Mesin yang terlalu bising", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gelombang radio/gelombang mikro, sinar UV, dan medan magnet statis dikategorikan sebagai faktor bahaya?",
+      "explanation": "Gelombang radio/mikro, sinar UV, dan medan magnet statis termasuk faktor bahaya fisika karena berasal dari sifat fisika.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Kimia", "isCorrect": false },
+        { "text": "B. Fisika", "isCorrect": true },
+        { "text": "C. Biologi", "isCorrect": false },
+        { "text": "D. Ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Desain alat kerja dan tempat kerja yang salah merupakan salah satu pendukung timbulnya faktor bahaya?",
+      "explanation": "Desain alat dan tempat kerja yang salah mendukung timbulnya faktor bahaya ergonomi, bersama postur kerja yang tidak sesuai.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Kimia", "isCorrect": false },
+        { "text": "B. Ergonomi", "isCorrect": true },
+        { "text": "C. Biologi", "isCorrect": false },
+        { "text": "D. Psikologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengembangan karir yang tidak jelas dapat menjadi sumber faktor bahaya?",
+      "explanation": "Pengembangan karir termasuk salah satu sumber faktor bahaya psikologi, bersama ketaksaan peran dan konflik peran.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Fisika", "isCorrect": false },
+        { "text": "B. Kimia", "isCorrect": false },
+        { "text": "C. Psikologi", "isCorrect": true },
+        { "text": "D. Biologi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tokoh dari Bohemia yang menemukan pekerja tambang dengan gejala silikosis dan menulis buku 'Of Things Metallic' adalah?",
+      "explanation": "Georgius Agricola (1494-1555) dari Bohemia menemukan silikosis pada pekerja tambang dan menulis buku 'Of Things Metallic'.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. Paracelsus", "isCorrect": false },
+        { "text": "B. Georgius Agricola", "isCorrect": true },
+        { "text": "C. Percivall Pott", "isCorrect": false },
+        { "text": "D. Barbara Plog", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tokoh dari Austria yang menyadari hubungan dosis-respons antara penyakit pekerja pengecoran logam dan beratnya penyakit, sehingga menjadi dasar ilmu toksikologi, adalah?",
+      "explanation": "Paracelsus (Theophrastus Bombastus van Hohenheim, 1493-1541) menyadari hubungan dosis-respons, yang menjadi dasar perkembangan toksikologi.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. Agricola", "isCorrect": false },
+        { "text": "B. Paracelsus", "isCorrect": true },
+        { "text": "C. Percivall Pott", "isCorrect": false },
+        { "text": "D. Suma'mur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsep dasar yang dirintis Paracelsus dan menjadi fondasi ilmu toksikologi adalah?",
+      "explanation": "Paracelsus merintis hubungan dosis-respons (dose-response), yaitu makin besar dosis paparan makin berat penyakit, dasar toksikologi modern.",
+      "difficulty": "HARD",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. Hubungan dosis-respons", "isCorrect": true },
+        { "text": "B. Hirarki pengendalian", "isCorrect": false },
+        { "text": "C. Exchange rate kebisingan", "isCorrect": false },
+        { "text": "D. Nilai Ambang Batas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada masa revolusi industri tahun 1766, Percivall Pott menyatakan penyakit akibat kerja berupa kanker skrotum yang banyak ditemukan pada?",
+      "explanation": "Percivall Pott (1766) menemukan kanker skrotum pada pembersih cerobong asap batubara, yang kini diketahui disebabkan senyawa PAHs dalam jelaga.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. Penambang cinabar", "isCorrect": false },
+        { "text": "B. Pembersih cerobong asap batubara", "isCorrect": true },
+        { "text": "C. Pekerja pengecoran logam", "isCorrect": false },
+        { "text": "D. Nelayan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Senyawa penyebab kanker skrotum pada pembersih cerobong (temuan Percivall Pott) yang kini diketahui adalah?",
+      "explanation": "Penyebabnya adalah senyawa PAHs (polinuklear aromatik hidrokarbon) yang terdapat dalam jelaga cerobong asap.",
+      "difficulty": "HARD",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. Asbestos", "isCorrect": false },
+        { "text": "B. PAHs (polinuklear aromatik hidrokarbon)", "isCorrect": true },
+        { "text": "C. Silika bebas", "isCorrect": false },
+        { "text": "D. Merkuri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada zaman prasejarah, orang Mesir telah mengenal manfaat cadar untuk perlindungan respirasi saat menambang?",
+      "explanation": "Orang Mesir mengenal manfaat cadar untuk perlindungan respirasi saat menambang cinabar (red mercury oxide).",
+      "difficulty": "HARD",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. Emas", "isCorrect": false },
+        { "text": "B. Cinabar (red mercury oxide)", "isCorrect": true },
+        { "text": "C. Batubara", "isCorrect": false },
+        { "text": "D. Besi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada tahun 1914 didirikan organisasi US Public Health Service oleh Kantor Higiene Industri dan Sanitasi, yang pada tahun 1971 berganti nama menjadi?",
+      "explanation": "Organisasi tersebut pada tahun 1971 berganti nama menjadi National Institute for Occupational Safety and Health (NIOSH).",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. OSHA", "isCorrect": false },
+        { "text": "B. NIOSH", "isCorrect": true },
+        { "text": "C. ACGIH", "isCorrect": false },
+        { "text": "D. IOHA", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada tahun berapa US Public Health Service didirikan oleh Kantor Higiene Industri dan Sanitasi?",
+      "explanation": "US Public Health Service didirikan oleh Kantor Higiene Industri dan Sanitasi pada tahun 1914.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. 1900", "isCorrect": false },
+        { "text": "B. 1914", "isCorrect": true },
+        { "text": "C. 1950", "isCorrect": false },
+        { "text": "D. 1971", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "NIOSH (National Institute for Occupational Safety and Health) mulai menggunakan nama tersebut pada tahun?",
+      "explanation": "Nama NIOSH mulai digunakan pada tahun 1971, sebagai kelanjutan dari US Public Health Service.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. 1914", "isCorrect": false },
+        { "text": "B. 1950", "isCorrect": false },
+        { "text": "C. 1970", "isCorrect": false },
+        { "text": "D. 1971", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Pada tahun 1950, dua organisasi internasional menetapkan definisi tentang kesehatan kerja, yaitu?",
+      "explanation": "Pada tahun 1950, International Labor Organization (ILO) dan World Health Organization (WHO) menetapkan definisi tentang kesehatan kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. ILO dan WHO", "isCorrect": true },
+        { "text": "B. OSHA dan NIOSH", "isCorrect": false },
+        { "text": "C. ACGIH dan IOHA", "isCorrect": false },
+        { "text": "D. PBB dan UNESCO", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada tahun 1970, Undang-undang Keselamatan dan Kesehatan Kerja di Amerika Serikat terbentuk, yang menjadi landasan terbentuknya?",
+      "explanation": "UU K3 Amerika Serikat tahun 1970 menjadi landasan terbentuknya Occupational Safety and Health Administration (OSHA).",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. NIOSH", "isCorrect": false },
+        { "text": "B. OSHA", "isCorrect": true },
+        { "text": "C. WHO", "isCorrect": false },
+        { "text": "D. ILO", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Regulasi dari lembaga manakah yang banyak diambil sebagai contoh/rujukan oleh negara-negara lain dalam bidang K3?",
+      "explanation": "Regulasi OSHA (dibentuk 1970 di Amerika Serikat) banyak diambil sebagai contoh oleh negara-negara lain.",
+      "difficulty": "HARD",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. OSHA", "isCorrect": true },
+        { "text": "B. IOHA", "isCorrect": false },
+        { "text": "C. ACGIH", "isCorrect": false },
+        { "text": "D. WHO", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Urutan kronologis berikut yang benar terkait perkembangan higiene industri adalah?",
+      "explanation": "Urutan yang benar: US Public Health Service (1914), ILO-WHO definisi kesehatan kerja (1950), OSHA (1970), kemudian NIOSH (1971).",
+      "difficulty": "HARD",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. NIOSH (1971), OSHA (1970), ILO-WHO (1950), US PHS (1914)", "isCorrect": false },
+        { "text": "B. US PHS (1914), ILO-WHO (1950), OSHA (1970), NIOSH (1971)", "isCorrect": true },
+        { "text": "C. ILO-WHO (1950), US PHS (1914), NIOSH (1971), OSHA (1970)", "isCorrect": false },
+        { "text": "D. OSHA (1970), US PHS (1914), NIOSH (1971), ILO-WHO (1950)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada mulanya, higiene industri berkembang dari kesadaran bahwa bekerja dapat menimbulkan?",
+      "explanation": "Higiene industri berkembang dari kesadaran bahwa bekerja dapat menimbulkan gangguan kesehatan atau penyakit akibat kerja yang memerlukan upaya pencegahan.",
+      "difficulty": "EASY",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. Keuntungan ekonomi", "isCorrect": false },
+        { "text": "B. Gangguan kesehatan atau penyakit akibat kerja", "isCorrect": true },
+        { "text": "C. Peningkatan produksi otomatis", "isCorrect": false },
+        { "text": "D. Persaingan pasar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat menghirup debu mineral (silika) pada pekerja tambang yang ditemukan Agricola disebut?",
+      "explanation": "Penyakit yang ditemukan Agricola pada pekerja tambang adalah silikosis, akibat menghirup debu mengandung silika.",
+      "difficulty": "MEDIUM",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. Asbestosis", "isCorrect": false },
+        { "text": "B. Silikosis", "isCorrect": true },
+        { "text": "C. Bisinosis", "isCorrect": false },
+        { "text": "D. Antrakosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk mencegah silikosis pada pekerja tambang, Agricola menganjurkan pentingnya?",
+      "explanation": "Agricola menganjurkan pentingnya kebersihan udara di lingkungan kerja untuk mencegah silikosis pada pekerja tambang.",
+      "difficulty": "HARD",
+      "tag": "Sejarah",
+      "options": [
+        { "text": "A. Kebersihan udara di lingkungan kerja", "isCorrect": true },
+        { "text": "B. Penggunaan mesin otomatis", "isCorrect": false },
+        { "text": "C. Penambahan jam istirahat", "isCorrect": false },
+        { "text": "D. Pemberian vitamin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Capaian Pembelajaran Lulusan (CPL) dari materi ini adalah mahasiswa mampu menguraikan konsep?",
+      "explanation": "CPL materi ini adalah mahasiswa mampu menguraikan konsep antisipasi dan rekognisi higiene industri pada suatu tempat kerja.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Antisipasi dan rekognisi higiene industri", "isCorrect": true },
+        { "text": "B. Akuntansi biaya produksi", "isCorrect": false },
+        { "text": "C. Manajemen sumber daya manusia", "isCorrect": false },
+        { "text": "D. Pemasaran produk industri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Higiene industri menurut materi terutama menangani risiko kesehatan yang bersifat?",
+      "explanation": "Higiene industri terutama menangani risiko kesehatan dalam lingkungan kerja yang bersifat bio-kimiawi-fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Bio-kimiawi-fisik", "isCorrect": true },
+        { "text": "B. Ekonomi-sosial-budaya", "isCorrect": false },
+        { "text": "C. Politik-hukum-administratif", "isCorrect": false },
+        { "text": "D. Mekanik-elektrik-digital", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap di mana dilakukan pengukuran untuk mendapatkan informasi konsentrasi, dosis, dan ukuran partikel bahaya adalah?",
+      "explanation": "Pengukuran konsentrasi, dosis, ukuran partikel, jenis, dan sifat bahaya dilakukan pada tahap rekognisi.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Rekognisi", "isCorrect": true },
+        { "text": "B. Antisipasi", "isCorrect": false },
+        { "text": "C. Pengendalian", "isCorrect": false },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penilaian paparan kerja pada tahap evaluasi penting untuk menentukan apakah?",
+      "explanation": "Penilaian paparan penting untuk menentukan apakah tingkat paparan masih dalam batas yang dapat diterima dan apakah perlu tindakan pengendalian tambahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Pekerja layak digaji", "isCorrect": false },
+        { "text": "B. Tingkat paparan masih dalam batas yang dapat diterima", "isCorrect": true },
+        { "text": "C. Mesin perlu diganti merek", "isCorrect": false },
+        { "text": "D. Produksi perlu ditingkatkan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam materi, urutan langkah antisipasi setelah pengumpulan informasi adalah?",
+      "explanation": "Setelah pengumpulan informasi, langkah berikutnya adalah analisis dan diskusi dengan pihak yang berkompeten, lalu pembuatan hasil antisipasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Analisis dan diskusi dengan pihak berkompeten", "isCorrect": true },
+        { "text": "B. Pemasangan APD", "isCorrect": false },
+        { "text": "C. Penggantian mesin", "isCorrect": false },
+        { "text": "D. Pemeriksaan audiometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menyelidiki laporan kecelakaan dan melakukan pemeriksaan fisik kondisi kesehatan pekerja merupakan metode pada tahap?",
+      "explanation": "Menyelidiki laporan kecelakaan dan pemeriksaan fisik kesehatan pekerja merupakan metode dalam tahap rekognisi.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Antisipasi", "isCorrect": false },
+        { "text": "B. Rekognisi", "isCorrect": true },
+        { "text": "C. Pengendalian", "isCorrect": false },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Materi pokok higiene industri faktor fisika mencakup konsep dasar, tujuan, dan metode antisipasi serta rekognisi, ditambah?",
+      "explanation": "Materi pokok mencakup konsep dasar, tujuan, metode antisipasi & rekognisi, konsep faktor bahaya lingkungan kerja, dan jenis bahaya di tempat kerja.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Konsep faktor bahaya lingkungan kerja dan jenis bahaya di tempat kerja", "isCorrect": true },
+        { "text": "B. Akuntansi dan keuangan perusahaan", "isCorrect": false },
+        { "text": "C. Strategi pemasaran produk", "isCorrect": false },
+        { "text": "D. Manajemen logistik dan distribusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada evaluasi faktor kimia, instrumen pembacaan langsung (direct reading) berguna untuk?",
+      "explanation": "Instrumen pembacaan langsung berguna untuk mengukur paparan puncak dan pemantauan terus menerus pada penilaian paparan kuantitatif kimia.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Mengukur paparan puncak dan pemantauan terus menerus", "isCorrect": true },
+        { "text": "B. Menghitung jumlah pekerja", "isCorrect": false },
+        { "text": "C. Menentukan harga bahan kimia", "isCorrect": false },
+        { "text": "D. Mengukur tinggi badan pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Substitusi sebagai pengendalian bahaya kimia menurut materi sering dikelompokkan bersama eliminasi dan berarti?",
+      "explanation": "Eliminasi/substitusi berarti mengganti bahan/proses dengan alternatif yang lebih aman, berada di tingkat tertinggi hirarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Mengganti dengan alternatif yang lebih aman", "isCorrect": true },
+        { "text": "B. Menambah jumlah APD", "isCorrect": false },
+        { "text": "C. Memasang rambu peringatan", "isCorrect": false },
+        { "text": "D. Merotasi jadwal kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengendalian kebisingan, 'perlakuan terhadap sumber (modifikasi)' dan 'relokasi sumber' merupakan bagian dari pengendalian?",
+      "explanation": "Perlakuan/modifikasi sumber dan relokasi sumber termasuk rekayasa teknik dalam pengendalian kebisingan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Administratif", "isCorrect": false },
+        { "text": "B. Rekayasa teknik", "isCorrect": true },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor bahaya biologi dapat berasal dari binatang buas dan tumbuh-tumbuhan beracun. Selain itu juga dapat berasal dari mikroorganisme seperti?",
+      "explanation": "Faktor bahaya biologi mencakup mikroorganisme seperti jamur, virus, dan bakteri, serta serangga dan unggas.",
+      "difficulty": "EASY",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Jamur, virus, dan bakteri", "isCorrect": true },
+        { "text": "B. Logam berat", "isCorrect": false },
+        { "text": "C. Getaran mesin", "isCorrect": false },
+        { "text": "D. Sinar UV", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tekanan udara sebagai faktor bahaya di tempat kerja dikategorikan ke dalam faktor bahaya?",
+      "explanation": "Tekanan udara termasuk faktor bahaya fisika, bersama iklim kerja, kebisingan, getaran, dan pencahayaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Kimia", "isCorrect": false },
+        { "text": "B. Fisika", "isCorrect": true },
+        { "text": "C. Biologi", "isCorrect": false },
+        { "text": "D. Ergonomi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konflik peran dan ketaksaan peran dalam pekerjaan merupakan contoh faktor bahaya?",
+      "explanation": "Konflik peran dan ketaksaan peran termasuk faktor bahaya psikologi di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Psikologi", "isCorrect": true },
+        { "text": "B. Ergonomi", "isCorrect": false },
+        { "text": "C. Fisika", "isCorrect": false },
+        { "text": "D. Kimia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir higiene industri dari sisi pekerja menurut Suma'mur adalah mencapai derajat kesehatan tenaga kerja yang?",
+      "explanation": "Suma'mur menyatakan tujuannya mencapai derajat kesehatan tenaga kerja seoptimal mungkin di semua sektor kegiatan ekonomi dan non-ekonomi.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Seoptimal mungkin", "isCorrect": true },
+        { "text": "B. Seminimal mungkin", "isCorrect": false },
+        { "text": "C. Sesuai anggaran", "isCorrect": false },
+        { "text": "D. Sesuai target produksi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Apabila tujuan higiene industri sudah tercapai, maka menurut materi yang akan ikut tercapai adalah?",
+      "explanation": "Apabila tujuan industrial hygiene tercapai, maka fungsi higiene industri itu sendiri juga akan tercapai.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Fungsi higiene industri itu sendiri", "isCorrect": true },
+        { "text": "B. Keuntungan saham", "isCorrect": false },
+        { "text": "C. Ekspansi pabrik", "isCorrect": false },
+        { "text": "D. Promosi jabatan manajer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dalam evaluasi, lingkungan kerja dengan alat ukur yang kompleks menuntut pemantauan dilakukan oleh personel yang?",
+      "explanation": "Karena lingkungan kerja dan alat ukur yang kompleks, pemantauan harus dilakukan oleh personel berkualifikasi higiene industri/higiene kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. Berkualifikasi higiene industri", "isCorrect": true },
+        { "text": "B. Belum berpengalaman", "isCorrect": false },
+        { "text": "C. Bagian pemasaran", "isCorrect": false },
+        { "text": "D. Bagian keuangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengisolasi atau menutup proses produksi sebagai pengendalian bahaya kimia tergolong dalam jenis pengendalian?",
+      "explanation": "Mengisolasi atau menutup proses adalah bentuk rekayasa teknik untuk meminimalkan kontak dengan bahan kimia berbahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Rekayasa teknik", "isCorrect": true },
+        { "text": "B. Administratif", "isCorrect": false },
+        { "text": "C. APD", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan metode basah (wet method) untuk mengurangi pembentukan debu termasuk pengendalian?",
+      "explanation": "Metode basah untuk mengurangi pembentukan debu/partikel termasuk rekayasa teknik dalam pengendalian bahaya kimia.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Rekayasa teknik", "isCorrect": true },
+        { "text": "B. APD", "isCorrect": false },
+        { "text": "C. Administratif", "isCorrect": false },
+        { "text": "D. Eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Perlindungan pernapasan (respirator) sebagai pengendalian bahaya kimia berada pada tingkat hirarki?",
+      "explanation": "Perlindungan pernapasan adalah APD, yang berada pada tingkat paling bawah/terakhir dalam hirarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Paling atas (paling efektif)", "isCorrect": false },
+        { "text": "B. Paling bawah (terakhir)", "isCorrect": true },
+        { "text": "C. Di atas rekayasa teknik", "isCorrect": false },
+        { "text": "D. Di atas substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Studi literatur dan diskusi dengan profesional lain dapat dilakukan baik pada tahap antisipasi maupun?",
+      "explanation": "Studi literatur dan diskusi dengan profesional disebut sebagai metode baik pada tahap antisipasi maupun rekognisi.",
+      "difficulty": "HARD",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Rekognisi", "isCorrect": true },
+        { "text": "B. Hanya pengendalian", "isCorrect": false },
+        { "text": "C. Hanya APD", "isCorrect": false },
+        { "text": "D. Tidak ada tahap lain", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor bahaya fisika 'iklim kerja' meliputi kondisi seperti?",
+      "explanation": "Iklim kerja sebagai faktor fisika meliputi kondisi panas dan dingin lingkungan kerja yang dapat mengganggu kesehatan pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Iklim kerja panas dan dingin", "isCorrect": true },
+        { "text": "B. Bakteri dan virus", "isCorrect": false },
+        { "text": "C. Postur kerja", "isCorrect": false },
+        { "text": "D. Konflik peran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi IOHA menekankan bahwa tujuan higiene industri adalah melindungi kesehatan pekerja dan?",
+      "explanation": "Definisi IOHA menyebutkan tujuannya melindungi kesehatan dan kesejahteraan pekerja serta menjaga masyarakat luas (safeguarding the community at large).",
+      "difficulty": "HARD",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Menjaga masyarakat luas (community at large)", "isCorrect": true },
+        { "text": "B. Meningkatkan laba perusahaan", "isCorrect": false },
+        { "text": "C. Menambah jumlah produksi", "isCorrect": false },
+        { "text": "D. Memperluas pasar ekspor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengangkatan beban yang melebihi kapasitas kerja dapat menimbulkan faktor bahaya?",
+      "explanation": "Pengangkatan beban melebihi kapasitas kerja termasuk faktor bahaya ergonomi.",
+      "difficulty": "EASY",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Ergonomi", "isCorrect": true },
+        { "text": "B. Kimia", "isCorrect": false },
+        { "text": "C. Biologi", "isCorrect": false },
+        { "text": "D. Fisika", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tahap higiene industri yang fokusnya adalah memprediksi (belum mengukur secara detail) potensi bahaya sebelum suatu area dimasuki adalah?",
+      "explanation": "Antisipasi berfokus memprediksi potensi bahaya sebelum proses dijalankan atau area dimasuki, belum melakukan pengukuran detail.",
+      "difficulty": "MEDIUM",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Antisipasi", "isCorrect": true },
+        { "text": "B. Evaluasi", "isCorrect": false },
+        { "text": "C. Rekognisi", "isCorrect": false },
+        { "text": "D. Pengendalian", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Definisi higiene industri menurut Barbara Plog menyebutkan stresses yang timbul di tempat kerja dapat menyebabkan, kecuali?",
+      "explanation": "Menurut Plog, faktor/stres lingkungan kerja dapat menyebabkan sickness, impaired health and well-being, atau discomfort; bukan peningkatan keuntungan.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Tujuan",
+      "options": [
+        { "text": "A. Sakit (sickness)", "isCorrect": false },
+        { "text": "B. Gangguan kesehatan dan kesejahteraan", "isCorrect": false },
+        { "text": "C. Peningkatan keuntungan perusahaan", "isCorrect": true },
+        { "text": "D. Ketidaknyamanan (discomfort)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Antisipasi bertujuan meminimalisasi kemungkinan risiko yang terjadi pada saat suatu proses dijalankan atau?",
+      "explanation": "Antisipasi bertujuan meminimalisasi kemungkinan risiko saat suatu proses dijalankan atau suatu area dimasuki.",
+      "difficulty": "MEDIUM",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Suatu area dimasuki", "isCorrect": true },
+        { "text": "B. Produk dijual", "isCorrect": false },
+        { "text": "C. Gaji dibayarkan", "isCorrect": false },
+        { "text": "D. Pabrik ditutup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hasil rekognisi yang baik harus bersifat objektif dan?",
+      "explanation": "Rekognisi menggunakan metode sistematis sehingga menghasilkan hasil yang objektif dan bisa dipertanggungjawabkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Rekognisi",
+      "options": [
+        { "text": "A. Bisa dipertanggungjawabkan", "isCorrect": true },
+        { "text": "B. Bersifat rahasia", "isCorrect": false },
+        { "text": "C. Hanya perkiraan kasar", "isCorrect": false },
+        { "text": "D. Tergantung selera pemeriksa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan hirarki kontrol, jika pengendalian dengan eliminasi dan substitusi tidak memungkinkan, langkah berikutnya yang dipertimbangkan adalah?",
+      "explanation": "Setelah eliminasi dan substitusi, langkah berikutnya dalam hirarki adalah rekayasa teknik (engineering control), baru kemudian administratif dan APD.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Rekayasa teknik (engineering control)", "isCorrect": true },
+        { "text": "B. Langsung APD", "isCorrect": false },
+        { "text": "C. Membiarkan paparan", "isCorrect": false },
+        { "text": "D. Menutup pabrik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada evaluasi paparan kimia, batas pemaparan yang diizinkan (PEL) ditetapkan oleh lembaga di Amerika Serikat yaitu?",
+      "explanation": "Permissible Exposure Limit (PEL) ditetapkan oleh OSHA sebagai batas pemaparan kimia yang diizinkan di tempat kerja.",
+      "difficulty": "HARD",
+      "tag": "Evaluasi",
+      "options": [
+        { "text": "A. OSHA", "isCorrect": true },
+        { "text": "B. WHO", "isCorrect": false },
+        { "text": "C. ILO", "isCorrect": false },
+        { "text": "D. NIOSH", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pendekatan pengendalian yang paling tidak disarankan menjadi pilihan pertama meskipun secara naluriah sering dipikirkan duluan adalah?",
+      "explanation": "APD sering dipikirkan pertama secara naluriah, padahal seharusnya menjadi pilihan terakhir dalam hirarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian & Hirarki",
+      "options": [
+        { "text": "A. Eliminasi", "isCorrect": false },
+        { "text": "B. APD", "isCorrect": true },
+        { "text": "C. Rekayasa teknik", "isCorrect": false },
+        { "text": "D. Substitusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor bahaya psikologi 'tanggung jawab terhadap orang lain' biasanya dialami oleh pekerja yang?",
+      "explanation": "Tanggung jawab terhadap orang lain sebagai stressor psikologi umum dialami pekerja yang memimpin/bertanggung jawab atas keselamatan rekan kerja.",
+      "difficulty": "HARD",
+      "tag": "Faktor Bahaya",
+      "options": [
+        { "text": "A. Bertanggung jawab atas keselamatan/pekerjaan orang lain", "isCorrect": true },
+        { "text": "B. Bekerja sendirian tanpa interaksi", "isCorrect": false },
+        { "text": "C. Tidak memiliki target kerja", "isCorrect": false },
+        { "text": "D. Bekerja paruh waktu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Survey lapangan dilakukan pada tahap antisipasi untuk tujuan?",
+      "explanation": "Survey lapangan adalah salah satu cara pengumpulan informasi pada tahap antisipasi untuk mengetahui potensi bahaya dan risiko lebih dini.",
+      "difficulty": "MEDIUM",
+      "tag": "Antisipasi",
+      "options": [
+        { "text": "A. Mengumpulkan informasi potensi bahaya", "isCorrect": true },
+        { "text": "B. Mengukur dosis paparan akhir", "isCorrect": false },
+        { "text": "C. Menerapkan APD", "isCorrect": false },
+        { "text": "D. Mengganti mesin", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Higiene Industri (IOHA)",
+      "back": "Disiplin mengantisipasi, mengenali, mengevaluasi, dan mengendalikan health hazards di lingkungan kerja untuk melindungi kesehatan pekerja dan masyarakat.",
+      "tag": "Definisi & Tujuan"
+    },
+    {
+      "front": "Definisi Barbara Plog",
+      "back": "Science and art devoted to anticipation, recognition, evaluation, and control of environmental factors/stresses di tempat kerja yang dapat menyebabkan sakit/discomfort.",
+      "tag": "Definisi & Tujuan"
+    },
+    {
+      "front": "Definisi Soeripto (2008)",
+      "back": "Ilmu dan seni mengantisipasi, mengenal, mengevaluasi, dan mengendalikan faktor bahaya di lingkungan kerja yang dapat mengganggu kesehatan & kesejahteraan.",
+      "tag": "Definisi & Tujuan"
+    },
+    {
+      "front": "Definisi Suma'mur (2013)",
+      "back": "Spesialisasi ilmu higiene yang mengenali, mengukur, dan menilai faktor penyebab gangguan kesehatan/penyakit dalam lingkungan kerja.",
+      "tag": "Definisi & Tujuan"
+    },
+    {
+      "front": "Tujuan Higiene Industri",
+      "back": "Melindungi & mempromosikan kesehatan pekerja, melindungi lingkungan, serta berkontribusi pada keselamatan dan pembangunan berkelanjutan (ILOCIS).",
+      "tag": "Definisi & Tujuan"
+    },
+    {
+      "front": "4 Tahap Ruang Lingkup",
+      "back": "Antisipasi - Rekognisi - Evaluasi - Pengendalian.",
+      "tag": "Definisi & Tujuan"
+    },
+    {
+      "front": "Antisipasi",
+      "back": "Memprediksi potensi bahaya di tempat kerja sebelum menjadi nyata. Kunci: informasi. 3 langkah: kumpulkan informasi, analisis & diskusi, buat hasil.",
+      "tag": "Antisipasi"
+    },
+    {
+      "front": "Hasil Antisipasi",
+      "back": "Daftar potensi bahaya dan risiko, dikelompokkan per lokasi/unit, kelompok pekerja, jenis bahaya, atau tahapan proses.",
+      "tag": "Antisipasi"
+    },
+    {
+      "front": "Rekognisi",
+      "back": "Mengenali bahaya secara detail & komprehensif dengan metode sistematis agar objektif. Melakukan pengukuran: konsentrasi, dosis, ukuran partikel, jenis, sifat.",
+      "tag": "Rekognisi"
+    },
+    {
+      "front": "Metode Rekognisi",
+      "back": "Selidiki laporan kecelakaan, pemeriksaan fisik, inspeksi (P2K3 dll), studi literatur, pengukuran lab, Preliminary Hazard Analysis, Job Safety Analysis.",
+      "tag": "Rekognisi"
+    },
+    {
+      "front": "Antisipasi vs Rekognisi",
+      "back": "Antisipasi hanya memprediksi bahaya; Rekognisi mengetahui detail bahaya & risiko secara nyata melalui pengukuran.",
+      "tag": "Rekognisi"
+    },
+    {
+      "front": "Evaluasi",
+      "back": "Penilaian paparan kerja untuk menentukan apakah tingkat paparan masih dalam batas yang dapat diterima & perlu tidaknya pengendalian tambahan.",
+      "tag": "Evaluasi"
+    },
+    {
+      "front": "Penilaian Paparan Kualitatif vs Kuantitatif",
+      "back": "Kualitatif: professional judgement (durasi, besar paparan, toksisitas). Kuantitatif: sampling udara, direct reading, bandingkan PEL/NAB.",
+      "tag": "Evaluasi"
+    },
+    {
+      "front": "Evaluasi Faktor Fisika",
+      "back": "Bising: dosimeter (pribadi) & sound level meter (area). Radiasi ionisasi: instrumen survei & film badge. Ergonomi: persamaan pengangkatan NIOSH.",
+      "tag": "Evaluasi"
+    },
+    {
+      "front": "Pengendalian",
+      "back": "Langkah meminimalkan/menghilangkan paparan saat paparan dinilai tidak dapat diterima (melebihi ambang batas). Gunakan hirarki kontrol.",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "Hirarki Pengendalian",
+      "back": "Eliminasi - Substitusi - Rekayasa Teknik - Administratif - APD (paling efektif ke paling kurang efektif). APD = pilihan TERAKHIR.",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "Contoh Tiap Tingkat Hirarki",
+      "back": "Eliminasi/Substitusi: ganti bahan lebih aman. Rekayasa: ventilasi lokal, isolasi proses, peredam. Administratif: rotasi, jadwal, pelatihan. APD: respirator, ear plug.",
+      "tag": "Pengendalian & Hirarki"
+    },
+    {
+      "front": "5 Faktor Bahaya Lingkungan Kerja",
+      "back": "Fisika, Kimia, Biologi, Ergonomi, Psikologi.",
+      "tag": "Faktor Bahaya"
+    },
+    {
+      "front": "Faktor Fisika & Kimia",
+      "back": "Fisika: iklim kerja, kebisingan, getaran, gelombang radio, UV, medan magnet, tekanan udara, pencahayaan. Kimia: beracun, reaktif, radioaktif, mudah meledak/terbakar, iritan, korosi.",
+      "tag": "Faktor Bahaya"
+    },
+    {
+      "front": "Faktor Biologi, Ergonomi, Psikologi",
+      "back": "Biologi: jamur, virus, bakteri, serangga, tumbuhan beracun. Ergonomi: postur/cara kerja salah, beban berlebih. Psikologi: konflik & ketaksaan peran, beban kerja berlebih.",
+      "tag": "Faktor Bahaya"
+    },
+    {
+      "front": "Tokoh Sejarah: Agricola & Paracelsus",
+      "back": "Agricola (1494-1555): silikosis pada penambang, buku 'Of Things Metallic'. Paracelsus (1493-1541): hubungan dosis-respons, dasar toksikologi.",
+      "tag": "Sejarah"
+    },
+    {
+      "front": "Tokoh Sejarah: Percivall Pott",
+      "back": "1766 (revolusi industri): kanker skrotum pada pembersih cerobong asap batubara; penyebabnya senyawa PAHs dalam jelaga.",
+      "tag": "Sejarah"
+    },
+    {
+      "front": "Lembaga Sejarah K3",
+      "back": "1914: US Public Health Service (jadi NIOSH 1971). 1950: ILO & WHO definisikan kesehatan kerja. 1970: UU K3 AS lahir, jadi dasar OSHA.",
+      "tag": "Sejarah"
+    },
+    {
+      "front": "Zaman Prasejarah",
+      "back": "Mesir: cadar untuk perlindungan respirasi saat menambang cinabar (red mercury oxide). Arabia: catatan efek sinar matahari pada penambang.",
+      "tag": "Sejarah"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Konsep Higiene Industri",
+      "color": "#6366f1",
+      "parent": null,
+      "content": "Ilmu dan seni mengantisipasi, mengenali, mengevaluasi, dan mengendalikan faktor bahaya lingkungan kerja untuk melindungi kesehatan pekerja."
+    },
+    {
+      "id": "definisi",
+      "label": "Definisi & Tujuan",
+      "color": "#8b5cf6",
+      "parent": "root",
+      "content": "Berbagai definisi pakar (IOHA, Plog, Soeripto, Suma'mur) dan tujuan melindungi kesehatan pekerja serta lingkungan."
+    },
+    {
+      "id": "def-ioha",
+      "label": "IOHA",
+      "color": "#8b5cf6",
+      "parent": "definisi",
+      "content": "Disiplin anticipating, recognizing, evaluating, controlling health hazards untuk melindungi pekerja dan masyarakat luas."
+    },
+    {
+      "id": "def-plog",
+      "label": "Barbara Plog",
+      "color": "#8b5cf6",
+      "parent": "definisi",
+      "content": "Science and art of anticipation, recognition, evaluation, control faktor/stres tempat kerja yang menyebabkan sakit atau discomfort."
+    },
+    {
+      "id": "def-soeripto",
+      "label": "Soeripto (2008)",
+      "color": "#8b5cf6",
+      "parent": "definisi",
+      "content": "Ilmu dan seni mengantisipasi, mengenal, mengevaluasi, mengendalikan faktor bahaya yang mengganggu kesehatan & kesejahteraan."
+    },
+    {
+      "id": "def-sumamur",
+      "label": "Suma'mur (2013)",
+      "color": "#8b5cf6",
+      "parent": "definisi",
+      "content": "Mengenali, mengukur, dan menilai faktor penyebab gangguan kesehatan/penyakit dalam lingkungan kerja dan perusahaan."
+    },
+    {
+      "id": "def-tujuan",
+      "label": "Tujuan",
+      "color": "#8b5cf6",
+      "parent": "definisi",
+      "content": "Melindungi & promosi kesehatan pekerja, lindungi lingkungan, kontribusi pada keselamatan & pembangunan berkelanjutan."
+    },
+    {
+      "id": "antisipasi",
+      "label": "Antisipasi",
+      "color": "#0ea5e9",
+      "parent": "root",
+      "content": "Memprediksi potensi bahaya di tempat kerja sebelum menjadi nyata. Kunci utamanya adalah informasi."
+    },
+    {
+      "id": "ant-tujuan",
+      "label": "Tujuan Antisipasi",
+      "color": "#0ea5e9",
+      "parent": "antisipasi",
+      "content": "Mengetahui potensi bahaya & risiko lebih dini serta menyiapkan tindakan sebelum proses dijalankan/area dimasuki."
+    },
+    {
+      "id": "ant-langkah",
+      "label": "3 Langkah",
+      "color": "#0ea5e9",
+      "parent": "antisipasi",
+      "content": "Pengumpulan informasi, analisis & diskusi dengan pihak berkompeten, lalu pembuatan hasil antisipasi."
+    },
+    {
+      "id": "ant-info",
+      "label": "Sumber Informasi",
+      "color": "#0ea5e9",
+      "parent": "antisipasi",
+      "content": "Studi literatur, penelitian, dokumen perusahaan, survey lapangan, legislasi, dan pengalaman masa lalu."
+    },
+    {
+      "id": "ant-hasil",
+      "label": "Hasil",
+      "color": "#0ea5e9",
+      "parent": "antisipasi",
+      "content": "Daftar potensi bahaya & risiko, dikelompokkan per lokasi, kelompok pekerja, jenis bahaya, atau tahap proses."
+    },
+    {
+      "id": "rekognisi",
+      "label": "Rekognisi",
+      "color": "#10b981",
+      "parent": "root",
+      "content": "Mengenali bahaya secara detail & komprehensif dengan metode sistematis agar hasil objektif dan dapat dipertanggungjawabkan."
+    },
+    {
+      "id": "rek-tujuan",
+      "label": "Tujuan Rekognisi",
+      "color": "#10b981",
+      "parent": "rekognisi",
+      "content": "Mengetahui karakteristik bahaya detail, sumber & area berisiko, proses berisiko, dan pekerja yang berisiko."
+    },
+    {
+      "id": "rek-ukur",
+      "label": "Pengukuran",
+      "color": "#10b981",
+      "parent": "rekognisi",
+      "content": "Mengukur konsentrasi, dosis, ukuran partikel, jenis, kandungan, struktur, dan sifat bahaya."
+    },
+    {
+      "id": "rek-metode",
+      "label": "Metode",
+      "color": "#10b981",
+      "parent": "rekognisi",
+      "content": "Selidiki laporan kecelakaan, pemeriksaan fisik, inspeksi, studi literatur, pengukuran lab, PHA, dan Job Safety Analysis."
+    },
+    {
+      "id": "evaluasi",
+      "label": "Evaluasi",
+      "color": "#f59e0b",
+      "parent": "root",
+      "content": "Penilaian paparan kerja untuk menentukan apakah paparan masih dalam batas diterima dan perlu pengendalian tambahan."
+    },
+    {
+      "id": "eval-kualitatif",
+      "label": "Penilaian Kualitatif",
+      "color": "#f59e0b",
+      "parent": "evaluasi",
+      "content": "Professional judgement berdasarkan durasi, besar paparan, dan toksisitas zat oleh profesional higiene industri."
+    },
+    {
+      "id": "eval-kuantitatif",
+      "label": "Penilaian Kuantitatif",
+      "color": "#f59e0b",
+      "parent": "evaluasi",
+      "content": "Sampling udara, instrumen pembacaan langsung, dibandingkan dengan PEL OSHA, ACGIH, atau NAB."
+    },
+    {
+      "id": "eval-bising",
+      "label": "Evaluasi Bising",
+      "color": "#f59e0b",
+      "parent": "evaluasi",
+      "content": "Dosimeter untuk paparan pribadi, sound level meter untuk kebisingan lingkungan/area survei."
+    },
+    {
+      "id": "eval-radiasi",
+      "label": "Evaluasi Radiasi",
+      "color": "#f59e0b",
+      "parent": "evaluasi",
+      "content": "Instrumen survei mendeteksi dosis dari medan radiasi; film badge untuk pemantauan pribadi jangka panjang."
+    },
+    {
+      "id": "eval-ergonomi",
+      "label": "Evaluasi Ergonomi",
+      "color": "#f59e0b",
+      "parent": "evaluasi",
+      "content": "Persamaan pengangkatan NIOSH (NIOSH lifting equation) dan evaluasi ergonomis kantor."
+    },
+    {
+      "id": "pengendalian",
+      "label": "Pengendalian & Hirarki",
+      "color": "#ef4444",
+      "parent": "root",
+      "content": "Langkah meminimalkan/menghilangkan paparan saat paparan tidak dapat diterima, dipandu hirarki kontrol."
+    },
+    {
+      "id": "ctrl-eliminasi",
+      "label": "Eliminasi",
+      "color": "#ef4444",
+      "parent": "pengendalian",
+      "content": "Menghilangkan sumber bahaya sepenuhnya; paling efektif, di puncak hirarki."
+    },
+    {
+      "id": "ctrl-substitusi",
+      "label": "Substitusi",
+      "color": "#ef4444",
+      "parent": "pengendalian",
+      "content": "Mengganti bahan/proses berbahaya dengan alternatif yang lebih aman."
+    },
+    {
+      "id": "ctrl-rekayasa",
+      "label": "Rekayasa Teknik",
+      "color": "#ef4444",
+      "parent": "pengendalian",
+      "content": "Ventilasi lokal, isolasi proses, metode basah, peredam suara, hambatan akustik, interlock."
+    },
+    {
+      "id": "ctrl-administratif",
+      "label": "Administratif",
+      "color": "#ef4444",
+      "parent": "pengendalian",
+      "content": "Rotasi tugas, penyesuaian jadwal kerja, pelatihan, dan rambu peringatan."
+    },
+    {
+      "id": "ctrl-apd",
+      "label": "APD",
+      "color": "#ef4444",
+      "parent": "pengendalian",
+      "content": "Alat Pelindung Diri (respirator, sarung tangan, ear plug) sebagai pilihan TERAKHIR dalam hirarki."
+    },
+    {
+      "id": "faktor",
+      "label": "Faktor Bahaya",
+      "color": "#ec4899",
+      "parent": "root",
+      "content": "Lima faktor bahaya lingkungan kerja: fisika, kimia, biologi, ergonomi, dan psikologi."
+    },
+    {
+      "id": "fb-fisika",
+      "label": "Fisika",
+      "color": "#ec4899",
+      "parent": "faktor",
+      "content": "Iklim kerja, kebisingan, getaran, gelombang radio, sinar UV, medan magnet, tekanan udara, pencahayaan."
+    },
+    {
+      "id": "fb-kimia",
+      "label": "Kimia",
+      "color": "#ec4899",
+      "parent": "faktor",
+      "content": "Bahan beracun, reaktif, radioaktif, mudah meledak, mudah terbakar, iritan, dan korosif."
+    },
+    {
+      "id": "fb-biologi",
+      "label": "Biologi",
+      "color": "#ec4899",
+      "parent": "faktor",
+      "content": "Jamur, virus, bakteri, serangga, unggas, binatang buas, tumbuhan beracun & berbahaya."
+    },
+    {
+      "id": "fb-ergonomi",
+      "label": "Ergonomi",
+      "color": "#ec4899",
+      "parent": "faktor",
+      "content": "Cara/posisi/postur kerja yang salah, desain alat & tempat kerja salah, pengangkatan beban berlebih."
+    },
+    {
+      "id": "fb-psikologi",
+      "label": "Psikologi",
+      "color": "#ec4899",
+      "parent": "faktor",
+      "content": "Ketaksaan & konflik peran, beban kerja berlebih kualitatif/kuantitatif, pengembangan karir, tanggung jawab atas orang lain."
+    },
+    {
+      "id": "sejarah",
+      "label": "Sejarah",
+      "color": "#14b8a6",
+      "parent": "root",
+      "content": "Perkembangan higiene industri dari zaman prasejarah hingga lembaga modern seperti NIOSH dan OSHA."
+    },
+    {
+      "id": "sej-prasejarah",
+      "label": "Zaman Prasejarah",
+      "color": "#14b8a6",
+      "parent": "sejarah",
+      "content": "Mesir mengenal cadar untuk respirasi saat menambang cinabar; Arabia mencatat efek sinar matahari pada penambang."
+    },
+    {
+      "id": "sej-agricola",
+      "label": "Agricola",
+      "color": "#14b8a6",
+      "parent": "sejarah",
+      "content": "1494-1555, Bohemia: temukan silikosis pada penambang, anjurkan kebersihan udara, tulis 'Of Things Metallic'."
+    },
+    {
+      "id": "sej-paracelsus",
+      "label": "Paracelsus",
+      "color": "#14b8a6",
+      "parent": "sejarah",
+      "content": "1493-1541, Austria: hubungan dosis-respons pada pekerja pengecoran logam, dasar ilmu toksikologi."
+    },
+    {
+      "id": "sej-pott",
+      "label": "Percivall Pott",
+      "color": "#14b8a6",
+      "parent": "sejarah",
+      "content": "1766: kanker skrotum pada pembersih cerobong asap batubara, akibat senyawa PAHs dalam jelaga."
+    },
+    {
+      "id": "sej-lembaga",
+      "label": "Lembaga Modern",
+      "color": "#14b8a6",
+      "parent": "sejarah",
+      "content": "1914 US Public Health Service (jadi NIOSH 1971); 1950 ILO & WHO; 1970 UU K3 AS jadi dasar OSHA."
+    }
+  ]
+}

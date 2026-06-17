@@ -1,0 +1,1462 @@
+{
+  "topic": "Sistem Pernafasan dan Aktivitas Kerja",
+  "order": 2,
+  "description": "Sistem pernafasan menyuplai oksigen dan mengeluarkan karbon dioksida sesuai tuntutan metabolik kerja. Saat aktivitas kerja meningkat, ventilasi paru dan konsumsi oksigen (VO2) ikut meningkat untuk memenuhi kebutuhan energi. Pemahaman respons ventilasi penting untuk menilai beban kerja fisik aerobik dan mencegah penyakit pernafasan akibat kerja.",
+  "subtopics": [
+    "Definisi & Fungsi Pernafasan",
+    "Pengaruh Aktivitas Kerja",
+    "Faktor yang Mempengaruhi",
+    "Risiko & Pencegahan Penyakit",
+    "Respons Ventilasi Saat Kerja",
+    "Beban Kerja Aerobik (ISO 8996)"
+  ],
+  "questions": [
+    {
+      "text": "Organ-organ yang menyusun sistem pernafasan manusia meliputi?",
+      "explanation": "Sistem pernafasan terdiri dari hidung, trakea, bronkus, dan paru yang bekerja sama mengambil oksigen dan mengeluarkan karbon dioksida.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Jantung, arteri, vena, dan kapiler", "isCorrect": false },
+        { "text": "B. Hidung, trakea, bronkus, dan paru", "isCorrect": true },
+        { "text": "C. Otak, sumsum tulang belakang, dan saraf", "isCorrect": false },
+        { "text": "D. Lambung, usus, dan hati", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi utama sistem pernafasan adalah?",
+      "explanation": "Fungsi utama sistem pernafasan adalah mengambil oksigen dari udara dan mengeluarkan karbon dioksida dari tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Memompa darah ke seluruh tubuh", "isCorrect": false },
+        { "text": "B. Mengambil oksigen dan mengeluarkan karbon dioksida", "isCorrect": true },
+        { "text": "C. Mencerna makanan menjadi energi", "isCorrect": false },
+        { "text": "D. Menyaring darah dari racun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain pertukaran gas, sistem pernafasan juga berperan dalam mengatur?",
+      "explanation": "Sistem pernafasan ikut mengatur pH darah melalui pengeluaran CO2 serta membantu mengatur suhu tubuh.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Kadar gula darah", "isCorrect": false },
+        { "text": "B. pH darah dan suhu tubuh", "isCorrect": true },
+        { "text": "C. Produksi hormon insulin", "isCorrect": false },
+        { "text": "D. Pembekuan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gas yang diambil tubuh dari udara melalui pernafasan adalah?",
+      "explanation": "Tubuh mengambil oksigen (O2) dari udara untuk proses metabolisme menghasilkan energi.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Karbon dioksida (CO2)", "isCorrect": false },
+        { "text": "B. Nitrogen (N2)", "isCorrect": false },
+        { "text": "C. Oksigen (O2)", "isCorrect": true },
+        { "text": "D. Hidrogen (H2)", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gas sisa metabolisme yang dikeluarkan tubuh melalui pernafasan adalah?",
+      "explanation": "Karbon dioksida (CO2) merupakan produk sisa metabolisme yang dikeluarkan dari tubuh melalui sistem pernafasan.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Oksigen (O2)", "isCorrect": false },
+        { "text": "B. Karbon dioksida (CO2)", "isCorrect": true },
+        { "text": "C. Oksigen murni", "isCorrect": false },
+        { "text": "D. Uap air saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saluran udara utama yang menghubungkan laring dengan bronkus disebut?",
+      "explanation": "Trakea (batang tenggorok) adalah saluran udara utama yang menghubungkan laring dengan kedua bronkus menuju paru.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Esofagus", "isCorrect": false },
+        { "text": "B. Trakea", "isCorrect": true },
+        { "text": "C. Faring", "isCorrect": false },
+        { "text": "D. Alveolus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tempat utama terjadinya pertukaran gas O2 dan CO2 di paru adalah?",
+      "explanation": "Pertukaran gas terjadi di alveolus, kantung udara kecil di paru yang dikelilingi kapiler darah.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Trakea", "isCorrect": false },
+        { "text": "B. Bronkus", "isCorrect": false },
+        { "text": "C. Alveolus", "isCorrect": true },
+        { "text": "D. Hidung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Percabangan saluran nafas dari trakea yang menuju paru kanan dan kiri disebut?",
+      "explanation": "Bronkus adalah cabang utama trakea yang masuk ke paru kanan dan kiri, lalu bercabang menjadi bronkiolus.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Bronkus", "isCorrect": true },
+        { "text": "B. Laring", "isCorrect": false },
+        { "text": "C. Faring", "isCorrect": false },
+        { "text": "D. Diafragma", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Otot utama yang berperan dalam proses pernafasan (inspirasi) adalah?",
+      "explanation": "Diafragma adalah otot utama pernafasan yang berkontraksi saat inspirasi untuk memperbesar rongga dada.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Otot jantung", "isCorrect": false },
+        { "text": "B. Diafragma", "isCorrect": true },
+        { "text": "C. Otot betis", "isCorrect": false },
+        { "text": "D. Otot lambung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Fungsi pengaturan pH darah oleh sistem pernafasan dilakukan terutama dengan cara?",
+      "explanation": "Pengaturan pH darah dilakukan dengan mengatur jumlah CO2 yang dikeluarkan; CO2 yang larut membentuk asam karbonat sehingga memengaruhi keasaman darah.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Mengatur kadar CO2 yang dikeluarkan", "isCorrect": true },
+        { "text": "B. Menyaring glukosa dari darah", "isCorrect": false },
+        { "text": "C. Memproduksi hormon tiroid", "isCorrect": false },
+        { "text": "D. Menyimpan oksigen di paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Proses masuknya udara ke dalam paru disebut?",
+      "explanation": "Inspirasi (inhalasi) adalah proses masuknya udara ke paru saat diafragma dan otot dada berkontraksi.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Ekspirasi", "isCorrect": false },
+        { "text": "B. Inspirasi", "isCorrect": true },
+        { "text": "C. Sirkulasi", "isCorrect": false },
+        { "text": "D. Difusi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bagian saluran nafas yang berfungsi menyaring, menghangatkan, dan melembabkan udara adalah?",
+      "explanation": "Hidung berperan menyaring partikel, menghangatkan, dan melembabkan udara sebelum masuk ke saluran nafas bawah.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Alveolus", "isCorrect": false },
+        { "text": "B. Hidung", "isCorrect": true },
+        { "text": "C. Diafragma", "isCorrect": false },
+        { "text": "D. Trakea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas kerja yang berat akan memengaruhi sistem pernafasan dengan cara?",
+      "explanation": "Aktivitas kerja berat meningkatkan kebutuhan oksigen dan produksi karbon dioksida, sehingga sistem pernafasan harus bekerja lebih keras.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Menurunkan kebutuhan oksigen", "isCorrect": false },
+        { "text": "B. Meningkatkan kebutuhan oksigen dan produksi CO2", "isCorrect": true },
+        { "text": "C. Menghentikan produksi CO2", "isCorrect": false },
+        { "text": "D. Tidak berpengaruh sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat melakukan aktivitas kerja berat, pola pernafasan umumnya akan?",
+      "explanation": "Aktivitas kerja berat mengubah pola pernafasan menjadi lebih cepat dan dalam untuk memenuhi peningkatan kebutuhan oksigen.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Menjadi lebih cepat dan dalam", "isCorrect": true },
+        { "text": "B. Berhenti sementara", "isCorrect": false },
+        { "text": "C. Menjadi lebih lambat dan dangkal", "isCorrect": false },
+        { "text": "D. Tidak berubah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kebutuhan oksigen meningkat saat aktivitas kerja berat?",
+      "explanation": "Otot yang bekerja membutuhkan lebih banyak energi (ATP) dari metabolisme aerobik, yang memerlukan lebih banyak oksigen.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Karena suhu tubuh turun", "isCorrect": false },
+        { "text": "B. Karena otot membutuhkan lebih banyak energi dan oksigen", "isCorrect": true },
+        { "text": "C. Karena jantung berhenti bekerja", "isCorrect": false },
+        { "text": "D. Karena produksi CO2 menurun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peningkatan produksi karbon dioksida saat kerja berat merupakan akibat dari?",
+      "explanation": "Metabolisme energi yang meningkat saat kerja berat menghasilkan lebih banyak CO2 sebagai produk sisa yang harus dikeluarkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Peningkatan metabolisme energi otot", "isCorrect": true },
+        { "text": "B. Penurunan suhu lingkungan", "isCorrect": false },
+        { "text": "C. Berkurangnya aliran darah", "isCorrect": false },
+        { "text": "D. Berhentinya kerja paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu dampak positif aktivitas fisik teratur terhadap sistem pernafasan adalah?",
+      "explanation": "Aktivitas fisik teratur dapat meningkatkan kapasitas paru-paru dan efisiensi pernafasan.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Menurunkan kapasitas paru", "isCorrect": false },
+        { "text": "B. Meningkatkan kapasitas paru dan efisiensi pernafasan", "isCorrect": true },
+        { "text": "C. Merusak alveolus", "isCorrect": false },
+        { "text": "D. Menghentikan pertukaran gas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat beban kerja meningkat, ventilasi paru (jumlah udara yang dihirup per menit) akan?",
+      "explanation": "Ventilasi paru meningkat seiring beban kerja untuk menyuplai lebih banyak oksigen dan mengeluarkan lebih banyak CO2.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Menurun drastis", "isCorrect": false },
+        { "text": "B. Meningkat", "isCorrect": true },
+        { "text": "C. Tetap konstan", "isCorrect": false },
+        { "text": "D. Berhenti total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja dapat memengaruhi sistem pernafasan dengan cara?",
+      "explanation": "Stres kerja dapat meningkatkan laju pernafasan dan meningkatkan kebutuhan oksigen tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Memperlambat laju pernafasan", "isCorrect": false },
+        { "text": "B. Meningkatkan laju pernafasan dan kebutuhan oksigen", "isCorrect": true },
+        { "text": "C. Menghentikan pernafasan", "isCorrect": false },
+        { "text": "D. Tidak memengaruhi pernafasan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang hubungan aktivitas kerja dan sistem pernafasan adalah?",
+      "explanation": "Aktivitas kerja yang berat dapat mengubah pola pernafasan serta meningkatkan kebutuhan oksigen dan produksi CO2 secara bersamaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Aktivitas kerja tidak berpengaruh pada pernafasan", "isCorrect": false },
+        { "text": "B. Aktivitas kerja berat meningkatkan kebutuhan O2 dan mengubah pola nafas", "isCorrect": true },
+        { "text": "C. Aktivitas kerja berat menurunkan kebutuhan oksigen", "isCorrect": false },
+        { "text": "D. Pola pernafasan selalu tetap saat bekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu faktor lingkungan kerja yang dapat menyebabkan iritasi saluran pernafasan adalah?",
+      "explanation": "Paparan debu dan gas berbahaya dapat menyebabkan iritasi pada saluran pernafasan dan meningkatkan risiko penyakit pernafasan.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Pencahayaan yang cukup", "isCorrect": false },
+        { "text": "B. Paparan debu dan gas berbahaya", "isCorrect": true },
+        { "text": "C. Suhu ruangan yang nyaman", "isCorrect": false },
+        { "text": "D. Warna dinding ruang kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kurangnya ventilasi di tempat kerja dapat memengaruhi sistem pernafasan karena?",
+      "explanation": "Kurangnya ventilasi menyebabkan akumulasi gas berbahaya dan debu di udara sehingga membahayakan sistem pernafasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Membuat udara menjadi lebih bersih", "isCorrect": false },
+        { "text": "B. Menyebabkan akumulasi gas berbahaya dan debu di udara", "isCorrect": true },
+        { "text": "C. Menurunkan suhu tubuh", "isCorrect": false },
+        { "text": "D. Meningkatkan kadar oksigen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aktivitas fisik yang teratur memengaruhi kapasitas paru dengan cara?",
+      "explanation": "Aktivitas fisik teratur dapat meningkatkan kapasitas paru dan efisiensi pernafasan, sehingga tubuh lebih siap menghadapi beban kerja.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Meningkatkan kapasitas dan efisiensi paru", "isCorrect": true },
+        { "text": "B. Mengurangi volume paru", "isCorrect": false },
+        { "text": "C. Menutup alveolus", "isCorrect": false },
+        { "text": "D. Menghentikan pertukaran gas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk faktor yang mempengaruhi sistem pernafasan di tempat kerja, KECUALI?",
+      "explanation": "Faktor yang mempengaruhi sistem pernafasan meliputi aktivitas fisik, paparan debu/gas, ventilasi, dan stres kerja; warna seragam bukan termasuk faktor tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Aktivitas fisik", "isCorrect": false },
+        { "text": "B. Paparan debu dan gas berbahaya", "isCorrect": false },
+        { "text": "C. Warna seragam pekerja", "isCorrect": true },
+        { "text": "D. Stres kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Akumulasi gas berbahaya dan debu di udara tempat kerja paling tepat dicegah dengan?",
+      "explanation": "Mengatur ventilasi yang memadai dapat mencegah akumulasi gas berbahaya dan debu di udara.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Menutup semua jendela", "isCorrect": false },
+        { "text": "B. Mengatur ventilasi yang memadai", "isCorrect": true },
+        { "text": "C. Menambah jumlah pekerja", "isCorrect": false },
+        { "text": "D. Meningkatkan suhu ruangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Stres kerja yang berkepanjangan dapat memengaruhi pernafasan dengan menimbulkan?",
+      "explanation": "Stres kerja dapat meningkatkan laju pernafasan dan kebutuhan oksigen, sehingga pernafasan menjadi lebih cepat dan kurang efisien.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Peningkatan laju pernafasan", "isCorrect": true },
+        { "text": "B. Penurunan kebutuhan oksigen", "isCorrect": false },
+        { "text": "C. Penambahan kapasitas paru permanen", "isCorrect": false },
+        { "text": "D. Berhentinya produksi CO2", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor individu yang dapat mempengaruhi respons sistem pernafasan terhadap kerja antara lain?",
+      "explanation": "Faktor individu seperti usia, jenis kelamin, dan tingkat kebugaran memengaruhi kapasitas dan respons sistem pernafasan terhadap beban kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Warna pakaian", "isCorrect": false },
+        { "text": "B. Usia, jenis kelamin, dan kebugaran", "isCorrect": true },
+        { "text": "C. Merek sepatu kerja", "isCorrect": false },
+        { "text": "D. Jenis makanan favorit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko penyakit pernafasan akibat kerja dapat meningkat karena hal berikut, KECUALI?",
+      "explanation": "Risiko meningkat akibat kerja berat, paparan debu/gas berbahaya, dan kurangnya ventilasi; ventilasi yang memadai justru menurunkan risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Aktivitas kerja yang berat", "isCorrect": false },
+        { "text": "B. Paparan debu dan gas berbahaya", "isCorrect": false },
+        { "text": "C. Ventilasi yang memadai", "isCorrect": true },
+        { "text": "D. Kurangnya ventilasi yang memadai", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat pelindung diri yang tepat untuk mencegah paparan debu dan gas berbahaya pada saluran nafas adalah?",
+      "explanation": "Peralatan pelindung pernafasan seperti masker atau respirator mencegah paparan debu dan gas berbahaya ke saluran nafas.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Kacamata las", "isCorrect": false },
+        { "text": "B. Masker/respirator pelindung pernafasan", "isCorrect": true },
+        { "text": "C. Sarung tangan kulit", "isCorrect": false },
+        { "text": "D. Sepatu safety", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu cara utama mencegah penyakit pernafasan akibat kerja adalah?",
+      "explanation": "Menghindari paparan debu dan gas berbahaya, menggunakan APD pernafasan, dan mengatur ventilasi merupakan cara mencegah penyakit pernafasan.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Menghindari paparan debu dan gas berbahaya", "isCorrect": true },
+        { "text": "B. Bekerja tanpa istirahat", "isCorrect": false },
+        { "text": "C. Menutup semua ventilasi", "isCorrect": false },
+        { "text": "D. Mengurangi pemeriksaan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan berkala bagi pekerja yang terpapar debu bertujuan untuk?",
+      "explanation": "Pemeriksaan kesehatan secara teratur membantu deteksi dini dan mencegah perkembangan penyakit pernafasan akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Menambah beban kerja", "isCorrect": false },
+        { "text": "B. Mendeteksi dini dan mencegah penyakit pernafasan", "isCorrect": true },
+        { "text": "C. Menaikkan gaji pekerja", "isCorrect": false },
+        { "text": "D. Mengurangi jumlah pekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan fungsi paru yang umum digunakan untuk menilai kapasitas pernafasan pekerja adalah?",
+      "explanation": "Spirometri adalah pemeriksaan fungsi paru yang mengukur volume dan aliran udara untuk menilai kapasitas pernafasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Audiometri", "isCorrect": false },
+        { "text": "B. Spirometri", "isCorrect": true },
+        { "text": "C. Elektrokardiografi", "isCorrect": false },
+        { "text": "D. Optometri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat kerja yang disebabkan menghirup debu silika dalam jangka panjang disebut?",
+      "explanation": "Silikosis adalah penyakit paru akibat kerja yang disebabkan inhalasi debu silika dalam jangka panjang, menyebabkan fibrosis paru.",
+      "difficulty": "HARD",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Silikosis", "isCorrect": true },
+        { "text": "B. Dermatitis", "isCorrect": false },
+        { "text": "C. Tinnitus", "isCorrect": false },
+        { "text": "D. Anemia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat kerja yang disebabkan menghirup serat asbes disebut?",
+      "explanation": "Asbestosis adalah penyakit paru fibrotik akibat menghirup serat asbes, dan juga meningkatkan risiko kanker paru/mesotelioma.",
+      "difficulty": "HARD",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Bisinosis", "isCorrect": false },
+        { "text": "B. Asbestosis", "isCorrect": true },
+        { "text": "C. Silikosis", "isCorrect": false },
+        { "text": "D. Pneumonia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat kerja yang disebabkan paparan debu kapas disebut?",
+      "explanation": "Bisinosis (byssinosis) adalah penyakit pernafasan akibat menghirup debu kapas, sering disebut 'penyakit paru pekerja tekstil'.",
+      "difficulty": "HARD",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Asbestosis", "isCorrect": false },
+        { "text": "B. Silikosis", "isCorrect": false },
+        { "text": "C. Bisinosis", "isCorrect": true },
+        { "text": "D. Antrakosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat menghirup debu batu bara dalam jangka panjang disebut?",
+      "explanation": "Antrakosis (coal worker's pneumoconiosis) adalah penyakit paru akibat akumulasi debu batu bara pada jaringan paru.",
+      "difficulty": "HARD",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Antrakosis", "isCorrect": true },
+        { "text": "B. Bisinosis", "isCorrect": false },
+        { "text": "C. Asbestosis", "isCorrect": false },
+        { "text": "D. Silikosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pencegahan penyakit pernafasan akibat kerja yang paling tepat dilakukan dengan kombinasi?",
+      "explanation": "Pencegahan efektif menggabungkan penggunaan APD pernafasan, pengaturan ventilasi, menghindari paparan, dan pemeriksaan kesehatan rutin.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Hanya menambah jam kerja", "isCorrect": false },
+        { "text": "B. APD, ventilasi memadai, dan pemeriksaan kesehatan rutin", "isCorrect": true },
+        { "text": "C. Menutup seluruh ventilasi", "isCorrect": false },
+        { "text": "D. Mengabaikan pajanan debu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelompok penyakit paru akibat menghirup debu mineral di tempat kerja secara umum disebut?",
+      "explanation": "Pneumokoniosis adalah istilah umum untuk penyakit paru akibat penimbunan debu mineral (silika, asbes, batu bara) di jaringan paru.",
+      "difficulty": "HARD",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Pneumokoniosis", "isCorrect": true },
+        { "text": "B. Hipertensi", "isCorrect": false },
+        { "text": "C. Dermatosis", "isCorrect": false },
+        { "text": "D. Neuropati", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jenis respirator yang menyaring partikel debu dari udara sebelum dihirup disebut respirator?",
+      "explanation": "Respirator pemurni udara (air-purifying respirator) menyaring partikel/gas dari udara lingkungan sebelum dihirup pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Pemurni udara (air-purifying)", "isCorrect": true },
+        { "text": "B. Penghasil oksigen internal", "isCorrect": false },
+        { "text": "C. Pendingin udara", "isCorrect": false },
+        { "text": "D. Pelembab udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat aktivitas kerja meningkat, respons ventilasi paru meningkat secara linier seiring dengan?",
+      "explanation": "Respons ventilasi meningkat secara linier dengan VO2 (konsumsi oksigen) hingga mencapai ventilatory threshold.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Penurunan suhu tubuh", "isCorrect": false },
+        { "text": "B. Peningkatan VO2 (konsumsi oksigen)", "isCorrect": true },
+        { "text": "C. Penurunan denyut jantung", "isCorrect": false },
+        { "text": "D. Berkurangnya beban kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Volume udara yang dihirup atau dihembuskan dalam satu kali pernafasan normal disebut?",
+      "explanation": "Tidal volume adalah volume udara yang masuk atau keluar paru dalam satu kali pernafasan normal.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Minute ventilation", "isCorrect": false },
+        { "text": "B. Tidal volume", "isCorrect": true },
+        { "text": "C. VO2max", "isCorrect": false },
+        { "text": "D. Vital capacity", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jumlah total udara yang dihirup atau dihembuskan dalam satu menit disebut?",
+      "explanation": "Minute ventilation (VE) adalah volume udara total yang masuk/keluar paru per menit, yaitu hasil kali tidal volume dengan frekuensi nafas.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Tidal volume", "isCorrect": false },
+        { "text": "B. Respiratory frequency", "isCorrect": false },
+        { "text": "C. Minute ventilation (VE)", "isCorrect": true },
+        { "text": "D. VO2max", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Minute ventilation (VE) dihitung dengan rumus?",
+      "explanation": "Minute ventilation = tidal volume x respiratory frequency (volume per nafas dikalikan jumlah nafas per menit).",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Tidal volume + frekuensi nafas", "isCorrect": false },
+        { "text": "B. Tidal volume x frekuensi nafas", "isCorrect": true },
+        { "text": "C. Tidal volume / frekuensi nafas", "isCorrect": false },
+        { "text": "D. VO2max x denyut jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jumlah getaran pernafasan (nafas) per menit disebut?",
+      "explanation": "Respiratory frequency (frekuensi pernafasan) adalah jumlah siklus nafas per menit, salah satu parameter kunci ventilasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Respiratory frequency", "isCorrect": true },
+        { "text": "B. Tidal volume", "isCorrect": false },
+        { "text": "C. Stroke volume", "isCorrect": false },
+        { "text": "D. VO2max", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Parameter kunci untuk menilai respons ventilasi saat kerja meliputi?",
+      "explanation": "Parameter kunci respons ventilasi adalah tidal volume, respiratory frequency, minute ventilation (VE), dan VO2.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Tekanan darah, gula darah, dan kolesterol", "isCorrect": false },
+        { "text": "B. Tidal volume, frekuensi nafas, minute ventilation, dan VO2", "isCorrect": true },
+        { "text": "C. Tinggi badan, berat badan, dan usia", "isCorrect": false },
+        { "text": "D. Suhu kulit dan kelembapan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Titik di mana ventilasi mulai meningkat secara eksponensial (tidak lagi linier) akibat akumulasi laktat disebut?",
+      "explanation": "Ventilatory threshold (ambang ventilasi) adalah titik saat ventilasi naik eksponensial akibat akumulasi asam laktat, sekitar 55-65% VO2max.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Tidal volume threshold", "isCorrect": false },
+        { "text": "B. Ventilatory threshold", "isCorrect": true },
+        { "text": "C. Heart rate reserve", "isCorrect": false },
+        { "text": "D. Stroke volume peak", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ventilatory threshold pada umumnya terjadi pada kisaran berapa persen VO2max?",
+      "explanation": "Ventilatory threshold umumnya terjadi pada 55-65% VO2max, kemudian ventilasi meningkat eksponensial akibat akumulasi laktat.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. 10-20% VO2max", "isCorrect": false },
+        { "text": "B. 30-40% VO2max", "isCorrect": false },
+        { "text": "C. 55-65% VO2max", "isCorrect": true },
+        { "text": "D. 90-100% VO2max", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Setelah melewati ventilatory threshold, pola peningkatan ventilasi terhadap beban kerja menjadi?",
+      "explanation": "Setelah ventilatory threshold, ventilasi tidak lagi linier melainkan meningkat secara eksponensial akibat akumulasi laktat.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Linier", "isCorrect": false },
+        { "text": "B. Eksponensial (lebih curam)", "isCorrect": true },
+        { "text": "C. Menurun", "isCorrect": false },
+        { "text": "D. Konstan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Volume maksimal oksigen yang dapat digunakan tubuh per satuan waktu saat kerja maksimal disebut?",
+      "explanation": "VO2max adalah konsumsi oksigen maksimal, yaitu kemampuan maksimal tubuh menggunakan oksigen saat kerja berat, penentu kapasitas kerja aerobik.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Tidal volume", "isCorrect": false },
+        { "text": "B. VO2max", "isCorrect": true },
+        { "text": "C. Minute ventilation", "isCorrect": false },
+        { "text": "D. Respiratory rate", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "VO2max merupakan penentu utama dari?",
+      "explanation": "VO2max menjadi penentu kapasitas kerja fisik aerobik (KKF) seseorang; makin tinggi VO2max, makin besar kemampuan kerja aerobiknya.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Kapasitas kerja fisik aerobik", "isCorrect": true },
+        { "text": "B. Tinggi badan", "isCorrect": false },
+        { "text": "C. Warna kulit", "isCorrect": false },
+        { "text": "D. Ketajaman penglihatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Satuan yang umum digunakan untuk menyatakan VO2max relatif terhadap berat badan adalah?",
+      "explanation": "VO2max relatif dinyatakan dalam ml/kg/menit (mililiter oksigen per kilogram berat badan per menit).",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. dBA", "isCorrect": false },
+        { "text": "B. ml/kg/menit", "isCorrect": true },
+        { "text": "C. mmHg", "isCorrect": false },
+        { "text": "D. Lux", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ACSM, nilai normal VO2max pria usia 20-29 tahun berkisar antara?",
+      "explanation": "Nilai normal VO2max pria usia 20-29 tahun adalah sekitar 42-46 ml/kg/menit menurut ACSM, 2021.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. 10-15 ml/kg/menit", "isCorrect": false },
+        { "text": "B. 20-25 ml/kg/menit", "isCorrect": false },
+        { "text": "C. 42-46 ml/kg/menit", "isCorrect": true },
+        { "text": "D. 70-80 ml/kg/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ACSM, nilai normal VO2max wanita usia 20-29 tahun berkisar antara?",
+      "explanation": "Nilai normal VO2max wanita usia 20-29 tahun adalah sekitar 35-38 ml/kg/menit menurut ACSM, 2021.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. 35-38 ml/kg/menit", "isCorrect": true },
+        { "text": "B. 15-18 ml/kg/menit", "isCorrect": false },
+        { "text": "C. 50-55 ml/kg/menit", "isCorrect": false },
+        { "text": "D. 60-65 ml/kg/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Secara umum, VO2max pria dibandingkan wanita pada usia yang sama cenderung?",
+      "explanation": "Pada usia sama, VO2max pria umumnya lebih tinggi (42-46 ml/kg/menit) dibanding wanita (35-38 ml/kg/menit) karena perbedaan komposisi tubuh dan kadar hemoglobin.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Lebih rendah", "isCorrect": false },
+        { "text": "B. Lebih tinggi", "isCorrect": true },
+        { "text": "C. Selalu sama persis", "isCorrect": false },
+        { "text": "D. Tidak dapat diukur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rasio VE/VO2 yang lebih dari 35 L/L mengindikasikan?",
+      "explanation": "Rasio VE/VO2 > 35 L/L mengindikasikan inefisiensi pernafasan dan hiperventilasi, dapat akibat panas atau stres psikis.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Efisiensi pernafasan yang sangat baik", "isCorrect": false },
+        { "text": "B. Inefisiensi pernafasan dan hiperventilasi", "isCorrect": true },
+        { "text": "C. Tubuh dalam kondisi istirahat sempurna", "isCorrect": false },
+        { "text": "D. VO2max yang sangat tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kondisi panas atau stres psikis yang berlebihan saat kerja dapat menyebabkan rasio VE/VO2?",
+      "explanation": "Panas atau stres psikis dapat memicu hiperventilasi sehingga rasio VE/VO2 meningkat di atas 35 L/L (menunjukkan inefisiensi pernafasan).",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Menurun di bawah 10 L/L", "isCorrect": false },
+        { "text": "B. Meningkat di atas 35 L/L", "isCorrect": true },
+        { "text": "C. Tetap nol", "isCorrect": false },
+        { "text": "D. Tidak terpengaruh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat beban kerja meningkat secara bertahap, peningkatan minute ventilation pada awalnya dicapai terutama melalui peningkatan?",
+      "explanation": "Pada beban ringan-sedang, peningkatan ventilasi terutama dicapai dengan meningkatkan tidal volume; pada beban berat barulah frekuensi nafas naik tajam.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Tidal volume", "isCorrect": true },
+        { "text": "B. Stroke volume", "isCorrect": false },
+        { "text": "C. Suhu tubuh", "isCorrect": false },
+        { "text": "D. Tekanan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Standar internasional yang menjadi acuan penetapan beban kerja fisik metabolik berdasarkan konsumsi oksigen adalah?",
+      "explanation": "ISO 8996:2021 mengatur penetapan beban kerja fisik (metabolic rate) berdasarkan konsumsi oksigen dan parameter fisiologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. ISO 9001:2015", "isCorrect": false },
+        { "text": "B. ISO 8996:2021", "isCorrect": true },
+        { "text": "C. ISO 14001:2015", "isCorrect": false },
+        { "text": "D. ISO 45001:2018", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ISO 8996:2021, beban kerja fisik tergolong RINGAN bila konsumsi oksigen (VO2)?",
+      "explanation": "Beban kerja ringan menurut ISO 8996:2021 adalah VO2 kurang dari 0,5 L/menit atau kurang dari 2,5 kkal/menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. < 0,5 L/menit", "isCorrect": true },
+        { "text": "B. 1,0-1,5 L/menit", "isCorrect": false },
+        { "text": "C. > 1,5 L/menit", "isCorrect": false },
+        { "text": "D. 0,5-1,0 L/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ISO 8996:2021, beban kerja fisik tergolong SEDANG bila VO2 berada pada rentang?",
+      "explanation": "Beban kerja sedang menurut ISO 8996:2021 adalah VO2 0,5-1,0 L/menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. < 0,5 L/menit", "isCorrect": false },
+        { "text": "B. 0,5-1,0 L/menit", "isCorrect": true },
+        { "text": "C. 1,0-1,5 L/menit", "isCorrect": false },
+        { "text": "D. > 1,5 L/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ISO 8996:2021, beban kerja fisik tergolong BERAT bila VO2 berada pada rentang?",
+      "explanation": "Beban kerja berat menurut ISO 8996:2021 adalah VO2 1,0-1,5 L/menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. < 0,5 L/menit", "isCorrect": false },
+        { "text": "B. 0,5-1,0 L/menit", "isCorrect": false },
+        { "text": "C. 1,0-1,5 L/menit", "isCorrect": true },
+        { "text": "D. > 2,0 L/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut ISO 8996:2021, beban kerja fisik tergolong SANGAT BERAT bila VO2?",
+      "explanation": "Beban kerja sangat berat menurut ISO 8996:2021 adalah VO2 lebih dari 1,5 L/menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. > 1,5 L/menit", "isCorrect": true },
+        { "text": "B. < 0,5 L/menit", "isCorrect": false },
+        { "text": "C. 0,5-1,0 L/menit", "isCorrect": false },
+        { "text": "D. 1,0-1,5 L/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada beban kerja ringan menurut ISO 8996:2021, pengeluaran energi setara dengan?",
+      "explanation": "Beban kerja ringan setara dengan pengeluaran energi kurang dari 2,5 kkal/menit (VO2 < 0,5 L/menit).",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. < 2,5 kkal/menit", "isCorrect": true },
+        { "text": "B. > 10 kkal/menit", "isCorrect": false },
+        { "text": "C. 5-7 kkal/menit", "isCorrect": false },
+        { "text": "D. 8-9 kkal/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja memiliki VO2 saat bekerja sebesar 1,2 L/menit. Menurut ISO 8996:2021, beban kerjanya tergolong?",
+      "explanation": "VO2 1,2 L/menit berada pada rentang 1,0-1,5 L/menit, sehingga tergolong beban kerja berat.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Ringan", "isCorrect": false },
+        { "text": "B. Sedang", "isCorrect": false },
+        { "text": "C. Berat", "isCorrect": true },
+        { "text": "D. Sangat berat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja memiliki VO2 saat bekerja sebesar 0,7 L/menit. Menurut ISO 8996:2021, beban kerjanya tergolong?",
+      "explanation": "VO2 0,7 L/menit berada pada rentang 0,5-1,0 L/menit, sehingga tergolong beban kerja sedang.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Ringan", "isCorrect": false },
+        { "text": "B. Sedang", "isCorrect": true },
+        { "text": "C. Berat", "isCorrect": false },
+        { "text": "D. Sangat berat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja memiliki VO2 saat bekerja sebesar 1,8 L/menit. Menurut ISO 8996:2021, beban kerjanya tergolong?",
+      "explanation": "VO2 1,8 L/menit lebih dari 1,5 L/menit, sehingga tergolong beban kerja sangat berat.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Ringan", "isCorrect": false },
+        { "text": "B. Sedang", "isCorrect": false },
+        { "text": "C. Berat", "isCorrect": false },
+        { "text": "D. Sangat berat", "isCorrect": true }
+      ]
+    },
+    {
+      "text": "Penetapan kategori beban kerja fisik aerobik menurut ISO 8996:2021 didasarkan terutama pada pengukuran?",
+      "explanation": "ISO 8996:2021 mengategorikan beban kerja berdasarkan tingkat metabolisme yang tercermin dari konsumsi oksigen (VO2) atau pengeluaran energi.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Konsumsi oksigen (VO2) / pengeluaran energi", "isCorrect": true },
+        { "text": "B. Tinggi badan pekerja", "isCorrect": false },
+        { "text": "C. Warna seragam", "isCorrect": false },
+        { "text": "D. Lama masa kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa penetapan beban kerja fisik aerobik penting dalam K3?",
+      "explanation": "Penetapan beban kerja membantu menyesuaikan tugas dengan kapasitas pekerja, mencegah kelelahan berlebih, dan menetapkan waktu istirahat yang tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Untuk menambah jam kerja tanpa istirahat", "isCorrect": false },
+        { "text": "B. Untuk menyesuaikan tugas dengan kapasitas dan mencegah kelelahan", "isCorrect": true },
+        { "text": "C. Untuk mengurangi gaji pekerja", "isCorrect": false },
+        { "text": "D. Untuk menghapus pemeriksaan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan antara VO2 dan respons ventilasi pada beban kerja ringan hingga sedang bersifat?",
+      "explanation": "Pada beban ringan-sedang, ventilasi meningkat secara linier dengan VO2 sebelum mencapai ventilatory threshold.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Linier", "isCorrect": true },
+        { "text": "B. Terbalik (semakin tinggi VO2 ventilasi turun)", "isCorrect": false },
+        { "text": "C. Acak", "isCorrect": false },
+        { "text": "D. Tetap konstan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor usia memengaruhi VO2max seseorang dengan kecenderungan?",
+      "explanation": "VO2max cenderung menurun seiring bertambahnya usia, sehingga kapasitas kerja aerobik berkurang pada pekerja yang lebih tua.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Meningkat terus seiring usia", "isCorrect": false },
+        { "text": "B. Menurun seiring bertambahnya usia", "isCorrect": true },
+        { "text": "C. Tidak dipengaruhi usia", "isCorrect": false },
+        { "text": "D. Menjadi tak terbatas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Latihan aerobik teratur (misalnya jogging) terhadap VO2max akan?",
+      "explanation": "Latihan aerobik teratur meningkatkan VO2max dan kapasitas kerja fisik aerobik seseorang.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Menurunkan VO2max", "isCorrect": false },
+        { "text": "B. Meningkatkan VO2max", "isCorrect": true },
+        { "text": "C. Tidak memengaruhi VO2max", "isCorrect": false },
+        { "text": "D. Menghapus kapasitas paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan VO2max yang lebih tinggi akan mengalami kelelahan saat kerja berat secara?",
+      "explanation": "Pekerja dengan VO2max tinggi memiliki cadangan aerobik lebih besar sehingga lebih lambat mengalami kelelahan pada beban kerja yang sama.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Lebih cepat", "isCorrect": false },
+        { "text": "B. Lebih lambat", "isCorrect": true },
+        { "text": "C. Sama saja", "isCorrect": false },
+        { "text": "D. Tidak pernah lelah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Akumulasi asam laktat yang memicu kenaikan ventilasi eksponensial terjadi karena tubuh beralih ke metabolisme?",
+      "explanation": "Saat oksigen tidak mencukupi pada beban tinggi, tubuh memanfaatkan metabolisme anaerobik yang menghasilkan asam laktat, memicu hiperventilasi.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Anaerobik", "isCorrect": true },
+        { "text": "B. Aerobik penuh", "isCorrect": false },
+        { "text": "C. Fotosintesis", "isCorrect": false },
+        { "text": "D. Pencernaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah fungsi sistem pernafasan, KECUALI?",
+      "explanation": "Fungsi sistem pernafasan meliputi mengambil O2, mengeluarkan CO2, mengatur pH darah, dan suhu tubuh; memompa darah adalah fungsi sistem kardiovaskuler.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Mengambil oksigen dari udara", "isCorrect": false },
+        { "text": "B. Mengeluarkan karbon dioksida", "isCorrect": false },
+        { "text": "C. Memompa darah ke seluruh tubuh", "isCorrect": true },
+        { "text": "D. Mengatur pH darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menghindari paparan debu dan gas berbahaya termasuk dalam upaya?",
+      "explanation": "Menghindari paparan debu dan gas berbahaya merupakan langkah pencegahan penyakit pernafasan akibat kerja.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Pengobatan penyakit jantung", "isCorrect": false },
+        { "text": "B. Pencegahan penyakit pernafasan akibat kerja", "isCorrect": true },
+        { "text": "C. Peningkatan beban kerja", "isCorrect": false },
+        { "text": "D. Pengurangan ventilasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut pernyataan yang benar mengenai VO2max sebagai indikator kapasitas kerja, KECUALI?",
+      "explanation": "VO2max menunjukkan kapasitas aerobik, dipengaruhi usia/kebugaran, dan dinyatakan ml/kg/menit; VO2max bukan ukuran ketajaman pendengaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. VO2max menentukan kapasitas kerja fisik aerobik", "isCorrect": false },
+        { "text": "B. VO2max dinyatakan dalam ml/kg/menit", "isCorrect": false },
+        { "text": "C. VO2max mengukur ketajaman pendengaran", "isCorrect": true },
+        { "text": "D. VO2max dipengaruhi usia dan kebugaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selama bekerja di lingkungan panas, peningkatan ventilasi yang tidak proporsional dengan VO2 dapat menjadi tanda?",
+      "explanation": "Ventilasi berlebih dibanding VO2 (VE/VO2 tinggi) di lingkungan panas mengindikasikan hiperventilasi dan inefisiensi pernafasan akibat stres panas.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Efisiensi pernafasan meningkat", "isCorrect": false },
+        { "text": "B. Hiperventilasi akibat stres panas", "isCorrect": true },
+        { "text": "C. Penurunan suhu tubuh", "isCorrect": false },
+        { "text": "D. Istirahat total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan kesehatan berkala dalam program K3 pernafasan termasuk dalam jenis pencegahan?",
+      "explanation": "Pemeriksaan kesehatan berkala merupakan bentuk surveilans medis (pencegahan sekunder) untuk deteksi dini penyakit pernafasan akibat kerja.",
+      "difficulty": "HARD",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Pencegahan sekunder (deteksi dini)", "isCorrect": true },
+        { "text": "B. Pengobatan kuratif total", "isCorrect": false },
+        { "text": "C. Rehabilitasi akhir", "isCorrect": false },
+        { "text": "D. Tidak ada hubungannya dengan pencegahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Aliran udara dari luar ke dalam paru pada akhirnya menuju ke alveolus untuk?",
+      "explanation": "Udara mencapai alveolus tempat terjadi difusi O2 ke darah dan CO2 dari darah ke alveolus (pertukaran gas).",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Disimpan sebagai cadangan energi", "isCorrect": false },
+        { "text": "B. Pertukaran gas O2 dan CO2 dengan darah", "isCorrect": true },
+        { "text": "C. Dicerna menjadi nutrisi", "isCorrect": false },
+        { "text": "D. Diubah menjadi air seni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila ventilasi tempat kerja buruk dan banyak debu, pekerja sebaiknya?",
+      "explanation": "Pada lingkungan berdebu dengan ventilasi buruk, pekerja sebaiknya menggunakan APD pernafasan dan ventilasi diperbaiki untuk mengurangi pajanan.",
+      "difficulty": "EASY",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Bekerja tanpa pelindung apa pun", "isCorrect": false },
+        { "text": "B. Menggunakan APD pernafasan dan perbaiki ventilasi", "isCorrect": true },
+        { "text": "C. Menutup hidung dengan tangan saja", "isCorrect": false },
+        { "text": "D. Mengabaikan debu di udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat istirahat, frekuensi pernafasan normal orang dewasa berkisar antara?",
+      "explanation": "Frekuensi pernafasan normal orang dewasa saat istirahat sekitar 12-20 kali per menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. 1-5 kali/menit", "isCorrect": false },
+        { "text": "B. 12-20 kali/menit", "isCorrect": true },
+        { "text": "C. 50-60 kali/menit", "isCorrect": false },
+        { "text": "D. 80-100 kali/menit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saat aktivitas kerja berat, frekuensi pernafasan akan meningkat dibanding saat istirahat. Hal ini bertujuan untuk?",
+      "explanation": "Peningkatan frekuensi nafas saat kerja berat bertujuan meningkatkan ventilasi untuk menyuplai lebih banyak O2 dan membuang lebih banyak CO2.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Menambah penyuplaian O2 dan pembuangan CO2", "isCorrect": true },
+        { "text": "B. Menurunkan kebutuhan oksigen", "isCorrect": false },
+        { "text": "C. Menghentikan metabolisme", "isCorrect": false },
+        { "text": "D. Menurunkan suhu lingkungan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja dengan riwayat asma yang bekerja di lingkungan berdebu memiliki risiko?",
+      "explanation": "Paparan debu dapat memicu serangan asma dan memperburuk gangguan pernafasan pada pekerja dengan riwayat asma.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Lebih rendah dari pekerja sehat", "isCorrect": false },
+        { "text": "B. Lebih tinggi memicu serangan asma", "isCorrect": true },
+        { "text": "C. Tidak terpengaruh sama sekali", "isCorrect": false },
+        { "text": "D. Otomatis sembuh", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran konsumsi oksigen (VO2) saat bekerja umumnya memerlukan alat?",
+      "explanation": "Pengukuran VO2 secara langsung dilakukan dengan spirometer/analyzer gas metabolik (metabolic cart) yang menganalisis udara ekspirasi.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Analyzer gas metabolik (metabolic cart)", "isCorrect": true },
+        { "text": "B. Lux meter", "isCorrect": false },
+        { "text": "C. Sound level meter", "isCorrect": false },
+        { "text": "D. Termometer raksa biasa", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Beban kerja fisik yang melebihi kapasitas aerobik pekerja dalam jangka panjang dapat menyebabkan?",
+      "explanation": "Beban kerja melebihi kapasitas aerobik menyebabkan kelelahan kronis, penurunan produktivitas, dan meningkatkan risiko gangguan kesehatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Peningkatan kebugaran tanpa batas", "isCorrect": false },
+        { "text": "B. Kelelahan kronis dan penurunan produktivitas", "isCorrect": true },
+        { "text": "C. Tidak ada dampak apa pun", "isCorrect": false },
+        { "text": "D. Penurunan kebutuhan oksigen permanen", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat memahami hubungan sistem pernafasan dengan aktivitas kerja adalah?",
+      "explanation": "Memahami hubungan ini membantu mencegah penyakit pernafasan akibat kerja dan meningkatkan kenyamanan serta produktivitas kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Mencegah penyakit pernafasan dan meningkatkan kenyamanan kerja", "isCorrect": true },
+        { "text": "B. Menambah jumlah debu di tempat kerja", "isCorrect": false },
+        { "text": "C. Mengurangi penggunaan APD", "isCorrect": false },
+        { "text": "D. Menghapus kebutuhan ventilasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang tepat tentang minute ventilation (VE) saat beban kerja meningkat adalah?",
+      "explanation": "VE meningkat seiring beban kerja karena tidal volume dan/atau frekuensi nafas bertambah untuk memenuhi kebutuhan O2.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. VE menurun saat beban kerja naik", "isCorrect": false },
+        { "text": "B. VE meningkat saat beban kerja naik", "isCorrect": true },
+        { "text": "C. VE selalu tetap pada semua beban", "isCorrect": false },
+        { "text": "D. VE tidak berhubungan dengan beban kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sistem pernafasan membantu mengatur suhu tubuh terutama melalui?",
+      "explanation": "Penguapan air melalui udara ekspirasi (dan peningkatan ventilasi) membantu membuang panas, sehingga ikut mengatur suhu tubuh.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Penguapan air melalui udara ekspirasi", "isCorrect": true },
+        { "text": "B. Penyerapan panas dari makanan", "isCorrect": false },
+        { "text": "C. Produksi keringat di paru", "isCorrect": false },
+        { "text": "D. Pembekuan darah di alveolus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Untuk pekerjaan dengan beban sangat berat (VO2 > 1,5 L/menit), strategi K3 yang tepat adalah?",
+      "explanation": "Pada beban sangat berat, perlu pengaturan waktu kerja-istirahat (work-rest cycle) yang lebih ketat dan rotasi pekerjaan untuk mencegah kelelahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Memperpanjang jam kerja tanpa istirahat", "isCorrect": false },
+        { "text": "B. Menerapkan work-rest cycle dan rotasi kerja", "isCorrect": true },
+        { "text": "C. Menghapus istirahat", "isCorrect": false },
+        { "text": "D. Menambah beban lebih besar lagi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Saluran nafas atas yang menghubungkan rongga hidung/mulut dengan laring disebut?",
+      "explanation": "Faring (tenggorok) adalah saluran yang menghubungkan rongga hidung dan mulut dengan laring sebelum udara menuju trakea.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Faring", "isCorrect": true },
+        { "text": "B. Alveolus", "isCorrect": false },
+        { "text": "C. Diafragma", "isCorrect": false },
+        { "text": "D. Bronkiolus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cabang terkecil saluran nafas yang berakhir pada alveolus disebut?",
+      "explanation": "Bronkiolus adalah cabang terkecil dari bronkus yang berakhir pada kantung-kantung alveolus tempat pertukaran gas.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Trakea", "isCorrect": false },
+        { "text": "B. Bronkiolus", "isCorrect": true },
+        { "text": "C. Faring", "isCorrect": false },
+        { "text": "D. Laring", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang teratur berolahraga aerobik biasanya menunjukkan minute ventilation saat istirahat yang?",
+      "explanation": "Pekerja terlatih cenderung memiliki ventilasi lebih efisien sehingga frekuensi/ventilasi istirahat lebih rendah namun tidal volume lebih besar.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Lebih efisien (frekuensi nafas lebih rendah)", "isCorrect": true },
+        { "text": "B. Selalu jauh lebih tinggi", "isCorrect": false },
+        { "text": "C. Nol", "isCorrect": false },
+        { "text": "D. Tidak terukur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan pengaturan ventilasi umum (general ventilation) di area kerja berdebu adalah?",
+      "explanation": "Ventilasi umum bertujuan mengencerkan dan membuang debu/gas berbahaya dari udara tempat kerja agar konsentrasinya turun di bawah batas aman.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Menambah konsentrasi debu", "isCorrect": false },
+        { "text": "B. Mengencerkan dan membuang debu/gas dari udara", "isCorrect": true },
+        { "text": "C. Menaikkan suhu ruangan", "isCorrect": false },
+        { "text": "D. Mematikan aliran udara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada kondisi kerja statis dengan stres psikis tinggi, peningkatan laju pernafasan terutama dipicu oleh?",
+      "explanation": "Stres psikis mengaktifkan sistem saraf simpatis yang meningkatkan laju pernafasan dan kebutuhan oksigen, sering menyebabkan pernafasan dangkal-cepat.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Aktivasi saraf simpatis akibat stres", "isCorrect": true },
+        { "text": "B. Penurunan suhu tubuh", "isCorrect": false },
+        { "text": "C. Berhentinya metabolisme", "isCorrect": false },
+        { "text": "D. Peningkatan tidur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan ISO 8996:2021, kategori beban kerja dengan VO2 antara 0,5 sampai 1,0 L/menit setara dengan pekerjaan?",
+      "explanation": "Beban kerja sedang (VO2 0,5-1,0 L/menit) misalnya pekerjaan dengan aktivitas fisik moderat seperti berjalan membawa beban ringan.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Beban kerja sedang", "isCorrect": true },
+        { "text": "B. Beban kerja sangat berat", "isCorrect": false },
+        { "text": "C. Beban kerja berat ekstrem", "isCorrect": false },
+        { "text": "D. Istirahat total", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan paling tepat mengenai hubungan VO2 dan beban kerja menurut ISO 8996:2021 adalah?",
+      "explanation": "Semakin tinggi VO2 yang dibutuhkan saat kerja, semakin berat kategori beban kerja fisiknya menurut ISO 8996:2021.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Semakin tinggi VO2, semakin berat beban kerja", "isCorrect": true },
+        { "text": "B. Semakin tinggi VO2, semakin ringan beban kerja", "isCorrect": false },
+        { "text": "C. VO2 tidak berhubungan dengan beban kerja", "isCorrect": false },
+        { "text": "D. VO2 hanya mengukur tekanan darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain VO2, parameter pernafasan yang ikut meningkat saat beban kerja naik adalah?",
+      "explanation": "Saat beban kerja naik, tidal volume, frekuensi nafas, dan minute ventilation ikut meningkat seiring kenaikan VO2.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Tidal volume dan minute ventilation", "isCorrect": true },
+        { "text": "B. Ketajaman penglihatan", "isCorrect": false },
+        { "text": "C. Kadar gula darah saja", "isCorrect": false },
+        { "text": "D. Warna kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu fungsi penting hidung dalam menjaga kesehatan saluran nafas pekerja adalah?",
+      "explanation": "Hidung menyaring partikel debu dari udara sehingga melindungi saluran nafas bawah dan paru dari pajanan partikel.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Memompa darah", "isCorrect": false },
+        { "text": "B. Menyaring partikel debu dari udara", "isCorrect": true },
+        { "text": "C. Mencerna makanan", "isCorrect": false },
+        { "text": "D. Menghasilkan hormon", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kerja di lingkungan dengan ventilasi buruk berbahaya bagi sistem pernafasan?",
+      "explanation": "Ventilasi buruk menyebabkan penumpukan gas berbahaya dan debu sekaligus berkurangnya kadar oksigen segar, membahayakan pernafasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Karena udara menjadi terlalu segar", "isCorrect": false },
+        { "text": "B. Karena gas berbahaya dan debu menumpuk serta O2 berkurang", "isCorrect": true },
+        { "text": "C. Karena suhu selalu menurun", "isCorrect": false },
+        { "text": "D. Karena pencahayaan terlalu terang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsumsi oksigen (VO2) menggambarkan?",
+      "explanation": "VO2 menggambarkan jumlah oksigen yang dikonsumsi tubuh per satuan waktu, yang mencerminkan tingkat metabolisme dan beban kerja fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Jumlah oksigen yang dikonsumsi tubuh per waktu", "isCorrect": true },
+        { "text": "B. Jumlah suara yang didengar telinga", "isCorrect": false },
+        { "text": "C. Tekanan darah arteri", "isCorrect": false },
+        { "text": "D. Kadar gula darah", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penggunaan respirator yang tepat (fit dan sesuai jenis kontaminan) penting karena?",
+      "explanation": "Respirator yang fit dan sesuai jenis kontaminan menjamin perlindungan efektif; respirator yang tidak sesuai/bocor membuat pekerja tetap terpajan.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Agar terlihat profesional saja", "isCorrect": false },
+        { "text": "B. Menjamin perlindungan efektif terhadap kontaminan", "isCorrect": true },
+        { "text": "C. Untuk menambah berat kerja", "isCorrect": false },
+        { "text": "D. Tidak ada manfaatnya", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan linier antara ventilasi dan VO2 berlaku hingga tercapainya?",
+      "explanation": "Hubungan linier ventilasi-VO2 berlaku hingga ventilatory threshold (55-65% VO2max), setelah itu ventilasi naik eksponensial.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Tidal volume maksimal", "isCorrect": false },
+        { "text": "B. Ventilatory threshold", "isCorrect": true },
+        { "text": "C. Suhu tubuh maksimal", "isCorrect": false },
+        { "text": "D. Tekanan darah istirahat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berikut adalah parameter yang TIDAK termasuk indikator respons ventilasi saat kerja?",
+      "explanation": "Indikator ventilasi meliputi tidal volume, frekuensi nafas, minute ventilation, dan VO2; stroke volume adalah parameter kardiovaskular, bukan ventilasi.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Tidal volume", "isCorrect": false },
+        { "text": "B. Minute ventilation", "isCorrect": false },
+        { "text": "C. Stroke volume", "isCorrect": true },
+        { "text": "D. Respiratory frequency", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tindakan pencegahan penyakit pernafasan yang paling mendasar dan murah di tempat kerja adalah?",
+      "explanation": "Pengendalian sumber dan ventilasi memadai bersifat mendasar; di tingkat individu, penggunaan masker/APD yang benar adalah langkah sederhana dan efektif.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Menggunakan masker/APD pernafasan dengan benar", "isCorrect": true },
+        { "text": "B. Menambah jam lembur", "isCorrect": false },
+        { "text": "C. Mematikan ventilasi", "isCorrect": false },
+        { "text": "D. Menambah debu di ruang kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Seorang pekerja muda dengan VO2max tinggi melakukan tugas dengan VO2 0,4 L/menit. Tugas ini baginya tergolong?",
+      "explanation": "VO2 0,4 L/menit (< 0,5 L/menit) tergolong beban kerja ringan menurut ISO 8996:2021, terlebih bagi pekerja dengan VO2max tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Beban ringan", "isCorrect": true },
+        { "text": "B. Beban sangat berat", "isCorrect": false },
+        { "text": "C. Beban berat", "isCorrect": false },
+        { "text": "D. Melebihi kapasitas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada audit ergonomi fisiologis, pengukuran VO2 dan ventilasi digunakan untuk?",
+      "explanation": "Pengukuran VO2 dan ventilasi digunakan untuk menilai beban kerja fisik dan kapasitas aerobik pekerja sebagai dasar penetapan waktu kerja-istirahat.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja Aerobik (ISO 8996)",
+      "options": [
+        { "text": "A. Mengukur tingkat pencahayaan", "isCorrect": false },
+        { "text": "B. Menilai beban kerja fisik dan kapasitas aerobik", "isCorrect": true },
+        { "text": "C. Menentukan warna cat ruangan", "isCorrect": false },
+        { "text": "D. Mengukur kebisingan mesin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu simpulan utama tentang sistem pernafasan dan aktivitas kerja adalah?",
+      "explanation": "Simpulannya, sistem pernafasan berperan penting dalam aktivitas kerja dan aktivitas kerja memengaruhi sistem pernafasan, sehingga pencegahan perlu dilakukan.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Sistem pernafasan tidak penting dalam kerja", "isCorrect": false },
+        { "text": "B. Sistem pernafasan berperan penting dan dipengaruhi aktivitas kerja", "isCorrect": true },
+        { "text": "C. Aktivitas kerja tidak pernah memengaruhi pernafasan", "isCorrect": false },
+        { "text": "D. Pencegahan penyakit pernafasan tidak diperlukan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bila seorang pekerja mengalami sesak nafas dan batuk kronis setelah lama bekerja di area berdebu, langkah yang tepat adalah?",
+      "explanation": "Pekerja dengan gejala pernafasan kronis perlu menjalani pemeriksaan kesehatan (spirometri) dan evaluasi pajanan untuk diagnosis dini penyakit akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Mengabaikan gejala dan terus bekerja", "isCorrect": false },
+        { "text": "B. Pemeriksaan kesehatan/spirometri dan evaluasi pajanan", "isCorrect": true },
+        { "text": "C. Menambah jam kerja di area berdebu", "isCorrect": false },
+        { "text": "D. Melepas semua APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah urutan jalur udara pernafasan dari luar ke dalam yang benar?",
+      "explanation": "Jalur udara: hidung -> faring -> laring -> trakea -> bronkus -> bronkiolus -> alveolus tempat pertukaran gas.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Alveolus -> bronkus -> trakea -> hidung", "isCorrect": false },
+        { "text": "B. Hidung -> trakea -> bronkus -> alveolus", "isCorrect": true },
+        { "text": "C. Trakea -> hidung -> alveolus -> bronkus", "isCorrect": false },
+        { "text": "D. Bronkus -> hidung -> alveolus -> trakea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyebab utama peningkatan kebutuhan oksigen pada pekerja yang melakukan kerja fisik berat adalah?",
+      "explanation": "Kerja fisik berat memerlukan lebih banyak ATP dari metabolisme aerobik otot, sehingga kebutuhan oksigen tubuh meningkat.",
+      "difficulty": "EASY",
+      "tag": "Pengaruh Aktivitas Kerja",
+      "options": [
+        { "text": "A. Peningkatan metabolisme aerobik otot", "isCorrect": true },
+        { "text": "B. Penurunan aktivitas otot", "isCorrect": false },
+        { "text": "C. Berkurangnya suhu lingkungan", "isCorrect": false },
+        { "text": "D. Berhentinya kerja jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa wanita pada umumnya memiliki VO2max relatif lebih rendah dibanding pria seusianya?",
+      "explanation": "VO2max wanita umumnya lebih rendah karena perbedaan komposisi tubuh (massa otot lebih kecil) dan kadar hemoglobin yang lebih rendah.",
+      "difficulty": "HARD",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Perbedaan komposisi tubuh dan kadar hemoglobin", "isCorrect": true },
+        { "text": "B. Wanita tidak memiliki paru", "isCorrect": false },
+        { "text": "C. Wanita tidak membutuhkan oksigen", "isCorrect": false },
+        { "text": "D. Tidak ada perbedaan sama sekali", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar tentang ventilatory threshold adalah?",
+      "explanation": "Ventilatory threshold adalah titik (55-65% VO2max) di mana ventilasi mulai meningkat eksponensial akibat penumpukan asam laktat.",
+      "difficulty": "HARD",
+      "tag": "Respons Ventilasi Saat Kerja",
+      "options": [
+        { "text": "A. Titik di mana ventilasi naik eksponensial akibat laktat", "isCorrect": true },
+        { "text": "B. Titik di mana ventilasi berhenti total", "isCorrect": false },
+        { "text": "C. Titik suhu tubuh maksimal", "isCorrect": false },
+        { "text": "D. Titik tekanan darah minimal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan akhir mengatur ventilasi, menyediakan APD, dan pemeriksaan kesehatan dalam program K3 pernafasan adalah?",
+      "explanation": "Ketiga langkah tersebut bertujuan mencegah penyakit pernafasan akibat kerja serta menjaga kesehatan dan produktivitas pekerja.",
+      "difficulty": "EASY",
+      "tag": "Risiko & Pencegahan Penyakit",
+      "options": [
+        { "text": "A. Mencegah penyakit pernafasan akibat kerja", "isCorrect": true },
+        { "text": "B. Menambah pajanan debu", "isCorrect": false },
+        { "text": "C. Mengurangi produktivitas", "isCorrect": false },
+        { "text": "D. Memperberat beban kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pekerja yang terpapar gas berbahaya, kombinasi pengendalian yang paling tepat adalah?",
+      "explanation": "Kombinasi pengendalian rekayasa (ventilasi/exhaust lokal), administratif, dan APD pernafasan memberikan perlindungan optimal terhadap gas berbahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor yang Mempengaruhi",
+      "options": [
+        { "text": "A. Ventilasi/exhaust lokal, administratif, dan APD pernafasan", "isCorrect": true },
+        { "text": "B. Menutup semua ventilasi saja", "isCorrect": false },
+        { "text": "C. Menambah jumlah gas berbahaya", "isCorrect": false },
+        { "text": "D. Mengabaikan APD", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dibanding inspirasi, ekspirasi pada pernafasan tenang (istirahat) umumnya bersifat?",
+      "explanation": "Pada pernafasan tenang, inspirasi bersifat aktif (kontraksi diafragma), sedangkan ekspirasi umumnya pasif akibat recoil elastis paru dan dinding dada.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Fungsi Pernafasan",
+      "options": [
+        { "text": "A. Pasif (recoil elastis paru)", "isCorrect": true },
+        { "text": "B. Selalu lebih aktif daripada inspirasi", "isCorrect": false },
+        { "text": "C. Memerlukan kontraksi diafragma penuh", "isCorrect": false },
+        { "text": "D. Tidak terjadi sama sekali", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Sistem pernafasan", "back": "Sistem yang terdiri dari hidung, trakea, bronkus, dan paru yang bekerja sama mengambil oksigen dan mengeluarkan karbon dioksida.", "tag": "Definisi & Fungsi Pernafasan" },
+    { "front": "Fungsi sistem pernafasan", "back": "Mengambil O2, mengeluarkan CO2, mengatur pH darah, dan membantu mengatur suhu tubuh.", "tag": "Definisi & Fungsi Pernafasan" },
+    { "front": "Alveolus", "back": "Kantung udara kecil di paru tempat utama terjadinya pertukaran gas O2 dan CO2 dengan darah.", "tag": "Definisi & Fungsi Pernafasan" },
+    { "front": "Diafragma", "back": "Otot utama pernafasan yang berkontraksi saat inspirasi untuk memperbesar rongga dada.", "tag": "Definisi & Fungsi Pernafasan" },
+    { "front": "Pengaruh kerja berat pada pernafasan", "back": "Meningkatkan kebutuhan oksigen, produksi CO2, dan mengubah pola pernafasan menjadi lebih cepat dan dalam.", "tag": "Pengaruh Aktivitas Kerja" },
+    { "front": "Manfaat aktivitas fisik teratur", "back": "Meningkatkan kapasitas paru-paru dan efisiensi pernafasan sehingga tubuh lebih siap menghadapi beban kerja.", "tag": "Pengaruh Aktivitas Kerja" },
+    { "front": "Faktor yang mempengaruhi sistem pernafasan", "back": "Aktivitas fisik, paparan debu/gas berbahaya, ventilasi yang tidak memadai, dan stres kerja.", "tag": "Faktor yang Mempengaruhi" },
+    { "front": "Akibat ventilasi buruk", "back": "Akumulasi gas berbahaya dan debu di udara serta berkurangnya O2 segar, membahayakan sistem pernafasan.", "tag": "Faktor yang Mempengaruhi" },
+    { "front": "Pencegahan penyakit pernafasan kerja", "back": "Menggunakan APD pernafasan, menghindari pajanan debu/gas, mengatur ventilasi memadai, dan pemeriksaan kesehatan rutin.", "tag": "Risiko & Pencegahan Penyakit" },
+    { "front": "Spirometri", "back": "Pemeriksaan fungsi paru yang mengukur volume dan aliran udara untuk menilai kapasitas pernafasan pekerja.", "tag": "Risiko & Pencegahan Penyakit" },
+    { "front": "Silikosis", "back": "Penyakit paru akibat kerja karena menghirup debu silika dalam jangka panjang, menyebabkan fibrosis paru.", "tag": "Risiko & Pencegahan Penyakit" },
+    { "front": "Pneumokoniosis", "back": "Istilah umum penyakit paru akibat penimbunan debu mineral (silika, asbes, batu bara) di jaringan paru.", "tag": "Risiko & Pencegahan Penyakit" },
+    { "front": "Tidal volume", "back": "Volume udara yang dihirup atau dihembuskan dalam satu kali pernafasan normal.", "tag": "Respons Ventilasi Saat Kerja" },
+    { "front": "Minute ventilation (VE)", "back": "Volume udara total yang dihirup/dihembuskan per menit = tidal volume x frekuensi nafas.", "tag": "Respons Ventilasi Saat Kerja" },
+    { "front": "VO2max", "back": "Konsumsi oksigen maksimal; penentu kapasitas kerja fisik aerobik. Normal pria 20-29 th 42-46 ml/kg/menit, wanita 35-38 ml/kg/menit.", "tag": "Respons Ventilasi Saat Kerja" },
+    { "front": "Ventilatory threshold", "back": "Titik (55-65% VO2max) di mana ventilasi mulai naik eksponensial akibat akumulasi asam laktat.", "tag": "Respons Ventilasi Saat Kerja" },
+    { "front": "Rasio VE/VO2 > 35 L/L", "back": "Mengindikasikan inefisiensi pernafasan dan hiperventilasi, bisa akibat panas atau stres psikis.", "tag": "Respons Ventilasi Saat Kerja" },
+    { "front": "ISO 8996:2021", "back": "Standar penetapan beban kerja fisik aerobik berdasarkan konsumsi oksigen (VO2) dan pengeluaran energi.", "tag": "Beban Kerja Aerobik (ISO 8996)" },
+    { "front": "Kategori beban kerja (ISO 8996)", "back": "Ringan VO2 <0,5 L/mnt; sedang 0,5-1,0; berat 1,0-1,5; sangat berat >1,5 L/mnt.", "tag": "Beban Kerja Aerobik (ISO 8996)" },
+    { "front": "Beban kerja ringan (energi)", "back": "Setara pengeluaran energi < 2,5 kkal/menit (VO2 < 0,5 L/menit).", "tag": "Beban Kerja Aerobik (ISO 8996)" },
+    { "front": "Parameter kunci respons ventilasi", "back": "Tidal volume, respiratory frequency, minute ventilation (VE), dan VO2.", "tag": "Respons Ventilasi Saat Kerja" }
+  ],
+  "mindmap": [
+    { "id": "root", "label": "Sistem Pernafasan & Aktivitas Kerja", "color": "#6366f1", "parent": null, "content": "Sistem pernafasan menyuplai O2 dan mengeliminasi CO2 sesuai tuntutan metabolik kerja, sangat menentukan kapasitas kerja fisik aerobik." },
+
+    { "id": "definisi", "label": "Definisi & Fungsi", "color": "#8b5cf6", "parent": "root", "content": "Sistem pernafasan terdiri dari hidung, trakea, bronkus, dan paru untuk pertukaran gas." },
+    { "id": "organ", "label": "Organ Pernafasan", "color": "#8b5cf6", "parent": "definisi", "content": "Hidung, faring, laring, trakea, bronkus, bronkiolus, dan alveolus." },
+    { "id": "alveolus", "label": "Alveolus", "color": "#8b5cf6", "parent": "organ", "content": "Kantung udara tempat utama pertukaran gas O2 dan CO2 dengan darah." },
+    { "id": "diafragma", "label": "Diafragma", "color": "#8b5cf6", "parent": "organ", "content": "Otot utama pernafasan yang berkontraksi saat inspirasi memperbesar rongga dada." },
+    { "id": "fungsi", "label": "Fungsi Pernafasan", "color": "#8b5cf6", "parent": "definisi", "content": "Mengambil O2, mengeluarkan CO2, mengatur pH darah, dan membantu mengatur suhu tubuh." },
+
+    { "id": "pengaruh", "label": "Pengaruh Aktivitas Kerja", "color": "#0ea5e9", "parent": "root", "content": "Aktivitas kerja berat mengubah respons sistem pernafasan." },
+    { "id": "kebutuhan-o2", "label": "Kebutuhan O2 Naik", "color": "#0ea5e9", "parent": "pengaruh", "content": "Otot yang bekerja membutuhkan lebih banyak oksigen untuk metabolisme energi." },
+    { "id": "produksi-co2", "label": "Produksi CO2 Naik", "color": "#0ea5e9", "parent": "pengaruh", "content": "Metabolisme energi yang meningkat menghasilkan lebih banyak CO2 untuk dibuang." },
+    { "id": "pola-nafas", "label": "Pola Nafas Berubah", "color": "#0ea5e9", "parent": "pengaruh", "content": "Pernafasan menjadi lebih cepat dan dalam saat beban kerja meningkat." },
+
+    { "id": "faktor", "label": "Faktor yang Mempengaruhi", "color": "#10b981", "parent": "root", "content": "Berbagai faktor lingkungan dan individu memengaruhi sistem pernafasan saat kerja." },
+    { "id": "aktivitas-fisik", "label": "Aktivitas Fisik", "color": "#10b981", "parent": "faktor", "content": "Aktivitas fisik teratur meningkatkan kapasitas paru dan efisiensi pernafasan." },
+    { "id": "debu-gas", "label": "Debu & Gas Berbahaya", "color": "#10b981", "parent": "faktor", "content": "Paparan debu dan gas menyebabkan iritasi saluran nafas dan meningkatkan risiko penyakit." },
+    { "id": "ventilasi", "label": "Ventilasi", "color": "#10b981", "parent": "faktor", "content": "Ventilasi buruk menyebabkan akumulasi debu/gas dan berkurangnya O2 segar." },
+    { "id": "stres", "label": "Stres Kerja", "color": "#10b981", "parent": "faktor", "content": "Stres meningkatkan laju pernafasan dan kebutuhan oksigen melalui aktivasi saraf simpatis." },
+    { "id": "individu", "label": "Faktor Individu", "color": "#10b981", "parent": "faktor", "content": "Usia, jenis kelamin, dan kebugaran memengaruhi kapasitas dan respons pernafasan." },
+
+    { "id": "risiko", "label": "Risiko & Pencegahan", "color": "#f59e0b", "parent": "root", "content": "Pajanan kerja dapat menimbulkan penyakit pernafasan yang perlu dicegah." },
+    { "id": "penyakit", "label": "Penyakit Paru Kerja", "color": "#f59e0b", "parent": "risiko", "content": "Pneumokoniosis: silikosis, asbestosis, bisinosis, dan antrakosis akibat debu mineral/organik." },
+    { "id": "silikosis", "label": "Silikosis", "color": "#f59e0b", "parent": "penyakit", "content": "Fibrosis paru akibat menghirup debu silika dalam jangka panjang." },
+    { "id": "asbestosis", "label": "Asbestosis", "color": "#f59e0b", "parent": "penyakit", "content": "Penyakit paru fibrotik akibat menghirup serat asbes." },
+    { "id": "apd", "label": "APD Pernafasan", "color": "#f59e0b", "parent": "risiko", "content": "Masker/respirator pemurni udara mencegah pajanan debu dan gas berbahaya." },
+    { "id": "spirometri", "label": "Spirometri", "color": "#f59e0b", "parent": "risiko", "content": "Pemeriksaan fungsi paru untuk deteksi dini gangguan pernafasan pekerja." },
+    { "id": "pencegahan-lain", "label": "Ventilasi & MCU", "color": "#f59e0b", "parent": "risiko", "content": "Mengatur ventilasi memadai dan melakukan pemeriksaan kesehatan rutin." },
+
+    { "id": "respons", "label": "Respons Ventilasi Saat Kerja", "color": "#ef4444", "parent": "root", "content": "Ventilasi meningkat sesuai kebutuhan oksigen saat beban kerja naik." },
+    { "id": "tidal", "label": "Tidal Volume", "color": "#ef4444", "parent": "respons", "content": "Volume udara satu kali pernafasan normal; meningkat pada beban ringan-sedang." },
+    { "id": "frekuensi", "label": "Frekuensi Nafas", "color": "#ef4444", "parent": "respons", "content": "Jumlah nafas per menit; normal istirahat 12-20, naik tajam pada beban berat." },
+    { "id": "ve", "label": "Minute Ventilation (VE)", "color": "#ef4444", "parent": "respons", "content": "VE = tidal volume x frekuensi nafas; total udara per menit." },
+    { "id": "vo2", "label": "VO2 & VO2max", "color": "#ef4444", "parent": "respons", "content": "VO2max penentu kapasitas aerobik; pria 42-46, wanita 35-38 ml/kg/menit." },
+    { "id": "threshold", "label": "Ventilatory Threshold", "color": "#ef4444", "parent": "respons", "content": "55-65% VO2max; titik ventilasi naik eksponensial akibat asam laktat." },
+    { "id": "ve-vo2", "label": "Rasio VE/VO2", "color": "#ef4444", "parent": "respons", "content": "VE/VO2 > 35 L/L menandakan inefisiensi/hiperventilasi akibat panas atau stres." },
+
+    { "id": "beban", "label": "Beban Kerja Aerobik (ISO 8996)", "color": "#ec4899", "parent": "root", "content": "ISO 8996:2021 menetapkan kategori beban kerja berdasarkan VO2." },
+    { "id": "ringan", "label": "Ringan", "color": "#ec4899", "parent": "beban", "content": "VO2 < 0,5 L/menit atau < 2,5 kkal/menit." },
+    { "id": "sedang", "label": "Sedang", "color": "#ec4899", "parent": "beban", "content": "VO2 0,5-1,0 L/menit." },
+    { "id": "berat", "label": "Berat", "color": "#ec4899", "parent": "beban", "content": "VO2 1,0-1,5 L/menit." },
+    { "id": "sangat-berat", "label": "Sangat Berat", "color": "#ec4899", "parent": "beban", "content": "VO2 > 1,5 L/menit; perlu work-rest cycle ketat dan rotasi kerja." },
+    { "id": "aplikasi-k3", "label": "Aplikasi K3", "color": "#ec4899", "parent": "beban", "content": "Penetapan beban kerja untuk seleksi fit-to-work dan pengaturan istirahat." }
+  ]
+}

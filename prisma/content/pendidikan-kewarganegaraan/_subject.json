@@ -1,0 +1,10 @@
+{
+  "subject": "Pendidikan Kewarganegaraan",
+  "description": "Mata kuliah yang membahas konsep dasar pendidikan kewarganegaraan, hakikat dan unsur-unsur negara, serta status, hak, dan kewajiban warga negara Indonesia. Tujuannya membentuk mahasiswa yang berkarakter, cerdas, demokratis, dan cinta tanah air sesuai nilai-nilai Pancasila dan UUD 1945.",
+  "icon": "🇮🇩",
+  "order": 9,
+  "semester": {
+    "name": "Semester 2",
+    "year": "2025/2026"
+  }
+}

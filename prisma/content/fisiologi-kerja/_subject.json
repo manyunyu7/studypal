@@ -1,0 +1,10 @@
+{
+  "subject": "Fisiologi Kerja",
+  "description": "Mempelajari bagaimana sistem-sistem tubuh manusia (muskuloskeletal, kardiovaskuler, pernapasan, dan saraf) merespons dan dipengaruhi oleh aktivitas serta lingkungan kerja. Membahas pengukuran beban kerja fisik, risiko gangguan fisiologi terkait kerja, hingga strategi pencegahan dan pengelolaannya untuk meningkatkan kesehatan dan keselamatan kerja.",
+  "icon": "💪",
+  "order": 5,
+  "semester": {
+    "name": "Semester 2",
+    "year": "2025/2026"
+  }
+}

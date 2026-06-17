@@ -1,0 +1,3212 @@
+{
+  "topic": "Iklim Kerja Panas",
+  "order": 3,
+  "description": "Mempelajari tekanan panas (heat stress) di tempat kerja, pengukuran ISBB/WBGT, NAB Permenaker No. 5 Tahun 2018, penyakit akibat panas, serta pengendaliannya.",
+  "subtopics": [
+    "Konsep Tekanan Panas & Termoregulasi",
+    "ISBB/WBGT & Formula",
+    "NAB & Angka per Beban Kerja",
+    "Alat Ukur & Satuan",
+    "Penyakit Akibat Panas",
+    "Aklimatisasi",
+    "Beban Kerja Metabolik & SNI 7269",
+    "Pengendalian",
+    "Regulasi"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang dimaksud dengan termoregulasi pada tubuh manusia?",
+      "explanation": "Termoregulasi adalah keseimbangan antara kehilangan panas dan produksi panas tubuh untuk mempertahankan suhu inti tubuh tetap stabil.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Proses produksi keringat secara maksimal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Keseimbangan antara kehilangan panas dan produksi panas tubuh",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Peningkatan suhu tubuh saat bekerja berat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penurunan denyut jantung saat istirahat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berapa kisaran suhu tubuh normal manusia?",
+      "explanation": "Suhu tubuh normal manusia berada pada kisaran 36,5-37,5 derajat Celsius.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. 35,0-36,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 36,5-37,5 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 37,5-38,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 38,0-39,0 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kondisi suhu tubuh di bawah 36,5 derajat C disebut?",
+      "explanation": "Hipotermia adalah kondisi suhu tubuh di bawah 36,5 derajat Celsius.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Hipertermia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hipotermia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Normotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Heat stroke",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kondisi suhu tubuh di atas 37,5 derajat C disebut?",
+      "explanation": "Hipertermia adalah kondisi suhu tubuh di atas 37,5 derajat Celsius.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Hipotermia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hipertermia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Eutermia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Demam ringan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut klasifikasi hipotermia, kisaran suhu 32-35,9 derajat C termasuk kategori?",
+      "explanation": "Hipotermia sedang berada pada kisaran 32-35,9 derajat Celsius, sedangkan ringan 36,0-36,4 derajat C dan berat di bawah 32 derajat C.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Ringan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sedang",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Berat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sangat berat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Hipotermia berat ditandai dengan suhu tubuh pada kisaran?",
+      "explanation": "Hipotermia berat terjadi saat suhu tubuh kurang dari 32 derajat Celsius.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Kurang dari 36,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 32-35,9 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kurang dari 32 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 36,0-36,4 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Iklim kerja merupakan hasil perpaduan dari beberapa faktor. Manakah yang BUKAN termasuk faktor pembentuk iklim kerja?",
+      "explanation": "Iklim kerja adalah perpaduan suhu, kelembaban, kecepatan gerakan udara, dan panas radiasi. Tekanan udara bukan komponen utama definisi iklim kerja menurut Permenaker No. 5 Tahun 2018.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Suhu udara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kelembaban",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tekanan atmosfer barometrik",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Kecepatan gerakan udara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Istilah heat stress dalam konteks higiene industri merujuk pada?",
+      "explanation": "Heat stress (tekanan panas) adalah beban panas total yang diterima tubuh dari lingkungan kerja yang panas, yang dapat memicu respons fisiologis berlebih.",
+      "difficulty": "EASY",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Tekanan panas yang diterima tubuh dari lingkungan kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tekanan darah yang meningkat akibat panas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Stres psikologis akibat lingkungan kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tekanan suara di lingkungan kerja panas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Respons fisiologis tubuh akibat tekanan panas yang berlebih disebut?",
+      "explanation": "Heat strain adalah respons atau regangan fisiologis tubuh (misalnya peningkatan denyut jantung dan suhu inti) sebagai akibat dari tekanan panas (heat stress).",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Heat stress",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Heat strain",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Heat index",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Heat load",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mekanisme utama pelepasan panas tubuh dalam lingkungan kerja yang panas adalah?",
+      "explanation": "Pada lingkungan panas, penguapan keringat (evaporasi) menjadi mekanisme pelepasan panas yang paling dominan karena konduksi, konveksi, dan radiasi menjadi kurang efektif saat suhu lingkungan tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Konduksi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Evaporasi (penguapan keringat)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Radiasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tekanan osmotik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa kepanjangan dari ISBB dalam konteks iklim kerja panas?",
+      "explanation": "ISBB adalah Indeks Suhu Basah dan Bola, yang merupakan terjemahan dari Wet Bulb Globe Temperature Index (WBGT).",
+      "difficulty": "EASY",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. Indeks Suhu Bola dan Basah",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Indeks Suhu Basah dan Bola",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Indikator Suhu Bola Basah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Indeks Standar Beban Berat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Istilah bahasa Inggris untuk ISBB adalah?",
+      "explanation": "ISBB merupakan singkatan Indonesia dari Wet Bulb Globe Temperature Index (WBGT).",
+      "difficulty": "EASY",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. Wet Bulb Globe Temperature Index",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Wind Speed Globe Temperature",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Wet Bulb Global Thermometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Warm Bulb Globe Temperature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "ISBB merupakan hasil perhitungan dari kombinasi suhu apa saja?",
+      "explanation": "ISBB dihitung dari kombinasi suhu udara kering, suhu basah alami, dan suhu bola.",
+      "difficulty": "EASY",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. Suhu kering, suhu basah alami, dan suhu bola",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Suhu kering, suhu beku, dan suhu bola",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suhu basah alami, suhu radiasi, dan kelembaban",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu udara, kecepatan angin, dan kelembaban",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rumus ISBB untuk tempat kerja yang TERKENA radiasi sinar matahari secara langsung (luar ruangan) adalah?",
+      "explanation": "Untuk pengukuran di luar ruangan dengan radiasi matahari langsung, ISBB = 0,7 SBA + 0,2 SB + 0,1 SK.",
+      "difficulty": "MEDIUM",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. ISBB = 0,7 SBA + 0,3 SB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. ISBB = 0,7 SBA + 0,2 SB + 0,1 SK",
+          "isCorrect": true
+        },
+        {
+          "text": "C. ISBB = 0,7 SBA + 0,1 SB + 0,2 SK",
+          "isCorrect": false
+        },
+        {
+          "text": "D. ISBB = 0,3 SBA + 0,7 SB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rumus ISBB untuk tempat kerja TANPA pengaruh radiasi sinar matahari (dalam ruangan) adalah?",
+      "explanation": "Untuk pengukuran di dalam ruangan tanpa radiasi matahari, ISBB = 0,7 SBA + 0,3 SB (suhu kering tidak diperhitungkan).",
+      "difficulty": "MEDIUM",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. ISBB = 0,7 SBA + 0,3 SB",
+          "isCorrect": true
+        },
+        {
+          "text": "B. ISBB = 0,7 SBA + 0,2 SB + 0,1 SK",
+          "isCorrect": false
+        },
+        {
+          "text": "C. ISBB = 0,3 SBA + 0,7 SB",
+          "isCorrect": false
+        },
+        {
+          "text": "D. ISBB = 0,5 SBA + 0,5 SB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada rumus ISBB dalam ruangan (0,7 SBA + 0,3 SB), suhu manakah yang TIDAK diperhitungkan?",
+      "explanation": "Pada rumus dalam ruangan, suhu kering (SK) tidak diperhitungkan karena tidak ada radiasi sinar matahari langsung.",
+      "difficulty": "MEDIUM",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. Suhu basah alami",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Suhu bola",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suhu kering",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Semua suhu diperhitungkan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada kedua rumus ISBB (dalam dan luar ruangan), komponen suhu manakah yang memiliki bobot paling besar (0,7)?",
+      "explanation": "Suhu Basah Alami (SBA) selalu memiliki bobot terbesar yaitu 0,7 pada kedua rumus karena paling merepresentasikan kemampuan tubuh melepas panas lewat keringat.",
+      "difficulty": "MEDIUM",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. Suhu kering",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Suhu bola",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Suhu basah alami",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Suhu radiasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sebuah ruang kerja dalam gedung (tanpa radiasi matahari) memiliki Suhu Basah Alami 25 derajat C dan Suhu Bola 30 derajat C. Berapakah nilai ISBB-nya?",
+      "explanation": "ISBB dalam ruangan = 0,7 x 25 + 0,3 x 30 = 17,5 + 9 = 26,5 derajat C.",
+      "difficulty": "HARD",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. 26,5 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 27,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 28,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 25,5 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa pada pengukuran ISBB luar ruangan dimasukkan komponen suhu kering (SK), sedangkan dalam ruangan tidak?",
+      "explanation": "Suhu kering ditambahkan pada rumus luar ruangan untuk memperhitungkan pengaruh radiasi sinar matahari langsung yang tidak ada di dalam ruangan.",
+      "difficulty": "HARD",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. Karena di luar ruangan kelembaban lebih tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Untuk memperhitungkan pengaruh radiasi sinar matahari langsung",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena suhu bola tidak dapat diukur di luar ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena angin lebih kencang di luar ruangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa fungsi termometer suhu bola (globe thermometer) dalam pengukuran ISBB?",
+      "explanation": "Termometer suhu bola berfungsi sebagai indikator tingkat radiasi panas, dengan sensor dimasukkan dalam bola tembaga yang dicat hitam.",
+      "difficulty": "MEDIUM",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. Mengukur kelembaban udara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengukur kecepatan angin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sebagai indikator tingkat radiasi panas",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Mengukur suhu penguapan air",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suhu yang menggambarkan pengaruh penguapan dan kelembaban udara terhadap pendinginan tubuh adalah?",
+      "explanation": "Suhu Basah Alami (natural wet bulb temperature) menggambarkan suhu penguapan air dan paling merefleksikan kemampuan tubuh melepas panas melalui keringat.",
+      "difficulty": "MEDIUM",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. Suhu kering",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Suhu basah alami",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Suhu bola",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu radiasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, NAB ISBB untuk beban kerja SEDANG dengan waktu kerja 75%-100% per jam adalah?",
+      "explanation": "NAB ISBB untuk beban kerja sedang dengan 75%-100% waktu kerja adalah 28,0 derajat C.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. 31,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 29,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 28,0 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 27,5 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, NAB ISBB untuk beban kerja BERAT dengan waktu kerja 50%-75% per jam adalah?",
+      "explanation": "NAB ISBB untuk beban kerja berat dengan 50%-75% waktu kerja adalah 27,5 derajat C.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. 29,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 27,5 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 30,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 28,0 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel NAB ISBB Permenaker No. 5 Tahun 2018, untuk beban kerja RINGAN dengan waktu kerja 0%-25%, berapa NAB-nya?",
+      "explanation": "NAB ISBB untuk beban kerja ringan dengan 0%-25% waktu kerja adalah 32,5 derajat C, yang merupakan nilai tertinggi pada tabel.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. 31,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 32,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 32,5 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 30,0 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel NAB ISBB, mengapa kolom beban kerja BERAT dan SANGAT BERAT pada baris waktu kerja 75%-100% bernilai strip (-)?",
+      "explanation": "Tanda strip menunjukkan kombinasi tersebut tidak diperkenankan; beban kerja berat/sangat berat tidak boleh dilakukan terus-menerus 75%-100% setiap jam karena risiko panas terlalu tinggi.",
+      "difficulty": "HARD",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. Karena nilainya sama dengan beban ringan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena kombinasi tersebut tidak diperkenankan/tidak ditetapkan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena belum ada penelitiannya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena pengukuran tidak memungkinkan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Semakin BERAT beban kerja, bagaimana kecenderungan nilai NAB ISBB yang diperkenankan?",
+      "explanation": "Semakin berat beban kerja, semakin rendah NAB ISBB yang diperkenankan, karena tubuh sudah menghasilkan banyak panas metabolik sehingga toleransi terhadap panas lingkungan menurun.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. Semakin tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Semakin rendah",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tetap sama",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada hubungannya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Semakin BESAR persentase waktu kerja dalam satu jam (mendekati 75%-100%), bagaimana NAB ISBB yang diperkenankan?",
+      "explanation": "Semakin besar persentase waktu kerja (semakin sedikit istirahat), semakin rendah NAB ISBB yang diperkenankan untuk melindungi pekerja dari akumulasi panas.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. Semakin tinggi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Semakin rendah",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tetap",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berbanding lurus dengan suhu bola",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengaturan waktu kerja 50%-75% setiap jam pada tabel NAB ISBB artinya?",
+      "explanation": "Pengaturan 50%-75% berarti pekerja bekerja antara 50%-75% dari tiap jam dan sisanya istirahat; misal bekerja 30-45 menit dan istirahat 15-30 menit per jam.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. Bekerja 50%-75% dari setiap jam, sisanya istirahat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Bekerja 50%-75% dari total 8 jam shift",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Beban kerja 50%-75% dari kapasitas maksimal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suhu 50%-75% dari NAB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk beban kerja SEDANG dengan waktu kerja 25%-50%, NAB ISBB menurut Permenaker No. 5 Tahun 2018 adalah?",
+      "explanation": "NAB ISBB untuk beban kerja sedang dengan 25%-50% waktu kerja adalah 30,0 derajat C.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. 29,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 30,0 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 31,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 28,0 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Seorang pekerja melakukan aktivitas beban kerja sedang dengan pengaturan waktu kerja 50%-75%. Hasil pengukuran ISBB di lingkungan kerjanya adalah 31 derajat C. Apa kesimpulannya?",
+      "explanation": "NAB untuk beban sedang pada 50%-75% adalah 29,0 derajat C. Karena 31 derajat C lebih tinggi dari NAB 29 derajat C, pekerja terpajan melebihi NAB dan berisiko mengalami heat strain.",
+      "difficulty": "HARD",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. Masih di bawah NAB, aman",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Melebihi NAB (29 derajat C), berisiko heat strain",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tepat pada NAB, perlu dipantau saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak dapat disimpulkan tanpa data kelembaban",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alat ukur terintegrasi yang umum digunakan untuk mengukur tekanan panas di tempat kerja secara langsung disebut?",
+      "explanation": "Area Heat Stress Monitor (atau WBGT meter) adalah alat terintegrasi yang langsung menampilkan nilai ISBB dari kombinasi termometer suhu kering, basah alami, dan bola.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Sound Level Meter",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Area Heat Stress Monitor (WBGT meter)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Anemometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lux meter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tiga jenis termometer yang digunakan dalam pengukuran ISBB secara konvensional adalah?",
+      "explanation": "Pengukuran ISBB menggunakan termometer suhu kering, termometer suhu basah alami, dan termometer suhu bola.",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Termometer suhu kering, basah alami, dan bola",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Termometer raksa, alkohol, dan digital",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Termometer maksimum, minimum, dan rata-rata",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Termometer ruangan, badan, dan industri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Termometer suhu bola menggunakan bola tembaga dengan ciri khusus. Bola tembaga tersebut dicat warna apa?",
+      "explanation": "Bola tembaga pada termometer suhu bola dicat hitam agar dapat menyerap radiasi panas secara maksimal sebagai indikator tingkat radiasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Putih",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hitam",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Merah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Perak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berapa diameter bola tembaga pada termometer suhu bola menurut SNI 16-7061-2004?",
+      "explanation": "Diameter bola tembaga pada termometer suhu bola adalah 15 cm.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. 5 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 10 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 15 cm",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 25 cm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk menjaga termometer suhu basah alami tetap basah, digunakan kain kasa yang direndam dalam?",
+      "explanation": "Kain kasa putih pada termometer suhu basah alami direndam dengan air suling (aquades).",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Air keran biasa",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Air suling (aquades)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Alkohol",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Air garam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pengukuran ISBB, ketinggian lambung termometer dari lantai sebaiknya diatur pada?",
+      "explanation": "Lambung termometer diletakkan setinggi 1 meter sampai 1,25 meter dari lantai, mewakili posisi tubuh pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. 0,5 - 0,75 meter",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1 - 1,25 meter",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 1,5 - 1,75 meter",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 2 - 2,5 meter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SNI 16-7061-2004, alat pengukur ISBB harus dikalibrasi oleh laboratorium terakreditasi minimal?",
+      "explanation": "Alat ukur ISBB harus dikalibrasi minimal 1 tahun sekali oleh laboratorium yang terakreditasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. 6 bulan sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1 tahun sekali",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 2 tahun sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 5 tahun sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Satuan yang digunakan untuk menyatakan nilai ISBB adalah?",
+      "explanation": "Nilai ISBB dinyatakan dalam derajat Celsius (derajat C).",
+      "difficulty": "EASY",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. Watt",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Derajat Celsius",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lux",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pascal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Graduasi maksimal yang diperbolehkan untuk termometer pada pengukuran ISBB menurut SNI adalah?",
+      "explanation": "Graduasi (skala terkecil) termometer maksimal 0,5 derajat C agar pembacaan cukup teliti.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. 0,1 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 0,5 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 1,0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 2,0 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SNI 16-7061-2004, pengukuran ISBB dalam 8 jam kerja dilakukan sebanyak berapa kali?",
+      "explanation": "Pengukuran dilakukan 3 kali dalam 8 jam kerja, yaitu pada awal shift, pertengahan shift, dan akhir shift.",
+      "difficulty": "MEDIUM",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. 1 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 2 kali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 3 kali",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 5 kali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Termometer suhu bola perlu dipaparkan di titik pengukuran selama berapa lama menurut prosedur SNI?",
+      "explanation": "Termometer suhu bola dipaparkan selama 20-30 menit, lebih singkat dari termometer basah/kering yang 30-60 menit.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. 5-10 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 20-30 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 30-60 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 60-90 menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Termometer suhu kering dan basah alami dipaparkan di titik pengukuran selama?",
+      "explanation": "Termometer suhu kering dan basah alami dipaparkan selama 30-60 menit sebelum dibaca.",
+      "difficulty": "HARD",
+      "tag": "Alat Ukur & Satuan",
+      "options": [
+        {
+          "text": "A. 10-20 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 20-30 menit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 30-60 menit",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 60-90 menit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit akibat panas yang paling serius dan dapat menyebabkan kerusakan organ, koma, hingga kematian adalah?",
+      "explanation": "Heat stroke adalah kondisi paling serius dengan suhu tubuh di atas 40 derajat C, dapat menyebabkan kerusakan organ, koma, dan kematian jika tidak segera ditangani.",
+      "difficulty": "EASY",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Heat cramps",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Heat exhaustion",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Heat stroke",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Heat syncope",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada heat stroke, suhu tubuh dapat meningkat hingga melebihi?",
+      "explanation": "Pada heat stroke, suhu tubuh dapat melebihi 40 derajat C, sebuah kondisi yang mengancam jiwa.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. 37 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 38 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 39 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 40 derajat C",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Kram otot yang menyakitkan akibat kehilangan elektrolit melalui keringat disebut?",
+      "explanation": "Heat cramps (kram panas) adalah kram otot menyakitkan akibat kehilangan elektrolit melalui keringat, umumnya terjadi setelah aktivitas berat di lingkungan panas.",
+      "difficulty": "EASY",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Heat cramps",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Heat syncope",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Heat rash",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Heat stroke",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Gangguan akibat kehilangan air dan garam dalam jumlah besar yang ditandai kelelahan ekstrem, pusing, mual, dan kulit dingin disebut?",
+      "explanation": "Heat exhaustion (kelelahan panas) ditandai oleh kelelahan ekstrem, pusing, mual, dan kulit dingin akibat kehilangan air dan garam dalam jumlah besar.",
+      "difficulty": "EASY",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Heat stroke",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Heat exhaustion",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Heat cramps",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Miliaria",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pingsan akibat penurunan tekanan darah mendadak karena berdiri lama di bawah panas disebut?",
+      "explanation": "Heat syncope (pingsan karena panas) terjadi karena penurunan tekanan darah mendadak akibat vasodilatasi dan dehidrasi saat berdiri lama di lingkungan panas.",
+      "difficulty": "EASY",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Heat syncope",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Heat cramps",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Heat stroke",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Heat exhaustion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mekanisme utama yang mendasari terjadinya heat syncope adalah?",
+      "explanation": "Heat syncope terjadi akibat vasodilatasi (pelebaran pembuluh darah) dan dehidrasi yang menyebabkan penurunan tekanan darah mendadak.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Vasokonstriksi dan hipertensi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Vasodilatasi dan dehidrasi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Peningkatan elektrolit darah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hiperventilasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ruam kulit gatal karena saluran keringat tersumbat, sering terjadi pada daerah kulit yang tertutup, disebut?",
+      "explanation": "Heat rash atau miliaria (biang keringat) adalah ruam kulit gatal akibat saluran keringat yang tersumbat.",
+      "difficulty": "EASY",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Heat rash / miliaria",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Heat cramps",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Dehidrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Heat syncope",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kehilangan cairan tubuh berlebihan akibat keringat yang tidak digantikan dengan cukup disebut?",
+      "explanation": "Dehidrasi adalah kehilangan cairan tubuh berlebihan akibat keringat yang tidak digantikan, dapat menurunkan fungsi kognitif dan memperburuk heat stress.",
+      "difficulty": "EASY",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Dehidrasi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hiponatremia",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Heat rash",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Edema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kondisi kadar natrium darah rendah akibat minum air terlalu banyak tanpa mengganti elektrolit disebut?",
+      "explanation": "Hiponatremia adalah kondisi natrium rendah yang terjadi akibat rehidrasi hanya dengan air putih tanpa mengganti elektrolit (garam).",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Dehidrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hiponatremia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hipernatremia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hipotermia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada pekerja luar ruang di iklim tropis, dehidrasi kronis berulang dapat menyebabkan kerusakan organ jangka panjang yaitu?",
+      "explanation": "Dehidrasi kronis berulang pada pekerja luar ruang dapat menyebabkan kerusakan ginjal akibat panas (heat-induced kidney injury).",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Kerusakan hati",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kerusakan ginjal",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kerusakan paru",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kerusakan limpa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah pekerjaan berikut yang termasuk berisiko TINGGI terkena heat stress?",
+      "explanation": "Tukang las di pabrik baja, pekerja konstruksi luar ruang, petani, pekerja boiler/dapur logam, dan pemadam kebakaran termasuk pekerjaan berisiko tinggi heat stress.",
+      "difficulty": "EASY",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Operator komputer ber-AC",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tukang las di pabrik baja",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pustakawan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kasir supermarket",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Urutan tingkat keparahan penyakit panas dari yang paling ringan ke paling berat yang tepat adalah?",
+      "explanation": "Heat cramps relatif ringan, heat exhaustion lebih berat, dan heat stroke adalah yang paling parah dan mengancam jiwa.",
+      "difficulty": "HARD",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Heat stroke - heat exhaustion - heat cramps",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Heat cramps - heat exhaustion - heat stroke",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Heat exhaustion - heat cramps - heat stroke",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Heat cramps - heat stroke - heat exhaustion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa rehidrasi pekerja di lingkungan panas sebaiknya tidak hanya dengan air putih saja?",
+      "explanation": "Rehidrasi hanya dengan air putih tanpa mengganti elektrolit berisiko menyebabkan hiponatremia (kadar natrium darah rendah).",
+      "difficulty": "HARD",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Karena air putih menyebabkan dehidrasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena berisiko menyebabkan hiponatremia",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena air putih meningkatkan suhu tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena air putih menyebabkan kram",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan aklimatisasi dalam konteks kerja di lingkungan panas?",
+      "explanation": "Aklimatisasi adalah proses adaptasi fisiologis tubuh secara bertahap terhadap lingkungan panas sehingga pekerja lebih tahan terhadap tekanan panas.",
+      "difficulty": "EASY",
+      "tag": "Aklimatisasi",
+      "options": [
+        {
+          "text": "A. Proses adaptasi fisiologis tubuh secara bertahap terhadap panas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pemberian obat anti panas pada pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pemasangan AC di tempat kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Proses pendinginan ruangan kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu manfaat aklimatisasi bagi pekerja di lingkungan panas adalah?",
+      "explanation": "Aklimatisasi meningkatkan kapasitas berkeringat lebih awal dan lebih banyak, menurunkan kadar garam dalam keringat, serta menurunkan denyut jantung dan suhu inti, sehingga toleransi panas meningkat.",
+      "difficulty": "EASY",
+      "tag": "Aklimatisasi",
+      "options": [
+        {
+          "text": "A. Meningkatkan toleransi tubuh terhadap panas",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menurunkan kemampuan berkeringat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Meningkatkan suhu inti tubuh secara permanen",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghilangkan kebutuhan minum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerja yang BELUM teraklimatisasi terhadap panas memiliki risiko?",
+      "explanation": "Pekerja yang belum teraklimatisasi memiliki risiko lebih tinggi mengalami penyakit panas karena tubuhnya belum beradaptasi secara fisiologis.",
+      "difficulty": "EASY",
+      "tag": "Aklimatisasi",
+      "options": [
+        {
+          "text": "A. Lebih rendah mengalami penyakit panas",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lebih tinggi mengalami penyakit panas",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sama dengan pekerja teraklimatisasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada risiko sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Aklimatisasi terhadap panas pada umumnya dapat dicapai secara bertahap dalam waktu sekitar?",
+      "explanation": "Aklimatisasi panas umumnya dicapai secara bertahap dalam waktu sekitar 1-2 minggu (7-14 hari) dengan peningkatan paparan panas secara progresif.",
+      "difficulty": "MEDIUM",
+      "tag": "Aklimatisasi",
+      "options": [
+        {
+          "text": "A. Beberapa jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 1-2 minggu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 3-6 bulan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 1 tahun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu perubahan fisiologis hasil aklimatisasi panas adalah keringat menjadi?",
+      "explanation": "Setelah aklimatisasi, tubuh berkeringat lebih dini dan lebih banyak namun dengan kandungan garam (natrium) yang lebih rendah, sehingga lebih efisien mendinginkan tubuh dan menghemat elektrolit.",
+      "difficulty": "HARD",
+      "tag": "Aklimatisasi",
+      "options": [
+        {
+          "text": "A. Lebih sedikit dan lebih asin",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lebih banyak dengan kadar garam lebih rendah",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Berhenti total",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lebih kental",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa pekerja baru atau pekerja yang kembali setelah libur panjang perlu program aklimatisasi bertahap?",
+      "explanation": "Pekerja baru atau yang kembali setelah absen lama kehilangan adaptasi panasnya, sehingga perlu aklimatisasi bertahap agar tubuh kembali beradaptasi dan tidak langsung terpapar beban panas penuh.",
+      "difficulty": "HARD",
+      "tag": "Aklimatisasi",
+      "options": [
+        {
+          "text": "A. Karena mereka pasti lebih lemah",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena adaptasi panas hilang dan perlu dibangun kembali bertahap",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena peraturan administratif saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena mereka belum digaji penuh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SNI 7269:2009, kerja RINGAN membutuhkan pengeluaran energi sebesar?",
+      "explanation": "Menurut SNI 7269:2009, kerja ringan membutuhkan kalori untuk pengeluaran energi sebesar 100 sampai 200 kkal per jam.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. 100-200 kkal per jam",
+          "isCorrect": true
+        },
+        {
+          "text": "B. 200-350 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 350-500 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. lebih dari 500 kkal per jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SNI 7269:2009, kerja SEDANG membutuhkan pengeluaran energi sebesar?",
+      "explanation": "Kerja sedang membutuhkan kalori untuk pengeluaran energi lebih besar dari 200 kkal per jam sampai 350 kkal per jam.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. 100-200 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. lebih dari 200-350 kkal per jam",
+          "isCorrect": true
+        },
+        {
+          "text": "C. lebih dari 350-500 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. lebih dari 500 kkal per jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SNI 7269:2009, kerja BERAT membutuhkan pengeluaran energi sebesar?",
+      "explanation": "Kerja berat membutuhkan kalori untuk pengeluaran energi lebih besar dari 350 kkal per jam sampai 500 kkal per jam.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. 100-200 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 200-350 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. lebih dari 350-500 kkal per jam",
+          "isCorrect": true
+        },
+        {
+          "text": "D. lebih dari 500 kkal per jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "SNI 7269:2009 mengatur tentang?",
+      "explanation": "SNI 7269:2009 mengatur penilaian beban kerja berdasarkan tingkat kebutuhan kalori menurut pengeluaran energi.",
+      "difficulty": "EASY",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. Pengukuran iklim kerja panas dengan ISBB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Penilaian beban kerja berdasarkan kebutuhan kalori/pengeluaran energi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. NAB kebisingan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pencahayaan tempat kerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan metabolisme basal (MB)?",
+      "explanation": "Metabolisme basal adalah energi minimal yang diperlukan tubuh untuk mempertahankan proses-proses hidup yang dasar, dalam satuan kalori per satuan waktu.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. Energi maksimal saat bekerja berat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Energi minimal untuk mempertahankan proses hidup dasar",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Total energi makanan harian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Energi yang hilang lewat keringat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SNI 7269:2009, rumus metabolisme basal untuk laki-laki adalah?",
+      "explanation": "MB untuk laki-laki = berat badan dalam kg dikali 1 kkal per jam.",
+      "difficulty": "EASY",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. Berat badan (kg) x 1 kkal per jam",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Berat badan (kg) x 0,9 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Berat badan (kg) x 1,2 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berat badan (kg) x 2 kkal per jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SNI 7269:2009, rumus metabolisme basal untuk wanita adalah?",
+      "explanation": "MB untuk wanita = berat badan dalam kg dikali 0,9 kkal per jam.",
+      "difficulty": "EASY",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. Berat badan (kg) x 1 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Berat badan (kg) x 0,9 kkal per jam",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Berat badan (kg) x 0,8 kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Berat badan (kg) x 1,1 kkal per jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Peralatan yang digunakan dalam penilaian beban kerja menurut SNI 7269:2009 adalah?",
+      "explanation": "Peralatan penilaian beban kerja menurut SNI 7269:2009 adalah stopwatch dan timbangan berat badan.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. Termometer dan barometer",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Stopwatch dan timbangan berat badan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lux meter dan anemometer",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sound level meter dan stopwatch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Selain berdasarkan kalori (SNI 7269), penilaian beban kerja juga dapat dilakukan menggunakan?",
+      "explanation": "Penilaian beban kerja juga dapat menggunakan laju metabolik (metabolic rate) dalam satuan Watt, sebagaimana diatur pada Permenkes No. 70 Tahun 2016.",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. Laju metabolik (dalam satuan Watt)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tingkat kebisingan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Intensitas cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kecepatan angin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenkes No. 70 Tahun 2016, kategori laju metabolik untuk aktivitas RINGAN memiliki nilai estimasi sekitar?",
+      "explanation": "Kategori laju metabolik ringan memiliki nilai estimasi 180 W (kisaran 125-235 W), contohnya duduk sambil melakukan pekerjaan ringan dengan tangan.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. 115 W",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 180 W",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 300 W",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 415 W",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenkes No. 70 Tahun 2016, kategori laju metabolik untuk aktivitas SEDANG memiliki nilai estimasi sekitar?",
+      "explanation": "Kategori laju metabolik sedang memiliki nilai estimasi 300 W (kisaran 235-360 W), contohnya pekerjaan dengan tangan dan lengan atau mendorong/menarik beban ringan.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. 180 W",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 300 W",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 415 W",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 520 W",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Estimasi laju metabolik pada Tabel Permenkes No. 70 Tahun 2016 dihitung menggunakan standar berat badan?",
+      "explanation": "Estimasi laju metabolik dihitung menggunakan standar berat badan 70 kg; untuk berat lain dikalikan rasio berat aktual dibanding 70 kg.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. 50 kg",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 60 kg",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 70 kg",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 75 kg",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nilai laju metabolik mengacu pada standar internasional, yaitu?",
+      "explanation": "Nilai kisaran laju metabolik pada Permenkes No. 70 Tahun 2016 mengacu pada ISO 8996 Tahun 2004.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. ISO 9001:2015",
+          "isCorrect": false
+        },
+        {
+          "text": "B. ISO 8996 Tahun 2004",
+          "isCorrect": true
+        },
+        {
+          "text": "C. ISO 14001",
+          "isCorrect": false
+        },
+        {
+          "text": "D. ISO 45001",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Strategi pengendalian tekanan panas yang berupa pengaturan rotasi kerja-istirahat (work-rest regimen) termasuk pengendalian jenis?",
+      "explanation": "Pengaturan jadwal kerja-istirahat (work-rest regimen) termasuk pengendalian administratif karena mengatur aspek manajemen dan organisasi kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Eliminasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Rekayasa teknik (engineering)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Administratif",
+          "isCorrect": true
+        },
+        {
+          "text": "D. APD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemasangan ventilasi, exhaust fan, atau sistem pendingin untuk menurunkan suhu lingkungan kerja termasuk pengendalian jenis?",
+      "explanation": "Pemasangan ventilasi, exhaust, AC, atau sistem pendingin termasuk pengendalian rekayasa teknik (engineering control) karena memodifikasi sumber/lingkungan.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Administratif",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Rekayasa teknik (engineering)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. APD",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Substitusi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemberian pakaian pendingin (cooling vest) atau pelindung dari radiasi panas kepada pekerja termasuk pengendalian jenis?",
+      "explanation": "Pemberian cooling vest atau pakaian pelindung panas termasuk Alat Pelindung Diri (APD), yang merupakan pengendalian pada level terakhir hierarki.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Rekayasa teknik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Administratif",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Alat Pelindung Diri (APD)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Eliminasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut hierarki pengendalian, manakah pengendalian tekanan panas yang paling DIUTAMAKAN (efektif)?",
+      "explanation": "Hierarki pengendalian mengutamakan eliminasi/rekayasa teknik di atas administratif dan APD; rekayasa teknik (mis. menurunkan suhu sumber) lebih efektif daripada APD.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Pemberian APD",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Rekayasa teknik (engineering)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pengaturan jadwal istirahat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pelatihan pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyediaan air minum dan stasiun rehidrasi dengan elektrolit di area kerja panas termasuk pengendalian?",
+      "explanation": "Penyediaan air minum dan rehidrasi elektrolit termasuk pengendalian administratif sebagai bagian dari program manajemen tekanan panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Rekayasa teknik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Administratif",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Eliminasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Substitusi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengaturan work-rest regimen (waktu kerja-istirahat) bertujuan utama untuk?",
+      "explanation": "Work-rest regimen bertujuan memberi waktu tubuh memulihkan diri dari beban panas dan mencegah akumulasi panas inti tubuh yang berlebihan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Meningkatkan produksi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Memberi waktu pemulihan dan mencegah akumulasi panas tubuh",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menghemat biaya listrik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi jumlah pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pelatihan pengenalan gejala penyakit panas dan prosedur pertolongan pertama bagi pekerja termasuk pengendalian?",
+      "explanation": "Pelatihan dan edukasi pekerja termasuk pengendalian administratif karena bersifat manajerial dan tidak mengubah lingkungan fisik.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Rekayasa teknik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Administratif",
+          "isCorrect": true
+        },
+        {
+          "text": "C. APD",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Substitusi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Permenaker RI No. 5 Tahun 2018 mengatur tentang?",
+      "explanation": "Permenaker RI No. 5 Tahun 2018 mengatur tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja, termasuk NAB iklim kerja panas.",
+      "difficulty": "EASY",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Jaminan sosial tenaga kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pengupahan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sistem manajemen K3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, definisi iklim kerja meliputi tekanan?",
+      "explanation": "Iklim kerja menurut Permenaker No. 5 Tahun 2018 meliputi tekanan panas dan dingin sebagai akibat pekerjaan.",
+      "difficulty": "EASY",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Hanya tekanan panas",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hanya tekanan dingin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tekanan panas dan dingin",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Tekanan udara dan suara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenaker No. 5 Tahun 2018, tekanan dingin yang dapat mengakibatkan hipotermia didefinisikan sebagai suhu tubuh di bawah?",
+      "explanation": "Tekanan dingin mengakibatkan hipotermia, yaitu suhu tubuh di bawah 36 derajat Celsius menurut Permenaker No. 5 Tahun 2018.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. 35 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 36 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "C. 37 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. 34 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "SNI 16-7061-2004 mengatur tentang?",
+      "explanation": "SNI 16-7061-2004 mengatur cara pengukuran iklim kerja (panas) dengan parameter indeks suhu basah dan bola (ISBB).",
+      "difficulty": "EASY",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Pengukuran iklim kerja panas dengan parameter ISBB",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penilaian beban kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. NAB pencahayaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengukuran kebisingan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Permenkes No. 70 Tahun 2016 mengatur tentang?",
+      "explanation": "Permenkes No. 70 Tahun 2016 mengatur Standar dan Persyaratan Kesehatan Lingkungan Kerja Industri, termasuk penilaian beban kerja berdasarkan laju metabolik.",
+      "difficulty": "EASY",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Standar dan Persyaratan Kesehatan Lingkungan Kerja Industri",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengupahan tenaga kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sistem jaminan kesehatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. NAB kebisingan industri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenkes No. 70 Tahun 2016, NAB iklim lingkungan kerja ditentukan berdasarkan?",
+      "explanation": "NAB iklim lingkungan kerja ditentukan berdasarkan alokasi waktu kerja dan istirahat dalam satu siklus kerja (8 jam per hari) serta rata-rata laju metabolik pekerja.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Hanya suhu lingkungan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Alokasi waktu kerja-istirahat dan rata-rata laju metabolik pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Jumlah pekerja di ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tingkat kelembaban saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut Permenkes No. 70 Tahun 2016, hasil pengukuran iklim lingkungan kerja harus dikoreksi dengan?",
+      "explanation": "Hasil pengukuran ISBB harus dikoreksi dengan nilai koreksi pakaian kerja sebelum dibandingkan dengan NAB.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Nilai koreksi pakaian kerja",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Nilai koreksi ketinggian lokasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Nilai koreksi jumlah pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Nilai koreksi waktu pengukuran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut tabel nilai koreksi pakaian kerja (Permenkes No. 70 Tahun 2016), pakaian kerja dua lapis menambahkan koreksi ISBB sebesar?",
+      "explanation": "Pakaian kerja dua lapis menambahkan nilai koreksi +3 derajat C pada hasil pengukuran ISBB.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. 0 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. +0,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. +3 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "D. +11 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut tabel koreksi pakaian (Permenkes No. 70 Tahun 2016), coveralls anti uap (penggunaan terbatas) menambahkan koreksi ISBB sebesar?",
+      "explanation": "Coveralls anti uap (penggunaan terbatas) memiliki nilai koreksi paling besar yaitu +11 derajat C karena sangat menghambat penguapan keringat.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. +1 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. +3 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. +5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. +11 derajat C",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Menurut tabel koreksi pakaian (Permenkes No. 70 Tahun 2016), pakaian kerja biasa (kemeja dan celana panjang) memiliki nilai koreksi?",
+      "explanation": "Pakaian kerja biasa (kemeja dan celana panjang) memiliki nilai koreksi 0 (tidak ada tambahan).",
+      "difficulty": "MEDIUM",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. 0 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "B. +0,5 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. +1 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "D. +3 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Seorang pekerja terpapar ISBB hasil pengukuran 30 derajat C dan mengenakan pakaian kerja dua lapis (koreksi +3). Berapa nilai ISBB terkoreksi yang dibandingkan dengan NAB?",
+      "explanation": "ISBB terkoreksi = 30 derajat C + 3 derajat C = 33 derajat C. Nilai inilah yang dibandingkan dengan NAB.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. 27 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "B. 30 derajat C",
+          "isCorrect": false
+        },
+        {
+          "text": "C. 33 derajat C",
+          "isCorrect": true
+        },
+        {
+          "text": "D. 41 derajat C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pekerja melakukan aktivitas menarik beban ringan (laju metabolik sedang, 300 W), waktu kerja 50%-75%, pakaian dua lapis, ISBB terukur 30 derajat C. NAB untuk kondisi ini 29 derajat C. Apa kesimpulannya?",
+      "explanation": "ISBB terkoreksi = 30 + 3 = 33 derajat C. Karena 33 derajat C melebihi NAB 29 derajat C, pekerja terpajan melebihi NAB dan berpotensi mengalami heat strain.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Aman, di bawah NAB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. ISBB terkoreksi 33 derajat C melebihi NAB 29 derajat C, berisiko heat strain",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tepat di NAB, aman",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak dapat dinilai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa nilai koreksi pakaian kerja perlu ditambahkan pada hasil pengukuran ISBB?",
+      "explanation": "Pakaian kerja tertentu menghambat penguapan keringat dan pelepasan panas tubuh, sehingga beban panas efektif yang diterima pekerja lebih tinggi dari ISBB lingkungan; koreksi mencerminkan beban panas sebenarnya.",
+      "difficulty": "HARD",
+      "tag": "Regulasi",
+      "options": [
+        {
+          "text": "A. Karena pakaian menaikkan suhu lingkungan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena pakaian menghambat pelepasan panas tubuh sehingga beban panas efektif lebih tinggi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena pakaian menambah berat pekerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena alat ukur tertutup pakaian",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SNI 7269:2009 contoh kasus, pekerja laki-laki 28 tahun, BB 64 kg yang melakukan kombinasi menempa besi, mengemas, dan membawa beban, dikategorikan beban kerja?",
+      "explanation": "Berdasarkan contoh SNI 7269:2009, hasil perhitungan kombinasi aktivitas tersebut termasuk kategori beban kerja SEDANG.",
+      "difficulty": "HARD",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. Ringan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sedang",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Berat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sangat berat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suhu basah alami (natural wet bulb temperature) memiliki nilai yang umumnya?",
+      "explanation": "Suhu basah alami lebih rendah daripada suhu kering karena terjadi pendinginan akibat penguapan air pada kain kasa termometer.",
+      "difficulty": "MEDIUM",
+      "tag": "ISBB/WBGT & Formula",
+      "options": [
+        {
+          "text": "A. Lebih tinggi dari suhu kering",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lebih rendah dari suhu kering",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sama dengan suhu bola",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Selalu nol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa pekerja dengan beban kerja berat lebih cepat terkena tekanan panas dibanding beban kerja ringan pada suhu lingkungan sama?",
+      "explanation": "Beban kerja berat menghasilkan lebih banyak panas metabolik internal, menambah beban panas total tubuh, sehingga lebih cepat melampaui batas toleransi panas.",
+      "difficulty": "HARD",
+      "tag": "Konsep Tekanan Panas & Termoregulasi",
+      "options": [
+        {
+          "text": "A. Karena mereka memakai pakaian lebih tebal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena menghasilkan lebih banyak panas metabolik internal",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena bekerja lebih lama",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena minum lebih sedikit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah urutan hierarki pengendalian tekanan panas dari yang paling utama ke paling akhir?",
+      "explanation": "Hierarki pengendalian: rekayasa teknik (engineering) lebih utama, lalu administratif, dan terakhir APD sebagai pelindung terakhir.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. APD - administratif - rekayasa teknik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Rekayasa teknik - administratif - APD",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Administratif - APD - rekayasa teknik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. APD - rekayasa teknik - administratif",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara heat exhaustion dan heat stroke pada produksi keringat adalah?",
+      "explanation": "Pada heat exhaustion masih ada keringat (kulit lembap), sedangkan pada heat stroke mekanisme keringat sering gagal sehingga kulit menjadi kering dan panas, menandakan kondisi gawat darurat.",
+      "difficulty": "HARD",
+      "tag": "Penyakit Akibat Panas",
+      "options": [
+        {
+          "text": "A. Keduanya tidak berkeringat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Heat exhaustion masih berkeringat, heat stroke sering berhenti berkeringat",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Keduanya berkeringat sangat banyak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Heat stroke lebih banyak keringat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama penetapan NAB ISBB pada Permenaker No. 5 Tahun 2018 adalah?",
+      "explanation": "NAB ISBB ditetapkan untuk melindungi kesehatan pekerja dari risiko tekanan panas berlebih dengan menetapkan batas pajanan iklim kerja yang aman.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. Menaikkan produktivitas semata",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Melindungi pekerja dari risiko tekanan panas berlebih",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menghemat energi pabrik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menentukan upah pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Aklimatisasi termasuk dalam jenis pengendalian tekanan panas berbasis?",
+      "explanation": "Program aklimatisasi merupakan bagian pengendalian administratif karena mengatur cara dan jadwal pekerja beradaptasi sebelum bekerja penuh di lingkungan panas.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        {
+          "text": "A. Rekayasa teknik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Administratif",
+          "isCorrect": true
+        },
+        {
+          "text": "C. APD",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Eliminasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah satuan yang TEPAT untuk laju metabolik pada Permenkes No. 70 Tahun 2016?",
+      "explanation": "Laju metabolik pada Permenkes No. 70 Tahun 2016 dinyatakan dalam satuan Watt (W).",
+      "difficulty": "MEDIUM",
+      "tag": "Beban Kerja Metabolik & SNI 7269",
+      "options": [
+        {
+          "text": "A. kkal per jam",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Watt (W)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Derajat Celsius",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang BENAR tentang hubungan ISBB dan NAB?",
+      "explanation": "Pekerja dianggap terpajan melebihi batas aman jika nilai ISBB terukur (terkoreksi) lebih besar dari NAB ISBB untuk kombinasi beban kerja dan waktu kerjanya.",
+      "difficulty": "MEDIUM",
+      "tag": "NAB & Angka per Beban Kerja",
+      "options": [
+        {
+          "text": "A. Pekerja aman jika ISBB melebihi NAB",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pekerja terpajan berlebih jika ISBB melebihi NAB",
+          "isCorrect": true
+        },
+        {
+          "text": "C. NAB selalu lebih kecil dari nol",
+          "isCorrect": false
+        },
+        {
+          "text": "D. ISBB dan NAB tidak berhubungan",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Apa itu termoregulasi?",
+      "back": "Keseimbangan antara kehilangan panas dan produksi panas tubuh untuk menjaga suhu inti tetap stabil. Suhu normal 36,5-37,5 derajat C.",
+      "tag": "Konsep Tekanan Panas & Termoregulasi"
+    },
+    {
+      "front": "Apa kepanjangan ISBB dan padanan Inggrisnya?",
+      "back": "ISBB = Indeks Suhu Basah dan Bola, padanan Inggris: Wet Bulb Globe Temperature Index (WBGT).",
+      "tag": "ISBB/WBGT & Formula"
+    },
+    {
+      "front": "Rumus ISBB dalam ruangan (tanpa radiasi matahari)",
+      "back": "ISBB = 0,7 SBA + 0,3 SB. Suhu kering (SK) tidak diperhitungkan.",
+      "tag": "ISBB/WBGT & Formula"
+    },
+    {
+      "front": "Rumus ISBB luar ruangan (terkena radiasi matahari)",
+      "back": "ISBB = 0,7 SBA + 0,2 SB + 0,1 SK. Suhu kering ditambahkan untuk faktor radiasi matahari.",
+      "tag": "ISBB/WBGT & Formula"
+    },
+    {
+      "front": "NAB ISBB beban ringan vs berat (Permenaker No. 5 Tahun 2018)",
+      "back": "Semakin berat beban kerja dan semakin lama waktu kerja, semakin RENDAH NAB. Contoh 75-100%: ringan 31,0; sedang 28,0 derajat C.",
+      "tag": "NAB & Angka per Beban Kerja"
+    },
+    {
+      "front": "NAB ISBB beban sedang per pengaturan waktu kerja",
+      "back": "75-100%: 28,0; 50-75%: 29,0; 25-50%: 30,0; 0-25%: 31,5 derajat C.",
+      "tag": "NAB & Angka per Beban Kerja"
+    },
+    {
+      "front": "Tiga termometer pengukuran ISBB",
+      "back": "Termometer suhu kering, suhu basah alami (kain kasa direndam air suling), dan suhu bola (bola tembaga dicat hitam diameter 15 cm).",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Alat ukur tekanan panas terintegrasi",
+      "back": "Area Heat Stress Monitor (WBGT meter). Kalibrasi minimal 1 tahun sekali oleh lab terakreditasi. Satuan ISBB: derajat Celsius.",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Penyakit panas paling serius",
+      "back": "Heat stroke: suhu tubuh > 40 derajat C, dapat menyebabkan kerusakan organ, koma, kematian. Kegawatdaruratan medis.",
+      "tag": "Penyakit Akibat Panas"
+    },
+    {
+      "front": "Heat cramps vs heat exhaustion vs heat syncope",
+      "back": "Heat cramps = kram otot akibat hilang elektrolit; heat exhaustion = kelelahan, pusing, mual, kulit dingin lembap; heat syncope = pingsan akibat vasodilatasi dan dehidrasi.",
+      "tag": "Penyakit Akibat Panas"
+    },
+    {
+      "front": "Miliaria dan hiponatremia",
+      "back": "Miliaria (heat rash) = ruam gatal karena saluran keringat tersumbat. Hiponatremia = natrium darah rendah akibat rehidrasi hanya air putih tanpa elektrolit.",
+      "tag": "Penyakit Akibat Panas"
+    },
+    {
+      "front": "Apa itu aklimatisasi panas?",
+      "back": "Adaptasi fisiologis bertahap tubuh terhadap panas (sekitar 1-2 minggu). Hasil: keringat lebih dini & banyak dengan kadar garam lebih rendah, denyut jantung & suhu inti turun.",
+      "tag": "Aklimatisasi"
+    },
+    {
+      "front": "Kategori beban kerja SNI 7269:2009 (kkal/jam)",
+      "back": "Ringan: 100-200; Sedang: >200-350; Berat: >350-500 kkal/jam. Alat: stopwatch + timbangan.",
+      "tag": "Beban Kerja Metabolik & SNI 7269"
+    },
+    {
+      "front": "Rumus metabolisme basal (MB) SNI 7269:2009",
+      "back": "Laki-laki = BB(kg) x 1 kkal/jam; Wanita = BB(kg) x 0,9 kkal/jam.",
+      "tag": "Beban Kerja Metabolik & SNI 7269"
+    },
+    {
+      "front": "Laju metabolik (Permenkes No. 70 Tahun 2016, Watt)",
+      "back": "Istirahat 115 W; Ringan 180 W; Sedang 300 W; Berat 415 W; Sangat berat 520 W. Standar BB 70 kg, mengacu ISO 8996:2004.",
+      "tag": "Beban Kerja Metabolik & SNI 7269"
+    },
+    {
+      "front": "Nilai koreksi pakaian kerja (Permenkes No. 70 Tahun 2016)",
+      "back": "Pakaian biasa/coveralls 0; SMS polypropylene +0,5; polyolefin +1; dua lapis +3; coveralls anti uap +11 derajat C. Ditambahkan ke ISBB sebelum dibanding NAB.",
+      "tag": "Regulasi"
+    },
+    {
+      "front": "Hierarki pengendalian tekanan panas",
+      "back": "1) Rekayasa teknik (ventilasi, AC, heat shield) > 2) Administratif (work-rest regimen, aklimatisasi, rehidrasi, pelatihan) > 3) APD (cooling vest).",
+      "tag": "Pengendalian"
+    },
+    {
+      "front": "Regulasi utama iklim kerja panas",
+      "back": "Permenaker No. 5 Tahun 2018 (K3 Lingkungan Kerja, NAB ISBB); SNI 16-7061-2004 (pengukuran ISBB); SNI 7269:2009 (beban kerja kalori); Permenkes No. 70 Tahun 2016 (laju metabolik).",
+      "tag": "Regulasi"
+    },
+    {
+      "front": "Work-rest regimen",
+      "back": "Pengaturan rasio waktu kerja-istirahat tiap jam (75-100%, 50-75%, 25-50%, 0-25%). Tujuan: memberi pemulihan dan mencegah akumulasi panas tubuh.",
+      "tag": "Pengendalian"
+    },
+    {
+      "front": "Heat stress vs heat strain",
+      "back": "Heat stress = tekanan/beban panas total yang diterima tubuh dari lingkungan kerja. Heat strain = respons/regangan fisiologis tubuh (denyut jantung & suhu inti naik) akibat heat stress.",
+      "tag": "Konsep Tekanan Panas & Termoregulasi"
+    },
+    {
+      "front": "Empat faktor pembentuk iklim kerja panas",
+      "back": "Suhu (udara/kering), kelembaban udara, kecepatan gerakan udara, dan panas radiasi (Permenaker No. 5 Tahun 2018).",
+      "tag": "Konsep Tekanan Panas & Termoregulasi"
+    },
+    {
+      "front": "Klasifikasi hipotermia menurut suhu tubuh",
+      "back": "Suhu < 36,5 derajat C. Ringan: 36,0-36,4; Sedang: 32-35,9; Berat: < 32 derajat C. Hipertermia = suhu > 37,5 derajat C (fokus iklim kerja panas).",
+      "tag": "Konsep Tekanan Panas & Termoregulasi"
+    },
+    {
+      "front": "Mekanisme pelepasan panas tubuh paling dominan di lingkungan panas",
+      "back": "Evaporasi (penguapan keringat), karena konduksi, konveksi, dan radiasi kurang efektif saat suhu lingkungan tinggi mendekati/melebihi suhu tubuh.",
+      "tag": "Konsep Tekanan Panas & Termoregulasi"
+    },
+    {
+      "front": "Tiga parameter suhu penyusun ISBB (SBA, SK, SB)",
+      "back": "SBA (Suhu Basah Alami) = suhu penguapan air, selalu terendah. SK (Suhu Kering) = suhu udara (dry bulb). SB (Suhu Bola) = indikator radiasi, sensor di bola tembaga hitam.",
+      "tag": "ISBB/WBGT & Formula"
+    },
+    {
+      "front": "Tabel NAB ISBB beban RINGAN per pengaturan waktu kerja",
+      "back": "75-100%: 31,0; 50-75%: 31,0; 25-50%: 32,0; 0-25%: 32,5 derajat C (Permenaker No. 5 Tahun 2018).",
+      "tag": "NAB & Angka per Beban Kerja"
+    },
+    {
+      "front": "Tabel NAB ISBB beban BERAT & SANGAT BERAT per waktu kerja",
+      "back": "Berat - 50-75%: 27,5; 25-50%: 29,0; 0-25%: 30,5. Sangat berat - 25-50%: 28,0; 0-25%: 30,0 derajat C. Beban berat/sangat berat tidak diperkenankan pada 75-100% (strip).",
+      "tag": "NAB & Angka per Beban Kerja"
+    },
+    {
+      "front": "Perlengkapan pendukung pengukuran ISBB",
+      "back": "Erlenmeyer 125 ml berisi air suling, kain kasa, bola tembaga (diameter 15 cm, dicat hitam), statif, dan tripot (SNI 16-7061-2004).",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Lama pemaparan tiap termometer ISBB",
+      "back": "Suhu basah alami: 30-60 menit; suhu kering: 30-60 menit; suhu bola: 20-30 menit. Jarak lambung termometer basah ke air 1 inci.",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Tinggi, titik, dan frekuensi pengukuran ISBB",
+      "back": "Lambung termometer setinggi 1-1,25 m dari lantai di lokasi kerja. Diukur 3 kali dalam 8 jam kerja: awal, pertengahan, dan akhir shift.",
+      "tag": "Alat Ukur & Satuan"
+    },
+    {
+      "front": "Contoh kasus koreksi pakaian terhadap NAB",
+      "back": "Pekerja kerja sedang (laju 300 W), waktu kerja 50-75%, pakaian dua lapis (+3), ISBB ukur 30 derajat C. ISBB koreksi = 30 + 3 = 33; NAB = 29. Karena 33 > 29, melebihi NAB, berisiko heat strain.",
+      "tag": "NAB & Angka per Beban Kerja"
+    },
+    {
+      "front": "Gangguan kronis & kinerja akibat panas",
+      "back": "Kerusakan ginjal (heat-induced kidney injury) akibat dehidrasi kronis berulang pada pekerja luar ruang, serta penurunan kognitif: konsentrasi, keputusan lambat, kesalahan kerja meningkat.",
+      "tag": "Penyakit Akibat Panas"
+    },
+    {
+      "front": "Pekerjaan berisiko tinggi heat stress",
+      "back": "Pekerja konstruksi luar ruang, tukang las di pabrik baja, petani/buruh perkebunan, pekerja pabrik suhu tinggi (boiler, dapur logam), dan pemadam kebakaran.",
+      "tag": "Penyakit Akibat Panas"
+    },
+    {
+      "front": "Prosedur penilaian beban kerja (SNI 7269:2009)",
+      "back": "Pakai stopwatch + timbangan. Ukur berat badan, lalu amati aktivitas (jenis kerja & posisi badan) minimal 4 jam/hari, ambil rerata tiap jam, dinilai dengan Lampiran A.",
+      "tag": "Beban Kerja Metabolik & SNI 7269"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Iklim Kerja Panas",
+      "color": "#6366f1",
+      "parent": null,
+      "content": "Hasil perpaduan antara suhu, kelembaban, kecepatan gerakan udara, dan panas radiasi dengan tingkat pengeluaran panas tubuh akibat pekerjaan (Permenaker No. 5/2018). Paparan panas berlebih menimbulkan tekanan panas (heat stress)."
+    },
+    {
+      "id": "k",
+      "label": "Konsep Dasar",
+      "color": "#8b5cf6",
+      "parent": "root",
+      "content": "Definisi iklim kerja panas, faktor pembentuk, dan termoregulasi tubuh."
+    },
+    {
+      "id": "k-def",
+      "label": "Definisi Iklim Kerja",
+      "color": "#8b5cf6",
+      "parent": "k",
+      "content": "Menurut Permenaker No. 5/2018, iklim kerja adalah perpaduan antara suhu, kelembaban, kecepatan gerakan udara, dan panas radiasi dengan pengeluaran panas tubuh akibat pekerjaan; meliputi tekanan panas dan dingin."
+    },
+    {
+      "id": "k-faktor",
+      "label": "Faktor Pembentuk",
+      "color": "#8b5cf6",
+      "parent": "k",
+      "content": "Empat faktor lingkungan yang membentuk iklim kerja panas:\n- Suhu (udara/kering)\n- Kelembaban udara\n- Kecepatan gerakan udara\n- Panas radiasi"
+    },
+    {
+      "id": "k-faktor-suhu",
+      "label": "Suhu",
+      "color": "#8b5cf6",
+      "parent": "k-faktor",
+      "content": "Suhu udara di tempat kerja; diukur dengan termometer suhu kering."
+    },
+    {
+      "id": "k-faktor-lembab",
+      "label": "Kelembaban",
+      "color": "#8b5cf6",
+      "parent": "k-faktor",
+      "content": "Kadar uap air di udara; memengaruhi penguapan keringat. Tercermin dari selisih suhu kering dan suhu basah alami."
+    },
+    {
+      "id": "k-faktor-angin",
+      "label": "Kecepatan Udara",
+      "color": "#8b5cf6",
+      "parent": "k-faktor",
+      "content": "Gerakan udara membantu pelepasan panas tubuh melalui konveksi dan evaporasi."
+    },
+    {
+      "id": "k-faktor-radiasi",
+      "label": "Panas Radiasi",
+      "color": "#8b5cf6",
+      "parent": "k-faktor",
+      "content": "Pancaran panas dari sumber (matahari, tungku, mesin); diindikasikan oleh suhu bola."
+    },
+    {
+      "id": "k-termo",
+      "label": "Termoregulasi",
+      "color": "#8b5cf6",
+      "parent": "k",
+      "content": "Keseimbangan antara kehilangan panas dan produksi panas tubuh agar suhu inti tetap stabil."
+    },
+    {
+      "id": "k-termo-normal",
+      "label": "Suhu Normal",
+      "color": "#8b5cf6",
+      "parent": "k-termo",
+      "content": "Suhu tubuh normal: 36,5-37,5 derajat C."
+    },
+    {
+      "id": "k-termo-hipo",
+      "label": "Hipotermia",
+      "color": "#8b5cf6",
+      "parent": "k-termo",
+      "content": "Suhu tubuh di bawah 36,5 derajat C.\n- Ringan: 36,0-36,4 derajat C\n- Sedang: 32-35,9 derajat C\n- Berat: < 32 derajat C"
+    },
+    {
+      "id": "k-termo-hiper",
+      "label": "Hipertermia",
+      "color": "#8b5cf6",
+      "parent": "k-termo",
+      "content": "Suhu tubuh di atas 37,5 derajat C; kondisi yang menjadi fokus pada iklim kerja panas."
+    },
+    {
+      "id": "k-mekanisme",
+      "label": "Mekanisme Panas Tubuh",
+      "color": "#8b5cf6",
+      "parent": "k",
+      "content": "Cara tubuh mempertahankan keseimbangan panas: produksi panas (metabolisme) diimbangi dengan pelepasan panas ke lingkungan. Bila lingkungan lebih panas dari tubuh, pelepasan panas terhambat dan terjadi tekanan panas."
+    },
+    {
+      "id": "i",
+      "label": "ISBB / WBGT",
+      "color": "#06b6d4",
+      "parent": "root",
+      "content": "Indeks Suhu Basah dan Bola (Wet Bulb Globe Temperature Index): parameter untuk menilai tingkat iklim kerja panas, hasil perhitungan suhu kering, suhu basah alami, dan suhu bola. Diatur SNI 16-7061-2004."
+    },
+    {
+      "id": "i-param",
+      "label": "Parameter Suhu",
+      "color": "#06b6d4",
+      "parent": "i",
+      "content": "Tiga jenis suhu yang diukur untuk menghitung ISBB."
+    },
+    {
+      "id": "i-param-sba",
+      "label": "Suhu Basah Alami (SBA)",
+      "color": "#06b6d4",
+      "parent": "i-param",
+      "content": "Suhu penguapan air saat terjadi keseimbangan uap air di udara; diukur dengan termometer basah alami. Selalu lebih rendah dari suhu kering."
+    },
+    {
+      "id": "i-param-sk",
+      "label": "Suhu Kering (SK)",
+      "color": "#06b6d4",
+      "parent": "i-param",
+      "content": "Suhu udara yang diukur dengan termometer suhu kering (dry bulb temperature)."
+    },
+    {
+      "id": "i-param-sb",
+      "label": "Suhu Bola (SB)",
+      "color": "#06b6d4",
+      "parent": "i-param",
+      "content": "Suhu yang diukur dengan termometer bola; sensor dimasukkan dalam bola tembaga dicat hitam sebagai indikator tingkat radiasi."
+    },
+    {
+      "id": "i-rumus",
+      "label": "Rumus ISBB",
+      "color": "#06b6d4",
+      "parent": "i",
+      "content": "Dua jenis rumus dasar tergantung ada atau tidaknya radiasi sinar matahari langsung."
+    },
+    {
+      "id": "i-rumus-luar",
+      "label": "Luar Ruangan (kena matahari)",
+      "color": "#06b6d4",
+      "parent": "i-rumus",
+      "content": "Tempat kerja terkena radiasi sinar matahari langsung:\n- ISBB = 0,7 x SBA + 0,2 x SB + 0,1 x SK"
+    },
+    {
+      "id": "i-rumus-dalam",
+      "label": "Dalam Ruangan (tanpa matahari)",
+      "color": "#06b6d4",
+      "parent": "i-rumus",
+      "content": "Tempat kerja tanpa pengaruh radiasi sinar matahari:\n- ISBB = 0,7 x SBA + 0,3 x SB"
+    },
+    {
+      "id": "i-rumus-rata",
+      "label": "ISBB Rata-rata",
+      "color": "#06b6d4",
+      "parent": "i-rumus",
+      "content": "Bila lokasi kerja berpindah-pindah menurut waktu, dipakai ISBB rata-rata berdasarkan ISBB1, ISBB2, ISBBn dan jangka waktu pemaparan t1, t2, tn (dalam menit)."
+    },
+    {
+      "id": "i-alat",
+      "label": "Peralatan",
+      "color": "#06b6d4",
+      "parent": "i",
+      "content": "Alat ukur ISBB harus dikalibrasi laboratorium terakreditasi minimal 1 tahun sekali."
+    },
+    {
+      "id": "i-alat-term",
+      "label": "Tiga Termometer",
+      "color": "#06b6d4",
+      "parent": "i-alat",
+      "content": "Termometer untuk pengukuran ISBB:\n- Suhu kering (kisaran -5 s.d. 50 derajat C, graduasi maks 0,5 derajat C)\n- Suhu basah alami (kisaran -5 s.d. 50 derajat C, graduasi maks 0,5 derajat C)\n- Suhu bola (kisaran -5 s.d. 100 derajat C, graduasi maks 0,5 derajat C)"
+    },
+    {
+      "id": "i-alat-aksesori",
+      "label": "Perlengkapan Pendukung",
+      "color": "#06b6d4",
+      "parent": "i-alat",
+      "content": "Perlengkapan tambahan pengukuran ISBB:\n- Erlenmeyer 125 ml berisi air suling\n- Kain kasa\n- Bola tembaga (diameter 15 cm, dicat hitam)\n- Statif\n- Tripot"
+    },
+    {
+      "id": "i-prosedur",
+      "label": "Prosedur Pengukuran",
+      "color": "#06b6d4",
+      "parent": "i",
+      "content": "Langkah pengukuran ISBB menurut SNI 16-7061-2004."
+    },
+    {
+      "id": "i-prosedur-paparan",
+      "label": "Waktu Pemaparan Alat",
+      "color": "#06b6d4",
+      "parent": "i-prosedur",
+      "content": "Lama pemaparan tiap termometer pada statif:\n- Suhu basah alami: 30-60 menit (kain kasa direndam air suling, jarak lambung ke air 1 inci)\n- Suhu kering: 30-60 menit\n- Suhu bola: 20-30 menit"
+    },
+    {
+      "id": "i-prosedur-tinggi",
+      "label": "Tinggi & Titik Ukur",
+      "color": "#06b6d4",
+      "parent": "i-prosedur",
+      "content": "Lambung termometer dipasang setinggi 1-1,25 meter dari lantai, pada lokasi tempat tenaga kerja melakukan pekerjaan."
+    },
+    {
+      "id": "i-prosedur-waktu",
+      "label": "Waktu Pengukuran",
+      "color": "#06b6d4",
+      "parent": "i-prosedur",
+      "content": "Dilakukan 3 kali dalam 8 jam kerja:\n- Awal shift\n- Pertengahan shift\n- Akhir shift"
+    },
+    {
+      "id": "n",
+      "label": "NAB & Regulasi",
+      "color": "#f59e0b",
+      "parent": "root",
+      "content": "Nilai Ambang Batas iklim kerja panas dinyatakan dalam derajat C ISBB, ditentukan berdasarkan beban kerja dan pengaturan waktu kerja-istirahat."
+    },
+    {
+      "id": "n-tabel",
+      "label": "Tabel NAB ISBB",
+      "color": "#f59e0b",
+      "parent": "n",
+      "content": "NAB iklim kerja ISBB yang diperkenankan (Permenaker No. 5/2018), berdasarkan pengaturan waktu kerja per jam dan beban kerja. Semakin berat beban dan semakin lama waktu kerja, semakin rendah ISBB yang diperbolehkan."
+    },
+    {
+      "id": "n-tabel-75",
+      "label": "Kerja 75%-100%",
+      "color": "#f59e0b",
+      "parent": "n-tabel",
+      "content": "NAB ISBB pada waktu kerja 75%-100% per jam:\n- Ringan: 31,0 derajat C\n- Sedang: 28,0 derajat C\n- Berat: -\n- Sangat Berat: -"
+    },
+    {
+      "id": "n-tabel-50",
+      "label": "Kerja 50%-75%",
+      "color": "#f59e0b",
+      "parent": "n-tabel",
+      "content": "NAB ISBB pada waktu kerja 50%-75% per jam:\n- Ringan: 31,0 derajat C\n- Sedang: 29,0 derajat C\n- Berat: 27,5 derajat C\n- Sangat Berat: -"
+    },
+    {
+      "id": "n-tabel-25",
+      "label": "Kerja 25%-50%",
+      "color": "#f59e0b",
+      "parent": "n-tabel",
+      "content": "NAB ISBB pada waktu kerja 25%-50% per jam:\n- Ringan: 32,0 derajat C\n- Sedang: 30,0 derajat C\n- Berat: 29,0 derajat C\n- Sangat Berat: 28,0 derajat C"
+    },
+    {
+      "id": "n-tabel-0",
+      "label": "Kerja 0%-25%",
+      "color": "#f59e0b",
+      "parent": "n-tabel",
+      "content": "NAB ISBB pada waktu kerja 0%-25% per jam:\n- Ringan: 32,5 derajat C\n- Sedang: 31,5 derajat C\n- Berat: 30,5 derajat C\n- Sangat Berat: 30,0 derajat C"
+    },
+    {
+      "id": "n-koreksi",
+      "label": "Koreksi Pakaian Kerja",
+      "color": "#f59e0b",
+      "parent": "n",
+      "content": "Hasil pengukuran ISBB dikoreksi dengan nilai pakaian kerja sebelum dibandingkan dengan NAB (Permenaker 70/2016, Tabel 3)."
+    },
+    {
+      "id": "n-koreksi-nol",
+      "label": "Tanpa Tambahan",
+      "color": "#f59e0b",
+      "parent": "n-koreksi",
+      "content": "Koreksi 0 derajat C:\n- Pakaian kerja biasa (kemeja & celana panjang)\n- Coveralls"
+    },
+    {
+      "id": "n-koreksi-tambah",
+      "label": "Dengan Tambahan",
+      "color": "#f59e0b",
+      "parent": "n-koreksi",
+      "content": "Nilai koreksi yang ditambahkan ke ISBB:\n- Coveralls SMS polypropylene: +0,5 derajat C\n- Coveralls polyolefin: +1 derajat C\n- Pakaian kerja dua lapis: +3 derajat C\n- Coveralls anti uap (terbatas): +11 derajat C"
+    },
+    {
+      "id": "n-kasus",
+      "label": "Contoh Kasus",
+      "color": "#f59e0b",
+      "parent": "n",
+      "content": "Pekerja 75 kg menarik beban ringan (laju metabolik 300 W = Sedang), waktu kerja 50%-75%, pakaian dua lapis, ISBB ukur 30 derajat C.\n- ISBB koreksi = 30 + 3 = 33 derajat C\n- NAB (Sedang, 50%-75%) = 29 derajat C\n- 33 > 29: melebihi NAB, berpotensi heat strain"
+    },
+    {
+      "id": "n-reg",
+      "label": "Regulasi & Standar",
+      "color": "#f59e0b",
+      "parent": "n",
+      "content": "Dasar hukum dan standar terkait iklim kerja panas."
+    },
+    {
+      "id": "n-reg-permenaker",
+      "label": "Permenaker No. 5/2018",
+      "color": "#f59e0b",
+      "parent": "n-reg",
+      "content": "Tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja; mendefinisikan iklim kerja, ISBB, suhu kering, SBA, suhu bola, dan tekanan dingin."
+    },
+    {
+      "id": "n-reg-permenkes",
+      "label": "Permenkes 70/2016",
+      "color": "#f59e0b",
+      "parent": "n-reg",
+      "content": "Standar dan Persyaratan Kesehatan Lingkungan Kerja Industri; mengatur penilaian laju metabolik dan koreksi pakaian kerja."
+    },
+    {
+      "id": "n-reg-sni7061",
+      "label": "SNI 16-7061-2004",
+      "color": "#f59e0b",
+      "parent": "n-reg",
+      "content": "Pengukuran iklim kerja (panas) dengan parameter indeks suhu basah dan bola (ISBB)."
+    },
+    {
+      "id": "n-reg-sni7269",
+      "label": "SNI 7269:2009",
+      "color": "#f59e0b",
+      "parent": "n-reg",
+      "content": "Penilaian beban kerja berdasarkan tingkat kebutuhan kalori menurut pengeluaran energi."
+    },
+    {
+      "id": "p",
+      "label": "Penyakit Akibat Panas",
+      "color": "#10b981",
+      "parent": "root",
+      "content": "Penyakit akibat kerja pada iklim kerja panas (heat stress); terdiri dari gangguan ringan hingga kondisi mengancam jiwa."
+    },
+    {
+      "id": "p-cairan",
+      "label": "Gangguan Cairan & Elektrolit",
+      "color": "#10b981",
+      "parent": "p",
+      "content": "Gangguan akibat kehilangan cairan dan elektrolit melalui keringat."
+    },
+    {
+      "id": "p-cairan-dehidrasi",
+      "label": "Dehidrasi",
+      "color": "#10b981",
+      "parent": "p-cairan",
+      "content": "Kehilangan cairan tubuh berlebihan karena keringat tidak tergantikan. Menurunkan fungsi kognitif, menyebabkan kelelahan, dan memperburuk heat stress lain."
+    },
+    {
+      "id": "p-cairan-kram",
+      "label": "Heat Cramps (Kram Panas)",
+      "color": "#10b981",
+      "parent": "p-cairan",
+      "content": "Kram otot menyakitkan akibat kehilangan elektrolit lewat keringat. Umumnya setelah aktivitas berat di lingkungan panas."
+    },
+    {
+      "id": "p-cairan-hipo",
+      "label": "Hiponatremia",
+      "color": "#10b981",
+      "parent": "p-cairan",
+      "content": "Kadar natrium rendah akibat minum air terlalu banyak tanpa mengganti elektrolit. Sering pada pekerja lapangan yang rehidrasi hanya dengan air putih."
+    },
+    {
+      "id": "p-akut",
+      "label": "Gangguan Akut",
+      "color": "#10b981",
+      "parent": "p",
+      "content": "Gangguan mendadak akibat beban panas pada tubuh."
+    },
+    {
+      "id": "p-akut-syncope",
+      "label": "Heat Syncope (Pingsan)",
+      "color": "#10b981",
+      "parent": "p-akut",
+      "content": "Penurunan tekanan darah mendadak karena berdiri lama di bawah panas; akibat vasodilatasi dan dehidrasi."
+    },
+    {
+      "id": "p-akut-exhaustion",
+      "label": "Heat Exhaustion (Kelelahan Panas)",
+      "color": "#10b981",
+      "parent": "p-akut",
+      "content": "Gangguan akibat kehilangan air dan garam dalam jumlah besar. Ditandai kelelahan ekstrem, pusing, mual, dan kulit dingin."
+    },
+    {
+      "id": "p-akut-stroke",
+      "label": "Heat Stroke (Sengatan Panas)",
+      "color": "#10b981",
+      "parent": "p-akut",
+      "content": "Kondisi paling serius. Suhu tubuh > 40 derajat C, dapat menyebabkan kerusakan organ, koma, hingga kematian bila tidak segera ditangani."
+    },
+    {
+      "id": "p-akut-jantung",
+      "label": "Gangguan Irama Jantung",
+      "color": "#10b981",
+      "parent": "p-akut",
+      "content": "Disebabkan gangguan elektrolit dan beban panas ekstrem. Terjadi pada individu dengan penyakit jantung atau dehidrasi berat."
+    },
+    {
+      "id": "p-kulit",
+      "label": "Heat Rash (Ruam Panas)",
+      "color": "#10b981",
+      "parent": "p",
+      "content": "Ruam kulit gatal (biang keringat) karena saluran keringat tersumbat. Sering di daerah kulit yang tertutup."
+    },
+    {
+      "id": "p-kronis",
+      "label": "Gangguan Kronis & Kinerja",
+      "color": "#10b981",
+      "parent": "p",
+      "content": "Dampak jangka panjang dan penurunan performa kerja."
+    },
+    {
+      "id": "p-kronis-ginjal",
+      "label": "Kerusakan Ginjal",
+      "color": "#10b981",
+      "parent": "p-kronis",
+      "content": "Heat-induced kidney injury: pada pekerja luar ruang (petani, buruh konstruksi) di iklim tropis, dehidrasi kronis berulang dapat merusak ginjal jangka panjang."
+    },
+    {
+      "id": "p-kronis-kognitif",
+      "label": "Penurunan Kognitif & Produktivitas",
+      "color": "#10b981",
+      "parent": "p-kronis",
+      "content": "Paparan panas menyebabkan gangguan konsentrasi, pengambilan keputusan lambat, dan peningkatan kesalahan kerja."
+    },
+    {
+      "id": "r",
+      "label": "Pekerjaan Berisiko Tinggi",
+      "color": "#ec4899",
+      "parent": "root",
+      "content": "Jenis pekerjaan yang rawan terkena heat stress karena terpapar suhu/radiasi tinggi:\n- Pekerja konstruksi luar ruang\n- Tukang las di pabrik baja\n- Petani dan buruh perkebunan\n- Pekerja pabrik suhu tinggi (boiler, dapur logam)\n- Pemadam kebakaran"
+    },
+    {
+      "id": "b",
+      "label": "Beban Kerja Metabolik",
+      "color": "#ef4444",
+      "parent": "root",
+      "content": "Beban kerja adalah beban yang dialami tenaga kerja akibat pekerjaannya; dinilai dari kebutuhan kalori/laju metabolik dan menentukan NAB iklim kerja."
+    },
+    {
+      "id": "b-kalori",
+      "label": "Kategori Kalori (SNI 7269:2009)",
+      "color": "#ef4444",
+      "parent": "b",
+      "content": "Penilaian beban kerja berdasarkan pengeluaran energi (kkal per jam)."
+    },
+    {
+      "id": "b-kalori-ringan",
+      "label": "Kerja Ringan",
+      "color": "#ef4444",
+      "parent": "b-kalori",
+      "content": "Membutuhkan 100-200 kkal per jam."
+    },
+    {
+      "id": "b-kalori-sedang",
+      "label": "Kerja Sedang",
+      "color": "#ef4444",
+      "parent": "b-kalori",
+      "content": "Membutuhkan > 200-350 kkal per jam."
+    },
+    {
+      "id": "b-kalori-berat",
+      "label": "Kerja Berat",
+      "color": "#ef4444",
+      "parent": "b-kalori",
+      "content": "Membutuhkan > 350-500 kkal per jam."
+    },
+    {
+      "id": "b-mb",
+      "label": "Metabolisme Basal (MB)",
+      "color": "#ef4444",
+      "parent": "b",
+      "content": "Energi minimal untuk mempertahankan proses hidup dasar (kalori per satuan waktu).\n- Laki-laki: berat badan (kg) x 1 kkal/jam\n- Wanita: berat badan (kg) x 0,9 kkal/jam"
+    },
+    {
+      "id": "b-prosedur",
+      "label": "Prosedur Penilaian",
+      "color": "#ef4444",
+      "parent": "b",
+      "content": "Penilaian beban kerja (SNI 7269:2009) memakai stopwatch dan timbangan berat badan."
+    },
+    {
+      "id": "b-prosedur-bb",
+      "label": "Pengukuran Berat Badan",
+      "color": "#ef4444",
+      "parent": "b-prosedur",
+      "content": "Ukur berat badan tenaga kerja sebagai dasar perhitungan metabolisme basal."
+    },
+    {
+      "id": "b-prosedur-amati",
+      "label": "Pengamatan Aktivitas",
+      "color": "#ef4444",
+      "parent": "b-prosedur",
+      "content": "Amati aktivitas (jenis pekerjaan & posisi badan) minimal 4 jam kerja per hari, ambil rerata tiap jam. Catat waktu tiap aktivitas dengan stopwatch dan nilai dengan Lampiran A."
+    },
+    {
+      "id": "b-metabolik",
+      "label": "Laju Metabolik (Permenkes 70/2016)",
+      "color": "#ef4444",
+      "parent": "b",
+      "content": "Kategori laju metabolik (W) dengan estimasi berat badan standar 70 kg, mengacu ISO 8996:2004. Untuk berat lain, dikali rasio berat aktual : 70 kg."
+    },
+    {
+      "id": "b-metabolik-istirahat",
+      "label": "Istirahat - 115 W",
+      "color": "#ef4444",
+      "parent": "b-metabolik",
+      "content": "115 W (100-125 W). Contoh: duduk."
+    },
+    {
+      "id": "b-metabolik-ringan",
+      "label": "Ringan - 180 W",
+      "color": "#ef4444",
+      "parent": "b-metabolik",
+      "content": "180 W (125-235 W). Contoh: duduk/berdiri pekerjaan ringan dengan tangan & lengan, mengemudi, sesekali berjalan."
+    },
+    {
+      "id": "b-metabolik-sedang",
+      "label": "Sedang - 300 W",
+      "color": "#ef4444",
+      "parent": "b-metabolik",
+      "content": "300 W (235-360 W). Contoh: pekerjaan dengan tangan & lengan/kaki/pinggang, mendorong-menarik beban ringan, berjalan biasa."
+    },
+    {
+      "id": "b-metabolik-berat",
+      "label": "Berat - 415 W",
+      "color": "#ef4444",
+      "parent": "b-metabolik",
+      "content": "415 W (360-465 W). Contoh: pekerjaan intensif, membawa benda, menggali, menggergaji manual, mendorong-menarik beban berat, berjalan cepat."
+    },
+    {
+      "id": "b-metabolik-sangat",
+      "label": "Sangat Berat - 520 W",
+      "color": "#ef4444",
+      "parent": "b-metabolik",
+      "content": "520 W (> 465 W). Contoh: pekerjaan sangat intensif dengan kecepatan maksimal."
+    },
+    {
+      "id": "c",
+      "label": "Pengendalian & Aklimatisasi",
+      "color": "#14b8a6",
+      "parent": "root",
+      "content": "Upaya menjaga pekerja tetap di bawah NAB dan beradaptasi terhadap panas."
+    },
+    {
+      "id": "c-aklim",
+      "label": "Aklimatisasi",
+      "color": "#14b8a6",
+      "parent": "c",
+      "content": "Proses adaptasi tubuh terhadap lingkungan panas agar sistem termoregulasi lebih efisien sehingga risiko gangguan panas menurun pada pekerja yang terpapar."
+    },
+    {
+      "id": "c-waktu",
+      "label": "Pengaturan Waktu Kerja-Istirahat",
+      "color": "#14b8a6",
+      "parent": "c",
+      "content": "NAB iklim kerja ditentukan berdasarkan alokasi waktu kerja dan istirahat dalam satu siklus kerja (8 jam per hari) serta rata-rata laju metabolik. Semakin berat beban, semakin besar proporsi istirahat yang diperlukan."
+    },
+    {
+      "id": "c-apd",
+      "label": "Pemilihan Pakaian Kerja",
+      "color": "#14b8a6",
+      "parent": "c",
+      "content": "Pakaian kerja memengaruhi pelepasan panas; jenis pakaian dikoreksi terhadap ISBB. Pakaian tebal/anti uap menambah beban panas (koreksi hingga +11 derajat C), sehingga pemilihan APD harus mempertimbangkan beban panas."
+    },
+    {
+      "id": "c-rehidrasi",
+      "label": "Rehidrasi & Elektrolit",
+      "color": "#14b8a6",
+      "parent": "c",
+      "content": "Mengganti cairan dan elektrolit yang hilang lewat keringat untuk mencegah dehidrasi, kram panas, dan hiponatremia. Tidak cukup minum air putih saja; perlu elektrolit/garam."
+    }
+  ]
+}

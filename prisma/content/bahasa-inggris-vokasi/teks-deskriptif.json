@@ -1,0 +1,1321 @@
+{
+  "topic": "Teks Deskriptif (Descriptive Text)",
+  "order": 1,
+  "description": "Teks deskriptif adalah teks yang menggambarkan suatu objek, orang, atau tempat secara detail sehingga pembaca seolah-olah dapat melihat dan merasakannya. Teks ini menggunakan Simple Present Tense, kata sifat (adjectives), serta verba relasional dan verba aktif. Dalam konteks K3, keterampilan mendeskripsikan secara akurat sangat penting untuk menjelaskan bahaya, APD, prosedur, dan lokasi kerja.",
+  "subtopics": [
+    "Definisi & Fungsi Sosial",
+    "Struktur Generik (Generic Structure)",
+    "Ciri Kebahasaan (Language Features)",
+    "Simple Present Tense",
+    "Adjectives & Bahasa Kiasan",
+    "Contoh & Analisis Teks",
+    "Penerapan K3 (K3 Application)"
+  ],
+  "questions": [
+    {
+      "text": "What is the main social function of a descriptive text?",
+      "explanation": "Fungsi sosial teks deskriptif adalah menggambarkan suatu objek, orang, atau tempat tertentu secara detail.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Sosial",
+      "options": [
+        { "text": "A. To describe a particular object, person, or place in detail", "isCorrect": true },
+        { "text": "B. To retell past events in chronological order", "isCorrect": false },
+        { "text": "C. To explain how to make something step by step", "isCorrect": false },
+        { "text": "D. To persuade the reader to buy a product", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A descriptive text mainly focuses on describing a ____ thing.",
+      "explanation": "Teks deskriptif menggambarkan objek yang spesifik/particular, misalnya 'my mug', 'David', bukan benda secara umum.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Sosial",
+      "options": [
+        { "text": "A. general", "isCorrect": false },
+        { "text": "B. particular", "isCorrect": true },
+        { "text": "C. imaginary", "isCorrect": false },
+        { "text": "D. random", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which tense is dominantly used in a descriptive text?",
+      "explanation": "Teks deskriptif dominan memakai Simple Present Tense karena menggambarkan fakta atau keadaan umum suatu objek.",
+      "difficulty": "EASY",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. Simple Past Tense", "isCorrect": false },
+        { "text": "B. Simple Present Tense", "isCorrect": true },
+        { "text": "C. Present Continuous Tense", "isCorrect": false },
+        { "text": "D. Past Perfect Tense", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A descriptive text makes the reader feel as if they can ____ the object being described.",
+      "explanation": "Teks deskriptif yang baik membuat pembaca seolah-olah dapat melihat, mendengar, atau merasakan langsung objek tersebut.",
+      "difficulty": "EASY",
+      "tag": "Definisi & Fungsi Sosial",
+      "options": [
+        { "text": "A. forget", "isCorrect": false },
+        { "text": "B. see, hear, or feel it directly", "isCorrect": true },
+        { "text": "C. count it", "isCorrect": false },
+        { "text": "D. sell it", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What are the two main parts of the generic structure of a descriptive text?",
+      "explanation": "Struktur utama teks deskriptif adalah Identification (identifikasi) dan Description (deskripsi bagian). Kesan/simpulan bersifat opsional.",
+      "difficulty": "EASY",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. Orientation and Reorientation", "isCorrect": false },
+        { "text": "B. Identification and Description", "isCorrect": true },
+        { "text": "C. Goal and Steps", "isCorrect": false },
+        { "text": "D. Thesis and Arguments", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which part of a descriptive text introduces the object that will be described?",
+      "explanation": "Identification adalah bagian pembuka yang memperkenalkan objek yang akan dideskripsikan.",
+      "difficulty": "EASY",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. Description", "isCorrect": false },
+        { "text": "B. Conclusion", "isCorrect": false },
+        { "text": "C. Identification", "isCorrect": true },
+        { "text": "D. Orientation", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which part of a descriptive text contains the detailed features of the object?",
+      "explanation": "Description (Deskripsi Bagian) adalah inti teks yang berisi pemaparan detail dan ciri-ciri khusus objek.",
+      "difficulty": "EASY",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. Identification", "isCorrect": false },
+        { "text": "B. Description", "isCorrect": true },
+        { "text": "C. Reorientation", "isCorrect": false },
+        { "text": "D. Resolution", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which word class is dominantly used in descriptive texts to give detailed images?",
+      "explanation": "Adjectives (kata sifat) sangat dominan digunakan dalam teks deskriptif untuk memberikan gambaran detail.",
+      "difficulty": "EASY",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. Adverbs of time", "isCorrect": false },
+        { "text": "B. Adjectives", "isCorrect": true },
+        { "text": "C. Conjunctions", "isCorrect": false },
+        { "text": "D. Prepositions", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of the following is an adjective?",
+      "explanation": "'Spacious' (luas) adalah kata sifat. 'Quickly' adalah adverb, 'run' dan 'jump' adalah verba.",
+      "difficulty": "EASY",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. quickly", "isCorrect": false },
+        { "text": "B. spacious", "isCorrect": true },
+        { "text": "C. run", "isCorrect": false },
+        { "text": "D. jump", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct Simple Present sentence.",
+      "explanation": "Subjek 'The beach' tunggal (it), maka verba 'be' yang benar adalah 'is': The beach is very clean.",
+      "difficulty": "EASY",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. The beach are very clean.", "isCorrect": false },
+        { "text": "B. The beach is very clean.", "isCorrect": true },
+        { "text": "C. The beach were very clean.", "isCorrect": false },
+        { "text": "D. The beach be very clean.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Complete the sentence: The temple ____ five tiers.",
+      "explanation": "Subjek 'The temple' tunggal, sehingga memakai 'has' dalam Simple Present: The temple has five tiers.",
+      "difficulty": "EASY",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. have", "isCorrect": false },
+        { "text": "B. has", "isCorrect": true },
+        { "text": "C. had", "isCorrect": false },
+        { "text": "D. having", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which verbs are examples of relational verbs?",
+      "explanation": "Verba relasional menunjukkan keadaan/atribut, seperti is, am, are, have, has, seem, appear.",
+      "difficulty": "EASY",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. run, jump, swim", "isCorrect": false },
+        { "text": "B. is, has, seem, appear", "isCorrect": true },
+        { "text": "C. went, arrived, began", "isCorrect": false },
+        { "text": "D. first, then, finally", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the sentence 'Borobudur is a magnificent temple', the word 'is' functions as a ____ verb.",
+      "explanation": "'Is' di sini menunjukkan keadaan/atribut objek, sehingga merupakan verba relasional.",
+      "difficulty": "EASY",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. action", "isCorrect": false },
+        { "text": "B. relational", "isCorrect": true },
+        { "text": "C. modal", "isCorrect": false },
+        { "text": "D. auxiliary of past", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In 'The waves crash loudly against the rocks', the verb 'crash' is a(n) ____ verb.",
+      "explanation": "'Crash' menunjukkan tindakan, sehingga merupakan verba aktif (action verb).",
+      "difficulty": "EASY",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. relational", "isCorrect": false },
+        { "text": "B. action", "isCorrect": true },
+        { "text": "C. linking", "isCorrect": false },
+        { "text": "D. modal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The Indonesian word for 'Personal Protective Equipment (PPE)' is ____.",
+      "explanation": "PPE (Personal Protective Equipment) dalam bahasa Indonesia adalah APD (Alat Pelindung Diri).",
+      "difficulty": "EASY",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. Bahaya", "isCorrect": false },
+        { "text": "B. Alat Pelindung Diri (APD)", "isCorrect": true },
+        { "text": "C. Prosedur", "isCorrect": false },
+        { "text": "D. Lokasi kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The English term for 'Bahaya' in a K3 context is ____.",
+      "explanation": "'Bahaya' dalam konteks K3 diterjemahkan menjadi 'Hazards'.",
+      "difficulty": "EASY",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. Procedures", "isCorrect": false },
+        { "text": "B. Hazards", "isCorrect": true },
+        { "text": "C. Equipment", "isCorrect": false },
+        { "text": "D. Locations", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The English term for 'Prosedur' is ____.",
+      "explanation": "'Prosedur' dalam bahasa Inggris adalah 'Procedures'.",
+      "difficulty": "EASY",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. Hazards", "isCorrect": false },
+        { "text": "B. Procedures", "isCorrect": true },
+        { "text": "C. Work Locations", "isCorrect": false },
+        { "text": "D. Equipment", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence uses an adjective correctly to describe a place?",
+      "explanation": "'The room is large and bright' menggunakan adjektiva 'large' dan 'bright' untuk menggambarkan tempat.",
+      "difficulty": "EASY",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. The room is large and bright.", "isCorrect": true },
+        { "text": "B. The room quickly to study.", "isCorrect": false },
+        { "text": "C. The room have study.", "isCorrect": false },
+        { "text": "D. The room then bookshelf.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Read: 'My favorite mug is a simple ceramic cup that I use every morning for my coffee.' This sentence belongs to which part of the text?",
+      "explanation": "Kalimat ini memperkenalkan objek (mug) di awal teks, sehingga termasuk bagian Identification.",
+      "difficulty": "EASY",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. Description", "isCorrect": false },
+        { "text": "B. Identification", "isCorrect": true },
+        { "text": "C. Reorientation", "isCorrect": false },
+        { "text": "D. Resolution", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The opposite of the adjective 'large' is ____.",
+      "explanation": "Lawan kata 'large' (besar) adalah 'small' (kecil).",
+      "difficulty": "EASY",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. wide", "isCorrect": false },
+        { "text": "B. small", "isCorrect": true },
+        { "text": "C. tall", "isCorrect": false },
+        { "text": "D. heavy", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Why is the Simple Present Tense suitable for descriptive texts?",
+      "explanation": "Simple Present cocok karena teks deskriptif menggambarkan fakta atau keadaan umum yang berlaku tentang suatu objek.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. Because it tells about finished past events", "isCorrect": false },
+        { "text": "B. Because it describes general facts and current states of an object", "isCorrect": true },
+        { "text": "C. Because it shows future plans", "isCorrect": false },
+        { "text": "D. Because it lists chronological steps", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct Simple Present form: 'David ____ a warm, friendly smile.'",
+      "explanation": "Subjek 'David' tunggal (he), maka 'have' menjadi 'has': David has a warm, friendly smile.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. have", "isCorrect": false },
+        { "text": "B. has", "isCorrect": true },
+        { "text": "C. had", "isCorrect": false },
+        { "text": "D. is have", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct sentence: 'The flowers ____ wonderful.'",
+      "explanation": "Subjek jamak 'The flowers' memakai verba dasar 'smell' (bukan 'smells'): The flowers smell wonderful.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. smells", "isCorrect": false },
+        { "text": "B. smell", "isCorrect": true },
+        { "text": "C. smelled", "isCorrect": false },
+        { "text": "D. is smell", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly uses the third person singular '-s' rule?",
+      "explanation": "Untuk subjek tunggal orang ketiga (she), verba mendapat akhiran -s: She listens carefully.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. She listen carefully.", "isCorrect": false },
+        { "text": "B. She listens carefully.", "isCorrect": true },
+        { "text": "C. She listening carefully.", "isCorrect": false },
+        { "text": "D. She to listen carefully.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which figure of speech is shown in 'The sky is like a canvas painted with orange and purple'?",
+      "explanation": "Penggunaan kata 'like' untuk membandingkan dua hal menjadikannya simile (perumpamaan).",
+      "difficulty": "MEDIUM",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. Metaphor", "isCorrect": false },
+        { "text": "B. Simile", "isCorrect": true },
+        { "text": "C. Hyperbole", "isCorrect": false },
+        { "text": "D. Personification", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence is a metaphor (not a simile)?",
+      "explanation": "Metafora membandingkan langsung tanpa 'like/as'. 'Her smile is sunshine' adalah metafora; pilihan dengan 'like'/'as' adalah simile.",
+      "difficulty": "MEDIUM",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. Her smile is like sunshine.", "isCorrect": false },
+        { "text": "B. Her smile is sunshine that brightens the room.", "isCorrect": true },
+        { "text": "C. She is as bright as the sun.", "isCorrect": false },
+        { "text": "D. Her eyes shine like stars.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In a descriptive text, the order of describing details can be done ____.",
+      "explanation": "Deskripsi dapat dilakukan secara spasial (tata letak), dari luar ke dalam, atau dari bagian yang paling menonjol.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. only alphabetically", "isCorrect": false },
+        { "text": "B. spatially, from outside to inside, or from the most prominent feature", "isCorrect": true },
+        { "text": "C. only by price", "isCorrect": false },
+        { "text": "D. only by time of day", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The optional closing part of a descriptive text that gives the writer's general impression is called ____.",
+      "explanation": "Bagian penutup opsional yang berisi kesan umum penulis disebut Kesan/Simpulan (impression/conclusion).",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. Identification", "isCorrect": false },
+        { "text": "B. Impression / Conclusion", "isCorrect": true },
+        { "text": "C. Orientation", "isCorrect": false },
+        { "text": "D. Series of events", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identify the action verb in: 'The waves crash loudly against the rocks.'",
+      "explanation": "Verba tindakan dalam kalimat tersebut adalah 'crash' yang menunjukkan aksi ombak.",
+      "difficulty": "MEDIUM",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. waves", "isCorrect": false },
+        { "text": "B. crash", "isCorrect": true },
+        { "text": "C. loudly", "isCorrect": false },
+        { "text": "D. rocks", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence best describes an object using sensory detail (smell)?",
+      "explanation": "'The air always smells like old paper and wood' menggunakan indera penciuman untuk menggambarkan tempat.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. The library is on the second floor.", "isCorrect": false },
+        { "text": "B. The air always smells like old paper and wood.", "isCorrect": true },
+        { "text": "C. Students study in the library.", "isCorrect": false },
+        { "text": "D. The library opens at eight.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Read the text about the school library. Where is the library located?",
+      "explanation": "Pada teks, perpustakaan terletak di lantai dua ('located on the second floor').",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. On the first floor", "isCorrect": false },
+        { "text": "B. On the second floor", "isCorrect": true },
+        { "text": "C. In the basement", "isCorrect": false },
+        { "text": "D. On the roof", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Based on the library text, what sounds can be heard there?",
+      "explanation": "Teks menyebut hanya terdengar suara halaman buku yang dibalik dan dengung pelan AC ('soft turning of pages and the quiet hum of the air conditioner').",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. Loud music and shouting", "isCorrect": false },
+        { "text": "B. The soft turning of pages and the quiet hum of the air conditioner", "isCorrect": true },
+        { "text": "C. Cars and traffic", "isCorrect": false },
+        { "text": "D. Ringing telephones", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the mug text, what color is the inside of the mug?",
+      "explanation": "Bagian dalam mug dilapisi warna biru tua yang ceria ('a deep, cheerful blue color').",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. Pure white", "isCorrect": false },
+        { "text": "B. Deep cheerful blue", "isCorrect": true },
+        { "text": "C. Bright red", "isCorrect": false },
+        { "text": "D. Dark green", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the text about David, what makes him special according to the writer?",
+      "explanation": "Yang membuat David istimewa adalah caranya mendengarkan ('how he listens') dengan penuh perhatian.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. His expensive clothes", "isCorrect": false },
+        { "text": "B. The way he listens and gives full attention", "isCorrect": true },
+        { "text": "C. His tall height only", "isCorrect": false },
+        { "text": "D. His loud voice", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the sentence that correctly describes a hazard in a K3 context.",
+      "explanation": "'The wet floor is slippery and dangerous' mendeskripsikan bahaya (lantai basah licin) dengan adjektiva, sesuai konteks K3.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. The wet floor is slippery and dangerous.", "isCorrect": true },
+        { "text": "B. The floor went to work yesterday.", "isCorrect": false },
+        { "text": "C. First, then, next the floor.", "isCorrect": false },
+        { "text": "D. The floor was cleaned by the worker.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A K3 officer describes PPE: 'The safety helmet is hard and bright yellow.' Which words are adjectives?",
+      "explanation": "Kata sifat dalam kalimat itu adalah 'hard' (keras) dan 'bright yellow' (kuning cerah) yang menggambarkan helm.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. helmet, safety", "isCorrect": false },
+        { "text": "B. hard, bright yellow", "isCorrect": true },
+        { "text": "C. is, the", "isCorrect": false },
+        { "text": "D. describes, officer", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence uses a relational verb to describe PPE?",
+      "explanation": "'The gloves are thick and waterproof' menggunakan verba relasional 'are' untuk menyatakan atribut sarung tangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. The gloves are thick and waterproof.", "isCorrect": true },
+        { "text": "B. The gloves crashed loudly.", "isCorrect": false },
+        { "text": "C. The gloves were bought yesterday.", "isCorrect": false },
+        { "text": "D. First the gloves, then the boots.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which adjective best fits to describe a noisy work area? 'The machine room is very ____.'",
+      "explanation": "Untuk menggambarkan ruang yang bising, adjektiva yang tepat adalah 'loud' (berisik/keras).",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. quiet", "isCorrect": false },
+        { "text": "B. loud", "isCorrect": true },
+        { "text": "C. soft", "isCorrect": false },
+        { "text": "D. empty", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of these is NOT a feature of descriptive text?",
+      "explanation": "Penggunaan time conjunctions (first, then, finally) adalah ciri teks rekon/prosedur, bukan teks deskriptif.",
+      "difficulty": "MEDIUM",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. Simple Present Tense", "isCorrect": false },
+        { "text": "B. Many adjectives", "isCorrect": false },
+        { "text": "C. Time conjunctions such as first, then, finally", "isCorrect": true },
+        { "text": "D. Relational verbs like is and has", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Complete with the correct verb: 'The room ____ filled with tall bookshelves.'",
+      "explanation": "Subjek tunggal 'The room' memakai 'is' (bentuk pasif present): The room is filled with tall bookshelves.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. are", "isCorrect": false },
+        { "text": "B. is", "isCorrect": true },
+        { "text": "C. were", "isCorrect": false },
+        { "text": "D. be", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct negative Simple Present sentence.",
+      "explanation": "Untuk subjek tunggal orang ketiga, negatif memakai 'does not + verb dasar': The mug does not have any patterns.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. The mug do not has patterns.", "isCorrect": false },
+        { "text": "B. The mug does not have any patterns.", "isCorrect": true },
+        { "text": "C. The mug not have patterns.", "isCorrect": false },
+        { "text": "D. The mug does not had patterns.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which question word is correctly used to ask about the appearance of an object?",
+      "explanation": "Untuk menanyakan penampilan/keadaan objek, kita gunakan 'What does it look like?'.",
+      "difficulty": "MEDIUM",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. When does it look like?", "isCorrect": false },
+        { "text": "B. What does it look like?", "isCorrect": true },
+        { "text": "C. Who does it look like time?", "isCorrect": false },
+        { "text": "D. Why is it look?", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the purpose of the 'Identification' part?",
+      "explanation": "Identification berfungsi memperkenalkan dan menentukan objek yang akan dideskripsikan kepada pembaca.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. To list the steps of a process", "isCorrect": false },
+        { "text": "B. To introduce and identify the object to be described", "isCorrect": true },
+        { "text": "C. To retell what happened in the past", "isCorrect": false },
+        { "text": "D. To give arguments and opinions", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly describes a person's character using the present tense?",
+      "explanation": "'He is reliable and always keeps his promises' menggambarkan karakter dengan Simple Present yang benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. He is reliable and always keeps his promises.", "isCorrect": true },
+        { "text": "B. He was reliable yesterday only.", "isCorrect": false },
+        { "text": "C. He reliable keeps promise.", "isCorrect": false },
+        { "text": "D. He will reliable tomorrow.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "The phrase 'a comfortable handle that fits perfectly' describes which sense aspect of the mug?",
+      "explanation": "Frasa ini menggambarkan aspek sentuhan/kenyamanan fisik (touch) saat memegang mug.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. Taste", "isCorrect": false },
+        { "text": "B. Touch/comfort", "isCorrect": true },
+        { "text": "C. Smell", "isCorrect": false },
+        { "text": "D. Sound", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the best opening (Identification) sentence for describing a workplace.",
+      "explanation": "Kalimat identifikasi yang baik memperkenalkan objek: 'The workshop is a large, busy area on the ground floor.'",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. First, the worker went home.", "isCorrect": false },
+        { "text": "B. The workshop is a large, busy area on the ground floor.", "isCorrect": true },
+        { "text": "C. The workshop was opened by the manager.", "isCorrect": false },
+        { "text": "D. Then the workshop, next the office.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which word is an adjective describing texture?",
+      "explanation": "'Rough' (kasar) adalah adjektiva yang menggambarkan tekstur permukaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. slowly", "isCorrect": false },
+        { "text": "B. rough", "isCorrect": true },
+        { "text": "C. running", "isCorrect": false },
+        { "text": "D. yesterday", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct word order: '____ ceramic mug'.",
+      "explanation": "Dalam urutan adjektiva, ukuran mendahului bahan: 'a large white ceramic mug'.",
+      "difficulty": "MEDIUM",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. a ceramic large white", "isCorrect": false },
+        { "text": "B. a large white ceramic", "isCorrect": true },
+        { "text": "C. a white ceramic large", "isCorrect": false },
+        { "text": "D. a ceramic white large", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence shows personification?",
+      "explanation": "'The waves whisper to the shore' memberi sifat manusia (berbisik) kepada ombak, yaitu personifikasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. The waves are big.", "isCorrect": false },
+        { "text": "B. The waves whisper to the shore.", "isCorrect": true },
+        { "text": "C. The waves are like mountains.", "isCorrect": false },
+        { "text": "D. The waves crashed yesterday.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What does the writer feel whenever entering the library?",
+      "explanation": "Pada bagian kesan, penulis merasakan ketenangan dan fokus ('a sense of calm and focus') saat memasuki perpustakaan.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. Anger and stress", "isCorrect": false },
+        { "text": "B. A sense of calm and focus", "isCorrect": true },
+        { "text": "C. Boredom", "isCorrect": false },
+        { "text": "D. Fear", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence belongs to the Description part of a person?",
+      "explanation": "'David is tall and has a warm, friendly smile' adalah pemaparan detail ciri fisik, sehingga bagian Description.",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. My best friend, David, is one of the kindest people I know.", "isCorrect": false },
+        { "text": "B. David is tall and has a warm, friendly smile.", "isCorrect": true },
+        { "text": "C. David went to the market.", "isCorrect": false },
+        { "text": "D. Finally, the day ended.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct Simple Present plural sentence.",
+      "explanation": "Subjek jamak 'The windows' memakai 'let' tanpa -s: The windows let in plenty of natural light.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. The windows lets in light.", "isCorrect": false },
+        { "text": "B. The windows let in plenty of natural light.", "isCorrect": true },
+        { "text": "C. The windows letting light.", "isCorrect": false },
+        { "text": "D. The windows is let light.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the difference between descriptive and report text?",
+      "explanation": "Teks deskriptif menggambarkan objek tertentu/spesifik, sedangkan report text menggambarkan kelas/golongan benda secara umum.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Sosial",
+      "options": [
+        { "text": "A. Descriptive describes a particular object; report describes things in general", "isCorrect": true },
+        { "text": "B. They are exactly the same", "isCorrect": false },
+        { "text": "C. Descriptive uses past tense", "isCorrect": false },
+        { "text": "D. Report describes only one specific thing", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which adjective describes a smell positively?",
+      "explanation": "'Fragrant' (harum/wangi) adalah adjektiva yang menggambarkan aroma secara positif.",
+      "difficulty": "MEDIUM",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. fragrant", "isCorrect": true },
+        { "text": "B. loud", "isCorrect": false },
+        { "text": "C. heavy", "isCorrect": false },
+        { "text": "D. bright", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identify the relational verb: 'His eyes are bright and always seem to be laughing.'",
+      "explanation": "Verba relasional di sini adalah 'are' dan 'seem', yang menyatakan keadaan/atribut.",
+      "difficulty": "MEDIUM",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. eyes, bright", "isCorrect": false },
+        { "text": "B. are, seem", "isCorrect": true },
+        { "text": "C. laughing, always", "isCorrect": false },
+        { "text": "D. his, to", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Complete: 'There ____ no patterns or words on the mug.'",
+      "explanation": "Karena 'patterns or words' jamak, memakai 'are': There are no patterns or words on the mug.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. is", "isCorrect": false },
+        { "text": "B. are", "isCorrect": true },
+        { "text": "C. was", "isCorrect": false },
+        { "text": "D. were", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence is the best closing (impression) for a descriptive text?",
+      "explanation": "Kalimat penutup yang baik berisi kesan umum: 'This mug makes my morning routine feel special and calm.'",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. First, I bought the mug.", "isCorrect": false },
+        { "text": "B. This mug makes my morning routine feel special and calm.", "isCorrect": true },
+        { "text": "C. The mug is on the table.", "isCorrect": false },
+        { "text": "D. Next, I drank my coffee.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A K3 officer must be able to describe an accident location accurately. Which sentence does this best?",
+      "explanation": "'The accident happened near the wet, slippery loading area' mendeskripsikan lokasi dengan detail adjektiva yang akurat.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. The accident is good.", "isCorrect": false },
+        { "text": "B. The accident happened near the wet, slippery loading area.", "isCorrect": true },
+        { "text": "C. The accident then next.", "isCorrect": false },
+        { "text": "D. The accident smells fragrant.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which set contains only adjectives?",
+      "explanation": "'ancient, quiet, spacious' semuanya adjektiva. Pilihan lain mengandung verba atau adverb.",
+      "difficulty": "MEDIUM",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. run, jump, quickly", "isCorrect": false },
+        { "text": "B. ancient, quiet, spacious", "isCorrect": true },
+        { "text": "C. went, then, after", "isCorrect": false },
+        { "text": "D. table, chair, window", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence uses an active verb related to the senses?",
+      "explanation": "'The flowers smell wonderful' memakai verba aktif 'smell' yang berkaitan dengan indera penciuman.",
+      "difficulty": "MEDIUM",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. The flowers are red.", "isCorrect": false },
+        { "text": "B. The flowers smell wonderful.", "isCorrect": true },
+        { "text": "C. The flowers have petals.", "isCorrect": false },
+        { "text": "D. The flowers seem nice.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In the library text, what makes the room feel bright and warm?",
+      "explanation": "Jendela besar memasukkan banyak cahaya alami sehingga ruangan terasa terang dan hangat.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. Loud music", "isCorrect": false },
+        { "text": "B. Large windows that let in plenty of natural light", "isCorrect": true },
+        { "text": "C. A fireplace", "isCorrect": false },
+        { "text": "D. Colorful lamps", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly uses 'has' for describing a feature?",
+      "explanation": "Subjek tunggal 'The building' memakai 'has': The building has three large emergency exits.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. The building have three exits.", "isCorrect": false },
+        { "text": "B. The building has three large emergency exits.", "isCorrect": true },
+        { "text": "C. The building had three exits now.", "isCorrect": false },
+        { "text": "D. The building having exits.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which is the best Indonesian translation of 'Work Locations'?",
+      "explanation": "'Work Locations' diterjemahkan menjadi 'Lokasi Kerja'.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. Prosedur kerja", "isCorrect": false },
+        { "text": "B. Lokasi kerja", "isCorrect": true },
+        { "text": "C. Alat kerja", "isCorrect": false },
+        { "text": "D. Bahaya kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of the following best describes the function of detail in a descriptive text?",
+      "explanation": "Detail bertujuan memberi gambaran jelas tentang ciri fisik, kualitas, dan kesan terhadap objek.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Sosial",
+      "options": [
+        { "text": "A. To confuse the reader", "isCorrect": false },
+        { "text": "B. To give a clear image of the object's physical features, quality, and impression", "isCorrect": true },
+        { "text": "C. To list events by time", "isCorrect": false },
+        { "text": "D. To argue a point of view", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence contains both an adjective and a relational verb?",
+      "explanation": "'The room is spacious' memuat verba relasional 'is' dan adjektiva 'spacious'.",
+      "difficulty": "MEDIUM",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. The room is spacious.", "isCorrect": true },
+        { "text": "B. The students run quickly.", "isCorrect": false },
+        { "text": "C. Then they left.", "isCorrect": false },
+        { "text": "D. He went home.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which describes the object spatially (by layout)?",
+      "explanation": "'On the left is a sink, and on the right stands a tall cabinet' menggambarkan tata letak/ruang (spasial).",
+      "difficulty": "MEDIUM",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. The lab is good.", "isCorrect": false },
+        { "text": "B. On the left is a sink, and on the right stands a tall cabinet.", "isCorrect": true },
+        { "text": "C. First, then, finally.", "isCorrect": false },
+        { "text": "D. The lab was cleaned.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is a synonym for the adjective 'quiet'?",
+      "explanation": "Sinonim 'quiet' (tenang/sunyi) adalah 'peaceful'.",
+      "difficulty": "MEDIUM",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. noisy", "isCorrect": false },
+        { "text": "B. peaceful", "isCorrect": true },
+        { "text": "C. crowded", "isCorrect": false },
+        { "text": "D. busy", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct sentence to describe an ongoing general fact about a place.",
+      "explanation": "'The library opens at eight every morning' menyatakan fakta umum/rutin dengan Simple Present yang benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. The library opens at eight every morning.", "isCorrect": true },
+        { "text": "B. The library opened at eight tomorrow.", "isCorrect": false },
+        { "text": "C. The library open at eight.", "isCorrect": false },
+        { "text": "D. The library opening at eight.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which phrase is a noun phrase with an adjective describing a hazard?",
+      "explanation": "'a sharp, broken edge' adalah frasa nomina dengan adjektiva 'sharp' dan 'broken' yang menggambarkan bahaya.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. ran quickly home", "isCorrect": false },
+        { "text": "B. a sharp, broken edge", "isCorrect": true },
+        { "text": "C. went and finished", "isCorrect": false },
+        { "text": "D. after that, finally", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence about David's reliability uses correct Simple Present?",
+      "explanation": "'If he promises to help you, he will always be there' menggambarkan sifat yang tetap; 'promises' sesuai orang ketiga tunggal.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. If he promise to help, he there.", "isCorrect": false },
+        { "text": "B. If he promises to help you, he will always be there.", "isCorrect": true },
+        { "text": "C. If he promised to help yesterday.", "isCorrect": false },
+        { "text": "D. He promising to help you.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which word would NOT typically appear in a descriptive text?",
+      "explanation": "'Yesterday' adalah penanda waktu lampau (untuk teks rekon), bukan ciri khas teks deskriptif yang memakai present tense.",
+      "difficulty": "MEDIUM",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. beautiful", "isCorrect": false },
+        { "text": "B. large", "isCorrect": false },
+        { "text": "C. yesterday", "isCorrect": true },
+        { "text": "D. fragrant", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which is correct for describing color of an object in present tense?",
+      "explanation": "'It is pure white on the outside' menggambarkan warna dengan verba relasional 'is' yang benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. It pure white outside.", "isCorrect": false },
+        { "text": "B. It is pure white on the outside.", "isCorrect": true },
+        { "text": "C. It were white outside.", "isCorrect": false },
+        { "text": "D. It white is outside.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the role of the small chip on the rim in the mug text?",
+      "explanation": "Chip kecil di bibir mug mengingatkan penulis pada hari ia membelinya, menambah kesan personal.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. It reminds the writer of the day the mug was bought.", "isCorrect": true },
+        { "text": "B. It makes the mug useless.", "isCorrect": false },
+        { "text": "C. It changes the mug's color.", "isCorrect": false },
+        { "text": "D. It is a brand logo.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which adjective correctly describes the size of the library room?",
+      "explanation": "Teks menyebut ruangan itu 'large' (besar), sehingga adjektiva ukuran yang tepat adalah 'large'.",
+      "difficulty": "MEDIUM",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. tiny", "isCorrect": false },
+        { "text": "B. large", "isCorrect": true },
+        { "text": "C. narrow", "isCorrect": false },
+        { "text": "D. empty", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Identify the best title for a descriptive text about David.",
+      "explanation": "Judul yang baik menyebut objek spesifik: 'My Best Friend, David'.",
+      "difficulty": "MEDIUM",
+      "tag": "Definisi & Fungsi Sosial",
+      "options": [
+        { "text": "A. How to Make Friends", "isCorrect": false },
+        { "text": "B. My Best Friend, David", "isCorrect": true },
+        { "text": "C. My Trip to Bali Last Week", "isCorrect": false },
+        { "text": "D. The History of Friendship", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence keeps the description objective and physical?",
+      "explanation": "'The cabinet is two meters tall and made of steel' menggambarkan ciri fisik objektif yang terukur.",
+      "difficulty": "MEDIUM",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. The cabinet is two meters tall and made of steel.", "isCorrect": true },
+        { "text": "B. The cabinet was scary yesterday.", "isCorrect": false },
+        { "text": "C. The cabinet then ran away.", "isCorrect": false },
+        { "text": "D. Finally the cabinet.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly turns 'The room is bright' into a question?",
+      "explanation": "Pertanyaan yes/no dengan 'be' membalik posisi: 'Is the room bright?'.",
+      "difficulty": "MEDIUM",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. Does the room is bright?", "isCorrect": false },
+        { "text": "B. Is the room bright?", "isCorrect": true },
+        { "text": "C. The room is bright?", "isCorrect": false },
+        { "text": "D. Are the room bright?", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which adjective describes temperature suitable for a descriptive text?",
+      "explanation": "'Warm' (hangat) adalah adjektiva yang menggambarkan suhu, seperti pada 'it feels warm and solid'.",
+      "difficulty": "MEDIUM",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. quickly", "isCorrect": false },
+        { "text": "B. warm", "isCorrect": true },
+        { "text": "C. then", "isCorrect": false },
+        { "text": "D. ran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence demonstrates describing 'from the most prominent feature' first?",
+      "explanation": "'The most striking thing about the room is its huge glass wall' memulai dari ciri paling menonjol.",
+      "difficulty": "HARD",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. The room has a chair.", "isCorrect": false },
+        { "text": "B. The most striking thing about the room is its huge glass wall.", "isCorrect": true },
+        { "text": "C. Yesterday the room was cleaned.", "isCorrect": false },
+        { "text": "D. First, then, next the room.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the sentence with correct subject-verb agreement in the present tense.",
+      "explanation": "'The teacher and the students work together' memakai verba jamak 'work' karena subjek gabungan (and).",
+      "difficulty": "HARD",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. The teacher and the students works together.", "isCorrect": false },
+        { "text": "B. The teacher and the students work together.", "isCorrect": true },
+        { "text": "C. The teacher and the students is working.", "isCorrect": false },
+        { "text": "D. The teacher and the students works.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly uses an adjective in the comparative degree?",
+      "explanation": "'This room is brighter than the other one' adalah penggunaan komparatif 'brighter' yang benar.",
+      "difficulty": "HARD",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. This room is more bright than that.", "isCorrect": false },
+        { "text": "B. This room is brighter than the other one.", "isCorrect": true },
+        { "text": "C. This room is brightest than that.", "isCorrect": false },
+        { "text": "D. This room is more brighter.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence uses the superlative adjective correctly to describe a person?",
+      "explanation": "'David is one of the kindest people I know' menggunakan superlatif 'kindest' dengan benar.",
+      "difficulty": "HARD",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. David is the most kindest person.", "isCorrect": false },
+        { "text": "B. David is one of the kindest people I know.", "isCorrect": true },
+        { "text": "C. David is more kind than kindest.", "isCorrect": false },
+        { "text": "D. David is kinder of all.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analyze: 'The room is large and filled with tall bookshelves that are packed with books of all colors.' How many adjectives describe the bookshelves and books directly?",
+      "explanation": "Adjektiva langsung: 'tall' (bookshelves) dan 'packed'/'all colors' menggambarkan books; secara langsung yang menjadi atribut adalah 'tall' dan 'packed'. Jawaban menekankan adjektiva 'tall' dan 'packed' (dua).",
+      "difficulty": "HARD",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. None", "isCorrect": false },
+        { "text": "B. Two (tall, packed)", "isCorrect": true },
+        { "text": "C. Five", "isCorrect": false },
+        { "text": "D. One", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence best combines a relational verb and an active sensory verb?",
+      "explanation": "'The garden is colorful and smells sweet' memadukan verba relasional 'is' dan verba indera aktif 'smells'.",
+      "difficulty": "HARD",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. The garden is colorful and smells sweet.", "isCorrect": true },
+        { "text": "B. The garden went and arrived.", "isCorrect": false },
+        { "text": "C. The garden first then next.", "isCorrect": false },
+        { "text": "D. The garden was planted yesterday.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "A descriptive paragraph should maintain consistency in ____.",
+      "explanation": "Teks deskriptif sebaiknya konsisten dalam tense (umumnya Simple Present) agar gambaran utuh dan tidak membingungkan.",
+      "difficulty": "HARD",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. tense (mostly Simple Present)", "isCorrect": true },
+        { "text": "B. using random tenses", "isCorrect": false },
+        { "text": "C. only past tense", "isCorrect": false },
+        { "text": "D. avoiding adjectives", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rewrite correctly in Simple Present: 'The waves crashed loudly.' (as a general description)",
+      "explanation": "Untuk deskripsi umum, ubah ke present: 'The waves crash loudly.'",
+      "difficulty": "HARD",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. The waves crashing loudly.", "isCorrect": false },
+        { "text": "B. The waves crash loudly.", "isCorrect": true },
+        { "text": "C. The waves crashes loudly.", "isCorrect": false },
+        { "text": "D. The waves will crashed loudly.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which is the most accurate K3 hazard description using descriptive features?",
+      "explanation": "'The chemical container is rusty, and a yellow liquid leaks from its base' memakai adjektiva dan verba aktif untuk deskripsi bahaya akurat.",
+      "difficulty": "HARD",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. The container is something.", "isCorrect": false },
+        { "text": "B. The chemical container is rusty, and a yellow liquid leaks from its base.", "isCorrect": true },
+        { "text": "C. The container then went away.", "isCorrect": false },
+        { "text": "D. Finally the container was old.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which option correctly distinguishes simile from metaphor?",
+      "explanation": "Simile memakai 'like/as' untuk membandingkan, sedangkan metafora menyatakan satu hal adalah hal lain secara langsung tanpa 'like/as'.",
+      "difficulty": "HARD",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. Simile uses 'like/as'; metaphor states one thing is another directly", "isCorrect": true },
+        { "text": "B. They are identical", "isCorrect": false },
+        { "text": "C. Metaphor always uses 'as'", "isCorrect": false },
+        { "text": "D. Simile never compares anything", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the correct passive-like present description: 'The walls ____ painted white.'",
+      "explanation": "Subjek jamak 'The walls' memakai 'are': The walls are painted white.",
+      "difficulty": "HARD",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. is", "isCorrect": false },
+        { "text": "B. are", "isCorrect": true },
+        { "text": "C. was", "isCorrect": false },
+        { "text": "D. were", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "In an exam, you must describe a fire extinguisher (APAR) for a K3 report. Which sentence is best?",
+      "explanation": "'The fire extinguisher is red, cylindrical, and weighs about three kilograms' adalah deskripsi objektif dengan adjektiva dan present tense.",
+      "difficulty": "HARD",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. The fire extinguisher is red, cylindrical, and weighs about three kilograms.", "isCorrect": true },
+        { "text": "B. The fire extinguisher ran fast.", "isCorrect": false },
+        { "text": "C. The fire extinguisher then finally.", "isCorrect": false },
+        { "text": "D. The fire extinguisher was used last year by someone.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence is grammatically incorrect for a descriptive text?",
+      "explanation": "'The library are quiet' salah karena subjek tunggal 'library' harus memakai 'is', bukan 'are'.",
+      "difficulty": "HARD",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. The library is quiet.", "isCorrect": false },
+        { "text": "B. The library are quiet.", "isCorrect": true },
+        { "text": "C. The library has many books.", "isCorrect": false },
+        { "text": "D. The library smells of old paper.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which best explains why a K3 professional needs descriptive writing skills?",
+      "explanation": "Profesional K3 perlu mendeskripsikan secara akurat bahaya, APD, prosedur, lokasi kejadian, dan karakteristik bahan berbahaya.",
+      "difficulty": "HARD",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. To write fictional stories", "isCorrect": false },
+        { "text": "B. To accurately describe hazards, PPE, procedures, and accident locations", "isCorrect": true },
+        { "text": "C. To list past holidays", "isCorrect": false },
+        { "text": "D. To persuade customers", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Analyze the structure: a text starts with 'The library at my school is a quiet and peaceful place...' then gives details, then ends with 'I feel a sense of calm and focus.' What is the order of parts?",
+      "explanation": "Urutannya: Identification (pengenalan tempat), Description (detail), lalu Impression/kesan penutup.",
+      "difficulty": "HARD",
+      "tag": "Struktur Generik (Generic Structure)",
+      "options": [
+        { "text": "A. Description, Identification, Orientation", "isCorrect": false },
+        { "text": "B. Identification, Description, Impression", "isCorrect": true },
+        { "text": "C. Orientation, Events, Reorientation", "isCorrect": false },
+        { "text": "D. Goal, Steps, Conclusion", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly uses an adjective phrase as a feature description?",
+      "explanation": "'a comfortable handle that fits perfectly in my hand' adalah frasa adjektiva yang mendeskripsikan fitur pegangan.",
+      "difficulty": "HARD",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. a comfortable handle that fits perfectly in my hand", "isCorrect": true },
+        { "text": "B. went home quickly yesterday", "isCorrect": false },
+        { "text": "C. first then after that finally", "isCorrect": false },
+        { "text": "D. was opened by the mayor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the best concluding impression about a workplace for a K3 description.",
+      "explanation": "'Overall, the workshop is well-organized but still needs better lighting' adalah kesan umum yang sesuai untuk penutup deskriptif.",
+      "difficulty": "HARD",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. First, then, next, finally.", "isCorrect": false },
+        { "text": "B. Overall, the workshop is well-organized but still needs better lighting.", "isCorrect": true },
+        { "text": "C. The workshop went home.", "isCorrect": false },
+        { "text": "D. Yesterday the workshop closed.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which of these maintains an objective, factual tone suitable for a K3 description?",
+      "explanation": "'The ladder is three meters high and has a non-slip base' bersifat objektif dan faktual, sesuai laporan K3.",
+      "difficulty": "HARD",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. The ladder is three meters high and has a non-slip base.", "isCorrect": true },
+        { "text": "B. The ladder is the scariest thing ever in the world!", "isCorrect": false },
+        { "text": "C. The ladder ran and jumped.", "isCorrect": false },
+        { "text": "D. I hate the ladder so much.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly uses 'seem' as a relational verb?",
+      "explanation": "'His eyes seem bright and friendly' memakai 'seem' sebagai verba relasional yang diikuti adjektiva.",
+      "difficulty": "HARD",
+      "tag": "Ciri Kebahasaan (Language Features)",
+      "options": [
+        { "text": "A. His eyes seem brightly friendly run.", "isCorrect": false },
+        { "text": "B. His eyes seem bright and friendly.", "isCorrect": true },
+        { "text": "C. His eyes seems running.", "isCorrect": false },
+        { "text": "D. His eyes seemed yesterday.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "What is the most appropriate adjective order in: 'a ____ steel cabinet'?",
+      "explanation": "Urutan adjektiva: ukuran sebelum bahan, jadi 'a tall steel cabinet' benar (tall = ukuran, steel = bahan).",
+      "difficulty": "HARD",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. steel tall", "isCorrect": false },
+        { "text": "B. tall", "isCorrect": true },
+        { "text": "C. cabinet steel", "isCorrect": false },
+        { "text": "D. quickly tall", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which detail in the David text appeals to behavior rather than appearance?",
+      "explanation": "'He gives you his full attention and never interrupts' menggambarkan perilaku, bukan penampilan fisik.",
+      "difficulty": "HARD",
+      "tag": "Contoh & Analisis Teks",
+      "options": [
+        { "text": "A. He is tall.", "isCorrect": false },
+        { "text": "B. He gives you his full attention and never interrupts.", "isCorrect": true },
+        { "text": "C. His eyes are bright.", "isCorrect": false },
+        { "text": "D. He wears simple t-shirts.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence keeps the present tense AND uses a metaphor to describe a place?",
+      "explanation": "'The library is a peaceful island in a busy school' adalah metafora present tense yang menggambarkan tempat.",
+      "difficulty": "HARD",
+      "tag": "Adjectives & Bahasa Kiasan",
+      "options": [
+        { "text": "A. The library is a peaceful island in a busy school.", "isCorrect": true },
+        { "text": "B. The library was like an island yesterday.", "isCorrect": false },
+        { "text": "C. The library ran to the school.", "isCorrect": false },
+        { "text": "D. First the library, then the class.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "When describing the characteristics of a dangerous substance (bahan berbahaya), which sentence is most accurate?",
+      "explanation": "'The liquid is highly flammable and has a strong, sharp smell' mendeskripsikan karakteristik bahan berbahaya dengan adjektiva tepat.",
+      "difficulty": "HARD",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. The liquid is highly flammable and has a strong, sharp smell.", "isCorrect": true },
+        { "text": "B. The liquid then went next finally.", "isCorrect": false },
+        { "text": "C. The liquid was spilled last week.", "isCorrect": false },
+        { "text": "D. The liquid run and jumps.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which sentence correctly fixes the error in: 'The chairs is comfortable.'?",
+      "explanation": "Subjek jamak 'The chairs' harus memakai 'are': The chairs are comfortable.",
+      "difficulty": "HARD",
+      "tag": "Simple Present Tense",
+      "options": [
+        { "text": "A. The chairs are comfortable.", "isCorrect": true },
+        { "text": "B. The chairs was comfortable.", "isCorrect": false },
+        { "text": "C. The chairs be comfortable.", "isCorrect": false },
+        { "text": "D. The chairs is comfortables.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Which statement about descriptive text is FALSE?",
+      "explanation": "Pernyataan yang salah adalah bahwa teks deskriptif menceritakan urutan peristiwa lampau — itu adalah ciri teks rekon, bukan deskriptif.",
+      "difficulty": "HARD",
+      "tag": "Definisi & Fungsi Sosial",
+      "options": [
+        { "text": "A. It uses many adjectives.", "isCorrect": false },
+        { "text": "B. It retells a sequence of past events chronologically.", "isCorrect": true },
+        { "text": "C. It commonly uses the Simple Present Tense.", "isCorrect": false },
+        { "text": "D. It describes a particular object, person, or place.", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Choose the most precise descriptive sentence for an emergency exit (a K3 location).",
+      "explanation": "'The emergency exit is a wide, green door located at the end of the corridor' memberi deskripsi lokasi yang jelas dan terperinci.",
+      "difficulty": "HARD",
+      "tag": "Penerapan K3 (K3 Application)",
+      "options": [
+        { "text": "A. The emergency exit is a wide, green door located at the end of the corridor.", "isCorrect": true },
+        { "text": "B. The emergency exit then ran away.", "isCorrect": false },
+        { "text": "C. The emergency exit was used yesterday.", "isCorrect": false },
+        { "text": "D. First exit, then door, finally end.", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Descriptive text (definisi)", "back": "Teks yang menggambarkan suatu objek, orang, atau tempat tertentu secara detail sehingga pembaca seolah dapat melihat/merasakannya.", "tag": "Definisi & Fungsi Sosial" },
+    { "front": "Social function of descriptive text", "back": "To describe a particular person, place, or thing in detail.", "tag": "Definisi & Fungsi Sosial" },
+    { "front": "Generic structure", "back": "1) Identification (pengenalan objek) 2) Description (detail/ciri) 3) Impression/Conclusion (opsional, kesan).", "tag": "Struktur Generik (Generic Structure)" },
+    { "front": "Identification", "back": "Bagian pembuka yang memperkenalkan objek yang akan dideskripsikan.", "tag": "Struktur Generik (Generic Structure)" },
+    { "front": "Description (deskripsi bagian)", "back": "Inti teks berisi pemaparan detail dan ciri khusus objek (spasial, luar-dalam, atau dari yang menonjol).", "tag": "Struktur Generik (Generic Structure)" },
+    { "front": "Dominant tense", "back": "Simple Present Tense, karena menggambarkan fakta/keadaan umum objek. Contoh: The beach is clean.", "tag": "Simple Present Tense" },
+    { "front": "Third person singular rule", "back": "Subjek tunggal (he/she/it) menambah -s pada verba dan memakai is/has. Contoh: David has a smile.", "tag": "Simple Present Tense" },
+    { "front": "Relational verbs", "back": "Kata kerja keadaan/atribut: is, am, are, have, has, seem, appear. Contoh: Borobudur is a temple.", "tag": "Ciri Kebahasaan (Language Features)" },
+    { "front": "Action (sensory) verbs", "back": "Kata kerja tindakan, sering melibatkan indera: crash, smell, shine. Contoh: The waves crash loudly.", "tag": "Ciri Kebahasaan (Language Features)" },
+    { "front": "Adjectives", "back": "Kata sifat yang dominan dalam teks deskriptif: large, ancient, beautiful, quiet, spacious, fragrant.", "tag": "Adjectives & Bahasa Kiasan" },
+    { "front": "Simile", "back": "Perbandingan memakai 'like/as'. Contoh: The sky is like a canvas painted with orange and purple.", "tag": "Adjectives & Bahasa Kiasan" },
+    { "front": "Metaphor", "back": "Menyatakan satu hal adalah hal lain secara langsung tanpa 'like/as'. Contoh: The library is a peaceful island.", "tag": "Adjectives & Bahasa Kiasan" },
+    { "front": "Adjective order", "back": "Opini-ukuran-usia-bentuk-warna-asal-bahan. Contoh: a large white ceramic mug.", "tag": "Adjectives & Bahasa Kiasan" },
+    { "front": "Spatial description", "back": "Mendeskripsikan berdasarkan tata letak/ruang. Contoh: On the left is a sink, on the right stands a cabinet.", "tag": "Struktur Generik (Generic Structure)" },
+    { "front": "PPE = ?", "back": "Personal Protective Equipment = APD (Alat Pelindung Diri).", "tag": "Penerapan K3 (K3 Application)" },
+    { "front": "Hazards = ?", "back": "Bahaya. Profesional K3 harus mampu mendeskripsikan hazards secara akurat.", "tag": "Penerapan K3 (K3 Application)" },
+    { "front": "Procedures = ?", "back": "Prosedur. Work Locations = Lokasi Kerja.", "tag": "Penerapan K3 (K3 Application)" },
+    { "front": "Descriptive vs Recount", "back": "Descriptive = Simple Present, menggambarkan objek. Recount = Simple Past, menceritakan peristiwa lampau.", "tag": "Definisi & Fungsi Sosial" },
+    { "front": "Impression/Conclusion", "back": "Bagian penutup opsional berisi kesan umum penulis. Contoh: This mug makes my morning feel special and calm.", "tag": "Struktur Generik (Generic Structure)" },
+    { "front": "K3 descriptive use", "back": "Mendeskripsikan bahaya, APD, prosedur keselamatan, lokasi kecelakaan, dan karakteristik bahan berbahaya secara akurat.", "tag": "Penerapan K3 (K3 Application)" }
+  ],
+  "mindmap": [
+    { "id": "descriptive-text", "label": "Descriptive Text", "color": "#6366f1", "parent": null, "content": "Teks yang menggambarkan objek, orang, atau tempat tertentu secara detail menggunakan Simple Present, adjectives, dan verba relasional/aktif." },
+    { "id": "definition", "label": "Definition & Function", "color": "#8b5cf6", "parent": "descriptive-text", "content": "Definisi dan fungsi sosial teks deskriptif: menggambarkan objek spesifik secara detail." },
+    { "id": "def-meaning", "label": "Meaning", "color": "#8b5cf6", "parent": "definition", "content": "Teks yang membuat pembaca seolah dapat melihat, mendengar, atau merasakan langsung objek yang dideskripsikan." },
+    { "id": "def-social-function", "label": "Social Function", "color": "#8b5cf6", "parent": "definition", "content": "Menggambarkan ciri fisik, kualitas, dan kesan terhadap suatu objek, orang, atau tempat tertentu." },
+    { "id": "def-vs-others", "label": "vs Recount/Report", "color": "#8b5cf6", "parent": "definition", "content": "Beda dengan recount (past tense, peristiwa) dan report (objek umum). Descriptive memakai present dan objek spesifik." },
+    { "id": "structure", "label": "Generic Structure", "color": "#0ea5e9", "parent": "descriptive-text", "content": "Struktur generik teks deskriptif terdiri atas tiga bagian utama." },
+    { "id": "struct-identification", "label": "Identification", "color": "#0ea5e9", "parent": "structure", "content": "Bagian pembuka yang memperkenalkan objek yang akan dideskripsikan." },
+    { "id": "struct-description", "label": "Description", "color": "#0ea5e9", "parent": "structure", "content": "Inti teks berisi detail dan ciri khusus objek; bisa spasial, luar-dalam, atau dari yang paling menonjol." },
+    { "id": "struct-impression", "label": "Impression", "color": "#0ea5e9", "parent": "structure", "content": "Penutup opsional berisi kesan umum penulis terhadap objek." },
+    { "id": "language-features", "label": "Language Features", "color": "#10b981", "parent": "descriptive-text", "content": "Ciri kebahasaan teks deskriptif: tense, verba, dan kata sifat." },
+    { "id": "lf-relational", "label": "Relational Verbs", "color": "#10b981", "parent": "language-features", "content": "Verba keadaan/atribut: is, am, are, have, has, seem, appear. Contoh: Borobudur is a temple." },
+    { "id": "lf-action", "label": "Action Verbs", "color": "#10b981", "parent": "language-features", "content": "Verba tindakan sering melibatkan indera: crash, smell, shine. Contoh: The waves crash loudly." },
+    { "id": "lf-noun-phrase", "label": "Noun Phrases", "color": "#10b981", "parent": "language-features", "content": "Frasa benda dengan adjektiva untuk detail. Contoh: a comfortable handle that fits perfectly." },
+    { "id": "present-tense", "label": "Simple Present Tense", "color": "#f59e0b", "parent": "descriptive-text", "content": "Tense dominan karena menggambarkan fakta/keadaan umum objek." },
+    { "id": "spt-be", "label": "To Be (is/are)", "color": "#f59e0b", "parent": "present-tense", "content": "Subjek tunggal pakai 'is', jamak pakai 'are'. Contoh: The beach is clean; The walls are white." },
+    { "id": "spt-s-rule", "label": "-s/es Rule", "color": "#f59e0b", "parent": "present-tense", "content": "Subjek orang ketiga tunggal menambah -s/-es atau memakai has. Contoh: David has a smile; She listens." },
+    { "id": "spt-negative", "label": "Negative & Question", "color": "#f59e0b", "parent": "present-tense", "content": "Negatif: does not + verb dasar. Tanya be: Is the room bright? Contoh: The mug does not have patterns." },
+    { "id": "adjectives", "label": "Adjectives & Figures", "color": "#ef4444", "parent": "descriptive-text", "content": "Kata sifat dan bahasa kiasan untuk memperkuat gambaran." },
+    { "id": "adj-types", "label": "Types of Adjectives", "color": "#ef4444", "parent": "adjectives", "content": "Menggambarkan ukuran, warna, tekstur, suhu, bau: large, white, rough, warm, fragrant." },
+    { "id": "adj-order", "label": "Adjective Order", "color": "#ef4444", "parent": "adjectives", "content": "Opini-ukuran-usia-bentuk-warna-asal-bahan. Contoh: a large white ceramic mug." },
+    { "id": "adj-simile", "label": "Simile", "color": "#ef4444", "parent": "adjectives", "content": "Perbandingan pakai 'like/as'. Contoh: The sky is like a canvas painted with orange and purple." },
+    { "id": "adj-metaphor", "label": "Metaphor", "color": "#ef4444", "parent": "adjectives", "content": "Menyatakan satu hal adalah hal lain langsung tanpa 'like/as'. Contoh: The library is a peaceful island." },
+    { "id": "examples", "label": "Examples & Analysis", "color": "#ec4899", "parent": "descriptive-text", "content": "Contoh teks deskriptif dan analisisnya: objek, orang, dan tempat." },
+    { "id": "ex-object", "label": "Object (A Mug)", "color": "#ec4899", "parent": "examples", "content": "Mug keramik putih besar, dalamnya biru tua, ada chip kecil; membuat pagi terasa istimewa dan tenang." },
+    { "id": "ex-person", "label": "Person (David)", "color": "#ec4899", "parent": "examples", "content": "David tinggi, senyum hangat, mata cerah; istimewa karena cara mendengarkannya dan sifatnya yang dapat diandalkan." },
+    { "id": "ex-place", "label": "Place (Library)", "color": "#ec4899", "parent": "examples", "content": "Perpustakaan di lantai dua, rak tinggi penuh buku, bau kertas tua, jendela besar; memberi kesan tenang dan fokus." },
+    { "id": "ex-reading", "label": "Reading Comprehension", "color": "#ec4899", "parent": "examples", "content": "Soal pemahaman: lokasi, warna, suara, dan kesan dari contoh teks deskriptif." },
+    { "id": "k3-application", "label": "K3 Application", "color": "#14b8a6", "parent": "descriptive-text", "content": "Penerapan teks deskriptif dalam konteks K3 untuk laporan yang akurat." },
+    { "id": "k3-hazards", "label": "Hazards", "color": "#14b8a6", "parent": "k3-application", "content": "Mendeskripsikan bahaya: The wet floor is slippery and dangerous. Bahaya = Hazards." },
+    { "id": "k3-ppe", "label": "PPE (APD)", "color": "#14b8a6", "parent": "k3-application", "content": "Mendeskripsikan APD dan spesifikasinya. PPE = Personal Protective Equipment = APD." },
+    { "id": "k3-procedures", "label": "Procedures", "color": "#14b8a6", "parent": "k3-application", "content": "Mendeskripsikan prosedur keselamatan. Prosedur = Procedures." },
+    { "id": "k3-locations", "label": "Work Locations", "color": "#14b8a6", "parent": "k3-application", "content": "Mendeskripsikan lokasi kerja/kecelakaan: The emergency exit is a wide, green door at the end of the corridor." },
+    { "id": "k3-substances", "label": "Hazardous Substances", "color": "#14b8a6", "parent": "k3-application", "content": "Mendeskripsikan karakteristik bahan berbahaya: The liquid is highly flammable and has a strong, sharp smell." }
+  ]
+}

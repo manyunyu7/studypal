@@ -1,0 +1,10 @@
+{
+  "subject": "Pemeriksaan Kesehatan",
+  "description": "Mata kuliah tentang pemeriksaan kesehatan kerja dasar dan tanda vital pada pekerja sebagai instrumen deteksi dini penyakit akibat kerja. Membahas konsep dasar, teknik pengukuran tekanan darah, nadi, suhu, pernapasan, status gizi, dan saturasi oksigen, hingga interpretasi hasil, kendala lapangan, serta evaluasi efektivitas program. Bertujuan membekali mahasiswa agar mampu melakukan pemeriksaan terstandar, akurat, dan berkesinambungan di lingkungan kerja.",
+  "icon": "🩺",
+  "order": 7,
+  "semester": {
+    "name": "Semester 2",
+    "year": "2025/2026"
+  }
+}

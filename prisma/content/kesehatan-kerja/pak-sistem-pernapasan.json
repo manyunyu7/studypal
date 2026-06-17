@@ -1,0 +1,1959 @@
+{
+  "topic": "Penyakit Akibat Kerja Sistem Pernapasan",
+  "order": 2,
+  "description": "Penyakit paru akibat kerja (PAK paru) adalah gangguan sistem pernapasan yang timbul akibat pajanan debu, gas, uap, atau agen biologis di tempat kerja. Penyakit ini menjadi penyebab utama penyakit terkait pekerjaan karena frekuensi, keparahan, dan sifatnya yang dapat dicegah. Topik ini mencakup gejala, pemeriksaan, jenis debu, berbagai penyakit paru kerja beserta agen penyebabnya, faktor risiko, dan pengendalian.",
+  "subtopics": [
+    "Gejala & Pemeriksaan",
+    "Jenis Debu & Partikulat",
+    "Penyakit Saluran Napas",
+    "Kelainan Alveolus & Infeksi",
+    "Pneumokoniosis",
+    "Occupational Asthma",
+    "TBC Akibat Kerja",
+    "Faktor Risiko",
+    "Pengendalian"
+  ],
+  "questions": [
+    {
+      "text": "Manakah berikut ini yang termasuk gejala umum penyakit paru akibat kerja?",
+      "explanation": "Gejala umum PAK paru meliputi batuk, sesak napas, sakit dada, dan pola pernapasan tidak normal.",
+      "difficulty": "EASY",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. Batuk, sesak napas, dan sakit dada", "isCorrect": true },
+        { "text": "B. Demam tinggi dan ruam kulit", "isCorrect": false },
+        { "text": "C. Nyeri sendi dan bengkak kaki", "isCorrect": false },
+        { "text": "D. Mual dan diare", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa gejala penyakit paru akibat kerja sering sulit dibedakan dari penyakit lain?",
+      "explanation": "Gejala PAK paru menyerupai kondisi atau masalah medis lainnya, sehingga harus selalu dikonsultasikan dengan dokter untuk penentuan diagnosis.",
+      "difficulty": "EASY",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. Karena gejalanya selalu unik", "isCorrect": false },
+        { "text": "B. Karena gejalanya menyerupai kondisi atau masalah medis lainnya", "isCorrect": true },
+        { "text": "C. Karena tidak ada gejala sama sekali", "isCorrect": false },
+        { "text": "D. Karena hanya muncul saat tidur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan pencitraan awal yang umum dilakukan untuk mendeteksi penyakit paru akibat kerja adalah?",
+      "explanation": "Foto toraks awal atau CT scan toraks merupakan pemeriksaan pencitraan untuk mendeteksi kelainan paru.",
+      "difficulty": "EASY",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. USG abdomen", "isCorrect": false },
+        { "text": "B. Foto toraks atau CT scan toraks", "isCorrect": true },
+        { "text": "C. EKG", "isCorrect": false },
+        { "text": "D. Endoskopi lambung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan untuk menilai kapasitas dan fungsi paru pekerja disebut?",
+      "explanation": "Tes fungsi paru (spirometri) digunakan untuk mengukur fungsi pernapasan dan mendeteksi gangguan obstruktif atau restriktif.",
+      "difficulty": "EASY",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. Audiometri", "isCorrect": false },
+        { "text": "B. Tes fungsi paru (spirometri)", "isCorrect": true },
+        { "text": "C. Tonometri", "isCorrect": false },
+        { "text": "D. Elektromiografi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan mikroskopis dari jaringan, sel, dan cairan paru diperoleh melalui?",
+      "explanation": "Pemeriksaan mikroskopis dilakukan dari biopsi atau otopsi jaringan, sel, dan cairan dari paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. Pemeriksaan darah rutin", "isCorrect": false },
+        { "text": "B. Biopsi atau otopsi jaringan paru", "isCorrect": true },
+        { "text": "C. Pengukuran tekanan darah", "isCorrect": false },
+        { "text": "D. Tes urine", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan jalan napas atau aktivitas bronkus untuk PAK paru disebut?",
+      "explanation": "Pemeriksaan bronkus (bronkoskopi) menilai jalan napas dan aktivitas bronkus pada penyakit paru akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. Pemeriksaan bronkus (bronkoskopi)", "isCorrect": true },
+        { "text": "B. Pemeriksaan retina", "isCorrect": false },
+        { "text": "C. Pemeriksaan saraf tepi", "isCorrect": false },
+        { "text": "D. Pemeriksaan kelenjar getah bening", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain foto toraks dan tes fungsi paru, pemeriksaan biokimia dilakukan pada?",
+      "explanation": "Studi biokimia dan seluler dilakukan pada cairan paru untuk menilai proses penyakit di paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. Cairan sendi", "isCorrect": false },
+        { "text": "B. Cairan paru", "isCorrect": true },
+        { "text": "C. Cairan otak", "isCorrect": false },
+        { "text": "D. Cairan empedu", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengukuran pertukaran gas pada pemeriksaan paru bertujuan menilai?",
+      "explanation": "Pengukuran fungsi pernapasan atau pertukaran gas menilai kemampuan paru menukar oksigen dan karbon dioksida.",
+      "difficulty": "MEDIUM",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. Fungsi pertukaran gas paru", "isCorrect": true },
+        { "text": "B. Fungsi ginjal", "isCorrect": false },
+        { "text": "C. Fungsi pencernaan", "isCorrect": false },
+        { "text": "D. Fungsi pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Istilah partikulat (PM) dalam konteks debu di udara mengacu pada?",
+      "explanation": "Partikulat (PM) adalah partikel di udara yang dapat terdiri dari kombinasi debu, serbuk sari, jamur, kotoran, tanah, abu, dan jelaga.",
+      "difficulty": "EASY",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Partikel di udara seperti debu, serbuk sari, abu, dan jelaga", "isCorrect": true },
+        { "text": "B. Hanya gas beracun", "isCorrect": false },
+        { "text": "C. Hanya uap air", "isCorrect": false },
+        { "text": "D. Hanya cahaya matahari", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa partikel debu yang lebih halus lebih merusak paru?",
+      "explanation": "Semakin halus partikelnya, semakin banyak kerusakan karena mudah terhirup jauh ke dalam paru dan diserap ke dalam tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Karena lebih berat", "isCorrect": false },
+        { "text": "B. Karena mudah terhirup jauh ke dalam paru dan diserap tubuh", "isCorrect": true },
+        { "text": "C. Karena berwarna lebih gelap", "isCorrect": false },
+        { "text": "D. Karena tidak bisa terhirup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Debu anorganik didefinisikan sebagai zat yang?",
+      "explanation": "Debu anorganik mengacu pada zat yang tidak mengandung karbon, tidak termasuk oksida karbon sederhana seperti CO dan CO2.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Tidak mengandung karbon", "isCorrect": true },
+        { "text": "B. Selalu berasal dari makhluk hidup", "isCorrect": false },
+        { "text": "C. Selalu mengandung air", "isCorrect": false },
+        { "text": "D. Hanya berbentuk gas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang merupakan contoh debu anorganik?",
+      "explanation": "Contoh debu anorganik adalah asbes, silika kristalin, dan batu bara.",
+      "difficulty": "EASY",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Kapas dan spora jamur", "isCorrect": false },
+        { "text": "B. Asbes, silika kristalin, dan batu bara", "isCorrect": true },
+        { "text": "C. Jerami dan kotoran burung", "isCorrect": false },
+        { "text": "D. Serbuk kayu dan tembakau", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Debu organik mengacu pada zat yang?",
+      "explanation": "Debu organik mengacu pada zat yang mengandung karbon, tidak termasuk oksida karbon sederhana, sulfida, dan karbonat logam.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Mengandung karbon", "isCorrect": true },
+        { "text": "B. Tidak pernah berasal dari makhluk hidup", "isCorrect": false },
+        { "text": "C. Selalu berupa logam", "isCorrect": false },
+        { "text": "D. Tidak bisa terhirup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang merupakan contoh debu organik?",
+      "explanation": "Contoh debu organik adalah kapas, spora jamur, jerami, dan kotoran burung.",
+      "difficulty": "EASY",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Silika kristalin", "isCorrect": false },
+        { "text": "B. Asbes", "isCorrect": false },
+        { "text": "C. Kapas, spora jamur, jerami, dan kotoran burung", "isCorrect": true },
+        { "text": "D. Batu bara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sumber partikulat (PM) di udara umumnya berasal dari?",
+      "explanation": "Sumber partikulat berasal dari pabrik, cerobong asap, knalpot, kebakaran, pertambangan, konstruksi, dan pertanian.",
+      "difficulty": "EASY",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Pabrik, cerobong asap, knalpot, pertambangan, dan konstruksi", "isCorrect": true },
+        { "text": "B. Hanya dari air laut", "isCorrect": false },
+        { "text": "C. Hanya dari hutan lindung", "isCorrect": false },
+        { "text": "D. Hanya dari kebun bunga", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asbes dan silika kristalin termasuk dalam golongan debu?",
+      "explanation": "Asbes dan silika kristalin adalah debu anorganik karena tidak mengandung karbon.",
+      "difficulty": "EASY",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Organik", "isCorrect": false },
+        { "text": "B. Anorganik", "isCorrect": true },
+        { "text": "C. Cair", "isCorrect": false },
+        { "text": "D. Gas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kotoran burung dan spora jamur termasuk dalam golongan debu?",
+      "explanation": "Kotoran burung dan spora jamur adalah contoh debu organik karena berasal dari makhluk hidup dan mengandung karbon.",
+      "difficulty": "EASY",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Anorganik", "isCorrect": false },
+        { "text": "B. Logam berat", "isCorrect": false },
+        { "text": "C. Organik", "isCorrect": true },
+        { "text": "D. Mineral", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu kelompok penyakit paru akibat kerja adalah penyakit saluran pernapasan, yang juga disebut?",
+      "explanation": "Penyakit saluran pernapasan akibat kerja disebut juga penyakit bronchopulmoner.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Bronchopulmoner", "isCorrect": true },
+        { "text": "B. Nefropati", "isCorrect": false },
+        { "text": "C. Dermatosis", "isCorrect": false },
+        { "text": "D. Artropati", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang termasuk peradangan pada penyakit saluran pernapasan akibat kerja?",
+      "explanation": "Peradangan saluran napas akibat kerja meliputi bronkitis, laringitis, faringitis, pleuritis, dan sinusitis.",
+      "difficulty": "EASY",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Gastritis dan kolitis", "isCorrect": false },
+        { "text": "B. Bronkitis, laringitis, faringitis, dan sinusitis", "isCorrect": true },
+        { "text": "C. Artritis dan dermatitis", "isCorrect": false },
+        { "text": "D. Nefritis dan sistitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyebab utama peradangan saluran pernapasan (bronchopulmoner) akibat kerja adalah?",
+      "explanation": "Penyebabnya adalah debu logam keras seperti merkuri (Hg), kadmium (Cd), dan mangan (Mn) beserta uapnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Serat asbes", "isCorrect": false },
+        { "text": "B. Debu logam keras (Hg, Cd, Mn) dan uapnya", "isCorrect": true },
+        { "text": "C. Spora jamur", "isCorrect": false },
+        { "text": "D. Debu kapas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bronkitis akibat kerja yang disebabkan debu logam keras berkaitan dengan pajanan logam?",
+      "explanation": "Bronkitis akibat kerja disebabkan debu logam keras seperti merkuri (Hg), kadmium (Cd), dan mangan (Mn).",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Hg, Cd, dan Mn", "isCorrect": true },
+        { "text": "B. Emas dan perak", "isCorrect": false },
+        { "text": "C. Besi dan tembaga", "isCorrect": false },
+        { "text": "D. Aluminium dan seng", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko infeksi pneumokokus meningkat pada kelompok pekerja?",
+      "explanation": "Risiko infeksi pneumokokus meningkat pada tukang las dan orang yang terpajan asap logam di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Tukang las dan pekerja terpajan asap logam", "isCorrect": true },
+        { "text": "B. Pekerja kantor", "isCorrect": false },
+        { "text": "C. Pengemudi taksi", "isCorrect": false },
+        { "text": "D. Penjaga toko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peradangan pada selaput pembungkus paru (pleura) akibat kerja disebut?",
+      "explanation": "Pleuritis adalah peradangan pleura yang termasuk dalam penyakit saluran pernapasan akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Faringitis", "isCorrect": false },
+        { "text": "B. Pleuritis", "isCorrect": true },
+        { "text": "C. Sinusitis", "isCorrect": false },
+        { "text": "D. Laringitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelompok kedua penyakit paru akibat kerja adalah kelainan pada?",
+      "explanation": "Kelompok kedua adalah kelainan/gangguan dinding alveolus, termasuk pneumonia bakteri.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Dinding alveolus", "isCorrect": true },
+        { "text": "B. Tulang rusuk", "isCorrect": false },
+        { "text": "C. Otot diafragma", "isCorrect": false },
+        { "text": "D. Pita suara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pneumonia bakteri pada kelainan dinding alveolus dapat berasal dari zoonosis berupa?",
+      "explanation": "Pneumonia bakteri dapat berasal dari zoonosis seperti antraks, demam Q, dan psittacosis.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Antraks, demam Q, dan psittacosis", "isCorrect": true },
+        { "text": "B. Influenza dan campak", "isCorrect": false },
+        { "text": "C. Cacar dan rubella", "isCorrect": false },
+        { "text": "D. Difteri dan tetanus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Psittacosis sebagai penyebab pneumonia akibat kerja merupakan penyakit yang ditularkan dari?",
+      "explanation": "Psittacosis adalah zoonosis (penyakit dari hewan ke manusia), umumnya ditularkan dari burung.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Tumbuhan", "isCorrect": false },
+        { "text": "B. Hewan (zoonosis)", "isCorrect": true },
+        { "text": "C. Mineral", "isCorrect": false },
+        { "text": "D. Air laut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain zoonosis, kelainan dinding alveolus dari sumber lingkungan dapat disebabkan oleh?",
+      "explanation": "Dari lingkungan lain, pneumonia dapat disebabkan penyakit Legionnaire, melioidosis, dan leptospirosis.",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Penyakit Legionnaire, melioidosis, dan leptospirosis", "isCorrect": true },
+        { "text": "B. Diabetes dan hipertensi", "isCorrect": false },
+        { "text": "C. Asam urat dan rematik", "isCorrect": false },
+        { "text": "D. Maag dan tukak lambung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Antraks sebagai penyebab pneumonia akibat kerja termasuk dalam kelompok penyakit?",
+      "explanation": "Antraks adalah zoonosis yang dapat menyebabkan pneumonia bakteri pada kelainan dinding alveolus.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Zoonosis", "isCorrect": true },
+        { "text": "B. Penyakit keturunan", "isCorrect": false },
+        { "text": "C. Penyakit degeneratif", "isCorrect": false },
+        { "text": "D. Penyakit autoimun murni", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit Legionnaire pada PAK paru tergolong infeksi yang berasal dari?",
+      "explanation": "Penyakit Legionnaire termasuk infeksi dari lingkungan (bukan zoonosis langsung), bersama melioidosis dan leptospirosis.",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Pajanan radiasi", "isCorrect": false },
+        { "text": "B. Lingkungan", "isCorrect": true },
+        { "text": "C. Getaran mekanik", "isCorrect": false },
+        { "text": "D. Tekanan tinggi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelompok ketiga penyakit paru akibat kerja adalah tuberkulosis (TBC), yang disebabkan oleh?",
+      "explanation": "Tuberkulosis akibat kerja disebabkan oleh Mycobacterium tuberculosis.",
+      "difficulty": "EASY",
+      "tag": "TBC Akibat Kerja",
+      "options": [
+        { "text": "A. Mycobacterium tuberculosis", "isCorrect": true },
+        { "text": "B. Streptococcus pneumoniae", "isCorrect": false },
+        { "text": "C. Virus influenza", "isCorrect": false },
+        { "text": "D. Aspergillus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pajanan kerja yang dikenal merupakan faktor risiko penting untuk tuberkulosis paru adalah?",
+      "explanation": "Pajanan silika merupakan faktor risiko yang terkenal untuk tuberkulosis paru, terutama di wilayah dengan prevalensi HIV tinggi.",
+      "difficulty": "HARD",
+      "tag": "TBC Akibat Kerja",
+      "options": [
+        { "text": "A. Pajanan silika", "isCorrect": true },
+        { "text": "B. Pajanan kebisingan", "isCorrect": false },
+        { "text": "C. Pajanan cahaya terang", "isCorrect": false },
+        { "text": "D. Pajanan getaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja tambang yang terpajan silika kristalin memiliki peningkatan risiko terkena?",
+      "explanation": "Pajanan silika merupakan faktor risiko untuk tuberkulosis paru, sehingga pekerja tambang berisiko lebih tinggi terkena TBC.",
+      "difficulty": "HARD",
+      "tag": "TBC Akibat Kerja",
+      "options": [
+        { "text": "A. Tuberkulosis paru", "isCorrect": true },
+        { "text": "B. Diabetes", "isCorrect": false },
+        { "text": "C. Hipertensi", "isCorrect": false },
+        { "text": "D. Anemia defisiensi besi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asma yang berhubungan dengan pekerjaan dan disebabkan sensitisasi imunologis terhadap agen yang dihirup saat bekerja disebut?",
+      "explanation": "Occupational asthma (asma kerja) disebabkan sensitisasi imunologis terhadap agen spesifik yang dihirup saat bekerja.",
+      "difficulty": "EASY",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Occupational asthma (asma kerja)", "isCorrect": true },
+        { "text": "B. Asma alergi musiman", "isCorrect": false },
+        { "text": "C. Bronkitis kronik", "isCorrect": false },
+        { "text": "D. Emfisema", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mekanisme utama yang mendasari occupational asthma adalah?",
+      "explanation": "Occupational asthma disebabkan oleh sensitisasi imunologis terhadap agen spesifik yang dihirup di tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Sensitisasi imunologis terhadap agen yang dihirup di tempat kerja", "isCorrect": true },
+        { "text": "B. Infeksi virus", "isCorrect": false },
+        { "text": "C. Kekurangan vitamin", "isCorrect": false },
+        { "text": "D. Trauma fisik dada", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah agen yang dapat memicu occupational asthma melalui sensitisasi?",
+      "explanation": "Agen pemicu asma kerja antara lain padi-padian, serbuk kayu, teh, dan tembakau.",
+      "difficulty": "MEDIUM",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Padi-padian, serbuk kayu, teh, dan tembakau", "isCorrect": true },
+        { "text": "B. Air bersih dan udara segar", "isCorrect": false },
+        { "text": "C. Cahaya matahari", "isCorrect": false },
+        { "text": "D. Suhu dingin saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Ciri khas gejala occupational asthma berkaitan dengan waktu kerja adalah?",
+      "explanation": "Pada asma kerja, batuk dan sesak napas bertambah saat bekerja atau setelahnya, dan gejala membaik saat libur.",
+      "difficulty": "MEDIUM",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Gejala memburuk saat bekerja dan membaik saat libur", "isCorrect": true },
+        { "text": "B. Gejala hanya muncul saat tidur malam", "isCorrect": false },
+        { "text": "C. Gejala tidak pernah berubah", "isCorrect": false },
+        { "text": "D. Gejala membaik saat bekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Occupational asthma terjadi karena obstruksi aliran napas yang disertai?",
+      "explanation": "Asma kerja terjadi karena obstruksi aliran napas, hiperresponsif, dan inflamasi saluran napas.",
+      "difficulty": "MEDIUM",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Hiperresponsif dan inflamasi saluran napas", "isCorrect": true },
+        { "text": "B. Peningkatan suhu tubuh", "isCorrect": false },
+        { "text": "C. Penurunan tekanan darah", "isCorrect": false },
+        { "text": "D. Kerusakan ginjal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan spirometri pada penegakan diagnosis asma kerja umumnya menunjukkan?",
+      "explanation": "Pada asma kerja, spirometri menunjukkan adanya obstruksi (hambatan aliran napas).",
+      "difficulty": "MEDIUM",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Adanya obstruksi", "isCorrect": true },
+        { "text": "B. Tekanan darah tinggi", "isCorrect": false },
+        { "text": "C. Kadar gula darah tinggi", "isCorrect": false },
+        { "text": "D. Detak jantung lambat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada diagnosis asma kerja, peran ahli K3 antara lain melakukan?",
+      "explanation": "Ahli K3 berperan dalam pemeriksaan spirometri (deteksi obstruksi) dan dust sampler untuk menilai debu lingkungan kerja.",
+      "difficulty": "HARD",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Pemeriksaan spirometri dan dust sampler debu lingkungan", "isCorrect": true },
+        { "text": "B. Operasi paru", "isCorrect": false },
+        { "text": "C. Pemberian obat bius", "isCorrect": false },
+        { "text": "D. Pemasangan ring jantung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Occupational asthma umumnya muncul pada masa?",
+      "explanation": "Asma kerja muncul pada masa dewasa, berbeda dengan asma alergi yang sering muncul sejak anak-anak.",
+      "difficulty": "MEDIUM",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Masa bayi", "isCorrect": false },
+        { "text": "B. Masa kanak-kanak", "isCorrect": false },
+        { "text": "C. Masa dewasa", "isCorrect": true },
+        { "text": "D. Masa lansia saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat penumpukan debu mineral yang menyebabkan paru berdebu disebut?",
+      "explanation": "Pneumokoniosis (dusty lungs) adalah kelompok penyakit paru akibat penumpukan debu mineral seperti asbes, silika, dan batu bara.",
+      "difficulty": "EASY",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Pneumokoniosis", "isCorrect": true },
+        { "text": "B. Faringitis", "isCorrect": false },
+        { "text": "C. Sinusitis", "isCorrect": false },
+        { "text": "D. Laringitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru fibrotik progresif lambat yang disebabkan inhalasi serat asbes disebut?",
+      "explanation": "Asbestosis adalah penyakit paru fibrotik progresif lambat akibat inhalasi serat asbes, termasuk pneumokoniosis.",
+      "difficulty": "EASY",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Silikosis", "isCorrect": false },
+        { "text": "B. Asbestosis", "isCorrect": true },
+        { "text": "C. Byssinosis", "isCorrect": false },
+        { "text": "D. Beriliosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agen penyebab asbestosis adalah?",
+      "explanation": "Asbestosis disebabkan oleh inhalasi debu/serat asbes (asbestos), suatu senyawa silikat berbentuk serat.",
+      "difficulty": "EASY",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Debu kapas", "isCorrect": false },
+        { "text": "B. Serat asbes", "isCorrect": true },
+        { "text": "C. Spora jamur", "isCorrect": false },
+        { "text": "D. Berilium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asbes (asbestos) merupakan senyawa?",
+      "explanation": "Asbes adalah senyawa silikat, mineral berbentuk serat yang tahan panas tinggi dan bahan korosif.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Senyawa silikat berbentuk serat", "isCorrect": true },
+        { "text": "B. Senyawa karbon murni", "isCorrect": false },
+        { "text": "C. Senyawa protein", "isCorrect": false },
+        { "text": "D. Senyawa gula", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bentuk asbes yang seratnya kaku, lurus, dan tajam menyerupai jarum disebut?",
+      "explanation": "Amfibol adalah bentuk asbes dengan serat kaku, lurus, dan tajam seperti jarum (anthophyllite, crocidolite, amosite, tremolite), bersifat karsinogenik dan fibrogenik.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Serpentin", "isCorrect": false },
+        { "text": "B. Amfibol", "isCorrect": true },
+        { "text": "C. Krisotil", "isCorrect": false },
+        { "text": "D. Kaolin", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bentuk asbes serpentin yang halus, keriting, dan fleksibel diwakili oleh jenis?",
+      "explanation": "Chrysotile (white asbestos) adalah asbes serpentin yang halus, keriting, dan fleksibel seperti benang.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Crocidolite", "isCorrect": false },
+        { "text": "B. Amosite", "isCorrect": false },
+        { "text": "C. Chrysotile (white asbestos)", "isCorrect": true },
+        { "text": "D. Tremolite", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Asbes jenis amfibol memiliki potensi menyebabkan keganasan toraks berupa?",
+      "explanation": "Amfibol bersifat karsinogenik dan fibrogenik, dapat menyebabkan karsinoma, mesothelioma, dan fibrosis paru.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Karsinoma dan mesothelioma", "isCorrect": true },
+        { "text": "B. Diabetes paru", "isCorrect": false },
+        { "text": "C. Gagal ginjal", "isCorrect": false },
+        { "text": "D. Anemia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Keganasan selaput paru (pleura) yang khas berkaitan dengan pajanan asbes adalah?",
+      "explanation": "Mesothelioma (karsinoma pleura) merupakan keganasan yang khas berkaitan dengan pajanan asbes.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Mesothelioma", "isCorrect": true },
+        { "text": "B. Silikosis", "isCorrect": false },
+        { "text": "C. Byssinosis", "isCorrect": false },
+        { "text": "D. Bronkitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hubungan asap rokok dengan pajanan asbes terhadap risiko kanker paru bersifat?",
+      "explanation": "Asap rokok dan asbestos bekerja sinergis, meningkatkan risiko kanker hingga 90x pada perokok dan 9x pada bukan perokok.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Sinergis (saling memperkuat)", "isCorrect": true },
+        { "text": "B. Saling meniadakan", "isCorrect": false },
+        { "text": "C. Tidak ada hubungan", "isCorrect": false },
+        { "text": "D. Mengurangi risiko", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Masa laten (waktu sejak pajanan hingga muncul penyakit) pada asbestosis dan silikosis umumnya?",
+      "explanation": "Asbestosis dan silikosis memiliki masa laten yang lama, sekitar 10 sampai 30 tahun.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. 1-2 hari", "isCorrect": false },
+        { "text": "B. 1-2 minggu", "isCorrect": false },
+        { "text": "C. 10-30 tahun", "isCorrect": true },
+        { "text": "D. Beberapa jam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja yang berisiko terkena asbestosis antara lain pada industri?",
+      "explanation": "Pekerja berisiko asbestosis antara lain pada penambangan asbes, pembuatan kanvas/bantalan rem, pembuatan kapal, dan bahan insulasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Pembuatan kanvas rem dan insulasi", "isCorrect": true },
+        { "text": "B. Industri makanan ringan", "isCorrect": false },
+        { "text": "C. Industri perbankan", "isCorrect": false },
+        { "text": "D. Industri kosmetik cair", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada asbestosis, pemeriksaan auskultasi paru sering menemukan?",
+      "explanation": "Pada asbestosis, auskultasi menemukan suara krepitasi, disertai jari tabuh dan napas pendek progresif.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Suara krepitasi", "isCorrect": true },
+        { "text": "B. Suara jantung berdebar", "isCorrect": false },
+        { "text": "C. Bunyi usus meningkat", "isCorrect": false },
+        { "text": "D. Tidak ada suara apa pun", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pola gangguan fungsi paru pada asbestosis (spirometri) bersifat?",
+      "explanation": "Fungsi paru pada asbestosis bersifat restriktif dengan gambaran honeycombing pada paru.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Restriktif", "isCorrect": true },
+        { "text": "B. Obstruktif murni", "isCorrect": false },
+        { "text": "C. Normal", "isCorrect": false },
+        { "text": "D. Tidak dapat diukur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat inhalasi kristal silikon dioksida (silika kristalin) disebut?",
+      "explanation": "Silikosis disebabkan inhalasi kristal silikon dioksida (SiO2 bebas/silika kristalin) dan ditandai fibrosis paru.",
+      "difficulty": "EASY",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Asbestosis", "isCorrect": false },
+        { "text": "B. Silikosis", "isCorrect": true },
+        { "text": "C. Byssinosis", "isCorrect": false },
+        { "text": "D. Beriliosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agen penyebab silikosis adalah?",
+      "explanation": "Silikosis disebabkan oleh paparan SiO2 bebas (silika kristalin) yang terhirup.",
+      "difficulty": "EASY",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Serat asbes", "isCorrect": false },
+        { "text": "B. Debu kapas", "isCorrect": false },
+        { "text": "C. Silika kristalin (SiO2 bebas)", "isCorrect": true },
+        { "text": "D. Berilium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerjaan yang berisiko terkena silikosis antara lain?",
+      "explanation": "Silikosis berisiko pada tukang batu (konstruksi/pembongkaran), pembuat sandblaster, pembuat perhiasan, dan penambang batuan/pasir yang mengandung kuarsa.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Tukang batu, sandblaster, dan penambang kuarsa", "isCorrect": true },
+        { "text": "B. Penjahit pakaian", "isCorrect": false },
+        { "text": "C. Pegawai bank", "isCorrect": false },
+        { "text": "D. Petugas kebersihan kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Silika kristalin secara alami terdapat terutama pada mineral?",
+      "explanation": "Silika kristalin terjadi secara alami pada batuan terutama kuarsa, pasir, serta produk seperti beton, keramik, batu bata, dan ubin.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Kuarsa", "isCorrect": true },
+        { "text": "B. Emas", "isCorrect": false },
+        { "text": "C. Karbon", "isCorrect": false },
+        { "text": "D. Garam dapur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pneumokoniosis pekerja batu bara disebut juga?",
+      "explanation": "Coal-workers' pneumoconiosis (CWP) adalah pneumokoniosis pekerja batu bara akibat pajanan debu batu bara dan campuran kaolin, mika, silika.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Coal-workers' pneumoconiosis (CWP)", "isCorrect": true },
+        { "text": "B. Byssinosis", "isCorrect": false },
+        { "text": "C. Beriliosis", "isCorrect": false },
+        { "text": "D. Asbestosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agen penyebab Coal-workers' pneumoconiosis (CWP) adalah?",
+      "explanation": "CWP disebabkan pajanan debu batu bara atau debu campuran dari batu bara, kaolin, mika, dan silika.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Debu batu bara dan campurannya", "isCorrect": true },
+        { "text": "B. Debu kapas", "isCorrect": false },
+        { "text": "C. Serbuk kayu", "isCorrect": false },
+        { "text": "D. Spora jamur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penambang batu bara pada foto toraks dapat menunjukkan gambaran khas?",
+      "explanation": "Penambang batu bara dapat mengalami gambaran 'paru-paru hitam' (black lung) pada foto toraks akibat penumpukan debu batu bara.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Paru-paru hitam (black lung)", "isCorrect": true },
+        { "text": "B. Paru-paru bening", "isCorrect": false },
+        { "text": "C. Paru-paru merah", "isCorrect": false },
+        { "text": "D. Tidak ada perubahan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala khas batuk pada pasien Coal-workers' pneumoconiosis (CWP) adalah?",
+      "explanation": "Gejala CWP antara lain batuk berdahak hitam (melanoptisis), emfisema, fibrosis paru, dan dapat berkembang menjadi karsinoma paru.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Batuk berdahak hitam (melanoptisis)", "isCorrect": true },
+        { "text": "B. Batuk berdahak hijau", "isCorrect": false },
+        { "text": "C. Batuk tanpa dahak sama sekali", "isCorrect": false },
+        { "text": "D. Batuk berdarah segar saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat sensitisasi atau efek toksik debu kapas, banyak terjadi di industri tekstil katun, disebut?",
+      "explanation": "Byssinosis adalah penyakit paru akibat debu kapas, banyak terjadi di industri kapuk/tekstil katun.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Silikosis", "isCorrect": false },
+        { "text": "B. Byssinosis", "isCorrect": true },
+        { "text": "C. Asbestosis", "isCorrect": false },
+        { "text": "D. CWP", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agen penyebab byssinosis adalah?",
+      "explanation": "Byssinosis disebabkan endotoksin bakteri gram negatif yang mengkontaminasi debu kapas, sehingga disebut penyakit paru karena bahan organik.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Serat asbes", "isCorrect": false },
+        { "text": "B. Endotoksin bakteri gram negatif pada debu kapas", "isCorrect": true },
+        { "text": "C. Silika kristalin", "isCorrect": false },
+        { "text": "D. Berilium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala khas byssinosis yang muncul terutama pada hari pertama setelah libur disebut?",
+      "explanation": "Byssinosis ditandai 'Monday Morning Feeling/Tightness', yaitu sesak dada terutama pada hari pertama setelah libur dua hari.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Monday Morning Feeling/Tightness", "isCorrect": true },
+        { "text": "B. Weekend syndrome", "isCorrect": false },
+        { "text": "C. Sunday fever", "isCorrect": false },
+        { "text": "D. Holiday cough", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Byssinosis disebut sebagai penyakit paru karena bahan organik karena debu kapasnya dikontaminasi oleh?",
+      "explanation": "Debu kapas pada byssinosis terkontaminasi endotoksin bakteri gram negatif sehingga digolongkan penyakit paru bahan organik.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Endotoksin bakteri", "isCorrect": true },
+        { "text": "B. Logam berat", "isCorrect": false },
+        { "text": "C. Radiasi", "isCorrect": false },
+        { "text": "D. Gas mulia", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pneumokoniosis granulomatosa akibat hipersensitivitas tipe lambat terhadap berilium disebut?",
+      "explanation": "Beriliosis adalah pneumokoniosis granulomatosa akibat reaksi hipersensitivitas tipe lambat terhadap berilium.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Beriliosis", "isCorrect": true },
+        { "text": "B. Silikosis", "isCorrect": false },
+        { "text": "C. Asbestosis", "isCorrect": false },
+        { "text": "D. Byssinosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Agen penyebab beriliosis adalah debu yang mengandung?",
+      "explanation": "Beriliosis disebabkan debu yang mengandung berilium (oksida, sulfat, klorida, fluorida, Be).",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Berilium", "isCorrect": true },
+        { "text": "B. Kapas", "isCorrect": false },
+        { "text": "C. Asbes", "isCorrect": false },
+        { "text": "D. Batu bara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Industri yang berisiko menimbulkan beriliosis antara lain?",
+      "explanation": "Beriliosis berisiko pada industri keramik, peleburan/pencampuran logam, tabung fluorescen, tenaga nuklir, kedirgantaraan, dan kedokteran gigi.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Keramik, tenaga nuklir, dan kedirgantaraan", "isCorrect": true },
+        { "text": "B. Perbankan dan asuransi", "isCorrect": false },
+        { "text": "C. Restoran dan kafe", "isCorrect": false },
+        { "text": "D. Penjahit dan tukang cukur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Alat diagnostik utama untuk menguji respon imun yang diperantarai sel pada beriliosis adalah?",
+      "explanation": "Tes proliferasi limfosit berilium (BeLPT) adalah alat diagnostik utama untuk menguji respon imun seluler pada beriliosis.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Tes proliferasi limfosit berilium (BeLPT)", "isCorrect": true },
+        { "text": "B. Audiometri", "isCorrect": false },
+        { "text": "C. Tes urine rutin", "isCorrect": false },
+        { "text": "D. Elektrokardiogram", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berbeda dari pneumokoniosis lain, pada beriliosis jumlah dan lama pajanan?",
+      "explanation": "Pada beriliosis, jumlah serta lama pajanan tidak berkorelasi dengan kejadian dan keparahan penyakit karena bersifat reaksi hipersensitivitas.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Tidak berkorelasi dengan kejadian dan keparahan penyakit", "isCorrect": true },
+        { "text": "B. Selalu berbanding lurus dengan keparahan", "isCorrect": false },
+        { "text": "C. Tidak pernah diketahui", "isCorrect": false },
+        { "text": "D. Hanya berlaku untuk perokok", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru hipersensitivitas akibat inhalasi berulang partikel organik antigenik disebut?",
+      "explanation": "Hypersensitivity pneumonitis (alveolitis alergi ekstrinsik) terjadi akibat inhalasi berulang partikel organik antigenik dan partikel anorganik berat molekul rendah.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Hypersensitivity pneumonitis (alveolitis alergi ekstrinsik)", "isCorrect": true },
+        { "text": "B. Tuberkulosis", "isCorrect": false },
+        { "text": "C. Silikosis", "isCorrect": false },
+        { "text": "D. Bronkitis kronik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Hypersensitivity pneumonitis pada petani yang terpajan jerami lembab dikenal dengan istilah?",
+      "explanation": "Pada petani disebut 'paru-paru petani' (farmer's lung), akibat sensitisasi mikroorganisme termofilik yang tumbuh di jerami atau substrat organik.",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Paru-paru petani (farmer's lung)", "isCorrect": true },
+        { "text": "B. Paru-paru hitam", "isCorrect": false },
+        { "text": "C. Paru-paru basah", "isCorrect": false },
+        { "text": "D. Paru-paru kering", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Peternak burung dapat terkena hypersensitivity pneumonitis yang dikenal sebagai?",
+      "explanation": "Peternak burung dapat terkena 'paru-paru pemelihara burung' akibat antigen protein serum dari burung/binatang.",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Paru-paru pemelihara burung", "isCorrect": true },
+        { "text": "B. Paru-paru pemintal kapas", "isCorrect": false },
+        { "text": "C. Paru-paru penambang", "isCorrect": false },
+        { "text": "D. Paru-paru perokok", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala hypersensitivity pneumonitis seperti demam, batuk, dan dispnea biasanya muncul dalam waktu?",
+      "explanation": "Gejala muncul dalam waktu 4 sampai 6 jam setelah pajanan antigen berat pada individu yang telah disensitisasi sebelumnya.",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. 4-6 jam setelah pajanan", "isCorrect": true },
+        { "text": "B. 1-2 minggu setelah pajanan", "isCorrect": false },
+        { "text": "C. 1 bulan setelah pajanan", "isCorrect": false },
+        { "text": "D. 1 tahun setelah pajanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Bahan anorganik/kimia yang dapat menyebabkan hypersensitivity pneumonitis pada semprotan cat adalah?",
+      "explanation": "Bahan kimia penyebab antara lain isosianat (TDI), trimellitic anhydride pada semprotan cat dan industri terkait.",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Isosianat (TDI)", "isCorrect": true },
+        { "text": "B. Garam dapur", "isCorrect": false },
+        { "text": "C. Gula pasir", "isCorrect": false },
+        { "text": "D. Air mineral", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru obstruktif kronik (PPOK) akibat kerja disebabkan oleh pajanan?",
+      "explanation": "PPOK akibat kerja disebabkan pajanan debu mineral & organik, asap atau gas/uap iritan, misalnya debu pekerjaan bangunan atau asap pengelasan.",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Debu mineral & organik serta asap/gas iritan", "isCorrect": true },
+        { "text": "B. Air bersih", "isCorrect": false },
+        { "text": "C. Cahaya matahari", "isCorrect": false },
+        { "text": "D. Suara bising", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala khas PPOK akibat kerja (bronkitis kronik) adalah?",
+      "explanation": "Gejala PPOK akibat kerja adalah batuk kronik berdahak (bronkitis kronik).",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Batuk kronik berdahak", "isCorrect": true },
+        { "text": "B. Demam tinggi mendadak", "isCorrect": false },
+        { "text": "C. Nyeri perut hebat", "isCorrect": false },
+        { "text": "D. Ruam kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja pengelasan berisiko terkena PPOK akibat kerja terutama karena pajanan?",
+      "explanation": "Pengelasan menghasilkan asap (fume) logam yang menjadi pajanan penyebab PPOK akibat kerja, di samping debu mineral pada pekerjaan bangunan.",
+      "difficulty": "HARD",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Asap (fume) pengelasan", "isCorrect": true },
+        { "text": "B. Air pendingin", "isCorrect": false },
+        { "text": "C. Cahaya terang", "isCorrect": false },
+        { "text": "D. Getaran tangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat kerja karena kadmium (Cd) selain mengganggu paru juga menyebabkan?",
+      "explanation": "Penyakit karena kadmium menyebabkan kelainan ginjal dan tulang, anemia, serta hilangnya penciuman; terjadi pada pembuatan zat warna dan baterai.",
+      "difficulty": "HARD",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Kelainan ginjal, anemia, dan hilangnya penciuman", "isCorrect": true },
+        { "text": "B. Peningkatan tinggi badan", "isCorrect": false },
+        { "text": "C. Perbaikan penglihatan", "isCorrect": false },
+        { "text": "D. Penguatan tulang", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit akibat kerja karena mangan (Mn) dari debu tambang/baterai dapat menimbulkan gejala neurologis berupa?",
+      "explanation": "Penyakit karena mangan menimbulkan insomnia, tremor, gangguan bicara, dan menangis di luar kesadaran.",
+      "difficulty": "HARD",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Tremor dan gangguan bicara", "isCorrect": true },
+        { "text": "B. Penambahan nafsu makan", "isCorrect": false },
+        { "text": "C. Penurunan suhu tubuh", "isCorrect": false },
+        { "text": "D. Pertumbuhan rambut cepat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit akibat kerja karena krom (Cr) memiliki gejala khas berupa?",
+      "explanation": "Penyakit karena krom (Cr) khasnya menyebabkan perforasi septum nasi dan borok krom pada pelepas logam.",
+      "difficulty": "HARD",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Perforasi septum nasi dan borok krom", "isCorrect": true },
+        { "text": "B. Gigi tanggal", "isCorrect": false },
+        { "text": "C. Kuku rontok", "isCorrect": false },
+        { "text": "D. Rambut beruban", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kelainan pendengaran akibat kebisingan di tempat kerja disebut?",
+      "explanation": "Bising di tempat kerja menyebabkan Noise Induced Hearing Loss (NIHL), salah satu macam penyakit akibat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Noise Induced Hearing Loss (NIHL)", "isCorrect": true },
+        { "text": "B. Asbestosis", "isCorrect": false },
+        { "text": "C. Silikosis", "isCorrect": false },
+        { "text": "D. Byssinosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mesothelioma sebagai karsinoma pleura akibat kerja paling berkaitan dengan pajanan?",
+      "explanation": "Mesothelioma (karsinoma pleura) berkaitan erat dengan pajanan asbes.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Asbes", "isCorrect": true },
+        { "text": "B. Kapas", "isCorrect": false },
+        { "text": "C. Berilium", "isCorrect": false },
+        { "text": "D. Mangan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah berikut ini yang termasuk faktor risiko penyakit paru akibat kerja terkait tempat kerja?",
+      "explanation": "Faktor risiko dari tempat kerja meliputi jenis pajanan dan intensitas pajanan.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Jenis dan intensitas pajanan", "isCorrect": true },
+        { "text": "B. Warna seragam kerja", "isCorrect": false },
+        { "text": "C. Jam istirahat makan", "isCorrect": false },
+        { "text": "D. Jarak rumah ke kantor", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Selain pajanan tempat kerja, faktor risiko individu untuk PAK paru meliputi?",
+      "explanation": "Faktor risiko individu meliputi riwayat atopi/alergi dan kebiasaan merokok.",
+      "difficulty": "EASY",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Riwayat atopi/alergi dan merokok", "isCorrect": true },
+        { "text": "B. Golongan darah", "isCorrect": false },
+        { "text": "C. Tinggi badan", "isCorrect": false },
+        { "text": "D. Warna kulit", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa merokok merupakan faktor risiko penting pada penyakit paru akibat kerja?",
+      "explanation": "Merokok dapat meningkatkan risiko penyakit paru akibat kerja serta meningkatkan keparahan penyakit dan risiko kanker paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Meningkatkan risiko dan keparahan penyakit paru akibat kerja", "isCorrect": true },
+        { "text": "B. Menurunkan risiko penyakit paru", "isCorrect": false },
+        { "text": "C. Tidak berpengaruh sama sekali", "isCorrect": false },
+        { "text": "D. Mempercepat penyembuhan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Riwayat atopi/alergi meningkatkan kerentanan seseorang terhadap penyakit?",
+      "explanation": "Riwayat atopi/alergi merupakan faktor risiko, terutama untuk occupational asthma yang berbasis sensitisasi imunologis.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Occupational asthma", "isCorrect": true },
+        { "text": "B. Patah tulang", "isCorrect": false },
+        { "text": "C. Katarak", "isCorrect": false },
+        { "text": "D. Karies gigi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Risiko occupational asthma meningkat seiring dengan?",
+      "explanation": "Risiko OA meningkat dengan pajanan yang lebih tinggi terhadap agen sensitisasi, bergantung pada kerentanan individu.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Pajanan yang lebih tinggi terhadap agen sensitisasi", "isCorrect": true },
+        { "text": "B. Konsumsi air putih yang banyak", "isCorrect": false },
+        { "text": "C. Olahraga teratur", "isCorrect": false },
+        { "text": "D. Tidur cukup", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Cara paling efektif untuk mengurangi risiko occupational asthma adalah?",
+      "explanation": "Eliminasi total pajanan adalah cara paling efektif untuk mengurangi risiko occupational asthma.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Eliminasi total pajanan", "isCorrect": true },
+        { "text": "B. Menambah jam kerja", "isCorrect": false },
+        { "text": "C. Mengabaikan gejala awal", "isCorrect": false },
+        { "text": "D. Merokok untuk relaksasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Contoh substitusi untuk mengurangi risiko occupational asthma pada pekerja sarung tangan adalah?",
+      "explanation": "Contoh substitusi yang jelas adalah penggantian sarung tangan lateks karet alam dengan sarung tangan nitril.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Mengganti sarung tangan lateks dengan sarung tangan nitril", "isCorrect": true },
+        { "text": "B. Memakai dua lapis sarung tangan lateks", "isCorrect": false },
+        { "text": "C. Tidak memakai sarung tangan", "isCorrect": false },
+        { "text": "D. Memakai sarung tangan lebih tebal dari lateks", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Mengapa kontrol pajanan tetap diperlukan walau eliminasi adalah cara terbaik mencegah OA?",
+      "explanation": "Banyak agen penyebab tidak dapat diganti/dieliminasi, sehingga kontrol pajanan tetap diperlukan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Karena banyak agen penyebab tidak dapat diganti", "isCorrect": true },
+        { "text": "B. Karena eliminasi dilarang hukum", "isCorrect": false },
+        { "text": "C. Karena kontrol pajanan lebih murah selalu", "isCorrect": false },
+        { "text": "D. Karena pekerja menolak eliminasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Rekomendasi pengendalian byssinosis di ruang pemintalan antara lain?",
+      "explanation": "Pengendalian byssinosis mencakup pembersihan mesin dan lantai dengan penyedot debu, pemeliharaan kelembaban ruang pemintalan, dan penggunaan pelindung pernapasan.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Pembersihan mesin/lantai dengan penyedot debu dan pelindung pernapasan", "isCorrect": true },
+        { "text": "B. Menambah jumlah mesin pemintal", "isCorrect": false },
+        { "text": "C. Mengurangi ventilasi ruangan", "isCorrect": false },
+        { "text": "D. Menaikkan suhu ruang sampai panas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pengendalian Coal-workers' pneumoconiosis (CWP) menekankan solusi rekayasa berupa?",
+      "explanation": "Pengendalian CWP melalui solusi rekayasa: penutupan proses, ventilasi, dan teknologi penekan debu; APD pernapasan tidak boleh menjadi perlindungan utama.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Penutupan proses, ventilasi, dan teknologi penekan debu", "isCorrect": true },
+        { "text": "B. Hanya mengandalkan masker sebagai perlindungan utama", "isCorrect": false },
+        { "text": "C. Menghentikan ventilasi tambang", "isCorrect": false },
+        { "text": "D. Memperbanyak pajanan debu agar pekerja kebal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada pengendalian CWP, alat pelindung pernapasan sebaiknya?",
+      "explanation": "Pada CWP, peralatan pelindung pernapasan tidak boleh digunakan sebagai alat perlindungan utama; rekayasa diutamakan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Tidak menjadi perlindungan utama, hanya pelengkap", "isCorrect": true },
+        { "text": "B. Menjadi satu-satunya perlindungan", "isCorrect": false },
+        { "text": "C. Tidak perlu digunakan sama sekali", "isCorrect": false },
+        { "text": "D. Diganti dengan kacamata pelindung", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu langkah pencegahan PAK paru terkait perilaku pribadi adalah?",
+      "explanation": "Salah satu langkah pencegahan adalah jangan merokok, karena merokok meningkatkan risiko penyakit paru akibat kerja.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Jangan merokok", "isCorrect": true },
+        { "text": "B. Merokok agar terbiasa", "isCorrect": false },
+        { "text": "C. Menghindari pemeriksaan kesehatan", "isCorrect": false },
+        { "text": "D. Tidak memakai masker", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "APD yang tepat dikenakan untuk mencegah PAK paru saat berada di sekitar iritasi dan debu adalah?",
+      "explanation": "Perangkat pelindung yang tepat seperti masker wajah dipakai saat berada di sekitar iritasi dan debu di udara.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Masker wajah", "isCorrect": true },
+        { "text": "B. Sepatu boot", "isCorrect": false },
+        { "text": "C. Kacamata hitam", "isCorrect": false },
+        { "text": "D. Sarung tangan saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Evaluasi fungsi paru secara berkala untuk memantau pekerja terpajan debu dilakukan dengan?",
+      "explanation": "Evaluasi fungsi paru dilakukan dengan spirometri sesering yang direkomendasikan dokter untuk memantau fungsi paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Spirometri", "isCorrect": true },
+        { "text": "B. Audiometri", "isCorrect": false },
+        { "text": "C. Tes buta warna", "isCorrect": false },
+        { "text": "D. Tes pendengaran", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu langkah pencegahan PAK paru di tingkat organisasi adalah?",
+      "explanation": "Langkah pencegahan mencakup mendidik pekerja tentang risiko penyakit paru dan mempekerjakan ahli kesehatan kerja terlatih untuk menyelidiki risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Mendidik pekerja tentang risiko dan mempekerjakan ahli kesehatan kerja", "isCorrect": true },
+        { "text": "B. Menyembunyikan informasi risiko dari pekerja", "isCorrect": false },
+        { "text": "C. Mengurangi jam istirahat", "isCorrect": false },
+        { "text": "D. Melarang pemeriksaan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Menurut American Lung Association, penyakit paru akibat kerja merupakan penyebab utama penyakit terkait pekerjaan berdasarkan?",
+      "explanation": "PAK paru adalah penyebab utama penyakit terkait pekerjaan berdasarkan frekuensi, keparahan, dan kemampuan pencegahannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Frekuensi, keparahan, dan kemampuan pencegahan", "isCorrect": true },
+        { "text": "B. Biaya pengobatan saja", "isCorrect": false },
+        { "text": "C. Jumlah rumah sakit", "isCorrect": false },
+        { "text": "D. Lokasi geografis saja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Sebagian besar penyakit paru akibat kerja disebabkan oleh?",
+      "explanation": "Sebagian besar PAK paru disebabkan pajanan berulang jangka panjang, walau pajanan tunggal zat berbahaya juga dapat merusak paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Pajanan berulang jangka panjang", "isCorrect": true },
+        { "text": "B. Faktor keturunan tunggal", "isCorrect": false },
+        { "text": "C. Kekurangan tidur", "isCorrect": false },
+        { "text": "D. Konsumsi makanan pedas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pernyataan paling tepat mengenai sifat penyakit paru akibat kerja adalah?",
+      "explanation": "Penyakit paru akibat kerja merupakan penyakit yang dapat dicegah.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Dapat dicegah", "isCorrect": true },
+        { "text": "B. Tidak dapat dicegah sama sekali", "isCorrect": false },
+        { "text": "C. Hanya menyerang lansia", "isCorrect": false },
+        { "text": "D. Selalu menular", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan penyakit dan agen penyebab yang benar adalah?",
+      "explanation": "Asbestosis disebabkan serat asbes; ini adalah pasangan penyakit-agen yang benar.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Asbestosis - serat asbes", "isCorrect": true },
+        { "text": "B. Silikosis - debu kapas", "isCorrect": false },
+        { "text": "C. Byssinosis - asbes", "isCorrect": false },
+        { "text": "D. Beriliosis - silika", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan penyakit dan agen penyebab yang benar adalah?",
+      "explanation": "Silikosis disebabkan silika kristalin (SiO2 bebas).",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Silikosis - silika kristalin", "isCorrect": true },
+        { "text": "B. Asbestosis - berilium", "isCorrect": false },
+        { "text": "C. Byssinosis - batu bara", "isCorrect": false },
+        { "text": "D. CWP - kapas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan penyakit dan agen penyebab yang benar adalah?",
+      "explanation": "Byssinosis disebabkan debu kapas (terkontaminasi endotoksin bakteri gram negatif).",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Byssinosis - debu kapas", "isCorrect": true },
+        { "text": "B. Silikosis - asbes", "isCorrect": false },
+        { "text": "C. Beriliosis - kapas", "isCorrect": false },
+        { "text": "D. Asbestosis - silika", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan penyakit dan agen penyebab yang benar adalah?",
+      "explanation": "Beriliosis disebabkan debu yang mengandung berilium.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Beriliosis - berilium", "isCorrect": true },
+        { "text": "B. Byssinosis - berilium", "isCorrect": false },
+        { "text": "C. Asbestosis - kapas", "isCorrect": false },
+        { "text": "D. Silikosis - asbes", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan penyakit dan agen penyebab yang benar adalah?",
+      "explanation": "Coal-workers' pneumoconiosis (CWP) disebabkan debu batu bara.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. CWP - debu batu bara", "isCorrect": true },
+        { "text": "B. CWP - debu kapas", "isCorrect": false },
+        { "text": "C. CWP - serat asbes", "isCorrect": false },
+        { "text": "D. CWP - berilium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan penyakit dan agen penyebab yang benar adalah?",
+      "explanation": "Bronkitis/peradangan saluran napas akibat kerja disebabkan debu logam keras (Hg, Cd, Mn).",
+      "difficulty": "MEDIUM",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Bronkitis akibat kerja - debu logam keras (Hg, Cd, Mn)", "isCorrect": true },
+        { "text": "B. Bronkitis akibat kerja - debu kapas", "isCorrect": false },
+        { "text": "C. Bronkitis akibat kerja - serat asbes", "isCorrect": false },
+        { "text": "D. Bronkitis akibat kerja - berilium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan penyakit dan agen penyebab yang benar adalah?",
+      "explanation": "Mesothelioma (karsinoma pleura) disebabkan pajanan asbes.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Mesothelioma - asbes", "isCorrect": true },
+        { "text": "B. Mesothelioma - kapas", "isCorrect": false },
+        { "text": "C. Mesothelioma - silika", "isCorrect": false },
+        { "text": "D. Mesothelioma - batu bara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan penyakit dan agen penyebab yang benar adalah?",
+      "explanation": "Tuberkulosis akibat kerja disebabkan Mycobacterium tuberculosis, dengan pajanan silika sebagai faktor risiko.",
+      "difficulty": "MEDIUM",
+      "tag": "TBC Akibat Kerja",
+      "options": [
+        { "text": "A. TBC - Mycobacterium tuberculosis", "isCorrect": true },
+        { "text": "B. TBC - serat asbes", "isCorrect": false },
+        { "text": "C. TBC - debu kapas", "isCorrect": false },
+        { "text": "D. TBC - berilium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan penyakit dan agen penyebab yang benar adalah?",
+      "explanation": "Occupational asthma dapat dipicu agen seperti padi-padian, serbuk kayu, teh, dan tembakau.",
+      "difficulty": "MEDIUM",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Occupational asthma - serbuk kayu/padi-padian", "isCorrect": true },
+        { "text": "B. Occupational asthma - serat asbes", "isCorrect": false },
+        { "text": "C. Occupational asthma - silika kristalin", "isCorrect": false },
+        { "text": "D. Occupational asthma - debu batu bara", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pasangan zoonosis penyebab pneumonia akibat kerja yang benar adalah?",
+      "explanation": "Psittacosis adalah zoonosis (dari burung) yang dapat menyebabkan pneumonia pada kelainan dinding alveolus.",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Psittacosis - zoonosis dari burung", "isCorrect": true },
+        { "text": "B. Psittacosis - debu silika", "isCorrect": false },
+        { "text": "C. Psittacosis - serat asbes", "isCorrect": false },
+        { "text": "D. Psittacosis - kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Debu kapas yang merupakan penyebab byssinosis tergolong jenis debu?",
+      "explanation": "Debu kapas adalah debu organik karena berasal dari bahan yang mengandung karbon (serat tumbuhan).",
+      "difficulty": "EASY",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Anorganik", "isCorrect": false },
+        { "text": "B. Organik", "isCorrect": true },
+        { "text": "C. Logam berat", "isCorrect": false },
+        { "text": "D. Gas iritan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Silika kristalin yang menyebabkan silikosis tergolong jenis debu?",
+      "explanation": "Silika kristalin adalah debu anorganik karena tidak mengandung karbon.",
+      "difficulty": "EASY",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Organik", "isCorrect": false },
+        { "text": "B. Anorganik", "isCorrect": true },
+        { "text": "C. Cair", "isCorrect": false },
+        { "text": "D. Gas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada asbestosis, kelainan pada pleura yang dapat terjadi meliputi?",
+      "explanation": "Pada asbestosis terjadi kelainan pleura berupa efusi pleura, plak, dan penebalan difus.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Efusi pleura, plak, dan penebalan difus", "isCorrect": true },
+        { "text": "B. Pembengkakan kelenjar ludah", "isCorrect": false },
+        { "text": "C. Peradangan usus", "isCorrect": false },
+        { "text": "D. Penyempitan pembuluh ginjal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gambaran fibrosis pada asbestosis khasnya terjadi di bagian paru?",
+      "explanation": "Pada asbestosis, fibrosis/jaringan parut terjadi pada lobus bawah, daerah subpleural.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Lobus bawah, subpleural", "isCorrect": true },
+        { "text": "B. Hanya lobus atas", "isCorrect": false },
+        { "text": "C. Hanya bronkus utama", "isCorrect": false },
+        { "text": "D. Trakea", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala awal byssinosis akut muncul dengan onset cepat sekitar?",
+      "explanation": "Gejala byssinosis akut memiliki onset cepat 4-6 jam paska pajanan, berupa demam, menggigil, batuk, dada terasa berat, dan sesak napas.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. 4-6 jam paska pajanan", "isCorrect": true },
+        { "text": "B. 1 minggu paska pajanan", "isCorrect": false },
+        { "text": "C. 1 bulan paska pajanan", "isCorrect": false },
+        { "text": "D. 1 tahun paska pajanan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pneumonitis hipersensitivitas dapat disebabkan antigen organik berupa?",
+      "explanation": "Antigen organik penyebab pneumonitis hipersensitivitas antara lain spora bakteri termofilik, fungi saprofitik, dan protein serum dari burung/binatang.",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Spora bakteri termofilik dan protein dari burung", "isCorrect": true },
+        { "text": "B. Logam berat cair", "isCorrect": false },
+        { "text": "C. Radiasi pengion", "isCorrect": false },
+        { "text": "D. Getaran mekanik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Konsekuensi penting pada asbestosis terkait keganasan paru adalah munculnya?",
+      "explanation": "Pada asbestosis dapat terjadi keganasan toraks berupa karsinoma bronkogenik dan mesothelioma.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Karsinoma bronkogenik dan mesothelioma", "isCorrect": true },
+        { "text": "B. Batu ginjal", "isCorrect": false },
+        { "text": "C. Diabetes melitus", "isCorrect": false },
+        { "text": "D. Anemia aplastik", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Faktor risiko keparahan asbestosis antara lain?",
+      "explanation": "Faktor risiko asbestosis meliputi lama dan konsentrasi debu, umur muda saat paparan pertama, serta asbes jenis amfibol.",
+      "difficulty": "HARD",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Lama/konsentrasi debu dan jenis amfibol", "isCorrect": true },
+        { "text": "B. Warna seragam kerja", "isCorrect": false },
+        { "text": "C. Lokasi kantin", "isCorrect": false },
+        { "text": "D. Jenis musik di tempat kerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala beriliosis dapat berkembang dalam rentang waktu?",
+      "explanation": "Gejala beriliosis (dispnea saat aktivitas, batuk, nyeri dada, kelelahan) dapat berkembang beberapa bulan hingga 40 tahun setelah terpajan.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Beberapa bulan hingga 40 tahun setelah pajanan", "isCorrect": true },
+        { "text": "B. Hanya dalam hitungan menit", "isCorrect": false },
+        { "text": "C. Tidak pernah muncul", "isCorrect": false },
+        { "text": "D. Hanya saat masih bekerja", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemeriksaan dust sampler dalam diagnosis asma kerja berfungsi untuk?",
+      "explanation": "Dust sampler digunakan untuk mengukur/menilai debu lingkungan kerja pada penegakan diagnosis asma kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Menilai debu lingkungan kerja", "isCorrect": true },
+        { "text": "B. Mengukur tekanan darah pekerja", "isCorrect": false },
+        { "text": "C. Memeriksa kadar gula darah", "isCorrect": false },
+        { "text": "D. Mengukur tinggi badan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit infeksi akibat kerja banyak menyerang kelompok pekerja?",
+      "explanation": "Penyakit infeksi (virus, bakteri, parasit) akibat kerja banyak menyerang pekerja kesehatan, laboratorium, dan kesehatan hewan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Pekerja kesehatan, laboratorium, dan kesehatan hewan", "isCorrect": true },
+        { "text": "B. Pegawai bank", "isCorrect": false },
+        { "text": "C. Sopir bus", "isCorrect": false },
+        { "text": "D. Penjaga toko buku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pajanan kapas, jerami, dan kotoran burung umumnya menyebabkan penyakit paru karena bersifat?",
+      "explanation": "Kapas, jerami, dan kotoran burung adalah debu organik yang dapat memicu penyakit paru bahan organik seperti byssinosis dan pneumonitis hipersensitivitas.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Debu organik", "isCorrect": true },
+        { "text": "B. Debu anorganik", "isCorrect": false },
+        { "text": "C. Gas mulia", "isCorrect": false },
+        { "text": "D. Logam cair", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang batu bara dan asbes sebagai debu?",
+      "explanation": "Batu bara dan asbes keduanya tergolong debu anorganik (tidak mengandung karbon dalam pengertian debu anorganik pada materi ini).",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Keduanya tergolong debu anorganik", "isCorrect": true },
+        { "text": "B. Keduanya tergolong debu organik", "isCorrect": false },
+        { "text": "C. Asbes organik, batu bara anorganik", "isCorrect": false },
+        { "text": "D. Keduanya berupa gas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu tanda pemeriksaan fisik pada asbestosis lanjut adalah jari tabuh, yang juga disebut?",
+      "explanation": "Jari tabuh (clubbing fingers) merupakan tanda fisik yang dapat ditemukan pada asbestosis dan byssinosis kronis.",
+      "difficulty": "MEDIUM",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. Clubbing fingers", "isCorrect": true },
+        { "text": "B. Wrist drop", "isCorrect": false },
+        { "text": "C. White finger", "isCorrect": false },
+        { "text": "D. Trigger finger", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penurunan FEV1 pada pemeriksaan spirometri menandakan adanya gangguan?",
+      "explanation": "Penurunan FEV1 pada spirometri menandakan gangguan/obstruksi aliran napas, seperti pada byssinosis dan asma kerja.",
+      "difficulty": "HARD",
+      "tag": "Gejala & Pemeriksaan",
+      "options": [
+        { "text": "A. Obstruksi aliran napas", "isCorrect": true },
+        { "text": "B. Peningkatan fungsi paru", "isCorrect": false },
+        { "text": "C. Gangguan pendengaran", "isCorrect": false },
+        { "text": "D. Gangguan penglihatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Emfisema merupakan faktor utama penurunan fungsi paru pada pasien penyakit?",
+      "explanation": "Pada CWP, emfisema merupakan faktor utama yang berkontribusi terhadap penurunan fungsi paru.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Coal-workers' pneumoconiosis (CWP)", "isCorrect": true },
+        { "text": "B. Tuberkulosis", "isCorrect": false },
+        { "text": "C. Sinusitis", "isCorrect": false },
+        { "text": "D. Faringitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Jalur masuk utama serat asbes ke dalam tubuh adalah melalui?",
+      "explanation": "Serat asbes masuk lewat inhalasi, dan dapat juga tertelan masuk ke usus.",
+      "difficulty": "MEDIUM",
+      "tag": "Jenis Debu & Partikulat",
+      "options": [
+        { "text": "A. Inhalasi (terhirup)", "isCorrect": true },
+        { "text": "B. Suntikan", "isCorrect": false },
+        { "text": "C. Melalui mata saja", "isCorrect": false },
+        { "text": "D. Melalui kuku", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada uji bronchodilator dan pemeriksaan imunologi dalam diagnosis asma kerja, peran tersebut dilakukan oleh?",
+      "explanation": "Pemeriksaan penunjang dokter pada diagnosis asma kerja meliputi uji bronchodilator, pemeriksaan imunologi, dan rontgen toraks.",
+      "difficulty": "HARD",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Dokter (pemeriksaan penunjang)", "isCorrect": true },
+        { "text": "B. Petugas kebersihan", "isCorrect": false },
+        { "text": "C. Sopir ambulans", "isCorrect": false },
+        { "text": "D. Satpam perusahaan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pajanan tunggal zat berbahaya menurut materi tetap dapat?",
+      "explanation": "Walau sebagian besar PAK paru akibat pajanan berulang, pajanan tunggal zat berbahaya pun dapat merusak paru.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Merusak paru", "isCorrect": true },
+        { "text": "B. Menyembuhkan paru", "isCorrect": false },
+        { "text": "C. Tidak berpengaruh", "isCorrect": false },
+        { "text": "D. Menguatkan paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tukang las yang terpajan asap logam selain berisiko bronkitis juga meningkatkan risiko?",
+      "explanation": "Pada tukang las dan pekerja terpajan asap logam, risiko infeksi pneumokokus dan infeksi pernapasan lain meningkat.",
+      "difficulty": "HARD",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Infeksi pneumokokus dan infeksi pernapasan lain", "isCorrect": true },
+        { "text": "B. Penurunan berat badan yang sehat", "isCorrect": false },
+        { "text": "C. Penguatan tulang", "isCorrect": false },
+        { "text": "D. Peningkatan penglihatan malam", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit dinding alveolus berupa pneumonia akibat kerja yang menyerang lapisan tipis tempat pertukaran gas terjadi di?",
+      "explanation": "Pneumonia pada PAK paru menyerang dinding alveolus, tempat pertukaran gas paru terjadi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Alveolus", "isCorrect": true },
+        { "text": "B. Trakea", "isCorrect": false },
+        { "text": "C. Laring", "isCorrect": false },
+        { "text": "D. Sinus", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Foto toraks pekerja yang menunjukkan 'paru-paru hitam' paling khas ditemukan pada?",
+      "explanation": "Gambaran 'paru-paru hitam' khas pada penambang batu bara (CWP) akibat penumpukan debu batu bara.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Penambang batu bara", "isCorrect": true },
+        { "text": "B. Pemintal kapas", "isCorrect": false },
+        { "text": "C. Petani jamur", "isCorrect": false },
+        { "text": "D. Pegawai administrasi", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru petani (farmer's lung) tergolong ke dalam kelompok?",
+      "explanation": "Farmer's lung adalah bentuk hypersensitivity pneumonitis (pneumonitis hipersensitivitas/alveolitis alergi ekstrinsik).",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Hypersensitivity pneumonitis", "isCorrect": true },
+        { "text": "B. Silikosis", "isCorrect": false },
+        { "text": "C. Asbestosis", "isCorrect": false },
+        { "text": "D. Tuberkulosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "WHO menetapkan batas pajanan debu tambang batu bara yang dapat terhirup sebesar?",
+      "explanation": "WHO menetapkan batas pajanan 0,5-4,0 mg/m3 untuk debu tambang batu bara terhirup, dengan proporsi silika bebas <7%.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. 0,5-4,0 mg/m3", "isCorrect": true },
+        { "text": "B. 50-100 mg/m3", "isCorrect": false },
+        { "text": "C. 500 mg/m3", "isCorrect": false },
+        { "text": "D. Tidak ada batas", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru karena bahan organik pada industri tekstil katun terutama adalah?",
+      "explanation": "Pada industri tekstil katun, penyakit paru karena bahan organik yang khas adalah byssinosis akibat debu kapas.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Byssinosis", "isCorrect": true },
+        { "text": "B. Silikosis", "isCorrect": false },
+        { "text": "C. Asbestosis", "isCorrect": false },
+        { "text": "D. Beriliosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Gejala kronis byssinosis antara lain sesak napas progresif disertai?",
+      "explanation": "Gejala kronis byssinosis meliputi sesak napas progresif, batuk non-produktif, malaise, penurunan berat badan, dan clubbing fingers.",
+      "difficulty": "HARD",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Batuk non-produktif dan clubbing fingers", "isCorrect": true },
+        { "text": "B. Demam tinggi terus-menerus", "isCorrect": false },
+        { "text": "C. Ruam kulit menyeluruh", "isCorrect": false },
+        { "text": "D. Nyeri sendi lutut", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pola fungsi paru pada PPOK akibat kerja menurut pengukuran fungsi paru cenderung?",
+      "explanation": "Pada PPOK akibat kerja, pengukuran fungsi paru menunjukkan pola restriktif menurut materi.",
+      "difficulty": "HARD",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Restriktif", "isCorrect": true },
+        { "text": "B. Normal sempurna", "isCorrect": false },
+        { "text": "C. Tidak dapat diukur", "isCorrect": false },
+        { "text": "D. Hiperventilasi sehat", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tujuan utama menghindari hirupan zat berbahaya di tempat kerja adalah untuk?",
+      "explanation": "Menghindari hirupan zat yang dapat menyebabkan penyakit paru merupakan langkah pencegahan utama PAK paru.",
+      "difficulty": "EASY",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Mencegah penyakit paru akibat kerja", "isCorrect": true },
+        { "text": "B. Meningkatkan produktivitas debu", "isCorrect": false },
+        { "text": "C. Mengurangi gaji pekerja", "isCorrect": false },
+        { "text": "D. Menambah jam lembur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Karsinoma kulit (epitelioma primer) akibat kerja dapat disebabkan pajanan?",
+      "explanation": "Karsinoma kulit akibat kerja dapat disebabkan pajanan ter, minyak, dan mineral.",
+      "difficulty": "HARD",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Ter, minyak, dan mineral", "isCorrect": true },
+        { "text": "B. Air bersih", "isCorrect": false },
+        { "text": "C. Cahaya bulan", "isCorrect": false },
+        { "text": "D. Udara segar", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Berdasarkan lokasinya di paru, pneumonitis hipersensitivitas dapat mengenai zona paru?",
+      "explanation": "Pneumonitis hipersensitivitas dapat mengenai zona paru atas, tengah, dan bawah.",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Atas, tengah, dan bawah", "isCorrect": true },
+        { "text": "B. Hanya zona atas", "isCorrect": false },
+        { "text": "C. Hanya zona bawah", "isCorrect": false },
+        { "text": "D. Di luar paru", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada penggantian sarung tangan lateks dengan nitril sebagai pencegahan asma kerja, agen sensitisasi yang dihindari adalah?",
+      "explanation": "Penggantian sarung tangan lateks karet alam ke nitril menghindari agen sensitisasi berupa protein lateks karet alam.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Lateks karet alam", "isCorrect": true },
+        { "text": "B. Silika kristalin", "isCorrect": false },
+        { "text": "C. Debu batu bara", "isCorrect": false },
+        { "text": "D. Asbes", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Salah satu macam PAK lainnya adalah penyakit karena getaran mekanik yang dapat menimbulkan?",
+      "explanation": "Penyakit karena getaran mekanik (hand-arm/whole body vibration) dapat menimbulkan HNP dan white finger.",
+      "difficulty": "HARD",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. HNP dan white finger", "isCorrect": true },
+        { "text": "B. Karies gigi", "isCorrect": false },
+        { "text": "C. Katarak", "isCorrect": false },
+        { "text": "D. Sariawan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit caisson sebagai macam PAK disebabkan oleh pajanan?",
+      "explanation": "Penyakit caisson disebabkan oleh tekanan tinggi (misalnya pada penyelam atau pekerja di lingkungan bertekanan).",
+      "difficulty": "HARD",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Tekanan tinggi", "isCorrect": true },
+        { "text": "B. Debu kapas", "isCorrect": false },
+        { "text": "C. Serat asbes", "isCorrect": false },
+        { "text": "D. Kebisingan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pada perawatan PAK paru, penentuan jenis terapi oleh dokter mempertimbangkan?",
+      "explanation": "Perawatan ditentukan dokter berdasarkan usia, kesehatan keseluruhan, riwayat medis, luas/jenis penyakit, dan toleransi terhadap terapi.",
+      "difficulty": "MEDIUM",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Usia, riwayat medis, dan luas/jenis penyakit", "isCorrect": true },
+        { "text": "B. Warna seragam pasien", "isCorrect": false },
+        { "text": "C. Merek sepatu pasien", "isCorrect": false },
+        { "text": "D. Hobi pasien", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru akibat kerja karena fosfor (F) dapat menyebabkan kelainan berupa?",
+      "explanation": "Penyakit karena fosfor merah dapat menyebabkan nekrosis tulang (rahang bawah), serta hiperemia dan edema paru.",
+      "difficulty": "HARD",
+      "tag": "Penyakit Saluran Napas",
+      "options": [
+        { "text": "A. Nekrosis tulang rahang dan edema paru", "isCorrect": true },
+        { "text": "B. Peningkatan tinggi badan", "isCorrect": false },
+        { "text": "C. Penguatan email gigi", "isCorrect": false },
+        { "text": "D. Perbaikan fungsi ginjal", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang benar tentang occupational asthma dibanding asma biasa?",
+      "explanation": "Occupational asthma dipicu agen spesifik di tempat kerja dan bukan distimulasi penyebab lain di luar tempat kerja, serta muncul pada masa dewasa.",
+      "difficulty": "MEDIUM",
+      "tag": "Occupational Asthma",
+      "options": [
+        { "text": "A. Dipicu agen spesifik di tempat kerja dan muncul saat dewasa", "isCorrect": true },
+        { "text": "B. Selalu muncul sejak lahir", "isCorrect": false },
+        { "text": "C. Tidak berkaitan dengan pekerjaan", "isCorrect": false },
+        { "text": "D. Hanya muncul saat libur", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kombinasi pengendalian beriliosis yang efektif menggabungkan pengurangan pajanan dengan?",
+      "explanation": "Program komprehensif yang menggabungkan pengurangan pajanan dengan edukasi pekerja telah mengurangi sensitisasi berilium dan CBD.",
+      "difficulty": "HARD",
+      "tag": "Pengendalian",
+      "options": [
+        { "text": "A. Edukasi pekerja", "isCorrect": true },
+        { "text": "B. Penambahan jam kerja", "isCorrect": false },
+        { "text": "C. Pengurangan ventilasi", "isCorrect": false },
+        { "text": "D. Peniadaan pemeriksaan kesehatan", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyakit paru fibrotik yang masuk kategori pneumokoniosis ('dusty lungs') mencakup?",
+      "explanation": "Pneumokoniosis (dusty lungs) mencakup asbestosis, silikosis, beriliosis, CWP, dan byssinosis (terkait debu).",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Asbestosis dan silikosis", "isCorrect": true },
+        { "text": "B. Sinusitis dan faringitis", "isCorrect": false },
+        { "text": "C. Tuberkulosis dan pneumonia virus", "isCorrect": false },
+        { "text": "D. Asma alergi dan rinitis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Penyebab bahan anorganik pneumonitis hipersensitivitas dengan berat molekul rendah misalnya?",
+      "explanation": "Bahan anorganik/kimia berat molekul rendah penyebab antara lain TDI, trimellitic anhydride, dan isosianat (semprotan cat).",
+      "difficulty": "HARD",
+      "tag": "Kelainan Alveolus & Infeksi",
+      "options": [
+        { "text": "A. Isosianat dan trimellitic anhydride", "isCorrect": true },
+        { "text": "B. Gula dan garam", "isCorrect": false },
+        { "text": "C. Air dan minyak goreng", "isCorrect": false },
+        { "text": "D. Vitamin C dan kalsium", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja sandblaster berisiko tinggi terkena penyakit paru?",
+      "explanation": "Pembuat/pekerja sandblaster terpajan silika kristalin sehingga berisiko tinggi terkena silikosis.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Silikosis", "isCorrect": true },
+        { "text": "B. Byssinosis", "isCorrect": false },
+        { "text": "C. Beriliosis", "isCorrect": false },
+        { "text": "D. Asbestosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Tukang batu pada pekerjaan konstruksi dan pembongkaran bangunan berisiko terkena?",
+      "explanation": "Tukang batu terpajan silika kristalin dari beton, batu bata, dan keramik, sehingga berisiko silikosis.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Silikosis", "isCorrect": true },
+        { "text": "B. Byssinosis", "isCorrect": false },
+        { "text": "C. Asma akibat kapas", "isCorrect": false },
+        { "text": "D. Beriliosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja pembuatan kanvas/bantalan rem berisiko tinggi terkena penyakit paru?",
+      "explanation": "Pembuatan kanvas/bantalan rem menggunakan asbes, sehingga pekerja berisiko terkena asbestosis.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Asbestosis", "isCorrect": true },
+        { "text": "B. Silikosis", "isCorrect": false },
+        { "text": "C. Byssinosis", "isCorrect": false },
+        { "text": "D. CWP", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pekerja industri keramik dan kedokteran gigi yang terpajan berilium berisiko terkena?",
+      "explanation": "Pajanan berilium pada industri keramik dan kedokteran gigi dapat menyebabkan beriliosis.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Beriliosis", "isCorrect": true },
+        { "text": "B. Asbestosis", "isCorrect": false },
+        { "text": "C. Byssinosis", "isCorrect": false },
+        { "text": "D. Silikosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Pemintal/pekerja industri tekstil katun yang menghirup debu kapas berisiko terkena?",
+      "explanation": "Pekerja industri tekstil katun yang menghirup debu kapas berisiko terkena byssinosis.",
+      "difficulty": "MEDIUM",
+      "tag": "Pneumokoniosis",
+      "options": [
+        { "text": "A. Byssinosis", "isCorrect": true },
+        { "text": "B. Asbestosis", "isCorrect": false },
+        { "text": "C. Beriliosis", "isCorrect": false },
+        { "text": "D. Silikosis", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan paling tepat tentang masa laten penyakit paru akibat kerja seperti silikosis?",
+      "explanation": "Silikosis memiliki masa laten yang panjang, sekitar 10-30 tahun, sehingga gejala dapat muncul lama setelah pajanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Faktor Risiko",
+      "options": [
+        { "text": "A. Masa laten panjang sekitar 10-30 tahun", "isCorrect": true },
+        { "text": "B. Selalu muncul dalam hitungan jam", "isCorrect": false },
+        { "text": "C. Tidak memiliki masa laten", "isCorrect": false },
+        { "text": "D. Selalu sembuh sendiri", "isCorrect": false }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Sebutkan gejala umum penyakit paru akibat kerja", "back": "Batuk, sesak napas, sakit dada, dan pola pernapasan tidak normal.", "tag": "Gejala & Pemeriksaan" },
+    { "front": "Pemeriksaan apa saja untuk PAK paru?", "back": "Foto toraks/CT scan, tes fungsi paru (spirometri), biopsi/otopsi jaringan, studi biokimia cairan paru, pengukuran pertukaran gas, dan pemeriksaan bronkus.", "tag": "Gejala & Pemeriksaan" },
+    { "front": "Apa beda debu organik dan anorganik?", "back": "Debu organik mengandung karbon (kapas, spora jamur, jerami, kotoran burung); debu anorganik tidak mengandung karbon (asbes, silika kristalin, batu bara).", "tag": "Jenis Debu & Partikulat" },
+    { "front": "Mengapa partikel halus lebih merusak paru?", "back": "Karena mudah terhirup jauh ke dalam paru dan diserap ke dalam tubuh.", "tag": "Jenis Debu & Partikulat" },
+    { "front": "Penyebab bronkitis/peradangan saluran napas akibat kerja", "back": "Debu logam keras (Hg, Cd, Mn) dan uapnya.", "tag": "Penyakit Saluran Napas" },
+    { "front": "Apa itu asbestosis dan penyebabnya?", "back": "Penyakit paru fibrotik progresif lambat (pneumokoniosis) akibat inhalasi serat asbes.", "tag": "Pneumokoniosis" },
+    { "front": "Apa itu silikosis dan penyebabnya?", "back": "Fibrosis paru akibat inhalasi silika kristalin (SiO2 bebas); berisiko pada tukang batu, sandblaster, penambang kuarsa.", "tag": "Pneumokoniosis" },
+    { "front": "Apa itu byssinosis dan penyebabnya?", "back": "Penyakit paru bahan organik akibat debu kapas yang terkontaminasi endotoksin bakteri gram negatif; khas 'Monday Morning Tightness'.", "tag": "Pneumokoniosis" },
+    { "front": "Apa itu beriliosis dan penyebabnya?", "back": "Pneumokoniosis granulomatosa akibat hipersensitivitas tipe lambat terhadap debu berilium; alat diagnostik utama BeLPT.", "tag": "Pneumokoniosis" },
+    { "front": "Apa itu CWP (Coal-workers' pneumoconiosis)?", "back": "Pneumokoniosis pekerja batu bara akibat debu batu bara; gambaran 'paru-paru hitam' dan batuk berdahak hitam (melanoptisis).", "tag": "Pneumokoniosis" },
+    { "front": "Penyebab tuberkulosis akibat kerja", "back": "Mycobacterium tuberculosis; pajanan silika merupakan faktor risiko penting TBC paru.", "tag": "TBC Akibat Kerja" },
+    { "front": "Apa itu occupational asthma?", "back": "Asma kerja akibat sensitisasi imunologis terhadap agen yang dihirup saat bekerja (padi-padian, serbuk kayu, teh, tembakau); muncul saat dewasa.", "tag": "Occupational Asthma" },
+    { "front": "Ciri khas gejala asma kerja", "back": "Batuk dan sesak memburuk saat bekerja, membaik saat libur; terjadi karena obstruksi, hiperresponsif, dan inflamasi saluran napas.", "tag": "Occupational Asthma" },
+    { "front": "Kelainan dinding alveolus dari zoonosis", "back": "Pneumonia bakteri dari antraks, demam Q, psittacosis; dari lingkungan: Legionnaire, melioidosis, leptospirosis.", "tag": "Kelainan Alveolus & Infeksi" },
+    { "front": "Apa itu hypersensitivity pneumonitis?", "back": "Alveolitis alergi ekstrinsik akibat inhalasi berulang antigen organik; contoh 'paru-paru petani' dan 'paru-paru pemelihara burung'.", "tag": "Kelainan Alveolus & Infeksi" },
+    { "front": "Faktor risiko PAK paru", "back": "Jenis & intensitas pajanan tempat kerja, riwayat atopi/alergi, dan kebiasaan merokok.", "tag": "Faktor Risiko" },
+    { "front": "Interaksi rokok dengan asbes", "back": "Sinergis: risiko kanker meningkat 90x pada perokok dan 9x pada bukan perokok terpajan asbes.", "tag": "Faktor Risiko" },
+    { "front": "Cara paling efektif mengurangi risiko occupational asthma", "back": "Eliminasi total pajanan; contoh substitusi: ganti sarung tangan lateks dengan nitril.", "tag": "Pengendalian" },
+    { "front": "Pengendalian CWP yang diutamakan", "back": "Solusi rekayasa (penutupan proses, ventilasi, teknologi penekan debu); APD pernapasan bukan perlindungan utama.", "tag": "Pengendalian" },
+    { "front": "Langkah pencegahan PAK paru", "back": "Hindari hirupan zat berbahaya, jangan merokok, pakai masker, evaluasi spirometri rutin, edukasi pekerja, dan pekerjakan ahli kesehatan kerja.", "tag": "Pengendalian" }
+  ],
+  "mindmap": [
+    { "id": "pak-paru", "label": "PAK Sistem Pernapasan", "color": "#6366f1", "parent": null, "content": "Penyakit paru akibat kerja adalah penyebab utama penyakit terkait pekerjaan, sebagian besar akibat pajanan berulang dan bersifat dapat dicegah." },
+
+    { "id": "gejala-pemeriksaan", "label": "Gejala & Pemeriksaan", "color": "#8b5cf6", "parent": "pak-paru", "content": "Gejala umum PAK paru menyerupai kondisi medis lain sehingga perlu konsultasi dokter dan pemeriksaan penunjang." },
+    { "id": "gejala-umum", "label": "Gejala Umum", "color": "#8b5cf6", "parent": "gejala-pemeriksaan", "content": "Batuk, sesak napas, sakit dada, dan pola pernapasan tidak normal." },
+    { "id": "pemeriksaan-citra", "label": "Pencitraan", "color": "#8b5cf6", "parent": "gejala-pemeriksaan", "content": "Foto toraks awal atau CT scan toraks untuk mendeteksi kelainan paru." },
+    { "id": "tes-fungsi-paru", "label": "Tes Fungsi Paru", "color": "#8b5cf6", "parent": "gejala-pemeriksaan", "content": "Spirometri menilai obstruksi/restriksi; biopsi, studi biokimia cairan paru, pengukuran pertukaran gas, dan bronkoskopi melengkapi diagnosis." },
+
+    { "id": "debu-partikulat", "label": "Jenis Debu & Partikulat", "color": "#0ea5e9", "parent": "pak-paru", "content": "Partikulat (PM) di udara; makin halus partikel makin merusak karena terhirup jauh ke paru dan diserap tubuh." },
+    { "id": "debu-anorganik", "label": "Debu Anorganik", "color": "#0ea5e9", "parent": "debu-partikulat", "content": "Tidak mengandung karbon; contoh: asbes, silika kristalin, batu bara." },
+    { "id": "debu-organik", "label": "Debu Organik", "color": "#0ea5e9", "parent": "debu-partikulat", "content": "Mengandung karbon; contoh: kapas, spora jamur, jerami, kotoran burung." },
+    { "id": "sumber-debu", "label": "Sumber Partikulat", "color": "#0ea5e9", "parent": "debu-partikulat", "content": "Pabrik, cerobong asap, knalpot, kebakaran, pertambangan, konstruksi, dan pertanian." },
+
+    { "id": "saluran-napas", "label": "Penyakit Saluran Napas", "color": "#10b981", "parent": "pak-paru", "content": "Penyakit bronchopulmoner berupa peradangan saluran napas akibat debu logam keras." },
+    { "id": "peradangan-napas", "label": "Peradangan Saluran Napas", "color": "#10b981", "parent": "saluran-napas", "content": "Bronkitis, laringitis, faringitis, pleuritis, dan sinusitis." },
+    { "id": "penyebab-logam", "label": "Penyebab Logam Keras", "color": "#10b981", "parent": "saluran-napas", "content": "Debu logam keras (Hg, Cd, Mn) dan uapnya; tukang las berisiko infeksi pneumokokus." },
+    { "id": "ppok-kerja", "label": "PPOK Akibat Kerja", "color": "#10b981", "parent": "saluran-napas", "content": "Akibat debu mineral/organik dan asap iritan (pengelasan, bangunan); gejala batuk kronik berdahak (bronkitis kronik)." },
+
+    { "id": "alveolus-infeksi", "label": "Kelainan Alveolus & Infeksi", "color": "#f59e0b", "parent": "pak-paru", "content": "Kelainan dinding alveolus berupa pneumonia bakteri dari zoonosis atau lingkungan, serta reaksi hipersensitivitas." },
+    { "id": "zoonosis", "label": "Pneumonia Zoonosis", "color": "#f59e0b", "parent": "alveolus-infeksi", "content": "Antraks, demam Q, dan psittacosis (ditularkan dari hewan)." },
+    { "id": "infeksi-lingkungan", "label": "Infeksi Lingkungan", "color": "#f59e0b", "parent": "alveolus-infeksi", "content": "Penyakit Legionnaire, melioidosis, dan leptospirosis." },
+    { "id": "pneumonitis-hipersensitivitas", "label": "Pneumonitis Hipersensitivitas", "color": "#f59e0b", "parent": "alveolus-infeksi", "content": "Alveolitis alergi ekstrinsik dari antigen organik; contoh 'paru-paru petani' dan 'paru-paru pemelihara burung'; gejala 4-6 jam setelah pajanan." },
+
+    { "id": "pneumokoniosis", "label": "Pneumokoniosis", "color": "#ef4444", "parent": "pak-paru", "content": "Penyakit paru berdebu (dusty lungs) akibat penumpukan debu mineral, sering disertai fibrosis dan masa laten 10-30 tahun." },
+    { "id": "asbestosis", "label": "Asbestosis", "color": "#ef4444", "parent": "pneumokoniosis", "content": "Fibrosis paru progresif akibat serat asbes; dapat menjadi mesothelioma; rokok bekerja sinergis (risiko kanker 90x)." },
+    { "id": "silikosis", "label": "Silikosis", "color": "#ef4444", "parent": "pneumokoniosis", "content": "Fibrosis paru akibat silika kristalin (SiO2); pada tukang batu, sandblaster, penambang; faktor risiko TBC." },
+    { "id": "byssinosis", "label": "Byssinosis", "color": "#ef4444", "parent": "pneumokoniosis", "content": "Penyakit paru bahan organik akibat debu kapas (endotoksin bakteri); khas 'Monday Morning Tightness' di industri tekstil katun." },
+    { "id": "beriliosis", "label": "Beriliosis", "color": "#ef4444", "parent": "pneumokoniosis", "content": "Pneumokoniosis granulomatosa akibat hipersensitivitas terhadap berilium; diagnostik utama BeLPT; pada keramik, nuklir, kedirgantaraan." },
+    { "id": "cwp", "label": "CWP (Pneumokoniosis Batu Bara)", "color": "#ef4444", "parent": "pneumokoniosis", "content": "Akibat debu batu bara; 'paru-paru hitam', batuk berdahak hitam (melanoptisis), emfisema, dan fibrosis." },
+
+    { "id": "asma-kerja", "label": "Occupational Asthma", "color": "#ec4899", "parent": "pak-paru", "content": "Asma kerja akibat sensitisasi imunologis terhadap agen di tempat kerja; muncul masa dewasa." },
+    { "id": "agen-asma", "label": "Agen Pemicu", "color": "#ec4899", "parent": "asma-kerja", "content": "Padi-padian, serbuk kayu, teh, tembakau, dan bahan alergen; lateks karet alam pada sarung tangan." },
+    { "id": "gejala-asma", "label": "Gejala Asma Kerja", "color": "#ec4899", "parent": "asma-kerja", "content": "Batuk dan sesak memburuk saat bekerja, membaik saat libur; akibat obstruksi, hiperresponsif, dan inflamasi." },
+    { "id": "diagnosis-asma", "label": "Diagnosis Asma Kerja", "color": "#ec4899", "parent": "asma-kerja", "content": "Anamnesis dokter, spirometri (obstruksi), uji bronchodilator, imunologi, rontgen, dan dust sampler oleh ahli K3." },
+
+    { "id": "tbc-kerja", "label": "TBC Akibat Kerja", "color": "#14b8a6", "parent": "pak-paru", "content": "Tuberkulosis paru oleh Mycobacterium tuberculosis sebagai penyakit paru akibat kerja." },
+    { "id": "penyebab-tbc", "label": "Penyebab & Faktor Risiko", "color": "#14b8a6", "parent": "tbc-kerja", "content": "Mycobacterium tuberculosis; pajanan silika merupakan faktor risiko terkenal, terutama dengan prevalensi HIV tinggi." },
+
+    { "id": "faktor-risiko", "label": "Faktor Risiko", "color": "#8b5cf6", "parent": "pak-paru", "content": "Faktor yang meningkatkan kerentanan terkena PAK paru, mencakup pajanan kerja dan faktor individu." },
+    { "id": "pajanan-kerja", "label": "Pajanan Tempat Kerja", "color": "#8b5cf6", "parent": "faktor-risiko", "content": "Jenis dan intensitas pajanan; sebagian besar PAK paru akibat pajanan berulang jangka panjang." },
+    { "id": "faktor-individu", "label": "Faktor Individu", "color": "#8b5cf6", "parent": "faktor-risiko", "content": "Riwayat atopi/alergi dan kebiasaan merokok yang meningkatkan risiko serta keparahan penyakit." },
+
+    { "id": "pengendalian", "label": "Pengendalian", "color": "#0ea5e9", "parent": "pak-paru", "content": "Upaya mencegah dan mengendalikan PAK paru dari eliminasi pajanan hingga pemantauan kesehatan." },
+    { "id": "eliminasi-substitusi", "label": "Eliminasi & Substitusi", "color": "#0ea5e9", "parent": "pengendalian", "content": "Eliminasi total pajanan paling efektif; contoh substitusi sarung tangan lateks ke nitril; kontrol pajanan bila tak dapat diganti." },
+    { "id": "rekayasa-apd", "label": "Rekayasa & APD", "color": "#0ea5e9", "parent": "pengendalian", "content": "Solusi rekayasa (penutupan proses, ventilasi, penekan debu) diutamakan; masker/pelindung pernapasan sebagai pelengkap." },
+    { "id": "pencegahan-medis", "label": "Pencegahan & Pemantauan", "color": "#0ea5e9", "parent": "pengendalian", "content": "Jangan merokok, evaluasi spirometri rutin, edukasi pekerja, dan mempekerjakan ahli kesehatan kerja terlatih." }
+  ]
+}
