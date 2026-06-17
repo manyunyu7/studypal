@@ -3,6 +3,7 @@ import { auth } from "~/server/auth";
 import { api, HydrateClient } from "~/trpc/server";
 import { toSlug } from "~/lib/slug";
 import { LoveGreeting } from "~/components/student/LoveGreeting";
+import { SubjectGrid } from "~/components/student/SubjectGrid";
 
 export const metadata = { title: "Dashboard — StudyPal" };
 
@@ -133,15 +134,48 @@ function WeakSection({ stats }: { stats: Stats }) {
   );
 }
 
-async function SemesterList() {
+async function SemesterSection() {
   const semesters = await api.semester.getAll();
 
   if (semesters.length === 0) {
     return (
-      <div className="flex flex-col items-center justify-center py-16 text-center">
-        <p className="text-muted-foreground text-sm">Belum ada semester yang tersedia.</p>
-        <p className="text-muted-foreground text-xs mt-1">Hubungi admin untuk menambahkan materi.</p>
-      </div>
+      <section>
+        <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider mb-3">Semester</h2>
+        <div className="flex flex-col items-center justify-center py-16 text-center">
+          <p className="text-muted-foreground text-sm">Belum ada semester yang tersedia.</p>
+          <p className="text-muted-foreground text-xs mt-1">Hubungi admin untuk menambahkan materi.</p>
+        </div>
+      </section>
+    );
+  }
+
+  if (semesters.length === 1) {
+    const semester = semesters[0]!;
+    const subjects = await api.subject.getBySemester({ semesterId: semester.id });
+    return (
+      <section>
+        <div className="flex items-baseline gap-2 mb-3">
+          <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider">Mata Kuliah</h2>
+          <span className="text-xs text-muted-foreground">
+            {semester.name}{semester.year ? ` · ${semester.year}` : ""}
+          </span>
+        </div>
+        {subjects.length === 0 ? (
+          <div className="flex flex-col items-center justify-center py-16 text-center">
+            <p className="text-muted-foreground text-sm">Belum ada mata kuliah untuk semester ini.</p>
+          </div>
+        ) : (
+          <SubjectGrid
+            subjects={subjects.map((s) => ({
+              id: s.id,
+              name: s.name,
+              description: s.description,
+              icon: s.icon,
+              topicCount: (s as typeof s & { _count?: { topics: number } })._count?.topics ?? 0,
+            }))}
+          />
+        )}
+      </section>
     );
   }
 
@@ -155,26 +189,29 @@ async function SemesterList() {
   ];
 
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-      {semesters.map((semester, idx) => (
-        <Link
-          key={semester.id}
-          href={`/semester/${toSlug(semester.name, semester.id)}`}
-          className={`group block p-5 rounded-xl border bg-gradient-to-br ${colors[idx % colors.length]} transition-all duration-200 hover:scale-[1.02]`}
-        >
-          <div className="flex items-start justify-between mb-3">
-            <div className="w-10 h-10 rounded-lg bg-accent flex items-center justify-center text-xl font-bold text-foreground/80">
-              {idx + 1}
+    <section>
+      <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider mb-3">Semester</h2>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {semesters.map((semester, idx) => (
+          <Link
+            key={semester.id}
+            href={`/semester/${toSlug(semester.name, semester.id)}`}
+            className={`group block p-5 rounded-xl border bg-gradient-to-br ${colors[idx % colors.length]} transition-all duration-200 hover:scale-[1.02]`}
+          >
+            <div className="flex items-start justify-between mb-3">
+              <div className="w-10 h-10 rounded-lg bg-accent flex items-center justify-center text-xl font-bold text-foreground/80">
+                {idx + 1}
+              </div>
+              <svg viewBox="0 0 24 24" fill="none" className="w-4 h-4 text-muted-foreground group-hover:text-foreground transition-colors mt-1" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+              </svg>
             </div>
-            <svg viewBox="0 0 24 24" fill="none" className="w-4 h-4 text-muted-foreground group-hover:text-foreground transition-colors mt-1" stroke="currentColor" strokeWidth={2}>
-              <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-            </svg>
-          </div>
-          <h3 className="text-base font-semibold text-foreground mb-1">{semester.name}</h3>
-          {semester.year && <p className="text-xs text-muted-foreground">{semester.year}</p>}
-        </Link>
-      ))}
-    </div>
+            <h3 className="text-base font-semibold text-foreground mb-1">{semester.name}</h3>
+            {semester.year && <p className="text-xs text-muted-foreground">{semester.year}</p>}
+          </Link>
+        ))}
+      </div>
+    </section>
   );
 }
 
@@ -207,10 +244,7 @@ export default async function DashboardPage() {
         <WeakSection stats={stats} />
         <ProgressSection stats={stats} />
 
-        <section>
-          <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider mb-3">Semester</h2>
-          <SemesterList />
-        </section>
+        <SemesterSection />
       </div>
     </HydrateClient>
   );

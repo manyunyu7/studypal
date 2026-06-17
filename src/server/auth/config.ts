@@ -26,6 +26,7 @@ declare module "@auth/core/jwt" {
 export const authConfig = {
   adapter: PrismaAdapter(db),
   session: { strategy: "jwt" as const },
+  trustHost: true,
   providers: [
     Credentials({
       credentials: {
