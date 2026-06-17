@@ -64,6 +64,19 @@ export const authConfig = {
       },
     }),
   },
+  events: {
+    // Record a LOGIN activity on every successful sign-in.
+    signIn: async ({ user }) => {
+      if (!user?.id) return;
+      try {
+        await db.activityLog.create({
+          data: { userId: user.id, type: "LOGIN", path: "/login" },
+        });
+      } catch {
+        // Never block sign-in if activity logging fails.
+      }
+    },
+  },
   pages: {
     signIn: "/login",
   },

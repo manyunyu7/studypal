@@ -55,7 +55,14 @@ Semester → Subject → Topic
 
 User → QuizAttempt → QuizAnswer
      → FlashcardProgress
+     → ActivityLog        # jejak aktivitas: login, buka halaman, selesai quiz
 ```
+
+**Activity tracking**: `ActivityLog` (type, label, path, meta, createdAt) merekam aktivitas user.
+Page-view dilog client-side via `ActivityTracker` di `(student)/layout.tsx` (mapping path→type
+di `src/lib/activity.ts`); `LOGIN` dilog di `auth/config.ts` (events.signIn); `FINISH_QUIZ` di
+`quiz.submitAttempt`/`submitTryOut`. User lihat aktivitasnya di `/aktivitas`, admin lihat semua
+user di `/admin/aktivitas`.
 
 ## Role & Akses
 
@@ -74,6 +81,7 @@ User → QuizAttempt → QuizAnswer
 | mindmap | getByTopic, saveNodes |
 | quiz | submitAttempt, getMyAttempts, getLeaderboard |
 | user | getMyStats, getAll, updateRole |
+| activity | log, getMine, getMyStats, getAll *(admin)*, getGlobalStats *(admin)* |
 
 ## Import Patterns
 

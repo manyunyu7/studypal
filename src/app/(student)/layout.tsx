@@ -10,6 +10,7 @@ import {
 import { Avatar, AvatarFallback, AvatarImage } from "~/components/ui/avatar";
 import { SignOutButton } from "~/components/student/SignOutButton";
 import { SidebarNav } from "~/components/student/SidebarNav";
+import { ActivityTracker } from "~/components/student/ActivityTracker";
 import { ThemeToggle } from "~/components/theme/theme-toggle";
 import { ThemeCustomizer } from "~/components/theme/theme-customizer";
 import { api } from "~/trpc/server";
@@ -98,6 +99,7 @@ export default async function StudentLayout({ children }: { children: React.Reac
 
   return (
     <div className="min-h-screen bg-background flex">
+      <ActivityTracker />
       {/* Desktop sidebar */}
       <aside className="hidden md:flex md:w-64 flex-shrink-0 flex-col">
         <div className="sticky top-0 h-screen">

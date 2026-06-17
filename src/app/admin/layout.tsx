@@ -46,6 +46,12 @@ export default async function AdminLayout({
           >
             Users
           </Link>
+          <Link
+            href="/admin/aktivitas"
+            className="rounded-md px-3 py-2 text-sm font-medium text-sidebar-foreground transition-colors hover:bg-accent hover:text-sidebar-foreground"
+          >
+            Aktivitas
+          </Link>
         </nav>
         <div className="space-y-2 border-t border-sidebar-border p-4">
           <ThemeCustomizer

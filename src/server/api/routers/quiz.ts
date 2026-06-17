@@ -91,6 +91,22 @@ export const quizRouter = createTRPCRouter({
         ),
       );
 
+      // Record a FINISH_QUIZ activity (best-effort, never blocks the result).
+      const topic = await ctx.db.topic
+        .findUnique({ where: { id: input.topicId }, select: { name: true } })
+        .catch(() => null);
+      await ctx.db.activityLog
+        .create({
+          data: {
+            userId,
+            type: "FINISH_QUIZ",
+            label: topic?.name ?? null,
+            path: `/quiz/${input.topicId}`,
+            meta: { score, total, percentage, topicId: input.topicId },
+          },
+        })
+        .catch(() => undefined);
+
       return {
         attemptId: attempt.id,
         score,
@@ -302,6 +318,22 @@ export const quizRouter = createTRPCRouter({
           percentage: v.total > 0 ? Math.round((v.correct / v.total) * 100) : 0,
         }))
         .sort((a, b) => a.percentage - b.percentage);
+
+      // Record a FINISH_QUIZ activity for the try out (best-effort).
+      const subject = await ctx.db.subject
+        .findUnique({ where: { id: input.subjectId }, select: { name: true } })
+        .catch(() => null);
+      await ctx.db.activityLog
+        .create({
+          data: {
+            userId,
+            type: "FINISH_QUIZ",
+            label: subject ? `Try Out · ${subject.name}` : "Try Out",
+            path: `/tryout/${input.subjectId}`,
+            meta: { score, total, percentage, subjectId: input.subjectId },
+          },
+        })
+        .catch(() => undefined);
 
       return { attemptId: attempt.id, score, total, percentage, answers: answerResults, byTopic };
     }),

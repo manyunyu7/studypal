@@ -19,6 +19,21 @@ enum Difficulty {
     HARD
 }
 
+enum ActivityType {
+    LOGIN
+    VIEW_DASHBOARD
+    VIEW_SEMESTER
+    VIEW_SUBJECT
+    VIEW_TOPIC
+    START_QUIZ
+    FINISH_QUIZ
+    REVIEW_FLASHCARD
+    VIEW_MINDMAP
+    VIEW_LEADERBOARD
+    VIEW_HISTORY
+    OTHER
+}
+
 model User {
     id                String              @id @default(cuid())
     name              String?
@@ -33,9 +48,25 @@ model User {
     flashcardProgress FlashcardProgress[]
     questionProgress  QuestionProgress[]
     bookmarks         QuestionBookmark[]
+    activityLogs      ActivityLog[]
     themePreference   Json?
     createdAt         DateTime            @default(now())
     updatedAt         DateTime            @updatedAt
+}
+
+model ActivityLog {
+    id        Int          @id @default(autoincrement())
+    userId    String
+    type      ActivityType
+    label     String?
+    path      String?      @db.Text
+    meta      Json?
+    user      User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+    createdAt DateTime     @default(now())
+
+    @@index([userId, createdAt])
+    @@index([type])
+    @@index([createdAt])
 }
 
 model Account {
