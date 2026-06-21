@@ -2,8 +2,10 @@
 
 import { api } from "~/trpc/react";
 import { ACTIVITY_META, describeActivity, type ActivityType } from "~/lib/activity";
+import { usePersonalization } from "~/components/student/PersonalizationProvider";
 
 export default function AktivitasPage() {
+  const msgs = usePersonalization();
   const stats = api.activity.getMyStats.useQuery();
   const feed = api.activity.getMine.useInfiniteQuery(
     { limit: 30 },
@@ -17,9 +19,7 @@ export default function AktivitasPage() {
     <div className="px-6 py-8 max-w-3xl mx-auto space-y-8">
       <div>
         <h1 className="text-2xl font-bold text-foreground">Aktivitasmu 🐾</h1>
-        <p className="text-muted-foreground text-sm mt-1">
-          Semua jejak belajarmu di StudyPal — biar keliatan seberapa rajin kamu 🥰
-        </p>
+        <p className="text-muted-foreground text-sm mt-1">{msgs.aktivitasSubtitle}</p>
       </div>
 
       {/* Ringkasan */}

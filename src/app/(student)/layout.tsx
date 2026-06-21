@@ -13,6 +13,8 @@ import { SidebarNav } from "~/components/student/SidebarNav";
 import { ActivityTracker } from "~/components/student/ActivityTracker";
 import { ThemeToggle } from "~/components/theme/theme-toggle";
 import { ThemeCustomizer } from "~/components/theme/theme-customizer";
+import { PersonalizationProvider } from "~/components/student/PersonalizationProvider";
+import { NEUTRAL_FALLBACK } from "~/lib/personalization";
 import { api } from "~/trpc/server";
 
 type Semester = { id: number; name: string; year?: string | null };
@@ -22,11 +24,15 @@ function SidebarContent({
   email,
   image,
   semesters,
+  footer,
+  showLetter,
 }: {
   name?: string | null;
   email?: string | null;
   image?: string | null;
   semesters: Semester[];
+  footer: string;
+  showLetter: boolean;
 }) {
   const initials = name
     ? name.split(" ").map((n) => n[0]).join("").toUpperCase().slice(0, 2)
@@ -48,7 +54,7 @@ function SidebarContent({
       </div>
 
       {/* Nav */}
-      <SidebarNav semesters={semesters} />
+      <SidebarNav semesters={semesters} showLetter={showLetter} />
 
       {/* User section */}
       <div className="px-3 py-4 border-t border-sidebar-border space-y-3">
@@ -83,7 +89,7 @@ function SidebarContent({
 
         {/* Tanda tangan */}
         <p className="px-3 text-center text-[11px] text-muted-foreground">
-          dibuat dengan ❤️ oleh Henry, buat Endah
+          {footer}
         </p>
       </div>
     </div>
@@ -95,7 +101,11 @@ export default async function StudentLayout({ children }: { children: React.Reac
   if (!session?.user) redirect("/login");
 
   const { name, email, image } = session.user;
-  const semesters = await api.semester.getAll().catch(() => []);
+  const [semesters, msgs] = await Promise.all([
+    api.semester.getAll().catch(() => []),
+    api.personalization.getMine().catch(() => NEUTRAL_FALLBACK),
+  ]);
+  const showLetter = !!msgs.letter;
 
   return (
     <div className="min-h-screen bg-background flex">
@@ -103,7 +113,14 @@ export default async function StudentLayout({ children }: { children: React.Reac
       {/* Desktop sidebar */}
       <aside className="hidden md:flex md:w-64 flex-shrink-0 flex-col">
         <div className="sticky top-0 h-screen">
-          <SidebarContent name={name} email={email} image={image} semesters={semesters} />
+          <SidebarContent
+            name={name}
+            email={email}
+            image={image}
+            semesters={semesters}
+            footer={msgs.footer}
+            showLetter={showLetter}
+          />
         </div>
       </aside>
 
@@ -130,7 +147,14 @@ export default async function StudentLayout({ children }: { children: React.Reac
               </svg>
             </SheetTrigger>
             <SheetContent side="left" className="p-0 w-72 border-sidebar-border bg-sidebar">
-              <SidebarContent name={name} email={email} image={image} semesters={semesters} />
+              <SidebarContent
+                name={name}
+                email={email}
+                image={image}
+                semesters={semesters}
+                footer={msgs.footer}
+                showLetter={showLetter}
+              />
             </SheetContent>
           </Sheet>
         </div>
@@ -139,7 +163,7 @@ export default async function StudentLayout({ children }: { children: React.Reac
       {/* Main */}
       <main className="flex-1 min-w-0 md:overflow-auto">
         <div className="md:hidden h-14" /> {/* mobile header spacer */}
-        {children}
+        <PersonalizationProvider value={msgs}>{children}</PersonalizationProvider>
       </main>
     </div>
   );

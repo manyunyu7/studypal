@@ -2,8 +2,10 @@
 
 import Link from "next/link";
 import { api } from "~/trpc/react";
+import { usePersonalization } from "~/components/student/PersonalizationProvider";
 
 export default function RiwayatPage() {
+  const msgs = usePersonalization();
   const { data, isLoading } = api.quiz.getMyHistory.useQuery();
 
   if (isLoading) {
@@ -22,9 +24,7 @@ export default function RiwayatPage() {
       <div className="px-6 py-16 max-w-2xl mx-auto flex flex-col items-center justify-center text-center space-y-4">
         <div className="text-5xl">📈</div>
         <h1 className="text-xl font-bold text-foreground">Belum ada riwayat quiz</h1>
-        <p className="text-muted-foreground text-sm">
-          Yuk mulai ngerjain quiz pertamamu, nanti progressnya muncul di sini 🥰
-        </p>
+        <p className="text-muted-foreground text-sm">{msgs.riwayatEmpty}</p>
         <Link
           href="/dashboard"
           className="inline-flex items-center gap-2 rounded-lg bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground hover:bg-primary/90"
@@ -39,9 +39,7 @@ export default function RiwayatPage() {
     <div className="px-6 py-8 max-w-3xl mx-auto space-y-8">
       <div>
         <h1 className="text-2xl font-bold text-foreground">Perjalanan Belajarmu 📈</h1>
-        <p className="text-muted-foreground text-sm mt-1">
-          Setiap titik di sini bukti usahamu. Aku bangga banget sama kamu 🤍
-        </p>
+        <p className="text-muted-foreground text-sm mt-1">{msgs.riwayatSubtitle}</p>
       </div>
 
       {/* Ringkasan */}
@@ -134,12 +132,13 @@ function ScoreChart({
 }: {
   items: { id: number; percentage: number; createdAt: Date | string }[];
 }) {
+  const msgs = usePersonalization();
   // Ambil maksimal 20 sesi terakhir, urutkan kronologis (lama → baru).
   const pts = [...items].slice(0, 20).reverse();
   if (pts.length < 2) {
     return (
       <div className="rounded-xl bg-card border border-border p-6 text-center text-sm text-muted-foreground">
-        Kerjain minimal 2 sesi quiz buat lihat grafik tren skornya ya 🥰
+        {msgs.riwayatChartHint}
       </div>
     );
   }
@@ -197,10 +196,8 @@ function ScoreChart({
           ))}
         </svg>
       </div>
-      {trend > 0 && (
-        <p className="text-center text-sm text-pink-400">
-          Skormu naik, sayang! Aku bangga banget 🥰 Terus gini ya 💪
-        </p>
+      {trend > 0 && msgs.riwayatTrendUp && (
+        <p className="text-center text-sm text-pink-400">{msgs.riwayatTrendUp}</p>
       )}
     </section>
   );

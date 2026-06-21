@@ -11,6 +11,7 @@ import { QuizOption } from "~/components/quiz/QuizOption";
 import { TopicNav } from "~/components/student/TopicNav";
 import { Celebration } from "~/components/student/Celebration";
 import { QuizLoveNote } from "~/components/student/QuizLoveNote";
+import { usePersonalization } from "~/components/student/PersonalizationProvider";
 import { idFromSlug } from "~/lib/slug";
 
 const LABELS = ["A", "B", "C", "D", "E", "F"];
@@ -59,6 +60,7 @@ export default function QuizPage({ params }: PageProps) {
   const topicId = idFromSlug(topicIdStr);
   const router = useRouter();
   const utils = api.useUtils();
+  const msgs = usePersonalization();
 
   const [phase, setPhase] = useState<Phase>("config");
 
@@ -465,9 +467,7 @@ export default function QuizPage({ params }: PageProps) {
             {isPass ? "Lulus" : "Perlu Belajar Lagi"}
           </div>
           <p className="text-xs text-muted-foreground pt-1">
-            {isPass
-              ? "Kamu hebat, sayang! Terus pertahankan ya 🥰"
-              : "Gapapa salah, pelan-pelan aja. Aku temenin belajar 🤍"}
+            {isPass ? msgs.quizResultPass : msgs.quizResultFail}
           </p>
         </div>
 

@@ -47,3 +47,8 @@ yarn-error.log*
 
 # idea files
 .idea
+# CLAUDE.md berisi kredensial production — jangan di-commit
+CLAUDE.md
+
+# DB backups — jangan di-commit
+backups/

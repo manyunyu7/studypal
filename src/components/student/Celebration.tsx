@@ -2,35 +2,29 @@
 
 import { useEffect, useState } from "react";
 import { pickFresh } from "~/lib/love-pick";
+import { usePersonalization } from "~/components/student/PersonalizationProvider";
 
 /**
- * Confetti + pesan sayang pas Endah dapet skor bagus 🎉
- * Pure CSS/DOM, tanpa dependency tambahan. Dibuat Henry 💕
+ * Confetti + pesan selamat pas dapet skor bagus 🎉 Teksnya ikut tone user
+ * (sweet/neutral). Pure CSS/DOM, tanpa dependency tambahan.
  */
 
 const COLORS = ["#ec4899", "#a855f7", "#f59e0b", "#10b981", "#38bdf8", "#f43f5e"];
 
-const PRAISE = [
-  "Pinter banget sih kamu 😍",
-  "Wih, otak encer! Bangga banget aku 🥰",
-  "Kamu memang yang terbaik, sayang 💕",
-  "Keren! Traktir aku dong nilai segini 😘",
-  "Calon orang sukses nih 🔥 Aku sayang kamu",
-];
-
 export function Celebration({ percentage }: { percentage: number }) {
+  const { praises, celebrationSignature } = usePersonalization();
   const [show, setShow] = useState(false);
-  const [message, setMessage] = useState(PRAISE[0]!);
+  const [message, setMessage] = useState(praises[0] ?? "Keren banget! 🎉");
 
   // Cuma muncul kalau skornya bagus (>= 80%)
   useEffect(() => {
     if (percentage >= 80) {
-      setMessage(pickFresh("praise", PRAISE));
+      setMessage(pickFresh("praise", praises));
       setShow(true);
       const t = setTimeout(() => setShow(false), 6000);
       return () => clearTimeout(t);
     }
-  }, [percentage]);
+  }, [percentage, praises]);
 
   if (!show) return null;
 
@@ -63,7 +57,9 @@ export function Celebration({ percentage }: { percentage: number }) {
       <div className="absolute inset-x-0 top-24 flex justify-center px-4">
         <div className="animate-in fade-in zoom-in duration-500 rounded-2xl border border-pink-400/40 bg-gradient-to-br from-pink-500/90 to-violet-600/90 px-6 py-4 text-center shadow-2xl backdrop-blur">
           <p className="text-lg font-bold text-white">{message}</p>
-          <p className="mt-1 text-xs font-medium text-white/80">— dari Henry, yang sayang kamu 💛</p>
+          {celebrationSignature && (
+            <p className="mt-1 text-xs font-medium text-white/80">{celebrationSignature}</p>
+          )}
         </div>
       </div>
 

@@ -63,10 +63,10 @@ export default function LoginPage() {
       {/* Header */}
       <div className="space-y-2">
         <h2 className="text-2xl md:text-3xl font-bold text-foreground">
-          Selamat datang kembali, sayang 💛
+          Selamat datang kembali 👋
         </h2>
         <p className="text-muted-foreground">
-          Belajar dulu yuk, aku temenin dari sini
+          Yuk lanjut belajar, kamu pasti bisa 🔥
         </p>
       </div>
 
@@ -175,8 +175,7 @@ export default function LoginPage() {
 
       {/* Tanda tangan */}
       <p className="text-center text-xs text-muted-foreground">
-        Dibuat dengan ❤️ oleh <span className="font-medium text-foreground">Henry</span>, buat{" "}
-        <span className="font-medium text-foreground">Endah</span>
+        Dibuat dengan ❤️ oleh <span className="font-medium text-foreground">Henry</span>
       </p>
     </div>
   );

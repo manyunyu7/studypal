@@ -13,6 +13,11 @@ enum Role {
     ADMIN
 }
 
+enum Tone {
+    SWEET
+    NEUTRAL
+}
+
 enum Difficulty {
     EASY
     MEDIUM
@@ -50,8 +55,24 @@ model User {
     bookmarks         QuestionBookmark[]
     activityLogs      ActivityLog[]
     themePreference   Json?
+    tone              Tone                @default(NEUTRAL)
+    personalization   Personalization?
     createdAt         DateTime            @default(now())
     updatedAt         DateTime            @updatedAt
+}
+
+/// Per-user editable personalization (sweet talk overrides). Optional row —
+/// kalau nggak ada, app fallback ke template sesuai `User.tone`.
+model Personalization {
+    id          String   @id @default(cuid())
+    userId      String   @unique
+    user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+    authorName  String? // tanda tangan, mis. "Henry"
+    letterTitle String?  @db.Text
+    letterBody  String?  @db.Text
+    greeting    String?  @db.Text // override sub-greeting dashboard (opsional)
+    createdAt   DateTime @default(now())
+    updatedAt   DateTime @updatedAt
 }
 
 model ActivityLog {

@@ -8,6 +8,8 @@ import { mindmapRouter } from "~/server/api/routers/mindmap";
 import { quizRouter } from "~/server/api/routers/quiz";
 import { userRouter } from "~/server/api/routers/user";
 import { activityRouter } from "~/server/api/routers/activity";
+import { analyticsRouter } from "~/server/api/routers/analytics";
+import { personalizationRouter } from "~/server/api/routers/personalization";
 
 export const appRouter = createTRPCRouter({
   semester: semesterRouter,
@@ -19,6 +21,8 @@ export const appRouter = createTRPCRouter({
   quiz: quizRouter,
   user: userRouter,
   activity: activityRouter,
+  analytics: analyticsRouter,
+  personalization: personalizationRouter,
 });
 
 export type AppRouter = typeof appRouter;

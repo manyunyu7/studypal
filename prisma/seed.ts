@@ -101,8 +101,8 @@ async function main() {
   });
   await prisma.user.upsert({
     where: { email: "carens@studypal.app" },
-    update: {},
-    create: { name: "Endah", email: "carens@studypal.app", role: "USER", password: studentPassword },
+    update: { tone: "SWEET" },
+    create: { name: "Endah", email: "carens@studypal.app", role: "USER", password: studentPassword, tone: "SWEET" },
   });
   console.log("Upserted users.");
 

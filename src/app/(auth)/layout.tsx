@@ -96,10 +96,10 @@ export default function AuthLayout({
         {/* Footer quote */}
         <div className="space-y-3">
           <blockquote className="text-muted-foreground text-sm italic border-l-2 border-pink-400/50 pl-4">
-            &ldquo;Aku bikin ini buat kamu, biar belajarmu lebih ringan dan kamu
-            tau aku selalu ada buat kamu.&rdquo;
+            &ldquo;Belajar itu lebih ringan kalau dinikmati. Pelan-pelan aja,
+            yang penting konsisten.&rdquo;
           </blockquote>
-          <p className="text-muted-foreground text-xs">— Henry, buat Endah 💕</p>
+          <p className="text-muted-foreground text-xs">— Henry, buat StudyPal</p>
         </div>
       </div>
 
