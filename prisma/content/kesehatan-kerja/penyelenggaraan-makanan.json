@@ -1,0 +1,1382 @@
+{
+  "topic": "Penyelenggaraan Makanan di Tempat Kerja",
+  "order": 3,
+  "description": "Penyelenggaraan makanan di tempat kerja mencakup rangkaian kegiatan dari penyusunan anggaran hingga penyajian, dasar hukum SE Menaker No 1 Tahun 1979, cara dan sistem pelayanan makanan, syarat petugas penjamah makanan, serta persyaratan dapur dan ruang makan. Materi disusun dari paparan kuliah Penyelenggaraan Makanan di Tempat Kerja.",
+  "subtopics": [
+    "Rangkaian Kegiatan Penyelenggaraan Makanan",
+    "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+    "Cara Penyelenggaraan Makanan",
+    "Sistem Pelayanan Makanan",
+    "Petugas Penjamah Makanan",
+    "Dapur & Ruang Makan"
+  ],
+  "questions": [
+    {
+      "text": "Manakah yang merupakan kegiatan PERTAMA dalam rangkaian penyelenggaraan makanan?",
+      "explanation": "Rangkaian kegiatan diawali dengan penyusunan anggaran belanja makanan.",
+      "difficulty": "EASY",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Penyusunan anggaran belanja makanan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Perencanaan menu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Distribusi atau penyajian makanan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengemasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Setelah penyusunan anggaran belanja makanan, kegiatan berikutnya dalam rangkaian penyelenggaraan makanan adalah...",
+      "explanation": "Urutan setelah penyusunan anggaran adalah perencanaan menu.",
+      "difficulty": "MEDIUM",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Pengemasan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Perencanaan menu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Penilaian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Distribusi makanan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan kegiatan TERAKHIR dalam rangkaian penyelenggaraan makanan?",
+      "explanation": "Rangkaian diakhiri dengan distribusi atau penyajian makanan.",
+      "difficulty": "EASY",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Penilaian",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pengemasan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Distribusi atau penyajian makanan",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Persiapan dan pemasakan makanan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kegiatan menerima bahan makanan dan menyimpannya termasuk tahap...",
+      "explanation": "Penerimaan dan penyimpanan bahan makanan adalah salah satu tahap dalam rangkaian kegiatan.",
+      "difficulty": "EASY",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Perencanaan menu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pengemasan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penilaian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penerimaan dan penyimpanan bahan makanan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Berikut adalah tahap dalam rangkaian kegiatan penyelenggaraan makanan, KECUALI...",
+      "explanation": "Pemeriksaan kesehatan berkala bukan bagian dari rangkaian kegiatan penyelenggaraan makanan; tahapannya meliputi anggaran, menu, pengadaan, penerimaan/penyimpanan, persiapan/pemasakan, penilaian, pengemasan, dan distribusi.",
+      "difficulty": "MEDIUM",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Pemeriksaan kesehatan berkala karyawan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Perencanaan menu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pengemasan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Persiapan dan pemasakan makanan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tahap 'pengadaan atau pembuatan makanan' dalam rangkaian kegiatan dilakukan setelah tahap...",
+      "explanation": "Urutannya: anggaran → perencanaan menu → pengadaan atau pembuatan makanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Penilaian",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Perencanaan menu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Pengemasan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Distribusi makanan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tahap 'persiapan dan pemasakan makanan' dilakukan setelah tahap...",
+      "explanation": "Setelah bahan makanan diterima dan disimpan, dilakukan persiapan dan pemasakan makanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Distribusi makanan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Penyusunan anggaran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penerimaan dan penyimpanan bahan makanan",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Pengemasan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam rangkaian kegiatan penyelenggaraan makanan, tahap 'pengemasan' dilakukan...",
+      "explanation": "Pengemasan berada di antara penilaian dan distribusi/penyajian makanan.",
+      "difficulty": "HARD",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Sebelum perencanaan menu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Paling awal sebelum penyusunan anggaran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sebelum penerimaan bahan makanan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Setelah penilaian dan sebelum distribusi/penyajian",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Kegiatan menyusun rencana hidangan yang akan disediakan bagi pekerja disebut...",
+      "explanation": "Perencanaan menu adalah kegiatan menyusun hidangan, termasuk dalam rangkaian penyelenggaraan makanan.",
+      "difficulty": "EASY",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Perencanaan menu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penilaian",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pengemasan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penyusunan anggaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tahap 'penilaian' dalam rangkaian kegiatan penyelenggaraan makanan berada pada urutan setelah...",
+      "explanation": "Penilaian dilakukan setelah persiapan dan pemasakan makanan, sebelum pengemasan.",
+      "difficulty": "HARD",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Penyusunan anggaran",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Persiapan dan pemasakan makanan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Perencanaan menu",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Distribusi makanan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dasar hukum penyelenggaraan makanan di tempat kerja yang dibahas dalam materi adalah...",
+      "explanation": "Materi mengacu pada SE Menaker No 1 Tahun 1979.",
+      "difficulty": "EASY",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+      "options": [
+        {
+          "text": "A. UU No 13 Tahun 2003",
+          "isCorrect": false
+        },
+        {
+          "text": "B. PP No 50 Tahun 2012",
+          "isCorrect": false
+        },
+        {
+          "text": "C. SE Menaker No 1 Tahun 1979",
+          "isCorrect": true
+        },
+        {
+          "text": "D. SE Menaker No 5 Tahun 2018",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SE Menaker No 1 Tahun 1979, perusahaan yang mempekerjakan buruh antara 50 sampai 200 orang supaya menyediakan...",
+      "explanation": "Untuk 50–200 buruh, perusahaan wajib menyediakan ruang/tempat makan.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+      "options": [
+        {
+          "text": "A. Kantin",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Jasa boga borongan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Nasi kotak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Ruang/tempat makan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Menurut SE Menaker No 1 Tahun 1979, perusahaan yang mempekerjakan buruh lebih dari 200 orang supaya menyediakan...",
+      "explanation": "Untuk lebih dari 200 buruh, perusahaan wajib menyediakan kantin.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+      "options": [
+        {
+          "text": "A. Kantin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Ruang/tempat makan saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Warung di luar perusahaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Catu lauk pauk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berapa jumlah buruh yang menjadi batas suatu perusahaan diwajibkan menyediakan kantin menurut SE Menaker No 1 Tahun 1979?",
+      "explanation": "Perusahaan dengan buruh lebih dari 200 orang wajib menyediakan kantin.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+      "options": [
+        {
+          "text": "A. Lebih dari 50 orang",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lebih dari 200 orang",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lebih dari 100 orang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lebih dari 500 orang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SE Menaker No 1 Tahun 1979, harga makanan dan minuman di kantin perusahaan hendaknya diusahakan...",
+      "explanation": "Harga diusahakan layak sesuai kemampuan perusahaan dan daya beli buruh.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+      "options": [
+        {
+          "text": "A. Setinggi mungkin untuk menutup biaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gratis sepenuhnya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Layak sesuai kemampuan perusahaan dan daya beli buruh",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Mengikuti harga pasar restoran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut SE Menaker No 1 Tahun 1979, hal yang harus selalu mendapat perhatian utama pada makanan di kantin adalah...",
+      "explanation": "Nilai gizi makanan tetap harus mendapat perhatian yang utama.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+      "options": [
+        {
+          "text": "A. Variasi kemasan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Keuntungan kantin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kecepatan penyajian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Nilai gizi makanan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Menurut SE Menaker No 1 Tahun 1979, pihak yang membantu pengusaha dalam pengembangan gizi kerja serta pembinaan kantin dan ruang makan adalah...",
+      "explanation": "Aparatur Hygiene Perusahaan dan Kesehatan Kerja dari Departemen Tenaga Kerja dan Transmigrasi.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+      "options": [
+        {
+          "text": "A. Aparatur Hygiene Perusahaan dan Kesehatan Kerja dari Depnakertrans",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dinas Kesehatan Kota",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kementerian Kesehatan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Serikat pekerja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan pembinaan kantin dan ruang makan oleh aparatur Hygiene Perusahaan dan Kesehatan Kerja adalah...",
+      "explanation": "Agar kantin dan ruang makan benar-benar memberikan manfaat dalam mencapai tujuannya.",
+      "difficulty": "MEDIUM",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+      "options": [
+        {
+          "text": "A. Untuk menambah pendapatan negara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Agar benar-benar memberikan manfaat dalam mencapai tujuannya",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Untuk mengurangi jumlah karyawan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Untuk menaikkan harga makanan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perusahaan dengan 150 orang buruh, menurut SE Menaker No 1 Tahun 1979, wajib menyediakan...",
+      "explanation": "150 berada di rentang 50–200, sehingga wajib menyediakan ruang/tempat makan.",
+      "difficulty": "HARD",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)",
+      "options": [
+        {
+          "text": "A. Kantin",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tidak wajib menyediakan apa pun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Ruang/tempat makan",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Jasa boga borongan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, ada berapa cara penyelenggaraan makanan di tempat kerja?",
+      "explanation": "Terdapat tiga cara: perusahaan sendiri, kerjasama dengan perusahaan lain, dan perusahaan jasa boga dengan sistem borongan.",
+      "difficulty": "EASY",
+      "tag": "Cara Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Dua",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Empat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lima",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tiga",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Berikut termasuk cara penyelenggaraan makanan di tempat kerja, KECUALI...",
+      "explanation": "Cara penyelenggaraan: perusahaan sendiri, kerjasama dengan perusahaan lain, dan jasa boga sistem borongan. Membeli dari pedagang kaki lima bukan termasuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Membeli dari pedagang kaki lima di luar pabrik",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Diselenggarakan perusahaan sendiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kerjasama dengan perusahaan lain",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Perusahaan jasa boga dengan sistem borongan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyelenggaraan makanan yang diserahkan kepada perusahaan jasa boga dilakukan dengan sistem...",
+      "explanation": "Perusahaan jasa boga menyelenggarakan makanan dengan sistem borongan.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Harian lepas",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Borongan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Konsinyasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Swakelola penuh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cara penyelenggaraan makanan di mana perusahaan mengelola sendiri penyediaan makanan bagi pekerjanya disebut penyelenggaraan oleh...",
+      "explanation": "Salah satu cara adalah penyelenggaraan oleh perusahaan sendiri.",
+      "difficulty": "EASY",
+      "tag": "Cara Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Jasa boga",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Koperasi luar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Perusahaan sendiri",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Pemerintah daerah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dua perusahaan yang bekerja sama untuk menyelenggarakan makanan bagi pekerjanya merupakan contoh cara penyelenggaraan...",
+      "explanation": "Yaitu kerjasama dengan perusahaan lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Cara Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Jasa boga borongan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Perusahaan sendiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sistem prasmanan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kerjasama dengan perusahaan lain",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Manakah pernyataan yang BENAR tentang cara penyelenggaraan makanan menurut materi?",
+      "explanation": "Ketiga cara yang disebut adalah perusahaan sendiri, kerjasama dengan perusahaan lain, dan jasa boga sistem borongan.",
+      "difficulty": "HARD",
+      "tag": "Cara Penyelenggaraan Makanan",
+      "options": [
+        {
+          "text": "A. Bisa sendiri, kerjasama perusahaan lain, atau jasa boga borongan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya boleh diselenggarakan perusahaan sendiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Wajib menggunakan jasa boga",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya melalui kerjasama dengan perusahaan lain",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada sistem pelayanan makanan 'Cafetaria', ciri utamanya adalah...",
+      "explanation": "Pada sistem cafetaria, porsi diatur.",
+      "difficulty": "EASY",
+      "tag": "Sistem Pelayanan Makanan",
+      "options": [
+        {
+          "text": "A. Nasi dan sayur diambil sendiri",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Porsi diatur",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Makanan dibungkus dalam kotak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Semua makanan diambil bebas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sistem pelayanan makanan di mana lauk pauk diatur sedangkan nasi dan sayur diambil sendiri disebut sistem...",
+      "explanation": "Itu adalah sistem 'Catu' (lauk pauk diatur, nasi dan sayur diambil sendiri).",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pelayanan Makanan",
+      "options": [
+        {
+          "text": "A. Cafetaria",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Prasmanan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Catu",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Nasi kotak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut yang termasuk sistem pelayanan penyelenggaraan makanan menurut materi, KECUALI...",
+      "explanation": "Sistem pelayanan yang disebut: cafetaria, catu, prasmanan, dan nasi kotak. Sistem delivery online tidak disebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pelayanan Makanan",
+      "options": [
+        {
+          "text": "A. Cafetaria",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Prasmanan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Nasi kotak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Delivery online",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Sistem pelayanan makanan di mana makanan disajikan dalam wadah/kotak per individu disebut...",
+      "explanation": "Yaitu sistem nasi kotak.",
+      "difficulty": "EASY",
+      "tag": "Sistem Pelayanan Makanan",
+      "options": [
+        {
+          "text": "A. Nasi kotak",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Catu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Cafetaria",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Prasmanan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada sistem pelayanan makanan 'Prasmanan', cara penyajiannya adalah...",
+      "explanation": "Sistem prasmanan menyajikan makanan agar dapat diambil sendiri oleh pekerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pelayanan Makanan",
+      "options": [
+        {
+          "text": "A. Porsi diatur secara ketat per orang",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Makanan disajikan dan diambil sendiri oleh pekerja",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Dibungkus dalam kotak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya lauk yang dibagikan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara sistem 'Cafetaria' dan 'Catu' adalah...",
+      "explanation": "Pada cafetaria porsi diatur, sedangkan pada catu lauk pauk diatur tetapi nasi dan sayur diambil sendiri.",
+      "difficulty": "HARD",
+      "tag": "Sistem Pelayanan Makanan",
+      "options": [
+        {
+          "text": "A. Cafetaria dibungkus kotak; catu disajikan prasmanan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Keduanya sama persis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Cafetaria porsinya diatur; catu hanya lauk pauk diatur, nasi & sayur ambil sendiri",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Cafetaria diambil bebas; catu porsi diatur penuh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu syarat petugas penjamah makanan adalah...",
+      "explanation": "Petugas penjamah makanan harus bebas penyakit menular (dengan pemeriksaan kesehatan).",
+      "difficulty": "EASY",
+      "tag": "Petugas Penjamah Makanan",
+      "options": [
+        {
+          "text": "A. Berusia di atas 40 tahun",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Memiliki gelar sarjana gizi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Berjenis kelamin perempuan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bebas penyakit menular",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Menurut ketentuan, bebasnya petugas penjamah makanan dari penyakit menular dibuktikan/dipastikan melalui...",
+      "explanation": "Dibuktikan dengan surat dokter / melalui pemeriksaan kesehatan.",
+      "difficulty": "MEDIUM",
+      "tag": "Petugas Penjamah Makanan",
+      "options": [
+        {
+          "text": "A. Surat dokter / pemeriksaan kesehatan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pernyataan lisan calon petugas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Rekomendasi teman kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pengalaman kerja sebelumnya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit menular berikut disebut sebagai yang harus bebas dari petugas penyelenggara makanan, KECUALI...",
+      "explanation": "Yang disebut dalam ketentuan adalah TBC paru, typus, dan cacingan. Hipertensi bukan penyakit menular dan tidak disebut.",
+      "difficulty": "HARD",
+      "tag": "Petugas Penjamah Makanan",
+      "options": [
+        {
+          "text": "A. TBC paru",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hipertensi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Typus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Cacingan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu ketentuan petugas penyelenggara makanan terkait perhiasan adalah...",
+      "explanation": "Petugas tidak menggunakan perhiasan saat menjamah/mengelola makanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Petugas Penjamah Makanan",
+      "options": [
+        {
+          "text": "A. Wajib menggunakan perhiasan agar rapi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Boleh menggunakan cincin saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak menggunakan perhiasan",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Bebas menggunakan perhiasan apa pun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jika petugas penjamah makanan mengalami muntah dan diare, menurut ketentuan ia wajib...",
+      "explanation": "Petugas wajib melapor jika ada kejadian muntah dan diare.",
+      "difficulty": "MEDIUM",
+      "tag": "Petugas Penjamah Makanan",
+      "options": [
+        {
+          "text": "A. Tetap bekerja seperti biasa",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengganti seragam saja",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengonsumsi obat tanpa melapor",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Melapor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Berkaitan dengan kedisiplinan, petugas penjamah makanan diharuskan...",
+      "explanation": "Disiplin, antara lain memakai APD dan menerapkan PHBS (Perilaku Hidup Bersih dan Sehat).",
+      "difficulty": "MEDIUM",
+      "tag": "Petugas Penjamah Makanan",
+      "options": [
+        {
+          "text": "A. Disiplin memakai APD dan menerapkan PHBS",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Bekerja tanpa alat pelindung apa pun",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memilih sendiri jam kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu menjaga kebersihan diri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Selain bebas penyakit menular, petugas penjamah makanan harus memiliki pengetahuan tentang...",
+      "explanation": "Memiliki pengetahuan tentang kebersihan, kesehatan, dan cara mengelola makanan.",
+      "difficulty": "MEDIUM",
+      "tag": "Petugas Penjamah Makanan",
+      "options": [
+        {
+          "text": "A. Akuntansi dan keuangan kantin",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kebersihan, kesehatan, dan cara mengelola makanan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Teknik pemasaran produk",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Perbaikan mesin dapur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan berikut sesuai ketentuan petugas penjamah/penyelenggara makanan, KECUALI...",
+      "explanation": "Petugas justru harus TIDAK memiliki kebiasaan buruk; ketentuan lainnya benar.",
+      "difficulty": "HARD",
+      "tag": "Petugas Penjamah Makanan",
+      "options": [
+        {
+          "text": "A. Tidak memiliki kebiasaan buruk",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Disiplin memakai APD",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Boleh memiliki kebiasaan buruk asal rapi",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Wajib melapor jika muntah dan diare",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut ketentuan dapur dan ruang makan, letak dapur sebaiknya...",
+      "explanation": "Letak dapur tidak jauh dari ruang makan dan tidak berhubungan langsung dengan tempat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Dapur & Ruang Makan",
+      "options": [
+        {
+          "text": "A. Menyatu langsung dengan area produksi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sangat jauh dari ruang makan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Berada di dalam ruang kerja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak jauh dari ruang makan dan tidak berhubungan langsung dengan tempat kerja",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Berikut adalah syarat kondisi dapur/ruang makan menurut materi, KECUALI...",
+      "explanation": "Syaratnya: mudah dibersihkan, penerangan cukup, lantai tidak licin, tidak panas, tidak bau, ruangan cukup, dan tidak ada serangga. Lantai licin justru tidak boleh.",
+      "difficulty": "MEDIUM",
+      "tag": "Dapur & Ruang Makan",
+      "options": [
+        {
+          "text": "A. Lantai licin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mudah dibersihkan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penerangan cukup",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak ada serangga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Terkait pencahayaan, kondisi dapur dan ruang makan harus...",
+      "explanation": "Penerangan harus cukup.",
+      "difficulty": "EASY",
+      "tag": "Dapur & Ruang Makan",
+      "options": [
+        {
+          "text": "A. Sengaja dibuat remang",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Penerangan cukup",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tanpa pencahayaan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya cahaya lilin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu syarat kondisi dapur/ruang makan terkait suhu dan bau adalah...",
+      "explanation": "Ruangan harus tidak panas dan tidak bau.",
+      "difficulty": "MEDIUM",
+      "tag": "Dapur & Ruang Makan",
+      "options": [
+        {
+          "text": "A. Boleh panas asal cepat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Bau tidak masalah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak panas dan tidak bau",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Harus lembap dan hangat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa dapur sebaiknya tidak berhubungan langsung dengan tempat kerja?",
+      "explanation": "Sesuai ketentuan, letak dapur tidak jauh dari ruang makan dan tidak berhubungan langsung dengan tempat kerja agar terpisah dari area kerja.",
+      "difficulty": "HARD",
+      "tag": "Dapur & Ruang Makan",
+      "options": [
+        {
+          "text": "A. Agar pekerja sulit makan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Agar dapur lebih panas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada alasan khusus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena ketentuan mensyaratkan dapur tidak berhubungan langsung dengan tempat kerja",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Terkait keberadaan serangga, kondisi dapur dan ruang makan harus...",
+      "explanation": "Ruangan harus tidak ada serangga.",
+      "difficulty": "EASY",
+      "tag": "Dapur & Ruang Makan",
+      "options": [
+        {
+          "text": "A. Tidak ada serangga",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Boleh ada serangga sedikit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Serangga tidak diatur",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Diberi sarang serangga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Terkait kapasitas, ketentuan menyebutkan fasilitas dan ruang makan harus...",
+      "explanation": "Fasilitas dan ruang makan harus cukup memadai serta ruangan cukup.",
+      "difficulty": "MEDIUM",
+      "tag": "Dapur & Ruang Makan",
+      "options": [
+        {
+          "text": "A. Seadanya saja",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Cukup memadai",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sengaja dibuat sempit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak perlu fasilitas",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Rangkaian kegiatan penyelenggaraan makanan",
+      "back": "Penyusunan anggaran belanja makanan → perencanaan menu → pengadaan/pembuatan makanan → penerimaan & penyimpanan bahan makanan → persiapan & pemasakan → penilaian → pengemasan → distribusi/penyajian makanan.",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan"
+    },
+    {
+      "front": "Kegiatan pertama & terakhir penyelenggaraan makanan",
+      "back": "Pertama: penyusunan anggaran belanja makanan. Terakhir: distribusi atau penyajian makanan.",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan"
+    },
+    {
+      "front": "Tahap penilaian & pengemasan",
+      "back": "Setelah persiapan & pemasakan dilakukan penilaian, lalu pengemasan, baru distribusi/penyajian.",
+      "tag": "Rangkaian Kegiatan Penyelenggaraan Makanan"
+    },
+    {
+      "front": "Dasar hukum penyelenggaraan makanan di tempat kerja",
+      "back": "SE Menaker No 1 Tahun 1979.",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)"
+    },
+    {
+      "front": "Kewajiban ruang makan vs kantin (SE Menaker No 1/1979)",
+      "back": "50–200 buruh: wajib menyediakan ruang/tempat makan. Lebih dari 200 buruh: wajib menyediakan kantin.",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)"
+    },
+    {
+      "front": "Harga & gizi makanan kantin (SE Menaker No 1/1979)",
+      "back": "Harga diusahakan layak sesuai kemampuan perusahaan dan daya beli buruh; nilai gizi makanan tetap mendapat perhatian utama.",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)"
+    },
+    {
+      "front": "Aparatur pembina kantin (SE Menaker No 1/1979)",
+      "back": "Aparatur Hygiene Perusahaan dan Kesehatan Kerja dari Depnakertrans membantu pengusaha mengembangkan gizi kerja serta membina kantin dan ruang makan.",
+      "tag": "Dasar Hukum (SE Menaker No 1 Tahun 1979)"
+    },
+    {
+      "front": "Tiga cara penyelenggaraan makanan",
+      "back": "(1) Diselenggarakan perusahaan sendiri; (2) Kerjasama dengan perusahaan lain; (3) Perusahaan jasa boga dengan sistem borongan.",
+      "tag": "Cara Penyelenggaraan Makanan"
+    },
+    {
+      "front": "Sistem pelayanan makanan",
+      "back": "Cafetaria (porsi diatur); Catu (lauk pauk diatur, nasi & sayur ambil sendiri); Prasmanan; Nasi kotak.",
+      "tag": "Sistem Pelayanan Makanan"
+    },
+    {
+      "front": "Cafetaria vs Catu",
+      "back": "Cafetaria: porsi diatur. Catu: lauk pauk diatur, sedangkan nasi dan sayur diambil sendiri.",
+      "tag": "Sistem Pelayanan Makanan"
+    },
+    {
+      "front": "Syarat kesehatan petugas penjamah makanan",
+      "back": "Bebas penyakit menular (TBC paru, typus, cacingan) dinyatakan dengan surat dokter / pemeriksaan kesehatan.",
+      "tag": "Petugas Penjamah Makanan"
+    },
+    {
+      "front": "Perilaku petugas penjamah makanan",
+      "back": "Punya pengetahuan kebersihan, kesehatan & cara mengelola makanan; tidak punya kebiasaan buruk; disiplin (APD, PHBS); tidak memakai perhiasan; wajib melapor jika muntah & diare.",
+      "tag": "Petugas Penjamah Makanan"
+    },
+    {
+      "front": "Letak dapur & ruang makan",
+      "back": "Letak dapur tidak jauh dari ruang makan dan tidak berhubungan langsung dengan tempat kerja; fasilitas & ruang makan cukup memadai.",
+      "tag": "Dapur & Ruang Makan"
+    },
+    {
+      "front": "Syarat kondisi dapur/ruang makan",
+      "back": "Mudah dibersihkan, penerangan cukup, lantai tidak licin, tidak panas, tidak bau, ruangan cukup, dan tidak ada serangga.",
+      "tag": "Dapur & Ruang Makan"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Penyelenggaraan Makanan di Tempat Kerja",
+      "color": "#10b981",
+      "parent": null,
+      "content": "Penyediaan makanan bagi pekerja: rangkaian kegiatan, dasar hukum, cara & sistem pelayanan, petugas penjamah, serta dapur & ruang makan."
+    },
+    {
+      "id": "rangkaian",
+      "label": "Rangkaian Kegiatan",
+      "color": "#34d399",
+      "parent": "root",
+      "content": "Tahapan penyelenggaraan makanan dari anggaran hingga penyajian."
+    },
+    {
+      "id": "r-anggaran",
+      "label": "Penyusunan Anggaran",
+      "color": "#6ee7b7",
+      "parent": "rangkaian",
+      "content": "Penyusunan anggaran belanja makanan — tahap pertama."
+    },
+    {
+      "id": "r-menu",
+      "label": "Perencanaan Menu",
+      "color": "#6ee7b7",
+      "parent": "rangkaian",
+      "content": "Menyusun hidangan yang akan disediakan."
+    },
+    {
+      "id": "r-pengadaan",
+      "label": "Pengadaan / Penerimaan",
+      "color": "#6ee7b7",
+      "parent": "rangkaian",
+      "content": "Pengadaan/pembuatan makanan, lalu penerimaan & penyimpanan bahan makanan."
+    },
+    {
+      "id": "r-masak",
+      "label": "Persiapan & Pemasakan",
+      "color": "#6ee7b7",
+      "parent": "rangkaian",
+      "content": "Persiapan dan pemasakan makanan."
+    },
+    {
+      "id": "r-akhir",
+      "label": "Penilaian → Pengemasan → Distribusi",
+      "color": "#6ee7b7",
+      "parent": "rangkaian",
+      "content": "Penilaian, pengemasan, lalu distribusi/penyajian makanan (tahap terakhir)."
+    },
+    {
+      "id": "hukum",
+      "label": "Dasar Hukum",
+      "color": "#34d399",
+      "parent": "root",
+      "content": "SE Menaker No 1 Tahun 1979."
+    },
+    {
+      "id": "h-ruang",
+      "label": "50–200 Buruh",
+      "color": "#6ee7b7",
+      "parent": "hukum",
+      "content": "Wajib menyediakan ruang/tempat makan."
+    },
+    {
+      "id": "h-kantin",
+      "label": ">200 Buruh",
+      "color": "#6ee7b7",
+      "parent": "hukum",
+      "content": "Wajib menyediakan kantin."
+    },
+    {
+      "id": "h-harga",
+      "label": "Harga & Gizi",
+      "color": "#6ee7b7",
+      "parent": "hukum",
+      "content": "Harga layak sesuai daya beli buruh; nilai gizi jadi perhatian utama."
+    },
+    {
+      "id": "h-aparatur",
+      "label": "Pembinaan",
+      "color": "#6ee7b7",
+      "parent": "hukum",
+      "content": "Aparatur Hygiene Perusahaan & Kesehatan Kerja Depnakertrans membina kantin & ruang makan."
+    },
+    {
+      "id": "cara",
+      "label": "Cara Penyelenggaraan",
+      "color": "#34d399",
+      "parent": "root",
+      "content": "Tiga cara penyediaan makanan."
+    },
+    {
+      "id": "c-sendiri",
+      "label": "Perusahaan Sendiri",
+      "color": "#6ee7b7",
+      "parent": "cara",
+      "content": "Dikelola oleh perusahaan sendiri."
+    },
+    {
+      "id": "c-kerjasama",
+      "label": "Kerjasama",
+      "color": "#6ee7b7",
+      "parent": "cara",
+      "content": "Kerjasama dengan perusahaan lain."
+    },
+    {
+      "id": "c-jasaboga",
+      "label": "Jasa Boga",
+      "color": "#6ee7b7",
+      "parent": "cara",
+      "content": "Perusahaan jasa boga dengan sistem borongan."
+    },
+    {
+      "id": "pelayanan",
+      "label": "Sistem Pelayanan",
+      "color": "#34d399",
+      "parent": "root",
+      "content": "Cara penyajian makanan ke pekerja."
+    },
+    {
+      "id": "p-cafetaria",
+      "label": "Cafetaria",
+      "color": "#6ee7b7",
+      "parent": "pelayanan",
+      "content": "Porsi diatur."
+    },
+    {
+      "id": "p-catu",
+      "label": "Catu",
+      "color": "#6ee7b7",
+      "parent": "pelayanan",
+      "content": "Lauk pauk diatur; nasi & sayur diambil sendiri."
+    },
+    {
+      "id": "p-prasmanan",
+      "label": "Prasmanan & Nasi Kotak",
+      "color": "#6ee7b7",
+      "parent": "pelayanan",
+      "content": "Sistem prasmanan dan nasi kotak."
+    },
+    {
+      "id": "petugas",
+      "label": "Petugas Penjamah",
+      "color": "#34d399",
+      "parent": "root",
+      "content": "Syarat petugas penyelenggara makanan."
+    },
+    {
+      "id": "pt-sehat",
+      "label": "Bebas Penyakit Menular",
+      "color": "#6ee7b7",
+      "parent": "petugas",
+      "content": "Bebas TBC paru, typus, cacingan; dinyatakan surat dokter / pemeriksaan kesehatan."
+    },
+    {
+      "id": "pt-tahu",
+      "label": "Pengetahuan & Disiplin",
+      "color": "#6ee7b7",
+      "parent": "petugas",
+      "content": "Tahu kebersihan & cara mengelola makanan; disiplin APD & PHBS; tanpa perhiasan."
+    },
+    {
+      "id": "pt-lapor",
+      "label": "Wajib Lapor",
+      "color": "#6ee7b7",
+      "parent": "petugas",
+      "content": "Wajib melapor jika muntah & diare; tidak punya kebiasaan buruk."
+    },
+    {
+      "id": "dapur",
+      "label": "Dapur & Ruang Makan",
+      "color": "#34d399",
+      "parent": "root",
+      "content": "Persyaratan tempat memasak & makan."
+    },
+    {
+      "id": "d-letak",
+      "label": "Letak",
+      "color": "#6ee7b7",
+      "parent": "dapur",
+      "content": "Tidak jauh dari ruang makan; tidak berhubungan langsung dengan tempat kerja."
+    },
+    {
+      "id": "d-kondisi",
+      "label": "Kondisi",
+      "color": "#6ee7b7",
+      "parent": "dapur",
+      "content": "Mudah dibersihkan, penerangan cukup, lantai tidak licin, tidak panas, tidak bau, ruangan cukup, tidak ada serangga."
+    }
+  ]
+}

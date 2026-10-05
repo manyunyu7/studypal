@@ -44,6 +44,7 @@ export const analyticsRouter = createTRPCRouter({
       subjects,
       users,
       questionAgg,
+      activityRows,
     ] = await Promise.all([
       ctx.db.user.count(),
       ctx.db.user.count({ where: { role: "ADMIN" } }),
@@ -79,6 +80,7 @@ export const analyticsRouter = createTRPCRouter({
         by: ["questionId"],
         _sum: { timesCorrect: true, timesWrong: true },
       }),
+      ctx.db.activityLog.findMany({ select: { createdAt: true, type: true } }),
     ]);
 
     // ── Overview ──
@@ -193,6 +195,36 @@ export const analyticsRouter = createTRPCRouter({
       };
     });
 
+    // ── Insights: kapan & bagaimana user belajar ──
+    // Sebaran jam aktivitas (WIB = UTC+7), tahan terhadap timezone server.
+    const byHour = Array.from({ length: 24 }, (_, h) => ({ hour: h, count: 0 }));
+    const typeCounts = new Map<string, number>();
+    for (const r of activityRows) {
+      const wibHour = (r.createdAt.getUTCHours() + 7) % 24;
+      byHour[wibHour]!.count++;
+      typeCounts.set(r.type, (typeCounts.get(r.type) ?? 0) + 1);
+    }
+    const peakHour = byHour.reduce((a, b) => (b.count > a.count ? b : a), byHour[0]!);
+    const totalActivity = activityRows.length;
+    const activityBreakdown = Array.from(typeCounts.entries())
+      .map(([type, count]) => ({
+        type,
+        count,
+        pct: totalActivity > 0 ? Math.round((count / totalActivity) * 100) : 0,
+      }))
+      .sort((a, b) => b.count - a.count);
+
+    // ── Cakupan konten: berapa topik/matkul yang benar-benar disentuh quiz ──
+    const attemptedTopicIds = new Set(
+      attempts.map((a) => a.topicId).filter((id): id is number => id != null),
+    );
+    const coverage = {
+      totalTopics: topics.length,
+      attemptedTopics: attemptedTopicIds.size,
+      totalSubjects: subjects.length,
+      attemptedSubjects: subjectAgg.size,
+    };
+
     return {
       overview: {
         totalUsers,
@@ -210,6 +242,13 @@ export const analyticsRouter = createTRPCRouter({
       subjectPerformance,
       topUsers,
       hardestQuestions,
+      insights: {
+        byHour,
+        peakHour: peakHour.count > 0 ? peakHour.hour : null,
+        activityBreakdown,
+        totalActivity,
+        coverage,
+      },
     };
   }),
 });

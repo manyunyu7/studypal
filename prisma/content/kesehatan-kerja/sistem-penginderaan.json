@@ -1,0 +1,3050 @@
+{
+  "topic": "Anatomi & Fisiologi Sistem Penginderaan",
+  "order": 4,
+  "description": "Sistem penginderaan (panca indera) adalah organ akhir yang dikhususkan untuk menerima jenis rangsangan tertentu dari lingkungan dan meneruskannya ke pusat otak untuk ditafsirkan. Materi ini membahas anatomi dan fisiologi lima indera manusia: penglihatan (mata), pendengaran (telinga), pengecapan (lidah), penghidu (hidung), dan peraba/perasa (kulit). Pemahaman ini penting dalam konteks K3 untuk asesmen risiko dan pencegahan penyakit akibat kerja pada organ indera.",
+  "subtopics": [
+    "Indera Penglihatan (Mata)",
+    "Indera Pendengaran (Telinga)",
+    "Indera Pengecapan (Lidah)",
+    "Indera Penghidu (Hidung)",
+    "Indera Peraba (Kulit)"
+  ],
+  "questions": [
+    {
+      "text": "Apa fungsi utama mata sebagai organ indera penglihatan?",
+      "explanation": "Mata menerima rangsangan berkas cahaya pada retina dengan perantaraan serabut n. opticus menuju pusat otak penglihatan untuk ditafsirkan.",
+      "difficulty": "EASY",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Menghasilkan suara untuk komunikasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengatur keseimbangan tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menyaring udara yang masuk ke tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menerima rangsangan berkas cahaya pada retina dan meneruskannya ke pusat otak penglihatan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Saraf apakah yang berperan meneruskan rangsangan cahaya dari retina ke pusat otak penglihatan?",
+      "explanation": "Serabut nervus opticus (n. opticus) yang membawa rangsangan dari retina menuju pusat otak penglihatan untuk ditafsirkan.",
+      "difficulty": "EASY",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Nervus opticus",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Nervus auditori",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Nervus olfaktorius",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Nervus vagus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Di manakah posisi iris mata berada?",
+      "explanation": "Iris terlindung di belakang kornea dan di depan lensa; iris adalah lingkaran berwarna yang terletak di sekeliling biji mata.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Di belakang retina",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Di dalam vitreous humor",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Di belakang kornea dan di depan lensa",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Di depan kornea",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bagian mata manakah yang merupakan tempat penglihatan diproses di bagian belakang mata?",
+      "explanation": "Retina adalah garis mata bagian belakang di mana penglihatan diproses; iris mata bukan retina.",
+      "difficulty": "EASY",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Iris",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kornea",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pupil",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Retina",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Apa nama rongga mata yang berbentuk seperti kerucut?",
+      "explanation": "Kavum orbita adalah rongga mata berbentuk kerucut yang terdiri dari os frontalis, os zigomaticum, os palatum, os lacrimal, os sfenoidal, dan os ethmoidalis.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Kavum orbita",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kavum timpani",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sakus konjungtiva",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Konka nasalis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN termasuk tulang penyusun kavum orbita?",
+      "explanation": "Kavum orbita tersusun dari os frontalis, os zigomaticum, os palatum, os lacrimal, os sfenoidal, dan os ethmoidalis; os temporalis bukan penyusunnya.",
+      "difficulty": "HARD",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Os frontalis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Os zigomaticum",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Os temporalis",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Os lacrimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa nama bagian organ okuli assesoria berupa dua kulit tebal melengkung yang ditumbuhi bulu sebagai pelindung mata?",
+      "explanation": "Supersilium (alis mata) adalah dua kulit tebal melengkung ditumbuhi bulu sebagai pelindung mata dan untuk kecantikan.",
+      "difficulty": "EASY",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Palpebra",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tarsus",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Konjungtiva",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Supersilium (alis mata)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Apa fungsi palpebra (kelopak mata)?",
+      "explanation": "Palpebra (kelopak mata atas dan bawah) berfungsi sebagai pelindung mata bila ada gangguan, dengan kemampuan menutup dan membuka.",
+      "difficulty": "EASY",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Menghasilkan air mata",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengatur masuknya cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memfokuskan bayangan pada retina",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pelindung mata bila ada gangguan dengan menutup dan membuka",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Otot apakah yang menyusun kelopak mata atas?",
+      "explanation": "Kelopak mata atas terdiri dari m. levator palpebra superior yang berfungsi mengangkat kelopak mata.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. M. levator palpebra superior",
+          "isCorrect": true
+        },
+        {
+          "text": "B. M. orbikularis okuli",
+          "isCorrect": false
+        },
+        {
+          "text": "C. M. rektus okuli medial",
+          "isCorrect": false
+        },
+        {
+          "text": "D. M. obliques okuli superior",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada kelopak mata yang berlipat (tarsus) terdapat beberapa kelenjar, kecuali?",
+      "explanation": "Tarsus mengandung kelenjar tarsalia, sebasea, dan keringat; kelenjar lakrimalis bukan bagian dari tarsus.",
+      "difficulty": "HARD",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Kelenjar tarsalia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kelenjar keringat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kelenjar sebasea",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kelenjar lakrimalis",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Aparatus lakrimaris (air mata) dihasilkan oleh kelenjar apa?",
+      "explanation": "Air mata dihasilkan oleh kelenjar lacrimalis superior dan inferior.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Kelenjar sebasea",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kelenjar tarsalia",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kelenjar lacrimalis superior dan inferior",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Kelenjar keringat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ke mana akhirnya air mata dialirkan setelah melalui duktus nasolakrimaris?",
+      "explanation": "Air mata mengalir dari kanalis lakrimalis ke duktus nasolakrimaris dan berakhir di meatus nasalis inferior (rongga hidung).",
+      "difficulty": "HARD",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Meatus nasalis inferior",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kavum timpani",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sinus maksilaris",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sakus konjungtiva",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Otot mata manakah yang berfungsi menutup mata (lingkar mata)?",
+      "explanation": "M. orbikularis okuli atau otot lingkar mata berfungsi untuk menutup mata.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. M. levator palpebralis superior",
+          "isCorrect": false
+        },
+        {
+          "text": "B. M. obliques okuli inferior",
+          "isCorrect": false
+        },
+        {
+          "text": "C. M. rektus okuli medial",
+          "isCorrect": false
+        },
+        {
+          "text": "D. M. orbikularis okuli",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Otot mata manakah yang menggerakkan bola mata ke dalam (bola mata)?",
+      "explanation": "M. rektus okuli medial berfungsi menggerakkan mata ke dalam/bola mata.",
+      "difficulty": "HARD",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. M. rektus okuli inferior",
+          "isCorrect": false
+        },
+        {
+          "text": "B. M. obliques okuli superior",
+          "isCorrect": false
+        },
+        {
+          "text": "C. M. rektus okuli medial",
+          "isCorrect": true
+        },
+        {
+          "text": "D. M. levator palpebra superior",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kondisi strabismus (juling) disebabkan oleh?",
+      "explanation": "Strabismus (juling) disebabkan oleh tidak seimbangnya atau paralise/kelumpuhan fungsi salah satu otot mata.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Kerusakan retina",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sumbatan drainase humor aqueous",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kekeruhan lensa",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak seimbangnya/paralise fungsi salah satu otot mata",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Apa yang dimaksud dengan konjungtiva?",
+      "explanation": "Konjungtiva adalah selaput bening halus yang melapisi permukaan dalam kelopak mata (konjungtiva palpebra) dan membalik keluar pada bagian depan bola mata (konjungtiva bulbi/okuler).",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Selaput bening yang melapisi permukaan dalam kelopak mata dan depan bola mata",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lapisan berpigmen di retina",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Otot yang menggerakkan bola mata",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Cairan pengisi rongga mata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lapisan mata manakah yang membentuk bagian putih mata?",
+      "explanation": "Sklera membentuk bagian putih mata, sedangkan kornea menjadi tempat melewatnya berkas cahaya ke bagian dalam mata.",
+      "difficulty": "EASY",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Koroid",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Iris",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Retina",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sklera",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Apa fungsi lapisan koroid pada mata?",
+      "explanation": "Koroid mengandung pembuluh darah untuk memberi makan pada retina, badan siliaris, dan iris.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Membentuk bagian putih mata",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tempat masuknya cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengandung pembuluh darah untuk memberi makan pada retina",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Memfokuskan bayangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sel apakah pada retina yang berfungsi sebagai fotoreseptor yang mengubah energi cahaya menjadi impuls saraf?",
+      "explanation": "Retina mengandung sel batang dan sel kerucut (fotoreseptor) yang mengubah energi cahaya menjadi impuls saraf.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Sel batang dan sel kerucut",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sel Merkel dan sel basal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sel adiposit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sel reseptor olfaktorius",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa fungsi pigmen pada koroid dan retina?",
+      "explanation": "Pigmen di koroid dan retina menyerap cahaya untuk mencegah pemantulan cahaya di dalam mata.",
+      "difficulty": "HARD",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Menghasilkan air mata",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Memberi warna pada iris",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengatur ukuran pupil",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menyerap cahaya untuk mencegah pemantulan cahaya di dalam mata",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Cairan apakah yang mengisi rongga anterior antara kornea dan lensa serta mengandung zat gizi untuk kornea dan lensa?",
+      "explanation": "Rongga anterior antara kornea dan lensa berisi aqueous humor yang mengandung zat gizi untuk kornea dan lensa.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Vitreous humor",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Perilimfe",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Aqueous humor",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Saliva",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cairan apakah yang mengisi rongga posterior antara lensa dan retina serta membentuk bola mata yang sferis?",
+      "explanation": "Rongga posterior antara lensa dan retina berisi vitreous humor yang membentuk bola mata yang sferis.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Vitreous humor",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Aqueous humor",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Endolimfe",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Serumen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit apakah yang disebabkan oleh sumbatan drainase humor aqueous dan meningkatnya tekanan intraokuler?",
+      "explanation": "Sumbatan drainase humor aqueous menyebabkan glaukoma, yaitu meningkatnya tekanan intraokuler.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Katarak",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Konjungtivitis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Strabismus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Glaukoma",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Bagian mata yang menjadi tempat masuknya cahaya dan dikontrol oleh saraf otonom adalah?",
+      "explanation": "Pupil adalah tempat masuknya cahaya ke bagian dalam mata dan ukurannya dikontrol oleh saraf otonom.",
+      "difficulty": "EASY",
+      "tag": "Indera Penglihatan (Mata)",
+      "options": [
+        {
+          "text": "A. Retina",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sklera",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pupil",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Koroid",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bagian telinga luar manakah yang berfungsi menampung gelombang suara dari luar masuk ke dalam telinga?",
+      "explanation": "Aurikula/pinna (daun telinga) menampung gelombang suara yang datang dari luar masuk ke dalam telinga.",
+      "difficulty": "EASY",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Aurikula/pinna (daun telinga)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membran timpani",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Koklea",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tuba auditiva eustaki",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa nama saluran yang menghubungkan aurikula dengan membran timpani?",
+      "explanation": "Meatus akustikus eksterna (liang telinga) adalah saluran penghubung aurikula dengan membran timpani.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Tuba auditiva eustaki",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Meatus akustikus eksterna",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kanalis semisirkuler",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Antrum timpani",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kelenjar apa saja yang terdapat pada meatus akustikus eksterna?",
+      "explanation": "Meatus akustikus eksterna terdiri dari tulang rawan, kelenjar sebasea, dan kelenjar keringat yang menghasilkan sekret-sekret berbentuk serum.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Kelenjar lacrimalis dan tarsalia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kelenjar ludah dan saliva",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kelenjar sebasea dan kelenjar keringat",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Kelenjar olfaktorius",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa fungsi membran timpani?",
+      "explanation": "Membran timpani (selaput gendang telinga) merupakan batas antara telinga luar dan telinga tengah.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Menampung gelombang suara dari luar",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Selaput gendang telinga yang menjadi batas antara telinga luar dan telinga tengah",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengatur keseimbangan tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghubungkan telinga dengan tenggorokan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tiga tulang pendengaran yang terdapat dalam kavum timpani adalah?",
+      "explanation": "Kavum timpani adalah rongga di dalam tulang temporalis yang berisi 3 tulang pendengaran: maleus, inkus, dan stapes.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Maleus, inkus, dan stapes",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Vestibulum, koklea, dan kanalis semisirkuler",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Utrikulus, sakulus, dan duktus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sklera, koroid, dan retina",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Di dalam tulang manakah kavum timpani berada?",
+      "explanation": "Kavum timpani adalah rongga di dalam tulang temporalis yang berisi tiga tulang pendengaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Tulang frontalis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tulang temporalis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tulang zigomatikum",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tulang ethmoidalis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bagian telinga tengah berupa rongga tidak teratur yang terletak di bawah samping dari kavum timpani disebut?",
+      "explanation": "Antrum timpani adalah rongga tidak teratur yang terletak di bawah samping dari kavum timpani.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Vestibulum",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Antrum timpani",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Labirin osseus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sakulus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Saluran tulang rawan yang berjalan miring ke bawah agak ke depan pada telinga tengah disebut?",
+      "explanation": "Tuba auditiva eustaki adalah saluran tulang rawan yang berjalan miring ke bawah agak ke depan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Tuba auditiva eustaki",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Meatus akustikus eksterna",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kanalis semisirkuler",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Duktus nasolakrimaris",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cairan apa yang mengelilingi serangkaian saluran pada labirin osseus telinga dalam?",
+      "explanation": "Labirin osseus adalah serangkaian saluran yang dikelilingi oleh cairan perilimfe.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Endolimfe",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Aqueous humor",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Perilimfe",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Vitreous humor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk bagian dari labirin osseus telinga dalam?",
+      "explanation": "Labirin osseus terdiri dari vestibulum, koklea, dan kanalis semisirkuler.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Utrikulus",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Vestibulum, koklea, dan kanalis semisirkuler",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Maleus, inkus, stapes",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sakulus dan duktus semisirkularis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk bagian dari labirintus membranosus?",
+      "explanation": "Labirintus membranosus terdiri dari utrikulus, sakulus, dan duktus semisirkularis.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Maleus dan inkus",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Vestibulum dan koklea",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Aurikula dan pinna",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Utrikulus, sakulus, dan duktus semisirkularis",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Saraf auditori mengumpulkan sensibilitas dari bagian vestibuler rongga telinga dalam yang berhubungan dengan?",
+      "explanation": "Nervus auditori mengumpulkan sensibilitas dan bagian vestibuler rongga telinga dalam yang berhubungan dengan keseimbangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Penglihatan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Penciuman",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Keseimbangan",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Pengecapan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Nukleus vestibularis berada pada titik pertemuan antara struktur otak apa?",
+      "explanation": "Nukleus vestibularis berada pada titik pertemuan antara pons dan medula oblongata, lalu menuju serebelum.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Pons dan medula oblongata",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Thalamus dan hipotalamus",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Korteks frontalis dan oksipitalis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lobus temporalis dan parietalis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bagian koklearis pada saraf auditori memancarkan serabut saraf menuju korteks otak bagian?",
+      "explanation": "Bagian koklearis memancarkan serabut saraf ke nukleus di belakang thalamus, lalu menuju korteks otak bagian temporalis.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Frontalis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Oksipitalis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Temporalis",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Parietalis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kehilangan pendengaran konduktif terjadi karena?",
+      "explanation": "Kehilangan pendengaran konduktif adalah terputusnya transmisi bunyi efektif ke telinga dalam oleh sumbatan atau penyakit seperti impaksi serumen, otitis media, dan otosklerosis.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Kerusakan kokhlea atau saraf vestibulokokhlear",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Transmisi bunyi terputus oleh sumbatan atau proses penyakit",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kerusakan korteks temporalis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Gangguan pada nervus opticus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan penyebab kehilangan pendengaran konduktif?",
+      "explanation": "Penyebab kehilangan pendengaran konduktif antara lain impaksi serumen, otitis media, dan otosklerosis (pembentukan tulang baru).",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Impaksi serumen, otitis media, otosklerosis",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Kerusakan nervus kranialis VIII",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kerusakan organ akhir pendengaran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kerusakan saraf vestibulokokhlear",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kehilangan pendengaran sensorineural berhubungan dengan kerusakan?",
+      "explanation": "Kehilangan pendengaran sensorineural berhubungan dengan kerusakan organ akhir pendengaran dan/atau nervus kranialis VIII (kerusakan kokhlea/saraf vestibulokokhlear).",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Sumbatan serumen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Organ akhir pendengaran dan/atau nervus kranialis VIII",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Membran timpani yang robek",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tuba auditiva eustaki yang tersumbat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa tujuan dari uji Rinne?",
+      "explanation": "Uji Rinne membandingkan hantaran/konduksi suara melalui tulang pendengaran dengan udara.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Menguji laterisasi suara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Membandingkan konduksi suara melalui tulang dengan udara",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengukur tekanan intraokuler",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengukur ketajaman penglihatan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada uji Rinne kondisi normal, bagaimana perbandingan konduksi udara dan konduksi tulang?",
+      "explanation": "Pada keadaan normal, konduksi udara berlangsung lebih lama dari konduksi tulang.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Konduksi tulang lebih lama dari konduksi udara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Konduksi udara dan tulang sama",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Konduksi udara berlangsung lebih lama dari konduksi tulang",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Keduanya tidak terdengar sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada kehilangan pendengaran konduktif, hasil uji Rinne menunjukkan?",
+      "explanation": "Bila ada kehilangan pendengaran konduktif, konduksi tulang akan melebihi konduksi udara.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Konduksi tulang akan melebihi konduksi udara",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Konduksi udara akan melebihi konduksi tulang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak ada perbedaan keduanya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Suara terdengar sama keras",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa tujuan dari uji Weber?",
+      "explanation": "Uji Weber memanfaatkan konduksi tulang untuk menguji adanya laterisasi suara.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Membandingkan konduksi udara dan tulang",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Memanfaatkan konduksi tulang untuk menguji laterisasi suara",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengukur tekanan dalam telinga",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menguji fungsi membran timpani",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada uji Weber kondisi normal, bagaimana suara didengar?",
+      "explanation": "Pada keadaan normal, suara terdengar seimbang pada kedua telinga atau terpusat di tengah kepala.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Hanya pada telinga kanan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hanya pada telinga kiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Seimbang pada kedua telinga/terpusat di tengah kepala",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Tidak terdengar sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada uji Weber dengan kehilangan pendengaran konduktif, suara akan terdengar lebih jelas pada sisi?",
+      "explanation": "Bila ada kehilangan pendengaran konduktif, suara akan lebih jelas terdengar pada sisi yang sakit.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Sisi yang sakit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sisi yang sehat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kedua sisi sama",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak terdengar pada sisi manapun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada uji Weber dengan kehilangan pendengaran sensorineural, suara akan mengalami laterisasi ke telinga?",
+      "explanation": "Bila ada kehilangan pendengaran sensorineural, suara akan mengalami laterisasi ke telinga yang pendengarannya lebih baik.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Telinga yang pendengarannya lebih buruk",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Telinga yang pendengarannya lebih baik",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kedua telinga sama",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Telinga yang sakit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada kehilangan pendengaran sensorineural pada uji Rinne, suara yang dihantarkan melalui udara dibanding tulang adalah?",
+      "explanation": "Bila ada kehilangan pendengaran sensorineural, suara yang dihantarkan melalui udara lebih baik dari tulang, meskipun keduanya merupakan konduktor yang buruk.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Lebih buruk dari tulang",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sama dengan tulang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lebih baik dari tulang, meskipun keduanya konduktor buruk",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Tidak terdengar sama sekali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bagian vestibuler telinga dalam menghantarkan informasi ke serebelum melalui struktur apa?",
+      "explanation": "Saraf vestibuler bergerak menuju nukleus vestibularis di pertemuan pons dan medula oblongata, kemudian menuju serebelum.",
+      "difficulty": "HARD",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Thalamus",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Nukleus vestibularis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lobus oksipitalis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bulbus olfaktorius",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bagian telinga manakah yang berperan dalam fungsi keseimbangan tubuh?",
+      "explanation": "Bagian vestibuler rongga telinga dalam berhubungan dengan keseimbangan, dilengkapi kanalis semisirkuler.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pendengaran (Telinga)",
+      "options": [
+        {
+          "text": "A. Aurikula",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Membran timpani",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bagian vestibuler telinga dalam",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Meatus akustikus eksterna",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa salah satu fungsi utama alat pengecap (lidah)?",
+      "explanation": "Fungsi alat pengecap antara lain merasakan arti makanan dan sebagai alat refleks.",
+      "difficulty": "EASY",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Menerima rangsangan cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Merasakan arti makanan dan sebagai alat refleks",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengatur keseimbangan tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menyaring udara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa nama lain dari saliva?",
+      "explanation": "Saliva adalah kelenjar ludah yang susunannya terdiri dari air, glikoprotein, enzim pencernaan (ptyalin), garam alkali, dll.",
+      "difficulty": "EASY",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Kelenjar lakrimalis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kelenjar ludah",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kelenjar sebasea",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Serumen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk komponen penyusun saliva?",
+      "explanation": "Saliva tersusun atas air, glikoprotein, enzim pencernaan (ptyalin), garam alkali, dan lain-lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Perilimfe dan endolimfe",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Aqueous dan vitreous humor",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Air, glikoprotein, enzim ptyalin, dan garam alkali",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sel batang dan sel kerucut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Enzim apakah dalam saliva yang berfungsi mengubah karbohidrat menjadi maltosa?",
+      "explanation": "Enzim ptyalin dalam saliva mengubah karbohidrat menjadi maltosa, yang kemudian diubah oleh enzim maltase menjadi glukosa.",
+      "difficulty": "HARD",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Enzim ptyalin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Enzim pepsin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Enzim lipase",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Enzim tripsin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan fungsi saliva?",
+      "explanation": "Fungsi saliva meliputi mekanis, kimiawi, membasahi lidah, melarutkan makanan, dan mencegah karies gigi; menghasilkan hormon bukan fungsi saliva.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Membasahi lidah",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Melarutkan makanan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mencegah karies gigi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghasilkan hormon pertumbuhan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Bagaimana saliva membantu mencegah karies gigi?",
+      "explanation": "Saliva mencegah karies gigi dengan mengubah suasana asam (menetralkan keasaman).",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Dengan membunuh seluruh bakteri",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dengan mengubah suasana asam",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Dengan menambah lapisan email",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dengan menghasilkan fluoride",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lidah terdiri dari dua jenis otot, yaitu otot intrinsik yang berfungsi melakukan?",
+      "explanation": "Otot intrinsik lidah melakukan gerakan halus, sedangkan otot ekstrinsik melakukan gerakan kasar saat mengunyah dan menelan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Gerakan kasar saat menelan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gerakan halus",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Gerakan menelan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengunyah makanan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Otot ekstrinsik pada lidah berfungsi melakukan gerakan?",
+      "explanation": "Otot ekstrinsik lidah melakukan gerakan kasar pada saat mengunyah dan menelan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Gerakan halus",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gerakan refleks cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Gerakan kasar saat mengunyah dan menelan",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Gerakan keseimbangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa nama bagian lidah yang merupakan pangkal lidah?",
+      "explanation": "Radik lingua adalah pangkal lidah, dorsum lingua adalah punggung lidah, dan apeks lingua adalah ujung lidah.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Radik lingua",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Dorsum lingua",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Apeks lingua",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Papila lingua",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa nama bagian lidah yang merupakan punggung lidah?",
+      "explanation": "Dorsum lingua adalah punggung lidah, bagian atas permukaan lidah.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Apeks lingua",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Radik lingua",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Dorsum lingua",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Frenulum lingua",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa nama bagian lidah yang merupakan ujung lidah?",
+      "explanation": "Apeks lingua adalah ujung lidah.",
+      "difficulty": "EASY",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Radik lingua",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Apeks lingua",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Dorsum lingua",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tonsil lingua",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Fungsi kimiawi saliva melalui enzim ptyalin berkaitan dengan pencernaan?",
+      "explanation": "Fungsi kimiawi saliva melalui enzim ptyalin berkaitan dengan pencernaan karbohidrat menjadi maltosa lalu glukosa.",
+      "difficulty": "HARD",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Lemak",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Protein",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karbohidrat",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Vitamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Maltosa hasil kerja enzim ptyalin akan diubah menjadi glukosa oleh enzim?",
+      "explanation": "Maltosa diubah oleh enzim maltase menjadi glukosa.",
+      "difficulty": "HARD",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Enzim maltase",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Enzim ptyalin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Enzim pepsin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Enzim lipase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu fungsi mekanis dan pembasahan oleh saliva berperan untuk?",
+      "explanation": "Fungsi saliva meliputi mekanis, membasahi lidah, dan melarutkan makanan agar mudah dirasakan dan ditelan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Menyerap cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Membasahi lidah dan melarutkan makanan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mengatur keseimbangan tubuh",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memfokuskan bayangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Selain merasakan makanan, lidah juga berfungsi sebagai alat?",
+      "explanation": "Fungsi alat pengecap meliputi merasakan arti makanan dan sebagai alat refleks.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Alat pendengaran",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Alat penglihatan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Alat refleks",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Alat keseimbangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Garam alkali dalam saliva berhubungan dengan fungsi saliva untuk?",
+      "explanation": "Garam alkali dalam saliva membantu mengubah suasana asam, salah satunya untuk mencegah karies gigi.",
+      "difficulty": "HARD",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Menyerap energi cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengubah suasana asam (mencegah karies gigi)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menghasilkan suara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mendeteksi getaran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Otot manakah pada lidah yang aktif saat proses mengunyah dan menelan makanan?",
+      "explanation": "Otot ekstrinsik melakukan gerakan kasar pada saat mengunyah dan menelan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Otot intrinsik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Otot ekstrinsik",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Otot siliaris",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Otot orbikularis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa kandungan utama saliva yang paling banyak?",
+      "explanation": "Susunan saliva terdiri dari air, glikoprotein, enzim pencernaan (ptyalin), garam alkali, dan lain-lain; air merupakan komponen utama.",
+      "difficulty": "EASY",
+      "tag": "Indera Pengecapan (Lidah)",
+      "options": [
+        {
+          "text": "A. Glukosa",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Air",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lemak",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Protein keratin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Gas yang dihisap akan dirangsang sebagai bau, kemudian masuk ke rongga hidung dan diteruskan oleh saraf?",
+      "explanation": "Perangsangan penciuman oleh gas yang dihisap (bau) masuk ke rongga hidung, lalu diteruskan oleh saraf/nervus olfaktorius ke sistem saraf pusat.",
+      "difficulty": "EASY",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Nervus opticus",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Nervus auditori",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Nervus olfaktorius",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Nervus vagus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Di bagian otak manakah perasaan bau ditafsirkan?",
+      "explanation": "Rangsangan penciuman diteruskan oleh nervus olfaktorius ke sistem saraf pusat di lobus temporalis otak tempat perasaan bau ditafsirkan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Lobus oksipitalis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lobus temporalis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lobus frontalis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Serebelum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah urutan komponen indera penciuman yang benar?",
+      "explanation": "Komponen indera penciuman: rongga hidung, bulbus olfaktorius, serat saraf aferen olfaktorius, lapisan mukosa olfaktorius (sel basal, sel reseptor, sel penunjang), menuju sistem saraf pusat.",
+      "difficulty": "HARD",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Rongga hidung → bulbus olfaktorius → serat saraf aferen olfaktorius → mukosa olfaktorius → sistem saraf pusat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sistem saraf pusat → mukosa olfaktorius → rongga hidung",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mukosa olfaktorius → rongga hidung → bulbus olfaktorius",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bulbus olfaktorius → rongga hidung → sistem saraf pusat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk sel pada lapisan mukosa olfaktorius?",
+      "explanation": "Lapisan mukosa olfaktorius mengandung sel basal, sel reseptor, dan sel penunjang.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Sel batang dan sel kerucut",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sel basal, sel reseptor, dan sel penunjang",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sel Merkel dan sel Meissner",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sel adiposit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Struktur apakah yang menerima serat saraf aferen olfaktorius pada awal jalur penciuman?",
+      "explanation": "Bulbus olfaktorius menerima serat saraf aferen olfaktorius yang berasal dari rongga hidung sebelum diteruskan ke sistem saraf pusat.",
+      "difficulty": "HARD",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Bulbus olfaktorius",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Konka nasalis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sinus maksilaris",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kavum timpani",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk jenis konka nasalis?",
+      "explanation": "Konka nasalis terdiri dari konka nasalis superior, konka nasalis media, dan konka nasalis inferior.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Konka superior, media, dan inferior",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Konka frontalis dan maksilaris",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Konka anterior dan posterior",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Konka olfaktorius dan respiratorius",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk sinus paranasal?",
+      "explanation": "Sinus paranasal terdiri dari sinus maksilaris, sinus sfenoidalis, dan sinus frontalis.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Sinus koklearis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sinus maksilaris, sfenoidalis, dan frontalis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sinus vestibularis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sinus timpani",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rangsangan penciuman dirangsang oleh?",
+      "explanation": "Perangsangan penciuman dirangsang oleh gas yang dihisap berupa bau yang masuk ke rongga hidung.",
+      "difficulty": "EASY",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Berkas cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gelombang suara",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Gas yang dihisap (bau)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Getaran mekanik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Konka nasalis yang terletak paling atas disebut?",
+      "explanation": "Konka nasalis superior adalah konka nasalis yang terletak paling atas di rongga hidung.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Konka nasalis inferior",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Konka nasalis media",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Konka nasalis superior",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Konka nasalis lateral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sinus paranasal yang terdapat di daerah dahi disebut?",
+      "explanation": "Sinus frontalis adalah sinus paranasal yang terletak di daerah dahi (os frontalis).",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Sinus maksilaris",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sinus frontalis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sinus sfenoidalis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sinus ethmoidalis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sel reseptor pada lapisan mukosa olfaktorius berperan untuk?",
+      "explanation": "Sel reseptor pada mukosa olfaktorius berperan menangkap rangsangan bau dan meneruskannya melalui serat saraf aferen ke sistem saraf pusat.",
+      "difficulty": "HARD",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Menangkap rangsangan bau",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menampung gelombang suara",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menyerap cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengatur keseimbangan tubuh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Setelah masuk ke rongga hidung, rangsangan bau akhirnya diteruskan ke?",
+      "explanation": "Setelah masuk rongga hidung dan melalui nervus olfaktorius, rangsangan bau diteruskan ke sistem saraf pusat untuk ditafsirkan.",
+      "difficulty": "EASY",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Retina",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Membran timpani",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kelenjar saliva",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sistem saraf pusat",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Sinus paranasal yang terletak di daerah rahang atas adalah?",
+      "explanation": "Sinus maksilaris adalah sinus paranasal yang terletak di daerah rahang atas (maksila).",
+      "difficulty": "HARD",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Sinus frontalis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sinus sfenoidalis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sinus maksilaris",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sinus mastoideus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berapa jumlah konka nasalis yang terdapat di rongga hidung?",
+      "explanation": "Konka nasalis terdiri dari tiga, yaitu konka nasalis superior, media, dan inferior.",
+      "difficulty": "EASY",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Dua",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tiga",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Empat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lima",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sel penunjang pada lapisan mukosa olfaktorius berfungsi untuk?",
+      "explanation": "Sel penunjang pada mukosa olfaktorius berfungsi menyokong dan menunjang sel-sel reseptor dalam proses penciuman.",
+      "difficulty": "HARD",
+      "tag": "Indera Penghidu (Hidung)",
+      "options": [
+        {
+          "text": "A. Menyerap cahaya di retina",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menyokong/menunjang sel reseptor",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menghasilkan air mata",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menggerakkan bola mata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa peran kulit sebagai organ terbesar tubuh manusia dalam fungsi indera?",
+      "explanation": "Kulit merupakan organ terbesar tubuh manusia yang berfungsi sebagai barier fisik, termoregulasi, dan sistem indera somatosensorik.",
+      "difficulty": "EASY",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Barier fisik, termoregulasi, dan sistem indera somatosensorik",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Pengecapan dan penciuman",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Penglihatan dan pendengaran",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pencernaan makanan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kulit tersusun atas tiga lapisan utama, yaitu?",
+      "explanation": "Kulit tersusun atas epidermis, dermis, dan hipodermis, masing-masing mengandung reseptor sensorik spesifik.",
+      "difficulty": "EASY",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Sklera, koroid, retina",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Epidermis, dermis, dan hipodermis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Vestibulum, koklea, kanalis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Superior, media, inferior",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sel apakah pada epidermis yang bertanggung jawab terhadap persepsi nyeri, suhu, dan sentuhan ringan bersama ujung saraf bebas?",
+      "explanation": "Epidermis kaya akan ujung saraf bebas dan sel Merkel yang bertanggung jawab terhadap persepsi nyeri, suhu, dan sentuhan ringan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Sel Merkel",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sel batang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sel adiposit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sel basal olfaktorius",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Reseptor apakah pada dermis yang berfungsi untuk diskriminasi sentuhan halus?",
+      "explanation": "Korpuskel Meissner pada dermis berfungsi untuk diskriminasi sentuhan halus.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Korpuskel Pacini",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Korpuskel Ruffini",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Korpuskel Meissner",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sel Merkel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Reseptor apakah pada dermis yang berfungsi untuk mendeteksi getaran frekuensi tinggi?",
+      "explanation": "Korpuskel Pacini pada dermis berfungsi mendeteksi getaran frekuensi tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Korpuskel Meissner",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Korpuskel Pacini",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Korpuskel Ruffini",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sel Merkel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Reseptor apakah pada dermis yang berfungsi mendeteksi peregangan kulit?",
+      "explanation": "Korpuskel Ruffini pada dermis berfungsi mendeteksi peregangan kulit.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Korpuskel Ruffini",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Korpuskel Pacini",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Korpuskel Meissner",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sel Merkel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lapisan kulit terdalam yang tersusun atas jaringan ikat longgar dan jaringan adiposa disebut?",
+      "explanation": "Hipodermis atau lapisan subkutan adalah lapisan terdalam kulit yang tersusun atas jaringan ikat longgar dan jaringan adiposa.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Epidermis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dermis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hipodermis/subkutan",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sklera",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Komponen utama hipodermis yang tersusun dalam lobulus adalah?",
+      "explanation": "Komponen utama hipodermis adalah sel adiposit yang tersusun dalam lobulus, dikelilingi septa jaringan ikat.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Sel adiposit",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sel Merkel",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Korpuskel Pacini",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sel batang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah yang BUKAN merupakan fungsi fisiologis hipodermis?",
+      "explanation": "Tiga fungsi fisiologis hipodermis adalah bantalan mekanik/penyerap kejut, reservoir energi/isolator termal, dan mengandung reseptor proprioseptif; menghasilkan air mata bukan fungsi hipodermis.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Bantalan mekanik dan penyerap kejut",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Reservoir energi dan isolator termal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengandung reseptor proprioseptif",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menghasilkan air mata",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Bagaimana hipodermis berfungsi sebagai isolator termal?",
+      "explanation": "Lapisan lemak pada hipodermis mengurangi kehilangan panas konveksi dan konduksi sehingga membantu mempertahankan suhu inti tubuh.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Dengan menghasilkan keringat berlebih",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lapisan lemak mengurangi kehilangan panas konveksi dan konduksi",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Dengan memantulkan cahaya matahari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dengan menyaring udara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Reseptor kulit secara fisiologis berfungsi sebagai transduser yang mengubah energi mekanik, termal, dan kimia menjadi?",
+      "explanation": "Reseptor kulit berfungsi sebagai transduser yang mengubah energi mekanik, termal, dan kimia menjadi impuls listrik melalui aktivasi kanal ion spesifik.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Energi cahaya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Gelombang suara",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Impuls listrik",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Energi kimia baru",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Impuls dari reseptor kulit dihantarkan melalui serabut saraf aferen menuju?",
+      "explanation": "Impuls dihantarkan melalui serabut saraf aferen ke medula spinalis dan korteks somatosensorik untuk dipersepsi sebagai sensasi sadar.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Medula spinalis dan korteks somatosensorik",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Lobus temporalis dan serebelum",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Bulbus olfaktorius",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Retina dan nervus opticus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan getaran tangan-lengan pada operator alat berat dapat merangsang korpuskel Pacini berlebihan sehingga menimbulkan?",
+      "explanation": "Paparan getaran tangan-lengan dapat merangsang korpuskel Pacini berlebihan, menimbulkan Hand-Arm Vibration Syndrome yang ditandai mati rasa dan penurunan ambang getaran.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Glaukoma",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hand-Arm Vibration Syndrome",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Heat stroke",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Otosklerosis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan bahan kimia iritan seperti pelarut organik mengaktifkan nosiseptor dan dapat menyebabkan?",
+      "explanation": "Paparan bahan kimia iritan seperti pelarut organik mengaktifkan nosiseptor dan menyebabkan dermatitis kontak iritan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Dermatitis kontak iritan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Katarak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Strabismus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tuli konduktif",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Stres panas di lingkungan kerja tambang atau pengelasan dapat mengganggu fungsi termoreseptor dan meningkatkan risiko?",
+      "explanation": "Stres panas dapat mengganggu fungsi termoreseptor dan mekanisme keringat, meningkatkan risiko heat stroke.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Frostbite",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Heat stroke",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Bursitis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dermatitis kontak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paparan suhu dingin kronis tanpa proteksi dapat menyebabkan pannikulitis dan meningkatkan risiko?",
+      "explanation": "Paparan suhu dingin kronis tanpa proteksi dapat menyebabkan pannikulitis dan penurunan aliran darah mikro, meningkatkan risiko frostbite.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Heat stroke",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Glaukoma",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Frostbite",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Hand-Arm Vibration Syndrome",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Manakah uji yang digunakan dalam program surveilans untuk memonitor fungsi sensorik kulit pekerja?",
+      "explanation": "Monitoring fungsi sensorik kulit dilakukan melalui uji monofilamen, biothesiometer, dan kuesioner neurotoksisitas.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Uji Rinne dan Weber",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Uji monofilamen dan biothesiometer",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Uji refraksi mata",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Uji akomodasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lapisan kulit manakah yang kaya akan ujung saraf bebas?",
+      "explanation": "Epidermis kaya akan ujung saraf bebas dan sel Merkel yang bertanggung jawab terhadap persepsi nyeri, suhu, dan sentuhan ringan.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Hipodermis",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dermis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Epidermis",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sklera",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Reseptor proprioseptif yang terdapat pada hipodermis berperan penting untuk?",
+      "explanation": "Reseptor proprioseptif di hipodermis mendeteksi tekanan dalam dan peregangan jaringan, memberikan umpan balik penting untuk kontrol postur dan koordinasi gerakan saat mengangkat beban.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Kontrol postur dan koordinasi gerakan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mendeteksi warna",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mendeteksi bau",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memfokuskan cahaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Trauma berulang pada area trokanter mayor pada pekerja yang sering berlutut dapat menyebabkan?",
+      "explanation": "Trauma berulang pada area trokanter mayor pada pekerja yang sering berlutut dapat menyebabkan bursitis dan liponecrosis pada hipodermis.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Glaukoma dan katarak",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Bursitis dan liponecrosis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Otitis media",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dermatitis kontak alergi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa luka tusuk pada pekerja laboratorium berbahaya terkait struktur hipodermis?",
+      "explanation": "Injeksi bahan kimia atau patogen melalui luka tusuk dapat menyebar cepat melalui jaringan longgar hipodermis sehingga menjadi jalur masuk infeksi sistemik.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Karena hipodermis menyaring udara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena patogen dapat menyebar cepat melalui jaringan longgar hipodermis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Karena hipodermis menghasilkan air mata",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena hipodermis memfokuskan cahaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu fungsi hipodermis sebagai bantalan mekanik adalah?",
+      "explanation": "Jaringan adiposa dan septa kolagen pada hipodermis mendistribusikan gaya tekan dan geser, melindungi struktur muskuloskeletal dari trauma langsung.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Mendistribusikan gaya tekan dan geser untuk melindungi struktur muskuloskeletal",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menghasilkan enzim pencernaan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menangkap gelombang suara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menyerap cahaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Apa dampak paparan kronis agen fisik dan kimia terhadap reseptor kulit?",
+      "explanation": "Paparan kronis agen fisik dan kimia dapat menyebabkan adaptasi reseptor, desensitisasi, bahkan kerusakan struktural yang mengganggu fungsi protektif kulit.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Meningkatkan sensitivitas permanen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Adaptasi reseptor, desensitisasi, bahkan kerusakan struktural",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Tidak ada dampak sama sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menambah jumlah reseptor cahaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ketebalan hipodermis bervariasi antar individu dan area tubuh, dipengaruhi oleh faktor?",
+      "explanation": "Ketebalan hipodermis dipengaruhi oleh usia, jenis kelamin, dan status nutrisi.",
+      "difficulty": "MEDIUM",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Usia, jenis kelamin, dan status nutrisi",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Warna mata dan tinggi badan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Golongan darah saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Bentuk telinga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pemahaman anatomi-fisiologi kulit dalam praktik K3 penting untuk?",
+      "explanation": "Integrasi pengetahuan anatomi-fisiologi kulit ke dalam praktik K3 memungkinkan identifikasi dini gangguan sensorik dan pencegahan cedera yang lebih efektif.",
+      "difficulty": "EASY",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Identifikasi dini gangguan sensorik dan pencegahan cedera",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menambah daya akomodasi mata",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Meningkatkan produksi saliva",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memperbaiki konduksi suara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Evaluasi kondisi hipodermis dalam surveilans kesehatan pekerja dapat dilakukan melalui?",
+      "explanation": "Evaluasi kondisi hipodermis dilakukan melalui palpasi, pengukuran tebal lipatan kulit, dan pemeriksaan aliran darah mikro.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Uji Rinne",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Palpasi, pengukuran tebal lipatan kulit, dan pemeriksaan aliran darah mikro",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Uji refraksi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Uji akomodasi mata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lapisan hipodermis menghubungkan kulit dengan struktur apa di bawahnya?",
+      "explanation": "Hipodermis berperan penting dalam menghubungkan kulit dengan fasia muskular di bawahnya, meskipun tidak memiliki batas tegas dengan dermis.",
+      "difficulty": "HARD",
+      "tag": "Indera Peraba (Kulit)",
+      "options": [
+        {
+          "text": "A. Fasia muskular",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tulang temporalis",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Retina",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membran timpani",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Apa fungsi utama mata?",
+      "back": "Menerima rangsangan berkas cahaya pada retina melalui n. opticus menuju pusat otak penglihatan untuk ditafsirkan.",
+      "tag": "Indera Penglihatan (Mata)"
+    },
+    {
+      "front": "Apa itu retina?",
+      "back": "Garis mata bagian belakang tempat penglihatan diproses; mengandung sel batang & sel kerucut (fotoreseptor) yang mengubah energi cahaya menjadi impuls saraf.",
+      "tag": "Indera Penglihatan (Mata)"
+    },
+    {
+      "front": "Apa penyebab glaukoma?",
+      "back": "Sumbatan drainase humor aqueous yang menyebabkan meningkatnya tekanan intraokuler.",
+      "tag": "Indera Penglihatan (Mata)"
+    },
+    {
+      "front": "Apa itu daya akomodasi mata?",
+      "back": "Kemampuan otot siliaris mengubah panjang fokus lensa agar benda jauh maupun dekat terfokus pada retina; mata normal sekitar 4 dioptri.",
+      "tag": "Indera Penglihatan (Mata)"
+    },
+    {
+      "front": "Berapa titik dekat dan titik jauh mata normal?",
+      "back": "Titik dekat sekitar 25 cm; titik jauh tak terhingga untuk mata normal.",
+      "tag": "Indera Penglihatan (Mata)"
+    },
+    {
+      "front": "Apa penyebab strabismus (juling)?",
+      "back": "Tidak seimbangnya atau paralise/kelumpuhan fungsi salah satu otot mata.",
+      "tag": "Indera Penglihatan (Mata)"
+    },
+    {
+      "front": "Apa fungsi aurikula/pinna?",
+      "back": "Daun telinga yang menampung gelombang suara dari luar masuk ke dalam telinga.",
+      "tag": "Indera Pendengaran (Telinga)"
+    },
+    {
+      "front": "Sebutkan 3 tulang pendengaran di kavum timpani!",
+      "back": "Maleus, inkus, dan stapes, berada di rongga dalam tulang temporalis.",
+      "tag": "Indera Pendengaran (Telinga)"
+    },
+    {
+      "front": "Apa fungsi membran timpani?",
+      "back": "Selaput gendang telinga yang menjadi batas antara telinga luar dan telinga tengah.",
+      "tag": "Indera Pendengaran (Telinga)"
+    },
+    {
+      "front": "Apa perbedaan kehilangan pendengaran konduktif dan sensorineural?",
+      "back": "Konduktif: transmisi bunyi terputus oleh sumbatan/penyakit (serumen, otitis media, otosklerosis). Sensorineural: kerusakan organ akhir/nervus kranialis VIII.",
+      "tag": "Indera Pendengaran (Telinga)"
+    },
+    {
+      "front": "Apa beda uji Rinne dan uji Weber?",
+      "back": "Uji Rinne membandingkan konduksi suara tulang vs udara; uji Weber menguji laterisasi suara via konduksi tulang.",
+      "tag": "Indera Pendengaran (Telinga)"
+    },
+    {
+      "front": "Bagian telinga dalam apa yang berhubungan dengan keseimbangan?",
+      "back": "Bagian vestibuler (vestibulum, kanalis semisirkuler); saraf menuju nukleus vestibularis lalu serebelum.",
+      "tag": "Indera Pendengaran (Telinga)"
+    },
+    {
+      "front": "Apa fungsi alat pengecap (lidah)?",
+      "back": "Merasakan arti makanan dan sebagai alat refleks.",
+      "tag": "Indera Pengecapan (Lidah)"
+    },
+    {
+      "front": "Apa kandungan dan fungsi saliva?",
+      "back": "Mengandung air, glikoprotein, enzim ptyalin, garam alkali; berfungsi mekanis, kimiawi, membasahi lidah, melarutkan makanan, mencegah karies gigi.",
+      "tag": "Indera Pengecapan (Lidah)"
+    },
+    {
+      "front": "Apa fungsi enzim ptyalin dalam saliva?",
+      "back": "Mengubah karbohidrat menjadi maltosa, lalu enzim maltase mengubah maltosa menjadi glukosa.",
+      "tag": "Indera Pengecapan (Lidah)"
+    },
+    {
+      "front": "Sebutkan dua jenis otot lidah!",
+      "back": "Otot intrinsik (gerakan halus) dan otot ekstrinsik (gerakan kasar saat mengunyah & menelan).",
+      "tag": "Indera Pengecapan (Lidah)"
+    },
+    {
+      "front": "Sebutkan tiga bagian lidah!",
+      "back": "Radik lingua (pangkal), dorsum lingua (punggung), dan apeks lingua (ujung).",
+      "tag": "Indera Pengecapan (Lidah)"
+    },
+    {
+      "front": "Bagaimana proses penciuman terjadi?",
+      "back": "Gas yang dihisap (bau) masuk rongga hidung → nervus olfaktorius → sistem saraf pusat (lobus temporalis otak) untuk ditafsirkan.",
+      "tag": "Indera Penghidu (Hidung)"
+    },
+    {
+      "front": "Sebutkan komponen indera penciuman!",
+      "back": "Rongga hidung → bulbus olfaktorius → serat saraf aferen olfaktorius → mukosa olfaktorius (sel basal, reseptor, penunjang) → sistem saraf pusat.",
+      "tag": "Indera Penghidu (Hidung)"
+    },
+    {
+      "front": "Sebutkan tiga konka nasalis!",
+      "back": "Konka nasalis superior, media, dan inferior.",
+      "tag": "Indera Penghidu (Hidung)"
+    },
+    {
+      "front": "Sebutkan sinus paranasal!",
+      "back": "Sinus maksilaris, sinus sfenoidalis, dan sinus frontalis.",
+      "tag": "Indera Penghidu (Hidung)"
+    },
+    {
+      "front": "Apa fungsi utama kulit sebagai organ indera?",
+      "back": "Sebagai barier fisik, termoregulasi, dan sistem indera somatosensorik; tersusun atas epidermis, dermis, dan hipodermis.",
+      "tag": "Indera Peraba (Kulit)"
+    },
+    {
+      "front": "Sebutkan reseptor pada dermis dan fungsinya!",
+      "back": "Korpuskel Meissner (sentuhan halus), korpuskel Pacini (getaran frekuensi tinggi), korpuskel Ruffini (peregangan kulit).",
+      "tag": "Indera Peraba (Kulit)"
+    },
+    {
+      "front": "Apa fungsi epidermis dalam persepsi sensorik?",
+      "back": "Kaya ujung saraf bebas dan sel Merkel yang bertanggung jawab atas persepsi nyeri, suhu, dan sentuhan ringan.",
+      "tag": "Indera Peraba (Kulit)"
+    },
+    {
+      "front": "Sebutkan tiga fungsi fisiologis hipodermis!",
+      "back": "Bantalan mekanik/penyerap kejut, reservoir energi/isolator termal, dan mengandung reseptor proprioseptif.",
+      "tag": "Indera Peraba (Kulit)"
+    },
+    {
+      "front": "Apa contoh PAK pada kulit akibat getaran?",
+      "back": "Paparan getaran tangan-lengan merangsang korpuskel Pacini berlebihan menyebabkan Hand-Arm Vibration Syndrome (mati rasa, penurunan ambang getaran).",
+      "tag": "Indera Peraba (Kulit)"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Sistem Penginderaan",
+      "color": "#0ea5e9",
+      "parent": null,
+      "content": "Lima organ akhir yang menerima rangsangan tertentu: penglihatan, pendengaran, pengecapan, penghidu, dan peraba."
+    },
+    {
+      "id": "mata",
+      "label": "Indera Penglihatan (Mata)",
+      "color": "#38bdf8",
+      "parent": "root",
+      "content": "Menerima rangsangan cahaya pada retina via n. opticus menuju pusat otak penglihatan."
+    },
+    {
+      "id": "telinga",
+      "label": "Indera Pendengaran (Telinga)",
+      "color": "#38bdf8",
+      "parent": "root",
+      "content": "Menerima gelombang suara dan berperan dalam keseimbangan; terdiri telinga luar, tengah, dan dalam."
+    },
+    {
+      "id": "lidah",
+      "label": "Indera Pengecapan (Lidah)",
+      "color": "#38bdf8",
+      "parent": "root",
+      "content": "Merasakan arti makanan dan sebagai alat refleks; dibantu saliva."
+    },
+    {
+      "id": "hidung",
+      "label": "Indera Penghidu (Hidung)",
+      "color": "#38bdf8",
+      "parent": "root",
+      "content": "Mendeteksi bau dari gas yang dihisap melalui nervus olfaktorius."
+    },
+    {
+      "id": "kulit",
+      "label": "Indera Peraba (Kulit)",
+      "color": "#38bdf8",
+      "parent": "root",
+      "content": "Organ terbesar tubuh; barier fisik, termoregulasi, dan sistem indera somatosensorik."
+    },
+    {
+      "id": "mata-organ-assesoria",
+      "label": "Organ Okuli Assesoria",
+      "color": "#7dd3fc",
+      "parent": "mata",
+      "content": "Kavum orbita, supersilium, palpebra, aparatus lakrimaris, muskulus okuli, dan konjungtiva."
+    },
+    {
+      "id": "mata-lapisan",
+      "label": "Lapisan Bola Mata",
+      "color": "#7dd3fc",
+      "parent": "mata",
+      "content": "Sklera (putih mata), koroid (pembuluh darah), dan retina (fotoreseptor)."
+    },
+    {
+      "id": "mata-retina",
+      "label": "Retina & Fotoreseptor",
+      "color": "#7dd3fc",
+      "parent": "mata",
+      "content": "Mengandung sel batang & sel kerucut yang mengubah energi cahaya menjadi impuls saraf."
+    },
+    {
+      "id": "mata-cairan",
+      "label": "Aqueous & Vitreous Humor",
+      "color": "#7dd3fc",
+      "parent": "mata",
+      "content": "Aqueous humor (rongga anterior, gizi kornea/lensa); vitreous humor (rongga posterior, bentuk sferis)."
+    },
+    {
+      "id": "mata-pupil",
+      "label": "Pengaturan Cahaya (Pupil)",
+      "color": "#7dd3fc",
+      "parent": "mata",
+      "content": "Pupil mengecil saat terang (otot sirkuler) dan membesar saat gelap (otot radialis)."
+    },
+    {
+      "id": "mata-akomodasi",
+      "label": "Akomodasi",
+      "color": "#7dd3fc",
+      "parent": "mata",
+      "content": "Otot siliaris mengubah panjang fokus lensa; mata normal sekitar 4 dioptri, titik dekat 25 cm."
+    },
+    {
+      "id": "mata-glaukoma",
+      "label": "Glaukoma",
+      "color": "#7dd3fc",
+      "parent": "mata",
+      "content": "Sumbatan drainase humor aqueous menyebabkan meningkatnya tekanan intraokuler."
+    },
+    {
+      "id": "telinga-luar",
+      "label": "Telinga Luar",
+      "color": "#7dd3fc",
+      "parent": "telinga",
+      "content": "Aurikula/pinna, meatus akustikus eksterna, dan membran timpani."
+    },
+    {
+      "id": "telinga-tengah",
+      "label": "Telinga Tengah",
+      "color": "#7dd3fc",
+      "parent": "telinga",
+      "content": "Kavum timpani (maleus, inkus, stapes), antrum timpani, dan tuba auditiva eustaki."
+    },
+    {
+      "id": "telinga-dalam",
+      "label": "Telinga Dalam",
+      "color": "#7dd3fc",
+      "parent": "telinga",
+      "content": "Labirin osseus (vestibulum, koklea, kanalis semisirkuler) dan labirintus membranosus."
+    },
+    {
+      "id": "telinga-saraf",
+      "label": "Saraf Pendengaran",
+      "color": "#7dd3fc",
+      "parent": "telinga",
+      "content": "Nervus auditori: bagian vestibuler (keseimbangan→serebelum) dan koklearis (suara→korteks temporalis)."
+    },
+    {
+      "id": "telinga-gangguan",
+      "label": "Gangguan Pendengaran",
+      "color": "#7dd3fc",
+      "parent": "telinga",
+      "content": "Konduktif (sumbatan/penyakit) dan sensorineural (kerusakan kokhlea/nervus kranialis VIII)."
+    },
+    {
+      "id": "telinga-uji",
+      "label": "Uji Rinne & Weber",
+      "color": "#7dd3fc",
+      "parent": "telinga",
+      "content": "Rinne membandingkan konduksi tulang vs udara; Weber menguji laterisasi suara."
+    },
+    {
+      "id": "lidah-fungsi",
+      "label": "Fungsi Lidah",
+      "color": "#7dd3fc",
+      "parent": "lidah",
+      "content": "Merasakan arti makanan dan sebagai alat refleks."
+    },
+    {
+      "id": "lidah-saliva",
+      "label": "Saliva (Kelenjar Ludah)",
+      "color": "#7dd3fc",
+      "parent": "lidah",
+      "content": "Mengandung air, glikoprotein, enzim ptyalin, garam alkali; berfungsi mekanis dan kimiawi."
+    },
+    {
+      "id": "lidah-enzim",
+      "label": "Enzim Ptyalin",
+      "color": "#7dd3fc",
+      "parent": "lidah",
+      "content": "Mengubah karbohidrat menjadi maltosa, lalu enzim maltase menjadi glukosa."
+    },
+    {
+      "id": "lidah-otot",
+      "label": "Otot Lidah",
+      "color": "#7dd3fc",
+      "parent": "lidah",
+      "content": "Otot intrinsik (gerakan halus) dan otot ekstrinsik (gerakan kasar saat mengunyah & menelan)."
+    },
+    {
+      "id": "lidah-bagian",
+      "label": "Bagian Lidah",
+      "color": "#7dd3fc",
+      "parent": "lidah",
+      "content": "Radik lingua (pangkal), dorsum lingua (punggung), apeks lingua (ujung)."
+    },
+    {
+      "id": "hidung-proses",
+      "label": "Proses Penciuman",
+      "color": "#7dd3fc",
+      "parent": "hidung",
+      "content": "Gas dihisap (bau) → rongga hidung → nervus olfaktorius → lobus temporalis otak."
+    },
+    {
+      "id": "hidung-komponen",
+      "label": "Komponen Penciuman",
+      "color": "#7dd3fc",
+      "parent": "hidung",
+      "content": "Rongga hidung, bulbus olfaktorius, serat saraf aferen, mukosa olfaktorius (sel basal, reseptor, penunjang)."
+    },
+    {
+      "id": "hidung-konka",
+      "label": "Konka Nasalis",
+      "color": "#7dd3fc",
+      "parent": "hidung",
+      "content": "Konka nasalis superior, media, dan inferior."
+    },
+    {
+      "id": "hidung-sinus",
+      "label": "Sinus Paranasal",
+      "color": "#7dd3fc",
+      "parent": "hidung",
+      "content": "Sinus maksilaris, sfenoidalis, dan frontalis."
+    },
+    {
+      "id": "kulit-lapisan",
+      "label": "Lapisan Kulit",
+      "color": "#7dd3fc",
+      "parent": "kulit",
+      "content": "Epidermis, dermis, dan hipodermis, masing-masing dengan reseptor sensorik spesifik."
+    },
+    {
+      "id": "kulit-epidermis",
+      "label": "Epidermis",
+      "color": "#7dd3fc",
+      "parent": "kulit",
+      "content": "Kaya ujung saraf bebas dan sel Merkel untuk persepsi nyeri, suhu, dan sentuhan ringan."
+    },
+    {
+      "id": "kulit-dermis",
+      "label": "Reseptor Dermis",
+      "color": "#7dd3fc",
+      "parent": "kulit",
+      "content": "Korpuskel Meissner (sentuhan halus), Pacini (getaran), Ruffini (peregangan)."
+    },
+    {
+      "id": "kulit-hipodermis",
+      "label": "Hipodermis",
+      "color": "#7dd3fc",
+      "parent": "kulit",
+      "content": "Lapisan terdalam (jaringan ikat longgar & adiposa); bantalan mekanik, isolator termal, reseptor proprioseptif."
+    },
+    {
+      "id": "kulit-fisiologi",
+      "label": "Fisiologi Reseptor Kulit",
+      "color": "#7dd3fc",
+      "parent": "kulit",
+      "content": "Transduser yang mengubah energi mekanik/termal/kimia menjadi impuls listrik ke korteks somatosensorik."
+    },
+    {
+      "id": "kulit-k3",
+      "label": "Implementasi K3",
+      "color": "#7dd3fc",
+      "parent": "kulit",
+      "content": "Hand-Arm Vibration Syndrome, dermatitis kontak iritan, heat stroke, dan frostbite akibat paparan kerja."
+    }
+  ]
+}

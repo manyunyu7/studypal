@@ -1,0 +1,1446 @@
+{
+  "topic": "Beban Kerja Fisik",
+  "order": 7,
+  "description": "Beban kerja fisik mempelajari bagaimana tubuh merespons dan beradaptasi terhadap tuntutan kerja melalui sistem bioenergetika, otot rangka, kardiovaskular, pernapasan, dan termoregulasi. Dalam konteks K3, beban kerja diukur (kkal/menit, METs, %CVL, VO2max) dan dijaga agar tetap dalam batas kapasitas fisiologis pekerja guna mencegah kelelahan berlebih, PAK, dan kecelakaan kerja.",
+  "subtopics": ["Bioenergetika & Metabolisme Kerja", "Sistem Otot Rangka dalam Kerja", "Sistem Kardiovaskular Saat Kerja", "Sistem Pernapasan Saat Kerja", "Termoregulasi & Heat Stress", "Kapasitas Kerja Fisik", "Kelelahan Kerja / Fatigue"],
+  "questions": [
+    {
+      "text": "Apa yang dipelajari dalam bioenergetika kerja?",
+      "explanation": "Bioenergetika kerja membahas transformasi energi kimia menjadi energi mekanis saat aktivitas fisik, yang menjadi dasar penentuan beban kerja fisik di K3.",
+      "difficulty": "EASY",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. Transformasi energi kimia menjadi energi mekanis saat aktivitas fisik", "isCorrect": true},
+        {"text": "B. Pengukuran tekanan darah saat istirahat", "isCorrect": false},
+        {"text": "C. Analisis komposisi kimia darah", "isCorrect": false},
+        {"text": "D. Studi tentang sekresi hormon pertumbuhan", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Sistem energi manakah yang dominan pada pekerjaan industri dengan durasi kerja >2 menit?",
+      "explanation": "Sistem oksidatif (aerobik) dominan untuk kerja >2 menit dan menjadi sistem energi utama pada sebagian besar pekerjaan industri.",
+      "difficulty": "MEDIUM",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. Sistem fosfagen/ATP-PC", "isCorrect": false},
+        {"text": "B. Sistem glikolisis anaerobik", "isCorrect": false},
+        {"text": "C. Sistem oksidatif", "isCorrect": true},
+        {"text": "D. Sistem fosforilasi laktat tunggal", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Sistem fosfagen/ATP-PC digunakan untuk aktivitas dengan karakteristik durasi berapa?",
+      "explanation": "Sistem fosfagen/ATP-PC menyuplai energi untuk aktivitas intensitas sangat tinggi dengan durasi <10 detik.",
+      "difficulty": "MEDIUM",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. Intensitas sangat tinggi <10 detik", "isCorrect": true},
+        {"text": "B. Durasi 10 detik–2 menit", "isCorrect": false},
+        {"text": "C. Durasi >2 menit", "isCorrect": false},
+        {"text": "D. Durasi >30 menit endurance", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Glikolisis anaerobik berperan pada durasi 10 detik–2 menit dan menghasilkan produk sampingan berupa apa?",
+      "explanation": "Glikolisis anaerobik menghasilkan laktat (asam laktat) sebagai produk metabolisme pada durasi 10 detik–2 menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. Karbon dioksida murni", "isCorrect": false},
+        {"text": "B. Laktat (asam laktat)", "isCorrect": true},
+        {"text": "C. Urea", "isCorrect": false},
+        {"text": "D. Keton", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut klasifikasi ILO, beban kerja kategori RINGAN memiliki konsumsi energi berapa?",
+      "explanation": "Klasifikasi ILO: ringan <2,5 kkal/menit, sedang 2,5–5,0, berat 5,0–7,5, dan sangat berat >7,5 kkal/menit.",
+      "difficulty": "EASY",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. <2,5 kkal/menit", "isCorrect": true},
+        {"text": "B. 2,5–5,0 kkal/menit", "isCorrect": false},
+        {"text": "C. 5,0–7,5 kkal/menit", "isCorrect": false},
+        {"text": "D. >7,5 kkal/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut klasifikasi ILO, rentang konsumsi energi 2,5–5,0 kkal/menit termasuk kategori beban kerja apa?",
+      "explanation": "Konsumsi energi 2,5–5,0 kkal/menit dikategorikan sebagai beban kerja SEDANG menurut ILO.",
+      "difficulty": "EASY",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. Ringan", "isCorrect": false},
+        {"text": "B. Sedang", "isCorrect": true},
+        {"text": "C. Berat", "isCorrect": false},
+        {"text": "D. Sangat berat", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Beban kerja dengan konsumsi energi >7,5 kkal/menit menurut ILO termasuk kategori apa?",
+      "explanation": "Konsumsi energi >7,5 kkal/menit dikategorikan sebagai beban kerja SANGAT BERAT menurut klasifikasi ILO.",
+      "difficulty": "EASY",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. Sedang", "isCorrect": false},
+        {"text": "B. Berat", "isCorrect": false},
+        {"text": "C. Sangat berat", "isCorrect": true},
+        {"text": "D. Ringan", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pada perhitungan energi angkat Tabel Lehmann/Garg, lifting energy dihitung dengan rumus berat x tinggi x frekuensi x konstanta. Berapa nilai konstanta tersebut?",
+      "explanation": "Lifting energy = berat (kg) x tinggi (m) x frekuensi (kali/menit) x 0,0024 kkal/kg.m menurut Garg et al. 2020.",
+      "difficulty": "HARD",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. 0,024 kkal/kg.m", "isCorrect": false},
+        {"text": "B. 0,0024 kkal/kg.m", "isCorrect": true},
+        {"text": "C. 0,24 kkal/kg.m", "isCorrect": false},
+        {"text": "D. 2,4 kkal/kg.m", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Seorang pekerja mengangkat beban 25 kg, tinggi angkat 0,8 m, frekuensi 4 kali/menit. Berapa lifting energy-nya (LE = berat x tinggi x frekuensi x 0,0024)?",
+      "explanation": "LE = 25 x 0,8 x 4 x 0,0024 = 0,192 kkal/menit.",
+      "difficulty": "HARD",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. 0,192 kkal/menit", "isCorrect": true},
+        {"text": "B. 1,92 kkal/menit", "isCorrect": false},
+        {"text": "C. 0,48 kkal/menit", "isCorrect": false},
+        {"text": "D. 2,0 kkal/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Dalam perhitungan konsumsi energi kerja, berapa nilai basal metabolism yang ditambahkan menurut ISO 8996:2021?",
+      "explanation": "Basal metabolism yang ditambahkan adalah 1,5 kkal/menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. 0,3 kkal/menit", "isCorrect": false},
+        {"text": "B. 1,5 kkal/menit", "isCorrect": true},
+        {"text": "C. 2,5 kkal/menit", "isCorrect": false},
+        {"text": "D. 0,8 kkal/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Komponen postural untuk postur berdiri yang ditambahkan dalam perhitungan energi kerja adalah sebesar?",
+      "explanation": "Postural component untuk berdiri adalah 0,3 kkal/menit (Lehmann 1962; Garg et al. 2020).",
+      "difficulty": "MEDIUM",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. 1,5 kkal/menit", "isCorrect": false},
+        {"text": "B. 0,3 kkal/menit", "isCorrect": true},
+        {"text": "C. 0,192 kkal/menit", "isCorrect": false},
+        {"text": "D. 0,0024 kkal/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pada kasus pekerja angkat semen (LE = 0,192; basal 1,5; postural 0,3; walking 0), berapa total konsumsi energi kerja?",
+      "explanation": "Total = 0,192 + 1,5 + 0,3 + 0 = 1,992 ≈ 2,0 kkal/menit, sehingga tergolong beban ringan menurut ILO.",
+      "difficulty": "HARD",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. ≈2,0 kkal/menit (ringan)", "isCorrect": true},
+        {"text": "B. ≈5,0 kkal/menit (berat)", "isCorrect": false},
+        {"text": "C. ≈3,5 kkal/menit (sedang)", "isCorrect": false},
+        {"text": "D. ≈0,5 kkal/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Berapa faktor koreksi konsumsi energi untuk pekerja WANITA menurut ILO?",
+      "explanation": "Faktor koreksi: pria <45 tahun = 1,0; wanita = 0,8 menurut ILO.",
+      "difficulty": "MEDIUM",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. 1,0", "isCorrect": false},
+        {"text": "B. 1,2", "isCorrect": false},
+        {"text": "C. 0,8", "isCorrect": true},
+        {"text": "D. 0,6", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut Kroemer & Grandjean, pekerja dengan konsumsi energi >5,0 kkal/menit memerlukan rest allowance minimal berapa?",
+      "explanation": "Pekerja dengan konsumsi >5,0 kkal/menit memerlukan istirahat minimal 15 menit/jam untuk mencegah fatigue dan PAK otot rangka.",
+      "difficulty": "MEDIUM",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. 5 menit/jam", "isCorrect": false},
+        {"text": "B. 15 menit/jam", "isCorrect": true},
+        {"text": "C. 30 menit/jam", "isCorrect": false},
+        {"text": "D. 45 menit/jam", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Jika frekuensi angkat >5 kali/menit atau tinggi angkat >1,5 m, Garg et al. menyarankan penambahan energi fatigue sebesar?",
+      "explanation": "Pada frekuensi >5 kali/menit atau tinggi angkat >1,5 m, perlu ditambah energi fatigue +10–15%.",
+      "difficulty": "HARD",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. +1–2%", "isCorrect": false},
+        {"text": "B. +10–15%", "isCorrect": true},
+        {"text": "C. +30–40%", "isCorrect": false},
+        {"text": "D. +50%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Selain kkal/menit, satuan apa yang juga dipakai untuk menyatakan konsumsi energi kerja?",
+      "explanation": "Konsumsi energi kerja dapat dinyatakan dalam kilokalori/menit atau METs (metabolic equivalents).",
+      "difficulty": "EASY",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. METs", "isCorrect": true},
+        {"text": "B. Newton", "isCorrect": false},
+        {"text": "C. Pascal", "isCorrect": false},
+        {"text": "D. Lux", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Efektor utama dalam aktivitas kerja fisik yang mengubah energi kimia ATP menjadi kerja mekanis adalah?",
+      "explanation": "Sistem otot rangka adalah efektor utama yang mengubah energi kimia ATP menjadi kerja mekanis melalui mekanisme sliding filament aktin-miosin.",
+      "difficulty": "EASY",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Sistem saraf otonom", "isCorrect": false},
+        {"text": "B. Sistem otot rangka", "isCorrect": true},
+        {"text": "C. Sistem limfatik", "isCorrect": false},
+        {"text": "D. Sistem endokrin", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Mekanisme kontraksi otot rangka yang mengubah ATP menjadi kerja mekanis dikenal sebagai?",
+      "explanation": "Kontraksi otot terjadi melalui mekanisme sliding filament aktin-miosin.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Mekanisme sliding filament aktin-miosin", "isCorrect": true},
+        {"text": "B. Difusi pasif natrium-kalium", "isCorrect": false},
+        {"text": "C. Transport aktif glukosa", "isCorrect": false},
+        {"text": "D. Osmosis cairan sarkoplasma", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Jenis kontraksi otot di mana otot memendek dengan tegangan konstan, dominan pada manual handling, disebut?",
+      "explanation": "Kontraksi isotonik dinamis adalah otot memendek dengan tegangan konstan, dominan pada manual handling.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Isometrik statis", "isCorrect": false},
+        {"text": "B. Isotonik dinamis", "isCorrect": true},
+        {"text": "C. Isokinetik eksentrik", "isCorrect": false},
+        {"text": "D. Plyometrik", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Mengapa kontraksi isometrik statis menyebabkan fatigue lebih cepat?",
+      "explanation": "Pada kontraksi isometrik statis otot tegang tanpa perubahan panjang, sehingga aliran darah terhambat dan fatigue muncul lebih cepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Karena aliran darah ke otot terhambat", "isCorrect": true},
+        {"text": "B. Karena suhu otot menurun drastis", "isCorrect": false},
+        {"text": "C. Karena otot memendek terlalu cepat", "isCorrect": false},
+        {"text": "D. Karena produksi ATP berlebih", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Unit motor manakah yang dominan pada kerja endurance dengan kapasitas aerobik tinggi?",
+      "explanation": "Unit motor slow-twitch tipe I dominan pada kerja endurance karena kapasitas aerobiknya tinggi.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Fast-twitch tipe IIx", "isCorrect": false},
+        {"text": "B. Slow-twitch tipe I", "isCorrect": true},
+        {"text": "C. Fast-twitch tipe IIb murni", "isCorrect": false},
+        {"text": "D. Unit motor intermediate tipe III", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Unit motor fast-twitch tipe IIx paling sesuai untuk jenis kerja apa?",
+      "explanation": "Unit motor fast-twitch tipe IIx digunakan untuk kerja berat dengan durasi pendek.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Kerja ringan berdurasi sangat panjang", "isCorrect": false},
+        {"text": "B. Kerja berat durasi pendek", "isCorrect": true},
+        {"text": "C. Kerja statis postural seharian", "isCorrect": false},
+        {"text": "D. Kerja mental kognitif", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Manakah faktor penyebab utama muscular fatigue (kelelahan otot)?",
+      "explanation": "Akumulasi asam laktat, penurunan pH, dan deplesi glikogen adalah penyebab muscular fatigue.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Akumulasi asam laktat, penurunan pH, dan deplesi glikogen", "isCorrect": true},
+        {"text": "B. Peningkatan jumlah eritrosit", "isCorrect": false},
+        {"text": "C. Peningkatan pH darah", "isCorrect": false},
+        {"text": "D. Penurunan suhu inti tubuh", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Berapa penurunan kapasitas kerja yang terjadi setelah 1 jam kerja statis?",
+      "explanation": "Kapasitas kerja menurun 15–30% setelah 1 jam kerja statis akibat akumulasi metabolit dan deplesi glikogen.",
+      "difficulty": "HARD",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. 1–5%", "isCorrect": false},
+        {"text": "B. 15–30%", "isCorrect": true},
+        {"text": "C. 50–70%", "isCorrect": false},
+        {"text": "D. 80–90%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Metode laboratorium untuk evaluasi kelelahan otot yang menggunakan indikator penurunan median frequency adalah?",
+      "explanation": "Electromyography (EMG) digunakan untuk evaluasi kelelahan otot dengan indikator penurunan median frequency.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Electromyography (EMG)", "isCorrect": true},
+        {"text": "B. Elektrokardiografi (EKG)", "isCorrect": false},
+        {"text": "C. Spirometri", "isCorrect": false},
+        {"text": "D. Audiometri", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Metode sederhana lapangan untuk menilai kelelahan otot tanpa alat canggih adalah?",
+      "explanation": "Handgrip endurance time merupakan metode sederhana untuk menilai kelelahan otot.",
+      "difficulty": "EASY",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. WBGT meter", "isCorrect": false},
+        {"text": "B. Handgrip endurance time", "isCorrect": true},
+        {"text": "C. NASA-TLX", "isCorrect": false},
+        {"text": "D. Step test", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Untuk kerja statis, ILO menyarankan rotasi pekerjaan dilakukan tiap berapa lama?",
+      "explanation": "Intervensi K3 untuk kerja statis meliputi rotasi pekerjaan tiap 30 menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Tiap 30 menit", "isCorrect": true},
+        {"text": "B. Tiap 4 jam", "isCorrect": false},
+        {"text": "C. Tiap 8 jam", "isCorrect": false},
+        {"text": "D. Tiap akhir shift", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Berapa kisaran rest allowance ILO sebagai persentase dari waktu kerja untuk pemulihan otot?",
+      "explanation": "Penerapan rest allowance ILO berkisar 11%–20% dari waktu kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. 1%–5%", "isCorrect": false},
+        {"text": "B. 11%–20%", "isCorrect": true},
+        {"text": "C. 30%–40%", "isCorrect": false},
+        {"text": "D. 50%–60%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Postur kerja dengan sudut sendi netral dapat menurunkan beban statis hingga berapa persen menurut ISO 11226:2020?",
+      "explanation": "Postur kerja dengan sudut sendi netral menurunkan beban statis hingga 40% dan mencegah cumulative trauma disorders.",
+      "difficulty": "HARD",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. 10%", "isCorrect": false},
+        {"text": "B. 40%", "isCorrect": true},
+        {"text": "C. 70%", "isCorrect": false},
+        {"text": "D. 90%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Gangguan yang dapat dicegah dengan postur sendi netral karena terkait beban statis berulang adalah?",
+      "explanation": "Postur sendi netral mencegah cumulative trauma disorders (CTD) akibat beban statis berulang.",
+      "difficulty": "EASY",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Cumulative trauma disorders", "isCorrect": true},
+        {"text": "B. Heat stroke", "isCorrect": false},
+        {"text": "C. Hipoksia hipobarik", "isCorrect": false},
+        {"text": "D. Dehidrasi akut", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Apa ciri utama respons kardiovaskular terhadap kerja fisik?",
+      "explanation": "Respons kardiovaskular terhadap kerja ditandai peningkatan heart rate, stroke volume, dan cardiac output untuk memenuhi kebutuhan O2 otot.",
+      "difficulty": "EASY",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. Penurunan HR dan cardiac output", "isCorrect": false},
+        {"text": "B. Peningkatan HR, stroke volume, dan cardiac output", "isCorrect": true},
+        {"text": "C. Penurunan stroke volume saja", "isCorrect": false},
+        {"text": "D. Tidak ada perubahan signifikan", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Mengapa heart rate (HR) menjadi indikator fisiologis utama beban kerja?",
+      "explanation": "HR menjadi indikator utama karena korelasinya linier dengan VO2 pada intensitas 50–85% HRmax.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. Karena HR tidak dipengaruhi suhu lingkungan", "isCorrect": false},
+        {"text": "B. Karena korelasinya linier dengan VO2 pada 50–85% HRmax", "isCorrect": true},
+        {"text": "C. Karena HR konstan pada semua beban", "isCorrect": false},
+        {"text": "D. Karena HR hanya berubah saat istirahat", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Formula estimasi HRmax yang umum digunakan adalah?",
+      "explanation": "HRmax diestimasi dengan formula 220 – umur.",
+      "difficulty": "EASY",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. 220 – umur", "isCorrect": true},
+        {"text": "B. 200 + umur", "isCorrect": false},
+        {"text": "C. 180 – berat badan", "isCorrect": false},
+        {"text": "D. 150 + tinggi badan", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Heart rate reserve (HRR) dihitung dengan rumus?",
+      "explanation": "HRR = HRmax – HR istirahat.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. HRmax – HR istirahat", "isCorrect": true},
+        {"text": "B. HR kerja + HR istirahat", "isCorrect": false},
+        {"text": "C. HRmax + HR istirahat", "isCorrect": false},
+        {"text": "D. HR kerja / HRmax", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Rumus %CVL (Cardiovascular Load) yang benar adalah?",
+      "explanation": "%CVL = (HR kerja – HR istirahat) / (HRmax – HR istirahat) x 100%.",
+      "difficulty": "HARD",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. (HR kerja – HR istirahat)/(HRmax – HR istirahat) x 100%", "isCorrect": true},
+        {"text": "B. (HR kerja + HR istirahat)/HRmax x 100%", "isCorrect": false},
+        {"text": "C. (HRmax – HR kerja)/HR istirahat x 100%", "isCorrect": false},
+        {"text": "D. HR kerja/HRmax x 100%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Diketahui HR kerja = 110 dpm, HR istirahat = 70 dpm, HRmax = 192 dpm. Berapa %CVL pekerja?",
+      "explanation": "%CVL = (110–70)/(192–70) x 100% = 40/122 = 32,8%, masih tergolong aman.",
+      "difficulty": "HARD",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. 20,8%", "isCorrect": false},
+        {"text": "B. 32,8%", "isCorrect": true},
+        {"text": "C. 45,5%", "isCorrect": false},
+        {"text": "D. 57,3%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut ACGIH 2024, nilai %CVL yang tergolong AMAN untuk kerja 8 jam adalah?",
+      "explanation": "%CVL <30% tergolong aman untuk kerja 8 jam menurut ACGIH 2024.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. <30%", "isCorrect": true},
+        {"text": "B. 30–40%", "isCorrect": false},
+        {"text": "C. >40%", "isCorrect": false},
+        {"text": "D. >50%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut ACGIH 2024, %CVL pada rentang 30–40% memerlukan tindakan apa?",
+      "explanation": "%CVL 30–40% memerlukan istirahat 50% dari waktu kerja menurut ACGIH 2024.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. Tidak perlu istirahat tambahan", "isCorrect": false},
+        {"text": "B. Perlu istirahat 50%", "isCorrect": true},
+        {"text": "C. Hentikan kerja total", "isCorrect": false},
+        {"text": "D. Tambah beban kerja", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut ACGIH 2024, %CVL >40% mengindikasikan kondisi apa terkait waktu kerja?",
+      "explanation": "%CVL >40% berisiko fatigue akut sehingga waktu kerja harus <1 jam.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. Aman untuk 8 jam", "isCorrect": false},
+        {"text": "B. Berisiko fatigue akut, waktu kerja harus <1 jam", "isCorrect": true},
+        {"text": "C. Boleh kerja 12 jam", "isCorrect": false},
+        {"text": "D. Cukup istirahat 5 menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pekerja dengan VO2max rendah mencapai %CVL 40% pada beban yang lebih ringan dibanding pekerja bugar. Pada beban berapa pekerja VO2max rendah mencapai %CVL 40%?",
+      "explanation": "Pekerja VO2max rendah mencapai %CVL 40% pada beban 3,5 kkal/menit, sedangkan pekerja bugar pada 5,5 kkal/menit.",
+      "difficulty": "HARD",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. 3,5 kkal/menit", "isCorrect": true},
+        {"text": "B. 5,5 kkal/menit", "isCorrect": false},
+        {"text": "C. 7,5 kkal/menit", "isCorrect": false},
+        {"text": "D. 1,5 kkal/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Tes lapangan yang disebut untuk seleksi fit to work berbasis respons kardiovaskular adalah?",
+      "explanation": "Seleksi fit to work dapat dilakukan berdasarkan YMCA Step Test.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. NASA-TLX", "isCorrect": false},
+        {"text": "B. YMCA Step Test", "isCorrect": true},
+        {"text": "C. Audiometri nada murni", "isCorrect": false},
+        {"text": "D. Borg RPE statis", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pekerja dengan %CVL kronis >33% selama 4 jam berkorelasi dengan peningkatan kejadian PAK jenis apa?",
+      "explanation": "%CVL kronis >33% selama 4 jam berkorelasi dengan peningkatan PAK kardiovaskular.",
+      "difficulty": "HARD",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. PAK kardiovaskular", "isCorrect": true},
+        {"text": "B. Gangguan pendengaran", "isCorrect": false},
+        {"text": "C. Dermatitis kontak", "isCorrect": false},
+        {"text": "D. Silikosis paru", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Faktor manakah yang memengaruhi respons HR pekerja saat kerja?",
+      "explanation": "Usia, jenis kelamin, kebugaran VO2max, dan suhu lingkungan memengaruhi respons HR.",
+      "difficulty": "EASY",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. Usia, jenis kelamin, VO2max, dan suhu lingkungan", "isCorrect": true},
+        {"text": "B. Hanya warna pakaian kerja", "isCorrect": false},
+        {"text": "C. Hanya tingkat kebisingan", "isCorrect": false},
+        {"text": "D. Hanya pencahayaan ruangan", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Monitoring HR real-time dalam aplikasi K3 terutama berguna untuk manajemen apa?",
+      "explanation": "Monitoring HR real-time digunakan untuk heat stress management.",
+      "difficulty": "EASY",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. Heat stress management", "isCorrect": true},
+        {"text": "B. Manajemen kebisingan", "isCorrect": false},
+        {"text": "C. Manajemen limbah B3", "isCorrect": false},
+        {"text": "D. Pengukuran pencahayaan", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Fungsi utama sistem pernapasan saat kerja adalah?",
+      "explanation": "Sistem pernapasan menyuplai O2 dan mengeliminasi CO2 sesuai tuntutan metabolik kerja.",
+      "difficulty": "EASY",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. Menyuplai O2 dan mengeliminasi CO2 sesuai tuntutan metabolik", "isCorrect": true},
+        {"text": "B. Mengatur suhu inti tubuh saja", "isCorrect": false},
+        {"text": "C. Memproduksi sel darah merah", "isCorrect": false},
+        {"text": "D. Menyimpan glikogen otot", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Respons ventilasi meningkat secara linier dengan VO2 hingga titik tertentu, lalu naik eksponensial. Titik tersebut dikenal sebagai?",
+      "explanation": "Ventilasi meningkat linier dengan VO2 hingga ventilatory threshold (55–65% VO2max), lalu naik eksponensial akibat akumulasi laktat.",
+      "difficulty": "HARD",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. Ventilatory threshold", "isCorrect": true},
+        {"text": "B. Anaerobic ceiling", "isCorrect": false},
+        {"text": "C. Tidal plateau", "isCorrect": false},
+        {"text": "D. Residual point", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Ventilatory threshold terjadi pada kisaran berapa persen VO2max?",
+      "explanation": "Ventilatory threshold terjadi pada 55–65% VO2max, setelah itu ventilasi naik eksponensial.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. 20–30% VO2max", "isCorrect": false},
+        {"text": "B. 55–65% VO2max", "isCorrect": true},
+        {"text": "C. 85–95% VO2max", "isCorrect": false},
+        {"text": "D. 100% VO2max", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Manakah yang merupakan parameter kunci sistem pernapasan saat kerja?",
+      "explanation": "Parameter kunci meliputi tidal volume, respiratory frequency, minute ventilation (VE), dan VO2.",
+      "difficulty": "EASY",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. Tidal volume, respiratory frequency, minute ventilation, dan VO2", "isCorrect": true},
+        {"text": "B. Stroke volume dan cardiac output", "isCorrect": false},
+        {"text": "C. WBGT dan suhu globe", "isCorrect": false},
+        {"text": "D. Kortisol dan melatonin", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Parameter penentu kapasitas kerja fisik aerobik (KKF) adalah?",
+      "explanation": "VO2max menjadi penentu kapasitas kerja fisik aerobik (KKF).",
+      "difficulty": "EASY",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. Tidal volume", "isCorrect": false},
+        {"text": "B. VO2max", "isCorrect": true},
+        {"text": "C. Respiratory frequency", "isCorrect": false},
+        {"text": "D. Stroke volume", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Berapa nilai normal VO2max pria usia 20–29 tahun?",
+      "explanation": "Nilai normal VO2max pria usia 20–29 tahun adalah 42–46 ml/kg/menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. 20–25 ml/kg/menit", "isCorrect": false},
+        {"text": "B. 42–46 ml/kg/menit", "isCorrect": true},
+        {"text": "C. 60–70 ml/kg/menit", "isCorrect": false},
+        {"text": "D. 80–90 ml/kg/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut ISO 8996:2021, beban kerja RINGAN setara dengan VO2 berapa?",
+      "explanation": "Beban ringan = VO2 <0,5 L/menit (<2,5 kkal/menit) menurut ISO 8996:2021.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. VO2 <0,5 L/menit", "isCorrect": true},
+        {"text": "B. VO2 0,5–1,0 L/menit", "isCorrect": false},
+        {"text": "C. VO2 1,0–1,5 L/menit", "isCorrect": false},
+        {"text": "D. VO2 >1,5 L/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut ISO 8996:2021, beban kerja SANGAT BERAT setara dengan VO2 berapa?",
+      "explanation": "Beban sangat berat = VO2 >1,5 L/menit menurut ISO 8996:2021.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. VO2 <0,5 L/menit", "isCorrect": false},
+        {"text": "B. VO2 0,5–1,0 L/menit", "isCorrect": false},
+        {"text": "C. VO2 1,0–1,5 L/menit", "isCorrect": false},
+        {"text": "D. VO2 >1,5 L/menit", "isCorrect": true}
+      ]
+    },
+    {
+      "text": "Rasio VE/VO2 >35 L/L mengindikasikan kondisi apa?",
+      "explanation": "Rasio VE/VO2 >35 L/L mengindikasikan inefisiensi pernapasan dan hyperventilation akibat panas atau stress psikis.",
+      "difficulty": "HARD",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. Efisiensi pernapasan optimal", "isCorrect": false},
+        {"text": "B. Inefisiensi pernapasan dan hyperventilation", "isCorrect": true},
+        {"text": "C. Kapasitas aerobik superior", "isCorrect": false},
+        {"text": "D. Aklimatisasi panas sempurna", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Tes lapangan yang digunakan untuk estimasi VO2max melalui sepeda statis adalah?",
+      "explanation": "Astrand-Rhyming bicycle ergometer digunakan untuk estimasi VO2max di lapangan, selain step test YMCA.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. Harvard treadmill maksimal", "isCorrect": false},
+        {"text": "B. Astrand-Rhyming bicycle ergometer", "isCorrect": true},
+        {"text": "C. RULA/REBA", "isCorrect": false},
+        {"text": "D. NASA-TLX", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pekerja dengan VO2max <25 ml/kg/menit tidak direkomendasikan untuk kerja berat di atas beban berapa?",
+      "explanation": "Pekerja dengan VO2max <25 ml/kg/menit tidak direkomendasikan kerja berat >4,5 kkal/menit karena %VO2max >50% memicu fatigue dalam <2 jam.",
+      "difficulty": "HARD",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. >2,0 kkal/menit", "isCorrect": false},
+        {"text": "B. >4,5 kkal/menit", "isCorrect": true},
+        {"text": "C. >7,5 kkal/menit", "isCorrect": false},
+        {"text": "D. >10 kkal/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Penggunaan respirator menaikkan beban pernapasan sebesar berapa, sehingga perlu koreksi rest allowance?",
+      "explanation": "Respirator menaikkan beban pernapasan 10–15%, sehingga perlu koreksi rest allowance +5%.",
+      "difficulty": "HARD",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. 1–2%", "isCorrect": false},
+        {"text": "B. 10–15%", "isCorrect": true},
+        {"text": "C. 40–50%", "isCorrect": false},
+        {"text": "D. 70–80%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Selain YMCA Step Test, tes oxygen debt klasik untuk klasifikasi kebugaran yang disebut materi adalah?",
+      "explanation": "Harvard Step Test (selain YMCA Step Test) digunakan untuk menilai oxygen debt dan klasifikasi kebugaran.",
+      "difficulty": "EASY",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. Harvard Step Test", "isCorrect": true},
+        {"text": "B. Tes Borg statis", "isCorrect": false},
+        {"text": "C. Tes Murrell", "isCorrect": false},
+        {"text": "D. Tes Lehmann", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Nilai normal VO2max wanita usia 20–29 tahun menurut ACSM 2021 adalah?",
+      "explanation": "VO2max normal wanita usia 20–29 tahun adalah 35–38 ml/kg/menit, lebih rendah dari pria.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. 35–38 ml/kg/menit", "isCorrect": true},
+        {"text": "B. 42–46 ml/kg/menit", "isCorrect": false},
+        {"text": "C. 50–55 ml/kg/menit", "isCorrect": false},
+        {"text": "D. 20–25 ml/kg/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Termoregulasi menjaga suhu inti tubuh pada kisaran berapa?",
+      "explanation": "Termoregulasi menjaga suhu inti tubuh pada 36,1–37,2°C melalui keseimbangan heat production dan heat loss.",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. 30,0–33,0°C", "isCorrect": false},
+        {"text": "B. 36,1–37,2°C", "isCorrect": true},
+        {"text": "C. 38,0–39,0°C", "isCorrect": false},
+        {"text": "D. 40,0–41,0°C", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Manakah mekanisme heat loss (pelepasan panas) tubuh?",
+      "explanation": "Heat loss terjadi melalui radiasi, konveksi, konduksi, dan evaporasi keringat.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. Radiasi, konveksi, konduksi, dan evaporasi keringat", "isCorrect": true},
+        {"text": "B. Hanya melalui pernapasan", "isCorrect": false},
+        {"text": "C. Hanya melalui urin", "isCorrect": false},
+        {"text": "D. Hanya melalui kontraksi otot", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Heat strain saat kerja di lingkungan panas ditandai dengan peningkatan suhu inti di atas berapa?",
+      "explanation": "Heat strain ditandai peningkatan suhu inti >38°C, peningkatan HR, dan penurunan performa kognitif-motorik.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. >37°C", "isCorrect": false},
+        {"text": "B. >38°C", "isCorrect": true},
+        {"text": "C. >40°C", "isCorrect": false},
+        {"text": "D. >42°C", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Selama aklimatisasi panas, laju keringat dapat meningkat hingga berapa?",
+      "explanation": "Mekanisme adaptif termoregulasi meliputi peningkatan laju keringat hingga 1,5 L/jam.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. 0,2 L/jam", "isCorrect": false},
+        {"text": "B. 0,5 L/jam", "isCorrect": false},
+        {"text": "C. 1,5 L/jam", "isCorrect": true},
+        {"text": "D. 5,0 L/jam", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Aklimatisasi panas penuh dicapai dalam jangka waktu berapa?",
+      "explanation": "Aklimatisasi panas terjadi dalam 7–14 hari, ditandai penurunan konsentrasi NaCl keringat.",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. 1–2 jam", "isCorrect": false},
+        {"text": "B. 7–14 hari", "isCorrect": true},
+        {"text": "C. 3–6 bulan", "isCorrect": false},
+        {"text": "D. 1 tahun", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Indeks pajanan panas utama sesuai ISO 7243:2023 adalah?",
+      "explanation": "Indeks pajanan panas utama adalah WBGT (Wet Bulb Globe Temperature) sesuai ISO 7243:2023.",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. WBGT (Wet Bulb Globe Temperature)", "isCorrect": true},
+        {"text": "B. RULA Index", "isCorrect": false},
+        {"text": "C. NASA-TLX", "isCorrect": false},
+        {"text": "D. Lifting Index", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut ACGIH 2024, ruang istirahat (rest) untuk pemulihan heat strain harus memiliki WBGT berapa?",
+      "explanation": "Rest harus dilakukan di tempat sejuk dengan WBGT <27°C.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. WBGT <27°C", "isCorrect": true},
+        {"text": "B. WBGT 30°C", "isCorrect": false},
+        {"text": "C. WBGT 35°C", "isCorrect": false},
+        {"text": "D. WBGT 40°C", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Manakah indikator heat strain individu menurut materi?",
+      "explanation": "Indikator heat strain individu: HR pemulihan >110 dpm pada menit ke-1, suhu timpani >38,5°C, atau kehilangan cairan >1,5% berat badan.",
+      "difficulty": "HARD",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. HR pemulihan >110 dpm menit ke-1 atau suhu timpani >38,5°C", "isCorrect": true},
+        {"text": "B. HR pemulihan <60 dpm", "isCorrect": false},
+        {"text": "C. Suhu timpani <35°C", "isCorrect": false},
+        {"text": "D. Penambahan berat badan >2%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Risiko heat stroke meningkat bila %CVL melebihi nilai berapa bersamaan dengan WBGT melebihi TLV?",
+      "explanation": "Risiko heat stroke meningkat bila %CVL >33% bersamaan dengan WBGT melebihi TLV.",
+      "difficulty": "HARD",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. >10%", "isCorrect": false},
+        {"text": "B. >33%", "isCorrect": true},
+        {"text": "C. >60%", "isCorrect": false},
+        {"text": "D. >80%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Rekomendasi hidrasi untuk pengendalian heat stress adalah?",
+      "explanation": "Intervensi K3 mencakup hidrasi 250 ml setiap 20 menit.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. 250 ml/20 menit", "isCorrect": true},
+        {"text": "B. 50 ml/jam", "isCorrect": false},
+        {"text": "C. 2 liter sekaligus tiap shift", "isCorrect": false},
+        {"text": "D. Tidak perlu minum saat kerja", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pekerja dengan VO2max rendah dan IMT >30 memiliki toleransi panas berapa persen lebih rendah?",
+      "explanation": "Pekerja dengan VO2max rendah dan IMT >30 memiliki toleransi panas 20% lebih rendah.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. 5% lebih rendah", "isCorrect": false},
+        {"text": "B. 20% lebih rendah", "isCorrect": true},
+        {"text": "C. 50% lebih rendah", "isCorrect": false},
+        {"text": "D. Tidak terpengaruh", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Setelah aklimatisasi, konsentrasi NaCl dalam keringat mengalami perubahan apa?",
+      "explanation": "Setelah aklimatisasi, konsentrasi NaCl keringat menurun (dari 60 menjadi sekitar 10 mmol/L) sebagai mekanisme konservasi garam.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. Menurun", "isCorrect": true},
+        {"text": "B. Meningkat tajam", "isCorrect": false},
+        {"text": "C. Tidak berubah", "isCorrect": false},
+        {"text": "D. Menjadi nol total", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Contoh administrative control untuk pengendalian heat stress adalah?",
+      "explanation": "Administrative control untuk heat stress mencakup pengaturan jadwal kerja pagi/malam (menghindari jam terpanas).",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. Pengaturan jadwal kerja pagi/malam", "isCorrect": true},
+        {"text": "B. Memasang ventilasi mekanis", "isCorrect": false},
+        {"text": "C. Mengganti mesin produksi", "isCorrect": false},
+        {"text": "D. Membeli APD baru", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Definisi Kapasitas Kerja Fisik (KKF) adalah?",
+      "explanation": "KKF adalah kemampuan maksimal individu melakukan kerja aerobik, diukur melalui VO2max.",
+      "difficulty": "EASY",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. Kemampuan maksimal individu melakukan kerja aerobik", "isCorrect": true},
+        {"text": "B. Jumlah jam kerja maksimal per hari", "isCorrect": false},
+        {"text": "C. Berat beban maksimal yang boleh diangkat hukum", "isCorrect": false},
+        {"text": "D. Suhu inti tubuh maksimal", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "KKF diukur melalui parameter VO2max dengan satuan?",
+      "explanation": "KKF diukur melalui VO2max dengan satuan ml/kg/menit atau METs.",
+      "difficulty": "EASY",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. mmHg", "isCorrect": false},
+        {"text": "B. ml/kg/menit atau METs", "isCorrect": true},
+        {"text": "C. dpm (denyut per menit)", "isCorrect": false},
+        {"text": "D. Watt saja", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk faktor INTERNAL yang memengaruhi KKF?",
+      "explanation": "Faktor internal KKF: usia, jenis kelamin, komposisi tubuh, status gizi, hemoglobin, dan tingkat kebugaran.",
+      "difficulty": "MEDIUM",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. Suhu lingkungan", "isCorrect": false},
+        {"text": "B. Ketinggian tempat kerja", "isCorrect": false},
+        {"text": "C. Usia, jenis kelamin, dan hemoglobin", "isCorrect": true},
+        {"text": "D. Waktu kerja", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Manakah yang termasuk faktor EKSTERNAL yang memengaruhi KKF menurut ISO 8996:2021?",
+      "explanation": "Faktor eksternal KKF: suhu, ketinggian, dan waktu kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. Hemoglobin", "isCorrect": false},
+        {"text": "B. Suhu, ketinggian, dan waktu kerja", "isCorrect": true},
+        {"text": "C. Status gizi", "isCorrect": false},
+        {"text": "D. Tingkat kebugaran individu", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Penurunan KKF terjadi sebesar berapa per tahun setelah usia 30 tahun?",
+      "explanation": "Penurunan KKF 1% per tahun terjadi setelah usia 30 tahun.",
+      "difficulty": "MEDIUM",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. 0,1% per tahun", "isCorrect": false},
+        {"text": "B. 1% per tahun", "isCorrect": true},
+        {"text": "C. 5% per tahun", "isCorrect": false},
+        {"text": "D. 10% per tahun", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Dibanding pria pada usia sama, KKF wanita umumnya lebih rendah sebesar?",
+      "explanation": "Wanita memiliki KKF 15–30% lebih rendah dari pria pada usia yang sama.",
+      "difficulty": "MEDIUM",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. 1–5% lebih rendah", "isCorrect": false},
+        {"text": "B. 15–30% lebih rendah", "isCorrect": true},
+        {"text": "C. 50–60% lebih rendah", "isCorrect": false},
+        {"text": "D. Sama dengan pria", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Manakah tes lapangan untuk pengukuran KKF?",
+      "explanation": "Pengukuran KKF di lapangan menggunakan YMCA Step Test, Astrand-Rhyming bicycle ergometer, atau Queen's College Step Test.",
+      "difficulty": "MEDIUM",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. Queen's College Step Test", "isCorrect": true},
+        {"text": "B. Audiometri", "isCorrect": false},
+        {"text": "C. Spirometri statis", "isCorrect": false},
+        {"text": "D. NASA-TLX", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut klasifikasi VO2max ACSM 2021 (pria 20–29 tahun), nilai >51 ml/kg/menit termasuk kategori?",
+      "explanation": "VO2max >51 ml/kg/menit termasuk kategori superior (klasifikasi tertinggi) untuk pria 20–29 tahun.",
+      "difficulty": "MEDIUM",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. Poor", "isCorrect": false},
+        {"text": "B. Fair", "isCorrect": false},
+        {"text": "C. Superior", "isCorrect": true},
+        {"text": "D. Good", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut klasifikasi VO2max ACSM 2021 (pria 20–29 tahun), nilai <35 ml/kg/menit termasuk kategori?",
+      "explanation": "VO2max <35 ml/kg/menit termasuk kategori poor (terendah) untuk pria 20–29 tahun.",
+      "difficulty": "MEDIUM",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. Poor", "isCorrect": true},
+        {"text": "B. Good", "isCorrect": false},
+        {"text": "C. Excellent", "isCorrect": false},
+        {"text": "D. Superior", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Prinsip penetapan beban kerja aman untuk kerja 8 jam tanpa fatigue berlebihan adalah berapa persen VO2max?",
+      "explanation": "Prinsip 33% VO2max digunakan untuk penetapan beban kerja aman selama 8 jam tanpa fatigue berlebihan.",
+      "difficulty": "HARD",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. 33% VO2max", "isCorrect": true},
+        {"text": "B. 70% VO2max", "isCorrect": false},
+        {"text": "C. 90% VO2max", "isCorrect": false},
+        {"text": "D. 100% VO2max", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pekerja dengan KKF <25 ml/kg/menit hanya mampu beban berkelanjutan di bawah berapa?",
+      "explanation": "Pekerja dengan KKF <25 ml/kg/menit hanya mampu beban <3,5 kkal/menit secara berkelanjutan.",
+      "difficulty": "HARD",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. <3,5 kkal/menit", "isCorrect": true},
+        {"text": "B. <7,5 kkal/menit", "isCorrect": false},
+        {"text": "C. <10 kkal/menit", "isCorrect": false},
+        {"text": "D. Tidak ada batas", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Ketidakseimbangan antara tuntutan kerja dan KKF meningkatkan risiko PAK otot rangka sebesar?",
+      "explanation": "Ketidakseimbangan tuntutan kerja dan KKF meningkatkan risiko PAK otot rangka 2,8 kali.",
+      "difficulty": "HARD",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. 1,2 kali", "isCorrect": false},
+        {"text": "B. 2,8 kali", "isCorrect": true},
+        {"text": "C. 5 kali", "isCorrect": false},
+        {"text": "D. 10 kali", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Program latihan aerobik 3x/minggu intensitas 60–80% HRR selama 8 minggu dapat menaikkan VO2max sebesar?",
+      "explanation": "Program latihan aerobik tersebut dapat menaikkan VO2max 10–15% dan menurunkan %CVL saat kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. 1–2%", "isCorrect": false},
+        {"text": "B. 10–15%", "isCorrect": true},
+        {"text": "C. 40–50%", "isCorrect": false},
+        {"text": "D. 80–90%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Menurut klasifikasi ACSM 2021 (pria 20–29 tahun), VO2max 46–51 ml/kg/menit termasuk kategori?",
+      "explanation": "VO2max 46–51 ml/kg/menit termasuk kategori excellent untuk pria 20–29 tahun.",
+      "difficulty": "MEDIUM",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. Poor", "isCorrect": false},
+        {"text": "B. Fair", "isCorrect": false},
+        {"text": "C. Good", "isCorrect": false},
+        {"text": "D. Excellent", "isCorrect": true}
+      ]
+    },
+    {
+      "text": "Apa pengertian kelelahan kerja (fatigue) menurut ISO 10075-1:2023?",
+      "explanation": "Kelelahan kerja adalah penurunan kapasitas fungsional fisik dan mental akibat aktivitas berkepanjangan, bersifat reversibel dengan istirahat.",
+      "difficulty": "EASY",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. Penurunan kapasitas fungsional yang reversibel dengan istirahat", "isCorrect": true},
+        {"text": "B. Kerusakan otot permanen tak terpulihkan", "isCorrect": false},
+        {"text": "C. Peningkatan kapasitas kerja sementara", "isCorrect": false},
+        {"text": "D. Gangguan pendengaran akibat bising", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Kelelahan otot ditandai dengan penurunan force (gaya) di atas berapa persen?",
+      "explanation": "Kelelahan otot akibat deplesi ATP-PC dan akumulasi H+ dan Pi ditandai penurunan force >15%.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. >5%", "isCorrect": false},
+        {"text": "B. >15%", "isCorrect": true},
+        {"text": "C. >50%", "isCorrect": false},
+        {"text": "D. >80%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Kelelahan kronis paling terkait dengan kondisi apa?",
+      "explanation": "Kelelahan kronis terkait dengan shift work dan sleep debt (utang tidur).",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. Shift work dan sleep debt", "isCorrect": true},
+        {"text": "B. Pencahayaan berlebih", "isCorrect": false},
+        {"text": "C. Kelebihan asupan air", "isCorrect": false},
+        {"text": "D. Suhu dingin sesaat", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Kelelahan umum (general fatigue) terutama terkait dengan kondisi fisiologis apa?",
+      "explanation": "Kelelahan umum terkait cardiovascular drift dan dehidrasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. Cardiovascular drift dan dehidrasi", "isCorrect": true},
+        {"text": "B. Hipertrofi otot", "isCorrect": false},
+        {"text": "C. Peningkatan VO2max", "isCorrect": false},
+        {"text": "D. Penurunan suhu inti", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Manakah indikator objektif kelelahan menurut materi?",
+      "explanation": "Indikator objektif kelelahan: peningkatan HR 5–10 dpm pada beban sama, penurunan flicker fusion frequency, pemanjangan reaction time >15%, dan RPE Borg >15.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. Penurunan flicker fusion frequency dan pemanjangan reaction time >15%", "isCorrect": true},
+        {"text": "B. Penurunan HR pada beban sama", "isCorrect": false},
+        {"text": "C. Pemendekan reaction time", "isCorrect": false},
+        {"text": "D. Penurunan RPE Borg", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pada beban kerja yang sama, kelelahan ditandai peningkatan HR sebesar berapa?",
+      "explanation": "Salah satu indikator kelelahan adalah peningkatan HR 5–10 dpm pada beban kerja yang sama.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. 5–10 dpm", "isCorrect": true},
+        {"text": "B. 50–60 dpm", "isCorrect": false},
+        {"text": "C. 100 dpm", "isCorrect": false},
+        {"text": "D. Tidak ada perubahan HR", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Skala apa yang digunakan untuk menilai Rating of Perceived Exertion (RPE)?",
+      "explanation": "RPE diukur dengan skala Borg; nilai RPE >15 menjadi indikator kelelahan.",
+      "difficulty": "EASY",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. Skala Borg", "isCorrect": true},
+        {"text": "B. Skala WBGT", "isCorrect": false},
+        {"text": "C. Skala Likert pendidikan", "isCorrect": false},
+        {"text": "D. Skala desibel", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Nilai %CVL berapa selama >30 menit menjadi prediktor kuat acute fatigue?",
+      "explanation": "%CVL >40% selama >30 menit menjadi prediktor kuat acute fatigue.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. >10%", "isCorrect": false},
+        {"text": "B. >40%", "isCorrect": true},
+        {"text": "C. >70%", "isCorrect": false},
+        {"text": "D. >90%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Model rest allowance ILO menggunakan rumus RA = (Beban kerja – 4,0) x 1,67. Untuk beban kerja 5,0 kkal/menit, berapa RA-nya?",
+      "explanation": "RA = (5,0 – 4,0) x 1,67 = 1 x 1,67 = 1,67 (satuan waktu istirahat per satuan kerja) untuk kerja 4,0–6,0 kkal/menit.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. 1,67", "isCorrect": true},
+        {"text": "B. 8,35", "isCorrect": false},
+        {"text": "C. 0,6", "isCorrect": false},
+        {"text": "D. 4,0", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Kerja statis selama 1 menit membutuhkan istirahat berapa lama karena hambatan aliran darah?",
+      "explanation": "Kerja statis 1 menit membutuhkan istirahat 6 menit karena hambatan aliran darah ke otot.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. 1 menit", "isCorrect": false},
+        {"text": "B. 6 menit", "isCorrect": true},
+        {"text": "C. 30 menit", "isCorrect": false},
+        {"text": "D. Tidak perlu istirahat", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Kelelahan menjadi contributing factor pada berapa persen kecelakaan kerja di sektor pertambangan?",
+      "explanation": "Kelelahan menjadi contributing factor pada 13% kecelakaan kerja di sektor pertambangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. 13%", "isCorrect": true},
+        {"text": "B. 50%", "isCorrect": false},
+        {"text": "C. 75%", "isCorrect": false},
+        {"text": "D. 90%", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Fatigue risk management terintegrasi meliputi job rotation yang dilakukan tiap berapa lama?",
+      "explanation": "Fatigue risk management terintegrasi meliputi job rotation tiap 2 jam, di samping desain work-rest cycle dan kontrol WBGT.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. Tiap 2 jam", "isCorrect": true},
+        {"text": "B. Tiap 8 jam", "isCorrect": false},
+        {"text": "C. Tiap minggu", "isCorrect": false},
+        {"text": "D. Tidak pernah dirotasi", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Kelelahan mental terutama disebabkan oleh apa?",
+      "explanation": "Kelelahan mental disebabkan tuntutan kognitif tinggi dengan penurunan arousal.",
+      "difficulty": "MEDIUM",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. Tuntutan kognitif tinggi dengan penurunan arousal", "isCorrect": true},
+        {"text": "B. Deplesi ATP-PC otot saja", "isCorrect": false},
+        {"text": "C. Dehidrasi murni", "isCorrect": false},
+        {"text": "D. Kelebihan oksigen", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Sifat penting dari kelelahan kerja yang membedakannya dari kerusakan permanen adalah?",
+      "explanation": "Kelelahan kerja bersifat reversibel, yaitu dapat pulih dengan istirahat yang cukup.",
+      "difficulty": "EASY",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. Reversibel (pulih dengan istirahat)", "isCorrect": true},
+        {"text": "B. Selalu permanen", "isCorrect": false},
+        {"text": "C. Tidak dipengaruhi istirahat", "isCorrect": false},
+        {"text": "D. Hanya terjadi pada lansia", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pada kasus angkat semen, total konsumsi energi 2,0 kkal/menit tergolong ringan, namun Lifting Index NIOSH = 1,66 (>1,0). Apa kesimpulannya?",
+      "explanation": "Meski energi rendah (ringan), LI NIOSH 1,66 >1,0 berarti risiko cedera punggung tinggi sehingga perlu engineering control.",
+      "difficulty": "HARD",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. Aman total karena energi ringan", "isCorrect": false},
+        {"text": "B. Risiko cedera punggung tinggi meski energi rendah", "isCorrect": true},
+        {"text": "C. Pekerja harus berhenti permanen", "isCorrect": false},
+        {"text": "D. Beban boleh dinaikkan", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Lifting Index (LI) NIOSH dihitung dari berat beban dibagi RWL. Jika berat 25 kg dan RWL 15,1 kg, berapa LI-nya?",
+      "explanation": "LI = 25/15,1 = 1,66; nilai >1,0 menandakan risiko MSDs dan perlu engineering control.",
+      "difficulty": "HARD",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. 0,60", "isCorrect": false},
+        {"text": "B. 1,66", "isCorrect": true},
+        {"text": "C. 2,50", "isCorrect": false},
+        {"text": "D. 3,77", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pada WBGT <27°C dengan beban kerja ringan, rekomendasi ACGIH 2024 untuk work-rest cycle adalah?",
+      "explanation": "Pada WBGT <27°C, ACGIH 2024 mengizinkan work-rest cycle 100% kerja (kerja kontinu diperbolehkan).",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. 100% kerja diizinkan", "isCorrect": true},
+        {"text": "B. 25% kerja : 75% istirahat", "isCorrect": false},
+        {"text": "C. Kerja dilarang total", "isCorrect": false},
+        {"text": "D. 50% kerja : 50% istirahat", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Bila WBGT naik ke 28–30°C pada kasus angkat semen, ACGIH 2024 merekomendasikan work-rest cycle?",
+      "explanation": "Pada WBGT 28–30°C, ACGIH 2024 merekomendasikan 75% kerja : 25% istirahat.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. 100% kerja", "isCorrect": false},
+        {"text": "B. 75% kerja : 25% istirahat", "isCorrect": true},
+        {"text": "C. 0% kerja (libur)", "isCorrect": false},
+        {"text": "D. 90% kerja : 10% istirahat", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Untuk menurunkan Lifting Index <1,0 pada kasus angkat semen, intervensi ergonomi yang disarankan adalah?",
+      "explanation": "Intervensi: turunkan berat ke ≤15 kg atau gunakan vacuum lifter agar LI <1,0 sesuai hierarki pengendalian.",
+      "difficulty": "MEDIUM",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. Turunkan berat ke ≤15 kg atau gunakan vacuum lifter", "isCorrect": true},
+        {"text": "B. Naikkan frekuensi angkat", "isCorrect": false},
+        {"text": "C. Tambah berat beban", "isCorrect": false},
+        {"text": "D. Hilangkan waktu istirahat", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Validasi hasil perhitungan beban kerja sebaiknya dilakukan dengan mengukur apa di lapangan?",
+      "explanation": "Hasil perhitungan energi sebaiknya divalidasi dengan mengukur HR kerja (denyut jantung) di lapangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. HR kerja (denyut jantung)", "isCorrect": true},
+        {"text": "B. Tinggi badan pekerja", "isCorrect": false},
+        {"text": "C. Warna seragam", "isCorrect": false},
+        {"text": "D. Jumlah karyawan", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Apa kelemahan Tabel Lehmann yang dicatat dalam materi sehingga perlu NIOSH Lifting Equation untuk analisis lengkap?",
+      "explanation": "Tabel Lehmann tidak memasukkan faktor asimetri, kopling, dan durasi >2 jam, sehingga analisis lengkap memerlukan NIOSH Lifting Equation 2023.",
+      "difficulty": "HARD",
+      "tag": "Bioenergetika & Metabolisme Kerja",
+      "options": [
+        {"text": "A. Tidak memasukkan faktor asimetri, kopling, dan durasi >2 jam", "isCorrect": true},
+        {"text": "B. Tidak mengukur konsumsi energi sama sekali", "isCorrect": false},
+        {"text": "C. Hanya berlaku untuk wanita", "isCorrect": false},
+        {"text": "D. Tidak mempertimbangkan berat beban", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Stroke volume saat kerja fisik mengalami perubahan apa untuk meningkatkan cardiac output?",
+      "explanation": "Saat kerja fisik, stroke volume meningkat (bersama HR) untuk menaikkan cardiac output dan memenuhi kebutuhan O2 otot.",
+      "difficulty": "EASY",
+      "tag": "Sistem Kardiovaskular Saat Kerja",
+      "options": [
+        {"text": "A. Meningkat", "isCorrect": true},
+        {"text": "B. Menurun drastis", "isCorrect": false},
+        {"text": "C. Selalu nol", "isCorrect": false},
+        {"text": "D. Tidak berubah sama sekali", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Mengapa kerja statis menyebabkan fatigue jauh lebih cepat dibanding kerja dinamis (hingga 6 kali)?",
+      "explanation": "Kontraksi isometrik >20% MVC menekan pembuluh darah, menurunkan suplai O2, dan menumpuk metabolit sehingga fatigue muncul 6 kali lebih cepat.",
+      "difficulty": "HARD",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Kompresi pembuluh darah menurunkan suplai O2 dan menumpuk metabolit", "isCorrect": true},
+        {"text": "B. Otot memendek terlalu cepat", "isCorrect": false},
+        {"text": "C. Suhu otot meningkat sangat tinggi", "isCorrect": false},
+        {"text": "D. Produksi ATP meningkat berlebih", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Operator alat berat dengan beban 4,8 kkal/menit dan WBGT 29°C memerlukan siklus work-rest seperti apa?",
+      "explanation": "Operator dengan beban 4,8 kkal/menit + WBGT 29°C memerlukan siklus 45 menit kerja : 15 menit istirahat.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. 45 menit kerja : 15 menit istirahat", "isCorrect": true},
+        {"text": "B. 60 menit kerja tanpa istirahat", "isCorrect": false},
+        {"text": "C. 10 menit kerja : 50 menit istirahat", "isCorrect": false},
+        {"text": "D. Kerja dilarang sepenuhnya", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Evaluasi efektivitas waktu istirahat dapat dinilai dari HR pemulihan menit ke-1 dan RPE. Nilai mana yang menandakan istirahat memadai?",
+      "explanation": "Istirahat efektif ditandai HR pemulihan <110 dpm pada menit ke-1 dan RPE <13.",
+      "difficulty": "HARD",
+      "tag": "Kelelahan Kerja / Fatigue",
+      "options": [
+        {"text": "A. HR pemulihan <110 dpm menit ke-1 dan RPE <13", "isCorrect": true},
+        {"text": "B. HR pemulihan >150 dpm dan RPE >18", "isCorrect": false},
+        {"text": "C. HR pemulihan tidak relevan", "isCorrect": false},
+        {"text": "D. RPE >17 menandakan pemulihan baik", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Pekerja dengan VO2max tinggi (bugar) mencapai %CVL 40% pada beban kerja berapa?",
+      "explanation": "Pekerja bugar (VO2max tinggi) mencapai %CVL 40% pada beban 5,5 kkal/menit, lebih tinggi dibanding pekerja VO2max rendah (3,5 kkal/menit).",
+      "difficulty": "HARD",
+      "tag": "Kapasitas Kerja Fisik",
+      "options": [
+        {"text": "A. 1,5 kkal/menit", "isCorrect": false},
+        {"text": "B. 3,5 kkal/menit", "isCorrect": false},
+        {"text": "C. 5,5 kkal/menit", "isCorrect": true},
+        {"text": "D. 10 kkal/menit", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Heat stress yang tidak terkendali dapat menurunkan performa kognitif-motorik pekerja. Apa dampak K3 utamanya?",
+      "explanation": "Penurunan performa kognitif-motorik akibat heat strain meningkatkan risiko human error dan kecelakaan kerja.",
+      "difficulty": "EASY",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. Meningkatkan risiko human error dan kecelakaan kerja", "isCorrect": true},
+        {"text": "B. Meningkatkan produktivitas pekerja", "isCorrect": false},
+        {"text": "C. Menurunkan suhu inti tubuh", "isCorrect": false},
+        {"text": "D. Tidak berdampak pada keselamatan", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Slow-twitch tipe I dan fast-twitch tipe IIx adalah klasifikasi dari apa?",
+      "explanation": "Slow-twitch tipe I dan fast-twitch tipe IIx adalah klasifikasi unit motor (motor unit) berdasarkan karakteristik kontraksinya.",
+      "difficulty": "EASY",
+      "tag": "Sistem Otot Rangka dalam Kerja",
+      "options": [
+        {"text": "A. Unit motor (motor unit)", "isCorrect": true},
+        {"text": "B. Jenis pembuluh darah", "isCorrect": false},
+        {"text": "C. Tipe sistem energi", "isCorrect": false},
+        {"text": "D. Indeks pajanan panas", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "Kapan diperlukan re-acclimatization (aklimatisasi ulang) pada pekerja yang sudah teraklimatisasi panas?",
+      "explanation": "Aklimatisasi hilang dalam 7–21 hari tanpa pajanan, sehingga diperlukan re-acclimatization 4 hari setelah cuti >7 hari.",
+      "difficulty": "MEDIUM",
+      "tag": "Termoregulasi & Heat Stress",
+      "options": [
+        {"text": "A. Re-acclimatization 4 hari setelah cuti >7 hari", "isCorrect": true},
+        {"text": "B. Tidak pernah perlu aklimatisasi ulang", "isCorrect": false},
+        {"text": "C. Setelah cuti 1 hari", "isCorrect": false},
+        {"text": "D. Hanya setelah pensiun", "isCorrect": false}
+      ]
+    },
+    {
+      "text": "VO2 (konsumsi oksigen) saat kerja memiliki hubungan seperti apa dengan heart rate (HR)?",
+      "explanation": "VO2 berhubungan linier dengan HR pada intensitas 50–85% HRmax, sehingga HR dipakai sebagai estimasi beban kerja.",
+      "difficulty": "MEDIUM",
+      "tag": "Sistem Pernapasan Saat Kerja",
+      "options": [
+        {"text": "A. Linier pada intensitas 50–85% HRmax", "isCorrect": true},
+        {"text": "B. Berbanding terbalik", "isCorrect": false},
+        {"text": "C. Tidak ada hubungan sama sekali", "isCorrect": false},
+        {"text": "D. Selalu konstan tanpa pengaruh HR", "isCorrect": false}
+      ]
+    }
+  ],
+  "flashcards": [
+    {"front": "Bioenergetika kerja", "back": "Studi transformasi energi kimia menjadi energi mekanis saat aktivitas fisik; dasar penentuan beban kerja fisik di K3.", "tag": "Bioenergetika & Metabolisme Kerja"},
+    {"front": "Klasifikasi beban kerja ILO (kkal/menit)", "back": "Ringan <2,5; sedang 2,5–5,0; berat 5,0–7,5; sangat berat >7,5 kkal/menit.", "tag": "Bioenergetika & Metabolisme Kerja"},
+    {"front": "Tiga sistem energi", "back": "(1) ATP-PC/fosfagen (<10 detik), (2) glikolisis anaerobik (10 detik–2 menit, hasilkan laktat), (3) oksidatif (>2 menit, dominan industri).", "tag": "Bioenergetika & Metabolisme Kerja"},
+    {"front": "Rumus Lifting Energy (Garg)", "back": "LE = berat (kg) x tinggi (m) x frekuensi (kali/menit) x 0,0024 kkal/kg.m; tambah basal 1,5 + postural 0,3 kkal/menit.", "tag": "Bioenergetika & Metabolisme Kerja"},
+    {"front": "Kontraksi isotonik vs isometrik", "back": "Isotonik dinamis: otot memendek, tegangan konstan (manual handling). Isometrik statis: tegang tanpa perubahan panjang, fatigue cepat karena aliran darah terhambat.", "tag": "Sistem Otot Rangka dalam Kerja"},
+    {"front": "Unit motor tipe I vs IIx", "back": "Slow-twitch tipe I: kerja endurance, kapasitas aerobik tinggi. Fast-twitch tipe IIx: kerja berat durasi pendek.", "tag": "Sistem Otot Rangka dalam Kerja"},
+    {"front": "Penyebab muscular fatigue", "back": "Akumulasi asam laktat, penurunan pH, dan deplesi glikogen; kapasitas kerja turun 15–30% setelah 1 jam kerja statis.", "tag": "Sistem Otot Rangka dalam Kerja"},
+    {"front": "Rumus %CVL", "back": "%CVL = (HR kerja – HR istirahat)/(HRmax – HR istirahat) x 100%. HRmax = 220 – umur.", "tag": "Sistem Kardiovaskular Saat Kerja"},
+    {"front": "Batas %CVL ACGIH 2024", "back": "<30% aman 8 jam; 30–40% perlu istirahat 50%; >40% risiko fatigue akut, kerja <1 jam.", "tag": "Sistem Kardiovaskular Saat Kerja"},
+    {"front": "HRR (Heart Rate Reserve)", "back": "HRR = HRmax – HR istirahat; HR berkorelasi linier dengan VO2 pada 50–85% HRmax.", "tag": "Sistem Kardiovaskular Saat Kerja"},
+    {"front": "Ventilatory threshold", "back": "Titik (55–65% VO2max) di mana ventilasi berhenti linier dan naik eksponensial akibat akumulasi laktat.", "tag": "Sistem Pernapasan Saat Kerja"},
+    {"front": "VO2max normal usia 20–29 th", "back": "Pria 42–46 ml/kg/menit; wanita 35–38 ml/kg/menit. VO2max = penentu kapasitas kerja aerobik (KKF).", "tag": "Sistem Pernapasan Saat Kerja"},
+    {"front": "Beban respirator", "back": "Respirator menaikkan beban pernapasan 10–15%, perlu koreksi rest allowance +5%.", "tag": "Sistem Pernapasan Saat Kerja"},
+    {"front": "Suhu inti normal & heat strain", "back": "Suhu inti normal 36,1–37,2°C; heat strain bila suhu inti >38°C disertai HR naik dan performa kognitif-motorik turun.", "tag": "Termoregulasi & Heat Stress"},
+    {"front": "WBGT", "back": "Wet Bulb Globe Temperature, indeks pajanan panas utama (ISO 7243:2023); rest harus di tempat WBGT <27°C.", "tag": "Termoregulasi & Heat Stress"},
+    {"front": "Aklimatisasi panas", "back": "Adaptasi 7–14 hari: volume plasma naik 10–12%, laju keringat 1,0→1,5 L/jam, NaCl keringat turun 60→10 mmol/L.", "tag": "Termoregulasi & Heat Stress"},
+    {"front": "Kapasitas Kerja Fisik (KKF)", "back": "Kemampuan maksimal melakukan kerja aerobik, diukur via VO2max (ml/kg/menit atau METs).", "tag": "Kapasitas Kerja Fisik"},
+    {"front": "Prinsip 33% VO2max", "back": "Beban kerja aman untuk 8 jam tanpa fatigue berlebih = 33% VO2max individu.", "tag": "Kapasitas Kerja Fisik"},
+    {"front": "Penurunan KKF & gender", "back": "KKF turun 1%/tahun setelah usia 30; wanita 15–30% lebih rendah dari pria usia sama.", "tag": "Kapasitas Kerja Fisik"},
+    {"front": "Definisi fatigue (ISO 10075-1)", "back": "Penurunan kapasitas fungsional fisik & mental akibat aktivitas berkepanjangan, bersifat reversibel dengan istirahat.", "tag": "Kelelahan Kerja / Fatigue"},
+    {"front": "Indikator objektif kelelahan", "back": "HR naik 5–10 dpm pada beban sama, flicker fusion turun, reaction time memanjang >15%, RPE Borg >15, %CVL >40% >30 menit.", "tag": "Kelelahan Kerja / Fatigue"},
+    {"front": "Rest allowance kerja statis", "back": "Kerja statis 1 menit butuh istirahat 6 menit karena hambatan aliran darah; RA ILO = (Beban – 4,0) x 1,67 untuk 4–6 kkal/menit.", "tag": "Kelelahan Kerja / Fatigue"},
+    {"front": "Klasifikasi VO2max ACSM (pria 20–29)", "back": "Superior >51, excellent 46–51, good 42–45, fair 35–41, poor <35 ml/kg/menit.", "tag": "Kapasitas Kerja Fisik"},
+    {"front": "Empat jenis kelelahan", "back": "(1) otot (deplesi ATP-PC), (2) umum (cardiovascular drift, dehidrasi), (3) mental (kognitif tinggi), (4) kronis (shift work, sleep debt).", "tag": "Kelelahan Kerja / Fatigue"}
+  ],
+  "mindmap": [
+    {"id": "root", "label": "Beban Kerja Fisik", "color": "#6366f1", "parent": null, "content": "Respons & adaptasi tubuh terhadap tuntutan kerja, diukur dan dijaga dalam batas kapasitas fisiologis untuk cegah fatigue dan PAK."},
+    {"id": "bioenergetika", "label": "Bioenergetika & Metabolisme", "color": "#8b5cf6", "parent": "root", "content": "Transformasi energi kimia menjadi mekanis; dasar penentuan beban kerja fisik."},
+    {"id": "sistem-energi", "label": "3 Sistem Energi", "color": "#a78bfa", "parent": "bioenergetika", "content": "ATP-PC (<10 detik), glikolisis anaerobik (10 detik–2 menit, laktat), oksidatif (>2 menit, dominan industri)."},
+    {"id": "klasifikasi-ilo", "label": "Klasifikasi ILO", "color": "#a78bfa", "parent": "bioenergetika", "content": "Ringan <2,5; sedang 2,5–5,0; berat 5,0–7,5; sangat berat >7,5 kkal/menit."},
+    {"id": "tabel-lehmann", "label": "Perhitungan Energi (Lehmann/Garg)", "color": "#a78bfa", "parent": "bioenergetika", "content": "LE = berat x tinggi x frekuensi x 0,0024; tambah basal 1,5 + postural 0,3 kkal/menit; koreksi wanita 0,8."},
+    {"id": "li-niosh", "label": "Lifting Index NIOSH", "color": "#c4b5fd", "parent": "bioenergetika", "content": "LI = berat/RWL; >1,0 berisiko MSDs/cedera punggung walau energi rendah, perlu engineering control."},
+    {"id": "otot", "label": "Sistem Otot Rangka", "color": "#8b5cf6", "parent": "root", "content": "Efektor utama; ubah ATP jadi kerja mekanis via sliding filament aktin-miosin."},
+    {"id": "kontraksi", "label": "Jenis Kontraksi", "color": "#a78bfa", "parent": "otot", "content": "Isotonik dinamis (manual handling) vs isometrik statis (fatigue cepat, aliran darah terhambat)."},
+    {"id": "unit-motor", "label": "Unit Motor", "color": "#a78bfa", "parent": "otot", "content": "Slow-twitch tipe I (endurance, aerobik) vs fast-twitch tipe IIx (kerja berat singkat)."},
+    {"id": "muscular-fatigue", "label": "Muscular Fatigue", "color": "#c4b5fd", "parent": "otot", "content": "Asam laktat, pH turun, deplesi glikogen; kapasitas turun 15–30% setelah 1 jam kerja statis; ukur EMG."},
+    {"id": "kardiovaskular", "label": "Sistem Kardiovaskular", "color": "#8b5cf6", "parent": "root", "content": "HR, stroke volume, cardiac output naik untuk suplai O2 otot; HR indikator utama beban."},
+    {"id": "cvl", "label": "%CVL & HRmax", "color": "#a78bfa", "parent": "kardiovaskular", "content": "%CVL = (HRkerja–HRist)/(HRmax–HRist) x100%; HRmax = 220–umur; HRR = HRmax–HRist."},
+    {"id": "batas-cvl", "label": "Batas ACGIH 2024", "color": "#c4b5fd", "parent": "kardiovaskular", "content": "<30% aman 8 jam; 30–40% istirahat 50%; >40% fatigue akut, kerja <1 jam."},
+    {"id": "pernapasan", "label": "Sistem Pernapasan", "color": "#8b5cf6", "parent": "root", "content": "Suplai O2, eliminasi CO2; parameter: tidal volume, VE, VO2."},
+    {"id": "vo2max", "label": "VO2max", "color": "#a78bfa", "parent": "pernapasan", "content": "Penentu KKF aerobik; normal pria 42–46, wanita 35–38 ml/kg/menit (20–29 th)."},
+    {"id": "vent-threshold", "label": "Ventilatory Threshold", "color": "#c4b5fd", "parent": "pernapasan", "content": "55–65% VO2max; di atasnya ventilasi naik eksponensial. VE/VO2 >35 = inefisiensi."},
+    {"id": "step-test", "label": "Tes Lapangan", "color": "#c4b5fd", "parent": "pernapasan", "content": "YMCA/Harvard/Queen's College Step Test, Astrand-Rhyming bicycle untuk estimasi VO2max."},
+    {"id": "termoregulasi", "label": "Termoregulasi & Heat Stress", "color": "#8b5cf6", "parent": "root", "content": "Suhu inti 36,1–37,2°C via radiasi, konveksi, konduksi, evaporasi; heat strain bila >38°C."},
+    {"id": "wbgt", "label": "WBGT (ISO 7243:2023)", "color": "#a78bfa", "parent": "termoregulasi", "content": "Indeks pajanan panas utama; rest di tempat WBGT <27°C; action limit ACGIH per %kerja/jam."},
+    {"id": "aklimatisasi", "label": "Aklimatisasi Panas", "color": "#a78bfa", "parent": "termoregulasi", "content": "7–14 hari: plasma +10–12%, keringat 1,0→1,5 L/jam, NaCl keringat 60→10 mmol/L."},
+    {"id": "heat-strain", "label": "Indikator Heat Strain", "color": "#c4b5fd", "parent": "termoregulasi", "content": "HR pemulihan >110 dpm menit-1, suhu timpani >38,5°C, kehilangan cairan >1,5% BB."},
+    {"id": "kkf", "label": "Kapasitas Kerja Fisik", "color": "#8b5cf6", "parent": "root", "content": "Kemampuan maksimal kerja aerobik via VO2max; prinsip 33% VO2max untuk kerja 8 jam aman."},
+    {"id": "faktor-kkf", "label": "Faktor KKF", "color": "#a78bfa", "parent": "kkf", "content": "Internal: usia, gender, gizi, Hb, kebugaran. Eksternal: suhu, ketinggian, waktu kerja."},
+    {"id": "klasifikasi-vo2", "label": "Klasifikasi VO2max", "color": "#c4b5fd", "parent": "kkf", "content": "ACSM pria 20–29: superior >51, excellent 46–51, good 42–45, fair 35–41, poor <35."},
+    {"id": "penurunan-kkf", "label": "Penurunan KKF", "color": "#c4b5fd", "parent": "kkf", "content": "Turun 1%/tahun setelah usia 30; wanita 15–30% lebih rendah; latihan aerobik naikkan VO2max 10–15%."},
+    {"id": "fatigue", "label": "Kelelahan Kerja / Fatigue", "color": "#8b5cf6", "parent": "root", "content": "Penurunan kapasitas fungsional reversibel dengan istirahat (ISO 10075-1)."},
+    {"id": "jenis-fatigue", "label": "Jenis Kelelahan", "color": "#a78bfa", "parent": "fatigue", "content": "Otot (deplesi ATP-PC), umum (cardiovascular drift, dehidrasi), mental, kronis (shift work, sleep debt)."},
+    {"id": "indikator-fatigue", "label": "Indikator Fatigue", "color": "#a78bfa", "parent": "fatigue", "content": "HR +5–10 dpm, flicker fusion turun, reaction time +15%, RPE Borg >15, %CVL >40% >30 menit."},
+    {"id": "rest-allowance", "label": "Rest Allowance", "color": "#c4b5fd", "parent": "fatigue", "content": "RA ILO = (Beban–4,0)x1,67 (4–6 kkal/menit); kerja statis 1 menit butuh istirahat 6 menit."},
+    {"id": "work-rest", "label": "Work-Rest Cycle", "color": "#c4b5fd", "parent": "fatigue", "content": "Contoh: beban 4,8 kkal/menit + WBGT 29°C = 45 menit kerja : 15 menit istirahat; evaluasi via HR pemulihan & RPE."}
+  ]
+}

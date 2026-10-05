@@ -67,6 +67,19 @@ export default function AdminDashboard() {
             <HardestQuestions rows={data.hardestQuestions} />
           </div>
 
+          {/* ── Insights: kapan & bagaimana user belajar ── */}
+          <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
+            <HourHeatmap
+              byHour={data.insights.byHour}
+              peakHour={data.insights.peakHour}
+            />
+            <ActivityBreakdown
+              rows={data.insights.activityBreakdown}
+              total={data.insights.totalActivity}
+            />
+          </div>
+          <CoverageBar coverage={data.insights.coverage} />
+
           {/* ── Quick actions ── */}
           <div>
             <h2 className="mb-4 text-xl font-semibold text-foreground">Aksi Cepat</h2>
@@ -267,6 +280,177 @@ function HardestQuestions({
   );
 }
 
+const TYPE_LABEL: Record<string, string> = {
+  LOGIN: "Login",
+  VIEW_DASHBOARD: "Buka dashboard",
+  VIEW_SEMESTER: "Lihat semester",
+  VIEW_SUBJECT: "Lihat mata kuliah",
+  VIEW_TOPIC: "Lihat topik",
+  START_QUIZ: "Mulai quiz",
+  FINISH_QUIZ: "Selesai quiz",
+  REVIEW_FLASHCARD: "Review flashcard",
+  VIEW_MINDMAP: "Lihat mindmap",
+  VIEW_LEADERBOARD: "Lihat leaderboard",
+  VIEW_HISTORY: "Lihat riwayat",
+  OTHER: "Lainnya",
+};
+
+function HourHeatmap({
+  byHour,
+  peakHour,
+}: {
+  byHour: { hour: number; count: number }[];
+  peakHour: number | null;
+}) {
+  const max = Math.max(1, ...byHour.map((h) => h.count));
+  const fmt = (h: number) => `${String(h).padStart(2, "0")}.00`;
+  return (
+    <div className="rounded-xl border border-border bg-card p-4">
+      <div className="mb-3 flex items-baseline justify-between">
+        <p className="text-sm font-semibold uppercase tracking-wider text-muted-foreground">
+          Jam Sibuk Belajar
+        </p>
+        <span className="text-xs text-muted-foreground">WIB</span>
+      </div>
+      <div className="flex h-28 items-end justify-between gap-px">
+        {byHour.map((h) => (
+          <div key={h.hour} className="group relative flex flex-1 flex-col items-center justify-end">
+            <div
+              className={`w-full rounded-t transition-colors ${
+                h.hour === peakHour ? "bg-primary" : "bg-primary/40 group-hover:bg-primary/70"
+              }`}
+              style={{ height: `${(h.count / max) * 100}%`, minHeight: h.count > 0 ? "3px" : "0" }}
+            />
+            <div className="pointer-events-none absolute bottom-full mb-1 hidden whitespace-nowrap rounded bg-popover px-2 py-1 text-[10px] text-popover-foreground shadow group-hover:block">
+              {fmt(h.hour)} · {h.count} aktivitas
+            </div>
+          </div>
+        ))}
+      </div>
+      <div className="mt-1 flex justify-between text-[10px] text-muted-foreground">
+        <span>00</span>
+        <span>06</span>
+        <span>12</span>
+        <span>18</span>
+        <span>23</span>
+      </div>
+      <p className="mt-2 text-xs text-muted-foreground">
+        {peakHour === null
+          ? "Belum ada aktivitas."
+          : `Paling ramai sekitar pukul ${fmt(peakHour)}`}
+      </p>
+    </div>
+  );
+}
+
+function ActivityBreakdown({
+  rows,
+  total,
+}: {
+  rows: { type: string; count: number; pct: number }[];
+  total: number;
+}) {
+  return (
+    <div className="lg:col-span-2 rounded-xl border border-border bg-card p-4">
+      <div className="mb-3 flex items-baseline justify-between">
+        <p className="text-sm font-semibold uppercase tracking-wider text-muted-foreground">
+          Rincian Aktivitas
+        </p>
+        <span className="text-xs text-muted-foreground">{total} total</span>
+      </div>
+      <div className="grid grid-cols-1 gap-x-6 gap-y-2.5 sm:grid-cols-2">
+        {rows.length === 0 && <p className="text-sm text-muted-foreground">Belum ada aktivitas.</p>}
+        {rows.map((r) => (
+          <div key={r.type}>
+            <div className="mb-1 flex items-center justify-between text-sm">
+              <span className="min-w-0 flex-1 truncate text-foreground">
+                {TYPE_LABEL[r.type] ?? r.type}
+              </span>
+              <span className="ml-2 text-xs text-muted-foreground">{r.pct}%</span>
+              <span className="ml-3 w-12 text-right font-semibold tabular-nums text-foreground">
+                {r.count}
+              </span>
+            </div>
+            <div className="h-1.5 w-full overflow-hidden rounded-full bg-muted">
+              <div className="h-full rounded-full bg-primary/70" style={{ width: `${r.pct}%` }} />
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function CoverageBar({
+  coverage,
+}: {
+  coverage: {
+    totalTopics: number;
+    attemptedTopics: number;
+    totalSubjects: number;
+    attemptedSubjects: number;
+  };
+}) {
+  const topicPct =
+    coverage.totalTopics > 0
+      ? Math.round((coverage.attemptedTopics / coverage.totalTopics) * 100)
+      : 0;
+  const subjectPct =
+    coverage.totalSubjects > 0
+      ? Math.round((coverage.attemptedSubjects / coverage.totalSubjects) * 100)
+      : 0;
+  return (
+    <div className="rounded-xl border border-border bg-card p-4">
+      <p className="mb-3 text-sm font-semibold uppercase tracking-wider text-muted-foreground">
+        Cakupan Konten yang Dipelajari
+      </p>
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+        <CoverageRow
+          label="Topik tersentuh quiz"
+          done={coverage.attemptedTopics}
+          total={coverage.totalTopics}
+          pct={topicPct}
+        />
+        <CoverageRow
+          label="Mata kuliah tersentuh quiz"
+          done={coverage.attemptedSubjects}
+          total={coverage.totalSubjects}
+          pct={subjectPct}
+        />
+      </div>
+    </div>
+  );
+}
+
+function CoverageRow({
+  label,
+  done,
+  total,
+  pct,
+}: {
+  label: string;
+  done: number;
+  total: number;
+  pct: number;
+}) {
+  return (
+    <div>
+      <div className="mb-1 flex items-baseline justify-between text-sm">
+        <span className="text-foreground">{label}</span>
+        <span className="text-xs text-muted-foreground">
+          <span className="font-semibold text-foreground">{done}</span> / {total} · {pct}%
+        </span>
+      </div>
+      <div className="h-2 w-full overflow-hidden rounded-full bg-muted">
+        <div
+          className={`h-full rounded-full ${pct >= 70 ? "bg-emerald-500" : pct >= 40 ? "bg-amber-500" : "bg-blue-500"}`}
+          style={{ width: `${pct}%` }}
+        />
+      </div>
+    </div>
+  );
+}
+
 function ActionCard({ href, icon, title, desc }: { href: string; icon: string; title: string; desc: string }) {
   return (
     <Link href={href}>
@@ -295,6 +479,11 @@ function DashboardSkeleton() {
         <div className="h-56 animate-pulse rounded-xl border border-border bg-card" />
         <div className="h-56 animate-pulse rounded-xl border border-border bg-card" />
       </div>
+      <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
+        <div className="h-44 animate-pulse rounded-xl border border-border bg-card" />
+        <div className="h-44 animate-pulse rounded-xl border border-border bg-card lg:col-span-2" />
+      </div>
+      <div className="h-28 animate-pulse rounded-xl border border-border bg-card" />
     </div>
   );
 }

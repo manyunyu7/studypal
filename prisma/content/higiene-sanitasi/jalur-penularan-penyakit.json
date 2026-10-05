@@ -1,0 +1,3045 @@
+{
+  "topic": "Jalur Penularan Penyakit akibat Higiene Sanitasi Buruk",
+  "order": 7,
+  "description": "Materi ini membahas berbagai jalur penularan penyakit yang dipicu oleh higiene dan sanitasi yang buruk, mulai dari jalur utama Fekal-Oral (F-diagram) hingga jalur udara, vektor, air, makanan, serta kontak langsung dan tidak langsung. Dibahas pula mekanisme penularan, patogen yang terlibat, dan upaya pencegahan melalui personal hygiene, sanitasi lingkungan, dan PHBS.",
+  "subtopics": [
+    "Konsep Higiene Sanitasi Buruk",
+    "Jalur Fekal-Oral (F-diagram)",
+    "Jalur Udara (Airborne)",
+    "Jalur Vektor (Vector-borne)",
+    "Jalur Air (Waterborne)",
+    "Jalur Makanan (Foodborne)",
+    "Kontak Langsung & Tidak Langsung",
+    "Pencegahan Penularan"
+  ],
+  "questions": [
+    {
+      "text": "Apa yang menjadi pemicu utama meningkatnya risiko penyakit menular melalui berbagai jalur pajanan menurut materi ini?",
+      "explanation": "Materi menegaskan bahwa higiene dan sanitasi yang buruk meningkatkan risiko penyakit menular melalui berbagai jalur pajanan.",
+      "difficulty": "EASY",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Faktor genetik individu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Perubahan iklim global",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kekurangan gizi semata",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Higiene dan sanitasi yang buruk",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Jalur penularan penyakit yang disebut sebagai jalur utama akibat higiene sanitasi buruk adalah?",
+      "explanation": "Materi menyebut Fekal-Oral (F-diagram) sebagai jalur utama, sementara airborne, vektor, makanan, air, dan kontak adalah jalur penularan lain.",
+      "difficulty": "EASY",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Airborne (udara)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Vector-borne (vektor)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Fekal-Oral (F-diagram)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Waterborne (air)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berikut ini yang termasuk jalur penularan lain (other transmission routes) selain jalur utama, KECUALI?",
+      "explanation": "Jalur penularan lain meliputi airborne, vector-borne, foodborne, waterborne, serta kontak langsung dan tidak langsung. Fekal-Oral adalah jalur utama, bukan jalur lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Airborne (udara)",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Vector-borne (vektor)",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Fekal-Oral (F-diagram)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Foodborne (makanan)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Empat huruf 'F' dalam F-diagram jalur Fekal-Oral merujuk pada Fluids, Fields, Flies, dan?",
+      "explanation": "Empat F dalam F-diagram adalah Fluids (cairan/air), Fields (tanah/lahan), Flies (lalat/serangga), dan Fingers (jari/tangan).",
+      "difficulty": "EASY",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Food",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Fever",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Fungus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Fingers (Jari/Tangan)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Mengapa higiene dan sanitasi yang buruk dianggap berbahaya bagi kesehatan masyarakat?",
+      "explanation": "Karena kondisi tersebut membuka berbagai jalur pajanan penyakit menular sehingga risiko penularan meningkat.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Hanya memengaruhi penampilan fisik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tidak berkaitan dengan penyakit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membuka berbagai jalur pajanan penyakit menular",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Hanya berdampak pada lingkungan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam F-diagram, huruf 'Fields' merujuk pada media apa sebagai jalur penularan?",
+      "explanation": "Fields dalam F-diagram merujuk pada tanah/lahan sebagai media penularan, misalnya melalui BAB sembarangan di tanah.",
+      "difficulty": "EASY",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Udara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Air laut",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Api",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tanah/Lahan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Pernyataan yang benar mengenai konsep dasar jalur penularan akibat higiene sanitasi buruk adalah?",
+      "explanation": "Materi menjelaskan ada satu jalur utama (Fekal-Oral) dan beberapa jalur penularan lain seperti udara, vektor, makanan, air, dan kontak.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Hanya ada satu jalur penularan tunggal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Semua jalur memiliki bobot yang persis sama",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Jalur penularan tidak dipengaruhi sanitasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Terdapat jalur utama dan beberapa jalur penularan lain",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Istilah 'Fluids' dalam F-diagram paling tepat dikaitkan dengan?",
+      "explanation": "Fluids merujuk pada cairan/air, yaitu air minum atau air bersih yang tercemar kotoran manusia atau limbah domestik.",
+      "difficulty": "EASY",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Debu kering",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Asap pembakaran",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Cairan/Air yang tercemar",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sinar matahari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan akhir mempelajari berbagai jalur penularan penyakit akibat higiene sanitasi buruk adalah?",
+      "explanation": "Pemahaman jalur penularan bertujuan untuk memutus rantai penularan kuman, bakteri, dan virus melalui pencegahan yang tepat.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Memperbanyak jenis penyakit",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengabaikan kebersihan diri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Meningkatkan kepadatan hunian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memutus rantai penularan penyakit",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Jalur penularan melalui 'Flies' dalam F-diagram melibatkan organisme?",
+      "explanation": "Flies merujuk pada lalat/serangga yang memindahkan patogen secara mekanis dari tinja ke makanan.",
+      "difficulty": "EASY",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Nyamuk khusus malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Cacing tanah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tikus",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lalat/serangga",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "F-diagram pada dasarnya menggambarkan bagaimana kuman dari sumber tertentu berpindah ke tubuh manusia. Sumber kuman utama dalam diagram ini adalah?",
+      "explanation": "F-diagram menggambarkan perpindahan kuman dari feses (kotoran manusia) menuju mulut melalui empat media F.",
+      "difficulty": "MEDIUM",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Asap kendaraan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Air hujan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Serbuk sari tanaman",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Feses (kotoran manusia)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Pencegahan penularan penyakit akibat higiene dan sanitasi buruk menurut materi memerlukan kombinasi antara?",
+      "explanation": "Pencegahan memerlukan kombinasi kebersihan diri (personal hygiene) dan perbaikan lingkungan (sanitasi).",
+      "difficulty": "EASY",
+      "tag": "Konsep Higiene Sanitasi Buruk",
+      "options": [
+        {
+          "text": "A. Pengobatan dan operasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Isolasi dan karantina total",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Vaksinasi tunggal",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Personal hygiene dan perbaikan sanitasi lingkungan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Jalur Fekal-Oral (Feses ke Mulut) didefinisikan sebagai jalur di mana?",
+      "explanation": "Jalur Fekal-Oral adalah jalur di mana kuman dari kotoran manusia (feses) yang terinfeksi masuk ke tubuh orang lain melalui mulut.",
+      "difficulty": "EASY",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Kuman masuk melalui pernapasan",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kuman ditularkan melalui gigitan nyamuk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kuman dari kotoran manusia masuk ke tubuh orang lain melalui mulut",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Kuman menembus kulit secara langsung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bakteri berikut yang disebut materi sebagai penyebab tipes dan sering berpindah melalui jalur Fekal-Oral adalah?",
+      "explanation": "Materi menyebut Salmonella sebagai penyebab tipes di antara bakteri jalur Fekal-Oral.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Norovirus",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hepatitis A",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Salmonella",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Mycobacterium",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Virus yang disebutkan sebagai penyebab diare/muntah hebat dalam jalur Fekal-Oral adalah?",
+      "explanation": "Norovirus disebut sebagai penyebab diare/muntah hebat, sedangkan Hepatitis A juga termasuk virus jalur ini.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Influenza",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Zika",
+          "isCorrect": false
+        },
+        {
+          "text": "C. COVID-19",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Norovirus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, mengapa tangan yang terlihat bersih pun tetap berbahaya dalam penularan Fekal-Oral?",
+      "explanation": "Feses manusia mengandung triliunan kuman, sehingga tangan dapat membawa patogen meskipun terlihat bersih.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Karena kulit tangan selalu basah",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena tangan tidak punya pori-pori",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena sabun memperbanyak kuman",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena feses manusia mengandung triliunan kuman",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Pada elemen 'Fingers', perpindahan patogen terjadi akibat?",
+      "explanation": "Tangan yang tidak dicuci bersih dengan sabun setelah BAB dapat memindahkan bakteri/virus ke makanan atau permukaan yang disentuh.",
+      "difficulty": "EASY",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Memakai sarung tangan steril",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mencuci tangan terlalu sering",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tangan yang tidak dicuci bersih dengan sabun setelah BAB",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Menggunakan hand sanitizer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lalat dapat memindahkan patogen ke makanan melalui mekanisme regurgitasi, yang artinya?",
+      "explanation": "Karena tidak memiliki gigi, lalat memuntahkan cairan pencernaan (enzim dan sisa makanan) untuk melunakkan makanan padat.",
+      "difficulty": "HARD",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Lalat mengunyah makanan dengan giginya",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Lalat menyerap makanan lewat kaki",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lalat menyimpan makanan di sayapnya",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Lalat memuntahkan cairan pencernaan untuk melunakkan makanan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Selain regurgitasi dan kontaminasi tubuh/kaki, mekanisme lalat memindahkan patogen ke makanan juga melalui?",
+      "explanation": "Lalat sering melakukan defekasi (buang kotoran) saat hinggap di atas makanan, sehingga mencemari makanan tersebut.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Menghasilkan racun dari sayap",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menggigit dengan taring",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memancarkan radiasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Defekasi (buang kotoran) saat hinggap di makanan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, berapa lama waktu yang dibutuhkan lalat untuk memindahkan bakteri berbahaya dari kotoran ke makanan?",
+      "explanation": "Hanya butuh hitungan detik hingga menit bagi lalat untuk memindahkan bakteri seperti Salmonella, E. coli, dan Shigella.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Beberapa hari",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Beberapa minggu",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hitungan detik hingga menit",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Beberapa jam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada elemen 'Fluids' dalam jalur Fekal-Oral, sumber penularan utama adalah?",
+      "explanation": "Air minum atau air bersih yang tercemar kotoran manusia atau limbah domestik yang mengandung bakteri/parasit.",
+      "difficulty": "EASY",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Air laut yang asin",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Embun pagi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Air minum/air bersih yang tercemar kotoran manusia",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Air hujan murni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cacing tambang yang berasal dari tinja di tanah dapat menginfeksi manusia melalui cara?",
+      "explanation": "Larva cacing tambang di tanah dapat menembus kulit kaki manusia yang tidak menggunakan alas kaki, lalu masuk ke aliran darah.",
+      "difficulty": "HARD",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Gigitan nyamuk",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pernapasan udara",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Transfusi darah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menembus kulit kaki yang tidak beralas kaki",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Pada elemen 'Fields', BAB sembarangan di tanah dapat mencemari sayuran karena?",
+      "explanation": "Kuman patogen dan telur cacing dari tanah dapat menempel pada sayuran yang ditanam di atasnya, lalu menginfeksi bila dikonsumsi mentah/kurang matang.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Sayuran menyerap cahaya matahari",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sayuran tumbuh terlalu cepat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sayuran menjadi terlalu matang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Telur cacing dan kuman dari tanah menempel pada sayuran",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Telur cacing yang dilepaskan tinja ke tanah berkembang menjadi bentuk yang berbahaya, yaitu?",
+      "explanation": "Telur cacing seperti cacing tambang, gelang, dan cambuk berkembang menjadi larva infektif di tanah.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Spora jamur",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kristal mineral",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Larva infektif",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Virus mutan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Bakteri Shigella, Salmonella, dan E. coli dapat dipindahkan oleh lalat ke makanan. Mekanisme perpindahan ini disebut sebagai penularan?",
+      "explanation": "Lalat memindahkan patogen secara mekanis, yaitu hinggap di tinja terbuka lalu hinggap di makanan tanpa patogen berkembang biak di tubuhnya.",
+      "difficulty": "HARD",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Genetik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Vertikal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mekanis",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Seksual",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk mencegah infeksi cacing tambang yang menembus kulit kaki melalui tanah, hal paling sederhana yang dapat dilakukan adalah?",
+      "explanation": "Karena larva menembus kulit kaki yang tidak beralas, menggunakan alas kaki menjadi pencegahan langsung sesuai mekanisme yang dijelaskan.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Menggunakan masker",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menutup jendela",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Memakai kacamata",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menggunakan alas kaki",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Pasangan patogen dan jenisnya yang benar pada jalur Fekal-Oral adalah?",
+      "explanation": "Hepatitis A adalah virus, sedangkan E. coli, Salmonella, dan Shigella adalah bakteri sesuai materi.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. E. coli sebagai virus",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Shigella sebagai virus",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Norovirus sebagai bakteri",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hepatitis A sebagai virus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Mengapa konsumsi sayuran mentah dari lahan yang tercemar tinja berisiko menimbulkan infeksi?",
+      "explanation": "Kuman patogen dan telur cacing dari tanah menempel pada sayuran; konsumsi yang tidak dicuci bersih atau kurang matang menyebabkan infeksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Sayuran kehilangan vitamin",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sayuran menjadi terlalu asin",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sayuran mengubah warna",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Patogen dan telur cacing yang menempel ikut tertelan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Lalat dianggap pemindah patogen yang berbahaya terutama karena perilakunya yang?",
+      "explanation": "Lalat hinggap di tempat kotor (tinja) sehingga patogen menempel pada bulu halus kaki dan tubuhnya, lalu berpindah ke makanan.",
+      "difficulty": "EASY",
+      "tag": "Jalur Fekal-Oral (F-diagram)",
+      "options": [
+        {
+          "text": "A. Hanya terbang tinggi di udara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menghindari makanan manusia",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hinggap di tinja lalu hinggap di makanan",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Tidak pernah menyentuh kotoran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penularan airborne (udara) didefinisikan sebagai penularan penyakit melalui?",
+      "explanation": "Airborne adalah penularan penyakit melalui partikel kecil (aerosol) di udara dari penderita saat batuk, bersin, atau berbicara, lalu terhirup orang lain.",
+      "difficulty": "EASY",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Gigitan serangga",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Air minum tercemar",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Partikel kecil di udara yang terhirup orang lain",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sentuhan kulit langsung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perbedaan utama antara droplet dan aerosol dalam penularan airborne adalah?",
+      "explanation": "Droplet (tetesan besar) cepat jatuh dan menular jarak dekat, sedangkan aerosol (partikel sangat kecil) dapat melayang lama di udara.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Droplet melayang lama, aerosol cepat jatuh",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Keduanya tidak dapat menularkan penyakit",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Aerosol hanya muncul di air",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Droplet cepat jatuh (jarak dekat), aerosol dapat melayang lama di udara",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, aerosol pembawa patogen dapat?",
+      "explanation": "Aerosol dapat bertahan lama di udara, menyebar di ruangan tertutup, terbawa aliran udara (ventilasi/AC), dan terhirup orang lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Hanya jatuh langsung ke lantai",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Membeku menjadi es",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Berubah menjadi bakteri tanah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Terbawa aliran udara ventilasi/AC dan menyebar di ruangan tertutup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Fenomena patogen dari debu terkontaminasi yang kembali terbang ke udara disebut?",
+      "explanation": "Materi menyebut resuspension, yaitu patogen kembali terbang dari debu terkontaminasi atau percikan cairan (misalnya saat menyiram toilet).",
+      "difficulty": "HARD",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Fermentasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sublimasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Resuspension",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Kondensasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Faktor sanitasi lingkungan buruk yang menyebabkan patogen terperangkap dan terkonsentrasi di dalam ruangan adalah?",
+      "explanation": "Ventilasi buruk (jendela sedikit/tidak pernah dibuka) menyebabkan patogen terperangkap dan terkonsentrasi di dalam ruangan.",
+      "difficulty": "EASY",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Lantai mengkilap",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dinding bercat terang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Ventilasi buruk",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Pintu yang lebar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa kepadatan hunian meningkatkan risiko penularan airborne?",
+      "explanation": "Rumah yang terlalu padat (banyak orang dalam satu ruangan) membuat patogen lebih mudah terhirup orang lain.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Karena suhu menjadi lebih dingin",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Karena udara menjadi lebih bersih",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Karena cahaya berkurang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Karena patogen lebih mudah terhirup banyak orang",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Kelembaban tinggi di lingkungan berkaitan dengan penularan airborne karena?",
+      "explanation": "Lingkungan dengan kelembaban tinggi menjadi tempat berkembang biak yang baik bagi bakteri dan jamur yang kemudian terbawa udara.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Membunuh semua patogen",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menyaring udara secara alami",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menjadi tempat berkembang biak bakteri dan jamur",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Tidak ada hubungannya dengan penyakit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perilaku higiene buruk yang menyebabkan droplet pembawa kuman tersebar luas adalah?",
+      "explanation": "Tidak menutup mulut dan hidung saat batuk atau bersin menyebabkan droplet pembawa kuman tersebar luas.",
+      "difficulty": "EASY",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Mencuci tangan terlalu sering",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Memakai masker",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak menutup mulut dan hidung saat batuk/bersin",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Membuka jendela",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa membuang dahak sembarangan meningkatkan risiko penularan airborne?",
+      "explanation": "Dahak yang dibuang sembarangan bisa mengering, mengandung bakteri/virus, lalu terbawa debu ke udara.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Dahak menjadi pupuk",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dahak menguap tanpa bekas",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Dahak membersihkan udara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dahak mengering dan terbawa debu ke udara",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Penyakit berikut yang berpotensi tinggi ditularkan melalui kombinasi sanitasi/higiene buruk dan jalur airborne adalah?",
+      "explanation": "Materi menyebut ISPA, Tuberkulosis (TB Paru), Influenza, dan COVID-19 sebagai dampak kesehatan jalur airborne.",
+      "difficulty": "EASY",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Skabies",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Skistosomiasis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tuberkulosis (TB Paru)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Teknologi yang disarankan materi untuk memutus rantai penularan airborne di ruangan tertutup adalah?",
+      "explanation": "Materi menyarankan penggunaan air purifier dengan HEPA filter di ruangan tertutup.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Lampu hias",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pemanas ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Air purifier dengan HEPA filter",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Pengeras suara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sesuai materi, etika batuk dan bersin yang benar untuk mencegah penularan airborne adalah?",
+      "explanation": "Menggunakan masker atau menutup mulut dengan siku bagian dalam atau tisu saat batuk/bersin.",
+      "difficulty": "EASY",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Membiarkan mulut terbuka",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Membuang dahak ke lantai",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menutup mulut dengan siku bagian dalam atau tisu",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Menutup semua ventilasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa meningkatkan ventilasi disarankan untuk mencegah penularan airborne?",
+      "explanation": "Membuka jendela dan pintu secara teratur memberikan sirkulasi udara alami sehingga patogen tidak terkonsentrasi di dalam ruangan.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Agar suhu ruangan naik",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Agar lebih banyak debu masuk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Agar ruangan lebih gelap",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Agar sirkulasi udara alami mengurangi konsentrasi patogen",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Kuman penyebab penyakit airborne keluar dari penderita terutama saat?",
+      "explanation": "Kuman keluar dari penderita saat batuk, bersin, berbicara, atau bernapas, lalu terbawa droplet atau aerosol.",
+      "difficulty": "EASY",
+      "tag": "Jalur Udara (Airborne)",
+      "options": [
+        {
+          "text": "A. Tidur tanpa bersuara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hanya saat makan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Saat mencuci tangan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Batuk, bersin, berbicara, atau bernapas",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Jalur vektor (vector-borne) didefinisikan sebagai jalur penularan penyakit melalui?",
+      "explanation": "Jalur vektor adalah penularan penyakit melalui organisme hidup perantara (vektor) yang membawa agen infeksi dari sumber ke manusia.",
+      "difficulty": "EASY",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Udara murni",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sinar matahari",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Organisme hidup perantara (vektor)",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Air hujan saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Vektor nyamuk menurut materi dapat menularkan penyakit berikut, KECUALI?",
+      "explanation": "Nyamuk menularkan DBD, Malaria, dan Zika. Pes ditularkan oleh kutu, bukan nyamuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. DBD",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pes",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Zika",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lalat dan kecoak sebagai vektor terutama dikaitkan dengan penularan penyakit?",
+      "explanation": "Materi menyebut lalat dan kecoak sebagai vektor penyebab diare.",
+      "difficulty": "EASY",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "B. TB Paru",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Diare",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Skistosomiasis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kutu (lice, fleas, tick) sebagai vektor dapat menularkan penyakit?",
+      "explanation": "Materi menyebut kutu menyebabkan gatal-infeksi kulit, Pes, dan Lyme disease.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Influenza dan COVID-19",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kolera dan tifoid",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hepatitis A dan B",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pes dan Lyme disease",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Kondisi sanitasi lingkungan buruk yang menjadi tempat perkembangbiakan vektor menurut materi adalah?",
+      "explanation": "Sampah menumpuk, air tergenang, dan drainase mampet menjadi tempat perkembangbiakan vektor penyakit.",
+      "difficulty": "EASY",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Lingkungan kering dan bersih",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Ruangan ber-AC",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Sampah menumpuk, air tergenang, drainase mampet",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Halaman beraspal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit Zika menurut materi ditularkan oleh vektor jenis?",
+      "explanation": "Materi menyebut nyamuk sebagai vektor DBD, Malaria, dan Zika.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Lalat",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kecoak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Nyamuk",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Kutu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Air tergenang sangat berperan dalam jalur vektor terutama karena menjadi?",
+      "explanation": "Air tergenang menjadi tempat perkembangbiakan vektor, khususnya nyamuk penyebab DBD/Malaria/Zika.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Sumber air minum bersih",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tempat perkembangbiakan nyamuk",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sumber listrik",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tempat tumbuh sayuran",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pengelolaan sampah dengan tempat sampah tertutup rapat menurut materi bertujuan menghindari?",
+      "explanation": "Tempat sampah tertutup rapat menghindari lalat dan kecoa yang merupakan vektor penyakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Burung dan kupu-kupu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Cacing tanah bermanfaat",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lalat dan kecoa",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Lebah madu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa drainase yang mampet berbahaya dari sisi penularan vektor?",
+      "explanation": "Drainase mampet menyebabkan air tergenang yang menjadi tempat perkembangbiakan vektor penyakit.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Membuat lingkungan terlalu kering",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menyebabkan genangan air sebagai sarang vektor",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Membersihkan air secara alami",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidak berdampak pada vektor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Vektor disebut sebagai 'hewan perantara' karena perannya?",
+      "explanation": "Vektor adalah organisme hidup perantara yang membawa agen infeksi dari sumber ke manusia.",
+      "difficulty": "EASY",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Membunuh semua kuman",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Menyaring udara",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membawa agen infeksi dari sumber ke manusia",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Membersihkan air",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit DBD (demam berdarah) menurut materi termasuk yang ditularkan melalui vektor?",
+      "explanation": "DBD ditularkan oleh nyamuk, dan dalam klasifikasi air juga termasuk water-related disease (vektor berkembang biak di air).",
+      "difficulty": "EASY",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Kutu",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kecoak",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Nyamuk",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Cacing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Untuk mengendalikan vektor lalat dan kecoak, tindakan sanitasi yang paling tepat adalah?",
+      "explanation": "Pengelolaan sampah dengan tempat sampah tertutup rapat menghindari lalat dan kecoa sesuai materi pencegahan.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Membiarkan sampah terbuka",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mengelola sampah dengan tempat tertutup rapat",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Menggenangi halaman dengan air",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menumpuk sisa makanan di dapur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit Lyme disease menurut materi termasuk yang ditularkan oleh vektor jenis?",
+      "explanation": "Materi menyebut kutu (lice, fleas, tick) menularkan gatal-infeksi kulit, Pes, dan Lyme disease.",
+      "difficulty": "HARD",
+      "tag": "Jalur Vektor (Vector-borne)",
+      "options": [
+        {
+          "text": "A. Nyamuk",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kutu",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Lalat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kecoak",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Berapa klasifikasi jalur penularan penyakit melalui air menurut materi?",
+      "explanation": "Materi menyebut empat klasifikasi: water-borne, water-washed, water-based, dan water-related disease.",
+      "difficulty": "EASY",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Dua klasifikasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tiga klasifikasi",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Empat klasifikasi",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Lima klasifikasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit yang disebabkan oleh konsumsi air yang terkontaminasi termasuk klasifikasi?",
+      "explanation": "Water-borne disease disebabkan oleh konsumsi air yang terkontaminasi, contohnya kolera, disentri, dan tifoid.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Water-washed disease",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Water-based disease",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Water-borne disease",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Water-related disease",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Contoh penyakit water-borne disease menurut materi adalah?",
+      "explanation": "Water-borne disease contohnya penyakit diare (kolera, disentri), hepatitis infeksius, tifoid, dan cacing guinea.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Trakoma dan skabies",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kolera, disentri, tifoid",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Skistosomiasis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Malaria dan filariasis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit yang timbul akibat kurangnya ketersediaan air bersih untuk higiene pribadi disebut?",
+      "explanation": "Water-washed disease muncul karena kurangnya air bersih untuk higiene pribadi seperti mencuci tangan dan mandi.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Water-borne disease",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Water-based disease",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Water-washed disease",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Water-related disease",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Contoh penyakit mata yang termasuk water-washed disease menurut materi adalah?",
+      "explanation": "Water-washed disease meliputi penyakit mata seperti trakoma, serta penyakit kulit seperti skabies dan kutu.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Katarak",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Trakoma",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Glaukoma",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Miopia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit yang disebabkan oleh parasit yang hidup pada organisme perantara di air disebut?",
+      "explanation": "Water-based disease disebabkan oleh parasit yang hidup pada organisme perantara di air, contohnya skistosomiasis.",
+      "difficulty": "HARD",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Water-borne disease",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Water-washed disease",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Water-based disease",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Water-related disease",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Contoh utama penyakit water-based disease menurut materi adalah?",
+      "explanation": "Water-based disease contohnya skistosomiasis dan infeksi cacing lainnya.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Kolera",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Trakoma",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Skistosomiasis",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Influenza",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit yang disebabkan oleh vektor serangga yang berkembang biak di air termasuk klasifikasi?",
+      "explanation": "Water-related disease disebabkan oleh vektor serangga yang berkembang biak di air, contohnya malaria dan demam berdarah.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Water-borne disease",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Water-related disease",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Water-washed disease",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Water-based disease",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Contoh penyakit water-related disease menurut tabel materi adalah?",
+      "explanation": "Water-related disease contohnya malaria, demam berdarah, filariasis, onchocerciasis, dan demam kuning.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Skabies",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tifoid",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Skistosomiasis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Malaria dan demam berdarah",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Perbedaan mendasar antara water-borne dan water-washed disease adalah?",
+      "explanation": "Water-borne ditularkan melalui air minum yang tercemar, sedangkan water-washed muncul karena kurangnya air bersih untuk kebersihan diri.",
+      "difficulty": "HARD",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Keduanya disebabkan gigitan nyamuk",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Water-borne dari air minum tercemar, water-washed dari kurang air bersih untuk higiene",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Water-washed dari air minum, water-borne dari kurang air",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Keduanya tidak berkaitan dengan air",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada water-washed disease, kuman berkembang biak pada kulit atau mata lalu menular melalui?",
+      "explanation": "Kuman berkembang biak pada kulit/mata akibat jarang dibersihkan, lalu menular melalui kontak langsung atau alat rumah tangga (handuk/pakaian).",
+      "difficulty": "HARD",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Gigitan nyamuk",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Udara terbuka",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Air minum saja",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kontak langsung atau alat rumah tangga seperti handuk/pakaian",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Impetigo, kudis (skabies), kutu kepala, dan kurap termasuk contoh penyakit?",
+      "explanation": "Materi mengkategorikan infeksi kulit seperti impetigo, skabies, kutu, dan kurap sebagai water-washed disease.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Water-borne disease",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Water-washed disease",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Water-based disease",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Water-related disease",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Konjungtivitis (mata merah) menurut materi termasuk dalam kategori penyakit?",
+      "explanation": "Konjungtivitis disebut sebagai contoh penyakit mata dalam kategori water-washed disease.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Water-based disease",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Water-washed disease",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Water-related disease",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Water-borne disease",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sumber penularan water-borne disease menurut materi adalah?",
+      "explanation": "Water-borne disebabkan air minum atau air bersih yang tercemar kotoran manusia atau limbah domestik yang mengandung bakteri/parasit.",
+      "difficulty": "EASY",
+      "tag": "Jalur Air (Waterborne)",
+      "options": [
+        {
+          "text": "A. Air yang sudah dimasak",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Udara lembab",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tanah kering",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Air minum/bersih yang tercemar kotoran manusia atau limbah domestik",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Jalur penularan foodborne (makanan) berawal dari tahap?",
+      "explanation": "Rantai foodborne dimulai dari sumber kontaminasi (manusia sakit, bahan mentah, air tercemar, lingkungan kotor, vektor).",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Konsumsi oleh manusia",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Pertumbuhan mikroorganisme",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Terjadinya penyakit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sumber kontaminasi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Dalam rantai kontaminasi makanan, perpindahan mikroba dari alat, tangan, atau bahan mentah ke makanan matang disebut?",
+      "explanation": "Tahap ini disebut kontaminasi silang, yaitu dari alat, tangan, permukaan, atau bahan mentah ke makanan matang.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Kontaminasi awal",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kontaminasi silang",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Penyimpanan tidak aman",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Pertumbuhan mikroba",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Urutan yang benar setelah tahap 'Pengolahan Tidak Higienis' dalam rantai foodborne adalah?",
+      "explanation": "Setelah pengolahan tidak higienis, rantai berlanjut ke penyimpanan tidak aman (suhu ruang terlalu lama, tidak tertutup).",
+      "difficulty": "HARD",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Sumber kontaminasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kontaminasi awal",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Konsumsi oleh manusia",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penyimpanan tidak aman",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Tahap 'Penyimpanan Tidak Aman' dalam rantai foodborne ditandai dengan?",
+      "explanation": "Penyimpanan tidak aman ditandai makanan disimpan pada suhu ruang terlalu lama dan tidak tertutup.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Makanan langsung dimasak ulang",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Makanan disimpan pada suhu ruang terlalu lama dan tidak tertutup",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Makanan dibekukan rapat",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Makanan langsung dibuang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada tabel foodborne, tangan penjamah makanan yang kotor dapat menularkan penyakit?",
+      "explanation": "Tangan penjamah yang tidak dicuci setelah dari toilet/sebelum mengolah makanan dapat menularkan Hepatitis A dan diare.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hepatitis A dan diare",
+          "isCorrect": true
+        },
+        {
+          "text": "C. TB Paru",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Skabies",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut tabel foodborne, peralatan masak/makan yang tidak dicuci dengan benar dapat mencemari makanan dengan?",
+      "explanation": "Peralatan tidak bersih menyebabkan kuman menempel lalu mencemari makanan, contohnya Salmonella dan E. coli.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Salmonella dan E. coli",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Virus influenza",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Parasit malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Kutu kepala",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penggunaan air tidak bersih untuk mencuci/memasak menurut tabel foodborne dapat menularkan?",
+      "explanation": "Air tercemar yang digunakan untuk mencuci/memasak dapat menularkan tifoid dan kolera.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Tifoid dan kolera",
+          "isCorrect": true
+        },
+        {
+          "text": "B. DBD dan malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lyme disease",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Konjungtivitis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut tabel foodborne, penyimpanan makanan terbuka pada suhu tidak sesuai dapat memicu pertumbuhan mikroba seperti?",
+      "explanation": "Penyimpanan tidak higienis memicu pertumbuhan mikroba seperti Bacillus cereus dan Clostridium.",
+      "difficulty": "HARD",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Bacillus cereus dan Clostridium",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Plasmodium",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mycobacterium tuberculosis",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Virus Zika",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Kontaminasi silang dalam tabel foodborne terjadi ketika?",
+      "explanation": "Kontaminasi silang terjadi ketika bahan mentah bercampur dengan makanan matang sehingga mikroba berpindah ke makanan siap konsumsi.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Makanan dibekukan terlalu lama",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Bahan mentah bercampur dengan makanan matang",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Makanan dipanaskan ulang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Air mendidih digunakan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lingkungan dapur/area pengolahan yang kotor menurut tabel foodborne dapat menyebabkan?",
+      "explanation": "Lingkungan kotor membuat debu, kotoran, dan mikroba mencemari makanan, menyebabkan diare dan infeksi saluran cerna.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Diare dan infeksi saluran cerna",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penyakit mata trakoma",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Lyme disease",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Malaria",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tahap akhir dari rantai penularan foodborne menurut materi adalah?",
+      "explanation": "Rantai foodborne berakhir pada terjadinya penyakit foodborne (diare, keracunan makanan, infeksi) setelah dikonsumsi manusia.",
+      "difficulty": "EASY",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Sumber kontaminasi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kontaminasi silang",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Terjadinya penyakit foodborne",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Penyimpanan tidak aman",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Mengapa penjamah makanan wajib mencuci tangan setelah dari toilet sebelum mengolah makanan?",
+      "explanation": "Karena mikroorganisme dari tangan dapat berpindah ke makanan dan menularkan penyakit seperti Hepatitis A dan diare.",
+      "difficulty": "MEDIUM",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Agar tangan terlihat rapi",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Agar mikroorganisme tidak berpindah ke makanan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Agar makanan lebih cepat matang",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Agar makanan lebih awet warna",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam rantai foodborne, tahap 'Pertumbuhan Mikroorganisme' berarti?",
+      "explanation": "Pada tahap ini bakteri berkembang biak dan/atau menghasilkan toksin pada makanan yang terkontaminasi.",
+      "difficulty": "HARD",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Bakteri berkembang biak dan/atau menghasilkan toksin",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Bakteri mati seketika",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Makanan menjadi steril",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Toksin terurai sendiri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sumber kontaminasi awal makanan menurut materi dapat berasal dari?",
+      "explanation": "Sumber kontaminasi meliputi manusia sakit, bahan mentah, air tercemar, lingkungan kotor, dan vektor.",
+      "difficulty": "EASY",
+      "tag": "Jalur Makanan (Foodborne)",
+      "options": [
+        {
+          "text": "A. Manusia sakit, bahan mentah, air tercemar, lingkungan kotor, vektor",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Hanya bahan kemasan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Hanya suhu lemari es",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya cahaya matahari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penularan melalui kontak langsung didefinisikan sebagai?",
+      "explanation": "Kontak langsung adalah penularan penyakit melalui kontak fisik langsung antara orang terinfeksi dengan orang sehat tanpa perantara.",
+      "difficulty": "EASY",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Penularan melalui perantara benda",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kontak fisik langsung tanpa perantara antara orang terinfeksi dan sehat",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Penularan melalui udara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Penularan melalui gigitan nyamuk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pada kontak langsung melalui sentuhan kulit, penyakit yang dapat menular menurut materi adalah?",
+      "explanation": "Tidak menjaga kebersihan tubuh menyebabkan mikroorganisme berpindah melalui sentuhan kulit, contohnya skabies dan infeksi kulit.",
+      "difficulty": "MEDIUM",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Skabies dan infeksi kulit",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kolera",
+          "isCorrect": false
+        },
+        {
+          "text": "D. TB Paru",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penularan melalui cairan tubuh (kontak langsung) menurut materi dapat menyebabkan?",
+      "explanation": "Paparan darah, nanah, atau cairan tubuh terinfeksi (tidak menggunakan APD/luka terbuka) dapat menularkan Hepatitis B dan HIV.",
+      "difficulty": "MEDIUM",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Hepatitis B dan HIV",
+          "isCorrect": true
+        },
+        {
+          "text": "B. DBD dan malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Trakoma",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Diare ringan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penularan melalui cairan tubuh berisiko terjadi terutama saat?",
+      "explanation": "Risiko muncul saat tidak menggunakan APD atau terdapat luka terbuka sehingga terpapar darah, nanah, atau cairan tubuh terinfeksi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Memakai APD lengkap",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tidak menggunakan APD atau ada luka terbuka",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Mencuci tangan rutin",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memakai sarung tangan steril",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penularan melalui kontak tidak langsung terjadi melalui?",
+      "explanation": "Kontak tidak langsung adalah penularan melalui perantara benda atau lingkungan yang terkontaminasi (fomite), tanpa kontak langsung dengan penderita.",
+      "difficulty": "EASY",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Perantara benda/lingkungan terkontaminasi (fomite)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sentuhan kulit langsung",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Gigitan kutu",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Konsumsi air minum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Istilah 'fomite' dalam kontak tidak langsung merujuk pada?",
+      "explanation": "Fomite adalah benda yang terkontaminasi kuman seperti meja, gagang pintu, alat kerja, alat makan, handuk, atau APD.",
+      "difficulty": "HARD",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Jenis nyamuk",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Benda terkontaminasi yang menjadi perantara penularan",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Bakteri penyebab diare",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Cairan tubuh penderita",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Penyakit yang dapat ditularkan melalui benda (fomite) pada kontak tidak langsung menurut materi adalah?",
+      "explanation": "Penularan melalui fomite dapat menyebabkan diare, infeksi kulit, dan konjungtivitis.",
+      "difficulty": "MEDIUM",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Malaria dan DBD",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Diare, infeksi kulit, konjungtivitis",
+          "isCorrect": true
+        },
+        {
+          "text": "C. TB Paru dan influenza",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Skistosomiasis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Contoh perilaku yang menyebabkan kontak tidak langsung menurut materi adalah?",
+      "explanation": "Menyentuh benda terkontaminasi (meja, gagang pintu, alat kerja) atau menggunakan alat bersama (alat makan, handuk, APD).",
+      "difficulty": "EASY",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Menyentuh gagang pintu dan menggunakan handuk bersama",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Memakai masker sendiri",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Minum air kemasan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Tidur sendirian",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Perbedaan utama kontak langsung dan kontak tidak langsung adalah?",
+      "explanation": "Kontak langsung melibatkan kontak fisik langsung tanpa perantara, sedangkan kontak tidak langsung melibatkan perantara benda/lingkungan (fomite).",
+      "difficulty": "MEDIUM",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Keduanya selalu melalui udara",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Kontak langsung tanpa perantara, kontak tidak langsung melalui benda perantara",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Kontak langsung melalui benda, tidak langsung tanpa perantara",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Keduanya hanya melalui air",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sumber higiene sanitasi buruk pada kontak langsung melalui kulit menurut materi adalah?",
+      "explanation": "Tidak menjaga kebersihan tubuh (jarang mandi, tangan kotor) menyebabkan mikroorganisme berpindah melalui sentuhan kulit.",
+      "difficulty": "EASY",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Jarang mandi dan tangan kotor",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mandi dua kali sehari",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mencuci tangan dengan sabun",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengganti pakaian bersih",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menggunakan alat makan atau handuk bersama berisiko menularkan penyakit karena tergolong penularan?",
+      "explanation": "Penggunaan alat bersama termasuk kontak tidak langsung melalui benda (fomite) yang terkontaminasi.",
+      "difficulty": "MEDIUM",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Kontak tidak langsung (fomite)",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Airborne",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Vector-borne",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Water-related",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Skabies menurut materi dapat ditularkan melalui kontak langsung berupa?",
+      "explanation": "Skabies ditularkan melalui sentuhan kulit langsung akibat tidak menjaga kebersihan tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Kontak Langsung & Tidak Langsung",
+      "options": [
+        {
+          "text": "A. Sentuhan kulit langsung",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Gigitan nyamuk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Air minum tercemar",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Udara di ruang tertutup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Tujuan utama pencegahan penularan penyakit akibat higiene dan sanitasi buruk adalah?",
+      "explanation": "Upaya pencegahan bertujuan memutus rantai penularan kuman, bakteri, dan virus.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Memutus rantai penularan kuman, bakteri, dan virus",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menambah jumlah vektor",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Mengurangi konsumsi air",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Memperbanyak penggunaan alat bersama",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menurut materi, cara paling efektif untuk mencegah penyakit dalam peningkatan personal hygiene adalah?",
+      "explanation": "Mencuci Tangan Pakai Sabun (CTPS) disebut sebagai cara paling efektif untuk mencegah penyakit.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Menyiram halaman",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Mencuci Tangan Pakai Sabun (CTPS)",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Membuka jendela",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menggunakan masker saja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Waktu yang dianjurkan untuk mencuci tangan pakai sabun menurut materi adalah?",
+      "explanation": "Biasakan cuci tangan sebelum makan, setelah dari toilet, dan setelah beraktivitas di tempat kotor.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Hanya saat bangun tidur",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sebelum makan, setelah toilet, setelah beraktivitas di tempat kotor",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Hanya sekali sehari",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Hanya saat tangan terlihat kotor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Anjuran mandi dan ganti pakaian dalam personal hygiene menurut materi adalah?",
+      "explanation": "Mandi dua kali sehari, memotong kuku, dan mengganti pakaian bersih terutama jika pakaian kotor atau basah.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Mandi dua kali sehari dan memotong kuku",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mandi seminggu sekali",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Tidak perlu mengganti pakaian",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membiarkan kuku panjang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Menghindari menyentuh wajah dalam personal hygiene bertujuan agar?",
+      "explanation": "Tidak menyentuh mata, hidung, atau mulut sebelum mencuci tangan agar kuman tidak masuk ke tubuh.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Kuman tidak masuk ke tubuh melalui mata, hidung, atau mulut",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Wajah tetap kering",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Kulit wajah lebih cerah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi keringat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam peningkatan sanitasi lingkungan, pengelolaan sampah yang dianjurkan materi adalah?",
+      "explanation": "Memisahkan sampah organik dan anorganik serta menggunakan tempat sampah tertutup rapat untuk menghindari lalat dan kecoa.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Memisahkan sampah organik/anorganik dan tempat sampah tertutup rapat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menumpuk semua sampah di halaman",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Membakar sampah di dalam rumah",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membiarkan sampah terbuka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Anjuran sanitasi kamar mandi/toilet menurut materi adalah?",
+      "explanation": "Membersihkan toilet secara rutin (minimal sebulan sekali) dan menggunakan jamban sehat agar tidak menjadi sarang penyakit seperti diare dan cacingan.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Membersihkan toilet rutin dan menggunakan jamban sehat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Tidak perlu membersihkan toilet",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menggunakan sungai untuk BAB",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membiarkan toilet terbuka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Membersihkan selokan dan saluran air secara berkala dianjurkan agar?",
+      "explanation": "Selokan dibersihkan berkala agar tidak tersumbat dan tidak menjadi sarang nyamuk.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Air mengalir deras ke rumah",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Tidak tersumbat dan tidak menjadi sarang nyamuk",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Selokan menjadi tempat ikan",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menambah genangan air",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Desinfeksi permukaan menurut materi sebaiknya dilakukan pada benda?",
+      "explanation": "Rutin membersihkan permukaan yang sering disentuh seperti meja, gagang pintu, dan sakelar lampu.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Meja, gagang pintu, dan sakelar lampu",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Atap rumah",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Pohon di halaman",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Langit-langit ruangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Salah satu komponen Perilaku Hidup Bersih dan Sehat (PHBS) menurut materi adalah?",
+      "explanation": "PHBS meliputi pendidikan kesehatan, menggunakan jamban sehat, dan mengolah makanan dengan aman.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Menggunakan jamban sehat dan tidak BAB di sungai/kebun",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Membuang sampah ke selokan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menggunakan alat makan bersama",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Menyimpan makanan terbuka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dalam PHBS, mengolah makanan dengan aman bertujuan mencegah penyakit?",
+      "explanation": "Menjaga kebersihan bahan makanan dan alat masak mencegah penyakit bawaan makanan seperti tipus.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Penyakit bawaan makanan seperti tipus",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Penyakit mata trakoma",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Malaria",
+          "isCorrect": false
+        },
+        {
+          "text": "D. TB Paru",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pencegahan penularan airborne melalui sanitasi dasar menurut materi mencakup?",
+      "explanation": "Menjaga kebersihan lingkungan rumah dan menerapkan jaga jarak di ruangan padat termasuk sanitasi dasar untuk mencegah airborne.",
+      "difficulty": "MEDIUM",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Menjaga kebersihan lingkungan rumah dan jaga jarak di ruangan padat",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Menumpuk barang di ruangan",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menutup semua ventilasi",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Mengurangi cuci tangan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pendidikan kesehatan dalam PHBS menurut materi bertujuan untuk?",
+      "explanation": "Pendidikan kesehatan bertujuan meningkatkan kesadaran masyarakat mengenai pentingnya kebersihan diri dan lingkungan.",
+      "difficulty": "EASY",
+      "tag": "Pencegahan Penularan",
+      "options": [
+        {
+          "text": "A. Meningkatkan kesadaran kebersihan diri dan lingkungan",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Mengurangi jumlah penduduk",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Menambah jumlah penyakit",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Membatasi akses air bersih",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Apa pemicu utama meningkatnya risiko penyakit menular melalui berbagai jalur?",
+      "back": "Higiene dan sanitasi yang buruk.",
+      "tag": "Konsep Higiene Sanitasi Buruk"
+    },
+    {
+      "front": "Apa jalur penularan utama akibat higiene sanitasi buruk?",
+      "back": "Jalur Fekal-Oral (F-diagram).",
+      "tag": "Konsep Higiene Sanitasi Buruk"
+    },
+    {
+      "front": "Sebutkan empat F dalam F-diagram!",
+      "back": "Fluids (cairan/air), Fields (tanah/lahan), Flies (lalat/serangga), Fingers (jari/tangan).",
+      "tag": "Konsep Higiene Sanitasi Buruk"
+    },
+    {
+      "front": "Apa saja jalur penularan lain selain jalur utama?",
+      "back": "Airborne, vector-borne, foodborne, waterborne, serta kontak langsung dan tidak langsung.",
+      "tag": "Konsep Higiene Sanitasi Buruk"
+    },
+    {
+      "front": "Apa definisi jalur Fekal-Oral?",
+      "back": "Jalur di mana kuman dari feses terinfeksi masuk ke tubuh orang lain melalui mulut.",
+      "tag": "Jalur Fekal-Oral (F-diagram)"
+    },
+    {
+      "front": "Sebutkan patogen jalur Fekal-Oral!",
+      "back": "Bakteri E. coli, Salmonella (tipes), Shigella; virus Norovirus dan Hepatitis A.",
+      "tag": "Jalur Fekal-Oral (F-diagram)"
+    },
+    {
+      "front": "Apa tiga mekanisme lalat memindahkan patogen ke makanan?",
+      "back": "Kontaminasi tubuh/kaki, regurgitasi (memuntahkan cairan pencernaan), dan defekasi di atas makanan.",
+      "tag": "Jalur Fekal-Oral (F-diagram)"
+    },
+    {
+      "front": "Bagaimana cacing tambang dari tanah menginfeksi manusia?",
+      "back": "Larva infektif menembus kulit kaki yang tidak beralas lalu masuk ke aliran darah.",
+      "tag": "Jalur Fekal-Oral (F-diagram)"
+    },
+    {
+      "front": "Apa definisi penularan airborne?",
+      "back": "Penularan melalui partikel kecil (aerosol) di udara dari penderita saat batuk/bersin/bicara, lalu terhirup orang lain.",
+      "tag": "Jalur Udara (Airborne)"
+    },
+    {
+      "front": "Apa perbedaan droplet dan aerosol?",
+      "back": "Droplet (tetesan besar) cepat jatuh, penularan jarak dekat; aerosol (partikel sangat kecil) melayang lama di udara.",
+      "tag": "Jalur Udara (Airborne)"
+    },
+    {
+      "front": "Sebutkan penyakit dampak jalur airborne!",
+      "back": "ISPA, Tuberkulosis (TB Paru), Influenza, dan COVID-19.",
+      "tag": "Jalur Udara (Airborne)"
+    },
+    {
+      "front": "Faktor sanitasi/higiene apa yang memperparah airborne?",
+      "back": "Ventilasi buruk, kepadatan hunian, kelembaban tinggi, dan etika batuk yang buruk.",
+      "tag": "Jalur Udara (Airborne)"
+    },
+    {
+      "front": "Apa definisi jalur vektor (vector-borne)?",
+      "back": "Penularan penyakit melalui organisme hidup perantara (vektor) yang membawa agen infeksi ke manusia.",
+      "tag": "Jalur Vektor (Vector-borne)"
+    },
+    {
+      "front": "Penyakit apa yang ditularkan nyamuk?",
+      "back": "DBD, Malaria, dan Zika.",
+      "tag": "Jalur Vektor (Vector-borne)"
+    },
+    {
+      "front": "Penyakit apa yang ditularkan kutu (lice, fleas, tick)?",
+      "back": "Gatal-infeksi kulit, Pes, dan Lyme disease.",
+      "tag": "Jalur Vektor (Vector-borne)"
+    },
+    {
+      "front": "Kondisi sanitasi apa yang menjadi sarang vektor?",
+      "back": "Sampah menumpuk, air tergenang, dan drainase mampet.",
+      "tag": "Jalur Vektor (Vector-borne)"
+    },
+    {
+      "front": "Sebutkan empat klasifikasi jalur penularan melalui air!",
+      "back": "Water-borne, water-washed, water-based, dan water-related disease.",
+      "tag": "Jalur Air (Waterborne)"
+    },
+    {
+      "front": "Apa itu water-borne disease dan contohnya?",
+      "back": "Penyakit dari konsumsi air tercemar; contoh kolera, disentri, tifoid, hepatitis infeksius.",
+      "tag": "Jalur Air (Waterborne)"
+    },
+    {
+      "front": "Apa itu water-washed disease dan contohnya?",
+      "back": "Penyakit karena kurang air bersih untuk higiene; contoh trakoma, skabies, kutu.",
+      "tag": "Jalur Air (Waterborne)"
+    },
+    {
+      "front": "Apa itu water-based dan water-related disease?",
+      "back": "Water-based dari parasit di organisme perantara air (skistosomiasis); water-related dari vektor yang berkembang di air (malaria, DBD).",
+      "tag": "Jalur Air (Waterborne)"
+    },
+    {
+      "front": "Sebutkan urutan rantai kontaminasi foodborne!",
+      "back": "Sumber kontaminasi → kontaminasi awal → silang → pengolahan tidak higienis → penyimpanan tidak aman → pertumbuhan mikroba → makanan terkontaminasi → konsumsi → penyakit.",
+      "tag": "Jalur Makanan (Foodborne)"
+    },
+    {
+      "front": "Apa itu kontaminasi silang pada makanan?",
+      "back": "Perpindahan mikroba dari alat, tangan, permukaan, atau bahan mentah ke makanan matang.",
+      "tag": "Jalur Makanan (Foodborne)"
+    },
+    {
+      "front": "Penyakit apa dari tangan penjamah kotor dan air tercemar?",
+      "back": "Tangan kotor: Hepatitis A dan diare; air tercemar: tifoid dan kolera.",
+      "tag": "Jalur Makanan (Foodborne)"
+    },
+    {
+      "front": "Apa definisi kontak langsung dan contoh penyakitnya?",
+      "back": "Kontak fisik langsung tanpa perantara; sentuhan kulit → skabies, cairan tubuh → Hepatitis B/HIV.",
+      "tag": "Kontak Langsung & Tidak Langsung"
+    },
+    {
+      "front": "Apa itu kontak tidak langsung (fomite)?",
+      "back": "Penularan melalui benda/lingkungan terkontaminasi (meja, gagang pintu, handuk bersama); contoh diare, konjungtivitis.",
+      "tag": "Kontak Langsung & Tidak Langsung"
+    },
+    {
+      "front": "Apa tiga pilar pencegahan penularan?",
+      "back": "Personal hygiene (CTPS, mandi, etika batuk), sanitasi lingkungan (kelola sampah, air bersih, jamban sehat), dan PHBS.",
+      "tag": "Pencegahan Penularan"
+    },
+    {
+      "front": "Apa cara paling efektif mencegah penyakit menurut materi?",
+      "back": "Mencuci Tangan Pakai Sabun (CTPS).",
+      "tag": "Pencegahan Penularan"
+    }
+  ],
+  "mindmap": [
+    {
+      "id": "root",
+      "label": "Jalur Penularan Penyakit",
+      "color": "#f59e0b",
+      "parent": null,
+      "content": "Higiene dan sanitasi buruk meningkatkan risiko penyakit menular melalui berbagai jalur pajanan."
+    },
+    {
+      "id": "konsep",
+      "label": "Konsep Higiene Sanitasi Buruk",
+      "color": "#fbbf24",
+      "parent": "root",
+      "content": "Jalur utama Fekal-Oral plus jalur lain: airborne, vektor, foodborne, waterborne, kontak."
+    },
+    {
+      "id": "konsep-fdiagram",
+      "label": "F-diagram (4F)",
+      "color": "#fcd34d",
+      "parent": "konsep",
+      "content": "Fluids, Fields, Flies, Fingers sebagai empat media perpindahan kuman dari feses ke mulut."
+    },
+    {
+      "id": "konsep-tujuan",
+      "label": "Tujuan",
+      "color": "#fcd34d",
+      "parent": "konsep",
+      "content": "Memahami jalur penularan untuk memutus rantai penularan kuman, bakteri, dan virus."
+    },
+    {
+      "id": "konsep-kombinasi",
+      "label": "Pencegahan Kombinasi",
+      "color": "#fcd34d",
+      "parent": "konsep",
+      "content": "Pencegahan butuh kombinasi personal hygiene dan perbaikan sanitasi lingkungan."
+    },
+    {
+      "id": "fekal",
+      "label": "Jalur Fekal-Oral",
+      "color": "#fbbf24",
+      "parent": "root",
+      "content": "Kuman dari feses terinfeksi masuk ke tubuh orang lain melalui mulut."
+    },
+    {
+      "id": "fekal-patogen",
+      "label": "Patogen",
+      "color": "#fcd34d",
+      "parent": "fekal",
+      "content": "Bakteri E. coli, Salmonella (tipes), Shigella; virus Norovirus dan Hepatitis A."
+    },
+    {
+      "id": "fekal-fingers",
+      "label": "Fingers (Tangan)",
+      "color": "#fcd34d",
+      "parent": "fekal",
+      "content": "Tangan tidak dicuci sabun setelah BAB memindahkan kuman ke makanan/permukaan."
+    },
+    {
+      "id": "fekal-flies",
+      "label": "Flies (Lalat)",
+      "color": "#fcd34d",
+      "parent": "fekal",
+      "content": "Lalat memindahkan patogen via kontaminasi kaki/tubuh, regurgitasi, dan defekasi."
+    },
+    {
+      "id": "fekal-fields",
+      "label": "Fields (Tanah)",
+      "color": "#fcd34d",
+      "parent": "fekal",
+      "content": "BAB sembarangan mencemari tanah; larva cacing tambang menembus kulit kaki tanpa alas."
+    },
+    {
+      "id": "fekal-fluids",
+      "label": "Fluids (Air)",
+      "color": "#fcd34d",
+      "parent": "fekal",
+      "content": "Air minum/bersih tercemar kotoran manusia atau limbah domestik."
+    },
+    {
+      "id": "airborne",
+      "label": "Jalur Udara (Airborne)",
+      "color": "#fbbf24",
+      "parent": "root",
+      "content": "Penularan via partikel kecil/aerosol di udara dari batuk, bersin, atau bicara."
+    },
+    {
+      "id": "airborne-droplet",
+      "label": "Droplet vs Aerosol",
+      "color": "#fcd34d",
+      "parent": "airborne",
+      "content": "Droplet cepat jatuh (jarak dekat); aerosol melayang lama dan menyebar di ruang tertutup."
+    },
+    {
+      "id": "airborne-sanitasi",
+      "label": "Faktor Lingkungan",
+      "color": "#fcd34d",
+      "parent": "airborne",
+      "content": "Ventilasi buruk, kepadatan hunian, dan kelembaban tinggi memperparah penularan."
+    },
+    {
+      "id": "airborne-penyakit",
+      "label": "Penyakit",
+      "color": "#fcd34d",
+      "parent": "airborne",
+      "content": "ISPA, Tuberkulosis (TB Paru), Influenza, dan COVID-19."
+    },
+    {
+      "id": "airborne-cegah",
+      "label": "Pencegahan",
+      "color": "#fcd34d",
+      "parent": "airborne",
+      "content": "Masker, etika batuk, ventilasi baik, dan air purifier HEPA filter."
+    },
+    {
+      "id": "vektor",
+      "label": "Jalur Vektor",
+      "color": "#fbbf24",
+      "parent": "root",
+      "content": "Penularan via organisme hidup perantara yang membawa agen infeksi ke manusia."
+    },
+    {
+      "id": "vektor-nyamuk",
+      "label": "Nyamuk",
+      "color": "#fcd34d",
+      "parent": "vektor",
+      "content": "Menularkan DBD, Malaria, dan Zika."
+    },
+    {
+      "id": "vektor-lalat",
+      "label": "Lalat & Kecoak",
+      "color": "#fcd34d",
+      "parent": "vektor",
+      "content": "Menularkan diare."
+    },
+    {
+      "id": "vektor-kutu",
+      "label": "Kutu",
+      "color": "#fcd34d",
+      "parent": "vektor",
+      "content": "Lice, fleas, tick menularkan gatal-infeksi kulit, Pes, dan Lyme disease."
+    },
+    {
+      "id": "vektor-sanitasi",
+      "label": "Sarang Vektor",
+      "color": "#fcd34d",
+      "parent": "vektor",
+      "content": "Sampah menumpuk, air tergenang, dan drainase mampet jadi tempat berkembang biak."
+    },
+    {
+      "id": "waterborne",
+      "label": "Jalur Air (Waterborne)",
+      "color": "#fbbf24",
+      "parent": "root",
+      "content": "Empat klasifikasi penularan melalui air."
+    },
+    {
+      "id": "water-borne",
+      "label": "Water-borne",
+      "color": "#fcd34d",
+      "parent": "waterborne",
+      "content": "Konsumsi air tercemar: kolera, disentri, tifoid, hepatitis infeksius."
+    },
+    {
+      "id": "water-washed",
+      "label": "Water-washed",
+      "color": "#fcd34d",
+      "parent": "waterborne",
+      "content": "Kurang air bersih untuk higiene: trakoma, skabies, konjungtivitis, impetigo."
+    },
+    {
+      "id": "water-based",
+      "label": "Water-based",
+      "color": "#fcd34d",
+      "parent": "waterborne",
+      "content": "Parasit pada organisme perantara di air: skistosomiasis dan infeksi cacing."
+    },
+    {
+      "id": "water-related",
+      "label": "Water-related",
+      "color": "#fcd34d",
+      "parent": "waterborne",
+      "content": "Vektor serangga berkembang di air: malaria, demam berdarah, filariasis."
+    },
+    {
+      "id": "foodborne",
+      "label": "Jalur Makanan (Foodborne)",
+      "color": "#fbbf24",
+      "parent": "root",
+      "content": "Penularan penyakit melalui rantai kontaminasi makanan."
+    },
+    {
+      "id": "food-rantai",
+      "label": "Rantai Kontaminasi",
+      "color": "#fcd34d",
+      "parent": "foodborne",
+      "content": "Sumber → kontaminasi awal → silang → pengolahan tidak higienis → penyimpanan → pertumbuhan mikroba → konsumsi → penyakit."
+    },
+    {
+      "id": "food-silang",
+      "label": "Kontaminasi Silang",
+      "color": "#fcd34d",
+      "parent": "foodborne",
+      "content": "Mikroba berpindah dari bahan mentah/alat/tangan ke makanan matang."
+    },
+    {
+      "id": "food-sumber",
+      "label": "Sumber Buruk",
+      "color": "#fcd34d",
+      "parent": "foodborne",
+      "content": "Tangan penjamah kotor, alat tidak bersih, air tercemar, penyimpanan dan lingkungan kotor."
+    },
+    {
+      "id": "food-penyakit",
+      "label": "Penyakit",
+      "color": "#fcd34d",
+      "parent": "foodborne",
+      "content": "Hepatitis A, diare, Salmonella, E. coli, tifoid, kolera, keracunan makanan."
+    },
+    {
+      "id": "kontak",
+      "label": "Kontak Langsung & Tidak Langsung",
+      "color": "#fbbf24",
+      "parent": "root",
+      "content": "Penularan via kontak fisik langsung atau melalui benda perantara."
+    },
+    {
+      "id": "kontak-langsung",
+      "label": "Kontak Langsung",
+      "color": "#fcd34d",
+      "parent": "kontak",
+      "content": "Kontak fisik tanpa perantara; sentuhan kulit → skabies, cairan tubuh → Hepatitis B/HIV."
+    },
+    {
+      "id": "kontak-tidak",
+      "label": "Kontak Tidak Langsung",
+      "color": "#fcd34d",
+      "parent": "kontak",
+      "content": "Via fomite (benda terkontaminasi) seperti gagang pintu, handuk, alat bersama."
+    },
+    {
+      "id": "kontak-penyakit",
+      "label": "Penyakit Fomite",
+      "color": "#fcd34d",
+      "parent": "kontak",
+      "content": "Diare, infeksi kulit, dan konjungtivitis."
+    },
+    {
+      "id": "cegah",
+      "label": "Pencegahan Penularan",
+      "color": "#fbbf24",
+      "parent": "root",
+      "content": "Memutus rantai penularan via kebersihan diri dan lingkungan."
+    },
+    {
+      "id": "cegah-personal",
+      "label": "Personal Hygiene",
+      "color": "#fcd34d",
+      "parent": "cegah",
+      "content": "CTPS (paling efektif), mandi 2x sehari, etika batuk, hindari menyentuh wajah."
+    },
+    {
+      "id": "cegah-sanitasi",
+      "label": "Sanitasi Lingkungan",
+      "color": "#fcd34d",
+      "parent": "cegah",
+      "content": "Kelola sampah, jaga air bersih, jamban sehat, bersihkan selokan, desinfeksi permukaan."
+    },
+    {
+      "id": "cegah-phbs",
+      "label": "PHBS",
+      "color": "#fcd34d",
+      "parent": "cegah",
+      "content": "Pendidikan kesehatan, gunakan jamban sehat, dan olah makanan dengan aman."
+    }
+  ]
+}
