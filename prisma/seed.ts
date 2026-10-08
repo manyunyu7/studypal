@@ -9,12 +9,13 @@ const prisma = new PrismaClient();
 type ContentOption = { text: string; isCorrect: boolean };
 type ContentQuestion = {
   text: string;
+  imageUrl?: string;
   explanation?: string;
   difficulty?: Difficulty;
   tag?: string;
   options: ContentOption[];
 };
-type ContentFlashcard = { front: string; back: string; tag?: string };
+type ContentFlashcard = { front: string; back: string; imageUrl?: string; tag?: string };
 type ContentMindmapNode = {
   id: string;
   label: string;
@@ -191,6 +192,7 @@ async function main() {
         data: {
           topicId: topic.id,
           text: q.text,
+          imageUrl: q.imageUrl,
           explanation: q.explanation,
           difficulty: q.difficulty ?? "MEDIUM",
           tag: q.tag,
@@ -209,7 +211,7 @@ async function main() {
     let fcOrder = 0;
     for (const fc of data.flashcards) {
       await prisma.flashcard.create({
-        data: { topicId: topic.id, front: fc.front, back: fc.back, order: fcOrder++ },
+        data: { topicId: topic.id, front: fc.front, back: fc.back, imageUrl: fc.imageUrl, order: fcOrder++ },
       });
     }
 

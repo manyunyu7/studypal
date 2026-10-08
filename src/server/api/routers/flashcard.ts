@@ -59,6 +59,7 @@ export const flashcardRouter = createTRPCRouter({
           id: fc.id,
           front: fc.front,
           back: fc.back,
+          imageUrl: fc.imageUrl,
           order: fc.order,
           topicId: fc.topicId,
           createdAt: fc.createdAt,
@@ -120,6 +121,7 @@ export const flashcardRouter = createTRPCRouter({
         topicId: z.number().int(),
         front: z.string().min(1),
         back: z.string().min(1),
+        imageUrl: z.string().optional(),
         order: z.number().int().optional(),
       }),
     )
@@ -129,6 +131,7 @@ export const flashcardRouter = createTRPCRouter({
           topicId: input.topicId,
           front: input.front,
           back: input.back,
+          imageUrl: input.imageUrl,
           order: input.order ?? 0,
         },
       });
@@ -140,6 +143,7 @@ export const flashcardRouter = createTRPCRouter({
         id: z.number().int(),
         front: z.string().min(1),
         back: z.string().min(1),
+        imageUrl: z.string().optional(),
         order: z.number().int().optional(),
       }),
     )
@@ -149,6 +153,7 @@ export const flashcardRouter = createTRPCRouter({
         data: {
           front: input.front,
           back: input.back,
+          imageUrl: input.imageUrl,
           ...(input.order !== undefined ? { order: input.order } : {}),
         },
       });

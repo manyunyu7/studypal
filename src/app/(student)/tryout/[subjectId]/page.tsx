@@ -12,11 +12,12 @@ import { idFromSlug, toSlug } from "~/lib/slug";
 
 const LABELS = ["A", "B", "C", "D", "E", "F"];
 
-type Difficulty = "EASY" | "MEDIUM" | "HARD";
+type Difficulty = "EASY" | "MEDIUM" | "HARD" | "EXPERT";
 
 type SetQuestion = {
   id: number;
   text: string;
+  imageUrl: string | null;
   explanation: string | null;
   difficulty: Difficulty;
   tag: string | null;
@@ -34,11 +35,12 @@ interface PageProps {
   params: Promise<{ subjectId: string }>;
 }
 
-const DIFF_LABEL: Record<Difficulty, string> = { EASY: "Mudah", MEDIUM: "Sedang", HARD: "Sulit" };
+const DIFF_LABEL: Record<Difficulty, string> = { EASY: "Mudah", MEDIUM: "Sedang", HARD: "Sulit", EXPERT: "Super Hard" };
 const DIFF_BADGE: Record<Difficulty, string> = {
   EASY: "bg-emerald-500/15 text-emerald-400 border-emerald-500/25",
   MEDIUM: "bg-amber-500/15 text-amber-400 border-amber-500/25",
   HARD: "bg-rose-500/15 text-rose-400 border-rose-500/25",
+  EXPERT: "bg-fuchsia-500/15 text-fuchsia-400 border-fuchsia-500/25",
 };
 
 export default function TryOutPage({ params }: PageProps) {
@@ -125,7 +127,7 @@ export default function TryOutPage({ params }: PageProps) {
     const lengthOptions = [25, 50, 100, meta.total].filter(
       (v, i, arr) => v <= meta.total && arr.indexOf(v) === i,
     );
-    const diffOptions: (Difficulty | "ALL")[] = ["ALL", "EASY", "MEDIUM", "HARD"];
+    const diffOptions: (Difficulty | "ALL")[] = ["ALL", "EASY", "MEDIUM", "HARD", "EXPERT"];
 
     return (
       <div className="px-4 py-6 max-w-lg mx-auto space-y-6">
@@ -171,7 +173,7 @@ export default function TryOutPage({ params }: PageProps) {
 
         <div className="space-y-2">
           <p className="text-xs font-semibold text-muted-foreground uppercase tracking-wider">Tingkat Kesulitan</p>
-          <div className="grid grid-cols-4 gap-2">
+          <div className="grid grid-cols-5 gap-1.5">
             {diffOptions.map((d) => {
               const count = d === "ALL" ? meta.total : meta.byDifficulty[d];
               return (
@@ -241,6 +243,9 @@ export default function TryOutPage({ params }: PageProps) {
             </span>
           </div>
           <p className="text-base font-medium text-foreground leading-relaxed">{q.text}</p>
+          {q.imageUrl && (
+            <img src={q.imageUrl} alt="" className="mt-3 rounded-lg max-h-64 w-auto object-contain" />
+          )}
         </div>
 
         <div className="space-y-2.5">
@@ -345,6 +350,9 @@ export default function TryOutPage({ params }: PageProps) {
                         <span className="text-muted-foreground mr-2">{qIdx + 1}.</span>
                         {question.text}
                       </p>
+                      {question.imageUrl && (
+                        <img src={question.imageUrl} alt="" className="mt-2 rounded-lg max-h-48 w-auto object-contain" />
+                      )}
                     </div>
                   </div>
                   <div className="space-y-1.5 pl-9">

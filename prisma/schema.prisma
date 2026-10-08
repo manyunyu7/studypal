@@ -22,6 +22,7 @@ enum Difficulty {
     EASY
     MEDIUM
     HARD
+    EXPERT
 }
 
 enum ActivityType {
@@ -163,6 +164,7 @@ model Topic {
 model Question {
     id          Int                @id @default(autoincrement())
     text        String             @db.Text
+    imageUrl    String?            @db.Text
     explanation String?            @db.Text
     difficulty  Difficulty         @default(MEDIUM)
     tag         String?
@@ -217,6 +219,7 @@ model Flashcard {
     id        Int                 @id @default(autoincrement())
     front     String              @db.Text
     back      String              @db.Text
+    imageUrl  String?             @db.Text
     order     Int                 @default(0)
     topicId   Int
     topic     Topic               @relation(fields: [topicId], references: [id])

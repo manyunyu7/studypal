@@ -8,7 +8,7 @@ const optionInputSchema = z.object({
   order: z.number().int().optional(),
 });
 
-const difficultyEnum = z.enum(["EASY", "MEDIUM", "HARD"]);
+const difficultyEnum = z.enum(["EASY", "MEDIUM", "HARD", "EXPERT"]);
 
 /** Fisher–Yates shuffle (returns a new array). */
 function shuffle<T>(arr: T[]): T[] {
@@ -54,7 +54,7 @@ export const questionRouter = createTRPCRouter({
         }),
       ]);
 
-      const byDifficulty = { EASY: 0, MEDIUM: 0, HARD: 0 };
+      const byDifficulty = { EASY: 0, MEDIUM: 0, HARD: 0, EXPERT: 0 };
       const tagMap = new Map<string, number>();
       for (const q of questions) {
         byDifficulty[q.difficulty] = (byDifficulty[q.difficulty] ?? 0) + 1;
@@ -111,6 +111,7 @@ export const questionRouter = createTRPCRouter({
       return picked.map((q) => ({
         id: q.id,
         text: q.text,
+        imageUrl: q.imageUrl,
         explanation: q.explanation,
         difficulty: q.difficulty,
         tag: q.tag,
@@ -136,7 +137,7 @@ export const questionRouter = createTRPCRouter({
         where: { topicId: { in: topicIds } },
         select: { difficulty: true },
       });
-      const byDifficulty = { EASY: 0, MEDIUM: 0, HARD: 0 };
+      const byDifficulty = { EASY: 0, MEDIUM: 0, HARD: 0, EXPERT: 0 };
       for (const q of questions) byDifficulty[q.difficulty]++;
       return {
         subjectName: subject?.name ?? "",
@@ -178,6 +179,7 @@ export const questionRouter = createTRPCRouter({
         .map((q) => ({
           id: q.id,
           text: q.text,
+          imageUrl: q.imageUrl,
           explanation: q.explanation,
           difficulty: q.difficulty,
           tag: q.tag,
@@ -210,6 +212,7 @@ export const questionRouter = createTRPCRouter({
       z.object({
         topicId: z.number().int(),
         text: z.string().min(1),
+        imageUrl: z.string().optional(),
         explanation: z.string().optional(),
         difficulty: difficultyEnum.optional(),
         tag: z.string().optional(),
@@ -222,6 +225,7 @@ export const questionRouter = createTRPCRouter({
           data: {
             topicId: input.topicId,
             text: input.text,
+            imageUrl: input.imageUrl,
             explanation: input.explanation,
             difficulty: input.difficulty ?? "MEDIUM",
             tag: input.tag,
@@ -247,6 +251,7 @@ export const questionRouter = createTRPCRouter({
       z.object({
         id: z.number().int(),
         text: z.string().min(1),
+        imageUrl: z.string().optional(),
         explanation: z.string().optional(),
         difficulty: difficultyEnum.optional(),
         tag: z.string().optional(),
@@ -259,6 +264,7 @@ export const questionRouter = createTRPCRouter({
           where: { id: input.id },
           data: {
             text: input.text,
+            imageUrl: input.imageUrl,
             explanation: input.explanation,
             ...(input.difficulty ? { difficulty: input.difficulty } : {}),
             ...(input.tag !== undefined ? { tag: input.tag } : {}),
@@ -294,6 +300,7 @@ export const questionRouter = createTRPCRouter({
         questions: z.array(
           z.object({
             text: z.string().min(1),
+            imageUrl: z.string().optional(),
             explanation: z.string().optional(),
             difficulty: difficultyEnum.optional(),
             tag: z.string().optional(),
@@ -309,6 +316,7 @@ export const questionRouter = createTRPCRouter({
             data: {
               topicId: input.topicId,
               text: q.text,
+              imageUrl: q.imageUrl,
               explanation: q.explanation,
               difficulty: q.difficulty ?? "MEDIUM",
               tag: q.tag,

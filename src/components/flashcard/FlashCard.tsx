@@ -3,11 +3,12 @@
 interface FlashCardProps {
   front: string;
   back: string;
+  imageUrl?: string | null;
   isFlipped: boolean;
   onClick: () => void;
 }
 
-export function FlashCard({ front, back, isFlipped, onClick }: FlashCardProps) {
+export function FlashCard({ front, back, imageUrl, isFlipped, onClick }: FlashCardProps) {
   return (
     <div
       className="w-full max-w-2xl mx-auto cursor-pointer"
@@ -31,10 +32,13 @@ export function FlashCard({ front, back, isFlipped, onClick }: FlashCardProps) {
           <span className="text-xs font-semibold uppercase tracking-widest text-muted-foreground mb-6">
             Pertanyaan
           </span>
-          <p className="text-foreground text-2xl md:text-3xl font-semibold text-center leading-relaxed">
+          <p className="text-foreground text-xl md:text-2xl font-semibold text-center leading-relaxed">
             {front}
           </p>
-          <span className="mt-8 text-xs text-muted-foreground">
+          {imageUrl && (
+            <img src={imageUrl} alt="" className="mt-4 rounded-lg max-h-36 w-auto object-contain" />
+          )}
+          <span className="mt-6 text-xs text-muted-foreground">
             Ketuk untuk melihat jawaban
           </span>
         </div>

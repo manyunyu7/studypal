@@ -212,6 +212,7 @@ export default function FlashcardPage({ params }: FlashcardPageProps) {
           <FlashCard
             front={currentCard.front}
             back={currentCard.back}
+            imageUrl={currentCard.imageUrl}
             isFlipped={isFlipped}
             onClick={() => setIsFlipped((f) => !f)}
           />
